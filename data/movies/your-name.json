@@ -1,0 +1,27 @@
+{
+  "title": "Your Name",
+  "year": "2015",
+  "rated": "N/A",
+  "released": "04 Jul 2015",
+  "runtime": "22 min",
+  "genre": "Short",
+  "director": "Megumi Shiraishi",
+  "writer": "N/A",
+  "actors": "N/A",
+  "plot": "Ibe Riki and Riko Takeo are preparing for a wedding ceremony.",
+  "language": "N/A",
+  "country": "Japan",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzY1OWZiN2YtMWU3My00M2YyLWI1M2EtNTljMTMwMzM5NDQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.9",
+  "imdbID": "tt6033368",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:27:13.708Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "North by Northwest",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "18 Dec 1959",
+  "runtime": "136 min",
+  "genre": "Adventure, Drama, Mystery",
+  "director": "Alfred Hitchcock",
+  "writer": "Ernest Lehman",
+  "actors": "Cary Grant, Eva Marie Saint, James Mason",
+  "plot": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 9 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWIzODI2OGItMzM0Ny00OGRmLTlkNmItMDQxMTFmMTk3YmQwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "98/100"
+    }
+  ],
+  "metascore": "98",
+  "imdbRating": "8.3",
+  "imdbID": "tt0053125",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:28:05.368Z"
+}

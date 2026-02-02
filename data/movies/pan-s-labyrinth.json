@@ -1,0 +1,35 @@
+{
+  "title": "Pan's Labyrinth",
+  "year": "2006",
+  "rated": "R",
+  "released": "19 Jan 2007",
+  "runtime": "118 min",
+  "genre": "Drama, Fantasy, War",
+  "director": "Guillermo del Toro",
+  "writer": "Guillermo del Toro",
+  "actors": "Ivana Baquero, Ariadna Gil, Sergi López",
+  "plot": "In 1944 Spain, a girl is sent to live with her ruthless stepfather. During the night, she meets a fairy who takes her to an old faun. He tells her she's a princess, but must prove her royalty by surviving three gruesome tasks.",
+  "language": "Spanish",
+  "country": "Mexico, Spain",
+  "awards": "Won 3 Oscars. 109 wins & 115 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTc1NTAxMWItMWFlNy00MmU2LTkwMTMtNzMwOTg5OTQ5YTFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "98/100"
+    }
+  ],
+  "metascore": "98",
+  "imdbRating": "8.2",
+  "imdbID": "tt0457430",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:29:15.114Z"
+}

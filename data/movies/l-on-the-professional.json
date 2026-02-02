@@ -1,0 +1,35 @@
+{
+  "title": "Léon: The Professional",
+  "year": "1994",
+  "rated": "R",
+  "released": "18 Nov 1994",
+  "runtime": "110 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Luc Besson",
+  "writer": "Luc Besson",
+  "actors": "Jean Reno, Gary Oldman, Natalie Portman",
+  "plot": "When her family is murdered by a group of corrupt officers led by the tyrannical Norman Stansfield, a young 12-year-old girl enlists the help of an Italian-American hitman to seek revenge.",
+  "language": "English, Italian, French",
+  "country": "France, United States",
+  "awards": "5 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGRkYTNhOWQtYmI0Ni00MjZhLWJmMzAtMTA2Mjg4NGNiNDU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "8.5",
+  "imdbID": "tt0110413",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:25:51.375Z"
+}

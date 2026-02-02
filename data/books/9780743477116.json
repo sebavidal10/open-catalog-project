@@ -1,0 +1,17 @@
+{
+  "isbn": "9780743477116",
+  "title": "Romeo and Juliet",
+  "authors": [
+    "William Shakespeare"
+  ],
+  "publish_date": "1595",
+  "publisher": [
+    "Simon & Schuster"
+  ],
+  "cover": "https://covers.openlibrary.org/b/id/15124950-L.jpg",
+  "subjects": [
+    "Romance"
+  ],
+  "url": "https://openlibrary.org/books/OL60168618M/Romeo_and_Juliet",
+  "fetched_at": "2026-02-02T16:11:10.368Z"
+}

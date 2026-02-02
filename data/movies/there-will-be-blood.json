@@ -1,0 +1,35 @@
+{
+  "title": "There Will Be Blood",
+  "year": "2007",
+  "rated": "R",
+  "released": "25 Jan 2008",
+  "runtime": "158 min",
+  "genre": "Drama",
+  "director": "Paul Thomas Anderson",
+  "writer": "Paul Thomas Anderson, Upton Sinclair",
+  "actors": "Daniel Day-Lewis, Paul Dano, Ciarán Hinds",
+  "plot": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+  "language": "English, American Sign ",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 114 wins & 138 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "93/100"
+    }
+  ],
+  "metascore": "93",
+  "imdbRating": "8.2",
+  "imdbID": "tt0469494",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:29:04.083Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Black Panther",
+  "year": "2018",
+  "rated": "PG-13",
+  "released": "16 Feb 2018",
+  "runtime": "134 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Ryan Coogler",
+  "writer": "Ryan Coogler, Joe Robert Cole, Stan Lee",
+  "actors": "Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o",
+  "plot": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+  "language": "English, Swahili, Nama, Xhosa, Korean",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 125 wins & 289 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "7.3",
+  "imdbID": "tt1825683",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:31:26.900Z"
+}

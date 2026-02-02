@@ -1,0 +1,35 @@
+{
+  "title": "Singin' in the Rain",
+  "year": "1952",
+  "rated": "G",
+  "released": "10 Apr 1952",
+  "runtime": "103 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Stanley Donen, Gene Kelly",
+  "writer": "Betty Comden, Adolph Green",
+  "actors": "Gene Kelly, Donald O'Connor, Debbie Reynolds",
+  "plot": "A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 11 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGQzZDFjZWUtZDU4ZS00ZjM3LTgyYmItYjA3YmIwYzRkZWY3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "99/100"
+    }
+  ],
+  "metascore": "99",
+  "imdbRating": "8.3",
+  "imdbID": "tt0045152",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:28:03.028Z"
+}

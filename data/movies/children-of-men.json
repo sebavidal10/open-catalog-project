@@ -1,0 +1,35 @@
+{
+  "title": "Children of Men",
+  "year": "2006",
+  "rated": "R",
+  "released": "05 Jan 2007",
+  "runtime": "109 min",
+  "genre": "Drama, Sci-Fi, Thriller",
+  "director": "Alfonso Cuarón",
+  "writer": "Alfonso Cuarón, Timothy J. Sexton, David Arata",
+  "actors": "Juan Gabriel Yacuzzi, Mishal Husain, Rob Curling",
+  "plot": "In 2027, in a chaotic world in which women have somehow become infertile, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea.",
+  "language": "English, German, Italian, Romanian, Spanish, Arabic, Georgian, Hebrew, Sanskrit, Russian, Serbian",
+  "country": "United States, United Kingdom, Japan",
+  "awards": "Nominated for 3 Oscars. 49 wins & 89 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDNkNmNiYzYtYWY0YS00NWEwLTgwMWUtYjM0M2E4Nzk3MzhmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.9",
+  "imdbID": "tt0206634",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:31:38.657Z"
+}

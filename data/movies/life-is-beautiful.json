@@ -1,0 +1,35 @@
+{
+  "title": "Life Is Beautiful",
+  "year": "1997",
+  "rated": "PG-13",
+  "released": "20 Dec 1997",
+  "runtime": "116 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Roberto Benigni",
+  "writer": "Vincenzo Cerami, Roberto Benigni",
+  "actors": "Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini",
+  "plot": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.",
+  "language": "Italian, German, English",
+  "country": "Italy",
+  "awards": "Won 3 Oscars. 72 wins & 52 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTBhOGYzZjQtYzE0Mi00MGIwLWE0MWYtNzMxNTM2OTFkM2NjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "8.6",
+  "imdbID": "tt0118799",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:25:34.918Z"
+}

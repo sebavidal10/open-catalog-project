@@ -1,0 +1,35 @@
+{
+  "title": "Chinatown",
+  "year": "1974",
+  "rated": "R",
+  "released": "20 Jun 1974",
+  "runtime": "130 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "Roman Polanski",
+  "writer": "Robert Towne, Roman Polanski",
+  "actors": "Jack Nicholson, Faye Dunaway, John Huston",
+  "plot": "A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.",
+  "language": "English, Cantonese, Spanish",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 21 wins & 24 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmRmZTE0NmUtZjhiZi00MzQ3LTk3ZjctN2Q3ODYzY2U3MDk3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "metascore": "92",
+  "imdbRating": "8.1",
+  "imdbID": "tt0071315",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:29:24.491Z"
+}

@@ -1,0 +1,36 @@
+{
+  "isbn": "9780441013593",
+  "title": "Dune",
+  "authors": [
+    "Frank Herbert"
+  ],
+  "publish_date": "2005",
+  "publisher": [
+    "Ace Books"
+  ],
+  "pages": 528,
+  "cover": "https://covers.openlibrary.org/b/id/14856017-L.jpg",
+  "subjects": [
+    "Dune (Imaginary place)",
+    "Fiction",
+    "Fiction, science fiction, general",
+    "Dune (imaginary place), fiction",
+    "New York Times reviewed",
+    "Science fiction",
+    "Science-fiction",
+    "American literature",
+    "nyt:mass-market-monthly=2021-11-07",
+    "New York Times bestseller",
+    "award:nebula_award=novel",
+    "nyt:trade-fiction-paperback=2021-11-07",
+    "Hugo Award Winner",
+    "award:hugo_award=1966",
+    "award:hugo_award=novel",
+    "American Science fiction",
+    "Long Now Manual for Civilization",
+    "Ecology",
+    "Fantasy fiction"
+  ],
+  "url": "https://openlibrary.org/books/OL17952222M/Dune",
+  "fetched_at": "2026-02-02T16:24:12.738Z"
+}

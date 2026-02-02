@@ -1,0 +1,35 @@
+{
+  "title": "The Silence of the Lambs",
+  "year": "1991",
+  "rated": "R",
+  "released": "14 Feb 1991",
+  "runtime": "118 min",
+  "genre": "Crime, Drama, Horror",
+  "director": "Jonathan Demme",
+  "writer": "Thomas Harris, Ted Tally",
+  "actors": "Jodie Foster, Anthony Hopkins, Scott Glenn",
+  "plot": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+  "language": "English, Latin",
+  "country": "United States",
+  "awards": "Won 5 Oscars. 71 wins & 50 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "8.6",
+  "imdbID": "tt0102926",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:25:30.179Z"
+}

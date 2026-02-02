@@ -1,0 +1,35 @@
+{
+  "title": "Shutter Island",
+  "year": "2010",
+  "rated": "R",
+  "released": "19 Feb 2010",
+  "runtime": "138 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "Martin Scorsese",
+  "writer": "Laeta Kalogridis, Dennis Lehane",
+  "actors": "Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo",
+  "plot": "Two US marshals are sent to a mental institution on an inhospitable island in order to investigate the disappearance of a patient.",
+  "language": "English, German",
+  "country": "Canada, United States",
+  "awards": "11 wins & 66 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "8.2",
+  "imdbID": "tt1130884",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:29:29.178Z"
+}

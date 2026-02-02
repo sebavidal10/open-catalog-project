@@ -1,0 +1,35 @@
+{
+  "title": "Blade Runner 2049",
+  "year": "2017",
+  "rated": "R",
+  "released": "06 Oct 2017",
+  "runtime": "164 min",
+  "genre": "Action, Drama, Mystery",
+  "director": "Denis Villeneuve",
+  "writer": "Hampton Fancher, Michael Green, Philip K. Dick",
+  "actors": "Harrison Ford, Ryan Gosling, Ana de Armas",
+  "plot": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+  "language": "English",
+  "country": "United States, Canada, Spain",
+  "awards": "Won 2 Oscars. 100 wins & 164 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "8.0",
+  "imdbID": "tt1856101",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:30:35.111Z"
+}

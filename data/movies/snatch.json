@@ -1,0 +1,35 @@
+{
+  "title": "Snatch",
+  "year": "2000",
+  "rated": "R",
+  "released": "19 Jan 2001",
+  "runtime": "102 min",
+  "genre": "Comedy, Crime",
+  "director": "Guy Ritchie",
+  "writer": "Guy Ritchie",
+  "actors": "Jason Statham, Brad Pitt, Stephen Graham",
+  "plot": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+  "language": "English, Russian",
+  "country": "United Kingdom, United States",
+  "awards": "4 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzk5NjJkMTQtN2IyNC00YWM5LTlhZmMtNGI3MWNhMTU1YTc4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "8.2",
+  "imdbID": "tt0208092",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:28:38.217Z"
+}

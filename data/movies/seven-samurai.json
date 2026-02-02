@@ -1,0 +1,35 @@
+{
+  "title": "Seven Samurai",
+  "year": "1954",
+  "rated": "Not Rated",
+  "released": "19 Nov 1956",
+  "runtime": "207 min",
+  "genre": "Action, Drama",
+  "director": "Akira Kurosawa",
+  "writer": "Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni",
+  "actors": "Toshirô Mifune, Takashi Shimura, Keiko Tsushima",
+  "plot": "Farmers from a village exploited by bandits hire a veteran samurai for protection, and he gathers six other samurai to join him.",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "Nominated for 2 Oscars. 5 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjliMWExOTMtZDQ3ZS00NWU3LWIyN2EtMjllNzk3ZTNlYzg4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "98/100"
+    }
+  ],
+  "metascore": "98",
+  "imdbRating": "8.6",
+  "imdbID": "tt0047478",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:25:25.502Z"
+}

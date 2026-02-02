@@ -1,0 +1,35 @@
+{
+  "title": "L.A. Confidential",
+  "year": "1997",
+  "rated": "R",
+  "released": "19 Sep 1997",
+  "runtime": "138 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Curtis Hanson",
+  "writer": "James Ellroy, Brian Helgeland, Curtis Hanson",
+  "actors": "Kevin Spacey, Russell Crowe, Guy Pearce",
+  "plot": "As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 91 wins & 86 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODdiMjY1OGYtNDk0NC00NGQ1LWI4MDItOTJhMTM0YjE1YTAzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "metascore": "91",
+  "imdbRating": "8.2",
+  "imdbID": "tt0119488",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:28:49.951Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Gone with the Wind",
+  "year": "1939",
+  "rated": "G",
+  "released": "17 Jan 1940",
+  "runtime": "238 min",
+  "genre": "Drama, Romance, War",
+  "director": "Victor Fleming",
+  "writer": "Margaret Mitchell, Sidney Howard, Oliver H.P. Garrett",
+  "actors": "Clark Gable, Vivien Leigh, Thomas Mitchell",
+  "plot": "A sheltered and manipulative Southern belle and a roguish profiteer face off in a turbulent romance as the society around them crumbles with the end of slavery and is rebuilt during the Civil War and Reconstruction periods.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 8 Oscars. 26 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmYxZTE3YzMtYmE2Yy00NmFlLTkzYTAtYTAzN2IzNDFkN2E0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "97/100"
+    }
+  ],
+  "metascore": "97",
+  "imdbRating": "8.2",
+  "imdbID": "tt0031381",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:29:52.691Z"
+}

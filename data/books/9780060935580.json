@@ -1,0 +1,31 @@
+{
+  "isbn": "9780060935580",
+  "title": "The Music of the Primes",
+  "authors": [
+    "Marcus du Sautoy"
+  ],
+  "publish_date": "April 27, 2004",
+  "publisher": [
+    "Harper Perennial"
+  ],
+  "pages": 335,
+  "cover": "https://covers.openlibrary.org/b/id/41266-L.jpg",
+  "subjects": [
+    "Prime Numbers",
+    "Number theory",
+    "Riemannsche Vermutung",
+    "Primzahl",
+    "Forschung",
+    "Storia",
+    "Teoria",
+    "Numeri primi",
+    "Mathematics",
+    "Numbers, prime",
+    "Mathematics, philosophy",
+    "Mathematical analysis",
+    "Priemgetallen",
+    "Nombres premiers"
+  ],
+  "url": "https://openlibrary.org/books/OL7285273M/The_Music_of_the_Primes",
+  "fetched_at": "2026-02-02T16:20:14.450Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Lord of the Rings: The Return of the King",
+  "year": "2003",
+  "rated": "PG-13",
+  "released": "17 Dec 2003",
+  "runtime": "201 min",
+  "genre": "Adventure, Drama, Fantasy",
+  "director": "Peter Jackson",
+  "writer": "J.R.R. Tolkien, Fran Walsh, Philippa Boyens",
+  "actors": "Elijah Wood, Viggo Mortensen, Ian McKellen",
+  "plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+  "language": "English, Quenya, Old English, Sindarin",
+  "country": "New Zealand, United States",
+  "awards": "Won 11 Oscars. 215 wins & 124 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "9.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "9.0",
+  "imdbID": "tt0167260",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:24:57.267Z"
+}

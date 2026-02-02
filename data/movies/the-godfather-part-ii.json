@@ -1,0 +1,35 @@
+{
+  "title": "The Godfather Part II",
+  "year": "1974",
+  "rated": "R",
+  "released": "18 Dec 1974",
+  "runtime": "202 min",
+  "genre": "Crime, Drama",
+  "director": "Francis Ford Coppola",
+  "writer": "Francis Ford Coppola, Mario Puzo",
+  "actors": "Al Pacino, Robert De Niro, Robert Duvall",
+  "plot": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+  "language": "English, Italian, Spanish, Latin, Sicilian",
+  "country": "United States",
+  "awards": "Won 6 Oscars. 17 wins & 21 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "9.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "9.0",
+  "imdbID": "tt0071562",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:24:50.208Z"
+}

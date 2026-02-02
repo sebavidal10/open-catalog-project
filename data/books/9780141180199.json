@@ -1,0 +1,29 @@
+{
+  "isbn": "9780141180199",
+  "title": "A Russian journal",
+  "authors": [
+    "John Steinbeck"
+  ],
+  "publish_date": "1999",
+  "publisher": [
+    "Penguin Books"
+  ],
+  "pages": 212,
+  "cover": "https://covers.openlibrary.org/b/id/107638-L.jpg",
+  "subjects": [
+    "Description and travel",
+    "Social conditions",
+    "Travel",
+    "American Authors",
+    "Biography",
+    "Biography & Autobiography",
+    "History",
+    "Nonfiction",
+    "Condiciones sociales",
+    "Soviet union, description and travel",
+    "Steinbeck, john, 1902-1968",
+    "Soviet union, social conditions, 1945-1991"
+  ],
+  "url": "https://openlibrary.org/books/OL39762M/A_Russian_journal",
+  "fetched_at": "2026-02-02T16:18:09.349Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Big Fish",
+  "year": "2003",
+  "rated": "PG-13",
+  "released": "09 Jan 2004",
+  "runtime": "125 min",
+  "genre": "Adventure, Drama, Fantasy",
+  "director": "Tim Burton",
+  "writer": "Daniel Wallace, John August",
+  "actors": "Ewan McGregor, Albert Finney, Billy Crudup",
+  "plot": "A frustrated son tries to determine the fact from fiction in his dying father's life.",
+  "language": "English, Cantonese",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 69 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTVlNjc4ZmItMDZjYy00YWZjLTg1OWEtOTNlZjJlN2FlMjEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "8.0",
+  "imdbID": "tt0319061",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:30:16.272Z"
+}

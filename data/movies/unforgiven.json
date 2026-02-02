@@ -1,0 +1,35 @@
+{
+  "title": "Unforgiven",
+  "year": "1992",
+  "rated": "R",
+  "released": "07 Aug 1992",
+  "runtime": "130 min",
+  "genre": "Drama, Western",
+  "director": "Clint Eastwood",
+  "writer": "David Webb Peoples",
+  "actors": "Clint Eastwood, Gene Hackman, Morgan Freeman",
+  "plot": "Retired Old West gunslinger Will Munny reluctantly takes on one last job to avenge an injustice with the help of his old partner and a young would-be gunman calling himself \"The Schofield Kid\".",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 4 Oscars. 52 wins & 47 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmZmMzM3YWMtZjg5Yi00M2MxLTg3ZGItNGU4YjQxNDAxM2Q4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "8.2",
+  "imdbID": "tt0105695",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:29:01.737Z"
+}

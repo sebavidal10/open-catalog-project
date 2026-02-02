@@ -1,0 +1,35 @@
+{
+  "title": "Aliens",
+  "year": "1986",
+  "rated": "R",
+  "released": "18 Jul 1986",
+  "runtime": "137 min",
+  "genre": "Action, Adventure, Horror",
+  "director": "James Cameron",
+  "writer": "James Cameron, David Giler, Walter Hill",
+  "actors": "Sigourney Weaver, Michael Biehn, Carrie Henn",
+  "plot": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring.",
+  "language": "English, Spanish",
+  "country": "United Kingdom, United States",
+  "awards": "Won 2 Oscars. 20 wins & 25 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjIyNGJhYzYtN2I1My00OTVhLWEyMzItZTVjNDMzOTVkYWViXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "8.4",
+  "imdbID": "tt0090605",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:27:20.746Z"
+}

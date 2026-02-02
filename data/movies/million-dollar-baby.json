@@ -1,0 +1,35 @@
+{
+  "title": "Million Dollar Baby",
+  "year": "2004",
+  "rated": "PG-13",
+  "released": "28 Jan 2005",
+  "runtime": "132 min",
+  "genre": "Drama, Sport",
+  "director": "Clint Eastwood",
+  "writer": "Paul Haggis, F.X. Toole",
+  "actors": "Hilary Swank, Clint Eastwood, Morgan Freeman",
+  "plot": "Frankie, an ill-tempered old coach, reluctantly agrees to train aspiring boxer Maggie. Impressed with her determination and talent, he helps her become the best and the two soon form a close bond.",
+  "language": "English, Irish Gaelic, German",
+  "country": "United States",
+  "awards": "Won 4 Oscars. 68 wins & 86 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "8.1",
+  "imdbID": "tt0405159",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:30:18.617Z"
+}

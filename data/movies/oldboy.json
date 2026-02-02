@@ -1,0 +1,35 @@
+{
+  "title": "Oldboy",
+  "year": "2003",
+  "rated": "R",
+  "released": "21 Nov 2003",
+  "runtime": "120 min",
+  "genre": "Action, Drama, Mystery",
+  "director": "Park Chan-wook",
+  "writer": "Garon Tsuchiya, Nobuaki Minegishi, Park Chan-wook",
+  "actors": "Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong",
+  "plot": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must track down his captor in five days.",
+  "language": "Korean",
+  "country": "South Korea",
+  "awards": "46 wins & 28 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAwNzNjYWItZmI0Ni00ZTcyLWIwNWMtZjlmNGMxZTEyYTJmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "8.3",
+  "imdbID": "tt0364569",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:27:09.026Z"
+}

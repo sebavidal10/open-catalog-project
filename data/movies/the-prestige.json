@@ -1,0 +1,35 @@
+{
+  "title": "The Prestige",
+  "year": "2006",
+  "rated": "PG-13",
+  "released": "20 Oct 2006",
+  "runtime": "130 min",
+  "genre": "Drama, Mystery, Sci-Fi",
+  "director": "Christopher Nolan",
+  "writer": "Jonathan Nolan, Christopher Nolan, Christopher Priest",
+  "actors": "Christian Bale, Hugh Jackman, Scarlett Johansson",
+  "plot": "Rival 19th-century magicians engage in a bitter battle for trade secrets.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 2 Oscars. 6 wins & 44 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM3MzQ5MjQ5OF5BMl5BanBnXkFtZTcwMTQ3NzMzMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "8.5",
+  "imdbID": "tt0482571",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:26:29.037Z"
+}

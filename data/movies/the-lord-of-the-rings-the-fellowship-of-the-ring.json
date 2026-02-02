@@ -1,0 +1,35 @@
+{
+  "title": "The Lord of the Rings: The Fellowship of the Ring",
+  "year": "2001",
+  "rated": "PG-13",
+  "released": "19 Dec 2001",
+  "runtime": "178 min",
+  "genre": "Adventure, Drama, Fantasy",
+  "director": "Peter Jackson",
+  "writer": "J.R.R. Tolkien, Fran Walsh, Philippa Boyens",
+  "actors": "Elijah Wood, Ian McKellen, Orlando Bloom",
+  "plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+  "language": "English, Sindarin",
+  "country": "New Zealand, United States, United Kingdom",
+  "awards": "Won 4 Oscars. 126 wins & 127 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "metascore": "92",
+  "imdbRating": "8.9",
+  "imdbID": "tt0120737",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:25:04.349Z"
+}

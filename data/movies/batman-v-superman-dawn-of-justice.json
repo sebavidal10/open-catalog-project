@@ -1,0 +1,35 @@
+{
+  "title": "Batman v Superman: Dawn of Justice",
+  "year": "2016",
+  "rated": "R",
+  "released": "25 Mar 2016",
+  "runtime": "151 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Zack Snyder",
+  "writer": "Bob Kane, Bill Finger, Jerry Siegel",
+  "actors": "Ben Affleck, Henry Cavill, Amy Adams",
+  "plot": "Batman is manipulated by Lex Luthor to fear Superman. Superman´s existence is meanwhile dividing the world and he is framed for murder during an international crisis. The heroes clash and force the neutral Wonder Woman to reemerge.",
+  "language": "English",
+  "country": "United States, Morocco",
+  "awards": "14 wins & 33 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTJkYjdmYjYtOGMyNC00ZGU1LThkY2ItYTc1OTVlMmE2YWY1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "28%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "44/100"
+    }
+  ],
+  "metascore": "44",
+  "imdbRating": "6.4",
+  "imdbID": "tt2975590",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:31:12.811Z"
+}

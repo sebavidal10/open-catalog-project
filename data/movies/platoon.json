@@ -1,0 +1,35 @@
+{
+  "title": "Platoon",
+  "year": "1986",
+  "rated": "R",
+  "released": "19 Dec 1986",
+  "runtime": "120 min",
+  "genre": "Drama, War",
+  "director": "Oliver Stone",
+  "writer": "Oliver Stone",
+  "actors": "Charlie Sheen, Tom Berenger, Willem Dafoe",
+  "plot": "Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.",
+  "language": "English, Vietnamese",
+  "country": "United States, United Kingdom",
+  "awards": "Won 4 Oscars. 24 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjE4YjllODAtZGMxZS00Mjg2LThkOWUtZjNkMjQ5YThiNDU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "metascore": "92",
+  "imdbRating": "8.1",
+  "imdbID": "tt0091763",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:30:46.886Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Catch Me If You Can",
+  "year": "2002",
+  "rated": "PG-13",
+  "released": "25 Dec 2002",
+  "runtime": "141 min",
+  "genre": "Biography, Crime, Drama",
+  "director": "Steven Spielberg",
+  "writer": "Frank Abagnale Jr., Stan Redding, Jeff Nathanson",
+  "actors": "Leonardo DiCaprio, Tom Hanks, Christopher Walken",
+  "plot": "Barely 17 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.",
+  "language": "English, French",
+  "country": "United States, Canada",
+  "awards": "Nominated for 2 Oscars. 16 wins & 46 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "8.1",
+  "imdbID": "tt0264464",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:30:32.762Z"
+}

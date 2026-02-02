@@ -1,0 +1,35 @@
+{
+  "title": "The Shawshank Redemption",
+  "year": "1994",
+  "rated": "R",
+  "released": "14 Oct 1994",
+  "runtime": "142 min",
+  "genre": "Drama",
+  "director": "Frank Darabont",
+  "writer": "Stephen King, Frank Darabont",
+  "actors": "Tim Robbins, Morgan Freeman, Bob Gunton",
+  "plot": "A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 7 Oscars. 21 wins & 42 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "9.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "9.3",
+  "imdbID": "tt0111161",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:24:43.151Z"
+}

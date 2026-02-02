@@ -1,0 +1,35 @@
+{
+  "title": "Forrest Gump",
+  "year": "1994",
+  "rated": "PG-13",
+  "released": "06 Jul 1994",
+  "runtime": "142 min",
+  "genre": "Drama, Romance",
+  "director": "Robert Zemeckis",
+  "writer": "Winston Groom, Eric Roth",
+  "actors": "Tom Hanks, Robin Wright, Gary Sinise",
+  "plot": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 6 Oscars. 51 wins & 74 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "8.8",
+  "imdbID": "tt0109830",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:25:09.040Z"
+}

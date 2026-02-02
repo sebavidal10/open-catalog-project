@@ -1,0 +1,35 @@
+{
+  "title": "Once Upon a Time in the West",
+  "year": "1968",
+  "rated": "PG-13",
+  "released": "04 Jul 1969",
+  "runtime": "166 min",
+  "genre": "Drama, Western",
+  "director": "Sergio Leone",
+  "writer": "Sergio Donati, Sergio Leone, Dario Argento",
+  "actors": "Henry Fonda, Charles Bronson, Claudia Cardinale",
+  "plot": "A mysterious stranger with a harmonica teams up with a notorious desperado to protect a beautiful widow and her land from a ruthless assassin in the employ of a railroad tycoon.",
+  "language": "English, Spanish, Italian",
+  "country": "Italy, United States",
+  "awards": "6 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjYyNGY1MDEtN2I1MC00MGVhLTljZTYtODQ1NzQ0ODc2NzZlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "8.5",
+  "imdbID": "tt0064116",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:26:33.751Z"
+}

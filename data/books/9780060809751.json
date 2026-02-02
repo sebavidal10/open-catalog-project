@@ -1,0 +1,51 @@
+{
+  "isbn": "9780060809751",
+  "title": "Sounder",
+  "authors": [
+    "William H. Armstrong"
+  ],
+  "publish_date": "May 1989",
+  "publisher": [
+    "Harpercollins Childrens Books"
+  ],
+  "cover": "https://covers.openlibrary.org/b/id/36627-L.jpg",
+  "subjects": [
+    "Children: Grades 4-6",
+    "Dogs",
+    "Poverty",
+    "Juvenile fiction",
+    "African Americans",
+    "Family life",
+    "Fiction",
+    "Dogs in fiction",
+    "Family life in fiction",
+    "African Americans in fiction",
+    "Poverty in fiction",
+    "Newbery Medal",
+    "Family",
+    "Noirs américains",
+    "Families",
+    "Pauvreté",
+    "Romans, nouvelles",
+    "Afro-Americans",
+    "Children's stories",
+    "Children's fiction",
+    "Dogs, fiction",
+    "Poverty, fiction",
+    "African americans, fiction",
+    "Georgia, fiction",
+    "Family life, fiction",
+    "Large type books",
+    "Reading (Elementary)",
+    "Computer-assisted instruction",
+    "award:Newbery_award",
+    "lexile:890",
+    "lexile_range:801-900",
+    "age:min:9",
+    "age:max:12",
+    "grade:min:3",
+    "grade:max:7"
+  ],
+  "url": "https://openlibrary.org/books/OL7282237M/Sounder",
+  "fetched_at": "2026-02-02T16:21:21.823Z"
+}

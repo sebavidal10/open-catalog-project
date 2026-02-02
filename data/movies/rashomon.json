@@ -1,0 +1,35 @@
+{
+  "title": "Rashomon",
+  "year": "1950",
+  "rated": "Not Rated",
+  "released": "26 Dec 1951",
+  "runtime": "88 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Akira Kurosawa",
+  "writer": "Ryûnosuke Akutagawa, Akira Kurosawa, Shinobu Hashimoto",
+  "actors": "Toshirô Mifune, Machiko Kyô, Masayuki Mori",
+  "plot": "Three parties and a witness have four versions of a rape/murder in ninth-century Japan.",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "Nominated for 1 Oscar. 9 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDlkYjViMDAtYjkxNy00ZDk1LWE5MmUtNDc4NDU3ZWJmOTYzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "98/100"
+    }
+  ],
+  "metascore": "98",
+  "imdbRating": "8.1",
+  "imdbID": "tt0042876",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:28:56.991Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Intouchables",
+  "year": "2011",
+  "rated": "R",
+  "released": "02 Nov 2011",
+  "runtime": "112 min",
+  "genre": "Comedy, Drama",
+  "director": "Olivier Nakache, Éric Toledano",
+  "writer": "Olivier Nakache, Éric Toledano, Philippe Pozzo di Borgo",
+  "actors": "François Cluzet, Omar Sy, Anne Le Ny",
+  "plot": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+  "language": "French, English",
+  "country": "France",
+  "awards": "Nominated for 1 BAFTA Award38 wins & 40 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "metascore": "57",
+  "imdbRating": "8.5",
+  "imdbID": "tt1675434",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:26:26.688Z"
+}

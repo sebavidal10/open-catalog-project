@@ -1,0 +1,35 @@
+{
+  "title": "Avengers: Endgame",
+  "year": "2019",
+  "rated": "PG-13",
+  "released": "26 Apr 2019",
+  "runtime": "181 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Anthony Russo, Joe Russo",
+  "writer": "Christopher Markus, Stephen McFeely, Stan Lee",
+  "actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo",
+  "plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+  "language": "English, Japanese, Xhosa, German",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 70 wins & 132 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "8.4",
+  "imdbID": "tt4154796",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:27:25.455Z"
+}

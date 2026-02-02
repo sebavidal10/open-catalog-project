@@ -1,0 +1,35 @@
+{
+  "title": "The Revenant",
+  "year": "2015",
+  "rated": "R",
+  "released": "08 Jan 2016",
+  "runtime": "156 min",
+  "genre": "Adventure, Drama, Western",
+  "director": "Alejandro G. Iñárritu",
+  "writer": "Mark L. Smith, Alejandro G. Iñárritu, Michael Punke",
+  "actors": "Leonardo DiCaprio, Tom Hardy, Will Poulter",
+  "plot": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
+  "language": "English, Pawnee, French",
+  "country": "United States, Hong Kong, Taiwan, Argentina",
+  "awards": "Won 3 Oscars. 94 wins & 193 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTgwNmQzZDctMjNmOS00OTExLTkwM2UtNzJmOTJhODFjOTdlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "8.0",
+  "imdbID": "tt1663202",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:30:53.937Z"
+}

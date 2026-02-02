@@ -1,0 +1,35 @@
+{
+  "title": "Predestination",
+  "year": "2014",
+  "rated": "R",
+  "released": "09 Jan 2015",
+  "runtime": "97 min",
+  "genre": "Action, Drama, Sci-Fi",
+  "director": "Michael Spierig, Peter Spierig",
+  "writer": "Michael Spierig, Peter Spierig, Robert A. Heinlein",
+  "actors": "Ethan Hawke, Sarah Snook, Noah Taylor",
+  "plot": "As his last assignment, a temporal agent is tasked to travel back in time and prevent a bomb attack in New York in 1975. The hunt, however, turns out to be beyond the bounds of possibility.",
+  "language": "English",
+  "country": "Australia, United States",
+  "awards": "12 wins & 20 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2VhODM5OTUtZDJhMi00MTc5LThjNjYtZWY1M2NlNWU0N2NjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.4",
+  "imdbID": "tt2397535",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:31:55.133Z"
+}

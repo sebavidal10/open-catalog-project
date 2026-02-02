@@ -1,0 +1,31 @@
+{
+  "title": "Bicycle Thieves",
+  "year": "1948",
+  "rated": "Not Rated",
+  "released": "13 Dec 1949",
+  "runtime": "89 min",
+  "genre": "Drama",
+  "director": "Vittorio De Sica",
+  "writer": "Cesare Zavattini, Luigi Bartolini, Oreste Biancoli",
+  "actors": "Lamberto Maggiorani, Enzo Staiola, Lianella Carell",
+  "plot": "In post-war Italy, a working-class man's bicycle is stolen, endangering his efforts to find work. He and his son set out to find it.",
+  "language": "Italian, German",
+  "country": "Italy",
+  "awards": "Nominated for 1 Oscar. 18 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIzMzAyMzg1Nl5BMl5BanBnXkFtZTgwMzMyNzk0MTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.2",
+  "imdbID": "tt0040522",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:28:12.417Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Lion King",
+  "year": "1994",
+  "rated": "G",
+  "released": "24 Jun 1994",
+  "runtime": "88 min",
+  "genre": "Animation, Adventure, Drama",
+  "director": "Roger Allers, Rob Minkoff",
+  "writer": "Irene Mecchi, Jonathan Roberts, Linda Woolverton",
+  "actors": "Matthew Broderick, Jeremy Irons, James Earl Jones",
+  "plot": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+  "language": "English, Swahili, Xhosa, Zulu",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 43 wins & 35 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "8.5",
+  "imdbID": "tt0110357",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:26:07.843Z"
+}

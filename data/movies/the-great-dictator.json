@@ -1,0 +1,31 @@
+{
+  "title": "The Great Dictator",
+  "year": "1940",
+  "rated": "G",
+  "released": "07 Mar 1941",
+  "runtime": "125 min",
+  "genre": "Comedy, Drama, War",
+  "director": "Charles Chaplin",
+  "writer": "Charles Chaplin",
+  "actors": "Charles Chaplin, Paulette Goddard, Jack Oakie",
+  "plot": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+  "language": "English, Esperanto, Latin",
+  "country": "United States",
+  "awards": "Nominated for 5 Oscars. 7 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjc4ZjEwNDUtMjlmZS00NzQ4LTg2N2MtMGI3ZjMyMmM3ZDM2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.4",
+  "imdbID": "tt0032553",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:26:50.281Z"
+}

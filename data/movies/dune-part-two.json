@@ -1,0 +1,35 @@
+{
+  "title": "Dune: Part Two",
+  "year": "2024",
+  "rated": "PG-13",
+  "released": "01 Mar 2024",
+  "runtime": "166 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Denis Villeneuve",
+  "writer": "Denis Villeneuve, Jon Spaihts, Frank Herbert",
+  "actors": "Timothée Chalamet, Zendaya, Rebecca Ferguson",
+  "plot": "Paul Atreides unites with the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he endeavors to prevent a terrible fu...",
+  "language": "English",
+  "country": "United States, Canada, United Arab Emirates, Hungary, Italy, New Zealand, Jordan, Gambia",
+  "awards": "Won 2 Oscars. 121 wins & 372 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "8.4",
+  "imdbID": "tt15239678",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:31:31.621Z"
+}

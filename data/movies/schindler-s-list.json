@@ -1,0 +1,35 @@
+{
+  "title": "Schindler's List",
+  "year": "1993",
+  "rated": "R",
+  "released": "04 Feb 1994",
+  "runtime": "195 min",
+  "genre": "Biography, Drama, History",
+  "director": "Steven Spielberg",
+  "writer": "Thomas Keneally, Steven Zaillian",
+  "actors": "Liam Neeson, Ralph Fiennes, Ben Kingsley",
+  "plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+  "language": "English, Hebrew, German, Polish, Latin",
+  "country": "United States",
+  "awards": "Won 7 Oscars. 91 wins & 49 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "9.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "95/100"
+    }
+  ],
+  "metascore": "95",
+  "imdbRating": "9.0",
+  "imdbID": "tt0108052",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:24:54.911Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Lord of the Rings: The Two Towers",
+  "year": "2002",
+  "rated": "PG-13",
+  "released": "18 Dec 2002",
+  "runtime": "179 min",
+  "genre": "Adventure, Drama, Fantasy",
+  "director": "Peter Jackson",
+  "writer": "J.R.R. Tolkien, Fran Walsh, Philippa Boyens",
+  "actors": "Elijah Wood, Ian McKellen, Viggo Mortensen",
+  "plot": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+  "language": "English, Sindarin, Old English",
+  "country": "New Zealand, United States",
+  "awards": "Won 2 Oscars. 132 wins & 139 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGQxMDdiOWUtYjc1Ni00YzM1LWE2NjMtZTg3Y2JkMjEzMTJjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "8.8",
+  "imdbID": "tt0167261",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:25:13.732Z"
+}

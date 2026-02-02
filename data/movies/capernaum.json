@@ -1,0 +1,35 @@
+{
+  "title": "Capernaum",
+  "year": "2018",
+  "rated": "R",
+  "released": "20 Sep 2018",
+  "runtime": "126 min",
+  "genre": "Drama",
+  "director": "Nadine Labaki",
+  "writer": "Nadine Labaki, Jihad Hojeily, Michelle Keserwany",
+  "actors": "Zain Al Rafeea, Yordanos Shiferaw, Boluwatife Treasure Bankole",
+  "plot": "While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.",
+  "language": "Arabic, Amharic",
+  "country": "Lebanon, United States, France, Cyprus, Qatar, United Kingdom",
+  "awards": "Nominated for 1 Oscar. 37 wins & 55 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzEyMzQ1OTktZTljZi00OWQzLWE2ZmUtZjQyNzBjYjE1NTc0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "8.4",
+  "imdbID": "tt8267604",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:27:27.799Z"
+}

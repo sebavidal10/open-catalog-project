@@ -1,0 +1,35 @@
+{
+  "title": "Trainspotting",
+  "year": "1996",
+  "rated": "R",
+  "released": "09 Aug 1996",
+  "runtime": "93 min",
+  "genre": "Crime, Drama",
+  "director": "Danny Boyle",
+  "writer": "Irvine Welsh, John Hodge",
+  "actors": "Ewan McGregor, Ewen Bremner, Jonny Lee Miller",
+  "plot": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out despite the allure of drugs and the influence of friends.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 1 Oscar. 23 wins & 35 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmVkNGJkMzQtYWQwOS00OTZmLThjODQtZjNjNzllYzRiNTE0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "8.1",
+  "imdbID": "tt0117951",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:29:45.640Z"
+}

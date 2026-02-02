@@ -1,0 +1,35 @@
+{
+  "title": "Gravity",
+  "year": "2013",
+  "rated": "PG-13",
+  "released": "04 Oct 2013",
+  "runtime": "91 min",
+  "genre": "Drama, Sci-Fi, Thriller",
+  "director": "Alfonso Cuarón",
+  "writer": "Alfonso Cuarón, Jonás Cuarón",
+  "actors": "Sandra Bullock, George Clooney, Ed Harris",
+  "plot": "Dr Ryan Stone, an engineer on her first space mission, and Matt Kowalski, an astronaut on his final expedition, have to survive in space after they are hit by debris while spacewalking.",
+  "language": "English, Greenlandic",
+  "country": "United Kingdom, United States",
+  "awards": "Won 7 Oscars. 240 wins & 188 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
+  "metascore": "96",
+  "imdbRating": "7.7",
+  "imdbID": "tt1454468",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:31:45.709Z"
+}

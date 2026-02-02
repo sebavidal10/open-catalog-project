@@ -1,0 +1,35 @@
+{
+  "title": "Goodfellas",
+  "year": "1990",
+  "rated": "R",
+  "released": "21 Sep 1990",
+  "runtime": "145 min",
+  "genre": "Biography, Crime, Drama",
+  "director": "Martin Scorsese",
+  "writer": "Nicholas Pileggi, Martin Scorsese",
+  "actors": "Robert De Niro, Ray Liotta, Joe Pesci",
+  "plot": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
+  "language": "English, Italian, Hebrew, Yiddish",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 44 wins & 38 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "metascore": "92",
+  "imdbRating": "8.7",
+  "imdbID": "tt0099685",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:25:20.779Z"
+}

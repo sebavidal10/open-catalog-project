@@ -1,0 +1,35 @@
+{
+  "title": "Toy Story",
+  "year": "1995",
+  "rated": "G",
+  "released": "22 Nov 1995",
+  "runtime": "81 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "John Lasseter",
+  "writer": "Joss Whedon, Andrew Stanton, Joel Cohen",
+  "actors": "Tom Hanks, Tim Allen, Don Rickles",
+  "plot": "A cowboy doll is profoundly jealous when a new spaceman action figure supplants him as the top toy in a boy's bedroom. When circumstances separate them from their owner, the duo have to put aside their differences to return to him.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 29 wins & 24 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
+  "metascore": "96",
+  "imdbRating": "8.3",
+  "imdbID": "tt0114709",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:27:34.854Z"
+}

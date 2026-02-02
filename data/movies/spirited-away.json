@@ -1,0 +1,35 @@
+{
+  "title": "Spirited Away",
+  "year": "2001",
+  "rated": "PG",
+  "released": "28 Mar 2003",
+  "runtime": "124 min",
+  "genre": "Animation, Adventure, Family",
+  "director": "Hayao Miyazaki",
+  "writer": "Hayao Miyazaki",
+  "actors": "Miyu Irino, Rumi Hiiragi, Mari Natsuki",
+  "plot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits, and where humans are changed into beasts.",
+  "language": "Japanese, English",
+  "country": "Japan, United States",
+  "awards": "Won 1 Oscar. 58 wins & 31 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
+  "metascore": "96",
+  "imdbRating": "8.6",
+  "imdbID": "tt0245429",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:25:44.349Z"
+}

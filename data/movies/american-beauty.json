@@ -1,0 +1,35 @@
+{
+  "title": "American Beauty",
+  "year": "1999",
+  "rated": "R",
+  "released": "01 Oct 1999",
+  "runtime": "122 min",
+  "genre": "Drama",
+  "director": "Sam Mendes",
+  "writer": "Alan Ball",
+  "actors": "Kevin Spacey, Annette Bening, Thora Birch",
+  "plot": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 5 Oscars. 112 wins & 102 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDI1MDE0OTMtMmI2MS00Yjc2LTg2MTItMWExYTg5NzA1OGUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "8.3",
+  "imdbID": "tt0169547",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:27:39.538Z"
+}

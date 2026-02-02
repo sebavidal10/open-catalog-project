@@ -1,0 +1,35 @@
+{
+  "title": "Alien",
+  "year": "1979",
+  "rated": "R",
+  "released": "22 Jun 1979",
+  "runtime": "117 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Ridley Scott",
+  "writer": "Dan O'Bannon, Ronald Shusett",
+  "actors": "Sigourney Weaver, Tom Skerritt, John Hurt",
+  "plot": "After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Won 1 Oscar. 19 wins & 22 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "8.5",
+  "imdbID": "tt0078748",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:26:40.794Z"
+}

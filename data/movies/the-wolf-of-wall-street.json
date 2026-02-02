@@ -1,0 +1,35 @@
+{
+  "title": "The Wolf of Wall Street",
+  "year": "2013",
+  "rated": "R",
+  "released": "25 Dec 2013",
+  "runtime": "180 min",
+  "genre": "Biography, Comedy, Crime",
+  "director": "Martin Scorsese",
+  "writer": "Terence Winter, Jordan Belfort",
+  "actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie",
+  "plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 5 Oscars. 38 wins & 180 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "8.2",
+  "imdbID": "tt0993846",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:31:01.012Z"
+}

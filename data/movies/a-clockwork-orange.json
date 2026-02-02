@@ -1,0 +1,35 @@
+{
+  "title": "A Clockwork Orange",
+  "year": "1971",
+  "rated": "R",
+  "released": "02 Feb 1972",
+  "runtime": "136 min",
+  "genre": "Crime, Sci-Fi",
+  "director": "Stanley Kubrick",
+  "writer": "Stanley Kubrick, Anthony Burgess",
+  "actors": "Malcolm McDowell, Patrick Magee, Michael Bates",
+  "plot": "Alex DeLarge and his droogs barbarize a decaying near-future.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 4 Oscars. 12 wins & 26 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "8.2",
+  "imdbID": "tt0066921",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:28:31.161Z"
+}

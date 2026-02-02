@@ -1,0 +1,35 @@
+{
+  "title": "Reservoir Dogs",
+  "year": "1992",
+  "rated": "R",
+  "released": "02 Sep 1992",
+  "runtime": "99 min",
+  "genre": "Crime, Thriller",
+  "director": "Quentin Tarantino",
+  "writer": "Quentin Tarantino, Roger Avary",
+  "actors": "Harvey Keitel, Tim Roth, Michael Madsen",
+  "plot": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+  "language": "English",
+  "country": "United States",
+  "awards": "13 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmMzYjg4NDctYWY0Mi00OGViLWIzMTMtYWNlZGY5ZDJmYjk3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "8.3",
+  "imdbID": "tt0105236",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:27:53.637Z"
+}

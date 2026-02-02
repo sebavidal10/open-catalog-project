@@ -1,0 +1,35 @@
+{
+  "title": "Django Unchained",
+  "year": "2012",
+  "rated": "R",
+  "released": "25 Dec 2012",
+  "runtime": "165 min",
+  "genre": "Drama, Western",
+  "director": "Quentin Tarantino",
+  "writer": "Quentin Tarantino",
+  "actors": "Jamie Foxx, Christoph Waltz, Leonardo DiCaprio",
+  "plot": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+  "language": "English, German, French, Italian",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 58 wins & 158 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "8.5",
+  "imdbID": "tt1853728",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:26:52.622Z"
+}

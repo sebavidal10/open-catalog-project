@@ -1,0 +1,35 @@
+{
+  "title": "The Hunt",
+  "year": "2012",
+  "rated": "R",
+  "released": "14 Nov 2012",
+  "runtime": "115 min",
+  "genre": "Drama",
+  "director": "Thomas Vinterberg",
+  "writer": "Thomas Vinterberg, Tobias Lindholm",
+  "actors": "Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp",
+  "plot": "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent li...",
+  "language": "Danish, English, Polish",
+  "country": "Denmark, Sweden, Belgium, France",
+  "awards": "Nominated for 1 Oscar. 38 wins & 74 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "8.3",
+  "imdbID": "tt2106476",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:28:42.900Z"
+}

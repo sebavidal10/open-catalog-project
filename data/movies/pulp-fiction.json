@@ -1,0 +1,35 @@
+{
+  "title": "Pulp Fiction",
+  "year": "1994",
+  "rated": "R",
+  "released": "14 Oct 1994",
+  "runtime": "154 min",
+  "genre": "Crime, Drama",
+  "director": "Quentin Tarantino",
+  "writer": "Quentin Tarantino, Roger Avary",
+  "actors": "John Travolta, Uma Thurman, Samuel L. Jackson",
+  "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+  "language": "English, Spanish, French",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 69 wins & 72 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "95/100"
+    }
+  ],
+  "metascore": "95",
+  "imdbRating": "8.8",
+  "imdbID": "tt0110912",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:24:59.617Z"
+}

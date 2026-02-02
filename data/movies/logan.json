@@ -1,0 +1,35 @@
+{
+  "title": "Logan",
+  "year": "2017",
+  "rated": "R",
+  "released": "03 Mar 2017",
+  "runtime": "137 min",
+  "genre": "Action, Drama, Sci-Fi",
+  "director": "James Mangold",
+  "writer": "James Mangold, Scott Frank, Michael Green",
+  "actors": "Hugh Jackman, Patrick Stewart, Dafne Keen",
+  "plot": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 28 wins & 82 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2JjODdkMGMtNmY2YS00OGM2LThiY2YtZGYyNzE4Nzc2ODA0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "8.1",
+  "imdbID": "tt3315342",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:30:39.808Z"
+}

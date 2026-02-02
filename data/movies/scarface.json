@@ -1,0 +1,35 @@
+{
+  "title": "Scarface",
+  "year": "1983",
+  "rated": "R",
+  "released": "09 Dec 1983",
+  "runtime": "170 min",
+  "genre": "Crime, Drama",
+  "director": "Brian De Palma",
+  "writer": "Oliver Stone, Howard Hawks, Ben Hecht",
+  "actors": "Al Pacino, Michelle Pfeiffer, Steven Bauer",
+  "plot": "In the 1980s, a determined criminal-minded Cuban immigrant becomes the biggest drug smuggler in Miami, and is eventually undone by his own drug addiction.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDUzYjY0NmUtMDM4OS00Y2Q5LWJiODYtNTk0ZTk0YjZhMTg1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "8.3",
+  "imdbID": "tt0086250",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:28:35.864Z"
+}

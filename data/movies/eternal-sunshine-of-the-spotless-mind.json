@@ -1,0 +1,35 @@
+{
+  "title": "Eternal Sunshine of the Spotless Mind",
+  "year": "2004",
+  "rated": "R",
+  "released": "19 Mar 2004",
+  "runtime": "108 min",
+  "genre": "Drama, Romance, Sci-Fi",
+  "director": "Michel Gondry",
+  "writer": "Charlie Kaufman, Michel Gondry, Pierre Bismuth",
+  "actors": "Jim Carrey, Kate Winslet, Tom Wilkinson",
+  "plot": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories forever.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 73 wins & 111 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "8.3",
+  "imdbID": "tt0338013",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:28:07.718Z"
+}

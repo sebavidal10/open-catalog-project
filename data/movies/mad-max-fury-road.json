@@ -1,0 +1,35 @@
+{
+  "title": "Mad Max: Fury Road",
+  "year": "2015",
+  "rated": "R",
+  "released": "15 May 2015",
+  "runtime": "120 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "George Miller",
+  "writer": "George Miller, Brendan McCarthy, Nick Lathouris",
+  "actors": "Tom Hardy, Charlize Theron, Nicholas Hoult",
+  "plot": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshipper and a drifter named Max.",
+  "language": "English, Russian",
+  "country": "Australia, United States",
+  "awards": "Won 6 Oscars. 245 wins & 234 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "8.1",
+  "imdbID": "tt1392190",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:30:42.149Z"
+}

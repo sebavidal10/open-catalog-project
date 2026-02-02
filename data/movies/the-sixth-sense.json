@@ -1,0 +1,35 @@
+{
+  "title": "The Sixth Sense",
+  "year": "1999",
+  "rated": "PG-13",
+  "released": "06 Aug 1999",
+  "runtime": "107 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "M. Night Shyamalan",
+  "writer": "M. Night Shyamalan",
+  "actors": "Bruce Willis, Haley Joel Osment, Toni Collette",
+  "plot": "After being shot by a resentful former patient whom he failed to help, a Philadelphia child psychologist seeks redemption by treating a young boy with a disturbing secret.",
+  "language": "English, Latin, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 6 Oscars. 37 wins & 56 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWQ2OTY0M2UtMTQxNC00MmIzLTllNDQtNDQ0MTQyYzI2M2ZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "8.2",
+  "imdbID": "tt0167404",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:29:36.268Z"
+}

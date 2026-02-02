@@ -1,0 +1,35 @@
+{
+  "title": "Spider-Man: Into the Spider-Verse",
+  "year": "2018",
+  "rated": "PG",
+  "released": "14 Dec 2018",
+  "runtime": "117 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+  "writer": "Phil Lord, Rodney Rothman",
+  "actors": "Shameik Moore, Jake Johnson, Hailee Steinfeld",
+  "plot": "Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+  "language": "English, Spanish",
+  "country": "Canada, United States",
+  "awards": "Won 1 Oscar. 85 wins & 60 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "8.4",
+  "imdbID": "tt4633694",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:30:58.633Z"
+}

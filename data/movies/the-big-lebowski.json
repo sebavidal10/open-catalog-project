@@ -1,0 +1,35 @@
+{
+  "title": "The Big Lebowski",
+  "year": "1998",
+  "rated": "R",
+  "released": "06 Mar 1998",
+  "runtime": "117 min",
+  "genre": "Comedy, Crime",
+  "director": "Joel Coen, Ethan Coen",
+  "writer": "Ethan Coen, Joel Coen",
+  "actors": "Jeff Bridges, John Goodman, Julianne Moore",
+  "plot": "Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+  "language": "English, German, Hebrew, Spanish",
+  "country": "United Kingdom, United States",
+  "awards": "7 wins & 18 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2E3OWQ5OWYtYTRkMC00NjVjLWIzZDQtNmRmM2ZiYTIyYmYxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "8.1",
+  "imdbID": "tt0118715",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:30:20.972Z"
+}

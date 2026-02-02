@@ -1,0 +1,35 @@
+{
+  "title": "Guardians of the Galaxy",
+  "year": "2014",
+  "rated": "PG-13",
+  "released": "01 Aug 2014",
+  "runtime": "121 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "James Gunn",
+  "writer": "James Gunn, Nicole Perlman, Dan Abnett",
+  "actors": "Chris Pratt, Vin Diesel, Bradley Cooper",
+  "plot": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+  "language": "English",
+  "country": "United States, United Kingdom",
+  "awards": "Nominated for 2 Oscars. 52 wins & 103 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2ZmNjQ2MzAtNDlhNi00MmQyLWJhZDMtNmJiMjFlOWY4MzcxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "8.0",
+  "imdbID": "tt2015381",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:31:03.388Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Aquaman",
+  "year": "2018",
+  "rated": "PG-13",
+  "released": "21 Dec 2018",
+  "runtime": "143 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "James Wan",
+  "writer": "David Leslie Johnson-McGoldrick, Will Beall, Geoff Johns",
+  "actors": "Jason Momoa, Amber Heard, Willem Dafoe",
+  "plot": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+  "language": "English, Russian, Maori, Italian",
+  "country": "United States",
+  "awards": "3 wins & 36 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "66%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "6.8",
+  "imdbID": "tt1477834",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:31:24.557Z"
+}

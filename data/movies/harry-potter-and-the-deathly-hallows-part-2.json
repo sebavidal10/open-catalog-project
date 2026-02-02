@@ -1,0 +1,35 @@
+{
+  "title": "Harry Potter and the Deathly Hallows: Part 2",
+  "year": "2011",
+  "rated": "PG-13",
+  "released": "15 Jul 2011",
+  "runtime": "130 min",
+  "genre": "Adventure, Family, Fantasy",
+  "director": "David Yates",
+  "writer": "Steve Kloves, J.K. Rowling",
+  "actors": "Daniel Radcliffe, Emma Watson, Rupert Grint",
+  "plot": "Harry, Ron and Hermione set out on a quest to eliminate the remaining horcruxes. On the other hand, the students and teachers must unite to defend Hogwarts against Lord Voldemort and his army.",
+  "language": "English, Latin",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 3 Oscars. 49 wins & 96 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTA1Mzc2N2ItZWRiNS00MjQzLTlmZDQtMjU0NmY1YWRkMGQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "8.1",
+  "imdbID": "tt1201607",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:30:25.699Z"
+}

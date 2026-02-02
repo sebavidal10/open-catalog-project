@@ -1,0 +1,35 @@
+{
+  "title": "Gone Girl",
+  "year": "2014",
+  "rated": "R",
+  "released": "03 Oct 2014",
+  "runtime": "149 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "David Fincher",
+  "writer": "Gillian Flynn",
+  "actors": "Ben Affleck, Rosamund Pike, Neil Patrick Harris",
+  "plot": "The husband of a missing woman becomes the main suspect in her disappearance.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 64 wins & 189 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "8.1",
+  "imdbID": "tt2267998",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:30:02.119Z"
+}

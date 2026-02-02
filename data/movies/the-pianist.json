@@ -1,0 +1,35 @@
+{
+  "title": "The Pianist",
+  "year": "2002",
+  "rated": "R",
+  "released": "28 Mar 2003",
+  "runtime": "150 min",
+  "genre": "Biography, Drama, Music",
+  "director": "Roman Polanski",
+  "writer": "Ronald Harwood, Wladyslaw Szpilman",
+  "actors": "Adrien Brody, Thomas Kretschmann, Frank Finlay",
+  "plot": "During WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive.",
+  "language": "English, German, Russian",
+  "country": "France, Poland, Germany, United Kingdom, United States",
+  "awards": "Won 3 Oscars. 57 wins & 74 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEwNmEwYjgtNTk3ZC00NjljLTg5ZDctZTY3ZGQwZjRkZmQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "8.5",
+  "imdbID": "tt0253474",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:25:56.060Z"
+}

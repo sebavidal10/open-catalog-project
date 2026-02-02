@@ -1,0 +1,35 @@
+{
+  "title": "V for Vendetta",
+  "year": "2005",
+  "rated": "R",
+  "released": "17 Mar 2006",
+  "runtime": "132 min",
+  "genre": "Action, Drama, Sci-Fi",
+  "director": "James McTeigue",
+  "writer": "Lilly Wachowski, Lana Wachowski, David Lloyd",
+  "actors": "Hugo Weaving, Natalie Portman, Rupert Graves",
+  "plot": "In a future British dystopian society, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow the tyrannical government - with the help of a young woman.",
+  "language": "English, French, Latin, Spanish",
+  "country": "United States, United Kingdom, Germany",
+  "awards": "7 wins & 29 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "8.1",
+  "imdbID": "tt0434409",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:29:40.960Z"
+}

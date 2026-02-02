@@ -1,0 +1,35 @@
+{
+  "title": "Coco",
+  "year": "2017",
+  "rated": "PG",
+  "released": "22 Nov 2017",
+  "runtime": "105 min",
+  "genre": "Animation, Adventure, Drama",
+  "director": "Lee Unkrich, Adrian Molina",
+  "writer": "Lee Unkrich, Jason Katz, Matthew Aldrich",
+  "actors": "Anthony Gonzalez, Gael García Bernal, Benjamin Bratt",
+  "plot": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+  "language": "English, Spanish",
+  "country": "United States, Mexico",
+  "awards": "Won 2 Oscars. 113 wins & 42 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDIyM2E2NTAtMzlhNy00ZGUxLWI1NjgtZDY5MzhiMDc5NGU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "8.4",
+  "imdbID": "tt2380307",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:27:16.057Z"
+}

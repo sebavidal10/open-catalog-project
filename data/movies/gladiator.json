@@ -1,0 +1,35 @@
+{
+  "title": "Gladiator",
+  "year": "2000",
+  "rated": "R",
+  "released": "05 May 2000",
+  "runtime": "155 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Ridley Scott",
+  "writer": "David Franzoni, John Logan, William Nicholson",
+  "actors": "Russell Crowe, Joaquin Phoenix, Connie Nielsen",
+  "plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+  "language": "English",
+  "country": "United States, United Kingdom, Malta, Morocco",
+  "awards": "Won 5 Oscars. 61 wins & 104 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "8.5",
+  "imdbID": "tt0172495",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:26:19.628Z"
+}

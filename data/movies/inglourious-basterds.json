@@ -1,0 +1,35 @@
+{
+  "title": "Inglourious Basterds",
+  "year": "2009",
+  "rated": "R",
+  "released": "21 Aug 2009",
+  "runtime": "153 min",
+  "genre": "Adventure, Drama, War",
+  "director": "Quentin Tarantino",
+  "writer": "Quentin Tarantino",
+  "actors": "Brad Pitt, Diane Kruger, Eli Roth",
+  "plot": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+  "language": "English, German, French, Italian",
+  "country": "United States, Germany",
+  "awards": "Won 1 Oscar. 134 wins & 173 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODZhMWJlNjYtNDExNC00MTIzLTllM2ItOGQ2NGVjNDQ3MzkzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "8.4",
+  "imdbID": "tt0361748",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:27:44.225Z"
+}

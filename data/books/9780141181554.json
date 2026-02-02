@@ -1,0 +1,21 @@
+{
+  "isbn": "9780141181554",
+  "title": "Italian food",
+  "authors": [
+    "Elizabeth David"
+  ],
+  "publish_date": "1999",
+  "publisher": [
+    "Penguin Books"
+  ],
+  "pages": 376,
+  "cover": "https://covers.openlibrary.org/b/id/107732-L.jpg",
+  "subjects": [
+    "Italian Cooking",
+    "Italian Cookery",
+    "Cooking, italian",
+    "Cuisine italienne"
+  ],
+  "url": "https://openlibrary.org/books/OL90554M/Italian_food",
+  "fetched_at": "2026-02-02T16:18:00.599Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Spotlight",
+  "year": "2015",
+  "rated": "R",
+  "released": "20 Nov 2015",
+  "runtime": "129 min",
+  "genre": "Biography, Crime, Drama",
+  "director": "Tom McCarthy",
+  "writer": "Josh Singer, Tom McCarthy",
+  "actors": "Mark Ruffalo, Michael Keaton, Rachel McAdams",
+  "plot": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 124 wins & 145 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "93/100"
+    }
+  ],
+  "metascore": "93",
+  "imdbRating": "8.1",
+  "imdbID": "tt1895587",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:30:49.243Z"
+}

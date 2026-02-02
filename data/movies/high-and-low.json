@@ -1,0 +1,35 @@
+{
+  "title": "High and Low",
+  "year": "1963",
+  "rated": "Not Rated",
+  "released": "26 Nov 1963",
+  "runtime": "143 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Akira Kurosawa",
+  "writer": "Hideo Oguni, Ryûzô Kikushima, Eijirô Hisaita",
+  "actors": "Toshirô Mifune, Yutaka Sada, Tatsuya Nakadai",
+  "plot": "An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur's son is kidnapped by mistake and held for ransom.",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "3 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTFmOTNjYjUtMDA2MC00ZTJiLThiYzktNDdjNzQwMjNkN2NmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "8.4",
+  "imdbID": "tt0057565",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:27:32.510Z"
+}

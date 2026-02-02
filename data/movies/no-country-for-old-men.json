@@ -1,0 +1,35 @@
+{
+  "title": "No Country for Old Men",
+  "year": "2007",
+  "rated": "R",
+  "released": "21 Nov 2007",
+  "runtime": "122 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Ethan Coen, Joel Coen",
+  "writer": "Joel Coen, Ethan Coen, Cormac McCarthy",
+  "actors": "Tommy Lee Jones, Javier Bardem, Josh Brolin",
+  "plot": "Violence and mayhem ensue after a hunter stumbles upon the aftermath of a drug deal gone wrong and over two million dollars in cash near the Rio Grande.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Won 4 Oscars. 165 wins & 139 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "metascore": "92",
+  "imdbRating": "8.2",
+  "imdbID": "tt0477348",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:29:31.577Z"
+}
