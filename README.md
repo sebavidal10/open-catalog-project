@@ -8,45 +8,59 @@ API estática y automatizada de medios. Los datos se sirven como archivos JSON e
 
 Esta es la forma más rápida de usar el proyecto. Puedes consumir los datos directamente desde la infraestructura de GitHub Pages de este repositorio.
 
-### Endpoints
+### 📚 Libros
 
-La API sigue una estructura predecible basada en carpetas:
-
-- **Libros:** `https://sebavidal10.github.io/open-catalog-project/data/books/[ISBN].json`
-- **Películas:** `https://sebavidal10.github.io/open-catalog-project/data/movies/[slug].json`
-
-### Ejemplos de Integración (JavaScript)
-
-#### Obtener información de un libro
+- **Endpoint:** `https://sebavidal10.github.io/open-catalog-project/data/books/[ISBN].json`
+- **Ejemplo de integración:**
 
 ```javascript
 const isbn = '9780141187761';
 fetch(
   `https://sebavidal10.github.io/open-catalog-project/data/books/${isbn}.json`,
 )
-  .then((response) => response.json())
-  .then((data) => console.log(`Libro: ${data.title}`));
+  .then((res) => res.json())
+  .then((data) => console.log(data));
 ```
 
-#### Obtener información de una película
+- **Esquema de respuesta:**
+
+```json
+{
+  "isbn": "9780141187761",
+  "title": "Nineteen Eighty-Four",
+  "authors": ["George Orwell"],
+  "pages": 384,
+  "cover": "https://covers.openlibrary.org/...",
+  "fetched_at": "2026-02-02T..."
+}
+```
+
+### 🎬 Películas
+
+- **Endpoint:** `https://sebavidal10.github.io/open-catalog-project/data/movies/[slug].json`
+- **Ejemplo de integración:**
 
 ```javascript
 const slug = 'inception';
 fetch(
   `https://sebavidal10.github.io/open-catalog-project/data/movies/${slug}.json`,
 )
-  .then((response) => response.json())
-  .then((data) => console.log(`Película: ${data.title} (${data.year})`));
+  .then((res) => res.json())
+  .then((data) => console.log(data));
 ```
 
-### Formato de Respuesta
+- **Esquema de respuesta:**
 
-| Campo              | Tipo         | Descripción                           |
-| :----------------- | :----------- | :------------------------------------ |
-| `title`            | string       | Título oficial del medio.             |
-| `authors/director` | array/string | Creadores del contenido.              |
-| `cover/poster`     | url          | Enlace a la imagen principal.         |
-| `fetched_at`       | string       | Fecha ISO de la última actualización. |
+```json
+{
+  "title": "Inception",
+  "year": "2010",
+  "director": "Christopher Nolan",
+  "poster": "https://m.media-amazon.com/...",
+  "imdbRating": "8.8",
+  "fetched_at": "2026-02-02T..."
+}
+```
 
 ---
 
