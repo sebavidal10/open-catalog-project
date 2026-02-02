@@ -15,16 +15,28 @@ La API sigue una estructura predecible basada en carpetas:
 - **Libros:** `https://sebavidal10.github.io/open-catalog-project/data/books/[ISBN].json`
 - **Películas:** `https://sebavidal10.github.io/open-catalog-project/data/movies/[slug].json`
 
-### Ejemplo de Integración (JavaScript)
+### Ejemplos de Integración (JavaScript)
+
+#### Obtener información de un libro
 
 ```javascript
-// Obtener información de un libro
 const isbn = '9780141187761';
 fetch(
   `https://sebavidal10.github.io/open-catalog-project/data/books/${isbn}.json`,
 )
   .then((response) => response.json())
-  .then((data) => console.log(data.title)); // "Nineteen Eighty-Four"
+  .then((data) => console.log(`Libro: ${data.title}`));
+```
+
+#### Obtener información de una película
+
+```javascript
+const slug = 'inception';
+fetch(
+  `https://sebavidal10.github.io/open-catalog-project/data/movies/${slug}.json`,
+)
+  .then((response) => response.json())
+  .then((data) => console.log(`Película: ${data.title} (${data.year})`));
 ```
 
 ### Formato de Respuesta
@@ -38,7 +50,24 @@ fetch(
 
 ---
 
-## 🛠️ 2. Guía de Instalación y Uso Local
+---
+
+## 🤝 2. Cómo Contribuir (Aportes vía Issue)
+
+No necesitas programar para colaborar. El catálogo crece gracias a los aportes de la comunidad a través de los **Issues**.
+
+### Pasos para sugerir contenido:
+
+1. Ve a la pestaña **Issues** de este repositorio.
+2. Crea un **New Issue** con el título:
+   - Para libros: `add-book: [ISBN]` (Ej: `add-book: 9780141036144`)
+   - Para películas: `add-movie: [Título]` (Ej: `add-movie: Interstellar`)
+3. Un administrador revisará el pedido y añadirá la etiqueta `approved`.
+4. El **Catalog Bot** procesará la solicitud, extraerá la información y actualizará la API automáticamente.
+
+---
+
+## 🛠️ 3. Guía de Instalación y Uso Local
 
 Si prefieres tener tu propia copia o usar los scripts para descargar datos a tu propio servidor.
 
@@ -64,26 +93,10 @@ Si prefieres tener tu propia copia o usar los scripts para descargar datos a tu 
    ```
 
 3. **Descargar nuevos registros:**
-
    ```bash
-   # Un libro por ISBN
    node scripts/fetch-book.js 9780141187761
-
-   # Una película por título
    node scripts/fetch-movie.js "Inception"
    ```
-
----
-
-## 🤖 3. Automatización (Cómo crece el catálogo)
-
-Este repositorio utiliza el **Catalog Bot**, un sistema basado en GitHub Actions que permite a la comunidad sugerir contenido.
-
-### Flujo de Contribución
-
-1. Crea un **Issue** con el título `add-book: [ISBN]` o `add-movie: [Título]`.
-2. El bot esperará a que un administrador añada la etiqueta `approved`.
-3. Una vez aprobado, el bot extrae la información, genera el JSON y lo sube al repositorio automáticamente.
 
 ---
 
