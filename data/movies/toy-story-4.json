@@ -1,0 +1,35 @@
+{
+  "title": "Toy Story 4",
+  "year": "2019",
+  "rated": "G",
+  "released": "21 Jun 2019",
+  "runtime": "100 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Josh Cooley",
+  "writer": "John Lasseter, Andrew Stanton, Josh Cooley",
+  "actors": "Tom Hanks, Tim Allen, Annie Potts",
+  "plot": "When Woody, Buzz, and the gang join Bonnie on a road trip with her new craft project turned toy, Forky, the innocent little spork's antics launch Woody on a wild quest.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 61 wins & 65 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.6",
+  "imdbID": "tt1979376",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:42:55.001Z"
+}

@@ -1,0 +1,20 @@
+{
+  "isbn": "9780141196886",
+  "title": "Dracula",
+  "authors": [
+    "Bram Stoker"
+  ],
+  "publish_date": "Apr 20, 2011",
+  "publisher": [
+    "Penguin Classics"
+  ],
+  "pages": 512,
+  "cover": "https://covers.openlibrary.org/b/id/8765645-L.jpg",
+  "subjects": [
+    "Dracula, count (fictitious character), fiction",
+    "Vampires, fiction",
+    "Fiction, gothic"
+  ],
+  "url": "https://openlibrary.org/books/OL27284898M/Dracula",
+  "fetched_at": "2026-02-02T16:41:33.606Z"
+}

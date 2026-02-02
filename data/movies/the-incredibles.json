@@ -1,0 +1,31 @@
+{
+  "title": "The Incredibles",
+  "year": "2004",
+  "rated": "PG",
+  "released": "05 Nov 2004",
+  "runtime": "115 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Brad Bird",
+  "writer": "Brad Bird",
+  "actors": "Craig T. Nelson, Samuel L. Jackson, Holly Hunter",
+  "plot": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
+  "language": "English, French, German, Italian, Portuguese, Russian",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 69 wins & 56 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "8.0",
+  "imdbID": "tt0317705",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:42:59.700Z"
+}

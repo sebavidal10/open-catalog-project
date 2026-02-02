@@ -1,0 +1,35 @@
+{
+  "title": "Star Wars: Episode III - Revenge of the Sith",
+  "year": "2005",
+  "rated": "PG-13",
+  "released": "19 May 2005",
+  "runtime": "140 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "George Lucas",
+  "writer": "George Lucas",
+  "actors": "Hayden Christensen, Natalie Portman, Ewan McGregor",
+  "plot": "As the Clone Wars nears its end, Obi-Wan Kenobi pursues a new threat, while Anakin Skywalker is lured by Chancellor Palpatine into a sinister plot for galactic domination.",
+  "language": "English",
+  "country": "United States, Italy, Switzerland, Thailand, United Kingdom",
+  "awards": "Nominated for 1 Oscar. 29 wins & 64 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "7.6",
+  "imdbID": "tt0121766",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:43:25.593Z"
+}

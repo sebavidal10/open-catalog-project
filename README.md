@@ -1,55 +1,17 @@
 # open-catalog-project 📚🎬
 
-API estática y automatizada de medios. Los datos se sirven como archivos JSON estáticos, ideales para aplicaciones que necesitan una base de datos de libros y películas sin depender de APIs externas lentas o con límites de cuota severos.
+Base de datos estática de libros y películas servida mediante archivos JSON. Los datos se actualizan automáticamente con GitHub Actions cuando alguien propone contenido.
 
 ---
 
-## 🌐 1. Uso de la API (Consumo Externo)
+## 🌐 1. Uso de la API (Consumo)
 
-Esta es la forma más rápida de usar el proyecto. Puedes consumir los datos directamente desde la infraestructura de GitHub Pages de este repositorio.
+No necesitas clonar el repo si solo quieres los datos. Consúmelo como una API REST estática desde GitHub Pages:
 
-### 📚 Libros
+- **Libros:** `https://sebavidal10.github.io/open-catalog-project/data/books/[ISBN].json`
+- **Películas:** `https://sebavidal10.github.io/open-catalog-project/data/movies/[slug].json`
 
-- **Endpoint:** `https://sebavidal10.github.io/open-catalog-project/data/books/[ISBN].json`
-- **Ejemplo de integración:**
-
-```javascript
-const isbn = '9780141187761';
-fetch(
-  `https://sebavidal10.github.io/open-catalog-project/data/books/${isbn}.json`,
-)
-  .then((res) => res.json())
-  .then((data) => console.log(data));
-```
-
-- **Esquema de respuesta:**
-
-```json
-{
-  "isbn": "9780141187761",
-  "title": "Nineteen Eighty-Four",
-  "authors": ["George Orwell"],
-  "pages": 384,
-  "cover": "https://covers.openlibrary.org/...",
-  "fetched_at": "2026-02-02T..."
-}
-```
-
-### 🎬 Películas
-
-- **Endpoint:** `https://sebavidal10.github.io/open-catalog-project/data/movies/[slug].json`
-- **Ejemplo de integración:**
-
-```javascript
-const slug = 'inception';
-fetch(
-  `https://sebavidal10.github.io/open-catalog-project/data/movies/${slug}.json`,
-)
-  .then((res) => res.json())
-  .then((data) => console.log(data));
-```
-
-- **Esquema de respuesta:**
+### Ejemplo de respuesta (JSON)
 
 ```json
 {
@@ -64,61 +26,51 @@ fetch(
 
 ---
 
----
+## 🤝 2. Cómo Contribuir (Vía Issues)
 
-## 🤝 2. Cómo Contribuir (Aportes vía Issue)
+Este catálogo crece gracias a la comunidad. Si falta algo, no hace falta que sepas programar:
 
-No necesitas programar para colaborar. El catálogo crece gracias a los aportes de la comunidad a través de los **Issues**.
-
-### Pasos para sugerir contenido:
-
-1. Ve a la pestaña **Issues** de este repositorio.
-2. Crea un **New Issue** con el título:
-   - Para libros: `add-book: [ISBN]` (Ej: `add-book: 9780141036144`)
-   - Para películas: `add-movie: [Título]` (Ej: `add-movie: Interstellar`)
-3. Un administrador revisará el pedido y añadirá la etiqueta `approved`.
-4. El **Catalog Bot** procesará la solicitud, extraerá la información y actualizará la API automáticamente.
+1. Ve a **Issues** y crea uno nuevo.
+2. Título del Issue:
+   - Libro: `add-book: 9780141036144` (usa el ISBN-13)
+   - Película: `add-movie: The Matrix`
+3. Cuando un moderador le ponga la etiqueta `approved`, el bot se encargará de bajar la info y subirla al catálogo automáticamente.
 
 ---
 
-## 🛠️ 3. Guía de Instalación y Uso Local
+## 🛠️ 3. Setup y Desarrollo Local
 
-Si prefieres tener tu propia copia o usar los scripts para descargar datos a tu propio servidor.
+Si quieres bajar los datos a tu máquina o desplegar tu propia copia:
 
-### Requisitos
+### Requisitos y API Key
 
-- Node.js v20+
-- Una clave de [OMDb API](http://www.omdbapi.com/) (solo para películas).
+Para las películas es **obligatorio** tener una clave de [OMDb API](http://www.omdbapi.com/) (es gratis). Sin ella, el script de películas fallará.
 
-### Setup
+### Instalación
 
-1. **Clonar y preparar:**
+```bash
+git clone https://github.com/sebavidal10/open-catalog-project.git
+cd open-catalog-project
+npm install
+```
 
-   ```bash
-   git clone https://github.com/sebavidal10/open-catalog-project.git
-   cd open-catalog-project
-   npm install
-   ```
+### Ejecutar scripts manualmente
 
-2. **Configurar llave de OMDb:**
+```bash
+# Setea tu clave (solo para pelis)
+export OMDB_API_KEY="tu_clave_aqui"
 
-   ```bash
-   export OMDB_API_KEY="tu_clave_aqui"
-   ```
-
-3. **Descargar nuevos registros:**
-   ```bash
-   node scripts/fetch-book.js 9780141187761
-   node scripts/fetch-movie.js "Inception"
-   ```
+# Bajar info
+node scripts/fetch-book.js 9780141187761
+node scripts/fetch-movie.js "Interstellar"
+```
 
 ---
 
-## 🚀 4. Despliega tu propia API
+## 🚀 4. Tu propia versión
 
-¿Quieres tu propia versión privada?
+Si quieres hostear esto tú mismo:
 
-1. Haz un **Fork** de este proyecto.
-2. Ve a **Settings > Secrets and variables > Actions** y añade `OMDB_API_KEY`.
-3. En **Settings > Pages**, activa el despliegue desde la rama `main`.
-4. El bot funcionará en tu propio fork del mismo modo.
+1. Haz un **Fork** de este repo.
+2. Sube tu `OMDB_API_KEY` a los **Secrets** de GitHub (Settings > Secrets > Actions).
+3. Activa **GitHub Pages** en la configuración del repo apuntando a la rama `main`.

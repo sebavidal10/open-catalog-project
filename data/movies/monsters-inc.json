@@ -1,0 +1,35 @@
+{
+  "title": "Monsters, Inc.",
+  "year": "2001",
+  "rated": "G",
+  "released": "02 Nov 2001",
+  "runtime": "92 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Pete Docter, David Silverman, Lee Unkrich",
+  "writer": "Pete Docter, Jill Culton, Jeff Pidgeon",
+  "actors": "Billy Crystal, John Goodman, Mary Gibbs",
+  "plot": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 15 wins & 38 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "8.1",
+  "imdbID": "tt0198781",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:42:45.521Z"
+}

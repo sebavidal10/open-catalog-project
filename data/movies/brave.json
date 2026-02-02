@@ -1,0 +1,35 @@
+{
+  "title": "Brave",
+  "year": "2012",
+  "rated": "PG",
+  "released": "22 Jun 2012",
+  "runtime": "93 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Mark Andrews, Brenda Chapman, Steve Purcell",
+  "writer": "Brenda Chapman, Mark Andrews, Steve Purcell",
+  "actors": "Kelly Macdonald, Billy Connolly, Emma Thompson",
+  "plot": "Determined to make her own path in life, Princess Merida defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse.",
+  "language": "English",
+  "country": "United States, Japan, United Kingdom",
+  "awards": "Won 1 Oscar. 20 wins & 48 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzgwODk3ODA1NF5BMl5BanBnXkFtZTcwNjU3NjQ0Nw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.1",
+  "imdbID": "tt1217209",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:43:02.046Z"
+}

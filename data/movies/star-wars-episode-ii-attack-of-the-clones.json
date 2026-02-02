@@ -1,0 +1,35 @@
+{
+  "title": "Star Wars: Episode II - Attack of the Clones",
+  "year": "2002",
+  "rated": "PG",
+  "released": "16 May 2002",
+  "runtime": "142 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "George Lucas",
+  "writer": "George Lucas, Jonathan Hales",
+  "actors": "Hayden Christensen, Natalie Portman, Ewan McGregor",
+  "plot": "Ten years after initially meeting, Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-Wan Kenobi discovers a secret clone army crafted for the Jedi.",
+  "language": "English",
+  "country": "United States, United Kingdom",
+  "awards": "Nominated for 1 Oscar. 21 wins & 71 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTgxMjY2YzUtZmVmNC00YjAwLWJlODMtNDBhNzllNzIzMjgxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "62%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "metascore": "54",
+  "imdbRating": "6.6",
+  "imdbID": "tt0121765",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:43:23.248Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Ratatouille",
+  "year": "2007",
+  "rated": "G",
+  "released": "29 Jun 2007",
+  "runtime": "111 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Brad Bird, Jan Pinkava",
+  "writer": "Brad Bird, Jan Pinkava, Jim Capobianco",
+  "actors": "Brad Garrett, Lou Romano, Patton Oswalt",
+  "plot": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 69 wins & 42 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
+  "metascore": "96",
+  "imdbRating": "8.1",
+  "imdbID": "tt0382932",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:42:57.356Z"
+}

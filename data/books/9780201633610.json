@@ -1,0 +1,39 @@
+{
+  "isbn": "9780201633610",
+  "title": "Design Patterns",
+  "authors": [
+    "Erich Gamma",
+    "John Vlissides",
+    "Richard Helm",
+    "Ralph Johnson",
+    "Johnson, Ralph"
+  ],
+  "publish_date": "January 15, 1995",
+  "publisher": [
+    "Addison-Wesley Professional"
+  ],
+  "pages": 395,
+  "cover": "https://covers.openlibrary.org/b/id/10827044-L.jpg",
+  "subjects": [
+    "Reusability",
+    "Object-oriented programming (Computer science)",
+    "Computer software",
+    "Software patterns",
+    "Entwurfsmuster",
+    "Object-georiënteerd programmeren",
+    "Computacao (metodologia e tecnicas)",
+    "Objektorientierte Programmierung",
+    "Softwarewiederverwendung",
+    "Programas para computadoras",
+    "Reutilización",
+    "Softwareentwicklung",
+    "Hergebruik",
+    "Programacao de computadores",
+    "Design",
+    "Object-oriented design",
+    "Software Design",
+    "Software Develoment"
+  ],
+  "url": "https://openlibrary.org/books/OL7408317M/Design_Patterns",
+  "fetched_at": "2026-02-02T16:42:43.095Z"
+}

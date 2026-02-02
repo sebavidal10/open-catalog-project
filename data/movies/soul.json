@@ -1,0 +1,35 @@
+{
+  "title": "Soul",
+  "year": "2020",
+  "rated": "PG",
+  "released": "25 Dec 2020",
+  "runtime": "100 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Pete Docter, Kemp Powers",
+  "writer": "Pete Docter, Mike Jones, Kemp Powers",
+  "actors": "Jamie Foxx, Tina Fey, Graham Norton",
+  "plot": "Joe is a middle-school band teacher whose life hasn't quite gone the way he expected. His true passion is jazz. But when he travels to another realm to help someone find their passion, he soon discovers what it means to have soul.",
+  "language": "English, Korean, Inuktitut",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 124 wins & 91 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTZkYjA5MDEtMjY1ZC00ODk5LThjOTUtZDYxODEzYWNjMTU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "8.0",
+  "imdbID": "tt2948372",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:42:47.881Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Star Wars: Episode I - The Phantom Menace",
+  "year": "1999",
+  "rated": "PG",
+  "released": "19 May 1999",
+  "runtime": "136 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "George Lucas",
+  "writer": "George Lucas",
+  "actors": "Ewan McGregor, Liam Neeson, Natalie Portman",
+  "plot": "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long-dormant Sith resurface to claim their former glory.",
+  "language": "English, Sanskrit",
+  "country": "United States, United Kingdom",
+  "awards": "Nominated for 3 Oscars. 28 wins & 71 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODVhNGIxOGItYWNlMi00YTA0LWI3NTctZmQxZGUwZDEyZWI4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "54%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "6.5",
+  "imdbID": "tt0120915",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:43:20.914Z"
+}

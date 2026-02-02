@@ -1,0 +1,35 @@
+{
+  "title": "The Avengers",
+  "year": "2012",
+  "rated": "PG-13",
+  "released": "04 May 2012",
+  "runtime": "143 min",
+  "genre": "Action, Sci-Fi",
+  "director": "Joss Whedon",
+  "writer": "Joss Whedon, Zak Penn",
+  "actors": "Robert Downey Jr., Chris Evans, Scarlett Johansson",
+  "plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+  "language": "English, Russian",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 40 wins & 81 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "8.0",
+  "imdbID": "tt0848228",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:43:11.505Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Up",
+  "year": "2009",
+  "rated": "PG",
+  "released": "29 May 2009",
+  "runtime": "96 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Pete Docter, Bob Peterson",
+  "writer": "Pete Docter, Bob Peterson, Tom McCarthy",
+  "actors": "Edward Asner, Jordan Nagai, John Ratzenberger",
+  "plot": "78-year-old Carl Fredricksen travels to South America in his house equipped with balloons, inadvertently taking a young stowaway.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 81 wins & 88 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmI1ZTc5MWMtMDYyOS00ZDc2LTkzOTAtNjQ4NWIxNjYyNDgzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "8.3",
+  "imdbID": "tt1049413",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:43:04.423Z"
+}

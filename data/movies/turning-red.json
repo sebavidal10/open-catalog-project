@@ -1,0 +1,35 @@
+{
+  "title": "Turning Red",
+  "year": "2022",
+  "rated": "PG",
+  "released": "11 Mar 2022",
+  "runtime": "100 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Domee Shi",
+  "writer": "Domee Shi, Julia Cho, Sarah Streicher",
+  "actors": "Rosalie Chiang, Sandra Oh, Ava Morse",
+  "plot": "A thirteen-year-old girl named Mei Lee is torn between staying her mother's dutiful daughter and the changes of adolescence. And as if the challenges were not enough, whenever she gets overly excited Mei transforms into a giant re...",
+  "language": "English, Cantonese, Korean",
+  "country": "United States, Canada",
+  "awards": "Nominated for 1 Oscar. 9 wins & 92 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODY2NjExYmUtZTQ4NS00NzM2LWE2NWYtZWY2NGIyOTBmNzI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "6.9",
+  "imdbID": "tt8097030",
+  "type": "movie",
+  "fetched_at": "2026-02-02T16:43:06.762Z"
+}
