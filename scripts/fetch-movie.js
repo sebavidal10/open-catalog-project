@@ -60,7 +60,11 @@ async function fetchMovie(title) {
       fetched_at: new Date().toISOString(),
     };
 
-    const filePath = path.join(process.cwd(), 'data', 'movies', `${slug}.json`);
+    const dirPath = path.join(process.cwd(), 'data', 'movies');
+    if (!fs.existsSync(dirPath)) {
+      fs.mkdirSync(dirPath, { recursive: true });
+    }
+    const filePath = path.join(dirPath, `${slug}.json`);
     fs.writeFileSync(filePath, JSON.stringify(cleanedData, null, 2));
     console.log(
       `Successfully saved movie: ${cleanedData.title} to ${slug}.json`,

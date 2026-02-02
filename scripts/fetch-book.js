@@ -44,7 +44,11 @@ async function fetchBook(isbn) {
       fetched_at: new Date().toISOString(),
     };
 
-    const filePath = path.join(process.cwd(), 'data', 'books', `${isbn}.json`);
+    const dirPath = path.join(process.cwd(), 'data', 'books');
+    if (!fs.existsSync(dirPath)) {
+      fs.mkdirSync(dirPath, { recursive: true });
+    }
+    const filePath = path.join(dirPath, `${isbn}.json`);
     fs.writeFileSync(filePath, JSON.stringify(cleanedData, null, 2));
     console.log(`Successfully saved book: ${cleanedData.title}`);
   } catch (error) {
