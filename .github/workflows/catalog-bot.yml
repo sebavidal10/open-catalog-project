@@ -2,12 +2,12 @@ name: Catalog Bot
 
 on:
   issues:
-    types: [opened]
+    types: [labeled]
 
 jobs:
   catalog_update:
     runs-on: ubuntu-latest
-    if: startsWith(github.event.issue.title, 'add-book:') || startsWith(github.event.issue.title, 'add-movie:')
+    if: github.event.label.name == 'approved' && (startsWith(github.event.issue.title, 'add-book:') || startsWith(github.event.issue.title, 'add-movie:'))
     permissions:
       contents: write
       issues: write

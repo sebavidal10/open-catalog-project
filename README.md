@@ -4,10 +4,12 @@ API estática de libros y películas. Los datos se almacenan en JSON y el catál
 
 ## Cómo agregar contenido
 
-No necesitas hacer un PR. Basta con abrir un **Issue** con el formato correspondiente:
+No necesitas hacer un PR. Basta con abrir un **Issue** con el formato correspondiente y esperar a que un administrador lo apruebe:
 
 - **Para libros:** Título del issue -> `add-book: [ISBN]` (Ej: `add-book: 9780141036144`)
 - **Para películas:** Título del issue -> `add-movie: [Título]` (Ej: `add-movie: Inception`)
+
+**Nota:** El bot solo procesará el pedido cuando un administrador añada la etiqueta `approved` al issue.
 
 El bot se encarga de extraer la info de Open Library u OMDb, limpiar los datos y commitear el archivo al repositorio.
 
