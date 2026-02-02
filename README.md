@@ -1,76 +1,93 @@
 # open-catalog-project 📚🎬
 
-Base de datos estática de libros y películas servida mediante archivos JSON. Los datos se actualizan automáticamente con GitHub Actions cuando alguien propone contenido.
+Base de datos estática de libros y películas. Los datos se sirven como archivos JSON estáticos, ideal para apps que necesitan info rápida sin lidiar con APIs externas complejas.
 
 ---
 
-## 🌐 1. Uso de la API (Consumo)
+## 🌐 1. Cómo usar la API
 
-No necesitas clonar el repo si solo quieres los datos. Consúmelo como una API REST estática desde GitHub Pages:
+No necesitas clonar nada. Consúmelo directamente desde GitHub Pages:
 
 - **Libros:** `https://sebavidal10.github.io/open-catalog-project/data/books/[ISBN].json`
 - **Películas:** `https://sebavidal10.github.io/open-catalog-project/data/movies/[slug].json`
 
-### Ejemplo de respuesta (JSON)
+### Ejemplo de uso (JS)
+
+```javascript
+// Para un libro
+fetch(
+  'https://sebavidal10.github.io/open-catalog-project/data/books/9780141187761.json',
+)
+  .then((res) => res.json())
+  .then((data) => console.log(data.title));
+
+// Para una película
+fetch(
+  'https://sebavidal10.github.io/open-catalog-project/data/movies/inception.json',
+)
+  .then((res) => res.json())
+  .then((data) => console.log(data.director));
+```
+
+### Formatos de respuesta
+
+#### 📚 Libro
+
+```json
+{
+  "isbn": "9780141187761",
+  "title": "Nineteen Eighty-Four",
+  "authors": ["George Orwell"],
+  "publish_date": "January 29, 2004",
+  "pages": 384,
+  "cover": "https://covers.openlibrary.org/...",
+  "fetched_at": "2026-02-02T..."
+}
+```
+
+#### 🎬 Película
 
 ```json
 {
   "title": "Inception",
   "year": "2010",
   "director": "Christopher Nolan",
+  "writer": "Christopher Nolan",
+  "actors": "Leonardo DiCaprio, Joseph Gordon-Levitt",
   "poster": "https://m.media-amazon.com/...",
   "imdbRating": "8.8",
+  "plot": "A thief who steals corporate secrets...",
   "fetched_at": "2026-02-02T..."
 }
 ```
 
 ---
 
-## 🤝 2. Cómo Contribuir (Vía Issues)
+## 🤝 2. Cómo contribuir (Vía Issues)
 
-Este catálogo crece gracias a la comunidad. Si falta algo, no hace falta que sepas programar:
+Este catálogo crece con los aportes de todos. Si quieres agregar algo:
 
-1. Ve a **Issues** y crea uno nuevo.
-2. Título del Issue:
-   - Libro: `add-book: 9780141036144` (usa el ISBN-13)
-   - Película: `add-movie: The Matrix`
-3. Cuando un moderador le ponga la etiqueta `approved`, el bot se encargará de bajar la info y subirla al catálogo automáticamente.
+1. Ve a la pestaña de **Issues**.
+2. Abre uno nuevo usando este formato en el título:
+   - `add-book: [ISBN]` (Ej: `add-book: 9780141036144`)
+   - `add-movie: [Título]` (Ej: `add-movie: Interstellar`)
+3. Una vez aprobado por un moderador (etiqueta `approved`), el bot lo agregará automáticamente al catálogo.
 
 ---
 
-## 🛠️ 3. Setup y Desarrollo Local
+## 🛠️ 3. Setup Técnico
 
-Si quieres bajar los datos a tu máquina o desplegar tu propia copia:
+Si vas a hacer un **Fork** para tener tu propia versión:
 
-### Requisitos y API Key
+1. **Instala dependencias:** `npm install`
+2. **API Key:** Consigue una clave gratuita en [omdbapi.com](http://www.omdbapi.com/). Es **fundamental** para que las películas funcionen.
+3. **Secrets:** En tu repo, ve a `Settings > Secrets > Actions` y guarda tu clave como `OMDB_API_KEY`.
+4. **GitHub Pages:** Actívalo en la rama `main` para que los JSON sean públicos.
 
-Para las películas es **obligatorio** tener una clave de [OMDb API](http://www.omdbapi.com/) (es gratis). Sin ella, el script de películas fallará.
-
-### Instalación
-
-```bash
-git clone https://github.com/sebavidal10/open-catalog-project.git
-cd open-catalog-project
-npm install
-```
-
-### Ejecutar scripts manualmente
+Para probar los scripts manualmente:
 
 ```bash
-# Setea tu clave (solo para pelis)
-export OMDB_API_KEY="tu_clave_aqui"
-
-# Bajar info
+export OMDB_API_KEY="tu_clave"
 node scripts/fetch-book.js 9780141187761
-node scripts/fetch-movie.js "Interstellar"
+node scripts/fetch-movie.js "Inception"
 ```
-
----
-
-## 🚀 4. Tu propia versión
-
-Si quieres hostear esto tú mismo:
-
-1. Haz un **Fork** de este repo.
-2. Sube tu `OMDB_API_KEY` a los **Secrets** de GitHub (Settings > Secrets > Actions).
-3. Activa **GitHub Pages** en la configuración del repo apuntando a la rama `main`.
