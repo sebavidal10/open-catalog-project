@@ -1,0 +1,35 @@
+{
+  "title": "A Ghost Story",
+  "year": "2017",
+  "rated": "R",
+  "released": "28 Jul 2017",
+  "runtime": "92 min",
+  "genre": "Drama, Fantasy, Mystery",
+  "director": "David Lowery",
+  "writer": "David Lowery",
+  "actors": "Casey Affleck, Rooney Mara, McColm Cephas Jr.",
+  "plot": "In this singular exploration of legacy, love, loss, and the enormity of existence, a recently deceased, white-sheeted ghost returns to his suburban home to try to reconnect with his bereft wife.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "11 wins & 21 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzcyNTc1ODQzMF5BMl5BanBnXkFtZTgwNTgzMzY4MTI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "6.8",
+  "imdbID": "tt6265828",
+  "type": "movie",
+  "fetched_at": "2026-02-04T04:20:33.074Z"
+}
