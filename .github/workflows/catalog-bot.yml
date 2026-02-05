@@ -57,5 +57,31 @@ jobs:
               repo: context.repo.repo,
               issue_number: context.issue.number,
               state: 'closed',
-              body: '¡Listo! El contenido ha sido agregado al catálogo automáticamente.'
+              body: '¡Listo! El contenido ha sido agregado al catálogo y el despliegue automático ha comenzado.'
             })
+
+  deploy:
+    needs: catalog_update
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
