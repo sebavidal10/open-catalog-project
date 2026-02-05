@@ -1,0 +1,35 @@
+{
+  "title": "Napoleon",
+  "year": "2023",
+  "rated": "R",
+  "released": "22 Nov 2023",
+  "runtime": "158 min",
+  "genre": "Action, Adventure, Biography",
+  "director": "Ridley Scott",
+  "writer": "David Scarpa",
+  "actors": "Joaquin Phoenix, Vanessa Kirby, Tahar Rahim",
+  "plot": "An epic that details the chequered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+  "language": "English, French, Russian, German, Italian",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 3 Oscars. 6 wins & 47 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGQ1NGUxNDUtNjg3Yi00ZTZjLWIwOTUtNDBjYWY5ZjVmZGI4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "58%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "6.3",
+  "imdbID": "tt13287846",
+  "type": "movie",
+  "fetched_at": "2026-02-05T20:02:24.601Z"
+}
