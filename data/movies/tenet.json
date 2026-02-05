@@ -1,0 +1,35 @@
+{
+  "title": "Tenet",
+  "year": "2020",
+  "rated": "PG-13",
+  "released": "03 Sep 2020",
+  "runtime": "150 min",
+  "genre": "Action, Sci-Fi, Thriller",
+  "director": "Christopher Nolan",
+  "writer": "Christopher Nolan",
+  "actors": "John David Washington, Robert Pattinson, Elizabeth Debicki",
+  "plot": "Armed with only the word \"Tenet,\" and fighting for the survival of the entire world, CIA operative, The Protagonist, journeys through a twilight world of international espionage on a global mission that unfolds beyond real time.",
+  "language": "English",
+  "country": "United States, United Kingdom",
+  "awards": "Won 1 Oscar. 49 wins & 134 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTIzNDIxMzktMzlkMi00MmUyLWFmMjQtZDgwMjBmOGJmNTI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.3",
+  "imdbID": "tt6723592",
+  "type": "movie",
+  "fetched_at": "2026-02-05T20:25:50.861Z"
+}
