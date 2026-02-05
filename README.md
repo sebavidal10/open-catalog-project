@@ -82,7 +82,7 @@ Si vas a hacer un **Fork** para tener tu propia versión:
 1. **Instala dependencias:** `npm install`
 2. **API Key:** Consigue una clave gratuita en [omdbapi.com](http://www.omdbapi.com/). Es **fundamental** para que las películas funcionen.
 3. **Secrets:** En tu repo, ve a `Settings > Secrets > Actions` y guarda tu clave como `OMDB_API_KEY`.
-4. **GitHub Pages:** Actívalo en la rama `main` para que los JSON sean públicos.
+4. **GitHub Pages:** Ve a `Settings > Pages`. En **Source**, selecciona **GitHub Actions**. El workflow incluido (`deploy.yml`) se encargará del resto.
 
 Para probar los scripts manualmente:
 
