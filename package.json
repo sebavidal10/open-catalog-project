@@ -1,6 +1,6 @@
 {
   "name": "open-catalog-project",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A static media catalog API powered by GitHub Actions.",
   "main": "index.js",
   "type": "module",
