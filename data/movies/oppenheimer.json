@@ -1,0 +1,35 @@
+{
+  "title": "Oppenheimer",
+  "year": "2023",
+  "rated": "R",
+  "released": "21 Jul 2023",
+  "runtime": "180 min",
+  "genre": "Biography, Drama, History",
+  "director": "Christopher Nolan",
+  "writer": "Christopher Nolan, Kai Bird, Martin Sherwin",
+  "actors": "Cillian Murphy, Emily Blunt, Matt Damon",
+  "plot": "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bombs that brought an end to World War II.",
+  "language": "English, German, Italian, Dutch",
+  "country": "United States, United Kingdom",
+  "awards": "Won 7 Oscars. 364 wins & 376 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "8.2",
+  "imdbID": "tt15398776",
+  "type": "movie",
+  "fetched_at": "2026-02-05T20:26:07.915Z"
+}
