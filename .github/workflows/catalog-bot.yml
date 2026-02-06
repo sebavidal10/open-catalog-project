@@ -7,7 +7,7 @@ on:
 jobs:
   catalog_update:
     runs-on: ubuntu-latest
-    if: github.event.label.name == 'approved' && (startsWith(github.event.issue.title, 'add-book:') || startsWith(github.event.issue.title, 'add-movie:'))
+    if: github.event.label.name == 'approved' && (startsWith(github.event.issue.title, 'add-book:') || startsWith(github.event.issue.title, 'add-movie:') || startsWith(github.event.issue.title, 'add-comic:'))
     permissions:
       contents: write
       issues: write
@@ -39,6 +39,13 @@ jobs:
           # Extract title from title (e.g., "add-movie: The Matrix")
           TITLE=$(echo "${{ github.event.issue.title }}" | sed 's/add-movie: //')
           node scripts/fetch-movie.js "$TITLE"
+
+      - name: Process Comic
+        if: startsWith(github.event.issue.title, 'add-comic:')
+        run: |
+          # Extract ISBN from title (e.g., "add-comic: 9781302915544")
+          ISBN=$(echo "${{ github.event.issue.title }}" | sed 's/add-comic: //')
+          node scripts/fetch-comic.js "$ISBN"
 
       - name: Commit and Push changes
         run: |

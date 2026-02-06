@@ -10,6 +10,7 @@ No necesitas clonar nada. Consúmelo directamente desde GitHub Pages:
 
 - **Libros:** `https://sebavidal10.github.io/open-catalog-project/data/books/[ISBN].json`
 - **Películas:** `https://sebavidal10.github.io/open-catalog-project/data/movies/[slug].json`
+- **Cómics:** `https://sebavidal10.github.io/open-catalog-project/data/comics/[ISBN].json`
 
 ### Ejemplo de uso (JS)
 
@@ -27,6 +28,13 @@ fetch(
 )
   .then((res) => res.json())
   .then((data) => console.log(data.director));
+
+// Para un cómic
+fetch(
+  'https://sebavidal10.github.io/open-catalog-project/data/comics/9781302915544.json',
+)
+  .then((res) => res.json())
+  .then((data) => console.log(data.title));
 ```
 
 ### Formatos de respuesta
@@ -61,6 +69,22 @@ fetch(
 }
 ```
 
+#### 📚 Cómic
+
+```json
+{
+  "isbn": "9781302915544",
+  "title": "The Amazing Spider-Man Epic Collection: Great Power",
+  "authors": ["Stan Lee", "Steve Ditko"],
+  "publish_date": "2019",
+  "publisher": ["Marvel"],
+  "pages": 480,
+  "cover": "https://covers.openlibrary.org/...",
+  "subjects": ["Comics & Graphic Novels", "Superheroes"],
+  "fetched_at": "2026-02-05T..."
+}
+```
+
 ---
 
 ## 🤝 2. Cómo contribuir (Vía Issues)
@@ -71,6 +95,7 @@ Este catálogo crece con los aportes de todos. Si quieres agregar algo:
 2. Abre uno nuevo usando este formato en el título:
    - `add-book: [ISBN]` (Ej: `add-book: 9780141036144`)
    - `add-movie: [Título]` (Ej: `add-movie: Interstellar`)
+   - `add-comic: [ISBN]` (Ej: `add-comic: 9781302915544`)
 3. Una vez aprobado por un moderador (etiqueta `approved`), el bot lo agregará automáticamente al catálogo.
 
 ---
@@ -90,4 +115,5 @@ Para probar los scripts manualmente:
 export OMDB_API_KEY="tu_clave"
 node scripts/fetch-book.js 9780141187761
 node scripts/fetch-movie.js "Inception"
+node scripts/fetch-comic.js 9781302915544
 ```
