@@ -129,5 +129,12 @@ Si quieres colaborar con código:
    - `npm run format`: Arregla el estilo de código automáticamente.
 
 2. **Estructura:**
-   - `scripts/`: Scripts de ejecución (CLI).
    - `src/`: Código fuente reutilizable.
+   - `scripts/`: Scripts de ejecución (CLI).
+   - `tests/`: Pruebas unitarias de scripts.
+
+3. **Pruebas:**
+   Todo código nuevo debe incluir tests. Ejecútalos con:
+   ```bash
+   npm test
+   ```

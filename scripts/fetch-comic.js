@@ -4,26 +4,34 @@ import { cleanComicData } from '../src/models/comic.js';
 import fs from 'fs';
 import path from 'path';
 
-const input = process.argv.slice(2).join(' ');
+// ESM Check for direct execution
+import { fileURLToPath } from 'url';
 
-if (!input) {
-  console.error('Usage: node fetch-comic.js <ISBN or Title-Author>');
-  process.exit(1);
-}
+const isMainModule = process.argv[1] === fileURLToPath(import.meta.url);
 
 function isISBN(str) {
   const clean = str.replace(/-/g, '');
   return /^\d{9}[\dX]$|^\d{13}$/.test(clean);
 }
 
-// Search ISBN function removed as resolution is now handled by the consumer (Boveda)
+export async function fetchComic(input) {
+  if (!input) {
+    if (isMainModule) {
+      console.error('Usage: node fetch-comic.js <ISBN or Title-Author>');
+      process.exit(1);
+    }
+    throw new Error('Input required');
+  }
 
-async function fetchComic() {
   let isbn = input.replace(/-/g, '');
 
   if (!isISBN(isbn)) {
-    console.error('Error: Se requiere un ISBN válido (10 o 13 dígitos).');
-    process.exit(1);
+    const errorMsg = 'Error: Se requiere un ISBN válido (10 o 13 dígitos).';
+    if (isMainModule) {
+      console.error(errorMsg);
+      process.exit(1);
+    }
+    throw new Error(errorMsg);
   }
 
   // Validar si ya existe localmente
@@ -32,7 +40,7 @@ async function fetchComic() {
     console.log(`El comic con ISBN ${isbn} ya existe en el catálogo local:`);
     const existingData = fs.readFileSync(localPath, 'utf8');
     console.log(existingData);
-    return;
+    return JSON.parse(existingData);
   }
 
   const url = `https://openlibrary.org/api/books?bibkeys=ISBN:${isbn}&format=json&jscmd=data`;
@@ -41,11 +49,18 @@ async function fetchComic() {
     const data = await fetchData(url);
     const cleanedData = cleanComicData(isbn, data);
     saveFile('data/comics', `${isbn}.json`, cleanedData);
-    console.log(JSON.stringify(cleanedData, null, 2));
+    if (isMainModule) {
+      console.log(JSON.stringify(cleanedData, null, 2));
+    }
+    return cleanedData;
   } catch (error) {
     console.error('Error fetching comic:', error.message);
-    process.exit(1);
+    if (isMainModule) process.exit(1);
+    throw error;
   }
 }
 
-fetchComic();
+if (isMainModule) {
+  const input = process.argv.slice(2).join(' ');
+  fetchComic(input);
+}
