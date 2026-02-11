@@ -1,13 +1,9 @@
 {
   "isbn": "9780060837020",
   "title": "The Bell Jar",
-  "authors": [
-    "Sylvia Plath"
-  ],
+  "authors": ["Sylvia Plath"],
   "publish_date": "2006",
-  "publisher": [
-    "Harper Perennial"
-  ],
+  "publisher": ["Harper Perennial"],
   "pages": 288,
   "cover": "https://covers.openlibrary.org/b/id/8457807-L.jpg",
   "subjects": [

@@ -1,13 +1,9 @@
 {
   "isbn": "9780441013593",
   "title": "Dune",
-  "authors": [
-    "Frank Herbert"
-  ],
+  "authors": ["Frank Herbert"],
   "publish_date": "2005",
-  "publisher": [
-    "Ace Books"
-  ],
+  "publisher": ["Ace Books"],
   "pages": 528,
   "cover": "https://covers.openlibrary.org/b/id/14856017-L.jpg",
   "subjects": [

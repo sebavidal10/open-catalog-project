@@ -1,13 +1,9 @@
 {
   "isbn": "9780141392028",
   "title": "Understanding a Photograph",
-  "authors": [
-    "John Berger"
-  ],
+  "authors": ["John Berger"],
   "publish_date": "1967",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 240,
   "cover": "https://covers.openlibrary.org/b/id/7438926-L.jpg",
   "subjects": [

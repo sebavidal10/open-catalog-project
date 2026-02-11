@@ -1,13 +1,9 @@
 {
   "isbn": "9780141181653",
   "title": "The riddle of the sands",
-  "authors": [
-    "Erskine Childers"
-  ],
+  "authors": ["Erskine Childers"],
   "publish_date": "1999",
-  "publisher": [
-    "Penguin"
-  ],
+  "publisher": ["Penguin"],
   "pages": 284,
   "cover": "https://covers.openlibrary.org/b/id/8007342-L.jpg",
   "subjects": [

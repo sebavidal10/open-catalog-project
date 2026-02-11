@@ -1,13 +1,9 @@
 {
   "isbn": "9780374529345",
   "title": "The Certificate",
-  "authors": [
-    "Isaac Bashevis Singer"
-  ],
+  "authors": ["Isaac Bashevis Singer"],
   "publish_date": "August 2003",
-  "publisher": [
-    "Farrar, Straus and Giroux"
-  ],
+  "publisher": ["Farrar, Straus and Giroux"],
   "pages": 244,
   "cover": "https://covers.openlibrary.org/b/id/225212-L.jpg",
   "subjects": [

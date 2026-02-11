@@ -1,13 +1,9 @@
 {
   "isbn": "9780553801477",
   "title": "A Dance With Dragons",
-  "authors": [
-    "George R. R. Martin"
-  ],
+  "authors": ["George R. R. Martin"],
   "publish_date": "2011",
-  "publisher": [
-    "Bantam Books"
-  ],
+  "publisher": ["Bantam Books"],
   "cover": "https://covers.openlibrary.org/b/id/11299703-L.jpg",
   "subjects": [
     "New York Times bestseller",

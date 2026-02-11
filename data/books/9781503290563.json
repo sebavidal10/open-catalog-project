@@ -1,13 +1,9 @@
 {
   "isbn": "9781503290563",
   "title": "Pride and Prejudice",
-  "authors": [
-    "Jane Austen"
-  ],
+  "authors": ["Jane Austen"],
   "publish_date": "2014",
-  "publisher": [
-    "Millennium Publications"
-  ],
+  "publisher": ["Millennium Publications"],
   "cover": "https://covers.openlibrary.org/b/id/8097807-L.jpg",
   "subjects": [
     "Fiction, Romance, Historical, Regency",

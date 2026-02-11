@@ -1,13 +1,9 @@
 {
   "isbn": "9780141439556",
   "title": "Wuthering Heights",
-  "authors": [
-    "Emily Brontë"
-  ],
+  "authors": ["Emily Brontë"],
   "publish_date": "2003",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 353,
   "cover": "https://covers.openlibrary.org/b/id/14834848-L.jpg",
   "subjects": [

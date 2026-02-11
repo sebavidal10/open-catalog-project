@@ -1,13 +1,9 @@
 {
   "isbn": "9780545010221",
   "title": "Harry Potter and the Deathly Hallows",
-  "authors": [
-    "J. K. Rowling"
-  ],
+  "authors": ["J. K. Rowling"],
   "publish_date": "2007",
-  "publisher": [
-    "Arthur A. Levine Books"
-  ],
+  "publisher": ["Arthur A. Levine Books"],
   "cover": "https://covers.openlibrary.org/b/id/15159977-L.jpg",
   "subjects": [
     "the Elder Wand",

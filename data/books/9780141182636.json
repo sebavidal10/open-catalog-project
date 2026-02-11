@@ -1,14 +1,9 @@
 {
   "isbn": "9780141182636",
   "title": "The Great Gatsby",
-  "authors": [
-    "F. Scott Fitzgerald"
-  ],
+  "authors": ["F. Scott Fitzgerald"],
   "publish_date": "2000 February 24",
-  "publisher": [
-    "Penguin Books",
-    "Gardners Books"
-  ],
+  "publisher": ["Penguin Books", "Gardners Books"],
   "pages": 240,
   "cover": "https://covers.openlibrary.org/b/id/8239627-L.jpg",
   "subjects": [

@@ -1,14 +1,9 @@
 {
   "isbn": "9781524763138",
   "title": "Becoming",
-  "authors": [
-    "Michelle Obama"
-  ],
+  "authors": ["Michelle Obama"],
   "publish_date": "Nov 13, 2018",
-  "publisher": [
-    "Crown Publishing Group",
-    "Crown"
-  ],
+  "publisher": ["Crown Publishing Group", "Crown"],
   "pages": 448,
   "cover": "https://covers.openlibrary.org/b/id/12983462-L.jpg",
   "subjects": [

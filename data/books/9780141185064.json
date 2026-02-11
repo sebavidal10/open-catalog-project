@@ -1,13 +1,9 @@
 {
   "isbn": "9780141185064",
   "title": "The Grapes of Wrath (Penguin Modern Classics)",
-  "authors": [
-    "John Steinbeck"
-  ],
+  "authors": ["John Steinbeck"],
   "publish_date": "September 7, 2000",
-  "publisher": [
-    "Penguin Books Ltd"
-  ],
+  "publisher": ["Penguin Books Ltd"],
   "pages": 528,
   "cover": "https://covers.openlibrary.org/b/id/107962-L.jpg",
   "subjects": [

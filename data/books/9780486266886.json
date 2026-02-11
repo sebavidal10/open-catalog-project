@@ -1,13 +1,9 @@
 {
   "isbn": "9780486266886",
   "title": "The  strange case of Dr. Jekyll and Mr. Hyde",
-  "authors": [
-    "Robert Louis Stevenson"
-  ],
+  "authors": ["Robert Louis Stevenson"],
   "publish_date": "1991",
-  "publisher": [
-    "Dover Publications"
-  ],
+  "publisher": ["Dover Publications"],
   "pages": 54,
   "cover": "https://covers.openlibrary.org/b/id/310878-L.jpg",
   "subjects": [

@@ -1,13 +1,9 @@
 {
   "isbn": "9780141393070",
   "title": "Father Brown",
-  "authors": [
-    "Gilbert Keith Chesterton"
-  ],
+  "authors": ["Gilbert Keith Chesterton"],
   "publish_date": "2013",
-  "publisher": [
-    "Penguin Books, Limited"
-  ],
+  "publisher": ["Penguin Books, Limited"],
   "subjects": [],
   "url": "https://openlibrary.org/books/OL40397961M/Father_Brown",
   "fetched_at": "2026-02-02T16:17:23.475Z"

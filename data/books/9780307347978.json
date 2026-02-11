@@ -1,13 +1,9 @@
 {
   "isbn": "9780307347978",
   "title": "Fahrenheit 451",
-  "authors": [
-    "Ray Bradbury"
-  ],
+  "authors": ["Ray Bradbury"],
   "publish_date": "1993",
-  "publisher": [
-    "Plaza & Janés"
-  ],
+  "publisher": ["Plaza & Janés"],
   "pages": 183,
   "subjects": [
     "Mechanical Hound",

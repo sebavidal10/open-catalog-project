@@ -1,13 +1,9 @@
 {
   "isbn": "9780140186390",
   "title": "East of Eden",
-  "authors": [
-    "John Steinbeck"
-  ],
+  "authors": ["John Steinbeck"],
   "publish_date": "1992",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 602,
   "cover": "https://covers.openlibrary.org/b/id/12449298-L.jpg",
   "subjects": [

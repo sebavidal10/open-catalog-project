@@ -1,20 +1,10 @@
 {
   "isbn": "9780141392011",
   "title": "Road Through the Wall",
-  "authors": [
-    "Shirley Jackson",
-    "Ruth Franklin"
-  ],
+  "authors": ["Shirley Jackson", "Ruth Franklin"],
   "publish_date": "2013",
-  "publisher": [
-    "Penguin Books, Limited"
-  ],
-  "subjects": [
-    "Fiction, general",
-    "California, fiction",
-    "Suburbs",
-    "Fiction"
-  ],
+  "publisher": ["Penguin Books, Limited"],
+  "subjects": ["Fiction, general", "California, fiction", "Suburbs", "Fiction"],
   "url": "https://openlibrary.org/books/OL38673015M/Road_Through_the_Wall",
   "fetched_at": "2026-02-02T16:17:42.730Z"
 }

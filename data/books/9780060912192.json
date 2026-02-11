@@ -1,18 +1,12 @@
 {
   "isbn": "9780060912192",
   "title": "During ceasefire",
-  "authors": [
-    "Sharona Muir"
-  ],
+  "authors": ["Sharona Muir"],
   "publish_date": "1985",
-  "publisher": [
-    "Harper & Row"
-  ],
+  "publisher": ["Harper & Row"],
   "pages": 93,
   "cover": "https://covers.openlibrary.org/b/id/4941348-L.jpg",
-  "subjects": [
-    "American literature"
-  ],
+  "subjects": ["American literature"],
   "url": "https://openlibrary.org/books/OL2869116M/During_ceasefire",
   "fetched_at": "2026-02-02T16:21:54.656Z"
 }

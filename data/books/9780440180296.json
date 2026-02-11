@@ -1,13 +1,9 @@
 {
   "isbn": "9780440180296",
   "title": "Slaughterhouse-five, or, The children's crusade",
-  "authors": [
-    "Kurt Vonnegut"
-  ],
+  "authors": ["Kurt Vonnegut"],
   "publish_date": "1988",
-  "publisher": [
-    "Dell"
-  ],
+  "publisher": ["Dell"],
   "pages": 215,
   "subjects": [
     "American science fiction",

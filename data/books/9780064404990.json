@@ -1,13 +1,9 @@
 {
   "isbn": "9780064404990",
   "title": "The Lion, the Witch and the Wardrobe",
-  "authors": [
-    "C. S. Lewis"
-  ],
+  "authors": ["C. S. Lewis"],
   "publish_date": "1994",
-  "publisher": [
-    "HarperTrophy"
-  ],
+  "publisher": ["HarperTrophy"],
   "pages": 189,
   "cover": "https://covers.openlibrary.org/b/id/9255461-L.jpg",
   "subjects": [

@@ -1,13 +1,9 @@
 {
   "isbn": "9780553108033",
   "title": "A Clash of Kings",
-  "authors": [
-    "George R. R. Martin"
-  ],
+  "authors": ["George R. R. Martin"],
   "publish_date": "1999",
-  "publisher": [
-    "Bantam Books"
-  ],
+  "publisher": ["Bantam Books"],
   "pages": 761,
   "cover": "https://covers.openlibrary.org/b/id/8231751-L.jpg",
   "subjects": [

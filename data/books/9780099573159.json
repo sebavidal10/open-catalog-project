@@ -1,16 +1,9 @@
 {
   "isbn": "9780099573159",
   "title": "Portrait of the Artist As a Young Man",
-  "authors": [
-    "James Joyce",
-    "James Joyce",
-    "james joyce",
-    "J Joyce"
-  ],
+  "authors": ["James Joyce", "James Joyce", "james joyce", "J Joyce"],
   "publish_date": "2013",
-  "publisher": [
-    "Penguin Random House"
-  ],
+  "publisher": ["Penguin Random House"],
   "pages": 288,
   "subjects": [
     "Fiction",

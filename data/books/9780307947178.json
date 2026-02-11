@@ -1,13 +1,9 @@
 {
   "isbn": "9780307947178",
   "title": "David Copperfield",
-  "authors": [
-    "Charles Dickens"
-  ],
+  "authors": ["Charles Dickens"],
   "publish_date": "2012",
-  "publisher": [
-    "Vintage Books"
-  ],
+  "publisher": ["Vintage Books"],
   "pages": 866,
   "subjects": [
     "British and irish drama (dramatic works by one author)",

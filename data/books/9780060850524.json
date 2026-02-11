@@ -1,13 +1,9 @@
 {
   "isbn": "9780060850524",
   "title": "Brave New World",
-  "authors": [
-    "Aldous Huxley"
-  ],
+  "authors": ["Aldous Huxley"],
   "publish_date": "1932",
-  "publisher": [
-    "Harper Perennial"
-  ],
+  "publisher": ["Harper Perennial"],
   "pages": 281,
   "cover": "https://covers.openlibrary.org/b/id/12992919-L.jpg",
   "subjects": [

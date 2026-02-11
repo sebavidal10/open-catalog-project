@@ -1,13 +1,9 @@
 {
   "isbn": "9780143039433",
   "title": "The Grapes of Wrath",
-  "authors": [
-    "John Steinbeck"
-  ],
+  "authors": ["John Steinbeck"],
   "publish_date": "2006",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 464,
   "cover": "https://covers.openlibrary.org/b/id/111512-L.jpg",
   "subjects": [

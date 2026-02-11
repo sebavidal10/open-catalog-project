@@ -1,14 +1,9 @@
 {
   "isbn": "9781590302255",
   "title": "The Art of War",
-  "authors": [
-    "孙武",
-    "Sun Tzu "
-  ],
+  "authors": ["孙武", "Sun Tzu "],
   "publish_date": "January 11, 2005",
-  "publisher": [
-    "Shambhala"
-  ],
+  "publisher": ["Shambhala"],
   "pages": 224,
   "cover": "https://covers.openlibrary.org/b/id/859604-L.jpg",
   "subjects": [

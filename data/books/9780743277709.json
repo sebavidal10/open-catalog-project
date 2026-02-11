@@ -1,13 +1,9 @@
 {
   "isbn": "9780743277709",
   "title": "Watership Down",
-  "authors": [
-    "Richard Adams"
-  ],
+  "authors": ["Richard Adams"],
   "publish_date": "2005",
-  "publisher": [
-    "Scribner"
-  ],
+  "publisher": ["Scribner"],
   "pages": 476,
   "cover": "https://covers.openlibrary.org/b/id/9269080-L.jpg",
   "subjects": [

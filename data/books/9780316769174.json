@@ -1,15 +1,9 @@
 {
   "isbn": "9780316769174",
   "title": "The catcher in the rye",
-  "authors": [
-    "J. D. Salinger"
-  ],
+  "authors": ["J. D. Salinger"],
   "publish_date": "2001",
-  "publisher": [
-    "Little, Brown",
-    "Back Bay Books",
-    "Little, Brown and Company"
-  ],
+  "publisher": ["Little, Brown", "Back Bay Books", "Little, Brown and Company"],
   "pages": 277,
   "cover": "https://covers.openlibrary.org/b/id/14813208-L.jpg",
   "subjects": [

@@ -1,14 +1,9 @@
 {
   "isbn": "9780141181837",
   "title": "Spontaneous Mind",
-  "authors": [
-    "Allen Ginsberg",
-    "David A. Carter"
-  ],
+  "authors": ["Allen Ginsberg", "David A. Carter"],
   "publish_date": "2001",
-  "publisher": [
-    "Penguin Books, Limited"
-  ],
+  "publisher": ["Penguin Books, Limited"],
   "subjects": [
     "Poetry",
     "New York Times reviewed",

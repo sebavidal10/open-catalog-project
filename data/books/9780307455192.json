@@ -1,13 +1,9 @@
 {
   "isbn": "9780307455192",
   "title": "Jane Eyre",
-  "authors": [
-    "Charlotte Brontë"
-  ],
+  "authors": ["Charlotte Brontë"],
   "publish_date": "2009",
-  "publisher": [
-    "Vintage Classics"
-  ],
+  "publisher": ["Vintage Classics"],
   "pages": 284,
   "subjects": [
     "Fiction",

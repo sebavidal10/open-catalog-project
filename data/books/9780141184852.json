@@ -1,13 +1,9 @@
 {
   "isbn": "9780141184852",
   "title": "Seize the Day",
-  "authors": [
-    "Saul Bellow"
-  ],
+  "authors": ["Saul Bellow"],
   "publish_date": "April 26, 2001",
-  "publisher": [
-    "Penguin Classics"
-  ],
+  "publisher": ["Penguin Classics"],
   "pages": 144,
   "cover": "https://covers.openlibrary.org/b/id/107950-L.jpg",
   "subjects": [

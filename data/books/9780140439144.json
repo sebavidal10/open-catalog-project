@@ -1,15 +1,9 @@
 {
   "isbn": "9780140439144",
   "title": "John Dryden",
-  "authors": [
-    "John Dryden",
-    "John Dryden",
-    "John Mitford"
-  ],
+  "authors": ["John Dryden", "John Dryden", "John Mitford"],
   "publish_date": "2001",
-  "publisher": [
-    "Penguin"
-  ],
+  "publisher": ["Penguin"],
   "pages": 582,
   "cover": "https://covers.openlibrary.org/b/id/8359522-L.jpg",
   "subjects": [

@@ -1,14 +1,9 @@
 {
   "isbn": "9780140186529",
   "title": "Heart of Darkness",
-  "authors": [
-    "Joseph Conrad"
-  ],
+  "authors": ["Joseph Conrad"],
   "publish_date": "1995",
-  "publisher": [
-    "Penguin Books",
-    "Penguin Classics"
-  ],
+  "publisher": ["Penguin Books", "Penguin Classics"],
   "pages": 166,
   "cover": "https://covers.openlibrary.org/b/id/97668-L.jpg",
   "subjects": [

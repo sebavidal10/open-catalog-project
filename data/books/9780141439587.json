@@ -1,13 +1,9 @@
 {
   "isbn": "9780141439587",
   "title": "Emma",
-  "authors": [
-    "Jane Austen"
-  ],
+  "authors": ["Jane Austen"],
   "publish_date": "2015",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 512,
   "cover": "https://covers.openlibrary.org/b/id/12991890-L.jpg",
   "subjects": [

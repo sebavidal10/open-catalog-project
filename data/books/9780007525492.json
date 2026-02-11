@@ -1,13 +1,9 @@
 {
   "isbn": "9780007525492",
   "title": "The Hobbit",
-  "authors": [
-    "J.R.R. Tolkien"
-  ],
+  "authors": ["J.R.R. Tolkien"],
   "publish_date": "2013",
-  "publisher": [
-    "Harper Collins Publishers"
-  ],
+  "publisher": ["Harper Collins Publishers"],
   "pages": 389,
   "cover": "https://covers.openlibrary.org/b/id/10326849-L.jpg",
   "subjects": [

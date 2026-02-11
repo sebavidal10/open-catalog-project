@@ -1,13 +1,9 @@
 {
   "isbn": "9780345339713",
   "title": "The Two Towers",
-  "authors": [
-    "J.R.R. Tolkien"
-  ],
+  "authors": ["J.R.R. Tolkien"],
   "publish_date": "2001",
-  "publisher": [
-    "Ballantine Books"
-  ],
+  "publisher": ["Ballantine Books"],
   "pages": 398,
   "cover": "https://covers.openlibrary.org/b/id/14624641-L.jpg",
   "subjects": [

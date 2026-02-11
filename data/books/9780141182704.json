@@ -1,13 +1,9 @@
 {
   "isbn": "9780141182704",
   "title": "Animal Farm",
-  "authors": [
-    "George Orwell"
-  ],
+  "authors": ["George Orwell"],
   "publish_date": "February 24, 2000",
-  "publisher": [
-    "Penguin Books Ltd"
-  ],
+  "publisher": ["Penguin Books Ltd"],
   "pages": 144,
   "cover": "https://covers.openlibrary.org/b/id/12628687-L.jpg",
   "subjects": [

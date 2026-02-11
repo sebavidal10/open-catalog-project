@@ -1,13 +1,9 @@
 {
   "isbn": "9780061122415",
   "title": "The Alchemist",
-  "authors": [
-    "Paulo Coelho"
-  ],
+  "authors": ["Paulo Coelho"],
   "publish_date": "2006",
-  "publisher": [
-    "HarperSanFrancisco"
-  ],
+  "publisher": ["HarperSanFrancisco"],
   "pages": 208,
   "cover": "https://covers.openlibrary.org/b/id/15121528-L.jpg",
   "subjects": [

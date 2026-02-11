@@ -1,13 +1,9 @@
 {
   "isbn": "9780140042597",
   "title": "On the road",
-  "authors": [
-    "Jack Kerouac"
-  ],
+  "authors": ["Jack Kerouac"],
   "publish_date": "1976",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 310,
   "cover": "https://covers.openlibrary.org/b/id/9064107-L.jpg",
   "subjects": [

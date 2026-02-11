@@ -1,19 +1,12 @@
 {
   "isbn": "9780060930332",
   "title": "How to Get Married After 35",
-  "authors": [
-    "Helena Hacker Rosenberg"
-  ],
+  "authors": ["Helena Hacker Rosenberg"],
   "publish_date": "February 1, 1999",
-  "publisher": [
-    "Collins"
-  ],
+  "publisher": ["Collins"],
   "pages": 288,
   "cover": "https://covers.openlibrary.org/b/id/1069218-L.jpg",
-  "subjects": [
-    "Marriage",
-    "Middle-aged persons"
-  ],
+  "subjects": ["Marriage", "Middle-aged persons"],
   "url": "https://openlibrary.org/books/OL7284990M/How_to_Get_Married_After_35",
   "fetched_at": "2026-02-02T16:21:36.588Z"
 }

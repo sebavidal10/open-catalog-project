@@ -1,13 +1,9 @@
 {
   "isbn": "9780345339683",
   "title": "The Hobbit",
-  "authors": [
-    "J.R.R. Tolkien"
-  ],
+  "authors": ["J.R.R. Tolkien"],
   "publish_date": "1956",
-  "publisher": [
-    "Del Rey Books"
-  ],
+  "publisher": ["Del Rey Books"],
   "cover": "https://covers.openlibrary.org/b/id/14642687-L.jpg",
   "subjects": [
     "Arkenstone",

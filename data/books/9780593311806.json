@@ -1,14 +1,9 @@
 {
   "isbn": "9780593311806",
   "title": "Mrs. Dalloway",
-  "authors": [
-    "Virginia Woolf",
-    "Anne Fernald"
-  ],
+  "authors": ["Virginia Woolf", "Anne Fernald"],
   "publish_date": "2021",
-  "publisher": [
-    "Knopf Doubleday Publishing Group"
-  ],
+  "publisher": ["Knopf Doubleday Publishing Group"],
   "subjects": [
     "English literature",
     "Triangles (Interpersonal relations)",

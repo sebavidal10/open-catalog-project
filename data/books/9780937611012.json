@@ -1,13 +1,9 @@
 {
   "isbn": "9780937611012",
   "title": "You can heal your life",
-  "authors": [
-    "Louise L. Hay"
-  ],
+  "authors": ["Louise L. Hay"],
   "publish_date": "1995",
-  "publisher": [
-    "Hay House"
-  ],
+  "publisher": ["Hay House"],
   "pages": 248,
   "cover": "https://covers.openlibrary.org/b/id/6577452-L.jpg",
   "subjects": [

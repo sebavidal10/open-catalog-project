@@ -1,13 +1,9 @@
 {
   "isbn": "9780141439846",
   "title": "Dracula",
-  "authors": [
-    "Bram Stoker"
-  ],
+  "authors": ["Bram Stoker"],
   "publish_date": "2003",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 466,
   "cover": "https://covers.openlibrary.org/b/id/10541361-L.jpg",
   "subjects": [

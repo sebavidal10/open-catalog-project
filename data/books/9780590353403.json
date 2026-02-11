@@ -1,13 +1,9 @@
 {
   "isbn": "9780590353403",
   "title": "Harry Potter and the Sorcerer's Stone",
-  "authors": [
-    "J. K. Rowling"
-  ],
+  "authors": ["J. K. Rowling"],
   "publish_date": "1998",
-  "publisher": [
-    "Arthur A. Levine Books"
-  ],
+  "publisher": ["Arthur A. Levine Books"],
   "pages": 326,
   "cover": "https://covers.openlibrary.org/b/id/15160019-L.jpg",
   "subjects": [

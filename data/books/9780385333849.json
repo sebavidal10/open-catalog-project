@@ -1,13 +1,9 @@
 {
   "isbn": "9780385333849",
   "title": "Slaughterhouse-Five",
-  "authors": [
-    "Kurt Vonnegut"
-  ],
+  "authors": ["Kurt Vonnegut"],
   "publish_date": "1999-01",
-  "publisher": [
-    "Delta Trade Paperbacks"
-  ],
+  "publisher": ["Delta Trade Paperbacks"],
   "pages": 288,
   "cover": "https://covers.openlibrary.org/b/id/14951202-L.jpg",
   "subjects": [

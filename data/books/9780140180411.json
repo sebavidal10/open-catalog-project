@@ -1,14 +1,9 @@
 {
   "isbn": "9780140180411",
   "title": "Out of Africa (Twentieth Century Classics)",
-  "authors": [
-    "Isak Dinesen"
-  ],
+  "authors": ["Isak Dinesen"],
   "publish_date": "June 1994",
-  "publisher": [
-    "Penguin Books",
-    "Penguin Classic"
-  ],
+  "publisher": ["Penguin Books", "Penguin Classic"],
   "pages": 336,
   "cover": "https://covers.openlibrary.org/b/id/97026-L.jpg",
   "subjects": [

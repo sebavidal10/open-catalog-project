@@ -1,13 +1,9 @@
 {
   "isbn": "9780143129400",
   "title": "Lord of the Flies",
-  "authors": [
-    "William Golding"
-  ],
+  "authors": ["William Golding"],
   "publish_date": "Nov 15, 2016",
-  "publisher": [
-    "Penguin Classics"
-  ],
+  "publisher": ["Penguin Classics"],
   "pages": 336,
   "cover": "https://covers.openlibrary.org/b/id/10696417-L.jpg",
   "subjects": [

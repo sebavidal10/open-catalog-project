@@ -1,13 +1,9 @@
 {
   "isbn": "9780385484510",
   "title": "Tuesdays with Morrie",
-  "authors": [
-    "Mitch Albom"
-  ],
+  "authors": ["Mitch Albom"],
   "publish_date": "1997",
-  "publisher": [
-    "Doubleday"
-  ],
+  "publisher": ["Doubleday"],
   "pages": 193,
   "cover": "https://covers.openlibrary.org/b/id/12773866-L.jpg",
   "subjects": [

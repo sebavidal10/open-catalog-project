@@ -1,13 +1,9 @@
 {
   "isbn": "9780141393049",
   "title": "Nineteen Eighty-Four",
-  "authors": [
-    "George Orwell"
-  ],
+  "authors": ["George Orwell"],
   "publish_date": "2013",
-  "publisher": [
-    "Penguin Books, Limited"
-  ],
+  "publisher": ["Penguin Books, Limited"],
   "pages": 368,
   "cover": "https://covers.openlibrary.org/b/id/15136386-L.jpg",
   "subjects": [

@@ -1,13 +1,9 @@
 {
   "isbn": "9780142437230",
   "title": "The ingenious hidalgo Don Quixote de la Mancha",
-  "authors": [
-    "Miguel de Cervantes Saavedra"
-  ],
+  "authors": ["Miguel de Cervantes Saavedra"],
   "publish_date": "2003",
-  "publisher": [
-    "Penguin Putnam"
-  ],
+  "publisher": ["Penguin Putnam"],
   "pages": 1023,
   "cover": "https://covers.openlibrary.org/b/id/12137158-L.jpg",
   "subjects": [

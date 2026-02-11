@@ -1,14 +1,9 @@
 {
   "isbn": "9780156711425",
   "title": "A passage to India",
-  "authors": [
-    "E. M. Forster"
-  ],
+  "authors": ["E. M. Forster"],
   "publish_date": "1984-01-01",
-  "publisher": [
-    "Harcourt Brace Jovanovich",
-    "A Harvest/HBJ Book"
-  ],
+  "publisher": ["Harcourt Brace Jovanovich", "A Harvest/HBJ Book"],
   "pages": 322,
   "cover": "https://covers.openlibrary.org/b/id/9477020-L.jpg",
   "subjects": [

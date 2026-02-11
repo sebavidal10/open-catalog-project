@@ -1,13 +1,9 @@
 {
   "isbn": "9780679732242",
   "title": "The Sound and the Fury",
-  "authors": [
-    "William Faulkner"
-  ],
+  "authors": ["William Faulkner"],
   "publish_date": "2025",
-  "publisher": [
-    "Penguin"
-  ],
+  "publisher": ["Penguin"],
   "pages": 321,
   "cover": "https://covers.openlibrary.org/b/id/15159779-L.jpg",
   "subjects": [

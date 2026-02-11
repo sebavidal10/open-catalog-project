@@ -1,13 +1,9 @@
 {
   "isbn": "9780141182803",
   "title": "Ulysses",
-  "authors": [
-    "James Joyce"
-  ],
+  "authors": ["James Joyce"],
   "publish_date": "2000",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 1040,
   "cover": "https://covers.openlibrary.org/b/id/13136676-L.jpg",
   "subjects": [

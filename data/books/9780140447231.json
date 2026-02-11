@@ -1,13 +1,9 @@
 {
   "isbn": "9780140447231",
   "title": "Anna Karenina (Penguin Classics)",
-  "authors": [
-    "Лев Толстой"
-  ],
+  "authors": ["Лев Толстой"],
   "publish_date": "June 12, 2001",
-  "publisher": [
-    "Penguin Books Ltd"
-  ],
+  "publisher": ["Penguin Books Ltd"],
   "pages": 864,
   "cover": "https://covers.openlibrary.org/b/id/104233-L.jpg",
   "subjects": [

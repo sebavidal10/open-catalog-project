@@ -1,13 +1,9 @@
 {
   "isbn": "9780140449174",
   "title": "Anna Karenina",
-  "authors": [
-    "Leo Tolstroy"
-  ],
+  "authors": ["Leo Tolstroy"],
   "publish_date": "1873-77",
-  "publisher": [
-    "Penguin Classics"
-  ],
+  "publisher": ["Penguin Classics"],
   "pages": 837,
   "subjects": [
     "Anna Karenina (Fictitious character)",

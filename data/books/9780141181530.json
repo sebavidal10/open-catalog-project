@@ -1,13 +1,9 @@
 {
   "isbn": "9780141181530",
   "title": "French provincial cooking",
-  "authors": [
-    "Elizabeth David"
-  ],
+  "authors": ["Elizabeth David"],
   "publish_date": "1999",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 524,
   "cover": "https://covers.openlibrary.org/b/id/107731-L.jpg",
   "subjects": [

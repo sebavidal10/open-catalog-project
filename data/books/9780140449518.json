@@ -1,13 +1,9 @@
 {
   "isbn": "9780140449518",
   "title": "The Birds and Other Plays (Penguin Classics)",
-  "authors": [
-    "Aristophanes"
-  ],
+  "authors": ["Aristophanes"],
   "publish_date": "October 28, 2003",
-  "publisher": [
-    "Penguin Classics"
-  ],
+  "publisher": ["Penguin Classics"],
   "pages": 336,
   "cover": "https://covers.openlibrary.org/b/id/104372-L.jpg",
   "subjects": [

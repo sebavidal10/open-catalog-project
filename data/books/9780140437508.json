@@ -1,13 +1,9 @@
 {
   "isbn": "9780140437508",
   "title": "Three men in a boat",
-  "authors": [
-    "Jerome Klapka Jérôme"
-  ],
+  "authors": ["Jerome Klapka Jérôme"],
   "publish_date": "1999",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 361,
   "cover": "https://covers.openlibrary.org/b/id/103512-L.jpg",
   "subjects": [

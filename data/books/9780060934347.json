@@ -1,13 +1,9 @@
 {
   "isbn": "9780060934347",
   "title": "Don Quixote",
-  "authors": [
-    "Miguel de Cervantes Saavedra"
-  ],
+  "authors": ["Miguel de Cervantes Saavedra"],
   "publish_date": "2005",
-  "publisher": [
-    "Ecco"
-  ],
+  "publisher": ["Ecco"],
   "pages": 940,
   "subjects": [
     "Don Quixote (Cervantes Saavedra, Miguel de)",

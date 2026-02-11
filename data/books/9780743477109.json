@@ -1,13 +1,9 @@
 {
   "isbn": "9780743477109",
   "title": "The tragedy of Macbeth",
-  "authors": [
-    "William Shakespeare"
-  ],
+  "authors": ["William Shakespeare"],
   "publish_date": "2002",
-  "publisher": [
-    "Washington Square Press"
-  ],
+  "publisher": ["Washington Square Press"],
   "pages": 223,
   "cover": "https://covers.openlibrary.org/b/id/6615064-L.jpg",
   "subjects": [

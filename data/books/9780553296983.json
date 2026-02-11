@@ -1,13 +1,9 @@
 {
   "isbn": "9780553296983",
   "title": "The Diary of a Young Girl",
-  "authors": [
-    "Anne Frank"
-  ],
+  "authors": ["Anne Frank"],
   "publish_date": "1993-07",
-  "publisher": [
-    "Bantam Books"
-  ],
+  "publisher": ["Bantam Books"],
   "pages": 283,
   "cover": "https://covers.openlibrary.org/b/id/8583953-L.jpg",
   "subjects": [

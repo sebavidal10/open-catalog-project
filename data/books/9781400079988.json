@@ -1,13 +1,9 @@
 {
   "isbn": "9781400079988",
   "title": "War and Peace",
-  "authors": [
-    "Лев Толстой"
-  ],
+  "authors": ["Лев Толстой"],
   "publish_date": "2011",
-  "publisher": [
-    "Vintage Classics"
-  ],
+  "publisher": ["Vintage Classics"],
   "pages": 1273,
   "cover": "https://covers.openlibrary.org/b/id/12018409-L.jpg",
   "subjects": [

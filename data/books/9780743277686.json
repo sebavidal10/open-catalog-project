@@ -1,13 +1,9 @@
 {
   "isbn": "9780743277686",
   "title": "Grave matters",
-  "authors": [
-    "Harris, Mark"
-  ],
+  "authors": ["Harris, Mark"],
   "publish_date": "2007",
-  "publisher": [
-    "Scribner"
-  ],
+  "publisher": ["Scribner"],
   "pages": 193,
   "cover": "https://covers.openlibrary.org/b/id/9561800-L.jpg",
   "subjects": [

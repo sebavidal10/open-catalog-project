@@ -1,13 +1,9 @@
 {
   "isbn": "9780143034902",
   "title": "The Shadow of the Wind",
-  "authors": [
-    "Carlos Ruiz Zafón"
-  ],
+  "authors": ["Carlos Ruiz Zafón"],
   "publish_date": "2008?",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "cover": "https://covers.openlibrary.org/b/id/10107706-L.jpg",
   "subjects": [
     "Mothers and sons",

@@ -1,13 +1,9 @@
 {
   "isbn": "9780446310789",
   "title": "To Kill a Mockingbird",
-  "authors": [
-    "Harper Lee"
-  ],
+  "authors": ["Harper Lee"],
   "publish_date": "/1993",
-  "publisher": [
-    "Grand Central Publishing"
-  ],
+  "publisher": ["Grand Central Publishing"],
   "pages": 376,
   "cover": "https://covers.openlibrary.org/b/id/14351052-L.jpg",
   "subjects": [

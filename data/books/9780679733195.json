@@ -1,14 +1,9 @@
 {
   "isbn": "9780679733195",
   "title": "Life's dominion",
-  "authors": [
-    "Ronald Dworkin",
-    "R. M. Dworkin"
-  ],
+  "authors": ["Ronald Dworkin", "R. M. Dworkin"],
   "publish_date": "1994",
-  "publisher": [
-    "Vintage Books"
-  ],
+  "publisher": ["Vintage Books"],
   "pages": 273,
   "cover": "https://covers.openlibrary.org/b/id/420142-L.jpg",
   "subjects": [

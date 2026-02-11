@@ -1,13 +1,9 @@
 {
   "isbn": "9780060883287",
   "title": "One hundred years of solitude",
-  "authors": [
-    "Gabriel García Márquez"
-  ],
+  "authors": ["Gabriel García Márquez"],
   "publish_date": "2006",
-  "publisher": [
-    "Harper Perennial Modern Classics"
-  ],
+  "publisher": ["Harper Perennial Modern Classics"],
   "pages": 417,
   "cover": "https://covers.openlibrary.org/b/id/-1-L.jpg",
   "subjects": [

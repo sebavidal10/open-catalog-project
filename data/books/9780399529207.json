@@ -1,13 +1,9 @@
 {
   "isbn": "9780399529207",
   "title": "Lord of the Flies",
-  "authors": [
-    "William Golding"
-  ],
+  "authors": ["William Golding"],
   "publish_date": "2003",
-  "publisher": [
-    "Berkley"
-  ],
+  "publisher": ["Berkley"],
   "pages": 315,
   "cover": "https://covers.openlibrary.org/b/id/260789-L.jpg",
   "subjects": [

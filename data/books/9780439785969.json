@@ -1,13 +1,9 @@
 {
   "isbn": "9780439785969",
   "title": "Harry Potter and the Half-Blood Prince",
-  "authors": [
-    "J. K. Rowling"
-  ],
+  "authors": ["J. K. Rowling"],
   "publish_date": "2006-09",
-  "publisher": [
-    "Scholastic"
-  ],
+  "publisher": ["Scholastic"],
   "pages": 652,
   "cover": "https://covers.openlibrary.org/b/id/15156081-L.jpg",
   "subjects": [

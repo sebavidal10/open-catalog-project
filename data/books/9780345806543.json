@@ -1,14 +1,9 @@
 {
   "isbn": "9780345806543",
   "title": "Go Tell It on the Mountain (Vintage International)",
-  "authors": [
-    "James Baldwin",
-    "James Baldwin"
-  ],
+  "authors": ["James Baldwin", "James Baldwin"],
   "publish_date": "Sep 12, 2013",
-  "publisher": [
-    "Vintage"
-  ],
+  "publisher": ["Vintage"],
   "pages": 272,
   "cover": "https://covers.openlibrary.org/b/id/8778195-L.jpg",
   "subjects": [

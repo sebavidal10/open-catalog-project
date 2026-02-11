@@ -1,15 +1,9 @@
 {
   "isbn": "9781400032716",
   "title": "The Curious Incident of the Dog in the Night-Time",
-  "authors": [
-    "Mark Haddon",
-    "Mark Haddon"
-  ],
+  "authors": ["Mark Haddon", "Mark Haddon"],
   "publish_date": "2003",
-  "publisher": [
-    "Vintage",
-    "Vintage Contemporaries"
-  ],
+  "publisher": ["Vintage", "Vintage Contemporaries"],
   "pages": 226,
   "cover": "https://covers.openlibrary.org/b/id/14614846-L.jpg",
   "subjects": [

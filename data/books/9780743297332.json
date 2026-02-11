@@ -1,13 +1,9 @@
 {
   "isbn": "9780743297332",
   "title": "The Sun Also Rises",
-  "authors": [
-    "Ernest Hemingway"
-  ],
+  "authors": ["Ernest Hemingway"],
   "publish_date": "October 17, 2006",
-  "publisher": [
-    "Scribner"
-  ],
+  "publisher": ["Scribner"],
   "pages": 256,
   "cover": "https://covers.openlibrary.org/b/id/475569-L.jpg",
   "subjects": [

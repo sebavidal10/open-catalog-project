@@ -1,13 +1,9 @@
 {
   "isbn": "9780684801544",
   "title": "Tender is the night",
-  "authors": [
-    "F. Scott Fitzgerald"
-  ],
+  "authors": ["F. Scott Fitzgerald"],
   "publish_date": "1995",
-  "publisher": [
-    "Scribner Paperback Fiction"
-  ],
+  "publisher": ["Scribner Paperback Fiction"],
   "pages": 317,
   "cover": "https://covers.openlibrary.org/b/id/424925-L.jpg",
   "subjects": [

@@ -1,13 +1,9 @@
 {
   "isbn": "9780140449266",
   "title": "The Count of Monte Cristo",
-  "authors": [
-    "Alexandre Dumas"
-  ],
+  "authors": ["Alexandre Dumas"],
   "publish_date": "2003",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 1276,
   "cover": "https://covers.openlibrary.org/b/id/14564134-L.jpg",
   "subjects": [

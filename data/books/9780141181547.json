@@ -1,18 +1,10 @@
 {
   "isbn": "9780141181547",
   "title": "Harmonium",
-  "authors": [
-    "Wallace Stevens"
-  ],
+  "authors": ["Wallace Stevens"],
   "publish_date": "1999",
-  "publisher": [
-    "Penguin Books"
-  ],
-  "subjects": [
-    "Fiction, general",
-    "Poetry",
-    "American poetry"
-  ],
+  "publisher": ["Penguin Books"],
+  "subjects": ["Fiction, general", "Poetry", "American poetry"],
   "url": "https://openlibrary.org/books/OL387269M/Harmonium",
   "fetched_at": "2026-02-02T16:17:57.473Z"
 }

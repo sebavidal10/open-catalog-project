@@ -1,13 +1,9 @@
 {
   "isbn": "9780141439518",
   "title": "Pride and Prejudice",
-  "authors": [
-    "Jane Austen"
-  ],
+  "authors": ["Jane Austen"],
   "publish_date": "2003",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 435,
   "cover": "https://covers.openlibrary.org/b/id/12645114-L.jpg",
   "subjects": [

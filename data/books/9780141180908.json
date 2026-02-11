@@ -1,13 +1,9 @@
 {
   "isbn": "9780141180908",
   "title": "Decline and Fall (Penguin Modern Classics)",
-  "authors": [
-    "Evelyn Waugh"
-  ],
+  "authors": ["Evelyn Waugh"],
   "publish_date": "July 5, 2001",
-  "publisher": [
-    "Penguin Books Ltd"
-  ],
+  "publisher": ["Penguin Books Ltd"],
   "pages": 256,
   "cover": "https://covers.openlibrary.org/b/id/107692-L.jpg",
   "subjects": [

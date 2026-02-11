@@ -1,13 +1,9 @@
 {
   "isbn": "9780143127741",
   "title": "The Body Keeps the Score",
-  "authors": [
-    "Bessel van der Kolk"
-  ],
+  "authors": ["Bessel van der Kolk"],
   "publish_date": "Sep 08, 2015",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 464,
   "cover": "https://covers.openlibrary.org/b/id/14849962-L.jpg",
   "subjects": [

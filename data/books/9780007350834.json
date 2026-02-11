@@ -1,13 +1,9 @@
 {
   "isbn": "9780007350834",
   "title": "Adventures of Sherlock Holmes",
-  "authors": [
-    "Arthur Conan Doyle"
-  ],
+  "authors": ["Arthur Conan Doyle"],
   "publish_date": "2010",
-  "publisher": [
-    "HarperCollins Publishers Limited"
-  ],
+  "publisher": ["HarperCollins Publishers Limited"],
   "pages": 336,
   "subjects": [
     "Classic Literature",

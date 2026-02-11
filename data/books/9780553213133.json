@@ -1,13 +1,9 @@
 {
   "isbn": "9780553213133",
   "title": "Anne of Green Gables",
-  "authors": [
-    "Lucy Maud Montgomery"
-  ],
+  "authors": ["Lucy Maud Montgomery"],
   "publish_date": "1987",
-  "publisher": [
-    "Bantam Books"
-  ],
+  "publisher": ["Bantam Books"],
   "cover": "https://covers.openlibrary.org/b/id/14639080-L.jpg",
   "subjects": [
     "Fiction",

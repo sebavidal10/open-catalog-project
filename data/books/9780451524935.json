@@ -1,13 +1,9 @@
 {
   "isbn": "9780451524935",
   "title": "Nineteen Eighty-Four",
-  "authors": [
-    "George Orwell"
-  ],
+  "authors": ["George Orwell"],
   "publish_date": "1993?",
-  "publisher": [
-    "Signet Classics"
-  ],
+  "publisher": ["Signet Classics"],
   "pages": 328,
   "cover": "https://covers.openlibrary.org/b/id/12054527-L.jpg",
   "subjects": [

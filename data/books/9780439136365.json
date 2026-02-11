@@ -1,13 +1,9 @@
 {
   "isbn": "9780439136365",
   "title": "Harry Potter and the prisoner of Azkaban",
-  "authors": [
-    "J. K. Rowling"
-  ],
+  "authors": ["J. K. Rowling"],
   "publish_date": "1999",
-  "publisher": [
-    "Arthur A. Levine Books"
-  ],
+  "publisher": ["Arthur A. Levine Books"],
   "pages": 435,
   "cover": "https://covers.openlibrary.org/b/id/14656874-L.jpg",
   "subjects": [

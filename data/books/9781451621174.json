@@ -1,13 +1,9 @@
 {
   "isbn": "9781451621174",
   "title": "Catch-22: 50th Anniversary Edition",
-  "authors": [
-    "Joseph Heller"
-  ],
+  "authors": ["Joseph Heller"],
   "publish_date": "April 5, 2011",
-  "publisher": [
-    "Simon & Schuster"
-  ],
+  "publisher": ["Simon & Schuster"],
   "pages": 524,
   "cover": "https://covers.openlibrary.org/b/id/6716903-L.jpg",
   "subjects": [

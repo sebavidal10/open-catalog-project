@@ -1,14 +1,9 @@
 {
   "isbn": "9781400031702",
   "title": "The secret history",
-  "authors": [
-    "Donna Tartt"
-  ],
+  "authors": ["Donna Tartt"],
   "publish_date": "2004",
-  "publisher": [
-    "Vintage Books",
-    "Vintage Contemporaries"
-  ],
+  "publisher": ["Vintage Books", "Vintage Contemporaries"],
   "pages": 557,
   "cover": "https://covers.openlibrary.org/b/id/7891406-L.jpg",
   "subjects": [

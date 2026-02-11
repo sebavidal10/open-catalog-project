@@ -1,15 +1,9 @@
 {
   "isbn": "9788496581814",
   "title": "Freakonomics",
-  "authors": [
-    "Steven D. Levitt",
-    "Stephen J. Dubner",
-    "Andrea Montero Cusset"
-  ],
+  "authors": ["Steven D. Levitt", "Stephen J. Dubner", "Andrea Montero Cusset"],
   "publish_date": "March 2007",
-  "publisher": [
-    "Zeta Editores"
-  ],
+  "publisher": ["Zeta Editores"],
   "cover": "https://covers.openlibrary.org/b/id/3334875-L.jpg",
   "subjects": [
     "Economics",

@@ -1,13 +1,9 @@
 {
   "isbn": "9780141181615",
   "title": "The realist",
-  "authors": [
-    "Hermann Broch"
-  ],
+  "authors": ["Hermann Broch"],
   "publish_date": "2000",
-  "publisher": [
-    "Penguin"
-  ],
+  "publisher": ["Penguin"],
   "pages": 311,
   "subjects": [],
   "url": "https://openlibrary.org/books/OL19470294M/The_realist",

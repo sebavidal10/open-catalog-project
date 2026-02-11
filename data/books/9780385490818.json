@@ -1,14 +1,9 @@
 {
   "isbn": "9780385490818",
   "title": "The Handmaid's Tale",
-  "authors": [
-    "Margaret Atwood",
-    "Margaret Atwood"
-  ],
+  "authors": ["Margaret Atwood", "Margaret Atwood"],
   "publish_date": "2003?",
-  "publisher": [
-    "Anchor Books"
-  ],
+  "publisher": ["Anchor Books"],
   "pages": 311,
   "cover": "https://covers.openlibrary.org/b/id/15162571-L.jpg",
   "subjects": [

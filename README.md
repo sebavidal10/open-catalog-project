@@ -117,3 +117,17 @@ node scripts/fetch-book.js 9780141187761
 node scripts/fetch-movie.js "Inception"
 node scripts/fetch-comic.js 9781302915544
 ```
+
+---
+
+## 👨‍💻 4. Desarrollo
+
+Si quieres colaborar con código:
+
+1. **Formateo y Linting:**
+   - `npm run lint`: Busca errores.
+   - `npm run format`: Arregla el estilo de código automáticamente.
+
+2. **Estructura:**
+   - `scripts/`: Scripts de ejecución (CLI).
+   - `src/`: Código fuente reutilizable.

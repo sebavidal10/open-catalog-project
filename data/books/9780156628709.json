@@ -1,13 +1,9 @@
 {
   "isbn": "9780156628709",
   "title": "Mrs. Dalloway",
-  "authors": [
-    "Virginia Woolf"
-  ],
+  "authors": ["Virginia Woolf"],
   "publish_date": "1981",
-  "publisher": [
-    "Harcourt Brace Jovanovich"
-  ],
+  "publisher": ["Harcourt Brace Jovanovich"],
   "pages": 197,
   "cover": "https://covers.openlibrary.org/b/id/6929140-L.jpg",
   "subjects": [

@@ -1,13 +1,9 @@
 {
   "isbn": "9780544003415",
   "title": "The Lord Of The Rings",
-  "authors": [
-    "J.R.R. Tolkien"
-  ],
+  "authors": ["J.R.R. Tolkien"],
   "publish_date": "August 14, 2012",
-  "publisher": [
-    "William Morrow Paperbacks"
-  ],
+  "publisher": ["William Morrow Paperbacks"],
   "cover": "https://covers.openlibrary.org/b/id/13911921-L.jpg",
   "subjects": [
     "The Lord of the Rings",

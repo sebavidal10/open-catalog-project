@@ -1,13 +1,9 @@
 {
   "isbn": "9780141040356",
   "title": "Wuthering Heights",
-  "authors": [
-    "Emily Brontë"
-  ],
+  "authors": ["Emily Brontë"],
   "publish_date": "2011",
-  "publisher": [
-    "Penguin Books, Limited"
-  ],
+  "publisher": ["Penguin Books, Limited"],
   "pages": 416,
   "cover": "https://covers.openlibrary.org/b/id/12667815-L.jpg",
   "subjects": [

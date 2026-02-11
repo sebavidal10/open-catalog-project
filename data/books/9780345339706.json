@@ -1,13 +1,9 @@
 {
   "isbn": "9780345339706",
   "title": "The Fellowship of the Ring",
-  "authors": [
-    "J.R.R. Tolkien"
-  ],
+  "authors": ["J.R.R. Tolkien"],
   "publish_date": "2001",
-  "publisher": [
-    "Ballantine Books"
-  ],
+  "publisher": ["Ballantine Books"],
   "pages": 458,
   "cover": "https://covers.openlibrary.org/b/id/13133784-L.jpg",
   "subjects": [

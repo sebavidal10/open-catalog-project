@@ -1,13 +1,9 @@
 {
   "isbn": "9780679722762",
   "title": "Ulysses",
-  "authors": [
-    "James Joyce"
-  ],
+  "authors": ["James Joyce"],
   "publish_date": "1990-06",
-  "publisher": [
-    "Vintage International"
-  ],
+  "publisher": ["Vintage International"],
   "pages": 783,
   "cover": "https://covers.openlibrary.org/b/id/14428450-L.jpg",
   "subjects": [

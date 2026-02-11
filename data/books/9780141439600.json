@@ -1,13 +1,9 @@
 {
   "isbn": "9780141439600",
   "title": "A Tale of Two Cities",
-  "authors": [
-    "Charles Dickens"
-  ],
+  "authors": ["Charles Dickens"],
   "publish_date": "2003",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "cover": "https://covers.openlibrary.org/b/id/8493695-L.jpg",
   "subjects": [
     "British",

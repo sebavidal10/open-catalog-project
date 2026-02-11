@@ -1,13 +1,9 @@
 {
   "isbn": "9780141441719",
   "title": "Dracula's guest and other weird stories",
-  "authors": [
-    "Bram Stoker"
-  ],
+  "authors": ["Bram Stoker"],
   "publish_date": "2006",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 408,
   "cover": "https://covers.openlibrary.org/b/id/12987540-L.jpg",
   "subjects": [

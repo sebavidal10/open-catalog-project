@@ -1,13 +1,9 @@
 {
   "isbn": "9780261102217",
   "title": "The Hobbit",
-  "authors": [
-    "J.R.R. Tolkien"
-  ],
+  "authors": ["J.R.R. Tolkien"],
   "publish_date": "2009",
-  "publisher": [
-    "HarperCollins"
-  ],
+  "publisher": ["HarperCollins"],
   "pages": 310,
   "cover": "https://covers.openlibrary.org/b/id/12649317-L.jpg",
   "subjects": [

@@ -1,13 +1,9 @@
 {
   "isbn": "9780141181738",
   "title": "Death in Venice",
-  "authors": [
-    "Thomas Mann"
-  ],
+  "authors": ["Thomas Mann"],
   "publish_date": "May 1, 1999",
-  "publisher": [
-    "Penguin Classics"
-  ],
+  "publisher": ["Penguin Classics"],
   "pages": 384,
   "cover": "https://covers.openlibrary.org/b/id/107747-L.jpg",
   "subjects": [

@@ -1,13 +1,9 @@
 {
   "isbn": "9780140268867",
   "title": "Odyssey",
-  "authors": [
-    "Όμηρος"
-  ],
+  "authors": ["Όμηρος"],
   "publish_date": "1996",
-  "publisher": [
-    "New York : Viking"
-  ],
+  "publisher": ["New York : Viking"],
   "pages": 541,
   "cover": "https://covers.openlibrary.org/b/id/13081298-L.jpg",
   "subjects": [

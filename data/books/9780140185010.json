@@ -1,13 +1,9 @@
 {
   "isbn": "9780140185010",
   "title": "Travels with my aunt",
-  "authors": [
-    "Graham Greene"
-  ],
+  "authors": ["Graham Greene"],
   "publish_date": "1971",
-  "publisher": [
-    "Penguin Books in association with Bodley Head"
-  ],
+  "publisher": ["Penguin Books in association with Bodley Head"],
   "pages": 264,
   "cover": "https://covers.openlibrary.org/b/id/10594285-L.jpg",
   "subjects": [

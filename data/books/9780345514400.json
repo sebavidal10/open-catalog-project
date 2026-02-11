@@ -1,13 +1,9 @@
 {
   "isbn": "9780345514400",
   "title": "I Know Why the Caged Bird Sings",
-  "authors": [
-    "Maya Angelou"
-  ],
+  "authors": ["Maya Angelou"],
   "publish_date": "April 21, 2009",
-  "publisher": [
-    "Ballantine Books"
-  ],
+  "publisher": ["Ballantine Books"],
   "pages": 304,
   "cover": "https://covers.openlibrary.org/b/id/6304869-L.jpg",
   "subjects": [

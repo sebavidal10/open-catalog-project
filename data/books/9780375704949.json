@@ -1,13 +1,9 @@
 {
   "isbn": "9780375704949",
   "title": "One across, two down",
-  "authors": [
-    "Ruth Rendell"
-  ],
+  "authors": ["Ruth Rendell"],
   "publish_date": "2001",
-  "publisher": [
-    "Vintage Crime/Black Lizard"
-  ],
+  "publisher": ["Vintage Crime/Black Lizard"],
   "pages": 192,
   "cover": "https://covers.openlibrary.org/b/id/228608-L.jpg",
   "subjects": [

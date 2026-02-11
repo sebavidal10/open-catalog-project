@@ -1,13 +1,9 @@
 {
   "isbn": "9780147514011",
   "title": "Little women",
-  "authors": [
-    "Louisa May Alcott"
-  ],
+  "authors": ["Louisa May Alcott"],
   "publish_date": "2014",
-  "publisher": [
-    "Puffin Books"
-  ],
+  "publisher": ["Puffin Books"],
   "pages": 777,
   "cover": "https://covers.openlibrary.org/b/id/12812484-L.jpg",
   "subjects": [

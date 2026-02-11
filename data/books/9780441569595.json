@@ -1,13 +1,9 @@
 {
   "isbn": "9780441569595",
   "title": "Neuromancer",
-  "authors": [
-    "William Gibson"
-  ],
+  "authors": ["William Gibson"],
   "publish_date": "1984",
-  "publisher": [
-    "Ace Books"
-  ],
+  "publisher": ["Ace Books"],
   "pages": 271,
   "cover": "https://covers.openlibrary.org/b/id/8231867-L.jpg",
   "subjects": [

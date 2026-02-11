@@ -1,13 +1,9 @@
 {
   "isbn": "9798217136513",
   "title": "The Picture of Dorian Gray",
-  "authors": [
-    "Oscar Wilde"
-  ],
+  "authors": ["Oscar Wilde"],
   "publish_date": "2025",
-  "publisher": [
-    "Vintage Classics UK"
-  ],
+  "publisher": ["Vintage Classics UK"],
   "pages": 223,
   "cover": "https://covers.openlibrary.org/b/id/15130182-L.jpg",
   "subjects": [

@@ -1,13 +1,9 @@
 {
   "isbn": "9780553801507",
   "title": "A feast for crows",
-  "authors": [
-    "George R. R. Martin"
-  ],
+  "authors": ["George R. R. Martin"],
   "publish_date": "2005",
-  "publisher": [
-    "Bantam Books"
-  ],
+  "publisher": ["Bantam Books"],
   "pages": 753,
   "cover": "https://covers.openlibrary.org/b/id/8745184-L.jpg",
   "subjects": [

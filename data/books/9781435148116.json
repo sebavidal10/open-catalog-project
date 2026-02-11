@@ -1,13 +1,9 @@
 {
   "isbn": "9781435148116",
   "title": "Alice's adventures in Wonderland",
-  "authors": [
-    "Lewis Carroll"
-  ],
+  "authors": ["Lewis Carroll"],
   "publish_date": "2013",
-  "publisher": [
-    "Sandy Creek"
-  ],
+  "publisher": ["Sandy Creek"],
   "pages": 46,
   "subjects": [
     "Alice (fictitious character : carroll), fiction",

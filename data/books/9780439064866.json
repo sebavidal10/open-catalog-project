@@ -1,13 +1,9 @@
 {
   "isbn": "9780439064866",
   "title": "Harry Potter and the Chamber of Secrets",
-  "authors": [
-    "J. K. Rowling"
-  ],
+  "authors": ["J. K. Rowling"],
   "publish_date": "1999",
-  "publisher": [
-    "Arthur A. Levine Books"
-  ],
+  "publisher": ["Arthur A. Levine Books"],
   "pages": 341,
   "subjects": [
     "series:Harry_Potter",

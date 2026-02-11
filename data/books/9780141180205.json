@@ -1,13 +1,9 @@
 {
   "isbn": "9780141180205",
   "title": "Gunnar's Daughter (Penguin Twentieth-Century Classics)",
-  "authors": [
-    "Sigrid Undset"
-  ],
+  "authors": ["Sigrid Undset"],
   "publish_date": "April 1, 1998",
-  "publisher": [
-    "Penguin Classics"
-  ],
+  "publisher": ["Penguin Classics"],
   "pages": 208,
   "cover": "https://covers.openlibrary.org/b/id/107639-L.jpg",
   "subjects": [

@@ -1,13 +1,9 @@
 {
   "isbn": "9780141182537",
   "title": "Lolita",
-  "authors": [
-    "Vladimir Nabokov"
-  ],
+  "authors": ["Vladimir Nabokov"],
   "publish_date": "February 3, 2000",
-  "publisher": [
-    "Penguin Putnam~trade"
-  ],
+  "publisher": ["Penguin Putnam~trade"],
   "pages": 336,
   "cover": "https://covers.openlibrary.org/b/id/107795-L.jpg",
   "subjects": [

@@ -1,15 +1,9 @@
 {
   "isbn": "9780099541288",
   "title": "A single man",
-  "authors": [
-    "Christopher Isherwood"
-  ],
+  "authors": ["Christopher Isherwood"],
   "publish_date": "2010",
-  "publisher": [
-    "Vintage",
-    "CCV",
-    "Vintage Books USA"
-  ],
+  "publisher": ["Vintage", "CCV", "Vintage Books USA"],
   "pages": 152,
   "cover": "https://covers.openlibrary.org/b/id/10160730-L.jpg",
   "subjects": [

@@ -1,13 +1,9 @@
 {
   "isbn": "9780141180182",
   "title": "Selected stories",
-  "authors": [
-    "Ring Lardner"
-  ],
+  "authors": ["Ring Lardner"],
   "publish_date": "1997",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 379,
   "cover": "https://covers.openlibrary.org/b/id/107637-L.jpg",
   "subjects": [

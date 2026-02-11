@@ -1,13 +1,9 @@
 {
   "isbn": "9780385504201",
   "title": "The Da Vinci Code",
-  "authors": [
-    "Dan Brown"
-  ],
+  "authors": ["Dan Brown"],
   "publish_date": "2003-04",
-  "publisher": [
-    "Doubleday"
-  ],
+  "publisher": ["Doubleday"],
   "pages": 454,
   "cover": "https://covers.openlibrary.org/b/id/12521602-L.jpg",
   "subjects": [

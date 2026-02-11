@@ -1,13 +1,9 @@
 {
   "isbn": "9780061120084",
   "title": "To Kill a Mockingbird",
-  "authors": [
-    "Harper Lee"
-  ],
+  "authors": ["Harper Lee"],
   "publish_date": "2006",
-  "publisher": [
-    "Harper Perennial Modern Classics"
-  ],
+  "publisher": ["Harper Perennial Modern Classics"],
   "pages": 323,
   "cover": "https://covers.openlibrary.org/b/id/15162569-L.jpg",
   "subjects": [

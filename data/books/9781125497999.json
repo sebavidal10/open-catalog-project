@@ -1,13 +1,9 @@
 {
   "isbn": "9781125497999",
   "title": "The Scarlet Letter",
-  "authors": [
-    "Nathaniel Hawthorne"
-  ],
+  "authors": ["Nathaniel Hawthorne"],
   "publish_date": "Jan 01, 1983",
-  "publisher": [
-    "Easton Press"
-  ],
+  "publisher": ["Easton Press"],
   "pages": 280,
   "subjects": [],
   "url": "https://openlibrary.org/books/OL38563929M/The_Scarlet_Letter",

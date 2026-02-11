@@ -1,13 +1,9 @@
 {
   "isbn": "9780553103540",
   "title": "A Game of Thrones",
-  "authors": [
-    "George R. R. Martin"
-  ],
+  "authors": ["George R. R. Martin"],
   "publish_date": "2011",
-  "publisher": [
-    "Harper Voyager"
-  ],
+  "publisher": ["Harper Voyager"],
   "pages": 806,
   "cover": "https://covers.openlibrary.org/b/id/11293305-L.jpg",
   "subjects": [

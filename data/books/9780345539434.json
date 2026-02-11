@@ -1,13 +1,9 @@
 {
   "isbn": "9780345539434",
   "title": "Cosmos",
-  "authors": [
-    "Carl Sagan"
-  ],
+  "authors": ["Carl Sagan"],
   "publish_date": "2013",
-  "publisher": [
-    "Ballantine Books"
-  ],
+  "publisher": ["Ballantine Books"],
   "cover": "https://covers.openlibrary.org/b/id/8290911-L.jpg",
   "subjects": [
     "Ouvrages de vulgarisation",

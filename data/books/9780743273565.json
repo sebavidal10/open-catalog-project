@@ -1,13 +1,9 @@
 {
   "isbn": "9780743273565",
   "title": "The Great Gatsby",
-  "authors": [
-    "F. Scott Fitzgerald"
-  ],
+  "authors": ["F. Scott Fitzgerald"],
   "publish_date": "2021",
-  "publisher": [
-    "Independently Published"
-  ],
+  "publisher": ["Independently Published"],
   "pages": 208,
   "cover": "https://covers.openlibrary.org/b/id/14314120-L.jpg",
   "subjects": [

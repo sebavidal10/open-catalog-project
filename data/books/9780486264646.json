@@ -1,13 +1,9 @@
 {
   "isbn": "9780486264646",
   "title": "Heart of Darkness",
-  "authors": [
-    "Joseph Conrad"
-  ],
+  "authors": ["Joseph Conrad"],
   "publish_date": "1990",
-  "publisher": [
-    "Dover"
-  ],
+  "publisher": ["Dover"],
   "pages": 72,
   "cover": "https://covers.openlibrary.org/b/id/10304856-L.jpg",
   "subjects": [

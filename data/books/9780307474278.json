@@ -1,13 +1,9 @@
 {
   "isbn": "9780307474278",
   "title": "The Da Vinci Code",
-  "authors": [
-    "Dan Brown"
-  ],
+  "authors": ["Dan Brown"],
   "publish_date": "March 31, 2009",
-  "publisher": [
-    "Anchor"
-  ],
+  "publisher": ["Anchor"],
   "pages": 608,
   "cover": "https://covers.openlibrary.org/b/id/6301424-L.jpg",
   "subjects": [

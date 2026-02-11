@@ -1,13 +1,9 @@
 {
   "isbn": "9781400033416",
   "title": "Beloved",
-  "authors": [
-    "Toni Morrison"
-  ],
+  "authors": ["Toni Morrison"],
   "publish_date": "2004",
-  "publisher": [
-    "Vintage International"
-  ],
+  "publisher": ["Vintage International"],
   "pages": 321,
   "cover": "https://covers.openlibrary.org/b/id/10653442-L.jpg",
   "subjects": [

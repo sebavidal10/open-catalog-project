@@ -1,13 +1,9 @@
 {
   "isbn": "9780345391803",
   "title": "The Hitch Hiker's Guide to The Galaxy",
-  "authors": [
-    "Douglas Adams"
-  ],
+  "authors": ["Douglas Adams"],
   "publish_date": "9/27/1995",
-  "publisher": [
-    "Ballantine Books"
-  ],
+  "publisher": ["Ballantine Books"],
   "subjects": [
     "comic science fiction",
     "Vogons",

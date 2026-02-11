@@ -1,13 +1,9 @@
 {
   "isbn": "9780439139595",
   "title": "Harry Potter and the Goblet of Fire",
-  "authors": [
-    "J. K. Rowling"
-  ],
+  "authors": ["J. K. Rowling"],
   "publish_date": "2000-07",
-  "publisher": [
-    "Arthur A. Levine Books"
-  ],
+  "publisher": ["Arthur A. Levine Books"],
   "pages": 734,
   "cover": "https://covers.openlibrary.org/b/id/12631313-L.jpg",
   "subjects": [

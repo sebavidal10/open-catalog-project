@@ -1,13 +1,9 @@
 {
   "isbn": "9780140430226",
   "title": "Gulliver's Travels",
-  "authors": [
-    "Jonathan Swift"
-  ],
+  "authors": ["Jonathan Swift"],
   "publish_date": "1982",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 360,
   "cover": "https://covers.openlibrary.org/b/id/12717121-L.jpg",
   "subjects": [

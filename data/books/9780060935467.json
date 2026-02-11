@@ -1,13 +1,9 @@
 {
   "isbn": "9780060935467",
   "title": "To Kill a Mockingbird",
-  "authors": [
-    "Harper Lee"
-  ],
+  "authors": ["Harper Lee"],
   "publish_date": "2016",
-  "publisher": [
-    "HarperPerennial ModernClassics"
-  ],
+  "publisher": ["HarperPerennial ModernClassics"],
   "pages": 336,
   "cover": "https://covers.openlibrary.org/b/id/15153357-L.jpg",
   "subjects": [

@@ -1,13 +1,9 @@
 {
   "isbn": "9780156907392",
   "title": "To the Lighthouse",
-  "authors": [
-    "Virginia Woolf"
-  ],
+  "authors": ["Virginia Woolf"],
   "publish_date": "First edition (December 27, 1989)",
-  "publisher": [
-    "Harcourt Brace Jovanovich"
-  ],
+  "publisher": ["Harcourt Brace Jovanovich"],
   "pages": 209,
   "cover": "https://covers.openlibrary.org/b/id/8291454-L.jpg",
   "subjects": [

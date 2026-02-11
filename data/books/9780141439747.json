@@ -1,13 +1,9 @@
 {
   "isbn": "9780141439747",
   "title": "Oliver Twist, or, The parish boy's progress",
-  "authors": [
-    "Charles Dickens"
-  ],
+  "authors": ["Charles Dickens"],
   "publish_date": "2003",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 554,
   "cover": "https://covers.openlibrary.org/b/id/13031365-L.jpg",
   "subjects": [

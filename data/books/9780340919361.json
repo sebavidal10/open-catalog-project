@@ -1,13 +1,9 @@
 {
   "isbn": "9780340919361",
   "title": "Wit of Golf",
-  "authors": [
-    "Peterson's Various Authors"
-  ],
+  "authors": ["Peterson's Various Authors"],
   "publish_date": "2010",
-  "publisher": [
-    "Hodder & Stoughton"
-  ],
+  "publisher": ["Hodder & Stoughton"],
   "pages": 304,
   "cover": "https://covers.openlibrary.org/b/id/12594603-L.jpg",
   "subjects": [

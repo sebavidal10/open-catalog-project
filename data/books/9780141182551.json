@@ -1,13 +1,9 @@
 {
   "isbn": "9780141182551",
   "title": "The Crucible (Penguin Modern Classics)",
-  "authors": [
-    "Arthur Miller"
-  ],
+  "authors": ["Arthur Miller"],
   "publish_date": "February 24, 2000",
-  "publisher": [
-    "Penguin Books Ltd"
-  ],
+  "publisher": ["Penguin Books Ltd"],
   "pages": 128,
   "cover": "https://covers.openlibrary.org/b/id/107796-L.jpg",
   "subjects": [

@@ -1,18 +1,12 @@
 {
   "isbn": "9780141181691",
   "title": "Plain Pleasures",
-  "authors": [
-    "Jane Bowles"
-  ],
+  "authors": ["Jane Bowles"],
   "publish_date": "March 30, 2000",
-  "publisher": [
-    "Penguin Putnam~trade"
-  ],
+  "publisher": ["Penguin Putnam~trade"],
   "pages": 144,
   "cover": "https://covers.openlibrary.org/b/id/107745-L.jpg",
-  "subjects": [
-    "Fiction, general"
-  ],
+  "subjects": ["Fiction, general"],
   "url": "https://openlibrary.org/books/OL7358860M/Plain_Pleasures",
   "fetched_at": "2026-02-02T16:18:51.224Z"
 }

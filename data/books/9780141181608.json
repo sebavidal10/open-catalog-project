@@ -1,19 +1,12 @@
 {
   "isbn": "9780141181608",
   "title": "Anarchist",
-  "authors": [
-    "Hermann Broch"
-  ],
+  "authors": ["Hermann Broch"],
   "publish_date": "March 30, 2000",
-  "publisher": [
-    "Penguin Putnam~trade"
-  ],
+  "publisher": ["Penguin Putnam~trade"],
   "pages": 192,
   "cover": "https://covers.openlibrary.org/b/id/107737-L.jpg",
-  "subjects": [
-    "History",
-    "Fiction"
-  ],
+  "subjects": ["History", "Fiction"],
   "url": "https://openlibrary.org/books/OL7358858M/Anarchist",
   "fetched_at": "2026-02-02T16:18:26.745Z"
 }

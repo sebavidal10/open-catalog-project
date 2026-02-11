@@ -1,13 +1,9 @@
 {
   "isbn": "9780307949516",
   "title": "Age of Innocence",
-  "authors": [
-    "Edith Wharton"
-  ],
+  "authors": ["Edith Wharton"],
   "publish_date": "2012",
-  "publisher": [
-    "Random House Publishing Group"
-  ],
+  "publisher": ["Random House Publishing Group"],
   "pages": 320,
   "subjects": [
     "Fiction",

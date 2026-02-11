@@ -1,13 +1,9 @@
 {
   "isbn": "9780307277671",
   "title": "The Da Vinci Code",
-  "authors": [
-    "Dan Brown"
-  ],
+  "authors": ["Dan Brown"],
   "publish_date": "2006-03",
-  "publisher": [
-    "Anchor Books"
-  ],
+  "publisher": ["Anchor Books"],
   "pages": 454,
   "cover": "https://covers.openlibrary.org/b/id/12748129-L.jpg",
   "subjects": [

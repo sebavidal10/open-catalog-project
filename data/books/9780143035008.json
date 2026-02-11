@@ -1,13 +1,9 @@
 {
   "isbn": "9780143035008",
   "title": "Anna Karenina",
-  "authors": [
-    "Лев Толстой"
-  ],
+  "authors": ["Лев Толстой"],
   "publish_date": "May 31, 2004",
-  "publisher": [
-    "Penguin"
-  ],
+  "publisher": ["Penguin"],
   "pages": 838,
   "cover": "https://covers.openlibrary.org/b/id/111128-L.jpg",
   "subjects": [

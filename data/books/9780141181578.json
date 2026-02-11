@@ -1,13 +1,9 @@
 {
   "isbn": "9780141181578",
   "title": "The last word and other stories",
-  "authors": [
-    "Graham Greene"
-  ],
+  "authors": ["Graham Greene"],
   "publish_date": "1999",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 149,
   "cover": "https://covers.openlibrary.org/b/id/107734-L.jpg",
   "subjects": [

@@ -1,13 +1,9 @@
 {
   "isbn": "9780062073488",
   "title": "And Then There Were None",
-  "authors": [
-    "Agatha Christie"
-  ],
+  "authors": ["Agatha Christie"],
   "publish_date": "2011-04",
-  "publisher": [
-    "Harper"
-  ],
+  "publisher": ["Harper"],
   "pages": 300,
   "cover": "https://covers.openlibrary.org/b/id/12854241-L.jpg",
   "subjects": [

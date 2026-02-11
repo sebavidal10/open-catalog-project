@@ -1,13 +1,9 @@
 {
   "isbn": "9780140275360",
   "title": "The Iliad",
-  "authors": [
-    "Όμηρος"
-  ],
+  "authors": ["Όμηρος"],
   "publish_date": "1998",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 704,
   "cover": "https://covers.openlibrary.org/b/id/15166208-L.jpg",
   "subjects": [

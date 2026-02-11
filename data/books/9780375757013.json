@@ -1,13 +1,9 @@
 {
   "isbn": "9780375757013",
   "title": "Great expectations",
-  "authors": [
-    "Charles Dickens"
-  ],
+  "authors": ["Charles Dickens"],
   "publish_date": "2001",
-  "publisher": [
-    "Modern Library"
-  ],
+  "publisher": ["Modern Library"],
   "pages": 452,
   "cover": "https://covers.openlibrary.org/b/id/230324-L.jpg",
   "subjects": [

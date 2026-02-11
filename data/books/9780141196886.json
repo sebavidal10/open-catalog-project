@@ -1,13 +1,9 @@
 {
   "isbn": "9780141196886",
   "title": "Dracula",
-  "authors": [
-    "Bram Stoker"
-  ],
+  "authors": ["Bram Stoker"],
   "publish_date": "Apr 20, 2011",
-  "publisher": [
-    "Penguin Classics"
-  ],
+  "publisher": ["Penguin Classics"],
   "pages": 512,
   "cover": "https://covers.openlibrary.org/b/id/8765645-L.jpg",
   "subjects": [

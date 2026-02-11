@@ -9,9 +9,7 @@
     "John Steinback"
   ],
   "publish_date": "1993",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 107,
   "cover": "https://covers.openlibrary.org/b/id/15153601-L.jpg",
   "subjects": [

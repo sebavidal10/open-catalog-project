@@ -1,13 +1,9 @@
 {
   "isbn": "9780374528379",
   "title": "The Brothers Karamazov",
-  "authors": [
-    "Фёдор Михайлович Достоевский"
-  ],
+  "authors": ["Фёдор Михайлович Достоевский"],
   "publish_date": "June 14, 2002",
-  "publisher": [
-    "Farrar, Straus and Giroux"
-  ],
+  "publisher": ["Farrar, Straus and Giroux"],
   "pages": 824,
   "cover": "https://covers.openlibrary.org/b/id/10458920-L.jpg",
   "subjects": [

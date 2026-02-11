@@ -1,13 +1,9 @@
 {
   "isbn": "9780723247708",
   "title": "The Tale of Peter Rabbit (The World of Beatrix Potter)",
-  "authors": [
-    "Beatrix Potter"
-  ],
+  "authors": ["Beatrix Potter"],
   "publish_date": "September 16, 2002",
-  "publisher": [
-    "Warne"
-  ],
+  "publisher": ["Warne"],
   "pages": 80,
   "cover": "https://covers.openlibrary.org/b/id/10675289-L.jpg",
   "subjects": [

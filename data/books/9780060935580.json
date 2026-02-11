@@ -1,13 +1,9 @@
 {
   "isbn": "9780060935580",
   "title": "The Music of the Primes",
-  "authors": [
-    "Marcus du Sautoy"
-  ],
+  "authors": ["Marcus du Sautoy"],
   "publish_date": "April 27, 2004",
-  "publisher": [
-    "Harper Perennial"
-  ],
+  "publisher": ["Harper Perennial"],
   "pages": 335,
   "cover": "https://covers.openlibrary.org/b/id/41266-L.jpg",
   "subjects": [

@@ -1,13 +1,9 @@
 {
   "isbn": "9781857150025",
   "title": "Wuthering Heights",
-  "authors": [
-    "Emily Brontë"
-  ],
+  "authors": ["Emily Brontë"],
   "publish_date": "1991 April",
-  "publisher": [
-    "Everymans Library"
-  ],
+  "publisher": ["Everymans Library"],
   "pages": 396,
   "cover": "https://covers.openlibrary.org/b/id/908534-L.jpg",
   "subjects": [

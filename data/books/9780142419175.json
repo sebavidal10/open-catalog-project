@@ -1,13 +1,9 @@
 {
   "isbn": "9780142419175",
   "title": "Hamlet",
-  "authors": [
-    "William Shakespeare"
-  ],
+  "authors": ["William Shakespeare"],
   "publish_date": "2011",
-  "publisher": [
-    "Penguin Young Readers Group"
-  ],
+  "publisher": ["Penguin Young Readers Group"],
   "pages": 160,
   "subjects": [
     "performing arts",

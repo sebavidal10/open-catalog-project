@@ -1,13 +1,9 @@
 {
   "isbn": "9780061124952",
   "title": "Charlotte's Web",
-  "authors": [
-    "E. B. White"
-  ],
+  "authors": ["E. B. White"],
   "publish_date": "May 9, 2006",
-  "publisher": [
-    "HarperCollins"
-  ],
+  "publisher": ["HarperCollins"],
   "pages": 192,
   "cover": "https://covers.openlibrary.org/b/id/45888-L.jpg",
   "subjects": [

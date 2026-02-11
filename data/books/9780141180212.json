@@ -1,15 +1,9 @@
 {
   "isbn": "9780141180212",
   "title": "The Ordeal of Gilbert Pinfold",
-  "authors": [
-    "Evelyn Waugh"
-  ],
+  "authors": ["Evelyn Waugh"],
   "publish_date": "February 25, 1999",
-  "publisher": [
-    "Penguin Books Ltd",
-    "Penguin Classic",
-    "Penguin"
-  ],
+  "publisher": ["Penguin Books Ltd", "Penguin Classic", "Penguin"],
   "pages": 224,
   "cover": "https://covers.openlibrary.org/b/id/107640-L.jpg",
   "subjects": [

@@ -1,13 +1,9 @@
 {
   "isbn": "9780140283334",
   "title": "Lord of the flies",
-  "authors": [
-    "William Golding"
-  ],
+  "authors": ["William Golding"],
   "publish_date": "1999",
-  "publisher": [
-    "Viking Penguin"
-  ],
+  "publisher": ["Viking Penguin"],
   "pages": 192,
   "cover": "https://covers.openlibrary.org/b/id/9176044-L.jpg",
   "subjects": [

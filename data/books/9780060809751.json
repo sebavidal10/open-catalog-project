@@ -1,13 +1,9 @@
 {
   "isbn": "9780060809751",
   "title": "Sounder",
-  "authors": [
-    "William H. Armstrong"
-  ],
+  "authors": ["William H. Armstrong"],
   "publish_date": "May 1989",
-  "publisher": [
-    "Harpercollins Childrens Books"
-  ],
+  "publisher": ["Harpercollins Childrens Books"],
   "cover": "https://covers.openlibrary.org/b/id/36627-L.jpg",
   "subjects": [
     "Children: Grades 4-6",

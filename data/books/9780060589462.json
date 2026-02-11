@@ -1,13 +1,9 @@
 {
   "isbn": "9780060589462",
   "title": "Zen and the Art of Motorcycle Maintenance",
-  "authors": [
-    "Robert M. Pirsig"
-  ],
+  "authors": ["Robert M. Pirsig"],
   "publish_date": "April 25, 2006",
-  "publisher": [
-    "HarperTorch"
-  ],
+  "publisher": ["HarperTorch"],
   "pages": 540,
   "cover": "https://covers.openlibrary.org/b/id/31248-L.jpg",
   "subjects": [

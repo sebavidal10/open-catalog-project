@@ -1,13 +1,9 @@
 {
   "isbn": "9780140449136",
   "title": "Crime and punishment",
-  "authors": [
-    "Фёдор Михайлович Достоевский"
-  ],
+  "authors": ["Фёдор Михайлович Достоевский"],
   "publish_date": "2003",
-  "publisher": [
-    "Penguin"
-  ],
+  "publisher": ["Penguin"],
   "pages": 671,
   "cover": "https://covers.openlibrary.org/b/id/14935910-L.jpg",
   "subjects": [

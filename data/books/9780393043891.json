@@ -1,14 +1,9 @@
 {
   "isbn": "9780393043891",
   "title": "To live in pronouns",
-  "authors": [
-    "Pedro Salinas",
-    "Salinas Ed -Helman Farber"
-  ],
+  "authors": ["Pedro Salinas", "Salinas Ed -Helman Farber"],
   "publish_date": "1974",
-  "publisher": [
-    "Norton"
-  ],
+  "publisher": ["Norton"],
   "pages": 230,
   "cover": "https://covers.openlibrary.org/b/id/8425321-L.jpg",
   "subjects": [

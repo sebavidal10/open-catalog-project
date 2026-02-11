@@ -1,13 +1,9 @@
 {
   "isbn": "9780141182827",
   "title": "The Member of the Wedding (Penguin Modern Classics)",
-  "authors": [
-    "Carson McCullers"
-  ],
+  "authors": ["Carson McCullers"],
   "publish_date": "April 26, 2001",
-  "publisher": [
-    "Penguin Classics"
-  ],
+  "publisher": ["Penguin Classics"],
   "pages": 192,
   "cover": "https://covers.openlibrary.org/b/id/107822-L.jpg",
   "subjects": [

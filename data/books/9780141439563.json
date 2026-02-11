@@ -1,13 +1,9 @@
 {
   "isbn": "9780141439563",
   "title": "Great Expectations",
-  "authors": [
-    "Charles Dickens"
-  ],
+  "authors": ["Charles Dickens"],
   "publish_date": "/1993",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 514,
   "cover": "https://covers.openlibrary.org/b/id/13029793-L.jpg",
   "subjects": [

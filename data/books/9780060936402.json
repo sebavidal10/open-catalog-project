@@ -1,13 +1,9 @@
 {
   "isbn": "9780060936402",
   "title": "The Girl Watchers Club",
-  "authors": [
-    "Harry Stein"
-  ],
+  "authors": ["Harry Stein"],
   "publish_date": "February 1, 2005",
-  "publisher": [
-    "Harper Paperbacks"
-  ],
+  "publisher": ["Harper Paperbacks"],
   "pages": 352,
   "cover": "https://covers.openlibrary.org/b/id/41352-L.jpg",
   "subjects": [

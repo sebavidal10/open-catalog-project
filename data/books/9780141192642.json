@@ -1,13 +1,9 @@
 {
   "isbn": "9780141192642",
   "title": "Picture of Dorian Gray",
-  "authors": [
-    "Oscar Wilde"
-  ],
+  "authors": ["Oscar Wilde"],
   "publish_date": "2010",
-  "publisher": [
-    "Penguin Books, Limited"
-  ],
+  "publisher": ["Penguin Books, Limited"],
   "pages": 242,
   "cover": "https://covers.openlibrary.org/b/id/12667823-L.jpg",
   "subjects": [

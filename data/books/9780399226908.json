@@ -1,14 +1,9 @@
 {
   "isbn": "9780399226908",
   "title": "The Very Hungry Caterpillar",
-  "authors": [
-    "Eric Carle"
-  ],
+  "authors": ["Eric Carle"],
   "publish_date": "2019",
-  "publisher": [
-    "World of Eric Carle",
-    "Penguin Random House"
-  ],
+  "publisher": ["World of Eric Carle", "Penguin Random House"],
   "subjects": [
     "Children's fiction",
     "Caterpillars, fiction",

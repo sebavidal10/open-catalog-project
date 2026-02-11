@@ -6,10 +6,18 @@
   "type": "module",
   "scripts": {
     "fetch-book": "node scripts/fetch-book.js",
-    "fetch-movie": "node scripts/fetch-movie.js"
+    "fetch-movie": "node scripts/fetch-movie.js",
+    "lint": "eslint .",
+    "format": "prettier --write ."
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "dependencies": {}
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.0",
+    "eslint-config-prettier": "^10.1.8",
+    "globals": "^17.3.0",
+    "prettier": "^3.8.1"
+  }
 }

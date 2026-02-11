@@ -1,13 +1,9 @@
 {
   "isbn": "9780743477123",
   "title": "The tragedy of Hamlet, Prince of Denmark",
-  "authors": [
-    "William Shakespeare"
-  ],
+  "authors": ["William Shakespeare"],
   "publish_date": "2002",
-  "publisher": [
-    "Washington Square Press"
-  ],
+  "publisher": ["Washington Square Press"],
   "pages": 342,
   "cover": "https://covers.openlibrary.org/b/id/11876515-L.jpg",
   "subjects": [

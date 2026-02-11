@@ -1,13 +1,9 @@
 {
   "isbn": "9780451526342",
   "title": "Animal Farm",
-  "authors": [
-    "George Orwell"
-  ],
+  "authors": ["George Orwell"],
   "publish_date": "1996",
-  "publisher": [
-    "Signet Classics"
-  ],
+  "publisher": ["Signet Classics"],
   "pages": 140,
   "subjects": [
     "British and Irish fiction (fictional works by one author)",

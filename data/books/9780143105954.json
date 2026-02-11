@@ -1,13 +1,9 @@
 {
   "isbn": "9780143105954",
   "title": "MobyDick\r\n            \r\n                Penguin Classics Deluxe Editions",
-  "authors": [
-    "Herman Melville"
-  ],
+  "authors": ["Herman Melville"],
   "publish_date": "2009",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "cover": "https://covers.openlibrary.org/b/id/7726864-L.jpg",
   "subjects": [
     "American Sea stories",

@@ -1,13 +1,9 @@
 {
   "isbn": "9780156012195",
   "title": "The Little Prince",
-  "authors": [
-    "Antoine de Saint-Exupéry"
-  ],
+  "authors": ["Antoine de Saint-Exupéry"],
   "publish_date": "2000",
-  "publisher": [
-    "HMH Books for Young Readers"
-  ],
+  "publisher": ["HMH Books for Young Readers"],
   "pages": 96,
   "cover": "https://covers.openlibrary.org/b/id/7268667-L.jpg",
   "subjects": [

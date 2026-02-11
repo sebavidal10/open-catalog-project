@@ -1,13 +1,9 @@
 {
   "isbn": "9780142437247",
   "title": "Moby-Dick, or, The whale",
-  "authors": [
-    "Herman Melville"
-  ],
+  "authors": ["Herman Melville"],
   "publish_date": "2003",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 654,
   "cover": "https://covers.openlibrary.org/b/id/110556-L.jpg",
   "subjects": [

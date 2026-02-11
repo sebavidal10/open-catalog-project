@@ -1,13 +1,9 @@
 {
   "isbn": "9780451529060",
   "title": "The Origin Of Species",
-  "authors": [
-    "Charles Darwin"
-  ],
+  "authors": ["Charles Darwin"],
   "publish_date": "September 2, 2003",
-  "publisher": [
-    "Signet Classics"
-  ],
+  "publisher": ["Signet Classics"],
   "pages": 496,
   "cover": "https://covers.openlibrary.org/b/id/295779-L.jpg",
   "subjects": [

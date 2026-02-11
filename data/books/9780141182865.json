@@ -1,13 +1,9 @@
 {
   "isbn": "9780141182865",
   "title": "A Confederacy of Dunces",
-  "authors": [
-    "John Kennedy Toole"
-  ],
+  "authors": ["John Kennedy Toole"],
   "publish_date": "March 30, 2000",
-  "publisher": [
-    "Penguin Books Ltd"
-  ],
+  "publisher": ["Penguin Books Ltd"],
   "pages": 352,
   "cover": "https://covers.openlibrary.org/b/id/107826-L.jpg",
   "subjects": [

@@ -1,13 +1,9 @@
 {
   "isbn": "9780141182711",
   "title": "The Waves (Penguin Modern Classics)",
-  "authors": [
-    "Virginia Woolf"
-  ],
+  "authors": ["Virginia Woolf"],
   "publish_date": "February 3, 2000",
-  "publisher": [
-    "Penguin Books Ltd"
-  ],
+  "publisher": ["Penguin Books Ltd"],
   "pages": 288,
   "cover": "https://covers.openlibrary.org/b/id/107811-L.jpg",
   "subjects": [

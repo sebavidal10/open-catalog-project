@@ -1,13 +1,9 @@
 {
   "isbn": "9780141180199",
   "title": "A Russian journal",
-  "authors": [
-    "John Steinbeck"
-  ],
+  "authors": ["John Steinbeck"],
   "publish_date": "1999",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 212,
   "cover": "https://covers.openlibrary.org/b/id/107638-L.jpg",
   "subjects": [

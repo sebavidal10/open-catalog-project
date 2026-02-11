@@ -1,13 +1,9 @@
 {
   "isbn": "9780141393056",
   "title": "Penguin Classics Animal Farm (Penguin Modern Classics)",
-  "authors": [
-    "George Orwell"
-  ],
+  "authors": ["George Orwell"],
   "publish_date": "Jan 15, 2013",
-  "publisher": [
-    "Penguin Classic"
-  ],
+  "publisher": ["Penguin Classic"],
   "pages": 128,
   "cover": "https://covers.openlibrary.org/b/id/8541761-L.jpg",
   "subjects": [

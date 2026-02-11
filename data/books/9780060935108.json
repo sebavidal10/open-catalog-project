@@ -1,13 +1,9 @@
 {
   "isbn": "9780060935108",
   "title": "Road Atlas",
-  "authors": [
-    "Campbell Mcgrath"
-  ],
+  "authors": ["Campbell Mcgrath"],
   "publish_date": "August 1, 2001",
-  "publisher": [
-    "Ecco"
-  ],
+  "publisher": ["Ecco"],
   "pages": 96,
   "cover": "https://covers.openlibrary.org/b/id/41205-L.jpg",
   "subjects": [

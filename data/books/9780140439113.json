@@ -1,13 +1,9 @@
 {
   "isbn": "9780140439113",
   "title": "The strange case of Dr Jekyll and Mr Hyde and other tales of terror",
-  "authors": [
-    "Robert Louis Stevenson"
-  ],
+  "authors": ["Robert Louis Stevenson"],
   "publish_date": "2002",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 177,
   "cover": "https://covers.openlibrary.org/b/id/103570-L.jpg",
   "subjects": [

@@ -1,13 +1,9 @@
 {
   "isbn": "9780553106633",
   "title": "A Storm of Swords",
-  "authors": [
-    "George R. R. Martin"
-  ],
+  "authors": ["George R. R. Martin"],
   "publish_date": "2000",
-  "publisher": [
-    "Bantam Books"
-  ],
+  "publisher": ["Bantam Books"],
   "cover": "https://covers.openlibrary.org/b/id/15126471-L.jpg",
   "subjects": [
     "New York Times bestseller",

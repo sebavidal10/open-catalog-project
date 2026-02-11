@@ -1,13 +1,9 @@
 {
   "isbn": "9780141036144",
   "title": "Nineteen eighty-four",
-  "authors": [
-    "George Orwell"
-  ],
+  "authors": ["George Orwell"],
   "publish_date": "1989",
-  "publisher": [
-    "Penguin Books"
-  ],
+  "publisher": ["Penguin Books"],
   "pages": 336,
   "cover": "https://covers.openlibrary.org/b/id/14368437-L.jpg",
   "subjects": [

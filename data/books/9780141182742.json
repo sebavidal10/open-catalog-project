@@ -1,13 +1,9 @@
 {
   "isbn": "9780141182742",
   "title": "Death of a Salesman (Penguin Modern Classics)",
-  "authors": [
-    "Arthur Miller"
-  ],
+  "authors": ["Arthur Miller"],
   "publish_date": "March 30, 2000",
-  "publisher": [
-    "Penguin Books Ltd"
-  ],
+  "publisher": ["Penguin Books Ltd"],
   "pages": 112,
   "cover": "https://covers.openlibrary.org/b/id/107814-L.jpg",
   "subjects": [
