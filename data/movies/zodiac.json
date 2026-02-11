@@ -1,0 +1,35 @@
+{
+  "title": "Zodiac",
+  "year": "2007",
+  "rated": "R",
+  "released": "02 Mar 2007",
+  "runtime": "157 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "David Fincher",
+  "writer": "James Vanderbilt, Robert Graysmith",
+  "actors": "Jake Gyllenhaal, Robert Downey Jr., Mark Ruffalo",
+  "plot": "Between 1968 and 1983, a San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac Killer, an unidentified individual who terrorizes Northern California with a killing spree.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins & 71 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDFkMTRkZmQtM2I0NC00NjJjLWJlMDctNTNiZWYxYzhjZDZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.7",
+  "imdbID": "tt0443706",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:33:30.030Z"
+}

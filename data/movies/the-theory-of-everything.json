@@ -1,0 +1,35 @@
+{
+  "title": "The Theory of Everything",
+  "year": "2014",
+  "rated": "PG-13",
+  "released": "26 Nov 2014",
+  "runtime": "123 min",
+  "genre": "Biography, Drama, Romance",
+  "director": "James Marsh",
+  "writer": "Anthony McCarten, Jane Hawking",
+  "actors": "Eddie Redmayne, Felicity Jones, Tom Prior",
+  "plot": "Stephen Hawking gets unprecedented success in the field of physics despite being diagnosed with motor neuron disease at the age of 21. He defeats awful odds as his first wife Jane aids him loyally.",
+  "language": "English, French, Ukrainian",
+  "country": "United Kingdom, Japan, United States",
+  "awards": "Won 1 Oscar. 25 wins & 128 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAwMTU4MDA3NDNeQTJeQWpwZ15BbWU4MDk4NTMxNTIx._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.7",
+  "imdbID": "tt2980516",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:52.815Z"
+}

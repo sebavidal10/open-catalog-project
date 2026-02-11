@@ -1,0 +1,35 @@
+{
+  "title": "The Holdovers",
+  "year": "2023",
+  "rated": "R",
+  "released": "10 Nov 2023",
+  "runtime": "133 min",
+  "genre": "Comedy, Drama",
+  "director": "Alexander Payne",
+  "writer": "David Hemingson",
+  "actors": "Paul Giamatti, Da'Vine Joy Randolph, Dominic Sessa",
+  "plot": "In 1970, a curmudgeonly history teacher at a New England boarding school remains on campus during Christmas break to supervise held over students, and ends up forming an unlikely bond with a brainy but damaged troublemaker.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 137 wins & 209 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWY3MjUzZTctOTI5ZC00MDA5LTk4ZTMtZWJjNjRmMzE4ZmI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "7.9",
+  "imdbID": "tt14849194",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:34:48.202Z"
+}

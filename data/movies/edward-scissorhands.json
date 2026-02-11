@@ -1,0 +1,35 @@
+{
+  "title": "Edward Scissorhands",
+  "year": "1990",
+  "rated": "PG-13",
+  "released": "14 Dec 1990",
+  "runtime": "105 min",
+  "genre": "Drama, Fantasy, Romance",
+  "director": "Tim Burton",
+  "writer": "Tim Burton, Caroline Thompson",
+  "actors": "Johnny Depp, Winona Ryder, Dianne Wiest",
+  "plot": "The solitary life of an artificial man with scissors for hands is upended when he is taken in by a suburban family.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 11 wins & 25 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODJhODczYjUtYzdkMy00Yjc4LTllNWMtZTQ3MDZlYWZjYWEzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.8",
+  "imdbID": "tt0099487",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:31:44.949Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "La La Land",
+  "year": "2016",
+  "rated": "PG-13",
+  "released": "25 Dec 2016",
+  "runtime": "128 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "Damien Chazelle",
+  "writer": "Damien Chazelle",
+  "actors": "Ryan Gosling, Emma Stone, Rosemarie DeWitt",
+  "plot": "When Sebastian, a pianist, and Mia, an actress, follow their passion and achieve success in their respective fields, they find themselves torn between their love for each other and their careers.",
+  "language": "English, Cantonese",
+  "country": "United States, Hong Kong",
+  "awards": "Won 6 Oscars. 242 wins & 307 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "8.0",
+  "imdbID": "tt3783958",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:34:13.236Z"
+}

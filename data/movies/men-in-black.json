@@ -1,0 +1,35 @@
+{
+  "title": "Men in Black",
+  "year": "1997",
+  "rated": "PG-13",
+  "released": "02 Jul 1997",
+  "runtime": "98 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Barry Sonnenfeld",
+  "writer": "Lowell Cunningham, Ed Solomon",
+  "actors": "Tommy Lee Jones, Will Smith, Linda Fiorentino",
+  "plot": "James, an NYC cop, is hired by Agent K of a secret government agency that monitors extraterrestrial life on Earth. Together, they must recover an item that has been stolen by an intergalactic villain.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 23 wins & 39 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmQ0YTdhYzEtMjIxZC00MGFiLTlmNjktZmFlOWE2M2QxOTRhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "metascore": "72",
+  "imdbRating": "7.3",
+  "imdbID": "tt0119654",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:32:25.827Z"
+}

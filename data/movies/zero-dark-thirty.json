@@ -1,0 +1,35 @@
+{
+  "title": "Zero Dark Thirty",
+  "year": "2012",
+  "rated": "R",
+  "released": "11 Jan 2013",
+  "runtime": "157 min",
+  "genre": "Drama, History, Thriller",
+  "director": "Kathryn Bigelow",
+  "writer": "Mark Boal",
+  "actors": "Jessica Chastain, Joel Edgerton, Chris Pratt",
+  "plot": "A chronicle of the decade-long hunt for al-Qaeda terrorist leader Osama bin Laden after the September 2001 attacks, and his death at the hands of the Navy S.E.A.L.s Team 6 in May 2011.",
+  "language": "English, Arabic, Urdu, Pashtu, French",
+  "country": "United States, India, Jordan",
+  "awards": "Won 1 Oscar. 85 wins & 174 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4OTUyNzcwN15BMl5BanBnXkFtZTcwMTQ1NDE3OA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "95/100"
+    }
+  ],
+  "metascore": "95",
+  "imdbRating": "7.4",
+  "imdbID": "tt1790885",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:35.311Z"
+}

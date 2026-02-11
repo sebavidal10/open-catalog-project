@@ -1,0 +1,35 @@
+{
+  "title": "Midnight in Paris",
+  "year": "2011",
+  "rated": "PG-13",
+  "released": "10 Jun 2011",
+  "runtime": "94 min",
+  "genre": "Comedy, Fantasy, Romance",
+  "director": "Woody Allen",
+  "writer": "Woody Allen",
+  "actors": "Owen Wilson, Rachel McAdams, Kathy Bates",
+  "plot": "While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight.",
+  "language": "English, French, Spanish, German",
+  "country": "Spain, United States, France",
+  "awards": "Won 1 Oscar. 26 wins & 103 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM4NjY1MDQwMl5BMl5BanBnXkFtZTcwNTI3Njg3NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.6",
+  "imdbID": "tt1605783",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:20.161Z"
+}

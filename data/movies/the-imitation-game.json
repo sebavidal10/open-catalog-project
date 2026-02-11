@@ -1,0 +1,35 @@
+{
+  "title": "The Imitation Game",
+  "year": "2014",
+  "rated": "PG-13",
+  "released": "25 Dec 2014",
+  "runtime": "114 min",
+  "genre": "Biography, Drama, Thriller",
+  "director": "Morten Tyldum",
+  "writer": "Graham Moore, Andrew Hodges",
+  "actors": "Benedict Cumberbatch, Keira Knightley, Matthew Goode",
+  "plot": "During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians while attempting to come to terms with his troubled private life.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 49 wins & 167 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjI3NjY1Mjg3MV5BMl5BanBnXkFtZTgwMzk5MDQ3MjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "8.0",
+  "imdbID": "tt2084970",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:50.491Z"
+}

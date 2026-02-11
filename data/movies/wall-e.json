@@ -1,0 +1,35 @@
+{
+  "title": "WALL·E",
+  "year": "2008",
+  "rated": "G",
+  "released": "27 Jun 2008",
+  "runtime": "98 min",
+  "genre": "Animation, Adventure, Family",
+  "director": "Andrew Stanton",
+  "writer": "Andrew Stanton, Jim Reardon, Pete Docter",
+  "actors": "Ben Burtt, Elissa Knight, Jeff Garlin",
+  "plot": "A robot who is responsible for cleaning a waste-covered Earth meets another robot and falls in love with her. Together, they set out on a journey that will alter the fate of mankind.",
+  "language": "English",
+  "country": "United States, Japan",
+  "awards": "Won 1 Oscar. 96 wins & 95 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "95/100"
+    }
+  ],
+  "metascore": "95",
+  "imdbRating": "8.4",
+  "imdbID": "tt0910970",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:33:34.702Z"
+}

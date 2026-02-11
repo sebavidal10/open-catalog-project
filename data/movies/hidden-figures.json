@@ -1,0 +1,35 @@
+{
+  "title": "Hidden Figures",
+  "year": "2016",
+  "rated": "PG",
+  "released": "06 Jan 2017",
+  "runtime": "127 min",
+  "genre": "Biography, Drama, History",
+  "director": "Theodore Melfi",
+  "writer": "Allison Schroeder, Theodore Melfi, Margot Lee Shetterly",
+  "actors": "Taraji P. Henson, Octavia Spencer, Janelle Monáe",
+  "plot": "Three female African-American mathematicians play a pivotal role in astronaut John Glenn's launch into orbit while dealing with racial and gender discrimination.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 37 wins & 94 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2RhNDRhNzctZTllMy00NTc2LWJjZmUtMzg3MTNiNjhhODMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.8",
+  "imdbID": "tt4846340",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:01.056Z"
+}

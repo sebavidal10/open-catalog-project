@@ -1,0 +1,35 @@
+{
+  "title": "Big Hero 6",
+  "year": "2014",
+  "rated": "PG",
+  "released": "07 Nov 2014",
+  "runtime": "102 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Don Hall, Chris Williams",
+  "writer": "Jordan Roberts, Robert L. Baird, Daniel Gerson",
+  "actors": "Ryan Potter, Scott Adsit, Jamie Chung",
+  "plot": "A special bond develops between plus-sized inflatable robot Baymax and prodigy Hiro Hamada, who together team up with a group of friends to form a band of high-tech heroes.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 17 wins & 58 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjQ3YzUyOGQtNjdlYS00YmRhLWIyOWYtMGQ3YjkwMjJiYzRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.8",
+  "imdbID": "tt2245084",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:56.401Z"
+}

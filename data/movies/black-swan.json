@@ -1,0 +1,35 @@
+{
+  "title": "Black Swan",
+  "year": "2010",
+  "rated": "R",
+  "released": "17 Dec 2010",
+  "runtime": "108 min",
+  "genre": "Drama, Thriller",
+  "director": "Darren Aronofsky",
+  "writer": "Mark Heyman, Andres Heinz, John J. McLaughlin",
+  "actors": "Natalie Portman, Mila Kunis, Vincent Cassel",
+  "plot": "Nina is a talented but unstable ballerina on the verge of stardom. Pushed to the breaking point by her artistic director and a seductive rival, Nina's grip on reality slips, plunging her into a waking nightmare.",
+  "language": "English, French, Italian",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 98 wins & 279 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "8.0",
+  "imdbID": "tt0947798",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:33:48.757Z"
+}

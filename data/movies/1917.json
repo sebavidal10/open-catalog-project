@@ -1,0 +1,35 @@
+{
+  "title": "1917",
+  "year": "2019",
+  "rated": "R",
+  "released": "10 Jan 2020",
+  "runtime": "119 min",
+  "genre": "Action, Drama, War",
+  "director": "Sam Mendes",
+  "writer": "Sam Mendes, Krysty Wilson-Cairns",
+  "actors": "Dean-Charles Chapman, George MacKay, Daniel Mays",
+  "plot": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+  "language": "English, French, German",
+  "country": "United Kingdom, United States",
+  "awards": "Won 3 Oscars. 137 wins & 201 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzkxZjg2NDQtMGVjMy00NWZkLTk0ZDEtZWE3NDYwYjAyMTg1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "8.2",
+  "imdbID": "tt8579674",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:34:31.879Z"
+}

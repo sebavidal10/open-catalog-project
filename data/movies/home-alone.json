@@ -1,0 +1,35 @@
+{
+  "title": "Home Alone",
+  "year": "1990",
+  "rated": "PG",
+  "released": "16 Nov 1990",
+  "runtime": "103 min",
+  "genre": "Comedy, Family",
+  "director": "Chris Columbus",
+  "writer": "John Hughes",
+  "actors": "Macaulay Culkin, Joe Pesci, Daniel Stern",
+  "plot": "An eight-year-old troublemaker, mistakenly left home alone, must defend his home against a pair of burglars on Christmas Eve.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 13 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzNmNmQ2ZDEtMTc1MS00NjNiLThlMGUtZmQxNTg1Nzg5NWMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "66%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "7.8",
+  "imdbID": "tt0099785",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:31:40.273Z"
+}

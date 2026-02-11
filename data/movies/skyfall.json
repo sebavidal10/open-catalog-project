@@ -1,0 +1,35 @@
+{
+  "title": "Skyfall",
+  "year": "2012",
+  "rated": "PG-13",
+  "released": "09 Nov 2012",
+  "runtime": "143 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "Sam Mendes",
+  "writer": "Neal Purvis, Robert Wade, John Logan",
+  "actors": "Daniel Craig, Javier Bardem, Naomie Harris",
+  "plot": "James Bond's loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost.",
+  "language": "English, Turkish, Shanghainese, Portuguese, Japanese",
+  "country": "United Kingdom, United States, Turkey, China",
+  "awards": "Won 2 Oscars. 69 wins & 125 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjAzMWNkODUtM2FlMi00NzgyLWJhMGUtMWEyNDYyZGFiN2RlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.8",
+  "imdbID": "tt1074638",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:33:56.926Z"
+}

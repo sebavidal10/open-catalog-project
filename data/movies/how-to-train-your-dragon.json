@@ -1,35 +1,35 @@
 {
   "title": "How to Train Your Dragon",
-  "year": "2010",
+  "year": "2025",
   "rated": "PG",
-  "released": "26 Mar 2010",
-  "runtime": "98 min",
-  "genre": "Animation, Action, Adventure",
-  "director": "Dean DeBlois, Chris Sanders",
-  "writer": "William Davies, Dean DeBlois, Chris Sanders",
-  "actors": "Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse",
-  "plot": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+  "released": "13 Jun 2025",
+  "runtime": "125 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Dean DeBlois",
+  "writer": "Dean DeBlois, Cressida Cowell, William Davies",
+  "actors": "Mason Thames, Nico Parker, Gerard Butler",
+  "plot": "As an ancient threat endangers both Vikings and dragons alike on the isle of Berk, the friendship between Hiccup, an inventive Viking, and Toothless, a Night Fury dragon, becomes the key to both species forging a new future together.",
   "language": "English",
-  "country": "United Kingdom, France, United States",
-  "awards": "Nominated for 2 Oscars. 25 wins & 63 nominations total",
-  "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_SX300.jpg",
+  "country": "United States, United Kingdom, Ireland, Iceland, Canada",
+  "awards": "Nominated for 1 BAFTA Award2 wins & 18 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODA5Y2M0NjctNWQzMy00ODRhLWE0MzUtYmE1YTAzZjYyYmQyXkEyXkFqcGc@._V1_SX300.jpg",
   "ratings": [
     {
       "Source": "Internet Movie Database",
-      "Value": "8.1/10"
+      "Value": "7.7/10"
     },
     {
       "Source": "Rotten Tomatoes",
-      "Value": "99%"
+      "Value": "77%"
     },
     {
       "Source": "Metacritic",
-      "Value": "75/100"
+      "Value": "61/100"
     }
   ],
-  "metascore": "75",
-  "imdbRating": "8.1",
-  "imdbID": "tt0892769",
+  "metascore": "61",
+  "imdbRating": "7.7",
+  "imdbID": "tt26743210",
   "type": "movie",
-  "fetched_at": "2026-02-02T16:30:28.057Z"
+  "fetched_at": "2026-02-11T19:35:02.206Z"
 }

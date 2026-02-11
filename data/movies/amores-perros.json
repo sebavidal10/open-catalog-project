@@ -1,0 +1,35 @@
+{
+  "title": "Amores Perros",
+  "year": "2000",
+  "rated": "R",
+  "released": "13 Apr 2001",
+  "runtime": "154 min",
+  "genre": "Drama, Thriller",
+  "director": "Alejandro G. Iñárritu",
+  "writer": "Guillermo Arriaga",
+  "actors": "Emilio Echevarría, Gael García Bernal, Goya Toledo",
+  "plot": "An amateur dog fighter, a supermodel, and a derelict assassin, all separately struggling to find love, find their lives transformed by a devastating car wreck in Mexico City.",
+  "language": "Spanish",
+  "country": "Mexico",
+  "awards": "Nominated for 1 Oscar. 56 wins & 24 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmUzNDI1MDYtNmIxNC00NjczLTk0ZDEtYWFkZDcxMWVhYTEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "8.0",
+  "imdbID": "tt0245712",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:32:49.172Z"
+}

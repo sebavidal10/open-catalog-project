@@ -1,0 +1,35 @@
+{
+  "title": "Everything Everywhere All at Once",
+  "year": "2022",
+  "rated": "R",
+  "released": "08 Apr 2022",
+  "runtime": "139 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Daniel Kwan, Daniel Scheinert",
+  "writer": "Daniel Kwan, Daniel Scheinert",
+  "actors": "Michelle Yeoh, Stephanie Hsu, Jamie Lee Curtis",
+  "plot": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
+  "language": "English, Mandarin, Cantonese",
+  "country": "United States",
+  "awards": "Won 7 Oscars. 397 wins & 379 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWNmMzAzZmQtNDQ1NC00Nzk5LTkyMmUtNGI2N2NkOWM4MzEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.7",
+  "imdbID": "tt6710474",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:34:42.372Z"
+}

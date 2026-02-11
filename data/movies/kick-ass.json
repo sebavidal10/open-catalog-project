@@ -1,0 +1,35 @@
+{
+  "title": "Kick-Ass",
+  "year": "2010",
+  "rated": "R",
+  "released": "16 Apr 2010",
+  "runtime": "117 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "Matthew Vaughn",
+  "writer": "Jane Goldman, Matthew Vaughn, Mark Millar",
+  "actors": "Aaron Taylor-Johnson, Nicolas Cage, Chloë Grace Moretz",
+  "plot": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a superhero, even though he has no powers, training or meaningful reason to do so.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "19 wins & 63 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMzNzEzMDYxM15BMl5BanBnXkFtZTcwMTc0NTMxMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "7.6",
+  "imdbID": "tt1250777",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:15.501Z"
+}

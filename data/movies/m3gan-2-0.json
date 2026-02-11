@@ -1,0 +1,35 @@
+{
+  "title": "M3GAN 2.0",
+  "year": "2025",
+  "rated": "PG-13",
+  "released": "27 Jun 2025",
+  "runtime": "120 min",
+  "genre": "Action, Sci-Fi, Thriller",
+  "director": "Gerard Johnstone",
+  "writer": "Gerard Johnstone, Akela Cooper, James Wan",
+  "actors": "Allison Williams, Violet McGraw, Amie Donald",
+  "plot": "Two years after M3GAN's rampage, her creator, Gemma, resorts to resurrecting her infamous creation in order to take down Amelia, the military-grade weapon who was built by a defense contractor who stole M3GAN's underlying tech.",
+  "language": "English, Turkish",
+  "country": "United States, New Zealand, Canada",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzFmNjVjZWQtZjI5Zi00YThiLTg0ZWItZDdjYzhhZDE1NTE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "metascore": "54",
+  "imdbRating": "6.0",
+  "imdbID": "tt26342662",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:35:04.534Z"
+}

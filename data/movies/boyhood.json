@@ -1,0 +1,35 @@
+{
+  "title": "Boyhood",
+  "year": "2014",
+  "rated": "R",
+  "released": "15 Aug 2014",
+  "runtime": "165 min",
+  "genre": "Drama",
+  "director": "Richard Linklater",
+  "writer": "Richard Linklater",
+  "actors": "Ellar Coltrane, Patricia Arquette, Ethan Hawke",
+  "plot": "The life of Mason, from early childhood to his arrival at college.",
+  "language": "English, Spanish, Ukrainian, Arabic",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 178 wins & 220 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzNDc2MDc0N15BMl5BanBnXkFtZTgwOTcwMDQ5MTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "100/100"
+    }
+  ],
+  "metascore": "100",
+  "imdbRating": "7.9",
+  "imdbID": "tt1065073",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:49.327Z"
+}

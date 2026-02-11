@@ -1,0 +1,35 @@
+{
+  "title": "Casino Royale",
+  "year": "2006",
+  "rated": "PG-13",
+  "released": "17 Nov 2006",
+  "runtime": "144 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "Martin Campbell",
+  "writer": "Neal Purvis, Robert Wade, Paul Haggis",
+  "actors": "Daniel Craig, Eva Green, Judi Dench",
+  "plot": "After earning a licence to kill, secret agent James Bond sets out on his first mission as 007. Bond must defeat a private banker funding terrorists in a high-stakes game of poker at Casino Royale, in Montenegro.",
+  "language": "English, Serbian, German, Italian, French",
+  "country": "United States, United Kingdom, Czech Republic, Germany, Bahamas, Italy",
+  "awards": "Won 1 BAFTA Award28 wins & 44 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWQ1ZDM4NDktMWY0NC00MjcxLWJlMDMtNmE2MGVhYzRjMWQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "8.0",
+  "imdbID": "tt0381061",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:33:25.359Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Scream",
+  "year": "1996",
+  "rated": "R",
+  "released": "20 Dec 1996",
+  "runtime": "111 min",
+  "genre": "Horror, Mystery",
+  "director": "Wes Craven",
+  "writer": "Kevin Williamson",
+  "actors": "Neve Campbell, Courteney Cox, David Arquette",
+  "plot": "In the small town of Woodsboro, California, a masked killer known as Ghostface begins murdering high school students, and a group of friends must use their knowledge of horror movies to unmask the killer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "12 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA2NjU5MTg5OF5BMl5BanBnXkFtZTgwOTkyMzQxMDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "7.4",
+  "imdbID": "tt0117571",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:32:19.993Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Women Talking",
+  "year": "2022",
+  "rated": "PG-13",
+  "released": "27 Jan 2023",
+  "runtime": "104 min",
+  "genre": "Drama",
+  "director": "Sarah Polley",
+  "writer": "Sarah Polley, Miriam Toews",
+  "actors": "Rooney Mara, Claire Foy, Jessie Buckley",
+  "plot": "Do nothing, stay and fight, or leave. In 2010, the women of an isolated religious community grapple with reconciling a brutal reality with their faith.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 65 wins & 164 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzM2YzEzOTktNTJiNy00YjAwLWI2N2YtNjBkZWM5Y2U1OTRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "6.9",
+  "imdbID": "tt13669038",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:42.235Z"
+}

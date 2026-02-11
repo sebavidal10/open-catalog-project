@@ -1,0 +1,35 @@
+{
+  "title": "The Tree of Life",
+  "year": "2011",
+  "rated": "PG-13",
+  "released": "17 May 2011",
+  "runtime": "139 min",
+  "genre": "Drama, Fantasy",
+  "director": "Terrence Malick",
+  "writer": "Terrence Malick",
+  "actors": "Brad Pitt, Sean Penn, Jessica Chastain",
+  "plot": "The story of a family in Waco, Texas in 1956. The eldest son witnesses the loss of innocence and struggles with his parents' conflicting teachings.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 118 wins & 130 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMwNjQ0NjMzN15BMl5BanBnXkFtZTcwNjMxMTkyNA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "6.8",
+  "imdbID": "tt0478304",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:21.331Z"
+}

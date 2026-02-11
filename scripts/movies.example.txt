@@ -1,4 +1,3 @@
-# Add movie titles here, one per line.
+# Add movie titles and year here, one per line.
 # Example:
-# The Matrix
-# Inception 2010
+# Inception (2010)

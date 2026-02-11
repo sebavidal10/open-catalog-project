@@ -1,0 +1,35 @@
+{
+  "title": "Top Gun: Maverick",
+  "year": "2022",
+  "rated": "PG-13",
+  "released": "27 May 2022",
+  "runtime": "130 min",
+  "genre": "Action, Drama",
+  "director": "Joseph Kosinski",
+  "writer": "Jim Cash, Jack Epps Jr., Peter Craig",
+  "actors": "Tom Cruise, Jennifer Connelly, Miles Teller",
+  "plot": "The story involves Maverick confronting his past while training a group of younger Top Gun graduates, including the son of his deceased best friend, for a dangerous mission.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 111 wins & 237 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDBkZDNjMWEtOTdmMi00NmExLTg5MmMtNTFlYTJlNWY5YTdmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "8.2",
+  "imdbID": "tt1745960",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:34:41.206Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Marriage Story",
+  "year": "2019",
+  "rated": "R",
+  "released": "06 Dec 2019",
+  "runtime": "137 min",
+  "genre": "Drama, Romance",
+  "director": "Noah Baumbach",
+  "writer": "Noah Baumbach",
+  "actors": "Adam Driver, Scarlett Johansson, Julia Greer",
+  "plot": "A stage director and his actor wife struggle through a grueling divorce that pushes them to their personal and creative extremes. Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying toget...",
+  "language": "English, Spanish",
+  "country": "United Kingdom, United States",
+  "awards": "Won 1 Oscar. 129 wins & 269 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmE0OWJlM2MtNzhmMi00YmQyLTlmY2EtZmUzNzBiNGRlN2JkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "7.9",
+  "imdbID": "tt7653254",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:17.408Z"
+}

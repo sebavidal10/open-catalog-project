@@ -1,0 +1,35 @@
+{
+  "title": "Lost in Translation",
+  "year": "2003",
+  "rated": "R",
+  "released": "03 Oct 2003",
+  "runtime": "102 min",
+  "genre": "Comedy, Drama",
+  "director": "Sofia Coppola",
+  "writer": "Sofia Coppola",
+  "actors": "Bill Murray, Scarlett Johansson, Giovanni Ribisi",
+  "plot": "A fading movie star falls for a lonely young woman in Tokyo.",
+  "language": "English, Japanese, German, French",
+  "country": "United States, Japan",
+  "awards": "Won 1 Oscar. 98 wins & 133 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzk0NDg1MV5BMl5BanBnXkFtZTgwNDg0NjkxMDI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "metascore": "91",
+  "imdbRating": "7.7",
+  "imdbID": "tt0335266",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:33:08.993Z"
+}

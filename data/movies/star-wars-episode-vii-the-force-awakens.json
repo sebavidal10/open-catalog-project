@@ -1,0 +1,35 @@
+{
+  "title": "Star Wars: Episode VII - The Force Awakens",
+  "year": "2015",
+  "rated": "PG-13",
+  "released": "18 Dec 2015",
+  "runtime": "138 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "J.J. Abrams",
+  "writer": "Lawrence Kasdan, J.J. Abrams, Michael Arndt",
+  "actors": "Daisy Ridley, John Boyega, Oscar Isaac",
+  "plot": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.",
+  "language": "English",
+  "country": "United States, United Kingdom",
+  "awards": "Nominated for 5 Oscars. 64 wins & 140 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "7.7",
+  "imdbID": "tt2488496",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:34:10.912Z"
+}

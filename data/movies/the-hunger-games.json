@@ -1,0 +1,35 @@
+{
+  "title": "The Hunger Games",
+  "year": "2012",
+  "rated": "PG-13",
+  "released": "23 Mar 2012",
+  "runtime": "142 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Gary Ross",
+  "writer": "Gary Ross, Suzanne Collins, Billy Ray",
+  "actors": "Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth",
+  "plot": "Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 BAFTA Award34 wins & 49 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWI1OGM4YjQtNmIxNi00YmE2LWJkNTAtY2Q0YjU4NTI5NWQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "7.2",
+  "imdbID": "tt1392170",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:37.644Z"
+}

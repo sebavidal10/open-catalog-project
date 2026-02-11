@@ -1,0 +1,35 @@
+{
+  "title": "Avatar",
+  "year": "2009",
+  "rated": "PG-13",
+  "released": "18 Dec 2009",
+  "runtime": "162 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "James Cameron",
+  "writer": "James Cameron",
+  "actors": "Sam Worthington, Zoe Saldaña, Sigourney Weaver",
+  "plot": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+  "language": "English, Spanish",
+  "country": "United States, United Kingdom",
+  "awards": "Won 3 Oscars. 91 wins & 131 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDEzMmQwZjctZWU2My00MWNlLWE0NjItMDJlYTRlNGJiZjcyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.9",
+  "imdbID": "tt0499549",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:33:38.201Z"
+}

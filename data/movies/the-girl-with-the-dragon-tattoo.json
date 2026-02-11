@@ -1,0 +1,35 @@
+{
+  "title": "The Girl with the Dragon Tattoo",
+  "year": "2011",
+  "rated": "R",
+  "released": "21 Dec 2011",
+  "runtime": "158 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "David Fincher",
+  "writer": "Steven Zaillian, Stieg Larsson",
+  "actors": "Daniel Craig, Rooney Mara, Christopher Plummer",
+  "plot": "Journalist Mikael Blomkvist is aided in his search for a woman who has been missing for 40 years by hacker Lisbeth Salander.",
+  "language": "English, Swedish",
+  "country": "Sweden, United States",
+  "awards": "Won 1 Oscar. 26 wins & 91 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTczNDk4NTQ0OV5BMl5BanBnXkFtZTcwNDAxMDgxNw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.8",
+  "imdbID": "tt1568346",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:24.828Z"
+}

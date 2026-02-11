@@ -1,0 +1,35 @@
+{
+  "title": "Killers of the Flower Moon",
+  "year": "2023",
+  "rated": "R",
+  "released": "20 Oct 2023",
+  "runtime": "206 min",
+  "genre": "Crime, Drama, History",
+  "director": "Martin Scorsese",
+  "writer": "Eric Roth, Martin Scorsese, David Grann",
+  "actors": "Leonardo DiCaprio, Robert De Niro, Lily Gladstone",
+  "plot": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one - until the FBI steps in to unravel the mystery.",
+  "language": "English, Osage, Latin, French",
+  "country": "United States",
+  "awards": "Nominated for 10 Oscars. 136 wins & 424 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWY5ZDVjNTUtODI5Yy00MjFhLWEyM2EtYzZjM2VjZTI0MTBjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "7.5",
+  "imdbID": "tt5537002",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:34:47.036Z"
+}

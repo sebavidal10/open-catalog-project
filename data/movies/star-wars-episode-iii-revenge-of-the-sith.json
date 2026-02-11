@@ -16,7 +16,7 @@
   "ratings": [
     {
       "Source": "Internet Movie Database",
-      "Value": "7.6/10"
+      "Value": "7.7/10"
     },
     {
       "Source": "Rotten Tomatoes",
@@ -28,8 +28,8 @@
     }
   ],
   "metascore": "68",
-  "imdbRating": "7.6",
+  "imdbRating": "7.7",
   "imdbID": "tt0121766",
   "type": "movie",
-  "fetched_at": "2026-02-02T16:43:25.593Z"
+  "fetched_at": "2026-02-11T19:33:17.166Z"
 }

@@ -1,0 +1,35 @@
+{
+  "title": "Mission: Impossible - The Final Reckoning",
+  "year": "2025",
+  "rated": "PG-13",
+  "released": "23 May 2025",
+  "runtime": "169 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "Christopher McQuarrie",
+  "writer": "Bruce Geller, Christopher McQuarrie, Erik Jendresen",
+  "actors": "Tom Cruise, Hayley Atwell, Ving Rhames",
+  "plot": "Hunt and the IMF pursue a dangerous AI called the Entity that's infiltrated global intelligence. With governments and a figure from his past in pursuit, Hunt races to stop it from forever changing the world.",
+  "language": "English, French, Russian, Inuktitut",
+  "country": "United States, Norway",
+  "awards": "31 wins & 39 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGQ5NGEyYTItMjNiMi00Y2EwLTkzOWItMjc5YjJiMjMyNTI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "7.2",
+  "imdbID": "tt9603208",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:35:08.537Z"
+}

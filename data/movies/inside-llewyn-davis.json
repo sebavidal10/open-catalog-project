@@ -1,0 +1,35 @@
+{
+  "title": "Inside Llewyn Davis",
+  "year": "2013",
+  "rated": "R",
+  "released": "10 Jan 2014",
+  "runtime": "104 min",
+  "genre": "Drama, Music",
+  "director": "Ethan Coen, Joel Coen",
+  "writer": "Joel Coen, Ethan Coen",
+  "actors": "Oscar Isaac, Carey Mulligan, John Goodman",
+  "plot": "A week in the life of a young singer as he navigates the Greenwich Village folk scene of 1961.",
+  "language": "English",
+  "country": "United States, United Kingdom, France",
+  "awards": "Nominated for 2 Oscars. 47 wins & 174 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAxNjcyNDQxM15BMl5BanBnXkFtZTgwNzU2NDA0MDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "93/100"
+    }
+  ],
+  "metascore": "93",
+  "imdbRating": "7.4",
+  "imdbID": "tt2042568",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:45.831Z"
+}

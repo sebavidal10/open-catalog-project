@@ -1,0 +1,35 @@
+{
+  "title": "Lilo & Stitch",
+  "year": "2025",
+  "rated": "PG",
+  "released": "23 May 2025",
+  "runtime": "108 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Dean Fleischer Camp",
+  "writer": "Chris Kekaniokalani Bright, Mike Van Waes, Chris Sanders",
+  "actors": "Maia Kealoha, Sydney Agudong, Chris Sanders",
+  "plot": "A lonely Hawaiian girl befriends a runaway alien, helping to mend her fragmented family.",
+  "language": "English",
+  "country": "United States, Australia, Canada",
+  "awards": "3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmFmZjM1ZTEtYzQ5ZS00MTRmLTkzMDktYWMxNTg2NGE3YjY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "metascore": "53",
+  "imdbRating": "6.7",
+  "imdbID": "tt11655566",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:35:03.369Z"
+}

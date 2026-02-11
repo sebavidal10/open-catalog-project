@@ -1,0 +1,35 @@
+{
+  "title": "Fences",
+  "year": "2016",
+  "rated": "PG-13",
+  "released": "25 Dec 2016",
+  "runtime": "139 min",
+  "genre": "Drama",
+  "director": "Denzel Washington",
+  "writer": "August Wilson",
+  "actors": "Denzel Washington, Viola Davis, Stephen McKinley Henderson",
+  "plot": "A working-class African-American father tries to raise his family in the 1950s, while coming to terms with the events of his life.",
+  "language": "English",
+  "country": "United States, Canada",
+  "awards": "Won 1 Oscar. 60 wins & 122 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTg0Nzc1NjA0MV5BMl5BanBnXkFtZTgwNTcyNDQ0MDI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.2",
+  "imdbID": "tt2671706",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:02.224Z"
+}

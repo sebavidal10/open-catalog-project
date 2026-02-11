@@ -1,0 +1,35 @@
+{
+  "title": "Basic Instinct",
+  "year": "1992",
+  "rated": "R",
+  "released": "20 Mar 1992",
+  "runtime": "127 min",
+  "genre": "Drama, Mystery, Romance",
+  "director": "Paul Verhoeven",
+  "writer": "Joe Eszterhas",
+  "actors": "Michael Douglas, Sharon Stone, George Dzundza",
+  "plot": "A violent police detective investigates a brutal murder that might involve a manipulative and seductive novelist.",
+  "language": "English, Spanish",
+  "country": "France, United States",
+  "awards": "Nominated for 2 Oscars. 6 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWYwYmQzYTctMjg5Ni00NWZkLWI5NzItZGFjMDM2NDkyNGZlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "56%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "43/100"
+    }
+  ],
+  "metascore": "43",
+  "imdbRating": "7.1",
+  "imdbID": "tt0103772",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:31:55.486Z"
+}

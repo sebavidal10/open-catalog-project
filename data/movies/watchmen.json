@@ -1,0 +1,35 @@
+{
+  "title": "Watchmen",
+  "year": "2009",
+  "rated": "R",
+  "released": "06 Mar 2009",
+  "runtime": "162 min",
+  "genre": "Action, Drama, Mystery",
+  "director": "Zack Snyder",
+  "writer": "Dave Gibbons, David Hayter, Alex Tse",
+  "actors": "Malin Akerman, Billy Crudup, Matthew Goode",
+  "plot": "In a version of 1985 where superheroes exist, the murder of a colleague sends active vigilante Rorschach on the trail of a conspiracy that will change the course of history.",
+  "language": "English",
+  "country": "United States",
+  "awards": "12 wins & 24 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmJiNTUwYWUtZDllNi00ODdjLWFmNTEtOTVlNmYxYTZhNzYzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "metascore": "56",
+  "imdbRating": "7.6",
+  "imdbID": "tt0409459",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:33:44.060Z"
+}

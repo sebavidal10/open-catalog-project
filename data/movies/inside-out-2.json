@@ -1,0 +1,35 @@
+{
+  "title": "Inside Out 2",
+  "year": "2024",
+  "rated": "PG",
+  "released": "14 Jun 2024",
+  "runtime": "96 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Kelsey Mann",
+  "writer": "Meg LeFauve, Dave Holstein, Kelsey Mann",
+  "actors": "Amy Poehler, Maya Hawke, Kensington Tallman",
+  "plot": "A sequel that features Riley entering puberty and experiencing brand new, more complex emotions as a result. As Riley tries to adapt to her teenage years, her old emotions try to adapt to the possibility of being replaced.",
+  "language": "English, French, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 7 wins & 107 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWY3MDE2Y2UtOTE3Zi00MGUzLTg2MTItZjE1ZWVkMGVlODRmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.5",
+  "imdbID": "tt22022452",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:34:49.369Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Captain America: Brave New World",
+  "year": "2025",
+  "rated": "PG-13",
+  "released": "14 Feb 2025",
+  "runtime": "118 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Julius Onah",
+  "writer": "Rob Edwards, Malcolm Spellman, Dalan Musson",
+  "actors": "Anthony Mackie, Harrison Ford, Danny Ramirez",
+  "plot": "Sam Wilson, the new Captain America, finds himself in the middle of an international incident and must discover the motive behind a nefarious global plan.",
+  "language": "English",
+  "country": "United States, Canada",
+  "awards": "14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDRjY2E0ZmEtN2QwNi00NTEwLWI3MWItODNkMGYwYWFjNGE0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "46%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "42/100"
+    }
+  ],
+  "metascore": "42",
+  "imdbRating": "5.6",
+  "imdbID": "tt14513804",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:34:56.363Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Saw",
+  "year": "2004",
+  "rated": "R",
+  "released": "29 Oct 2004",
+  "runtime": "103 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "James Wan",
+  "writer": "Leigh Whannell, James Wan",
+  "actors": "Cary Elwes, Leigh Whannell, Danny Glover",
+  "plot": "Two men awaken to find themselves on the opposite sides of a dead body, each with specific instructions to kill the other, escape or face the consequences. These two are the latest contestants in Jigsaw's games.",
+  "language": "English",
+  "country": "United States",
+  "awards": "9 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTE5MzFlMTktMzBkOC00ZjMxLThmOTAtOGU3ZGEwZGRlNDdjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "46/100"
+    }
+  ],
+  "metascore": "46",
+  "imdbRating": "7.6",
+  "imdbID": "tt0387564",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:33:14.827Z"
+}

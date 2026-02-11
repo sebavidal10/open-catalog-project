@@ -1,0 +1,35 @@
+{
+  "title": "Superbad",
+  "year": "2007",
+  "rated": "R",
+  "released": "17 Aug 2007",
+  "runtime": "113 min",
+  "genre": "Comedy",
+  "director": "Greg Mottola",
+  "writer": "Seth Rogen, Evan Goldberg",
+  "actors": "Michael Cera, Jonah Hill, Christopher Mintz-Plasse",
+  "plot": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
+  "language": "English",
+  "country": "United States",
+  "awards": "11 wins & 24 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjk0MzdlZGEtNTRkOC00ZDRiLWJkYjAtMzUzYTRiNzk1YTViXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.6",
+  "imdbID": "tt0829482",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:33:31.197Z"
+}

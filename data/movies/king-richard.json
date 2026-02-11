@@ -1,0 +1,35 @@
+{
+  "title": "King Richard",
+  "year": "2021",
+  "rated": "PG-13",
+  "released": "19 Nov 2021",
+  "runtime": "144 min",
+  "genre": "Biography, Drama, Sport",
+  "director": "Reinaldo Marcus Green",
+  "writer": "Zach Baylin",
+  "actors": "Will Smith, Aunjanue Ellis-Taylor, Jon Bernthal",
+  "plot": "A look at how tennis superstars Venus and Serena Williams became who they are after the coaching from their father Richard.",
+  "language": "English, Spanish",
+  "country": "United States, Australia",
+  "awards": "Won 1 Oscar. 49 wins & 141 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjVlZGFjMDctNDIxOS00NjY5LWE1ZTEtMTAxZGE4Y2QxZjMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.5",
+  "imdbID": "tt9620288",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:34.078Z"
+}

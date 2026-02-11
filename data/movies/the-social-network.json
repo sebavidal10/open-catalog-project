@@ -1,0 +1,35 @@
+{
+  "title": "The Social Network",
+  "year": "2010",
+  "rated": "PG-13",
+  "released": "01 Oct 2010",
+  "runtime": "120 min",
+  "genre": "Biography, Drama",
+  "director": "David Fincher",
+  "writer": "Aaron Sorkin, Ben Mezrich",
+  "actors": "Jesse Eisenberg, Andrew Garfield, Justin Timberlake",
+  "plot": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea and by the co-founder who was later squeezed out of the business.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 174 wins & 188 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjlkNTE5ZTUtNGEwNy00MGVhLThmZjMtZjU1NDE5Zjk1NDZkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "95/100"
+    }
+  ],
+  "metascore": "95",
+  "imdbRating": "7.8",
+  "imdbID": "tt1285016",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:33:46.394Z"
+}

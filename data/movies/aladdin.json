@@ -1,0 +1,35 @@
+{
+  "title": "Aladdin",
+  "year": "1992",
+  "rated": "G",
+  "released": "25 Nov 1992",
+  "runtime": "90 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Ron Clements, John Musker",
+  "writer": "Ron Clements, John Musker, Ted Elliott",
+  "actors": "Scott Weinger, Robin Williams, Linda Larkin",
+  "plot": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 36 wins & 22 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmQwYWZjZGItYzc0OC00ZDllLTg3NjItOWIyOWYwMDljMjAyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "8.0",
+  "imdbID": "tt0103639",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:31:54.323Z"
+}

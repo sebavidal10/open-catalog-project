@@ -1,0 +1,35 @@
+{
+  "title": "The Hangover",
+  "year": "2009",
+  "rated": "R",
+  "released": "05 Jun 2009",
+  "runtime": "100 min",
+  "genre": "Comedy",
+  "director": "Todd Phillips",
+  "writer": "Jon Lucas, Scott Moore",
+  "actors": "Zach Galifianakis, Bradley Cooper, Justin Bartha",
+  "plot": "Three buddies wake up from a bachelor party in Las Vegas with no memory of the previous night and the bachelor missing. They must make their way around the city in order to find their friend in time for his wedding.",
+  "language": "English",
+  "country": "United States, Germany",
+  "awards": "Nominated for 1 BAFTA Award13 wins & 25 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDI2MzBhNzgtOWYyOS00NDM2LWE0OGYtOGQ0M2FjMTI2NTllXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.7",
+  "imdbID": "tt1119646",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:33:42.892Z"
+}

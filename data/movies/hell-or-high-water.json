@@ -1,0 +1,35 @@
+{
+  "title": "Hell or High Water",
+  "year": "2016",
+  "rated": "R",
+  "released": "26 Aug 2016",
+  "runtime": "102 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "David Mackenzie",
+  "writer": "Taylor Sheridan",
+  "actors": "Chris Pine, Ben Foster, Jeff Bridges",
+  "plot": "Toby is a divorced father who's trying to make a better life. His brother is an ex-con with a short temper and a loose trigger finger. Together, they plan a series of heists against the bank that's about to foreclose on their fami...",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 47 wins & 174 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "7.6",
+  "imdbID": "tt2582782",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:03.387Z"
+}

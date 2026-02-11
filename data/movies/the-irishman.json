@@ -1,0 +1,35 @@
+{
+  "title": "The Irishman",
+  "year": "2019",
+  "rated": "R",
+  "released": "27 Nov 2019",
+  "runtime": "209 min",
+  "genre": "Biography, Crime, Drama",
+  "director": "Martin Scorsese",
+  "writer": "Steven Zaillian, Charles Brandt",
+  "actors": "Robert De Niro, Al Pacino, Joe Pesci",
+  "plot": "An illustration of Frank Sheeran's life, from W.W.II veteran to hit-man for the Bufalino crime family and his alleged assassination of his close friend Jimmy Hoffa.",
+  "language": "English, Italian, Latin, Spanish, German",
+  "country": "United States",
+  "awards": "Nominated for 10 Oscars. 72 wins & 354 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY2YThkNmQtOWJhYy00ZDc3LWEzOGEtMmQwNzM0YjFmZWIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "7.8",
+  "imdbID": "tt1302006",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:34:33.045Z"
+}

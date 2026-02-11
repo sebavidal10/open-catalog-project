@@ -1,0 +1,35 @@
+{
+  "title": "Point Break",
+  "year": "1991",
+  "rated": "R",
+  "released": "12 Jul 1991",
+  "runtime": "122 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Kathryn Bigelow",
+  "writer": "Rick King, W. Peter Iliff",
+  "actors": "Patrick Swayze, Keanu Reeves, Gary Busey",
+  "plot": "An F.B.I. Agent goes undercover to catch a gang of surfers who may be bank robbers.",
+  "language": "English",
+  "country": "United States, Japan",
+  "awards": "1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTI3YzY3N2MtODI1OC00NmU0LThlMDYtNmFjMGFkNzhhNTRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "68%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "7.3",
+  "imdbID": "tt0102685",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:31:49.651Z"
+}

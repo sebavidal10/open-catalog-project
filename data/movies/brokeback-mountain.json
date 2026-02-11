@@ -1,0 +1,35 @@
+{
+  "title": "Brokeback Mountain",
+  "year": "2005",
+  "rated": "R",
+  "released": "13 Jan 2006",
+  "runtime": "134 min",
+  "genre": "Drama, Romance",
+  "director": "Ang Lee",
+  "writer": "Annie Proulx, Larry McMurtry, Diana Ossana",
+  "actors": "Jake Gyllenhaal, Heath Ledger, Michelle Williams",
+  "plot": "Two shepherds fall for each other, but their relationship becomes complicated when they both get married to their respective girlfriends.",
+  "language": "English, Spanish",
+  "country": "Canada, United States",
+  "awards": "Won 3 Oscars. 141 wins & 133 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzM4OWFjMTMtZjNjOS00YmU3LTlhY2MtNjFiMTVkN2Y1OTZlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.7",
+  "imdbID": "tt0388795",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:33:18.354Z"
+}

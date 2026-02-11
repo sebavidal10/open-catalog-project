@@ -1,0 +1,35 @@
+{
+  "title": "Rogue One: A Star Wars Story",
+  "year": "2016",
+  "rated": "PG-13",
+  "released": "16 Dec 2016",
+  "runtime": "133 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Gareth Edwards",
+  "writer": "Chris Weitz, Tony Gilroy, John Knoll",
+  "actors": "Felicity Jones, Diego Luna, Alan Tudyk",
+  "plot": "In a time of conflict, a group of unlikely heroes band together on a mission to steal the plans to the Death Star, the Empire's ultimate weapon of destruction.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 24 wins & 85 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "7.8",
+  "imdbID": "tt3748528",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:34:16.736Z"
+}

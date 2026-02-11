@@ -1,0 +1,35 @@
+{
+  "title": "The Conjuring",
+  "year": "2013",
+  "rated": "R",
+  "released": "19 Jul 2013",
+  "runtime": "112 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "James Wan",
+  "writer": "Chad Hayes, Carey W. Hayes",
+  "actors": "Patrick Wilson, Vera Farmiga, Ron Livingston",
+  "plot": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+  "language": "English, Latin",
+  "country": "United States",
+  "awards": "15 wins & 22 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "7.5",
+  "imdbID": "tt1457767",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:46.996Z"
+}

@@ -1,31 +1,22 @@
 {
   "title": "Apex",
-  "year": "2021",
+  "year": "2026",
   "rated": "N/A",
-  "released": "12 Nov 2021",
-  "runtime": "93 min",
-  "genre": "Action, Drama, Sci-Fi",
-  "director": "Edward Drake",
-  "writer": "Corey Large, Edward Drake",
-  "actors": "Neal McDonough, Bruce Willis, Corey Large",
-  "plot": "Six elite hunters pay to hunt down a man on a deserted island, only to find themselves becoming the prey.",
+  "released": "24 Apr 2026",
+  "runtime": "N/A",
+  "genre": "Action, Thriller",
+  "director": "Baltasar Kormákur",
+  "writer": "N/A",
+  "actors": "Charlize Theron, Taron Egerton, Eric Bana",
+  "plot": "When an adrenaline junkie sets out to conquer a menacing river, she discovers that nature isn't the only thing out for blood.",
   "language": "English",
-  "country": "United States, Canada",
-  "awards": "1 nomination total",
-  "poster": "https://m.media-amazon.com/images/M/MV5BOTNjNTQ2MzEtYmY2Ny00YTBhLWI2OWQtZDA4MWMxZmE0NGZhXkEyXkFqcGc@._V1_SX300.jpg",
-  "ratings": [
-    {
-      "Source": "Internet Movie Database",
-      "Value": "3.0/10"
-    },
-    {
-      "Source": "Rotten Tomatoes",
-      "Value": "11%"
-    }
-  ],
+  "country": "Canada, Australia, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDc4YzA5NTEtYzliYy00M2NhLWE1MjItNWNkNjE4NzMyOWIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [],
   "metascore": "N/A",
-  "imdbRating": "3.0",
-  "imdbID": "tt13265876",
+  "imdbRating": "N/A",
+  "imdbID": "tt16431404",
   "type": "movie",
-  "fetched_at": "2026-02-11T19:17:01.490Z"
+  "fetched_at": "2026-02-11T19:35:57.559Z"
 }

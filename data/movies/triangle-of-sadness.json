@@ -1,0 +1,35 @@
+{
+  "title": "Triangle of Sadness",
+  "year": "2022",
+  "rated": "R",
+  "released": "18 Sep 2022",
+  "runtime": "147 min",
+  "genre": "Comedy, Drama",
+  "director": "Ruben Östlund",
+  "writer": "Ruben Östlund",
+  "actors": "Thobias Thorwid, Harris Dickinson, Charlbi Dean",
+  "plot": "A fashion model celebrity couple join an eventful cruise for the super-rich.",
+  "language": "English, Swedish, German, French, Greek, Tagalog, Akan",
+  "country": "United Kingdom, Sweden, Germany, Mexico, France, Turkey, Denmark, United States, Switzerland, Greece",
+  "awards": "Nominated for 3 Oscars. 24 wins & 83 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTViNzUyNDUtZTg3Yy00OTY4LWEyMTYtMmUzYjE3ZmZjYzUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "7.2",
+  "imdbID": "tt7322224",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:41.073Z"
+}

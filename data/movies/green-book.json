@@ -1,0 +1,35 @@
+{
+  "title": "Green Book",
+  "year": "2018",
+  "rated": "PG-13",
+  "released": "16 Nov 2018",
+  "runtime": "130 min",
+  "genre": "Biography, Comedy, Drama",
+  "director": "Peter Farrelly",
+  "writer": "Nick Vallelonga, Brian Hayes Currie, Peter Farrelly",
+  "actors": "Viggo Mortensen, Mahershala Ali, Linda Cardellini",
+  "plot": "A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.",
+  "language": "English, Italian, Russian, German",
+  "country": "United States, China, Japan",
+  "awards": "Won 3 Oscars. 58 wins & 123 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDU5YTNmMmItN2QxNy00OGQ0LTg5MTctNzFmYjEzZjcwN2UwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "8.2",
+  "imdbID": "tt6966692",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:12.733Z"
+}

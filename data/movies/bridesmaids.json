@@ -1,0 +1,35 @@
+{
+  "title": "Bridesmaids",
+  "year": "2011",
+  "rated": "R",
+  "released": "13 May 2011",
+  "runtime": "125 min",
+  "genre": "Comedy",
+  "director": "Paul Feig",
+  "writer": "Kristen Wiig, Annie Mumolo",
+  "actors": "Kristen Wiig, Maya Rudolph, Rose Byrne",
+  "plot": "Competition between the maid of honor and a bridesmaid, over who is the bride's best friend, threatens to upend the life of an out-of-work pastry chef.",
+  "language": "English, Thai, Spanish, French",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 25 wins & 72 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAyOTMyMzUxNl5BMl5BanBnXkFtZTcwODI4MzE0NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "6.8",
+  "imdbID": "tt1478338",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:27.158Z"
+}

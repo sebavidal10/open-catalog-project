@@ -1,0 +1,35 @@
+{
+  "title": "Licorice Pizza",
+  "year": "2021",
+  "rated": "R",
+  "released": "25 Dec 2021",
+  "runtime": "133 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Paul Thomas Anderson",
+  "writer": "Paul Thomas Anderson",
+  "actors": "Will Angarola, Griff Giacchino, James Kelley",
+  "plot": "A young man and a young woman grow up, run around, and fall in love in the San Fernando Valley, 1973.",
+  "language": "English, Japanese, Spanish",
+  "country": "United States, Canada",
+  "awards": "Nominated for 3 Oscars. 61 wins & 197 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjU5MjRiOWMtNmI0OC00ZTU1LThlNGItYTViNzU2YzAzMWMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "7.1",
+  "imdbID": "tt11271038",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:32.912Z"
+}

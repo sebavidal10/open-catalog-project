@@ -1,0 +1,35 @@
+{
+  "title": "The Great Gatsby",
+  "year": "2013",
+  "rated": "PG-13",
+  "released": "10 May 2013",
+  "runtime": "143 min",
+  "genre": "Drama, Romance",
+  "director": "Baz Luhrmann",
+  "writer": "Baz Luhrmann, Craig Pearce, F. Scott Fitzgerald",
+  "actors": "Leonardo DiCaprio, Carey Mulligan, Joel Edgerton",
+  "plot": "A writer and wall street trader, Nick Carraway, finds himself drawn to the past and lifestyle of his mysterious millionaire neighbor, Jay Gatsby, amid the riotous parties of the Jazz Age.",
+  "language": "English",
+  "country": "Australia, United States",
+  "awards": "Won 2 Oscars. 51 wins & 86 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNTk1ODcxNl5BMl5BanBnXkFtZTcwMDI1OTMzOQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "49%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "7.2",
+  "imdbID": "tt1343092",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:43.502Z"
+}

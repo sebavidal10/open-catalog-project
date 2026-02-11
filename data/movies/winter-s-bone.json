@@ -1,0 +1,35 @@
+{
+  "title": "Winter's Bone",
+  "year": "2010",
+  "rated": "R",
+  "released": "16 Jul 2010",
+  "runtime": "100 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Debra Granik",
+  "writer": "Debra Granik, Anne Rosellini, Daniel Woodrell",
+  "actors": "Jennifer Lawrence, John Hawkes, Garret Dillahunt",
+  "plot": "An unflinching Ozark Mountain girl hacks through dangerous social terrain as she hunts down her drug-dealing father while trying to keep her family intact.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 65 wins & 131 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA0OTM3MDMxNF5BMl5BanBnXkFtZTcwMDY1MjI0Mw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "7.1",
+  "imdbID": "tt1399683",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:11.999Z"
+}

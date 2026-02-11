@@ -1,0 +1,35 @@
+{
+  "title": "The Post",
+  "year": "2017",
+  "rated": "PG-13",
+  "released": "12 Jan 2018",
+  "runtime": "116 min",
+  "genre": "Biography, Drama, History",
+  "director": "Steven Spielberg",
+  "writer": "Liz Hannah, Josh Singer",
+  "actors": "Meryl Streep, Tom Hanks, Sarah Paulson",
+  "plot": "A cover-up spanning four U.S. Presidents pushes the country's first female newspaper publisher and her editor to join an unprecedented battle between press and government.",
+  "language": "English",
+  "country": "United States, India",
+  "awards": "Nominated for 2 Oscars. 21 wins & 116 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQyMjEwOTIwNV5BMl5BanBnXkFtZTgwOTkzNTMxNDM@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.2",
+  "imdbID": "tt6294822",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:10.388Z"
+}

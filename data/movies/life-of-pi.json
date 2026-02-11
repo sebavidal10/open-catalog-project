@@ -1,0 +1,35 @@
+{
+  "title": "Life of Pi",
+  "year": "2012",
+  "rated": "PG",
+  "released": "21 Nov 2012",
+  "runtime": "127 min",
+  "genre": "Adventure, Drama, Fantasy",
+  "director": "Ang Lee",
+  "writer": "Yann Martel, David Magee",
+  "actors": "Suraj Sharma, Irrfan Khan, Ayush Tandon",
+  "plot": "A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.",
+  "language": "English, Hindi, Japanese, French",
+  "country": "United States, Taiwan, United Kingdom, Canada, India, France",
+  "awards": "Won 4 Oscars. 81 wins & 134 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.9",
+  "imdbID": "tt0454876",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:29.491Z"
+}

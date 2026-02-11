@@ -1,0 +1,35 @@
+{
+  "title": "The Fabelmans",
+  "year": "2022",
+  "rated": "PG-13",
+  "released": "23 Nov 2022",
+  "runtime": "151 min",
+  "genre": "Drama",
+  "director": "Steven Spielberg",
+  "writer": "Steven Spielberg, Tony Kushner",
+  "actors": "Michelle Williams, Gabriel LaBelle, Paul Dano",
+  "plot": "Growing up in post-World War II era Arizona, young Sammy Fabelman aspires to become a filmmaker as he reaches adolescence, but soon discovers a shattering family secret and explores how the power of films can help him see the truth.",
+  "language": "English",
+  "country": "United States, India",
+  "awards": "Nominated for 7 Oscars. 32 wins & 297 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDY5OWY4ZWYtYTM3OC00Zjg5LWFlYzYtYWI5ZGM1MDcxYzY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "7.5",
+  "imdbID": "tt14208870",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:38.742Z"
+}

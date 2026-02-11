@@ -1,0 +1,35 @@
+{
+  "title": "The Power of the Dog",
+  "year": "2021",
+  "rated": "R",
+  "released": "01 Dec 2021",
+  "runtime": "126 min",
+  "genre": "Drama, Western",
+  "director": "Jane Campion",
+  "writer": "Jane Campion, Thomas Savage",
+  "actors": "Benedict Cumberbatch, Kirsten Dunst, Jesse Plemons",
+  "plot": "Charismatic rancher Phil Burbank inspires fear and awe in those around him. When his brother brings home a new wife and her son, Phil torments them until he finds himself exposed to the possibility of love.",
+  "language": "English, Shoshoni, Italian, French",
+  "country": "New Zealand, United Kingdom, Canada, Australia, United States",
+  "awards": "Won 1 Oscar. 287 wins & 316 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzgyMzA2NDEtZWUxNy00MDNmLTllMDYtNzZmNTU5ZWVmMzhlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "6.8",
+  "imdbID": "tt10293406",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:29.420Z"
+}

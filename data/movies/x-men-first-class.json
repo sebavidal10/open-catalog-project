@@ -1,0 +1,35 @@
+{
+  "title": "X-Men: First Class",
+  "year": "2011",
+  "rated": "PG-13",
+  "released": "03 Jun 2011",
+  "runtime": "131 min",
+  "genre": "Action, Sci-Fi",
+  "director": "Matthew Vaughn",
+  "writer": "Ashley E. Miller, Zack Stentz, Jane Goldman",
+  "actors": "James McAvoy, Michael Fassbender, Jennifer Lawrence",
+  "plot": "In the 1960s, superpowered humans Charles Xavier and Erik Lensherr work together to find others like them, but Erik's vengeful pursuit of an ambitious mutant who ruined his life causes a schism to divide them.",
+  "language": "English, German, French, Spanish, Russian",
+  "country": "United States, United Kingdom",
+  "awards": "22 wins & 40 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "7.7",
+  "imdbID": "tt1270798",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:28.321Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Shrek 2",
+  "year": "2004",
+  "rated": "PG",
+  "released": "19 May 2004",
+  "runtime": "93 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Andrew Adamson, Kelly Asbury, Conrad Vernon",
+  "writer": "William Steig, Andrew Adamson, Joe Stillman",
+  "actors": "Mike Myers, Eddie Murphy, Cameron Diaz",
+  "plot": "Shrek and Fiona travel to the Kingdom of Far Far Away, where Fiona's parents are King and Queen, to celebrate their marriage. When they arrive, they find they are not as welcome as they thought they would be.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 18 wins & 52 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzNmNjQ1NmUtNzhiZS00YWE2LTg4N2ItZTA2ODdmOTMwOTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "7.4",
+  "imdbID": "tt0298148",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:33:10.159Z"
+}

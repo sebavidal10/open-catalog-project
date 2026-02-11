@@ -1,0 +1,35 @@
+{
+  "title": "Drive",
+  "year": "2011",
+  "rated": "R",
+  "released": "16 Sep 2011",
+  "runtime": "100 min",
+  "genre": "Action, Drama",
+  "director": "Nicolas Winding Refn",
+  "writer": "Hossein Amini, James Sallis",
+  "actors": "Ryan Gosling, Carey Mulligan, Bryan Cranston",
+  "plot": "A mysterious Hollywood action film stuntman gets in trouble with gangsters when he tries to help his neighbor's husband rob a pawn shop while serving as his getaway driver.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 79 wins & 180 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTFmNTFlOTAtNzEyNi00MWU2LTg3MGEtYjA2NWY3MDliNjlkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.8",
+  "imdbID": "tt0780504",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:33:53.417Z"
+}

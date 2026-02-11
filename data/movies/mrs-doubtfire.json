@@ -1,0 +1,35 @@
+{
+  "title": "Mrs. Doubtfire",
+  "year": "1993",
+  "rated": "PG-13",
+  "released": "24 Nov 1993",
+  "runtime": "125 min",
+  "genre": "Comedy, Drama, Family",
+  "director": "Chris Columbus",
+  "writer": "Anne Fine, Randi Mayem Singer, Leslie Dixon",
+  "actors": "Robin Williams, Sally Field, Pierce Brosnan",
+  "plot": "After a bitter divorce, an actor disguises himself as a female housekeeper to spend time with his children held in custody by his former wife.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 11 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2E2MDc5ZGEtOTNlZS00Mjg4LThlNzUtMDY2Zjc4ZTViNWY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "metascore": "54",
+  "imdbRating": "7.1",
+  "imdbID": "tt0107614",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:32:02.488Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "A Star Is Born",
+  "year": "2018",
+  "rated": "R",
+  "released": "05 Oct 2018",
+  "runtime": "136 min",
+  "genre": "Drama, Music, Romance",
+  "director": "Bradley Cooper",
+  "writer": "Eric Roth, Bradley Cooper, Will Fetters",
+  "actors": "Lady Gaga, Bradley Cooper, Sam Elliott",
+  "plot": "A hard-drinking country music star falls in love with a singer whose career quickly takes off.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 99 wins & 288 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGUxZTc0NTAtNzQwMy00MmM2LTgzMGYtZWIyY2E1MGFjYmM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "7.6",
+  "imdbID": "tt1517451",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:15.068Z"
+}

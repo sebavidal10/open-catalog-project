@@ -1,0 +1,35 @@
+{
+  "title": "BlacKkKlansman",
+  "year": "2018",
+  "rated": "R",
+  "released": "10 Aug 2018",
+  "runtime": "135 min",
+  "genre": "Biography, Comedy, Crime",
+  "director": "Spike Lee",
+  "writer": "Charlie Wachtel, David Rabinowitz, Kevin Willmott",
+  "actors": "John David Washington, Adam Driver, Laura Harrier",
+  "plot": "In this story inspired by true events, Ron Stallworth, an African-American Colorado police officer, successfully infiltrates the local branch of the Ku Klux Klan with the help of a white Jewish colleague.",
+  "language": "English",
+  "country": "United States, China",
+  "awards": "Won 1 Oscar. 46 wins & 215 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjUyOTE1NjI0OF5BMl5BanBnXkFtZTgwMTM4ODQ5NTM@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.5",
+  "imdbID": "tt7349662",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:16.240Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Living",
+  "year": "2022",
+  "rated": "PG-13",
+  "released": "04 Nov 2022",
+  "runtime": "102 min",
+  "genre": "Drama",
+  "director": "Oliver Hermanus",
+  "writer": "Kazuo Ishiguro, Akira Kurosawa, Shinobu Hashimoto",
+  "actors": "Bill Nighy, Aimee Lou Wood, Alex Sharp",
+  "plot": "In 1950s London, a humorless bureaucrat decides to take time off work to experience life after receiving a grim diagnosis.",
+  "language": "English",
+  "country": "United Kingdom, Japan, Sweden, Belgium, Finland",
+  "awards": "Nominated for 2 Oscars. 10 wins & 49 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjI3ZDNlNDAtMmY0OS00ZWU5LThjZTktZGRmMmE3YjllODZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.2",
+  "imdbID": "tt9051908",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:44.575Z"
+}

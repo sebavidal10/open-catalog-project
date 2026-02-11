@@ -1,0 +1,35 @@
+{
+  "title": "Spider-Man: No Way Home",
+  "year": "2021",
+  "rated": "PG-13",
+  "released": "17 Dec 2021",
+  "runtime": "148 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Jon Watts",
+  "writer": "Chris McKenna, Erik Sommers, Stan Lee",
+  "actors": "Tom Holland, Zendaya, Benedict Cumberbatch",
+  "plot": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear.",
+  "language": "English, Tagalog",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 35 wins & 72 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "8.2",
+  "imdbID": "tt10872600",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:34:38.866Z"
+}

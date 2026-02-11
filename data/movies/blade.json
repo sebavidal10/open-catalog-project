@@ -1,0 +1,35 @@
+{
+  "title": "Blade",
+  "year": "1998",
+  "rated": "R",
+  "released": "21 Aug 1998",
+  "runtime": "120 min",
+  "genre": "Action, Horror, Sci-Fi",
+  "director": "Stephen Norrington",
+  "writer": "David S. Goyer",
+  "actors": "Wesley Snipes, Stephen Dorff, Kris Kristofferson",
+  "plot": "A half-vampire, half-mortal man becomes a protector of the mortal race, while slaying evil vampires.",
+  "language": "English, Russian, Serbian",
+  "country": "United States",
+  "awards": "5 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzAzMmY3OWMtNDgyMS00Y2U4LTlmM2UtY2YwMmM0MDI5ODJmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "59%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "47/100"
+    }
+  ],
+  "metascore": "47",
+  "imdbRating": "7.1",
+  "imdbID": "tt0120611",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:32:35.164Z"
+}

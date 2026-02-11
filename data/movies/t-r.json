@@ -1,0 +1,31 @@
+{
+  "title": "Tár",
+  "year": "2022",
+  "rated": "R",
+  "released": "28 Oct 2022",
+  "runtime": "158 min",
+  "genre": "Drama, Music",
+  "director": "Todd Field",
+  "writer": "Todd Field",
+  "actors": "Cate Blanchett, Noémie Merlant, Nina Hoss",
+  "plot": "Set in the international world of Western classical music, the film centers on Lydia Tár, widely considered one of the greatest living composer-conductors and the very first female director of a major German orchestra.",
+  "language": "English, German, Filipino, French",
+  "country": "United States",
+  "awards": "Nominated for 6 Oscars. 79 wins & 271 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWY5YThhOGUtNDU4OS00NTk3LWI0ODQtNmRiYTk0ZjVkZWU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "93/100"
+    }
+  ],
+  "metascore": "93",
+  "imdbRating": "7.4",
+  "imdbID": "tt14444726",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:36.413Z"
+}

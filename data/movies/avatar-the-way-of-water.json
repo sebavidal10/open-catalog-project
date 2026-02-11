@@ -1,0 +1,35 @@
+{
+  "title": "Avatar: The Way of Water",
+  "year": "2022",
+  "rated": "PG-13",
+  "released": "16 Dec 2022",
+  "runtime": "192 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "James Cameron",
+  "writer": "James Cameron, Rick Jaffa, Amanda Silver",
+  "actors": "Sam Worthington, Zoe Saldaña, Sigourney Weaver",
+  "plot": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 74 wins & 153 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWI0Y2NkOWEtMmM2OC00MjQ3LWI1YzItZGQxYzQ3NzI4NWZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "7.5",
+  "imdbID": "tt1630029",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:34:43.535Z"
+}

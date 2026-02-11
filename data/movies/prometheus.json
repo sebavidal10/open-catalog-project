@@ -1,0 +1,35 @@
+{
+  "title": "Prometheus",
+  "year": "2012",
+  "rated": "R",
+  "released": "08 Jun 2012",
+  "runtime": "124 min",
+  "genre": "Adventure, Sci-Fi",
+  "director": "Ridley Scott",
+  "writer": "Jon Spaihts, Damon Lindelof, Dan O'Bannon",
+  "actors": "Noomi Rapace, Logan Marshall-Green, Michael Fassbender",
+  "plot": "Following clues to the origin of mankind, a team finds a structure on a distant moon, but they soon realize they are not alone.",
+  "language": "English, Gaelic",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 1 Oscar. 6 wins & 47 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY3NzIyNTA2NV5BMl5BanBnXkFtZTcwNzE2NjI4Nw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "7.0",
+  "imdbID": "tt1446714",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:38.804Z"
+}

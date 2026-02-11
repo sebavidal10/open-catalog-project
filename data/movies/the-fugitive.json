@@ -1,0 +1,35 @@
+{
+  "title": "The Fugitive",
+  "year": "1993",
+  "rated": "PG-13",
+  "released": "06 Aug 1993",
+  "runtime": "130 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Andrew Davis",
+  "writer": "Jeb Stuart, David Twohy, Roy Huggins",
+  "actors": "Harrison Ford, Tommy Lee Jones, Sela Ward",
+  "plot": "Dr. Richard Kimble, unjustly accused of murdering his wife, must find the real killer while being the target of a nationwide manhunt led by a seasoned U.S. Marshal.",
+  "language": "English, Polish, Spanish",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 13 wins & 37 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2RjMjEwODUtYTE4OC00MzhkLThjMjItZjYyZjk3YzA4YWUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.8",
+  "imdbID": "tt0106977",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:32:00.154Z"
+}

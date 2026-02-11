@@ -1,0 +1,35 @@
+{
+  "title": "X-Men",
+  "year": "2000",
+  "rated": "PG-13",
+  "released": "14 Jul 2000",
+  "runtime": "104 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Bryan Singer",
+  "writer": "Tom DeSanto, Bryan Singer, David Hayter",
+  "actors": "Patrick Stewart, Hugh Jackman, Ian McKellen",
+  "plot": "In a world where mutants (evolved super-powered humans) exist and are discriminated against, two groups form for an inevitable clash: the supremacist Brotherhood, and the pacifist X-Men.",
+  "language": "English",
+  "country": "United States, Canada",
+  "awards": "14 wins & 26 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzNjZjQwOTAtNWQ3NC00MmJlLThlZDEtZmUyMWQ3NmE4Y2Y5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "7.3",
+  "imdbID": "tt0120903",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:32:48.011Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Dunkirk",
+  "year": "2017",
+  "rated": "PG-13",
+  "released": "21 Jul 2017",
+  "runtime": "106 min",
+  "genre": "Action, Drama, History",
+  "director": "Christopher Nolan",
+  "writer": "Christopher Nolan",
+  "actors": "Fionn Whitehead, Barry Keoghan, Mark Rylance",
+  "plot": "Allied soldiers from Belgium, the British Commonwealth and Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.",
+  "language": "English, French, German",
+  "country": "United Kingdom, Netherlands, France, United States",
+  "awards": "Won 3 Oscars. 68 wins & 236 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTE0Mjg4MTMwMDZeQTJeQWpwZ15BbWU4MDAwMDQ1ODAy._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "7.8",
+  "imdbID": "tt5013056",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:34:21.391Z"
+}

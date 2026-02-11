@@ -1,0 +1,35 @@
+{
+  "title": "Ghost",
+  "year": "1990",
+  "rated": "PG-13",
+  "released": "13 Jul 1990",
+  "runtime": "126 min",
+  "genre": "Drama, Fantasy, Romance",
+  "director": "Jerry Zucker",
+  "writer": "Bruce Joel Rubin",
+  "actors": "Patrick Swayze, Demi Moore, Tony Goldwyn",
+  "plot": "After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 18 wins & 24 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjkwOWM2MWMtMWE1YS00MTBlLTg1ODctYTI3M2I0NGIxMGYyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "7.1",
+  "imdbID": "tt0099653",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:31:41.450Z"
+}

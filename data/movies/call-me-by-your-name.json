@@ -1,0 +1,35 @@
+{
+  "title": "Call Me by Your Name",
+  "year": "2017",
+  "rated": "R",
+  "released": "19 Jan 2018",
+  "runtime": "132 min",
+  "genre": "Drama, Romance",
+  "director": "Luca Guadagnino",
+  "writer": "James Ivory, André Aciman",
+  "actors": "Timothée Chalamet, Armie Hammer, Michael Stuhlbarg",
+  "plot": "In the summer of 1983, 17-year-old Elio is spending the days with his family at their villa in Lombardy, Italy. He soon meets 24-year-old Oliver, an intern working for Elio's father. They discover the heady beauty of awakening des...",
+  "language": "English, Italian, French, German, Hebrew",
+  "country": "Brazil, France, Italy, United States",
+  "awards": "Won 1 Oscar. 107 wins & 263 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDk3NTEwNjc0MV5BMl5BanBnXkFtZTgwNzYxNTMwMzI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "7.8",
+  "imdbID": "tt5726616",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:08.051Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Dune: Part One",
+  "year": "2021",
+  "rated": "PG-13",
+  "released": "22 Oct 2021",
+  "runtime": "155 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Denis Villeneuve",
+  "writer": "Jon Spaihts, Denis Villeneuve, Eric Roth",
+  "actors": "Timothée Chalamet, Rebecca Ferguson, Zendaya",
+  "plot": "Paul Atreides arrives on Arrakis after his father accepts the stewardship of the dangerous planet. However, chaos ensues after a betrayal as forces clash to control melange, a precious resource.",
+  "language": "English, Mandarin",
+  "country": "United States, Canada",
+  "awards": "Won 6 Oscars. 175 wins & 299 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "8.0",
+  "imdbID": "tt1160419",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:34:37.701Z"
+}

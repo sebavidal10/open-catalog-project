@@ -30,8 +30,8 @@ export async function fetchMovie(input) {
   }
 
   function parseInput(input) {
-    // Intenta encontrar un año de 4 dígitos al final (separado por espacio o guion)
-    const match = input.match(/^(.*?)[- ](\d{4})$/);
+    // Soporta: "Title YYYY", "Title-YYYY", "Title (YYYY)"
+    const match = input.match(/^(.*?)(?:[- ]|\s*[()])(\d{4})[)]?$/);
     if (match) {
       return { title: match[1], year: match[2] };
     }

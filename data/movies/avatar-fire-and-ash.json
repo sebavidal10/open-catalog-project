@@ -1,0 +1,35 @@
+{
+  "title": "Avatar: Fire and Ash",
+  "year": "2025",
+  "rated": "PG-13",
+  "released": "19 Dec 2025",
+  "runtime": "197 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "James Cameron",
+  "writer": "James Cameron, Rick Jaffa, Amanda Silver",
+  "actors": "Sam Worthington, Zoe Saldaña, Sigourney Weaver",
+  "plot": "Jake and Neytiri's family grapples with grief, encountering a new, aggressive Na'vi tribe, the Ash People, who are led by the fiery Varang, as the conflict on Pandora escalates and a new moral focus emerges.",
+  "language": "English",
+  "country": "United States, Canada",
+  "awards": "Nominated for 2 Oscars. 17 wins & 57 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "66%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "7.4",
+  "imdbID": "tt1757678",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:35:07.179Z"
+}

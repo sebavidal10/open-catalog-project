@@ -1,0 +1,35 @@
+{
+  "title": "The Fighter",
+  "year": "2010",
+  "rated": "R",
+  "released": "17 Dec 2010",
+  "runtime": "116 min",
+  "genre": "Action, Biography, Drama",
+  "director": "David O. Russell",
+  "writer": "Keith Dorrington, Paul Tamasy, Eric Johnson",
+  "actors": "Mark Wahlberg, Christian Bale, Amy Adams",
+  "plot": "Based on the story of Micky Ward, a fledgling boxer who tries to escape the shadow of his more famous but troubled older boxing brother and get his own shot at greatness.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 74 wins & 123 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM0ODk3MjM1MV5BMl5BanBnXkFtZTcwNzc1MDIwNA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.8",
+  "imdbID": "tt0964517",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:08.508Z"
+}

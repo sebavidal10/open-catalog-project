@@ -1,0 +1,35 @@
+{
+  "title": "Barbie",
+  "year": "2023",
+  "rated": "PG-13",
+  "released": "21 Jul 2023",
+  "runtime": "114 min",
+  "genre": "Adventure, Comedy, Fantasy",
+  "director": "Greta Gerwig",
+  "writer": "Greta Gerwig, Noah Baumbach",
+  "actors": "Margot Robbie, Ryan Gosling, Issa Rae",
+  "plot": "Barbie and Ken are having the time of their lives in the seemingly perfect world of Barbie Land. However, when they get a chance to go to the outside world, they soon discover the joys and perils of living among regular humans.",
+  "language": "English, Spanish",
+  "country": "United States, United Kingdom",
+  "awards": "Won 1 Oscar. 211 wins & 435 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjI3NDU0ZGYtYjA2YS00Y2RlLTgwZDAtYTE2YTM5ZjE1M2JlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "6.8",
+  "imdbID": "tt1517268",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:34:44.705Z"
+}

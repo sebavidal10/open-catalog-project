@@ -1,0 +1,35 @@
+{
+  "title": "Despicable Me",
+  "year": "2010",
+  "rated": "PG",
+  "released": "09 Jul 2010",
+  "runtime": "95 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Pierre Coffin, Chris Renaud",
+  "writer": "Cinco Paul, Ken Daurio, Sergio Pablos",
+  "actors": "Steve Carell, Jason Segel, Russell Brand",
+  "plot": "Gru, a criminal mastermind, adopts three orphans as pawns to carry out the biggest heist in history. His life takes an unexpected turn when the little girls see the evildoer as their potential father.",
+  "language": "English",
+  "country": "United States, France",
+  "awards": "Nominated for 1 BAFTA Award3 wins & 41 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "metascore": "72",
+  "imdbRating": "7.6",
+  "imdbID": "tt1323594",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:16.665Z"
+}

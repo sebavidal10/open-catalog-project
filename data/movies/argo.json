@@ -1,0 +1,35 @@
+{
+  "title": "Argo",
+  "year": "2012",
+  "rated": "R",
+  "released": "12 Oct 2012",
+  "runtime": "120 min",
+  "genre": "Biography, Drama, History",
+  "director": "Ben Affleck",
+  "writer": "Chris Terrio, Tony Mendez, Joshuah Bearman",
+  "actors": "Ben Affleck, Bryan Cranston, John Goodman",
+  "plot": "Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1979.",
+  "language": "English, Persian, German, Arabic",
+  "country": "United Kingdom, United States",
+  "awards": "Won 3 Oscars. 96 wins & 156 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2QyMGUyZTEtMjE4Yi00M2RiLTgwN2QtZDMxZDNiMTFkMTFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.7",
+  "imdbID": "tt1024648",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:31.820Z"
+}

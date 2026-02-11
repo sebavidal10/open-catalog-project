@@ -1,0 +1,35 @@
+{
+  "title": "Deadpool",
+  "year": "2016",
+  "rated": "R",
+  "released": "12 Feb 2016",
+  "runtime": "108 min",
+  "genre": "Action, Comedy, Sci-Fi",
+  "director": "Tim Miller",
+  "writer": "Rhett Reese, Paul Wernick",
+  "actors": "Ryan Reynolds, Morena Baccarin, T.J. Miller",
+  "plot": "A wisecracking mercenary gets experimented on and becomes immortal yet hideously scarred, and sets out to track down the man who ruined his looks.",
+  "language": "English",
+  "country": "United States",
+  "awards": "29 wins & 78 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzY3ZWU5NGQtOTViNC00ZWVmLTliNjAtNzViNzlkZWQ4YzQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "8.0",
+  "imdbID": "tt1431045",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:34:12.072Z"
+}

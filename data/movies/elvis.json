@@ -1,0 +1,35 @@
+{
+  "title": "Elvis",
+  "year": "2022",
+  "rated": "PG-13",
+  "released": "24 Jun 2022",
+  "runtime": "159 min",
+  "genre": "Biography, Drama, Music",
+  "director": "Baz Luhrmann",
+  "writer": "Baz Luhrmann, Sam Bromell, Craig Pearce",
+  "actors": "Austin Butler, Tom Hanks, Olivia DeJonge",
+  "plot": "The life of American music icon Elvis Presley, from his childhood to becoming a rock and movie star in the 1950s while maintaining a complex relationship with his manager, Colonel Tom Parker.",
+  "language": "English",
+  "country": "United States, Australia",
+  "awards": "Nominated for 8 Oscars. 92 wins & 236 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTVhZmUyMDQtY2I5Ny00OWNiLTgzNjUtMTg4YTQwMTc0OTQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "7.3",
+  "imdbID": "tt3704428",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:39.906Z"
+}

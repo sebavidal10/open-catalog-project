@@ -1,0 +1,35 @@
+{
+  "title": "Les Misérables",
+  "year": "2012",
+  "rated": "PG-13",
+  "released": "25 Dec 2012",
+  "runtime": "158 min",
+  "genre": "Drama, Musical, Romance",
+  "director": "Tom Hooper",
+  "writer": "William Nicholson, Alain Boublil, Claude-Michel Schönberg",
+  "actors": "Hugh Jackman, Russell Crowe, Anne Hathaway",
+  "plot": "In 19th-century France, Jean Valjean, who, for decades, has been hunted by the ruthless policeman Javert after breaking parole, agrees to care for a factory worker's daughter. The decision changes their lives forever.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Won 3 Oscars. 85 wins & 177 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2Q1YjIxZTAtZTU0YS00ZmE5LWEwODEtY2IyYWM2ZTJlOWE1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "7.5",
+  "imdbID": "tt1707386",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:32.983Z"
+}

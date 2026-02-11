@@ -1,0 +1,35 @@
+{
+  "title": "Requiem for a Dream",
+  "year": "2000",
+  "rated": "NC-17",
+  "released": "15 Dec 2000",
+  "runtime": "102 min",
+  "genre": "Drama",
+  "director": "Darren Aronofsky",
+  "writer": "Hubert Selby Jr., Darren Aronofsky",
+  "actors": "Ellen Burstyn, Jared Leto, Jennifer Connelly",
+  "plot": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 37 wins & 69 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2ZlMjIzZjctYzA2My00ZWYyLWI4ZjctMGI2NWYyNzFiZjAwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "8.3",
+  "imdbID": "tt0180093",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:32:45.676Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Rango",
+  "year": "2011",
+  "rated": "PG",
+  "released": "04 Mar 2011",
+  "runtime": "107 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Gore Verbinski",
+  "writer": "John Logan, Gore Verbinski, James Ward Byrkit",
+  "actors": "Johnny Depp, Isla Fisher, Timothy Olyphant",
+  "plot": "Rango is an ordinary chameleon who accidentally winds up in the town of Dirt, a lawless outpost in the Wild West in desperate need of a new sheriff.",
+  "language": "English",
+  "country": "United States, United Kingdom",
+  "awards": "Won 1 Oscar. 46 wins & 25 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc4NjEyODE1OV5BMl5BanBnXkFtZTcwMjYzNTkxNA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "7.3",
+  "imdbID": "tt1192628",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:25.994Z"
+}

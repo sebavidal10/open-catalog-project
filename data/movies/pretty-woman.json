@@ -1,0 +1,35 @@
+{
+  "title": "Pretty Woman",
+  "year": "1990",
+  "rated": "R",
+  "released": "23 Mar 1990",
+  "runtime": "119 min",
+  "genre": "Comedy, Romance",
+  "director": "Garry Marshall",
+  "writer": "J.F. Lawton",
+  "actors": "Richard Gere, Julia Roberts, Ralph Bellamy",
+  "plot": "A corporate raider hires a hooker to act as a business escort in Beverly Hills, California.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 8 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjk2ODQzNDYxNV5BMl5BanBnXkFtZTgwMTcyNDg4NjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "65%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "7.1",
+  "imdbID": "tt0100405",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:31:42.617Z"
+}

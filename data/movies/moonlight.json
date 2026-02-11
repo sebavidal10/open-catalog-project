@@ -1,0 +1,35 @@
+{
+  "title": "Moonlight",
+  "year": "2016",
+  "rated": "R",
+  "released": "18 Nov 2016",
+  "runtime": "111 min",
+  "genre": "Drama",
+  "director": "Barry Jenkins",
+  "writer": "Barry Jenkins, Tarell Alvin McCraney",
+  "actors": "Mahershala Ali, Naomie Harris, Trevante Rhodes",
+  "plot": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 235 wins & 310 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "99/100"
+    }
+  ],
+  "metascore": "99",
+  "imdbRating": "7.4",
+  "imdbID": "tt4975722",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:59.896Z"
+}

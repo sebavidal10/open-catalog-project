@@ -1,0 +1,35 @@
+{
+  "title": "12 Years a Slave",
+  "year": "2013",
+  "rated": "R",
+  "released": "08 Nov 2013",
+  "runtime": "134 min",
+  "genre": "Biography, Drama, History",
+  "director": "Steve McQueen",
+  "writer": "John Ridley, Solomon Northup",
+  "actors": "Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender",
+  "plot": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Won 3 Oscars. 244 wins & 338 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
+  "metascore": "96",
+  "imdbRating": "8.1",
+  "imdbID": "tt2024544",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:41.148Z"
+}

@@ -1,35 +1,22 @@
 {
   "title": "The Cat in the Hat",
-  "year": "2003",
-  "rated": "PG",
-  "released": "21 Nov 2003",
-  "runtime": "82 min",
-  "genre": "Adventure, Comedy, Family",
-  "director": "Bo Welch",
-  "writer": "Dr. Seuss, Alec Berg, David Mandel",
-  "actors": "Mike Myers, Alec Baldwin, Kelly Preston",
-  "plot": "Two bored children have their lives turned upside down when a talking cat comes to visit them.",
+  "year": "2026",
+  "rated": "N/A",
+  "released": "06 Nov 2026",
+  "runtime": "N/A",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Alessandro Carloni, Erica Rivinoja",
+  "writer": "Alessandro Carloni, Erica Rivinoja, Dr. Seuss",
+  "actors": "Bill Hader, Xochitl Gomez, Tiago Martinez",
+  "plot": "Meet the Cat in the Hat you don't know in an all-new, epic adventure where mischief, magic and mayhem reign supreme.",
   "language": "English",
   "country": "United States",
-  "awards": "7 wins & 22 nominations total",
-  "poster": "https://m.media-amazon.com/images/M/MV5BMTI5MDU3MTYyMF5BMl5BanBnXkFtZTYwODgyODc3._V1_SX300.jpg",
-  "ratings": [
-    {
-      "Source": "Internet Movie Database",
-      "Value": "4.1/10"
-    },
-    {
-      "Source": "Rotten Tomatoes",
-      "Value": "10%"
-    },
-    {
-      "Source": "Metacritic",
-      "Value": "19/100"
-    }
-  ],
-  "metascore": "19",
-  "imdbRating": "4.1",
-  "imdbID": "tt0312528",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmJmZGZmMDgtYmJjMy00NTMyLWJjZmEtZDc2ZWRmZjY4MjJmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [],
+  "metascore": "N/A",
+  "imdbRating": "N/A",
+  "imdbID": "tt2321555",
   "type": "movie",
-  "fetched_at": "2026-02-11T19:16:45.833Z"
+  "fetched_at": "2026-02-11T19:35:51.461Z"
 }

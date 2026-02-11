@@ -1,0 +1,35 @@
+{
+  "title": "Thelma & Louise",
+  "year": "1991",
+  "rated": "R",
+  "released": "24 May 1991",
+  "runtime": "130 min",
+  "genre": "Adventure, Crime, Drama",
+  "director": "Ridley Scott",
+  "writer": "Callie Khouri",
+  "actors": "Susan Sarandon, Geena Davis, Harvey Keitel",
+  "plot": "Two best friends set out on an adventure, but it soon turns around to a terrifying escape from being hunted by the police, as these two women escape for the crimes they committed.",
+  "language": "English",
+  "country": "United States, United Kingdom, France",
+  "awards": "Won 1 Oscar. 24 wins & 52 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIxNDgzMDE2MF5BMl5BanBnXkFtZTcwNzY5NTk1NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "7.6",
+  "imdbID": "tt0103074",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:31:50.816Z"
+}

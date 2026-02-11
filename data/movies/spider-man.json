@@ -1,0 +1,35 @@
+{
+  "title": "Spider-Man",
+  "year": "2002",
+  "rated": "PG-13",
+  "released": "03 May 2002",
+  "runtime": "121 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Sam Raimi",
+  "writer": "Stan Lee, Steve Ditko, David Koepp",
+  "actors": "Tobey Maguire, Kirsten Dunst, Willem Dafoe",
+  "plot": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 17 wins & 65 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.4",
+  "imdbID": "tt0145487",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:32:57.330Z"
+}

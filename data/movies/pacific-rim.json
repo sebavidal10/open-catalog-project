@@ -1,0 +1,35 @@
+{
+  "title": "Pacific Rim",
+  "year": "2013",
+  "rated": "PG-13",
+  "released": "12 Jul 2013",
+  "runtime": "131 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Guillermo del Toro",
+  "writer": "Travis Beacham, Guillermo del Toro",
+  "actors": "Idris Elba, Charlie Hunnam, Rinko Kikuchi",
+  "plot": "As a war between humankind and monstrous sea creatures wages on, a former pilot and a trainee are paired up to drive a seemingly obsolete special weapon in a desperate effort to save the world from the apocalypse.",
+  "language": "English, Japanese, Cantonese, Mandarin",
+  "country": "United States, Mexico",
+  "awards": "Nominated for 1 BAFTA Award7 wins & 48 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "6.9",
+  "imdbID": "tt1663662",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:48.165Z"
+}

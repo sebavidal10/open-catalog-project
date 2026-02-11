@@ -1,0 +1,35 @@
+{
+  "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+  "year": "2003",
+  "rated": "PG-13",
+  "released": "09 Jul 2003",
+  "runtime": "143 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Gore Verbinski",
+  "writer": "Ted Elliott, Terry Rossio, Stuart Beattie",
+  "actors": "Johnny Depp, Geoffrey Rush, Orlando Bloom",
+  "plot": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save Elizabeth Swann, the governor's daughter and his love, from Jack's former pirate allies, who are now undead.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 5 Oscars. 38 wins & 104 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDhlMzEyNzItMTA5Mi00YWRhLThlNTktYTQyMTA0MDIyNDEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "8.1",
+  "imdbID": "tt0325980",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:33:05.499Z"
+}

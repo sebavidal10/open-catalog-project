@@ -1,35 +1,22 @@
 {
-  "title": "Goat",
-  "year": "2016",
-  "rated": "R",
-  "released": "23 Sep 2016",
-  "runtime": "96 min",
-  "genre": "Drama",
-  "director": "Andrew Neel",
-  "writer": "David Gordon Green, Brad Land, Andrew Neel",
-  "actors": "Ben Schnetzer, Nick Jonas, Gus Halper",
-  "plot": "Reeling from a terrifying assault, a 19 year-old enrolls into college with his brother and pledges the same fraternity. What happens there in the name of \"brotherhood\" tests him and his loyalty to his brother in brutal ways.",
+  "title": "GOAT",
+  "year": "2026",
+  "rated": "N/A",
+  "released": "13 Feb 2026",
+  "runtime": "N/A",
+  "genre": "Animation, Action, Adventure",
+  "director": "Tyree Dillihay, Adam Rosette",
+  "writer": "Aaron Buchsbaum, Teddy Riley, Chris Tougas",
+  "actors": "Caleb McLaughlin, Gabrielle Union, Nick Kroll",
+  "plot": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
   "language": "English",
-  "country": "United States",
-  "awards": "5 nominations total",
-  "poster": "https://m.media-amazon.com/images/M/MV5BMTUxNjg1ODY3Ml5BMl5BanBnXkFtZTgwODEyNjUzOTE@._V1_SX300.jpg",
-  "ratings": [
-    {
-      "Source": "Internet Movie Database",
-      "Value": "5.7/10"
-    },
-    {
-      "Source": "Rotten Tomatoes",
-      "Value": "79%"
-    },
-    {
-      "Source": "Metacritic",
-      "Value": "64/100"
-    }
-  ],
-  "metascore": "64",
-  "imdbRating": "5.7",
-  "imdbID": "tt4437216",
+  "country": "United States, Brazil, Japan, Singapore",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzE5OTJkOGMtYWFiNi00NTlkLWE3ZWItY2ZlNjkyOWVhMjMyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [],
+  "metascore": "N/A",
+  "imdbRating": "N/A",
+  "imdbID": "tt27613895",
   "type": "movie",
-  "fetched_at": "2026-02-11T19:16:20.350Z"
+  "fetched_at": "2026-02-11T19:35:34.651Z"
 }

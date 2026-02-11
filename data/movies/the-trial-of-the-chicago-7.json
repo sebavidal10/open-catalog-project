@@ -1,0 +1,35 @@
+{
+  "title": "The Trial of the Chicago 7",
+  "year": "2020",
+  "rated": "R",
+  "released": "16 Oct 2020",
+  "runtime": "129 min",
+  "genre": "Drama, History, Thriller",
+  "director": "Aaron Sorkin",
+  "writer": "Aaron Sorkin",
+  "actors": "Eddie Redmayne, Alex Sharp, Sacha Baron Cohen",
+  "plot": "The story of 7 people on trial stemming from various charges surrounding the uprising at the 1968 Democratic National Convention in Chicago, Illinois.",
+  "language": "English, Latin, French",
+  "country": "United States, India, United Kingdom",
+  "awards": "Nominated for 6 Oscars. 60 wins & 195 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjY2ZGFlOTgtOGQ1MS00YWJhLWIyZjQtNWNmNTQ0YTk0MTZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.7",
+  "imdbID": "tt1070874",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:27.080Z"
+}

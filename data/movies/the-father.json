@@ -1,0 +1,35 @@
+{
+  "title": "The Father",
+  "year": "2020",
+  "rated": "PG-13",
+  "released": "26 Feb 2021",
+  "runtime": "97 min",
+  "genre": "Drama, Mystery",
+  "director": "Florian Zeller",
+  "writer": "Christopher Hampton, Florian Zeller",
+  "actors": "Anthony Hopkins, Olivia Colman, Mark Gatiss",
+  "plot": "A man refuses all assistance from his daughter as he ages. When he tries to understand what is happening around him, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
+  "language": "English",
+  "country": "United Kingdom, France, United States",
+  "awards": "Won 2 Oscars. 39 wins & 171 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzUxMDAyMDAtNzIyZi00OGQ1LTllMjEtYzRjOThkZTUxNTliXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "8.2",
+  "imdbID": "tt10272386",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:23.242Z"
+}

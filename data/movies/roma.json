@@ -1,0 +1,35 @@
+{
+  "title": "Roma",
+  "year": "2018",
+  "rated": "R",
+  "released": "14 Dec 2018",
+  "runtime": "135 min",
+  "genre": "Drama",
+  "director": "Alfonso Cuarón",
+  "writer": "Alfonso Cuarón",
+  "actors": "Yalitza Aparicio, Marina de Tavira, Diego Cortina Autrey",
+  "plot": "A year in the life of an upper-middle-class family's maid in Mexico City in the early 1970s.",
+  "language": "Spanish, Mixtec, English, Japanese, German, French, Norwegian",
+  "country": "Mexico, United States",
+  "awards": "Won 3 Oscars. 255 wins & 229 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU0OTc3ODk4Ml5BMl5BanBnXkFtZTgwMzM4NzI5NjM@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
+  "metascore": "96",
+  "imdbRating": "7.6",
+  "imdbID": "tt6155172",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:13.902Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Dallas Buyers Club",
+  "year": "2013",
+  "rated": "R",
+  "released": "22 Nov 2013",
+  "runtime": "117 min",
+  "genre": "Biography, Drama",
+  "director": "Jean-Marc Vallée",
+  "writer": "Craig Borten, Melisa Wallack",
+  "actors": "Matthew McConaughey, Jennifer Garner, Jared Leto",
+  "plot": "In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease.",
+  "language": "English, Japanese",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 85 wins & 88 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYwMTA4MzgyNF5BMl5BanBnXkFtZTgwMjEyMjE0MDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.9",
+  "imdbID": "tt0790636",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:44.663Z"
+}

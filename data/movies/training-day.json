@@ -1,0 +1,35 @@
+{
+  "title": "Training Day",
+  "year": "2001",
+  "rated": "R",
+  "released": "05 Oct 2001",
+  "runtime": "122 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Antoine Fuqua",
+  "writer": "David Ayer",
+  "actors": "Denzel Washington, Ethan Hawke, Scott Glenn",
+  "plot": "A rookie cop spends his first day as a Los Angeles narcotics officer with a rogue detective who isn't what he appears to be.",
+  "language": "English, Russian, Spanish, Korean, Greek",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 18 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjRlNjUwOGYtNGQxZS00ZjhkLTg0NDgtYjcwNzZlNDU2YjBlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.8",
+  "imdbID": "tt0139654",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:32:56.159Z"
+}

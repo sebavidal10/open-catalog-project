@@ -1,0 +1,35 @@
+{
+  "title": "Nomadland",
+  "year": "2020",
+  "rated": "R",
+  "released": "19 Feb 2021",
+  "runtime": "107 min",
+  "genre": "Drama",
+  "director": "Chloé Zhao",
+  "writer": "Chloé Zhao, Jessica Bruder",
+  "actors": "Frances McDormand, Gay DeForest, Patricia Grier",
+  "plot": "A woman in her sixties, after losing everything in the Great Recession, embarks on a journey through the American West, living as a van-dwelling modern-day nomad.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 253 wins & 155 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGNkOWQ0ZjMtMTc4Ny00NDRhLTgyMjUtNzFmZDM0MTc3N2JjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.3",
+  "imdbID": "tt9770150",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:34:36.540Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Three Billboards Outside Ebbing, Missouri",
+  "year": "2017",
+  "rated": "R",
+  "released": "01 Dec 2017",
+  "runtime": "115 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Martin McDonagh",
+  "writer": "Martin McDonagh",
+  "actors": "Frances McDormand, Woody Harrelson, Sam Rockwell",
+  "plot": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Won 2 Oscars. 132 wins & 233 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "8.1",
+  "imdbID": "tt5027774",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:06.881Z"
+}

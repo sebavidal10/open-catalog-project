@@ -1,0 +1,31 @@
+{
+  "title": "Snow White",
+  "year": "2025",
+  "rated": "PG",
+  "released": "21 Mar 2025",
+  "runtime": "109 min",
+  "genre": "Adventure, Family, Fantasy",
+  "director": "Marc Webb",
+  "writer": "Erin Cressida Wilson, Jacob Grimm, Wilhelm Grimm",
+  "actors": "Rachel Zegler, Emilia Faucher, Gal Gadot",
+  "plot": "A princess joins forces with seven dwarfs and a group of rebels to liberate her kingdom from her cruel stepmother the Evil Queen.",
+  "language": "English, Italian, Turkish",
+  "country": "United States",
+  "awards": "3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2UwOGUxMzEtMzEyZi00NjEwLTkxOTMtYTljOWEzYjYyMWNjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "2.1/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "metascore": "50",
+  "imdbRating": "2.1",
+  "imdbID": "tt6208148",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:35:01.041Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Help",
+  "year": "2011",
+  "rated": "PG-13",
+  "released": "10 Aug 2011",
+  "runtime": "146 min",
+  "genre": "Drama",
+  "director": "Tate Taylor",
+  "writer": "Tate Taylor, Kathryn Stockett",
+  "actors": "Viola Davis, Emma Stone, Octavia Spencer",
+  "plot": "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily b...",
+  "language": "English",
+  "country": "United States, India",
+  "awards": "Won 1 Oscar. 79 wins & 121 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "8.1",
+  "imdbID": "tt1454029",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:18.997Z"
+}

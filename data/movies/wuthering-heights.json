@@ -1,31 +1,22 @@
 {
   "title": "Wuthering Heights",
-  "year": "1939",
-  "rated": "Approved",
-  "released": "07 Apr 1939",
-  "runtime": "104 min",
+  "year": "2026",
+  "rated": "R",
+  "released": "13 Feb 2026",
+  "runtime": "136 min",
   "genre": "Drama, Romance",
-  "director": "William Wyler",
-  "writer": "Charles MacArthur, Ben Hecht, Emily Brontë",
-  "actors": "Merle Oberon, Laurence Olivier, David Niven",
-  "plot": "A servant in the house of Wuthering Heights tells a traveler the unfortunate tale of lovers Cathy and Heathcliff.",
+  "director": "Emerald Fennell",
+  "writer": "Emerald Fennell, Emily Brontë",
+  "actors": "Margot Robbie, Jacob Elordi, Hong Chau",
+  "plot": "A passionate and tumultuous love story set against the backdrop of the Yorkshire moors, exploring the intense and destructive relationship between Heathcliff and Catherine Earnshaw.",
   "language": "English",
-  "country": "United States",
-  "awards": "Won 1 Oscar. 9 wins & 7 nominations total",
-  "poster": "https://m.media-amazon.com/images/M/MV5BODk1MTk2ODQtNjY5Ni00NmUzLWI5M2ItN2UzYmE0ZDYwZjQ2XkEyXkFqcGc@._V1_SX300.jpg",
-  "ratings": [
-    {
-      "Source": "Internet Movie Database",
-      "Value": "7.5/10"
-    },
-    {
-      "Source": "Rotten Tomatoes",
-      "Value": "96%"
-    }
-  ],
+  "country": "United Kingdom, United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGFlMTVkMDktZGMzMC00Yjk4LWFmNzEtNTFmMzM2YzM3MWFkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [],
   "metascore": "N/A",
-  "imdbRating": "7.5",
-  "imdbID": "tt0032145",
+  "imdbRating": "N/A",
+  "imdbID": "tt32897959",
   "type": "movie",
-  "fetched_at": "2026-02-11T19:15:59.869Z"
+  "fetched_at": "2026-02-11T19:35:43.820Z"
 }

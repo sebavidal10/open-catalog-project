@@ -1,0 +1,35 @@
+{
+  "title": "Eyes Wide Shut",
+  "year": "1999",
+  "rated": "R",
+  "released": "16 Jul 1999",
+  "runtime": "159 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "Stanley Kubrick",
+  "writer": "Stanley Kubrick, Frederic Raphael, Arthur Schnitzler",
+  "actors": "Tom Cruise, Nicole Kidman, Madison Eginton",
+  "plot": "A Manhattan doctor embarks on a bizarre, night-long odyssey after his wife's admission of unfulfilled longing.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "12 wins & 30 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTQ0MmM5MDAtYmYyZS00MzlmLTlhZTAtZDJlZWY5ZTZkZjZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.5",
+  "imdbID": "tt0120663",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:32:42.182Z"
+}

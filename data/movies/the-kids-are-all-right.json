@@ -1,0 +1,35 @@
+{
+  "title": "The Kids Are All Right",
+  "year": "2010",
+  "rated": "R",
+  "released": "30 Jul 2010",
+  "runtime": "106 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Lisa Cholodenko",
+  "writer": "Lisa Cholodenko, Stuart Blumberg",
+  "actors": "Annette Bening, Julianne Moore, Mark Ruffalo",
+  "plot": "Two children conceived by artificial insemination bring their biological father into their non-traditional family life.",
+  "language": "English",
+  "country": "United States, France",
+  "awards": "Nominated for 4 Oscars. 29 wins & 133 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NTMwNDg5MF5BMl5BanBnXkFtZTcwNDY2ODE0Mw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.0",
+  "imdbID": "tt0842926",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:09.673Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Lincoln",
+  "year": "2012",
+  "rated": "PG-13",
+  "released": "16 Nov 2012",
+  "runtime": "150 min",
+  "genre": "Biography, Drama, History",
+  "director": "Steven Spielberg",
+  "writer": "Tony Kushner, Doris Kearns Goodwin",
+  "actors": "Daniel Day-Lewis, Sally Field, David Strathairn",
+  "plot": "As the Civil War rages on, U.S President Abraham Lincoln struggles with continuing carnage on the battlefield as he fights with many inside his own cabinet on his decision to emancipate the slaves.",
+  "language": "English",
+  "country": "United States, India",
+  "awards": "Won 2 Oscars. 107 wins & 251 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQzNzczMDUyNV5BMl5BanBnXkFtZTcwNjM2ODEzOA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.3",
+  "imdbID": "tt0443272",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:30.655Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Armageddon",
+  "year": "1998",
+  "rated": "PG-13",
+  "released": "01 Jul 1998",
+  "runtime": "151 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Michael Bay",
+  "writer": "Jonathan Hensleigh, J.J. Abrams, Tony Gilroy",
+  "actors": "Bruce Willis, Billy Bob Thornton, Ben Affleck",
+  "plot": "After discovering that an asteroid the size of Texas will impact Earth in less than a month, NASA recruits a misfit team of deep-core drillers to save the planet.",
+  "language": "English, Russian, Indonesian",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 15 wins & 41 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzQ3MzJmZjUtNTc0OC00ZWRiLWJkMTYtMTZkMDVhMDQ4OGU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "42/100"
+    }
+  ],
+  "metascore": "42",
+  "imdbRating": "6.7",
+  "imdbID": "tt0120591",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:32:33.999Z"
+}

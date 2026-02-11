@@ -1,0 +1,35 @@
+{
+  "title": "Drive My Car",
+  "year": "2021",
+  "rated": "Unrated",
+  "released": "20 Aug 2021",
+  "runtime": "179 min",
+  "genre": "Drama",
+  "director": "Ryûsuke Hamaguchi",
+  "writer": "Haruki Murakami, Ryûsuke Hamaguchi, Takamasa Ôe",
+  "actors": "Hidetoshi Nishijima, Tôko Miura, Reika Kirishima",
+  "plot": "A renowned stage actor and director learns to cope with a big personal loss when he receives an offer to direct a production of Uncle Vanya in Hiroshima.",
+  "language": "Japanese, English, Korean Sign , Korean, Mandarin, Tagalog, Indonesian, German, Malay",
+  "country": "Japan",
+  "awards": "Won 1 Oscar. 94 wins & 108 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGE5ZWRhYjYtNzVkMS00ZGU3LTg2MTMtODYyMmJlMDMyZjU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "metascore": "91",
+  "imdbRating": "7.5",
+  "imdbID": "tt14039582",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:28.245Z"
+}

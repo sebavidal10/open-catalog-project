@@ -1,0 +1,35 @@
+{
+  "title": "All Quiet on the Western Front",
+  "year": "2022",
+  "rated": "R",
+  "released": "28 Oct 2022",
+  "runtime": "148 min",
+  "genre": "Drama, History, War",
+  "director": "Edward Berger",
+  "writer": "Edward Berger, Lesley Paterson, Ian Stokell",
+  "actors": "Felix Kammerer, Albrecht Schuch, Aaron Hilmer",
+  "plot": "A young German soldier's eagerness to serve his country quickly fades when he witnesses the horrors of combat on the Western Front during World War I.",
+  "language": "German, French",
+  "country": "Germany, United States, United Kingdom",
+  "awards": "Won 4 Oscars. 59 wins & 89 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWJiYWMyYTktZThhOS00ZjgxLWE0YTQtZDMyNTQxMjMyYjI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.8",
+  "imdbID": "tt1016150",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:37:43.402Z"
+}

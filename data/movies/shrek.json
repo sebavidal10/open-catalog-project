@@ -1,0 +1,35 @@
+{
+  "title": "Shrek",
+  "year": "2001",
+  "rated": "PG",
+  "released": "18 May 2001",
+  "runtime": "90 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Andrew Adamson, Vicky Jenson",
+  "writer": "William Steig, Ted Elliott, Terry Rossio",
+  "actors": "Mike Myers, Eddie Murphy, Cameron Diaz",
+  "plot": "A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 40 wins & 60 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2FkMTRkNTUtYTI0NC00ZjI4LWI5MzUtMDFmOGY0NmU2OGY1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.9",
+  "imdbID": "tt0126029",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:32:50.335Z"
+}

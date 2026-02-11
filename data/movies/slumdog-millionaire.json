@@ -1,0 +1,35 @@
+{
+  "title": "Slumdog Millionaire",
+  "year": "2008",
+  "rated": "R",
+  "released": "25 Dec 2008",
+  "runtime": "120 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "Danny Boyle, Loveleen Tandan",
+  "writer": "Simon Beaufoy, Vikas Swarup",
+  "actors": "Dev Patel, Freida Pinto, Saurabh Shukla",
+  "plot": "When a teenager from the slums of Mumbai is interrogated about his suspicious performance on a quiz show, he revisits various events from his past to explain how he knew all the answers.",
+  "language": "English, Hindi",
+  "country": "United Kingdom, France, United States, India",
+  "awards": "Won 8 Oscars. 154 wins & 133 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTE5ZTRkYWEtZmU5MC00NDJjLTk3NmUtZGJlYTM2MmQ3NTJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "8.0",
+  "imdbID": "tt1010048",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:33:35.870Z"
+}

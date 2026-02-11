@@ -1,0 +1,35 @@
+{
+  "title": "The King's Speech",
+  "year": "2010",
+  "rated": "R",
+  "released": "25 Dec 2010",
+  "runtime": "118 min",
+  "genre": "Biography, Drama, History",
+  "director": "Tom Hooper",
+  "writer": "David Seidler",
+  "actors": "Colin Firth, Geoffrey Rush, Helena Bonham Carter",
+  "plot": "The story of King George VI, his unexpected ascension to the throne of the British Empire in 1936, and the speech therapist who helped the unsure monarch overcome his stammer.",
+  "language": "English",
+  "country": "United States, United Kingdom",
+  "awards": "Won 4 Oscars. 109 wins & 206 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzU5MjEwMTg2Nl5BMl5BanBnXkFtZTcwNzM3MTYxNA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "8.0",
+  "imdbID": "tt1504320",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:36:07.341Z"
+}

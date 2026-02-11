@@ -1,0 +1,35 @@
+{
+  "title": "Fargo",
+  "year": "1996",
+  "rated": "R",
+  "released": "05 Apr 1996",
+  "runtime": "98 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Joel Coen, Ethan Coen",
+  "writer": "Ethan Coen, Joel Coen",
+  "actors": "William H. Macy, Frances McDormand, Steve Buscemi",
+  "plot": "Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Won 2 Oscars. 84 wins & 58 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjg4MWE0MjEtODFhNy00MjA5LTg5ODktMzgwNWFmZTAwNjBlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "8.1",
+  "imdbID": "tt0116282",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:32:18.823Z"
+}
