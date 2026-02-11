@@ -16,36 +16,14 @@ function isISBN(str) {
   return /^\d{9}[\dX]$|^\d{13}$/.test(clean);
 }
 
-async function searchISBN(query) {
-  const searchQuery = query.replace(/-/g, ' ');
-  const url = `https://openlibrary.org/search.json?q=${encodeURIComponent(searchQuery)}&limit=1&fields=isbn`;
-  const data = await fetchData(url);
-  if (
-    data.docs &&
-    data.docs.length > 0 &&
-    data.docs[0].isbn &&
-    data.docs[0].isbn.length > 0
-  ) {
-    return data.docs[0].isbn[0];
-  }
-  throw new Error(`No se pudo encontrar un ISBN para: ${query}`);
-}
+// Search ISBN function removed as resolution is now handled by the consumer (Boveda)
 
 async function fetchBook() {
-  let isbn = input;
+  let isbn = input.replace(/-/g, '');
 
-  if (!isISBN(input)) {
-    try {
-      console.log(`Buscando libro: "${input}"...`);
-      isbn = await searchISBN(input);
-      console.log(`ISBN encontrado: ${isbn}`);
-    } catch (error) {
-      console.error(error.message);
-      process.exit(1);
-    }
-  } else {
-    // Normalizar ISBN (quitar guiones) para la validación de archivo
-    isbn = isbn.replace(/-/g, '');
+  if (!isISBN(isbn)) {
+    console.error('Error: Se requiere un ISBN válido (10 o 13 dígitos).');
+    process.exit(1);
   }
 
   // Validar si ya existe localmente
