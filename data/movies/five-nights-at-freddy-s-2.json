@@ -1,0 +1,35 @@
+{
+  "title": "Five Nights at Freddy's 2",
+  "year": "2025",
+  "rated": "PG-13",
+  "released": "05 Dec 2025",
+  "runtime": "104 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Emma Tammi",
+  "writer": "Scott Cawthon",
+  "actors": "Josh Hutcherson, Piper Rubio, Elizabeth Lail",
+  "plot": "One year after the supernatural nightmare at Freddy Fazbear's Pizza, Abby runs away to reconnect with her animatronic friends, uncovering dark secrets about the true origins of Freddy's and unleashing a horror hidden for decades.",
+  "language": "English",
+  "country": "United States, Canada",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmQ3NmIxNTgtYjFiNS00NzliLWI0YzAtZDkxY2E0YWIxZDEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "16%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "26/100"
+    }
+  ],
+  "metascore": "26",
+  "imdbRating": "5.2",
+  "imdbID": "tt30274401",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:16:47.185Z"
+}

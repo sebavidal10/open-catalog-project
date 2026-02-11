@@ -1,0 +1,35 @@
+{
+  "title": "Michael",
+  "year": "1996",
+  "rated": "PG",
+  "released": "25 Dec 1996",
+  "runtime": "105 min",
+  "genre": "Comedy, Drama, Fantasy",
+  "director": "Nora Ephron",
+  "writer": "Peter Dexter, Jim Quinlan, Nora Ephron",
+  "actors": "John Travolta, Andie MacDowell, William Hurt",
+  "plot": "Two tabloid reporters checking out a report of the Archangel Michael living with an old woman find that it's true. But that's not the only surprise.",
+  "language": "English, Portuguese",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjVkZGQ0MzgtNmQyNS00MzI3LWEzZjItNDdhMDk1NjQ3ZDcyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "38%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "38/100"
+    }
+  ],
+  "metascore": "38",
+  "imdbRating": "5.7",
+  "imdbID": "tt0117038",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:15:51.193Z"
+}

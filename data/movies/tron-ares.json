@@ -1,0 +1,35 @@
+{
+  "title": "Tron: Ares",
+  "year": "2025",
+  "rated": "PG-13",
+  "released": "10 Oct 2025",
+  "runtime": "119 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Joachim Rønning",
+  "writer": "Steven Lisberger, Bonnie MacBird, David DiGilio",
+  "actors": "Jared Leto, Greta Lee, Jeff Bridges",
+  "plot": "A highly sophisticated program, Ares, is sent from the digital world into the real world on a dangerous mission.",
+  "language": "English",
+  "country": "United States, Canada, New Zealand",
+  "awards": "19 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzNlY2RiYWEtMDA0YS00MTZkLWI5YmUtMDNiZDZlN2E4MTVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "53%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "48/100"
+    }
+  ],
+  "metascore": "48",
+  "imdbRating": "6.2",
+  "imdbID": "tt6604188",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:16:26.308Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Wuthering Heights",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "07 Apr 1939",
+  "runtime": "104 min",
+  "genre": "Drama, Romance",
+  "director": "William Wyler",
+  "writer": "Charles MacArthur, Ben Hecht, Emily Brontë",
+  "actors": "Merle Oberon, Laurence Olivier, David Niven",
+  "plot": "A servant in the house of Wuthering Heights tells a traveler the unfortunate tale of lovers Cathy and Heathcliff.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 9 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODk1MTk2ODQtNjY5Ni00NmUzLWI5M2ItN2UzYmE0ZDYwZjQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0032145",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:15:59.869Z"
+}

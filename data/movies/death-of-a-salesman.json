@@ -1,0 +1,31 @@
+{
+  "title": "Death of a Salesman",
+  "year": "1985",
+  "rated": "PG",
+  "released": "15 Sep 1985",
+  "runtime": "136 min",
+  "genre": "Drama",
+  "director": "Volker Schlöndorff",
+  "writer": "Arthur Miller",
+  "actors": "Dustin Hoffman, Kate Reid, John Malkovich",
+  "plot": "An aging traveling salesman recognizes the emptiness of his life and tries to fix it.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 3 Primetime Emmys. 7 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzdiYjUxNTctMWQwZC00NWU4LTliYTctZmQwYTY3MTA1ZmM3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0089006",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:17:02.662Z"
+}

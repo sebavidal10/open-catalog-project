@@ -1,0 +1,35 @@
+{
+  "title": "Mayday",
+  "year": "2021",
+  "rated": "N/A",
+  "released": "01 Oct 2021",
+  "runtime": "100 min",
+  "genre": "Drama, Fantasy, Mystery",
+  "director": "Karen Cinorre",
+  "writer": "Karen Cinorre",
+  "actors": "Grace Van Patten, Mia Goth, Soko",
+  "plot": "Ana is transported to a dreamlike and dangerous land where she joins an army of girls engaged in a never-ending war. Though she finds strength in this exhilarating world, she realizes that she's not the killer they want her to be.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmQzNWQxYTQtOTZjOS00NTU4LWJjZjMtY2ViZmU4NTZhYjIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "54%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "45/100"
+    }
+  ],
+  "metascore": "45",
+  "imdbRating": "4.4",
+  "imdbID": "tt11271800",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:16:54.342Z"
+}

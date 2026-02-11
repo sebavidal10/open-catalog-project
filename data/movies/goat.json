@@ -1,0 +1,35 @@
+{
+  "title": "Goat",
+  "year": "2016",
+  "rated": "R",
+  "released": "23 Sep 2016",
+  "runtime": "96 min",
+  "genre": "Drama",
+  "director": "Andrew Neel",
+  "writer": "David Gordon Green, Brad Land, Andrew Neel",
+  "actors": "Ben Schnetzer, Nick Jonas, Gus Halper",
+  "plot": "Reeling from a terrifying assault, a 19 year-old enrolls into college with his brother and pledges the same fraternity. What happens there in the name of \"brotherhood\" tests him and his loyalty to his brother in brutal ways.",
+  "language": "English",
+  "country": "United States",
+  "awards": "5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUxNjg1ODY3Ml5BMl5BanBnXkFtZTgwODEyNjUzOTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "5.7",
+  "imdbID": "tt4437216",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:16:20.350Z"
+}

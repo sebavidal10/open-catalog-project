@@ -1,13 +1,9 @@
 {
   "isbn": "9780141187761",
   "title": "Nineteen Eighty-Four",
-  "authors": [
-    "George Orwell"
-  ],
+  "authors": ["George Orwell"],
   "publish_date": "January 29, 2004",
-  "publisher": [
-    "Penguin Classics"
-  ],
+  "publisher": ["Penguin Classics"],
   "pages": 384,
   "cover": "https://covers.openlibrary.org/b/id/108160-L.jpg",
   "subjects": [

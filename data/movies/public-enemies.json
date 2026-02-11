@@ -1,0 +1,35 @@
+{
+  "title": "Public Enemies",
+  "year": "2009",
+  "rated": "R",
+  "released": "01 Jul 2009",
+  "runtime": "140 min",
+  "genre": "Biography, Crime, Drama",
+  "director": "Michael Mann",
+  "writer": "Ronan Bennett, Michael Mann, Ann Biderman",
+  "actors": "Christian Bale, Johnny Depp, Christian Stolte",
+  "plot": "The Feds try to take down notorious American gangsters John Dillinger, Baby Face Nelson, and Pretty Boy Floyd during a booming crime wave in the 1930s.",
+  "language": "English",
+  "country": "United States, Japan",
+  "awards": "1 win & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2FjYTZjZTUtNDMyOS00YzViLWFlZjQtZTAzNGQwM2VjYjVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "68%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "6.9",
+  "imdbID": "tt1152836",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:17:15.395Z"
+}

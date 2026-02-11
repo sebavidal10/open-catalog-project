@@ -1,0 +1,35 @@
+{
+  "title": "Street Fighter",
+  "year": "1994",
+  "rated": "PG-13",
+  "released": "23 Dec 1994",
+  "runtime": "102 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Steven E. de Souza",
+  "writer": "Steven E. de Souza",
+  "actors": "Jean-Claude Van Damme, Raul Julia, Ming-Na Wen",
+  "plot": "In the midst of a civil war in South East Asia, a general intensifies the climate of violence by kidnapping 63 UN delegates. To free the hostages, a colonel leads a group of fighters, who will have to use all their skills to be su...",
+  "language": "English, Japanese, Esperanto",
+  "country": "Japan, United States, Australia, Hong Kong",
+  "awards": "4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTliMDFmNDQtZjRlYS00MDE3LWJmOTktNjA0ZDUwZjcyNTdiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "11%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "34/100"
+    }
+  ],
+  "metascore": "34",
+  "imdbRating": "4.1",
+  "imdbID": "tt0111301",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:16:16.747Z"
+}

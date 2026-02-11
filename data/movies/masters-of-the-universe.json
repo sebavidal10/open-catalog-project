@@ -1,0 +1,35 @@
+{
+  "title": "Masters of the Universe",
+  "year": "1987",
+  "rated": "PG",
+  "released": "07 Aug 1987",
+  "runtime": "106 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Gary Goddard",
+  "writer": "David Odell, Stephen Tolkin, Gary Goddard",
+  "actors": "Dolph Lundgren, Frank Langella, Meg Foster",
+  "plot": "The heroic warrior He-Man battles against the evil lord Skeletor and his armies of darkness for control of Castle Grayskull.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGM4ZDMxMjMtMmFhYi00OGJhLThiYzktMTVmYTgwNTk4ZDJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "21%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "35/100"
+    }
+  ],
+  "metascore": "35",
+  "imdbRating": "5.4",
+  "imdbID": "tt0093507",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:16:08.942Z"
+}

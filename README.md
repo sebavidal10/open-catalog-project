@@ -118,6 +118,24 @@ node scripts/fetch-movie.js "Inception"
 node scripts/fetch-comic.js 9781302915544
 ```
 
+### Importación Masiva (Películas)
+
+1. Edita el archivo `scripts/movies.txt` con los títulos (y año opcional) uno por línea.
+   - Este archivo es ignorado por git, así que puedes poner tu lista personal sin miedo.
+   - Puedes ver un ejemplo en `scripts/movies.example.txt`.
+
+2. Ejecuta el script:
+
+```bash
+node scripts/bulk-fetch-movies.js
+```
+
+Si prefieres usar otro archivo, pasa la ruta como argumento:
+
+```bash
+node scripts/bulk-fetch-movies.js ruta/a/tu/lista.txt
+```
+
 ---
 
 ## 👨‍💻 4. Desarrollo

@@ -1,0 +1,31 @@
+{
+  "title": "Primate",
+  "year": "2025",
+  "rated": "R",
+  "released": "09 Jan 2026",
+  "runtime": "89 min",
+  "genre": "Horror",
+  "director": "Johannes Roberts",
+  "writer": "Johannes Roberts, Ernest Riera",
+  "actors": "Johnny Sequoyah, Jess Alexander, Troy Kotsur",
+  "plot": "A group of friends' tropical vacation turns into a terrifying, primal tale of horror and survival.",
+  "language": "English",
+  "country": "United Kingdom, United States, Canada, Australia",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA5MDI3MjctMGQ1My00ODI1LWFmNjctMjdlNDdiYzcyMWMwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "metascore": "59",
+  "imdbRating": "6.2",
+  "imdbID": "tt33028778",
+  "type": "movie",
+  "fetched_at": "2026-02-11T19:16:51.947Z"
+}
