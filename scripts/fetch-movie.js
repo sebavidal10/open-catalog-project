@@ -1,6 +1,8 @@
 import { fetchData } from '../src/utils/api.js';
 import { saveFile } from '../src/utils/file-system.js';
 import { cleanMovieData } from '../src/models/movie.js';
+import fs from 'fs';
+import path from 'path';
 
 const input = process.argv.slice(2).join(' ');
 
@@ -39,7 +41,20 @@ async function fetchMovie() {
   try {
     const data = await fetchData(url);
     const { slug, cleanedData } = cleanMovieData(data);
+
+    // Validar si ya existe localmente por el slug generado
+    const localPath = path.join(process.cwd(), 'data/movies', `${slug}.json`);
+    if (fs.existsSync(localPath)) {
+      console.log(
+        `La película "${cleanedData.title}" (${cleanedData.year}) ya existe en el catálogo local:`,
+      );
+      const existingData = fs.readFileSync(localPath, 'utf8');
+      console.log(existingData);
+      return;
+    }
+
     saveFile('data/movies', `${slug}.json`, cleanedData);
+    console.log(JSON.stringify(cleanedData, null, 2));
   } catch (error) {
     console.error('Error fetching movie:', error.message);
     process.exit(1);
