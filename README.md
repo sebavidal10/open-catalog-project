@@ -93,10 +93,10 @@ Este catálogo crece con los aportes de todos. Si quieres agregar algo:
 
 1. Ve a la pestaña de **Issues**.
 2. Abre uno nuevo usando este formato en el título:
-   - `add-book: [ISBN]` (Ej: `add-book: 9780141036144`)
-   - `add-movie: [Título]` (Ej: `add-movie: Interstellar`)
-   - `add-comic: [ISBN]` (Ej: `add-comic: 9781302915544`)
-3. Una vez aprobado por un moderador (etiqueta `approved`), el bot lo agregará automáticamente al catálogo.
+3. - `add-book: [ISBN o Título-Autor]` (Ej: `add-book: 9780141036144` o `add-book: Dracula-Bram Stoker`)
+4. - `add-movie: [Título]` (Ej: `add-movie: Interstellar` o `add-movie: The Matrix 1999`)
+5. - `add-comic: [ISBN o Título-Autor]` (Ej: `add-comic: 9781302915544` o `add-comic: Watchmen`)
+6. Una vez aprobado por un moderador (etiqueta `approved`), el bot lo agregará automáticamente al catálogo.
 
 ---
 

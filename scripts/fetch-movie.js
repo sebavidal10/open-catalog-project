@@ -2,10 +2,10 @@ import { fetchData } from '../src/utils/api.js';
 import { saveFile } from '../src/utils/file-system.js';
 import { cleanMovieData } from '../src/models/movie.js';
 
-const movieTitle = process.argv.slice(2).join(' ');
+const input = process.argv.slice(2).join(' ');
 
-if (!movieTitle) {
-  console.error('Usage: node fetch-movie.js <Movie Title>');
+if (!input) {
+  console.error('Usage: node fetch-movie.js <Movie Title> [Year]');
   process.exit(1);
 }
 
@@ -16,8 +16,25 @@ if (!OMDB_API_KEY) {
   process.exit(1);
 }
 
-async function fetchMovie(title) {
-  const url = `https://www.omdbapi.com/?t=${encodeURIComponent(title)}&apikey=${OMDB_API_KEY}`;
+function parseInput(input) {
+  // Intenta encontrar un año de 4 dígitos al final (separado por espacio o guion)
+  const match = input.match(/^(.*?)[- ](\d{4})$/);
+  if (match) {
+    return { title: match[1], year: match[2] };
+  }
+  return { title: input, year: null };
+}
+
+async function fetchMovie() {
+  const { title, year } = parseInput(input);
+  let url = `https://www.omdbapi.com/?t=${encodeURIComponent(title)}&apikey=${OMDB_API_KEY}`;
+
+  if (year) {
+    console.log(`Buscando película: "${title}" del año ${year}...`);
+    url += `&y=${year}`;
+  } else {
+    console.log(`Buscando película: "${title}"...`);
+  }
 
   try {
     const data = await fetchData(url);
@@ -29,4 +46,4 @@ async function fetchMovie(title) {
   }
 }
 
-fetchMovie(movieTitle);
+fetchMovie();
