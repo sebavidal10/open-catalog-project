@@ -136,6 +136,10 @@ Si prefieres usar otro archivo, pasa la ruta como argumento:
 node scripts/bulk-fetch-movies.js ruta/a/tu/lista.txt
 ```
 
+### Manejo de Colisiones (Nombres Repetidos)
+
+El script detecta automáticamente si una película ya existe con el mismo título. Si son películas diferentes (distinto año o ID), creará un nuevo archivo agregando el año al nombre (ej. `point-break-2015.json`).
+
 ---
 
 ## 👨‍💻 4. Desarrollo
