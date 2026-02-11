@@ -52,18 +52,38 @@ export async function fetchMovie(input) {
     const data = await fetchData(url);
     const { slug, cleanedData } = cleanMovieData(data);
 
-    // Validar si ya existe localmente por el slug generado
-    const localPath = path.join(process.cwd(), 'data/movies', `${slug}.json`);
+    // 3. Collision Handling
+    let finalSlug = slug;
+    let localPath = path.join(
+      process.cwd(),
+      'data/movies',
+      `${finalSlug}.json`,
+    );
+
     if (fs.existsSync(localPath)) {
+      const existingData = JSON.parse(fs.readFileSync(localPath, 'utf8'));
+
+      // Case A: Identical movie (same IMDB ID or Title+Year) -> Return existing
+      if (
+        (existingData.imdbID && existingData.imdbID === cleanedData.imdbID) ||
+        (existingData.title === cleanedData.title &&
+          existingData.year === cleanedData.year)
+      ) {
+        console.log(
+          `Movie "${cleanedData.title}" (${cleanedData.year}) already exists in catalog.`,
+        );
+        return existingData;
+      }
+
+      // Case B: Collision (Different movie, same slug) -> Append Year
       console.log(
-        `La película "${cleanedData.title}" (${cleanedData.year}) ya existe en el catálogo local:`,
+        `Filename collision for "${slug}". Creating year-suffixed version...`,
       );
-      const existingData = fs.readFileSync(localPath, 'utf8');
-      console.log(existingData);
-      return JSON.parse(existingData);
+      finalSlug = `${slug}-${cleanedData.year}`;
+      localPath = path.join(process.cwd(), 'data/movies', `${finalSlug}.json`);
     }
 
-    saveFile('data/movies', `${slug}.json`, cleanedData);
+    saveFile('data/movies', `${finalSlug}.json`, cleanedData);
     if (isMainModule) {
       console.log(JSON.stringify(cleanedData, null, 2));
     }
