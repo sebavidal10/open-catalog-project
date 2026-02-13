@@ -1,0 +1,35 @@
+{
+  "title": "The Astronaut",
+  "year": "2025",
+  "rated": "N/A",
+  "released": "17 Oct 2025",
+  "runtime": "90 min",
+  "genre": "Horror, Sci-Fi, Thriller",
+  "director": "Jess Varley",
+  "writer": "Jess Varley",
+  "actors": "Kate Mara, Laurence Fishburne, Gabriel Luna",
+  "plot": "When an astronaut crash-lands back to Earth, a General places her in quarantine for rehabilitation and testing. As disturbing events unfold, she fears that something extraterrestrial has followed her home.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGRlMDA5NGYtOWNmYy00YWI3LWFlMzMtYjlhMTkxZmI1NDRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "42%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "40/100"
+    }
+  ],
+  "metascore": "40",
+  "imdbRating": "4.7",
+  "imdbID": "tt13964560",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:20.350Z"
+}

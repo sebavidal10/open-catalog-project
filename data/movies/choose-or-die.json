@@ -1,0 +1,35 @@
+{
+  "title": "Choose or Die",
+  "year": "2022",
+  "rated": "MA-17",
+  "released": "15 Apr 2022",
+  "runtime": "84 min",
+  "genre": "Drama, Horror, Thriller",
+  "director": "Toby Meakins",
+  "writer": "Simon Allen, Toby Meakins, Matthew James Wilkinson",
+  "actors": "Iola Evans, Asa Butterfield, Robert Englund",
+  "plot": "After firing up a lost 1980s survival horror game, a young coder unleashes a hidden curse that tears reality apart, forcing her to make terrifying decisions and face deadly consequences.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjNkMGE2MjEtMDI5NS00Yjc0LTk2YjAtOGNmOTIyZTgxZWQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "31%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "43/100"
+    }
+  ],
+  "metascore": "43",
+  "imdbRating": "4.8",
+  "imdbID": "tt11514780",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:17.243Z"
+}

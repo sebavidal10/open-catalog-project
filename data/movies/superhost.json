@@ -1,0 +1,31 @@
+{
+  "title": "Superhost",
+  "year": "2021",
+  "rated": "N/A",
+  "released": "02 Sep 2021",
+  "runtime": "84 min",
+  "genre": "Comedy, Horror, Thriller",
+  "director": "Brandon Christensen",
+  "writer": "Brandon Christensen",
+  "actors": "Sara Canning, Osric Chau, Gracie Gillam",
+  "plot": "With their follower count dwindling, travel vloggers Teddy and Claire pivot to creating viral content around their most recent \"superhost,\" Rebecca, who wants more from the duo than a great review.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGRkYmYxOTctZmQwOC00MzgwLTkwNTEtOTBhZGE5MjFlMmU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt13309978",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:56.131Z"
+}

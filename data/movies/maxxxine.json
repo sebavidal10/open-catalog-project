@@ -1,0 +1,35 @@
+{
+  "title": "MaXXXine",
+  "year": "2024",
+  "rated": "R",
+  "released": "05 Jul 2024",
+  "runtime": "103 min",
+  "genre": "Crime, Horror",
+  "director": "Ti West",
+  "writer": "Ti West",
+  "actors": "Charley Rowan McCain, Simon Prast, Mia Goth",
+  "plot": "In 1980s Hollywood, adult film star and aspiring actress Maxine Minx finally gets her big break. But as a mysterious killer stalks the starlets of Hollywood, a trail of blood threatens to reveal her sinister past.",
+  "language": "English",
+  "country": "United States, United Kingdom, New Zealand",
+  "awards": "8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjBmYzFmODktNDIyZC00NWFmLTk2NTctYmZiY2E2OTA2OTc0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "6.2",
+  "imdbID": "tt22048412",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:21:22.575Z"
+}

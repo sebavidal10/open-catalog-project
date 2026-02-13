@@ -1,0 +1,35 @@
+{
+  "title": "Christmas Bloody Christmas",
+  "year": "2022",
+  "rated": "Not Rated",
+  "released": "09 Dec 2022",
+  "runtime": "86 min",
+  "genre": "Comedy, Horror",
+  "director": "Joe Begos",
+  "writer": "Joe Begos",
+  "actors": "Riley Dandy, Sam Delich, Jonah Ray",
+  "plot": "It's Christmas Eve and Tori just wants to get drunk and party, but when a robotic Santa Claus at a nearby toy store goes haywire and begins a rampant killing spree through her small town, she's forced into a battle for survival.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDZkOTkxYWEtZjM1MC00NjQ3LTg4NzUtOWVkNTkyYjU2MWFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "46/100"
+    }
+  ],
+  "metascore": "46",
+  "imdbRating": "5.1",
+  "imdbID": "tt22042742",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:11.398Z"
+}

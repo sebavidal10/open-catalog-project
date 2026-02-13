@@ -1,0 +1,31 @@
+{
+  "title": "Arcadian",
+  "year": "2024",
+  "rated": "R",
+  "released": "12 Apr 2024",
+  "runtime": "92 min",
+  "genre": "Action, Drama, Horror",
+  "director": "Benjamin Brewer",
+  "writer": "Mike Nilon",
+  "actors": "Nicolas Cage, Jaeden Martell, Maxwell Jenkins",
+  "plot": "A father and his twin teenage sons fight to survive in a remote farmhouse at the end of the world.",
+  "language": "English",
+  "country": "United States, Ireland",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmQ0OTU4MDUtOTM5Yi00Y2QwLThhYTMtZGFmOWU2ZTU0Y2VlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "metascore": "57",
+  "imdbRating": "5.5",
+  "imdbID": "tt22939186",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:38.373Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Coffee Table",
+  "year": "2022",
+  "rated": "16+",
+  "released": "11 Jan 2024",
+  "runtime": "89 min",
+  "genre": "Comedy, Drama, Horror",
+  "director": "Caye Casas",
+  "writer": "Cristina Borobia, Caye Casas",
+  "actors": "David Pareja, Estefanía de los Santos, Josep Maria Riera",
+  "plot": "Jesus and Maria are a couple going through a difficult time in their relationship. Nevertheless, they have just become parents. To shape their new life, they decide to buy a new coffee table. A decision that will change their exis...",
+  "language": "Spanish",
+  "country": "Spain",
+  "awards": "20 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjhmNjAwZjctZWRiYi00MzgzLWFhNGItYzBiZmVhNzU3YzVhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "metascore": "72",
+  "imdbRating": "6.7",
+  "imdbID": "tt21874760",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:42.061Z"
+}

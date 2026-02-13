@@ -1,0 +1,35 @@
+{
+  "title": "Orphan: First Kill",
+  "year": "2022",
+  "rated": "R",
+  "released": "19 Aug 2022",
+  "runtime": "99 min",
+  "genre": "Crime, Drama, Horror",
+  "director": "William Brent Bell",
+  "writer": "David Coggeshall, David Leslie Johnson-McGoldrick, Alex Mace",
+  "actors": "Isabelle Fuhrman, Julia Stiles, Rossif Sutherland",
+  "plot": "After orchestrating a brilliant escape from an Estonian psychiatric facility, Esther travels to America by impersonating the missing daughter of a wealthy family.",
+  "language": "English, Estonian, French, Italian",
+  "country": "Canada, United States",
+  "awards": "11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzU1MGZmODctODU0ZC00YjllLWE3ZmYtNmFmZjE1ZjE3YzVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "metascore": "54",
+  "imdbRating": "5.9",
+  "imdbID": "tt11851548",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:25.916Z"
+}

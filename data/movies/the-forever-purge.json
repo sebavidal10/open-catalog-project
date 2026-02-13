@@ -1,0 +1,35 @@
+{
+  "title": "The Forever Purge",
+  "year": "2021",
+  "rated": "R",
+  "released": "02 Jul 2021",
+  "runtime": "103 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Everardo Gout",
+  "writer": "James DeMonaco",
+  "actors": "Ana de la Reguera, Tenoch Huerta, Josh Lucas",
+  "plot": "All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.",
+  "language": "English, Spanish",
+  "country": "China, United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWVmYmE5ZWQtY2E3NC00Mzk1LWEzMzYtNjkyM2E0MGY0MjcxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "48%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "metascore": "53",
+  "imdbRating": "5.4",
+  "imdbID": "tt10327252",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:03.441Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Sadness",
+  "year": "2021",
+  "rated": "TV-MA",
+  "released": "12 May 2022",
+  "runtime": "99 min",
+  "genre": "Horror",
+  "director": "Rob Jabbaz",
+  "writer": "Rob Jabbaz",
+  "actors": "Berant Zhu, Regina Lei, Ying-Ru Chen",
+  "plot": "A young couple trying to reunite amid a city ravaged by a plague that turns its victims into deranged, bloodthirsty sadists.",
+  "language": "Mandarin",
+  "country": "Taiwan",
+  "awards": "3 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmU5YzMxMjQtMzI2MC00MjY2LWJkZjMtZTBlYmU3MzZjNThlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "6.5",
+  "imdbID": "tt13872248",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:49.078Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Azrael",
+  "year": "2024",
+  "rated": "R",
+  "released": "27 Sep 2024",
+  "runtime": "86 min",
+  "genre": "Action, Horror",
+  "director": "E.L. Katz",
+  "writer": "Simon Barrett",
+  "actors": "Vic Carmen Sonne, Samara Weaving, Nathan Stewart-Jarrett",
+  "plot": "In a world where no one speaks, a devout female-led community hunts down a young woman who has escaped imprisonment. Recaptured, Azrael is due to be sacrificed to an ancient evil in the wilderness, but fights for her own survival.",
+  "language": "None, Esperanto",
+  "country": "United States, Estonia",
+  "awards": "2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2JmOGJiYTEtYjVlOC00YzFkLTliODAtOTI3OGVlNDc2MmZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "5.3",
+  "imdbID": "tt22173666",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:01.204Z"
+}

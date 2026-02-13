@@ -1,0 +1,35 @@
+{
+  "title": "Terrifier 2",
+  "year": "2022",
+  "rated": "Unrated",
+  "released": "06 Oct 2022",
+  "runtime": "138 min",
+  "genre": "Horror",
+  "director": "Damien Leone",
+  "writer": "Damien Leone",
+  "actors": "Lauren LaVera, David Howard Thornton, Elliott Fullam",
+  "plot": "Resurrected by a sinister entity, Art the Clown returns to Miles County to terrorize a teenage girl and her younger brother on Halloween night.",
+  "language": "English",
+  "country": "United States",
+  "awards": "6 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTUyZWM1MDgtMGZiZi00OWZlLTgwNzItZGU3NTkwN2I4OWNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "metascore": "59",
+  "imdbRating": "6.0",
+  "imdbID": "tt10403420",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:21:26.269Z"
+}

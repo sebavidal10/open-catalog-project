@@ -1,0 +1,31 @@
+{
+  "title": "Incantation",
+  "year": "2022",
+  "rated": "TV-MA",
+  "released": "08 Jul 2022",
+  "runtime": "110 min",
+  "genre": "Horror, Mystery",
+  "director": "Kevin Ko",
+  "writer": "Che-Wei Chang, Kevin Ko",
+  "actors": "Hsuan-yen Tsai, Sin-Ting Huang, Ying-Hsuan Kao",
+  "plot": "Six years ago, Li Ronan was cursed after breaking a religious taboo. Now, she must protect her daughter from the consequences of her actions.",
+  "language": "Mandarin",
+  "country": "Taiwan",
+  "awards": "4 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2U2YjU0M2MtZjIxZC00ZDZjLWI2NjItN2MwMmVhM2RkMjNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt18968540",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:47.904Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Halloween",
+  "year": "2007",
+  "rated": "R",
+  "released": "31 Aug 2007",
+  "runtime": "109 min",
+  "genre": "Horror",
+  "director": "Rob Zombie",
+  "writer": "Rob Zombie, John Carpenter, Debra Hill",
+  "actors": "Scout Taylor-Compton, Malcolm McDowell, Tyler Mane",
+  "plot": "After being committed for 15 years, Michael Myers, now a grown man and still very dangerous, escapes from the mental institution and immediately returns to Haddonfield to find his baby sister, Laurie.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMzOTg4MzcxNF5BMl5BanBnXkFtZTcwMzY5MDE1MQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "28%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "47/100"
+    }
+  ],
+  "metascore": "47",
+  "imdbRating": "6.1",
+  "imdbID": "tt0373883",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:52.600Z"
+}

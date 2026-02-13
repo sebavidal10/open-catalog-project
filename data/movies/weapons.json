@@ -1,0 +1,35 @@
+{
+  "title": "Weapons",
+  "year": "2025",
+  "rated": "R",
+  "released": "08 Aug 2025",
+  "runtime": "128 min",
+  "genre": "Horror, Mystery",
+  "director": "Zach Cregger",
+  "writer": "Zach Cregger",
+  "actors": "Julia Garner, Josh Brolin, Alden Ehrenreich",
+  "plot": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+  "language": "English",
+  "country": "United States",
+  "awards": "20 wins & 78 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.5",
+  "imdbID": "tt26581740",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:21:33.577Z"
+}

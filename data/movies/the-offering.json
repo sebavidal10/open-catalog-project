@@ -1,0 +1,35 @@
+{
+  "title": "The Offering",
+  "year": "2022",
+  "rated": "R",
+  "released": "13 Jan 2023",
+  "runtime": "93 min",
+  "genre": "Horror",
+  "director": "Oliver Park",
+  "writer": "Hank Hoffman, Jonathan Yunger",
+  "actors": "Nick Blood, Emily Wiseman, Paul Kaye",
+  "plot": "A family struggling with loss find themselves at the mercy of an ancient demon trying to destroy them from the inside.",
+  "language": "English",
+  "country": "United States, United Kingdom, Bulgaria",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGIwNmU2N2ItNDA0Yi00YjdiLWJjYjMtYzNmMDBlODQxMWNmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "5.3",
+  "imdbID": "tt13103732",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:27.841Z"
+}

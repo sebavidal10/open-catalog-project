@@ -1,0 +1,35 @@
+{
+  "title": "The Invitation",
+  "year": "2022",
+  "rated": "PG-13",
+  "released": "26 Aug 2022",
+  "runtime": "105 min",
+  "genre": "Horror, Thriller",
+  "director": "Jessica M. Thompson",
+  "writer": "Blair Butler",
+  "actors": "Nathalie Emmanuel, Thomas Doherty, Sean Pertwee",
+  "plot": "Evie's long-lost cousin invites her to a swanky English wedding, where she uncovers a dark and twisted family secret that threatens to upend her life.",
+  "language": "English",
+  "country": "United States, Hungary",
+  "awards": "1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODJiMTNiN2MtZDAzYy00MjEwLWJhZjYtN2NiYWQyY2IwNjdjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "32%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "45/100"
+    }
+  ],
+  "metascore": "45",
+  "imdbRating": "5.3",
+  "imdbID": "tt12873562",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:14.902Z"
+}

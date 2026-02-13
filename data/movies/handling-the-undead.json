@@ -1,0 +1,35 @@
+{
+  "title": "Handling the Undead",
+  "year": "2024",
+  "rated": "N/A",
+  "released": "09 Feb 2024",
+  "runtime": "97 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Thea Hvistendahl",
+  "writer": "Thea Hvistendahl, John Ajvide Lindqvist",
+  "actors": "Bjørn Sundquist, Renate Reinsve, Dennis Østby Ruud",
+  "plot": "On a hot summer day in Oslo, the dead mysteriously awaken, and three families are thrown into chaos when their deceased loved ones come back to them.",
+  "language": "Norwegian",
+  "country": "Norway, Sweden, Greece, Denmark",
+  "awards": "8 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzhhOTg4NTUtOGMyMi00OWFkLTg5MDctYTUzZGNkOGM0MWI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "5.3",
+  "imdbID": "tt2118648",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:33.691Z"
+}

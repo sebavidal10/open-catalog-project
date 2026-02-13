@@ -1,0 +1,35 @@
+{
+  "title": "Influencer",
+  "year": "2022",
+  "rated": "N/A",
+  "released": "26 May 2023",
+  "runtime": "92 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Kurtis David Harder",
+  "writer": "Tesh Guttikonda, Kurtis David Harder",
+  "actors": "Emily Tennant, Rory J Saper, Cassandra Naud",
+  "plot": "While struggling on a solo backpacking trip in Thailand, social media influencer Madison meets CW, who travels with ease and shows her a more uninhibited way of living, but CW's interest in her takes a darker turn.",
+  "language": "English",
+  "country": "United States",
+  "awards": "7 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWE4M2FiMjctZmM3Ni00NTJlLTgxOTMtMDI2ZjhjMDRiZTQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "6.2",
+  "imdbID": "tt13309170",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:35.275Z"
+}

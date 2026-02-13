@@ -1,0 +1,35 @@
+{
+  "title": "Brooklyn 45",
+  "year": "2023",
+  "rated": "N/A",
+  "released": "09 Jun 2023",
+  "runtime": "92 min",
+  "genre": "Drama, History, Horror",
+  "director": "Ted Geoghegan",
+  "writer": "Ted Geoghegan",
+  "actors": "Anne Ramsay, Ron E. Rains, Jeremy Holm",
+  "plot": "Five military veterans, best friends since childhood, gather together to support their troubled host, and the metaphoric ghosts of their past become all-too-literal.",
+  "language": "English",
+  "country": "United States, Canada",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjdjZmIyNjAtZGM4My00NmYwLWEyMGYtNmI1NzJmMDUyMTZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "5.8",
+  "imdbID": "tt16431882",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:29.009Z"
+}

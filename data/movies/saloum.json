@@ -1,0 +1,35 @@
+{
+  "title": "Saloum",
+  "year": "2021",
+  "rated": "N/A",
+  "released": "08 Sep 2022",
+  "runtime": "84 min",
+  "genre": "Action, Horror, Thriller",
+  "director": "Jean Luc Herbulot",
+  "writer": "Jean Luc Herbulot, Pamela Diop",
+  "actors": "Yann Gael, Evelyne Ily Juhen, Roger Sallah",
+  "plot": "In 2003, a trio of mercenaries escaping a coup in Guinea-Bissau take refuge in a hidden region on the Saloum river of Senegal. But something from beyond the grave awaits them there.",
+  "language": "French, Wolof",
+  "country": "Senegal, France",
+  "awards": "1 win & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGMwNDE4YzgtYzBhYS00YmI3LTk1OTUtY2M3OTIxZDRhNGVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "6.2",
+  "imdbID": "tt10756184",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:09.060Z"
+}

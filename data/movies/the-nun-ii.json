@@ -1,0 +1,35 @@
+{
+  "title": "The Nun II",
+  "year": "2023",
+  "rated": "R",
+  "released": "08 Sep 2023",
+  "runtime": "110 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Michael Chaves",
+  "writer": "Ian Goldberg, Richard Naing, Akela Cooper",
+  "actors": "Taissa Farmiga, Jonas Bloquet, Storm Reid",
+  "plot": "1956 in France, a priest is horribly murdered. An evil is spreading. Once again, Sister Irene comes face-to-face with Valak, the demon nun.",
+  "language": "English, French, Italian, Romanian",
+  "country": "United States",
+  "awards": "1 win & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmJkYWIyYWYtNWVhZi00ZTkyLWExMTktZWUzNGE1MjNlNjQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "51%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "47/100"
+    }
+  ],
+  "metascore": "47",
+  "imdbRating": "5.6",
+  "imdbID": "tt10160976",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:43.458Z"
+}

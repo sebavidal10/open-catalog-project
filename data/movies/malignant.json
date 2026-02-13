@@ -1,0 +1,35 @@
+{
+  "title": "Malignant",
+  "year": "2021",
+  "rated": "R",
+  "released": "10 Sep 2021",
+  "runtime": "111 min",
+  "genre": "Crime, Horror, Mystery",
+  "director": "James Wan",
+  "writer": "James Wan, Ingrid Bisu, Akela Cooper",
+  "actors": "Annabelle Wallis, Maddie Hasson, George Young",
+  "plot": "Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities.",
+  "language": "English",
+  "country": "United States, China",
+  "awards": "4 wins & 18 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTU3YjhmMTQtNmM5Yi00MDI2LTk0M2UtZGY5ZTNkYjIzNDE3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "6.2",
+  "imdbID": "tt3811906",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:05.789Z"
+}

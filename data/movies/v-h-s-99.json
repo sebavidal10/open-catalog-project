@@ -1,0 +1,35 @@
+{
+  "title": "V/H/S/99",
+  "year": "2022",
+  "rated": "Not Rated",
+  "released": "20 Oct 2022",
+  "runtime": "109 min",
+  "genre": "Horror",
+  "director": "Flying Lotus, Maggie Levin, Tyler MacIntyre",
+  "writer": "Maggie Levin, Johannes Roberts, Zoe Cooper",
+  "actors": "Jesse LaTourette, Keanush Tafreshi, Dashiell Derrickson",
+  "plot": "Witness a hellish vision of 1999, as social isolation, analog technology and disturbing home videos fuse into a nightmare of found footage savagery.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDUxYTg3MzgtNGRhMy00NGQ1LWJiM2UtOTQ5MWU3ZGMxMTYxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "5.2",
+  "imdbID": "tt21651560",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:28.256Z"
+}

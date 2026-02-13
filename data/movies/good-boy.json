@@ -1,0 +1,35 @@
+{
+  "title": "Good Boy",
+  "year": "2025",
+  "rated": "PG-13",
+  "released": "03 Oct 2025",
+  "runtime": "72 min",
+  "genre": "Horror, Thriller",
+  "director": "Ben Leonberg",
+  "writer": "Alex Cannon, Ben Leonberg",
+  "actors": "Indy, Shane Jensen, Arielle Friedman",
+  "plot": "A loyal dog moves to a rural family home with his owner, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.",
+  "language": "English",
+  "country": "United States",
+  "awards": "13 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODJhM2JhYjktN2JlMC00YzVjLWI3NjctMTgzYjhhZDk3ZjU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "6.1",
+  "imdbID": "tt35521922",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:25.868Z"
+}

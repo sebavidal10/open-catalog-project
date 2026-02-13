@@ -1,0 +1,35 @@
+{
+  "title": "Censor",
+  "year": "2021",
+  "rated": "N/A",
+  "released": "11 Jun 2021",
+  "runtime": "84 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Prano Bailey-Bond",
+  "writer": "Prano Bailey-Bond, Anthony Fletcher",
+  "actors": "Niamh Algar, Michael Smiley, Nicholas Burns",
+  "plot": "After viewing a strangely familiar video nasty, Enid, a film censor, sets out to solve the past mystery of her sister's disappearance, embarking on a quest that dissolves the line between fiction and reality.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "5 wins & 31 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2YwNjM3MGUtYzZmZC00MTY4LTk2YzUtZDJiMDVlMDAwZjI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "6.0",
+  "imdbID": "tt10329614",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:21:56.417Z"
+}

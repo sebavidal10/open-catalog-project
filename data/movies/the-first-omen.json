@@ -1,0 +1,35 @@
+{
+  "title": "The First Omen",
+  "year": "2024",
+  "rated": "R",
+  "released": "05 Apr 2024",
+  "runtime": "119 min",
+  "genre": "Horror",
+  "director": "Arkasha Stevenson",
+  "writer": "Tim Smith, Arkasha Stevenson, Keith Thomas",
+  "actors": "Nell Tiger Free, Ralph Ineson, Sonia Braga",
+  "plot": "A young American woman is sent to Rome to begin a life of service to the church, but encounters a darkness that causes her to question her faith and uncovers a terrifying conspiracy that hopes to bring about the birth of evil inca...",
+  "language": "English, Italian",
+  "country": "United States, Italy, Serbia, Canada",
+  "awards": "5 wins & 20 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWU0ZjM1YjYtMGZkZi00NTBiLTgxMGItMzVhZDgyZTkyY2ZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "6.5",
+  "imdbID": "tt5672290",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:50.655Z"
+}

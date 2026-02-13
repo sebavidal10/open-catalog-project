@@ -1,0 +1,31 @@
+{
+  "title": "Stream",
+  "year": "2024",
+  "rated": "Not Rated",
+  "released": "21 Aug 2024",
+  "runtime": "123 min",
+  "genre": "Horror",
+  "director": "Michael Leavy",
+  "writer": "Steven Della Salla, Jason Leavy, Michael Leavy",
+  "actors": "Jeffrey Combs, Charles Edwin Powell, Danielle Harris",
+  "plot": "The Keenan family's simple weekend getaway truly turns into a vacation to die for, as four deranged killers playing a sadistic game lock down their hotel and compete for the most creative murders of all the guests.",
+  "language": "N/A",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjk3MmFmNGItOGI1NS00NzNiLWFiMmItOWMyZjE1MmE4N2M2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt8964540",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:49.083Z"
+}

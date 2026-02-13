@@ -1,0 +1,35 @@
+{
+  "title": "Dark Harvest",
+  "year": "2023",
+  "rated": "R",
+  "released": "13 Oct 2023",
+  "runtime": "96 min",
+  "genre": "Fantasy, Horror",
+  "director": "David Slade",
+  "writer": "Michael Gilio, Norman Partridge",
+  "actors": "Casey Likes, Emyri Crutchfield, Dustin Ceithamer",
+  "plot": "In a small Midwestern town, a deadly annual ritual unfolds when the mythical nightmare, Sawtooth Jack, rises from the cornfields and challenges the town’s teenage boys in a bloody battle of survival.",
+  "language": "English",
+  "country": "United States, Canada",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTcxYmQ5OTgtMjUxZC00ODBhLWI0NTMtMTQ5YTg3MDA0MDllXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "5.5",
+  "imdbID": "tt9204328",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:25.496Z"
+}

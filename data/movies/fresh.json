@@ -1,0 +1,35 @@
+{
+  "title": "Fresh",
+  "year": "2022",
+  "rated": "R",
+  "released": "04 Mar 2022",
+  "runtime": "114 min",
+  "genre": "Comedy, Horror, Romance",
+  "director": "Mimi Cave",
+  "writer": "Lauryn Kahn",
+  "actors": "Daisy Edgar-Jones, Sebastian Stan, Jojo T. Gibbs",
+  "plot": "After quitting dating apps, a woman meets the supposedly perfect man and accepts his invitation to a romantic weekend getaway, only to find that her new paramour has been hiding some unusual appetites.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjZjOTBhNzgtMGUyMy00ZTJlLWFlMjQtYmMxNGE3YmViYWE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "6.7",
+  "imdbID": "tt13403046",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:17.664Z"
+}

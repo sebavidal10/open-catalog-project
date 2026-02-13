@@ -1,0 +1,35 @@
+{
+  "title": "The Boogeyman",
+  "year": "2023",
+  "rated": "PG-13",
+  "released": "02 Jun 2023",
+  "runtime": "98 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Rob Savage",
+  "writer": "Scott Beck, Bryan Woods, Mark Heyman",
+  "actors": "Sophie Thatcher, Chris Messina, Vivien Lyra Blair",
+  "plot": "Two sisters grieving the recent death of their mother without receiving much support from their father, a therapist who is dealing with his own grief, must face a supernatural entity that feeds on the suffering of its victims.",
+  "language": "English",
+  "country": "United States, Canada",
+  "awards": "3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzIzOThmYjAtMTEwMy00ZmEwLWIzOGMtYjZkYmI3ODk0OGQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "5.9",
+  "imdbID": "tt3427252",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:36.443Z"
+}

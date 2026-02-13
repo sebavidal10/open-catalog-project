@@ -1,0 +1,35 @@
+{
+  "title": "X",
+  "year": "2022",
+  "rated": "R",
+  "released": "18 Mar 2022",
+  "runtime": "105 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Ti West",
+  "writer": "Ti West",
+  "actors": "Mia Goth, Jenna Ortega, Brittany Snow",
+  "plot": "In 1979, a group of young filmmakers set out to make an adult film in a rural Texas farm, but when their reclusive, elderly hosts catch them in the act, the crew find themselves fighting for their lives.",
+  "language": "English, Portuguese",
+  "country": "United States, New Zealand",
+  "awards": "4 wins & 43 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODUwYTNhMTMtYWQ5Ny00YTdmLWIxOTAtNDczNzVlYzg2NDFkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "6.5",
+  "imdbID": "tt13560574",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:21:21.413Z"
+}

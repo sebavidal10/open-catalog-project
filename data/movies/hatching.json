@@ -1,0 +1,35 @@
+{
+  "title": "Hatching",
+  "year": "2022",
+  "rated": "N/A",
+  "released": "04 Mar 2022",
+  "runtime": "91 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Hanna Bergholm",
+  "writer": "Hanna Bergholm, Ilja Rautsi",
+  "actors": "Siiri Solalinna, Sophia Heikkilä, Jani Volanen",
+  "plot": "A young gymnast, who tries desperately to please her demanding mother, discovers a strange egg. She hides it and keeps it warm, but when it hatches, what emerges shocks them all.",
+  "language": "Finnish",
+  "country": "Finland, Sweden, Norway, Belgium",
+  "awards": "6 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmRkYTcyMDMtMTMxMC00MTcxLWE3NjItZGQzZjQ5OTNkNTg2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "6.2",
+  "imdbID": "tt12519030",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:06.719Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Citizen Kane",
+  "year": "1941",
+  "rated": "PG",
+  "released": "05 Sep 1941",
+  "runtime": "119 min",
+  "genre": "Drama, Mystery",
+  "director": "Orson Welles",
+  "writer": "Herman J. Mankiewicz, Orson Welles, Roger Q. Denny",
+  "actors": "Orson Welles, Joseph Cotten, Dorothy Comingore",
+  "plot": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud.'",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 16 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjk1ZDJlMmUtOWQ0Zi00MDM5LTk1OGYtODczNjFmMGYwZGVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "100/100"
+    }
+  ],
+  "metascore": "100",
+  "imdbRating": "8.2",
+  "imdbID": "tt0033467",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:25:54.811Z"
+}

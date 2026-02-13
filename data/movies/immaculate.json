@@ -1,0 +1,35 @@
+{
+  "title": "Immaculate",
+  "year": "2024",
+  "rated": "R",
+  "released": "22 Mar 2024",
+  "runtime": "89 min",
+  "genre": "Horror, Thriller",
+  "director": "Michael Mohan",
+  "writer": "Andrew Lobel",
+  "actors": "Sydney Sweeney, Álvaro Morte, Simona Tabasco",
+  "plot": "Cecilia, a woman of devout faith, is warmly welcomed to the picture-perfect Italian countryside where she is offered a new role at an illustrious convent. But it becomes clear to Cecilia that her new home harbors dark and horrifyi...",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWEzYjYyMjQtNTJjYi00ZDQ5LWE4N2MtNWY2ZTgxODNhYWM4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "metascore": "57",
+  "imdbRating": "5.8",
+  "imdbID": "tt23137390",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:05.881Z"
+}

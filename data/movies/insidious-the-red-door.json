@@ -1,0 +1,35 @@
+{
+  "title": "Insidious: The Red Door",
+  "year": "2023",
+  "rated": "PG-13",
+  "released": "07 Jul 2023",
+  "runtime": "107 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Patrick Wilson",
+  "writer": "Leigh Whannell, Scott Teems",
+  "actors": "Ty Simpkins, Patrick Wilson, Rose Byrne",
+  "plot": "The Lamberts must go deeper into The Further than ever before to put their demons to rest once and for all.",
+  "language": "English",
+  "country": "United States, Canada",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWMwMmY2MzUtZDc1Ni00MDlmLThhOWUtYjVlNmQzMGFkMzZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "39%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "45/100"
+    }
+  ],
+  "metascore": "45",
+  "imdbRating": "5.5",
+  "imdbID": "tt13405778",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:38.781Z"
+}

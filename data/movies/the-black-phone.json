@@ -1,0 +1,35 @@
+{
+  "title": "The Black Phone",
+  "year": "2021",
+  "rated": "R",
+  "released": "24 Jun 2022",
+  "runtime": "103 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Scott Derrickson",
+  "writer": "Joe Hill, Scott Derrickson, C. Robert Cargill",
+  "actors": "Mason Thames, Madeleine McGraw, Ethan Hawke",
+  "plot": "After being abducted and locked in a basement, a boy starts receiving calls on a disconnected phone from the killer's previous victims.",
+  "language": "English",
+  "country": "United States, Canada",
+  "awards": "10 wins & 18 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjFhZTcxOTktMzllMS00MzIzLWJhODEtZDU5YTFkNzRjZWQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "6.9",
+  "imdbID": "tt7144666",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:21:52.381Z"
+}

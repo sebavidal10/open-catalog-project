@@ -1,0 +1,31 @@
+{
+  "title": "Don't Move",
+  "year": "2024",
+  "rated": "R",
+  "released": "25 Oct 2024",
+  "runtime": "92 min",
+  "genre": "Horror, Thriller",
+  "director": "Brian Netto, Adam Schindler",
+  "writer": "T.J. Cimfel, David White",
+  "actors": "Kelsey Asbille, Finn Wittrock, Moray Treadwell",
+  "plot": "A seasoned killer injects a grieving woman with a paralytic agent. She must run, fight and hide before her body shuts down.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmFlMTMyMzQtNmI4NC00YTcyLTgwOGUtMzc4YjcyNDUyOGY3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "metascore": "54",
+  "imdbRating": "5.8",
+  "imdbID": "tt24807110",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:03.538Z"
+}

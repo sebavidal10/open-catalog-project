@@ -1,0 +1,35 @@
+{
+  "title": "Companion",
+  "year": "2025",
+  "rated": "R",
+  "released": "31 Jan 2025",
+  "runtime": "97 min",
+  "genre": "Sci-Fi, Thriller",
+  "director": "Drew Hancock",
+  "writer": "Drew Hancock",
+  "actors": "Sophie Thatcher, Jack Quaid, Lukas Gage",
+  "plot": "A weekend getaway with friends at a remote cabin turns into chaos after it's revealed that one of the guests is not what they seem.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 15 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjkyZTA5NzAtYWU3Zi00MWM4LTgxNzAtNDQxY2JmNjMwYjk4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "6.9",
+  "imdbID": "tt26584495",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:21:34.746Z"
+}

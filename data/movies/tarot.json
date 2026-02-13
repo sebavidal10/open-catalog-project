@@ -1,0 +1,35 @@
+{
+  "title": "Tarot",
+  "year": "2024",
+  "rated": "PG-13",
+  "released": "03 May 2024",
+  "runtime": "92 min",
+  "genre": "Horror",
+  "director": "Spenser Cohen, Anna Halberg",
+  "writer": "Spenser Cohen, Anna Halberg, Nicholas Adams",
+  "actors": "Harriet Slater, Adain Bradley, Jacob Batalon",
+  "plot": "When a group of friends recklessly violates the sacred rule of Tarot readings, they unknowingly unleash an unspeakable evil trapped within the cursed cards. One by one, they come face to face with fate and end up in a race against...",
+  "language": "English, Spanish",
+  "country": "Serbia, United States",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjY3NTkxMjQtZWNjNy00NGU2LTlhOTMtMmRhZGEwNzRmMDcyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "17%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "36/100"
+    }
+  ],
+  "metascore": "36",
+  "imdbRating": "4.8",
+  "imdbID": "tt14088510",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:08.218Z"
+}

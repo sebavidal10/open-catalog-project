@@ -1,0 +1,35 @@
+{
+  "title": "V/H/S/85",
+  "year": "2023",
+  "rated": "TV-MA",
+  "released": "06 Oct 2023",
+  "runtime": "110 min",
+  "genre": "Horror, Thriller",
+  "director": "David Bruckner, Scott Derrickson, Natasha Kermani",
+  "writer": "David Bruckner, C. Robert Cargill, Zoe Cooper",
+  "actors": "Alex Galick, Anna Sundberg, Chelsey Grant",
+  "plot": "Unveiled through a made-for-TV documentary, five tales of found footage horror emerge to take viewers on a terrifying journey into the grim underbelly of the 1980s.",
+  "language": "English, Spanish",
+  "country": "United States, Mexico",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGZhOTljNmQtNDVjOC00YTFiLWI4Y2ItMGM2ZWFkM2IyNWFmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "metascore": "53",
+  "imdbRating": "5.6",
+  "imdbID": "tt22640398",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:29.428Z"
+}

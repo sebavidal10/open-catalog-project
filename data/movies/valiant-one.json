@@ -1,0 +1,31 @@
+{
+  "title": "Valiant One",
+  "year": "2025",
+  "rated": "R",
+  "released": "31 Jan 2025",
+  "runtime": "86 min",
+  "genre": "Thriller",
+  "director": "Steve Barnett",
+  "writer": "Eric Tipton, Steve Barnett, Daniel Myrick",
+  "actors": "Chase Stokes, Lana Condor, Desmin Borges",
+  "plot": "With tensions between North and South Korea, a US helicopter crashes on the North Korean side. Now the survivors must work together to protect a civilian tech specialist and find their way out without the help of US military support.",
+  "language": "English, Korean",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTQzMGU4NjAtNjVmMy00MDIwLWI2YTYtYjY3MTM2YzExMzJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "29%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.0",
+  "imdbID": "tt21442114",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:38.477Z"
+}

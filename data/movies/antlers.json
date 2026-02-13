@@ -1,0 +1,35 @@
+{
+  "title": "Antlers",
+  "year": "2021",
+  "rated": "R",
+  "released": "29 Oct 2021",
+  "runtime": "99 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Scott Cooper",
+  "writer": "Henry Chaisson, Nick Antosca, Scott Cooper",
+  "actors": "Keri Russell, Jesse Plemons, Jeremy T. Thomas",
+  "plot": "In an isolated Oregon town, a middle-school teacher and her sheriff brother become embroiled with her enigmatic student, whose dark secrets lead to terrifying encounters with an ancestral creature.",
+  "language": "English, Ojibwa",
+  "country": "Mexico, United States",
+  "awards": "8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU0YzA0ZWItOTYxNC00ZjM1LTgwN2ItNGI2MTEwNjUzODBkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "59%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "metascore": "57",
+  "imdbRating": "5.9",
+  "imdbID": "tt7740510",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:11.804Z"
+}

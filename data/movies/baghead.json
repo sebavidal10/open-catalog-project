@@ -1,0 +1,35 @@
+{
+  "title": "Baghead",
+  "year": "2023",
+  "rated": "N/A",
+  "released": "05 Apr 2024",
+  "runtime": "94 min",
+  "genre": "Horror, Mystery",
+  "director": "Alberto Corredor",
+  "writer": "Christina Pamies, Bryce McGuire, Lorcan Reilly",
+  "actors": "Freya Allan, Jeremy Irvine, Ruby Barker",
+  "plot": "A young woman inherits a run-down pub and discovers a dark secret within its basement - Baghead - a shape-shifting creature that will let you speak to lost loved ones, but not without consequence.",
+  "language": "English",
+  "country": "Germany, United Kingdom, France, United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmIyMzk0NDktY2IwNi00MTkwLTk1ZDktZDFjMmMwOTMzNjg2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "31%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "5.4",
+  "imdbID": "tt14030816",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:32.521Z"
+}

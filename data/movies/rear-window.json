@@ -1,0 +1,35 @@
+{
+  "title": "Rear Window",
+  "year": "1954",
+  "rated": "PG",
+  "released": "01 Sep 1954",
+  "runtime": "112 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "Alfred Hitchcock",
+  "writer": "John Michael Hayes, Cornell Woolrich",
+  "actors": "James Stewart, Grace Kelly, Wendell Corey",
+  "plot": "A bored photographer recovering from a broken leg passes the time by watching his neighbors and begins to suspect one of them of murder.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 7 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODZhOWI1ODgtMzdiOS00YjNkLTgwOGUtYmIyZDg5ZmQwMzQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "100/100"
+    }
+  ],
+  "metascore": "100",
+  "imdbRating": "8.5",
+  "imdbID": "tt0047396",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:25:41.932Z"
+}

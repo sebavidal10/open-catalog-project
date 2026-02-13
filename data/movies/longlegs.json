@@ -1,0 +1,35 @@
+{
+  "title": "Longlegs",
+  "year": "2024",
+  "rated": "R",
+  "released": "12 Jul 2024",
+  "runtime": "101 min",
+  "genre": "Crime, Horror, Mystery",
+  "director": "Osgood Perkins",
+  "writer": "Osgood Perkins",
+  "actors": "Maika Monroe, Nicolas Cage, Blair Underwood",
+  "plot": "In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree.",
+  "language": "English",
+  "country": "Canada, United States",
+  "awards": "10 wins & 31 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmJkNGNiNjgtMzFlYy00ZDI5LWI2YzktZGVjYjI5MjQyMGU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "6.6",
+  "imdbID": "tt23468450",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:21:31.227Z"
+}

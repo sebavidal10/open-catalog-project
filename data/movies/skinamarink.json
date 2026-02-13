@@ -1,0 +1,35 @@
+{
+  "title": "Skinamarink",
+  "year": "2022",
+  "rated": "Not Rated",
+  "released": "02 Feb 2023",
+  "runtime": "100 min",
+  "genre": "Horror, Mystery",
+  "director": "Kyle Edward Ball",
+  "writer": "Kyle Edward Ball",
+  "actors": "Lucas Paul, Dali Rose Tetreault, Ross Paul",
+  "plot": "Two children wake up in the middle of the night to find their father is missing, and all the windows and doors in their home have vanished.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTY5OWUwZTUtMzUwZi00MmUwLThiMGItNWJkODE2MjY4MTkyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "4.7",
+  "imdbID": "tt21307994",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:31.766Z"
+}

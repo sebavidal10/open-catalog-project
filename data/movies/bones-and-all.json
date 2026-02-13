@@ -1,0 +1,35 @@
+{
+  "title": "Bones and All",
+  "year": "2022",
+  "rated": "R",
+  "released": "23 Nov 2022",
+  "runtime": "131 min",
+  "genre": "Drama, Horror, Romance",
+  "director": "Luca Guadagnino",
+  "writer": "David Kajganich, Camille DeAngelis",
+  "actors": "Timothée Chalamet, Taylor Russell, Mark Rylance",
+  "plot": "A young woman embarks on a 1000 mile odyssey through America where she meets a disenfranchised drifter. But all roads lead back to their terrifying pasts and to a final stand that will determine whether love can survive their othe...",
+  "language": "English",
+  "country": "Italy, United States, United Kingdom",
+  "awards": "4 wins & 75 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjUzMWU0ZTEtMjlhYy00YWEwLTlhOTktNzNkMTlhNGNiYmRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "6.8",
+  "imdbID": "tt10168670",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:15.324Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Psycho",
+  "year": "1960",
+  "rated": "R",
+  "released": "08 Sep 1960",
+  "runtime": "109 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Alfred Hitchcock",
+  "writer": "Joseph Stefano, Robert Bloch",
+  "actors": "Anthony Perkins, Janet Leigh, Vera Miles",
+  "plot": "A secretary on the run for embezzlement takes refuge at a secluded California motel owned by a repressed man and his overbearing mother.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 8 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjZhMzFiZjItODA3ZC00MmRhLWIzMGYtMmVjOWUwYTA3MTRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "97/100"
+    }
+  ],
+  "metascore": "97",
+  "imdbRating": "8.5",
+  "imdbID": "tt0054215",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:25:31.378Z"
+}

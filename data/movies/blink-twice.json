@@ -1,0 +1,35 @@
+{
+  "title": "Blink Twice",
+  "year": "2024",
+  "rated": "R",
+  "released": "23 Aug 2024",
+  "runtime": "102 min",
+  "genre": "Mystery, Thriller",
+  "director": "Zoë Kravitz",
+  "writer": "Zoë Kravitz, E.T. Feigenbaum",
+  "actors": "Naomi Ackie, Channing Tatum, Alia Shawkat",
+  "plot": "When tech billionaire Slater King meets cocktail waitress Frida at his fundraising gala, he invites her to join him and his friends on a dream vacation on his private island. As strange things start to happen, Frida questions her ...",
+  "language": "English",
+  "country": "United States, Mexico",
+  "awards": "5 wins & 22 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzczYmQ0NTUtMTM5OS00Mzc4LWExZDYtOWE4YjRkOWJkYWRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "6.5",
+  "imdbID": "tt14858658",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:41.885Z"
+}

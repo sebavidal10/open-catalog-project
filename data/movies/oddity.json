@@ -1,0 +1,35 @@
+{
+  "title": "Oddity",
+  "year": "2024",
+  "rated": "R",
+  "released": "19 Jul 2024",
+  "runtime": "98 min",
+  "genre": "Horror, Thriller",
+  "director": "Damian Mc Carthy",
+  "writer": "Damian Mc Carthy",
+  "actors": "Carolyn Bracken, Gwilym Lee, Steve Wall",
+  "plot": "A psychic medium attempts to uncover the truth behind her sister's murder at the site of the crime.",
+  "language": "English",
+  "country": "Ireland",
+  "awards": "8 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWU5Yjc0N2MtZjhlYS00MTM3LWI5YWUtZDg5MzcxZjEyZWJmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "6.7",
+  "imdbID": "tt26470109",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:43.058Z"
+}

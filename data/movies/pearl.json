@@ -1,0 +1,35 @@
+{
+  "title": "Pearl",
+  "year": "2022",
+  "rated": "R",
+  "released": "16 Sep 2022",
+  "runtime": "103 min",
+  "genre": "Drama, Horror, Thriller",
+  "director": "Ti West",
+  "writer": "Ti West, Mia Goth",
+  "actors": "Mia Goth, David Corenswet, Tandi Wright",
+  "plot": "In 1918, a young woman on the brink of madness pursues stardom in a desperate attempt to escape the drudgery, isolation, and lovelessness of life on her parents' farm.",
+  "language": "English, German",
+  "country": "New Zealand, United States",
+  "awards": "19 wins & 63 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzk0Y2RlZjItZDUzYi00Y2JhLTk5MzMtNjgzYWFmZmUxN2FmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.0",
+  "imdbID": "tt18925334",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:21:20.218Z"
+}

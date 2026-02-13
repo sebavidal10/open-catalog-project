@@ -1,0 +1,31 @@
+{
+  "title": "The Last Voyage of the Demeter",
+  "year": "2023",
+  "rated": "R",
+  "released": "11 Aug 2023",
+  "runtime": "118 min",
+  "genre": "Fantasy, Horror, Thriller",
+  "director": "André Øvredal",
+  "writer": "Bram Stoker, Bragi F. Schut, Zak Olkewicz",
+  "actors": "Corey Hawkins, Aisling Franciosi, Liam Cunningham",
+  "plot": "A crew sailing from Varna (Bulgaria) by the Black Sea to England find that they are carrying very dangerous cargo.",
+  "language": "English, Romany, Russian",
+  "country": "United Kingdom, Malta, India, Germany, Canada, United States",
+  "awards": "2 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmRkMTFjNWMtNTVhNS00Y2EwLWJjYTAtMDRiMjA2MDJhOGI1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "6.1",
+  "imdbID": "tt1001520",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:31.360Z"
+}

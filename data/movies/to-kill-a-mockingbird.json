@@ -1,0 +1,35 @@
+{
+  "title": "To Kill a Mockingbird",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "16 Mar 1963",
+  "runtime": "129 min",
+  "genre": "Crime, Drama",
+  "director": "Robert Mulligan",
+  "writer": "Harper Lee, Horton Foote",
+  "actors": "Gregory Peck, John Megna, Frank Overton",
+  "plot": "A widowed lawyer in Depression-era Alabama defends a black man against a false rape charge while teaching his young children about the sad reality of prejudice.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 14 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTlkYWU4MGEtZmQyYi00OWEzLTgzY2EtYzVjOTEzYzAyNTk1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "8.3",
+  "imdbID": "tt0056592",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:26:19.570Z"
+}

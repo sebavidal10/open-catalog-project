@@ -1,0 +1,35 @@
+{
+  "title": "Amélie",
+  "year": "2001",
+  "rated": "R",
+  "released": "08 Feb 2002",
+  "runtime": "122 min",
+  "genre": "Comedy, Romance",
+  "director": "Jean-Pierre Jeunet",
+  "writer": "Guillaume Laurant, Jean-Pierre Jeunet",
+  "actors": "Audrey Tautou, Mathieu Kassovitz, Rufus",
+  "plot": "Despite being caught in her imaginative world, young waitress Amelie decides to help people find happiness. Her quest to spread joy leads her on a journey during which she finds true love.",
+  "language": "French, Russian, English",
+  "country": "France, Germany",
+  "awards": "Nominated for 5 Oscars. 60 wins & 74 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTNmYzY0MWQtZGZmNy00Y2Y4LWFmMDQtMTZjYTdiYzEwZGQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "8.3",
+  "imdbID": "tt0211915",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:26:01.830Z"
+}

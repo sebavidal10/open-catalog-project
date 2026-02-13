@@ -1,0 +1,35 @@
+{
+  "title": "Taxi Driver",
+  "year": "1976",
+  "rated": "R",
+  "released": "09 Feb 1976",
+  "runtime": "114 min",
+  "genre": "Crime, Drama",
+  "director": "Martin Scorsese",
+  "writer": "Paul Schrader",
+  "actors": "Robert De Niro, Jodie Foster, Cybill Shepherd",
+  "plot": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 22 wins & 21 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDNhMGYwM2UtMTdlZS00MGQ1LWI2YzAtODY5YWI1MjYyNzRmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "8.2",
+  "imdbID": "tt0075314",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:26:05.344Z"
+}

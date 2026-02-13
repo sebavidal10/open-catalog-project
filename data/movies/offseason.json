@@ -1,0 +1,35 @@
+{
+  "title": "Offseason",
+  "year": "2021",
+  "rated": "N/A",
+  "released": "11 Mar 2022",
+  "runtime": "83 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Mickey Keating",
+  "writer": "Mickey Keating",
+  "actors": "Jocelin Donahue, Joe Swanberg, Richard Brake",
+  "plot": "After receiving a mysterious letter, a woman travels to a desolate island town and soon becomes trapped in a nightmare.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmY2MDgzYjUtOGI3ZC00NGI4LTkwZjAtNTJlYWM3OWE3MjNlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "66%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "4.9",
+  "imdbID": "tt11454320",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:59.639Z"
+}

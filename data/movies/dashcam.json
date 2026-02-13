@@ -1,0 +1,35 @@
+{
+  "title": "Dashcam",
+  "year": "2021",
+  "rated": "R",
+  "released": "03 Jun 2022",
+  "runtime": "80 min",
+  "genre": "Horror",
+  "director": "Rob Savage",
+  "writer": "Gemma Hurley, Rob Savage, Jed Shepherd",
+  "actors": "Annie Hardy, Amar Chadha-Patel, Angela Enahoro",
+  "plot": "Two friends embark on a horror-fueled road trip and livestream the most terrifying night of their lives.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2EyNmRjYzAtNGYzNi00ZmRiLThhY2UtNjMwYmY1NjJhYjQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "47%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "48/100"
+    }
+  ],
+  "metascore": "48",
+  "imdbRating": "4.5",
+  "imdbID": "tt15174116",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:00.810Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Knock at the Cabin",
+  "year": "2023",
+  "rated": "R",
+  "released": "03 Feb 2023",
+  "runtime": "100 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "M. Night Shyamalan",
+  "writer": "Paul Tremblay, M. Night Shyamalan, Steve Desmond",
+  "actors": "Dave Bautista, Jonathan Groff, Ben Aldridge",
+  "plot": "While vacationing, a girl and her parents are taken hostage by armed strangers who demand that the family make a choice to avert the apocalypse.",
+  "language": "English",
+  "country": "United States, China, Japan",
+  "awards": "12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzU1ODIzYjAtNjUzNi00YmNjLWI5ZDAtNDgzOWY3MDU1OThlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "6.1",
+  "imdbID": "tt15679400",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:45.802Z"
+}

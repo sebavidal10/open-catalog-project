@@ -1,0 +1,35 @@
+{
+  "title": "Keeper",
+  "year": "2025",
+  "rated": "R",
+  "released": "14 Nov 2025",
+  "runtime": "99 min",
+  "genre": "Horror",
+  "director": "Osgood Perkins",
+  "writer": "Nick Lepard",
+  "actors": "Tatiana Maslany, Rossif Sutherland, Birkett Turton",
+  "plot": "A romantic anniversary trip to a secluded cabin turns sinister when a dark presence reveals itself, forcing a couple to confront the property's haunting past.",
+  "language": "English",
+  "country": "Canada, United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWEwYmY5NGYtOWFkNy00YTAxLWJmNzMtZWM0M2Y1NjcxMDMyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "53%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "metascore": "54",
+  "imdbRating": "5.5",
+  "imdbID": "tt32332404",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:18.979Z"
+}

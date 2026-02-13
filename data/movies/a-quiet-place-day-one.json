@@ -1,0 +1,35 @@
+{
+  "title": "A Quiet Place: Day One",
+  "year": "2024",
+  "rated": "PG-13",
+  "released": "28 Jun 2024",
+  "runtime": "99 min",
+  "genre": "Drama, Horror, Sci-Fi",
+  "director": "Michael Sarnoski",
+  "writer": "Michael Sarnoski, John Krasinski, Bryan Woods",
+  "actors": "Lupita Nyong'o, Joseph Quinn, Alex Wolff",
+  "plot": "A young woman named Sam finds herself trapped in New York City during the early stages of an invasion by alien creatures with ultra-sensitive hearing.",
+  "language": "English, American Sign ",
+  "country": "United States",
+  "awards": "5 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDdjZTljZWMtMDIwNi00MTA5LTkxZmItNmY0NDA3ZDM0N2M2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "6.3",
+  "imdbID": "tt13433802",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:14.149Z"
+}

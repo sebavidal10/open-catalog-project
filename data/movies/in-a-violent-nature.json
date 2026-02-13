@@ -1,0 +1,35 @@
+{
+  "title": "In a Violent Nature",
+  "year": "2024",
+  "rated": "Not Rated",
+  "released": "28 Jun 2024",
+  "runtime": "94 min",
+  "genre": "Drama, Horror, Thriller",
+  "director": "Chris Nash",
+  "writer": "Chris Nash",
+  "actors": "Ry Barrett, Andrea Pavlovic, Cameron Love",
+  "plot": "When a locket is removed from a collapsed fire tower in the woods that entombs the rotting corpse of Johnny, a vengeful spirit spurred on by a horrific 70-year old crime, his body is resurrected and becomes hellbent on retrieving it.",
+  "language": "English",
+  "country": "Canada",
+  "awards": "1 win & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDA4M2MyM2MtNmNkMy00NmJkLTg0ZDctOWY5ZGU1ZjUxMjcxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "5.6",
+  "imdbID": "tt30321146",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:52.994Z"
+}

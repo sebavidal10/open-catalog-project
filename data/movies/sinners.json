@@ -1,0 +1,35 @@
+{
+  "title": "Sinners",
+  "year": "2025",
+  "rated": "R",
+  "released": "18 Apr 2025",
+  "runtime": "137 min",
+  "genre": "Action, Drama, Horror",
+  "director": "Ryan Coogler",
+  "writer": "Ryan Coogler",
+  "actors": "Michael B. Jordan, Jack O'Connell, Hailee Steinfeld",
+  "plot": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+  "language": "English, Chinese",
+  "country": "United States, Australia, Canada",
+  "awards": "144 wins & 320 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.5",
+  "imdbID": "tt31193180",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:21:32.409Z"
+}

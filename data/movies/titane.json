@@ -1,0 +1,35 @@
+{
+  "title": "Titane",
+  "year": "2021",
+  "rated": "R",
+  "released": "01 Oct 2021",
+  "runtime": "108 min",
+  "genre": "Drama, Horror, Sci-Fi",
+  "director": "Julia Ducournau",
+  "writer": "Julia Ducournau, Jacques Akchoti, Simonetta Greggio",
+  "actors": "Vincent Lindon, Agathe Rousselle, Garance Marillier",
+  "plot": "Following a series of unexplained crimes, a father is reunited with the son who has been missing for ten years.",
+  "language": "French",
+  "country": "France, Belgium",
+  "awards": "Nominated for 1 BAFTA Award29 wins & 131 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2ZhZjE2MDEtY2EwNS00MzA5LTkxZTctOGQ5MDE0NTQ2YzdmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "6.5",
+  "imdbID": "tt10944760",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:21:57.587Z"
+}

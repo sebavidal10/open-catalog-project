@@ -1,0 +1,35 @@
+{
+  "title": "The Devil's Rejects",
+  "year": "2005",
+  "rated": "R",
+  "released": "22 Jul 2005",
+  "runtime": "107 min",
+  "genre": "Crime, Drama, Horror",
+  "director": "Rob Zombie",
+  "writer": "Rob Zombie",
+  "actors": "Sid Haig, Sheri Moon Zombie, Bill Moseley",
+  "plot": "The murderous, backwoods Firefly family take to the road to escape the vengeful Sheriff Wydell, who is not afraid of being as ruthless as his target.",
+  "language": "English, Spanish",
+  "country": "Germany, United States",
+  "awards": "10 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzg0MmNkM2MtZDc1Ni00OTVhLTg1NjgtY2UxYjM1Y2JjMDgzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "54%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "metascore": "54",
+  "imdbRating": "6.7",
+  "imdbID": "tt0395584",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:51.429Z"
+}

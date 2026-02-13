@@ -1,0 +1,35 @@
+{
+  "title": "The Monkey",
+  "year": "2025",
+  "rated": "R",
+  "released": "21 Feb 2025",
+  "runtime": "98 min",
+  "genre": "Horror",
+  "director": "Osgood Perkins",
+  "writer": "Osgood Perkins, Stephen King",
+  "actors": "Theo James, Tatiana Maslany, Christian Convery",
+  "plot": "When twin brothers Bill and Hal find their father's old monkey toy in the attic, a series of gruesome deaths start. The siblings decide to throw the toy away and move on with their lives, growing apart over the years.",
+  "language": "English",
+  "country": "United States, United Kingdom, Canada",
+  "awards": "4 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzZhMTc5MWUtOTE2MS00MjUwLTljYWEtYTk1ZmVjNzhmMzYzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "5.9",
+  "imdbID": "tt27714946",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:12.931Z"
+}

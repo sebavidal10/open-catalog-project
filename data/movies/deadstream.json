@@ -1,0 +1,35 @@
+{
+  "title": "Deadstream",
+  "year": "2022",
+  "rated": "Not Rated",
+  "released": "06 Oct 2022",
+  "runtime": "87 min",
+  "genre": "Comedy, Horror",
+  "director": "Joseph Winter, Vanessa Winter",
+  "writer": "Vanessa Winter, Joseph Winter",
+  "actors": "Joseph Winter, Melanie Stone, Jason K. Wixom",
+  "plot": "A disgraced internet personality attempts to win back his followers by livestreaming one night alone in a haunted house. But when he accidentally upsets a vengeful spirit, his big comeback event becomes a real-time fight for his l...",
+  "language": "English",
+  "country": "United States, United Kingdom",
+  "awards": "2 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2UzMzc3ZmYtNTIyMi00OTc2LTkzZTYtNWQ5NjIyMDljMTFhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "6.4",
+  "imdbID": "tt12788488",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:04.321Z"
+}

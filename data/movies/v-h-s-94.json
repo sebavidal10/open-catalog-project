@@ -1,0 +1,35 @@
+{
+  "title": "V/H/S/94",
+  "year": "2021",
+  "rated": "R",
+  "released": "06 Oct 2021",
+  "runtime": "103 min",
+  "genre": "Fantasy, Horror, Mystery",
+  "director": "Simon Barrett, Steven Kostanski, Chloe Okuno",
+  "writer": "Jennifer Reeder, Chloe Okuno, Simon Barrett",
+  "actors": "Anna Hopkins, Christian Potenza, Brian Paul",
+  "plot": "A police S.W.A.T. team investigate a mysterious VHS tape and discover a sinister cult that has pre-recorded material which uncovers a nightmarish conspiracy.",
+  "language": "English",
+  "country": "United States, Canada",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzcyMDhiMzItNzcwYy00OTUyLTg2MjQtZDNiOWQwZjg4MjlmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "5.6",
+  "imdbID": "tt14867006",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:27.086Z"
+}

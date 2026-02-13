@@ -1,0 +1,31 @@
+{
+  "title": "Soft & Quiet",
+  "year": "2022",
+  "rated": "R",
+  "released": "04 Nov 2022",
+  "runtime": "92 min",
+  "genre": "Horror, Thriller",
+  "director": "Beth de Araújo",
+  "writer": "Beth de Araújo",
+  "actors": "Stefanie Estes, Olivia Luccardi, Dana Millican",
+  "plot": "Playing out in real time, an elementary school teacher organizes a mixer of like-minded women, when she encounters a woman from her past, leading to a volatile chain of events.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWI3ZTVmOGItNzcwMS00N2Y4LTg3N2UtMDViN2YyM2E0MGUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "6.2",
+  "imdbID": "tt14557188",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:20.004Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Thanksgiving",
+  "year": "2023",
+  "rated": "R",
+  "released": "17 Nov 2023",
+  "runtime": "106 min",
+  "genre": "Comedy, Horror, Mystery",
+  "director": "Eli Roth",
+  "writer": "Jeff Rendell, Eli Roth",
+  "actors": "Patrick Dempsey, Ty Olsson, Gina Gershon",
+  "plot": "After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts, the birthplace of the infamous holiday.",
+  "language": "English",
+  "country": "United States, Canada, Australia",
+  "awards": "1 win & 15 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzhiZTkyM2UtNjU2MC00MjcxLWJhZGYtODQ0MDViN2UxMzAwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "6.2",
+  "imdbID": "tt1448754",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:42.288Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "In the Earth",
+  "year": "2021",
+  "rated": "R",
+  "released": "16 Apr 2021",
+  "runtime": "107 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Ben Wheatley",
+  "writer": "Ben Wheatley",
+  "actors": "Joel Fry, Reece Shearsmith, Hayley Squires",
+  "plot": "As the world searches for a cure to a disastrous virus, a scientist and park scout venture deep in the forest for a routine equipment run.",
+  "language": "English, Latin",
+  "country": "United Kingdom, United States",
+  "awards": "1 win & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMTIzMjktZjBjYS00MmNiLWExNzAtOTYyMTYyMTA2YzM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "5.1",
+  "imdbID": "tt13429362",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:02.270Z"
+}

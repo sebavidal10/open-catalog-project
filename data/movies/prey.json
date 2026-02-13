@@ -1,0 +1,35 @@
+{
+  "title": "Prey",
+  "year": "2022",
+  "rated": "R",
+  "released": "05 Aug 2022",
+  "runtime": "100 min",
+  "genre": "Action, Adventure, Horror",
+  "director": "Dan Trachtenberg",
+  "writer": "Patrick Aison, Dan Trachtenberg, Jim Thomas",
+  "actors": "Amber Midthunder, Dakota Beavers, Dane DiLiegro",
+  "plot": "Naru, a skilled warrior of the Comanche Nation, fights to protect her tribe against one of the first highly-evolved Predators to land on Earth.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Won 1 Primetime Emmy. 12 wins & 44 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWVjYTBlYjktODhjZS00OTUyLTg4MzctODI4MTkyNDE5YzY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.1",
+  "imdbID": "tt11866324",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:23.577Z"
+}

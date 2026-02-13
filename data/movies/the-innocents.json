@@ -1,0 +1,35 @@
+{
+  "title": "The Innocents",
+  "year": "2021",
+  "rated": "Not Rated",
+  "released": "03 Sep 2021",
+  "runtime": "117 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Eskil Vogt",
+  "writer": "Eskil Vogt",
+  "actors": "Rakel Lenora Petersen Fløttum, Alva Brynsmo Ramstad, Sam Ashraf",
+  "plot": "During the bright Nordic summer, a group of children reveal their dark and mysterious powers when the adults aren't looking. In this original and gripping supernatural thriller, playtime takes a dangerous turn.",
+  "language": "Norwegian",
+  "country": "Norway, Sweden, Denmark, Finland, France, United Kingdom",
+  "awards": "16 wins & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmFiM2JlMzItMWYwMy00NzJiLTk4ZmMtMWU4NTMzMjNlMzhiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.0",
+  "imdbID": "tt4028464",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:21:53.905Z"
+}

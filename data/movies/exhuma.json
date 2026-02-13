@@ -1,0 +1,35 @@
+{
+  "title": "Exhuma",
+  "year": "2024",
+  "rated": "N/A",
+  "released": "22 Feb 2024",
+  "runtime": "134 min",
+  "genre": "Horror, Mystery",
+  "director": "Jang Jae-hyun",
+  "writer": "Jang Jae-hyun",
+  "actors": "Choi Min-sik, Kim Go-eun, Yoo Hae-jin",
+  "plot": "The process of excavating an ominous grave unleashes dreadful consequences buried underneath.",
+  "language": "Korean, English, Japanese",
+  "country": "South Korea",
+  "awards": "11 wins & 24 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTA1OTY1NTYtNDEzZS00OTgyLWI1NWEtNDI5NjBhOTIwNzIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "6.9",
+  "imdbID": "tt27802490",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:45.564Z"
+}

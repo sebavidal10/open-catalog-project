@@ -1,0 +1,35 @@
+{
+  "title": "Infested",
+  "year": "2023",
+  "rated": "Not Rated",
+  "released": "26 Apr 2024",
+  "runtime": "106 min",
+  "genre": "Horror",
+  "director": "Sébastien Vanicek",
+  "writer": "Sébastien Vanicek, Florent Bernard",
+  "actors": "Théo Christine, Sofia Lesaffre, Jérôme Niel",
+  "plot": "Residents of a rundown French apartment building battle against an army of deadly, rapidly reproducing spiders.",
+  "language": "French, Arabic",
+  "country": "France, United States, Germany",
+  "awards": "4 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGMxYWM0NTYtNTYwZC00NjQ2LWI2NGMtYWQyZThmMDcwZmRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "6.2",
+  "imdbID": "tt26744289",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:44.396Z"
+}

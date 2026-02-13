@@ -1,0 +1,27 @@
+{
+  "title": "Dust Bunny",
+  "year": "2025",
+  "rated": "R",
+  "released": "12 Dec 2025",
+  "runtime": "106 min",
+  "genre": "Action, Drama, Horror",
+  "director": "Bryan Fuller",
+  "writer": "Bryan Fuller",
+  "actors": "Mads Mikkelsen, Sophie Sloan, Sheila Atim",
+  "plot": "An eight-year-old girl asks her scheming neighbor for help in killing the monster under her bed that she thinks ate her family.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTE5NzE5ZDYtYzAyZi00YzU2LWE4ZWEtYjM5MDdjZTdjYjk0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "N/A",
+  "imdbID": "tt23172090",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:21.682Z"
+}

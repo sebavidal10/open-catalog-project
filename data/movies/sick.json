@@ -1,0 +1,35 @@
+{
+  "title": "Sick",
+  "year": "2022",
+  "rated": "R",
+  "released": "13 Jan 2023",
+  "runtime": "83 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "John Hyams",
+  "writer": "Kevin Williamson, Katelyn Crabb",
+  "actors": "Gideon Adlon, Bethlehem Million, Dylan Sprayberry",
+  "plot": "Due to the pandemic, Parker and her best friend decide to quarantine at the family lake house alone - or so they think.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjY2MjRiOTktOTRlNy00YTFmLTlhZDEtY2Q0MDU5MDllMTJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "6.0",
+  "imdbID": "tt14642626",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:34.105Z"
+}

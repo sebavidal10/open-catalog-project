@@ -1,0 +1,35 @@
+{
+  "title": "Sissy",
+  "year": "2022",
+  "rated": "Not Rated",
+  "released": "29 Sep 2022",
+  "runtime": "102 min",
+  "genre": "Comedy, Drama, Horror",
+  "director": "Hannah Barlow, Kane Senes",
+  "writer": "Kane Senes, Hannah Barlow",
+  "actors": "Aisha Dee, Hannah Barlow, Emily De Margheriti",
+  "plot": "Teen best friends Cecilia and Emma run into each other after a decade. Cecilia is invited to Emma's bachelorette weekend, where she gets stuck in a remote cabin with her high school bully and gets a taste for revenge.",
+  "language": "English",
+  "country": "Australia",
+  "awards": "4 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI1NmE1NjctNTdkNS00M2RkLTkxZGYtYzFlYzUyZGI2ZTI5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "6.1",
+  "imdbID": "tt9602472",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:19.641Z"
+}

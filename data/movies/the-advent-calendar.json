@@ -1,0 +1,31 @@
+{
+  "title": "The Advent Calendar",
+  "year": "2021",
+  "rated": "N/A",
+  "released": "02 Dec 2021",
+  "runtime": "104 min",
+  "genre": "Horror, Thriller",
+  "director": "Patrick Ridremont",
+  "writer": "Patrick Ridremont",
+  "actors": "Eugénie Derouand, Honorine Magnier, Clément Olivieri",
+  "plot": "Eva is a paraplegic. On her birthday, her friend Sophie gives her a strange Advent calendar. It's not the traditional treats you find when you open each drawer, but quirky gifts that are scary and get bloodier.",
+  "language": "French, German",
+  "country": "Belgium, France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2ZhMjU4OTEtZGY1ZC00NzYyLTg1NzUtZTEwNDU4ZWM3YjgzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "6.3",
+  "imdbID": "tt12496706",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:52.590Z"
+}

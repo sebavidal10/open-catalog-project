@@ -1,0 +1,35 @@
+{
+  "title": "The Gorge",
+  "year": "2025",
+  "rated": "PG-13",
+  "released": "14 Feb 2025",
+  "runtime": "127 min",
+  "genre": "Action, Adventure, Horror",
+  "director": "Scott Derrickson",
+  "writer": "Zach Dean",
+  "actors": "Miles Teller, Anya Taylor-Joy, Sigourney Weaver",
+  "plot": "Two operatives are appointed to posts in guard towers on opposite sides of a classified gorge.",
+  "language": "English, Lithuanian",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 2 Primetime Emmys. 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTQ5Y2QyYTktYmFmZi00NWJlLWE0MzgtYTA4M2I0ZjQwZjcxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "62%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "metascore": "57",
+  "imdbRating": "6.7",
+  "imdbID": "tt13654226",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:14.104Z"
+}

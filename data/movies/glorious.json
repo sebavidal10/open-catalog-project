@@ -1,0 +1,35 @@
+{
+  "title": "Glorious",
+  "year": "2022",
+  "rated": "N/A",
+  "released": "18 Aug 2022",
+  "runtime": "79 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Rebekah McKendry",
+  "writer": "Todd Rigney, Joshua Hull, David Ian McKendry",
+  "actors": "Ryan Kwanten, J.K. Simmons, Sylvia Grace Crim",
+  "plot": "After a breakup, Wes ends up at a remote rest stop. He finds himself locked inside the bathroom with a mysterious figure speaking from an adjacent stall. Soon Wes realizes he is involved in a situation more terrible than he could ...",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTAzMDFmNjgtNjVhOS00M2FhLTk1YWQtMzU3OTlkODk1YThmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "5.6",
+  "imdbID": "tt12724306",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:03.148Z"
+}

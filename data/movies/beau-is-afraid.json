@@ -1,0 +1,35 @@
+{
+  "title": "Beau Is Afraid",
+  "year": "2023",
+  "rated": "R",
+  "released": "21 Apr 2023",
+  "runtime": "179 min",
+  "genre": "Comedy, Drama, Horror",
+  "director": "Ari Aster",
+  "writer": "Ari Aster",
+  "actors": "Joaquin Phoenix, Patti LuPone, Amy Ryan",
+  "plot": "Following the sudden death of his mother, a mild-mannered but anxiety-ridden man confronts his darkest fears as he embarks on an epic odyssey back home.",
+  "language": "English",
+  "country": "United States, United Kingdom, Finland, Canada",
+  "awards": "31 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTdmYmQ5MjctYzU3NS00N2I0LTkwYTYtZWMxNTVhOTRkODA1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "6.6",
+  "imdbID": "tt13521006",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:48.141Z"
+}

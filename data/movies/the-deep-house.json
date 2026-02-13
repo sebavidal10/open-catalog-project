@@ -1,0 +1,31 @@
+{
+  "title": "The Deep House",
+  "year": "2021",
+  "rated": "TV-MA",
+  "released": "05 Nov 2021",
+  "runtime": "85 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Alexandre Bustillo, Julien Maury",
+  "writer": "Alexandre Bustillo, Julien Maury, Rachel Parker",
+  "actors": "Camille Rowe, James Jagger, Eric Savin",
+  "plot": "While diving in a remote French lake, a couple who specialize in urban exploration videos discover a house submerged in deep waters. Their dive turns into a nightmare when they discover the house was the scene of atrocious crimes.",
+  "language": "English, French",
+  "country": "France, Belgium",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODQ4NDRhY2UtNDA5MS00YzNlLWJhZGMtMzRkOWRkZTFmZmJlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.3",
+  "imdbID": "tt11686490",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:57.300Z"
+}

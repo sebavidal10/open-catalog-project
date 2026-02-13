@@ -1,0 +1,35 @@
+{
+  "title": "V/H/S/Beyond",
+  "year": "2024",
+  "rated": "Not Rated",
+  "released": "04 Oct 2024",
+  "runtime": "114 min",
+  "genre": "Horror, Sci-Fi, Thriller",
+  "director": "Jay Cheel, Jordan Downey, Christian Long",
+  "writer": "Evan Dickson, Jordan Downey, Mike Flanagan",
+  "actors": "Brian Baker, Trevor Dow, Gerry Eng",
+  "plot": "Six bloodcurdling tapes unleash horror in a sci-fi inspired hellscape, pushing the boundaries of fear and suspense.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTI2M2UzNTctNDcxNy00MzQwLWI1MzMtZmQ2ZDk4ZGY2YzA1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "5.8",
+  "imdbID": "tt32880932",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:30.602Z"
+}

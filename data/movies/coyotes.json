@@ -1,0 +1,31 @@
+{
+  "title": "Coyotes",
+  "year": "2025",
+  "rated": "R",
+  "released": "03 Oct 2025",
+  "runtime": "91 min",
+  "genre": "Comedy, Drama, Thriller",
+  "director": "Colin Minihan",
+  "writer": "Tad Daggerhart, Daniel Meersand, Nick Simon",
+  "actors": "Justin Long, Mila Harris, Brittany Allen",
+  "plot": "Trapped in their Hollywood Hills home, a family fights for survival when caught between a raging wildfire and a pack of savage coyotes.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjg2ZGZkZDgtZTIxZC00MTMzLThkYWYtN2EwOTcyZjNlMzM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "59%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.8",
+  "imdbID": "tt34581826",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:29.906Z"
+}

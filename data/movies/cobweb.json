@@ -1,0 +1,35 @@
+{
+  "title": "Cobweb",
+  "year": "2023",
+  "rated": "R",
+  "released": "20 Oct 2023",
+  "runtime": "88 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Samuel Bodin",
+  "writer": "Chris Thomas Devlin",
+  "actors": "Lizzy Caplan, Antony Starr, Cleopatra Coleman",
+  "plot": "An eight-year-old boy tries to investigate the mysterious knocking sounds that are coming from inside the walls of his house, unveiling a dark secret that his sinister parents have kept hidden from him.",
+  "language": "English",
+  "country": "United States, Bulgaria",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDY5ZGIwZjUtMmVhZi00OTBlLTk5ZTctOTY3Y2VlMGM1ZjI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "metascore": "50",
+  "imdbRating": "5.9",
+  "imdbID": "tt9100018",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:20.812Z"
+}

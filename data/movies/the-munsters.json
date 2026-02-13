@@ -1,0 +1,35 @@
+{
+  "title": "The Munsters",
+  "year": "2022",
+  "rated": "PG",
+  "released": "27 Sep 2022",
+  "runtime": "109 min",
+  "genre": "Comedy, Family, Fantasy",
+  "director": "Rob Zombie",
+  "writer": "Rob Zombie, Norm Liebmann, Ed Haas",
+  "actors": "Sheri Moon Zombie, Jeff Daniel Phillips, Daniel Roebuck",
+  "plot": "Reboot of \"The Munsters,\" that followed a family of monsters who moves from Transylvania to an American suburb.",
+  "language": "English",
+  "country": "United States, Hungary",
+  "awards": "1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzM3ZmY2ZmItZTNjYy00Zjk5LTk2YjktOGNiNTAzM2FmNWIwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "55%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "metascore": "57",
+  "imdbRating": "4.5",
+  "imdbID": "tt14813212",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:25:00.971Z"
+}

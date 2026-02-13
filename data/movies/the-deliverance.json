@@ -1,0 +1,35 @@
+{
+  "title": "The Deliverance",
+  "year": "2024",
+  "rated": "R",
+  "released": "30 Aug 2024",
+  "runtime": "112 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Lee Daniels",
+  "writer": "David Coggeshall, Elijah Bynum",
+  "actors": "Andra Day, Glenn Close, Anthony B. Jenkins",
+  "plot": "An Indiana family discovers strange, demonic occurrences that convince them and their community that the house is a portal to hell.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWI2ZWFkNTAtYjA0NS00NzZkLWE1NzMtNGRkMmY2MzEwZWRkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "34%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "39/100"
+    }
+  ],
+  "metascore": "39",
+  "imdbRating": "5.1",
+  "imdbID": "tt4196566",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:58.863Z"
+}

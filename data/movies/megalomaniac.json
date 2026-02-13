@@ -1,0 +1,31 @@
+{
+  "title": "Megalomaniac",
+  "year": "2022",
+  "rated": "Not Rated",
+  "released": "N/A",
+  "runtime": "105 min",
+  "genre": "Horror",
+  "director": "Karim Ouelhaj",
+  "writer": "Karim Ouelhaj",
+  "actors": "Eline Schumacher, Benjamin Ramon, Hélène Moor",
+  "plot": "Megalomaniac questions the invisible line between victim and executioner and how it is crossed. A film about the weight of patriarchy and the illusion of Manichaeism.",
+  "language": "French",
+  "country": "Belgium",
+  "awards": "7 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGY0MTdlMDUtNzNhZC00MWQzLWJiZDAtNjdjODU3ZmM5ZWNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt10916810",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:10.230Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Elevation",
+  "year": "2024",
+  "rated": "R",
+  "released": "26 Nov 2024",
+  "runtime": "91 min",
+  "genre": "Action, Horror, Mystery",
+  "director": "George Nolfi",
+  "writer": "John Glenn, Jacob Roman, Kenny Ryan",
+  "actors": "Anthony Mackie, Morena Baccarin, Maddie Hasson",
+  "plot": "A single father and two women venture from the safety of their homes to face monstrous creatures to save the life of a young boy.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2NiNDM0NWYtNzQxNi00NmY1LTg1YmYtMDE5ZmQzMGJlMGQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "55%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "metascore": "50",
+  "imdbRating": "5.6",
+  "imdbID": "tt23558280",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:45.409Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Scream",
+  "year": "2022",
+  "rated": "R",
+  "released": "14 Jan 2022",
+  "runtime": "114 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Matt Bettinelli-Olpin, Tyler Gillett",
+  "writer": "James Vanderbilt, Guy Busick, Kevin Williamson",
+  "actors": "Neve Campbell, Courteney Cox, David Arquette",
+  "plot": "25 years after the original Woodsboro killings, a new Ghostface begins targeting teens connected to the town's dark past, drawing the final 3 survivors of the first attack back once more.",
+  "language": "English",
+  "country": "United States",
+  "awards": "5 wins & 20 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2NkYTYzOGUtMzk1Yy00YmI0LWIzODEtMjQ0MWU0NWI4ODdlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "6.3",
+  "imdbID": "tt11245972",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:21:44.132Z"
+}

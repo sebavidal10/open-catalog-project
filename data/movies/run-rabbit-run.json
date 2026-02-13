@@ -1,0 +1,35 @@
+{
+  "title": "Run Rabbit Run",
+  "year": "2023",
+  "rated": "TV-MA",
+  "released": "28 Jun 2023",
+  "runtime": "100 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Daina Reid",
+  "writer": "Hannah Kent",
+  "actors": "Sarah Snook, Lily LaTorre, Neil Melville",
+  "plot": "When her young daughter starts behaving strangely, a fertility doctor who believes firmly in life and death must challenge her own values and confront a ghost from her past.",
+  "language": "English",
+  "country": "Australia, United States",
+  "awards": "2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDUyM2FmYjItYjU5MS00NTA3LWI1NmYtOTE1ODI1OWFjYThmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "38%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "5.0",
+  "imdbID": "tt12547822",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:21.981Z"
+}

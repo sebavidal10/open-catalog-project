@@ -1,0 +1,35 @@
+{
+  "title": "Die Hard",
+  "year": "1988",
+  "rated": "R",
+  "released": "20 Jul 1988",
+  "runtime": "132 min",
+  "genre": "Action, Thriller",
+  "director": "John McTiernan",
+  "writer": "Roderick Thorp, Jeb Stuart, Steven E. de Souza",
+  "actors": "Bruce Willis, Alan Rickman, Bonnie Bedelia",
+  "plot": "A New York City cop, John McClane, tries to save his estranged wife and several others taken hostage by terrorists during a Christmas Eve party at the Nakatomi Plaza Skyscraper in Los Angeles, California.",
+  "language": "English, German, Italian, Japanese",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 8 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGNlYmM1NmQtYWExMS00NmRjLTg5ZmEtMmYyYzJkMzljYWMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "metascore": "72",
+  "imdbRating": "8.2",
+  "imdbID": "tt0095016",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:26:52.513Z"
+}

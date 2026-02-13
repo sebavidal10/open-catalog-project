@@ -1,0 +1,35 @@
+{
+  "title": "Gaia",
+  "year": "2021",
+  "rated": "R",
+  "released": "18 Jun 2021",
+  "runtime": "96 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Jaco Bouwer",
+  "writer": "Tertius Kapp",
+  "actors": "Monique Rockman, Carel Nel, Alex van Dyk",
+  "plot": "An injured forest ranger on a routine mission is saved by two off-the-grid survivalists. What is initially a welcome rescue grows more suspicious as the son and his renegade father reveal a cultish devotion to the forest.",
+  "language": "English, Afrikaans",
+  "country": "South Africa",
+  "awards": "11 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjBhY2ZkY2YtY2NkMi00YjJjLWE4OGItNmRkNTkwMjkyOGE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "5.6",
+  "imdbID": "tt11881160",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:51.423Z"
+}

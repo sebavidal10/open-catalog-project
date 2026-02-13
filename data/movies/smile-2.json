@@ -1,0 +1,35 @@
+{
+  "title": "Smile 2",
+  "year": "2024",
+  "rated": "R",
+  "released": "18 Oct 2024",
+  "runtime": "127 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Parker Finn",
+  "writer": "Parker Finn",
+  "actors": "Naomi Scott, Rosemarie DeWitt, Lukas Gage",
+  "plot": "About to embark on a world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her past.",
+  "language": "English",
+  "country": "United States, Canada",
+  "awards": "5 wins & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTg5OTMyMGMtYzMwNC00NDMyLWE0OGUtMTQ1ODcwM2FjOTM4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "6.7",
+  "imdbID": "tt29268110",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:21:25.084Z"
+}

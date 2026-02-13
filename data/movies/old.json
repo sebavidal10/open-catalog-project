@@ -1,0 +1,35 @@
+{
+  "title": "Old",
+  "year": "2021",
+  "rated": "PG-13",
+  "released": "23 Jul 2021",
+  "runtime": "108 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "M. Night Shyamalan",
+  "writer": "M. Night Shyamalan, Pierre-Oscar Lévy, Frederik Peeters",
+  "actors": "Gael García Bernal, Vicky Krieps, Rufus Sewell",
+  "plot": "A vacationing family discovers that the secluded beach where they're relaxing for a few hours is somehow causing them to age rapidly, reducing their entire lives into a single day.",
+  "language": "English",
+  "country": "China, Japan, United States",
+  "awards": "1 win & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2JkZjI5MjktNmQwZC00ZmYxLTg0OTYtYmVhNGFkMGZlMGYyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "5.8",
+  "imdbID": "tt10954652",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:04.623Z"
+}

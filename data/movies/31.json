@@ -1,0 +1,35 @@
+{
+  "title": "31",
+  "year": "2016",
+  "rated": "R",
+  "released": "16 Sep 2016",
+  "runtime": "102 min",
+  "genre": "Horror, Thriller",
+  "director": "Rob Zombie",
+  "writer": "Rob Zombie",
+  "actors": "Malcolm McDowell, Richard Brake, Jeff Daniel Phillips",
+  "plot": "Five carnival workers are kidnapped and held hostage in an abandoned, hellish compound where they are forced to participate in a violent game, the goal of which is to survive twelve hours against a gang of sadistic clowns.",
+  "language": "English, Spanish, German",
+  "country": "United Kingdom, United States",
+  "awards": "2 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTE0NTMzNjE0NV5BMl5BanBnXkFtZTgwMzM4NTM3OTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "48%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "35/100"
+    }
+  ],
+  "metascore": "35",
+  "imdbRating": "5.1",
+  "imdbID": "tt3835080",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:58.624Z"
+}

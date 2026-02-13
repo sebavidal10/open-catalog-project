@@ -1,0 +1,35 @@
+{
+  "title": "The Menu",
+  "year": "2022",
+  "rated": "R",
+  "released": "18 Nov 2022",
+  "runtime": "107 min",
+  "genre": "Comedy, Horror, Thriller",
+  "director": "Mark Mylod",
+  "writer": "Seth Reiss, Will Tracy",
+  "actors": "Ralph Fiennes, Anya Taylor-Joy, Nicholas Hoult",
+  "plot": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "2 wins & 66 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2Q0YWE1MjktODJlMi00NTRiLWI2ZTctZTAxNjkyODVjM2EyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.2",
+  "imdbID": "tt9764362",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:16.494Z"
+}

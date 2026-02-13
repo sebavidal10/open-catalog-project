@@ -1,0 +1,35 @@
+{
+  "title": "Stopmotion",
+  "year": "2023",
+  "rated": "R",
+  "released": "15 Mar 2024",
+  "runtime": "93 min",
+  "genre": "Horror, Thriller",
+  "director": "Robert Morgan",
+  "writer": "Robin King, Robert Morgan",
+  "actors": "Aisling Franciosi, Stella Gonet, Tom York",
+  "plot": "A stop-motion animator struggles to control her demons after the loss of her overbearing mother.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "2 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDE3NTYwNDYtZDY4MS00MmY1LWIzYzItYTcxMGVlYTI1YjQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "5.6",
+  "imdbID": "tt14852624",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:43.232Z"
+}

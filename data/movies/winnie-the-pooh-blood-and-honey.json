@@ -1,0 +1,35 @@
+{
+  "title": "Winnie-the-Pooh: Blood and Honey",
+  "year": "2023",
+  "rated": "Not Rated",
+  "released": "17 Mar 2023",
+  "runtime": "84 min",
+  "genre": "Horror",
+  "director": "Rhys Frake-Waterfield",
+  "writer": "Rhys Frake-Waterfield",
+  "actors": "Nikolai Leon, Maria Taylor, Natasha Rose Mills",
+  "plot": "After Christopher Robin abandons them for college, Pooh and Piglet embark on a bloody rampage as they search for a new source of food.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "6 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA1YjEyNmQtNGNiYi00OWFlLWJlMDQtOWIyZjA5OTZhODVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "2.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "3%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "16/100"
+    }
+  ],
+  "metascore": "16",
+  "imdbRating": "2.9",
+  "imdbID": "tt19623240",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:09.389Z"
+}

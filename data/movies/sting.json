@@ -1,0 +1,35 @@
+{
+  "title": "Sting",
+  "year": "2024",
+  "rated": "R",
+  "released": "12 Apr 2024",
+  "runtime": "91 min",
+  "genre": "Horror, Sci-Fi, Thriller",
+  "director": "Kiah Roache-Turner",
+  "writer": "Kiah Roache-Turner",
+  "actors": "Noni Hazlehurst, Jermaine Fowler, Alyla Browne",
+  "plot": "After raising an unnervingly talented spider in secret, 12-year-old Charlotte must face the facts about her pet-and fight for her family's survival-when the once-charming creature rapidly transforms into a giant, flesh-eating mons...",
+  "language": "English, Spanish",
+  "country": "Australia",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWU1NzZiMWQtOWIzNi00OWQ2LThjMjctMGQ4OTMxZTQwOGY3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "metascore": "57",
+  "imdbRating": "5.7",
+  "imdbID": "tt20112746",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:36.034Z"
+}

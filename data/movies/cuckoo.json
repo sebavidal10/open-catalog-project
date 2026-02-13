@@ -1,0 +1,35 @@
+{
+  "title": "Cuckoo",
+  "year": "2024",
+  "rated": "R",
+  "released": "09 Aug 2024",
+  "runtime": "102 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Tilman Singer",
+  "writer": "Tilman Singer",
+  "actors": "Hunter Schafer, Jan Bluthardt, Marton Csokas",
+  "plot": "A 17-year-old is forced to move with her family to a resort where things are not what they seem.",
+  "language": "English, German, French, American Sign ",
+  "country": "Germany, United States",
+  "awards": "3 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTBhMjVkOTQtYWUyOS00ZDVmLWJmMDMtYTg3MTBlMGIzNzkxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "5.7",
+  "imdbID": "tt12349832",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:56.520Z"
+}

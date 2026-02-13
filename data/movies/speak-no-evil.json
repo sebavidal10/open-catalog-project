@@ -1,0 +1,35 @@
+{
+  "title": "Speak No Evil",
+  "year": "2022",
+  "rated": "Not Rated",
+  "released": "17 Mar 2022",
+  "runtime": "97 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Christian Tafdrup",
+  "writer": "Christian Tafdrup, Mads Tafdrup",
+  "actors": "Morten Burian, Sidsel Siem Koch, Fedja van Huêt",
+  "plot": "A Danish family visits a Dutch family they met on a holiday. What was supposed to be an idyllic weekend slowly starts unraveling as the Danes try to stay polite in the face of unpleasantness.",
+  "language": "English, Dutch, Danish",
+  "country": "Denmark, Netherlands",
+  "awards": "9 wins & 25 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTJjMDMyMGYtZWU3ZS00OTVmLTg1ZWUtY2E4OGEyOGNmMjhiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "6.6",
+  "imdbID": "tt14253846",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:21:55.246Z"
+}

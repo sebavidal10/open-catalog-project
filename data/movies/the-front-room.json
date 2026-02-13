@@ -1,0 +1,35 @@
+{
+  "title": "The Front Room",
+  "year": "2024",
+  "rated": "R",
+  "released": "06 Sep 2024",
+  "runtime": "94 min",
+  "genre": "Horror, Thriller",
+  "director": "Max Eggers, Sam Eggers",
+  "writer": "Susan Hill, Max Eggers, Sam Eggers",
+  "actors": "Brandy Norwood, Andrew Burnap, Kathryn Hunter",
+  "plot": "It tells the story of a newly pregnant couple who are forced to take in an ailing, estranged stepmother.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDIwNTNlMzAtYjkzNi00MDNjLWFlOGYtNDI1MDdkNWQwOWIwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "metascore": "49",
+  "imdbRating": "4.6",
+  "imdbID": "tt21905744",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:44.238Z"
+}

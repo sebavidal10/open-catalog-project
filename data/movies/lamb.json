@@ -1,0 +1,35 @@
+{
+  "title": "Lamb",
+  "year": "2021",
+  "rated": "R",
+  "released": "08 Oct 2021",
+  "runtime": "106 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Valdimar Jóhannsson",
+  "writer": "Sjón, Valdimar Jóhannsson",
+  "actors": "Noomi Rapace, Hilmir Snær Guðnason, Björn Hlynur Haraldsson",
+  "plot": "A childless couple discovers a mysterious newborn on their farm in Iceland.",
+  "language": "Icelandic",
+  "country": "Iceland, Sweden, Poland, United States",
+  "awards": "24 wins & 32 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWM1ZjViN2MtNGVjMS00MTgxLWJjZTQtMmI1YWJiZTgxZGMwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "6.3",
+  "imdbID": "tt9812474",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:10.631Z"
+}

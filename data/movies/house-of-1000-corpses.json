@@ -1,0 +1,35 @@
+{
+  "title": "House of 1000 Corpses",
+  "year": "2003",
+  "rated": "R",
+  "released": "11 Apr 2003",
+  "runtime": "89 min",
+  "genre": "Horror",
+  "director": "Rob Zombie",
+  "writer": "Rob Zombie",
+  "actors": "Sid Haig, Karen Black, Bill Moseley",
+  "plot": "Two young couples traveling across the backwoods of Texas searching for urban legends of murder end up as prisoners of a bizarre and sadistic backwater family of serial killers.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjUyNjU0NDE0OV5BMl5BanBnXkFtZTYwNzcwMzg3._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "22%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "31/100"
+    }
+  ],
+  "metascore": "31",
+  "imdbRating": "6.0",
+  "imdbID": "tt0251736",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:50.258Z"
+}

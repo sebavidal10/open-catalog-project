@@ -1,0 +1,35 @@
+{
+  "title": "Terrifier 3",
+  "year": "2024",
+  "rated": "Unrated",
+  "released": "11 Oct 2024",
+  "runtime": "125 min",
+  "genre": "Horror",
+  "director": "Damien Leone",
+  "writer": "Damien Leone",
+  "actors": "Lauren LaVera, David Howard Thornton, Antonella Rose",
+  "plot": "Art the Clown is set to unleash chaos on the unsuspecting residents of Miles County as they peacefully drift off to sleep on Christmas Eve.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzc2MWUyYzctY2E4Ny00ZTlmLThjNTMtMTViZGI5NjcyN2EzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "6.3",
+  "imdbID": "tt27911000",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:21:27.454Z"
+}

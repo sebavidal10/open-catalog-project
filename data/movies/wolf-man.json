@@ -1,0 +1,35 @@
+{
+  "title": "Wolf Man",
+  "year": "2025",
+  "rated": "R",
+  "released": "17 Jan 2025",
+  "runtime": "103 min",
+  "genre": "Horror",
+  "director": "Leigh Whannell",
+  "writer": "Leigh Whannell, Corbett Tuck",
+  "actors": "Christopher Abbott, Julia Garner, Matilda Firth",
+  "plot": "A family at a remote farmhouse is attacked by an unseen animal, but as the night stretches on, the father begins to transform into something unrecognizable.",
+  "language": "English",
+  "country": "Ireland, New Zealand, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmFkYTNhMWUtMjEyNy00MWE0LWJlYTQtMWFmNDUwNmFjMzAxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "48%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "metascore": "50",
+  "imdbRating": "5.6",
+  "imdbID": "tt4216984",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:21:35.941Z"
+}

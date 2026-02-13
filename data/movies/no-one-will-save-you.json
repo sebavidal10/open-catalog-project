@@ -1,0 +1,35 @@
+{
+  "title": "No One Will Save You",
+  "year": "2023",
+  "rated": "PG-13",
+  "released": "22 Sep 2023",
+  "runtime": "93 min",
+  "genre": "Horror, Mystery, Sci-Fi",
+  "director": "Brian Duffield",
+  "writer": "Brian Duffield",
+  "actors": "Kaitlyn Dever, Elizabeth Kaluev, Zack Duhame",
+  "plot": "An exiled anxiety-ridden homebody must battle an alien who's found its way into her home.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjJhYzMwMjItYTI4MC00N2MxLThhN2UtNjY1MjNiOTE5N2JkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "6.2",
+  "imdbID": "tt14509110",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:44.631Z"
+}

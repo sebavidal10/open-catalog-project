@@ -1,0 +1,35 @@
+{
+  "title": "Halloween Ends",
+  "year": "2022",
+  "rated": "R",
+  "released": "14 Oct 2022",
+  "runtime": "111 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "David Gordon Green",
+  "writer": "John Carpenter, Debra Hill, Paul Brad Logan",
+  "actors": "Jamie Lee Curtis, Andi Matichak, James Jude Courtney",
+  "plot": "The plot follows the outcast Corey Cunningham who falls in love with Laurie Strode's granddaughter while a series of events, including crossing paths with Michael Myers, drives him to become a serial killer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins & 21 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzllZDYwNWMtYTU5Mi00NDVmLWE2YWQtMDZiZWFmOTcxZmJmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "47/100"
+    }
+  ],
+  "metascore": "47",
+  "imdbRating": "5.0",
+  "imdbID": "tt10665342",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:08.127Z"
+}

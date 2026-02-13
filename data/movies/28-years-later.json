@@ -1,0 +1,35 @@
+{
+  "title": "28 Years Later",
+  "year": "2025",
+  "rated": "R",
+  "released": "20 Jun 2025",
+  "runtime": "115 min",
+  "genre": "Horror, Sci-Fi, Thriller",
+  "director": "Danny Boyle",
+  "writer": "Alex Garland",
+  "actors": "Jodie Comer, Aaron Taylor-Johnson, Ralph Fiennes",
+  "plot": "A group of survivors of the rage virus live on a small island. When one of the group leaves the island on a mission into the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other su...",
+  "language": "English, Swedish",
+  "country": "United Kingdom, Canada, United States",
+  "awards": "4 wins & 41 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjgwYTI0YjctMWYzNS00MmI1LWI5YTctNmE1YjBkNDFlNWMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "6.6",
+  "imdbID": "tt10548174",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:21:37.112Z"
+}

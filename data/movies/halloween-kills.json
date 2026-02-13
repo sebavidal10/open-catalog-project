@@ -1,0 +1,35 @@
+{
+  "title": "Halloween Kills",
+  "year": "2021",
+  "rated": "R",
+  "released": "15 Oct 2021",
+  "runtime": "105 min",
+  "genre": "Action, Drama, Horror",
+  "director": "David Gordon Green",
+  "writer": "John Carpenter, Debra Hill, Scott Teems",
+  "actors": "Jamie Lee Curtis, Judy Greer, Andi Matichak",
+  "plot": "Surviving victims of Michael Myers form a vigilante mob and vow to end his reign of terror.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDZjMzJjYzMtMzkxMi00ODdiLTkyZTctMzY3MGNmOTRlZmQ3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "38%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "42/100"
+    }
+  ],
+  "metascore": "42",
+  "imdbRating": "5.5",
+  "imdbID": "tt10665338",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:06.957Z"
+}

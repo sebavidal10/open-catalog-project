@@ -1,0 +1,35 @@
+{
+  "title": "Resurrection",
+  "year": "2022",
+  "rated": "R",
+  "released": "05 Aug 2022",
+  "runtime": "103 min",
+  "genre": "Crime, Drama, Horror",
+  "director": "Andrew Semans",
+  "writer": "Andrew Semans",
+  "actors": "Rebecca Hall, Tim Roth, Grace Kaufman",
+  "plot": "Margaret's life is in order. She is capable, disciplined and successful. Everything is under control until David returns - that is - carrying with him the horrors of Margaret's past.",
+  "language": "English",
+  "country": "United States",
+  "awards": "7 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjAxZDc2YzYtYWE2Yi00Y2E3LTkyMTAtYTI0ZmFiZWRjZmIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "5.9",
+  "imdbID": "tt11540726",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:21.233Z"
+}

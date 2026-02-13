@@ -1,0 +1,35 @@
+{
+  "title": "Raiders of the Lost Ark",
+  "year": "1981",
+  "rated": "PG",
+  "released": "12 Jun 1981",
+  "runtime": "115 min",
+  "genre": "Action, Adventure",
+  "director": "Steven Spielberg",
+  "writer": "Lawrence Kasdan, George Lucas, Philip Kaufman",
+  "actors": "Harrison Ford, Karen Allen, Paul Freeman",
+  "plot": "In 1936, archaeologist Indiana Jones is tasked by Army Intelligence to help locate a legendary ancient power, the Ark of Covenant, before the Nazis get it first.",
+  "language": "English, German, Spanish, Nepali, Hebrew, Arabic",
+  "country": "United States",
+  "awards": "Won 4 Oscars. 41 wins & 24 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGNhMjg2ZjgtYzk4Ni00MTViLTg1MmUtYzM2MDZiYjZlMmU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "8.4",
+  "imdbID": "tt0082971",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:25:40.761Z"
+}

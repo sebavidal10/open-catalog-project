@@ -1,0 +1,35 @@
+{
+  "title": "Umma",
+  "year": "2022",
+  "rated": "PG-13",
+  "released": "18 Mar 2022",
+  "runtime": "83 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Iris K. Shim",
+  "writer": "Iris K. Shim",
+  "actors": "Sandra Oh, Fivel Stewart, Dermot Mulroney",
+  "plot": "Amanda and her daughter live a quiet life on an American farm, but when the remains of her estranged mother arrive from Korea, Amanda becomes haunted by the fear of turning into her own mother.",
+  "language": "English, Korean",
+  "country": "United States, Hong Kong",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzllNGFmMzEtOWIyMy00NTA5LWE2OWQtZTg0NDVhYzdiYWMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "32%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "4.7",
+  "imdbID": "tt13235822",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:16.073Z"
+}

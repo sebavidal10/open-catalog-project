@@ -1,0 +1,35 @@
+{
+  "title": "Double Indemnity",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "06 Jul 1944",
+  "runtime": "107 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Billy Wilder",
+  "writer": "Billy Wilder, Raymond Chandler, James M. Cain",
+  "actors": "Fred MacMurray, Barbara Stanwyck, Edward G. Robinson",
+  "plot": "An insurance representative is seduced by a dissatisfied housewife into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, a claims investigator.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 7 Oscars. 5 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2YwNjZlZDktNTlmNS00ODQwLWJmNmUtYmE1NTBhYjc1YTY5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "95/100"
+    }
+  ],
+  "metascore": "95",
+  "imdbRating": "8.3",
+  "imdbID": "tt0036775",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:26:07.687Z"
+}

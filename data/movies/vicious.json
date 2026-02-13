@@ -1,0 +1,35 @@
+{
+  "title": "Vicious",
+  "year": "2025",
+  "rated": "R",
+  "released": "10 Oct 2025",
+  "runtime": "103 min",
+  "genre": "Horror",
+  "director": "Bryan Bertino",
+  "writer": "Bryan Bertino",
+  "actors": "Dakota Fanning, Kathryn Hunter, Mary McCormack",
+  "plot": "A woman spends the night fighting for her existence as she slips down a rabbit hole contained inside a gift from a late-night visitor.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzNiMjhmNWQtNjJhZS00MGFkLTk3MDEtOWRmMjBjYTUwZTdlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "44%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "metascore": "56",
+  "imdbRating": "4.9",
+  "imdbID": "tt31511689",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:24.693Z"
+}

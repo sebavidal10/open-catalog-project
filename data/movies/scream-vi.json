@@ -1,0 +1,35 @@
+{
+  "title": "Scream VI",
+  "year": "2023",
+  "rated": "R",
+  "released": "10 Mar 2023",
+  "runtime": "122 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Matt Bettinelli-Olpin, Tyler Gillett",
+  "writer": "James Vanderbilt, Guy Busick, Kevin Williamson",
+  "actors": "Courteney Cox, Melissa Barrera, Jenna Ortega",
+  "plot": "After surviving the latest Woodsboro murders, a group of teens move to New York City, hoping for a fresh start, only to find a new killer picking up where the last Ghostface killer left off.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins & 27 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDZkYzk3YTEtYTQ5MS00MzQ5LTg0NjUtOTgzODA5N2EyYTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "6.4",
+  "imdbID": "tt17663992",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:21:45.296Z"
+}

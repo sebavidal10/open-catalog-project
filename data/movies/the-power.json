@@ -1,0 +1,35 @@
+{
+  "title": "The Power",
+  "year": "2021",
+  "rated": "TV-MA",
+  "released": "08 Apr 2021",
+  "runtime": "92 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Corinna Faith",
+  "writer": "Corinna Faith",
+  "actors": "Mark Smith, Marley Chesham, Rose Williams",
+  "plot": "In 1970s London, a trainee nurse spends her first night at a hospital during power outages, where she is haunted by a supernatural presence.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzhiZTZlZTYtNDI4MC00YzVhLTllOWUtY2MyMzgzOGM5ZjcwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "5.5",
+  "imdbID": "tt9314984",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:54.957Z"
+}

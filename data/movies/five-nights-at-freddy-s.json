@@ -1,0 +1,35 @@
+{
+  "title": "Five Nights at Freddy's",
+  "year": "2023",
+  "rated": "PG-13",
+  "released": "27 Oct 2023",
+  "runtime": "109 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Emma Tammi",
+  "writer": "Scott Cawthon, Seth Cuddeback, Emma Tammi",
+  "actors": "Josh Hutcherson, Piper Rubio, Elizabeth Lail",
+  "plot": "A troubled security guard begins working at Freddy Fazbear's Pizza. During his five nights on the job, he realizes that something is wrong with the pizzeria and pretty soon finds the truth about its animatronics.",
+  "language": "English",
+  "country": "United States",
+  "awards": "24 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzFkMDE2ZmEtOWMwNy00MWM2LThlNjMtZWQzNWY5MTJjZjcxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "33/100"
+    }
+  ],
+  "metascore": "33",
+  "imdbRating": "5.4",
+  "imdbID": "tt4589218",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:21:50.047Z"
+}

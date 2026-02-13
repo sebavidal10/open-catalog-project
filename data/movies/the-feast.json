@@ -1,0 +1,35 @@
+{
+  "title": "The Feast",
+  "year": "2021",
+  "rated": "N/A",
+  "released": "19 Nov 2021",
+  "runtime": "93 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Lee Haven Jones",
+  "writer": "Roger Williams",
+  "actors": "Annes Elwy, Nia Roberts, Julian Lewis Jones",
+  "plot": "Follows a young woman serving privileged guests at a dinner party in a remote house in rural Wales. The assembled guests do not realize they are about to eat their last supper.",
+  "language": "Welsh",
+  "country": "United Kingdom",
+  "awards": "5 wins & 8 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTFiOGQ3NmItOTA3NC00YzlhLWE2MGQtM2M2YzgxMGZkNzE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "5.6",
+  "imdbID": "tt10738906",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:22:01.096Z"
+}

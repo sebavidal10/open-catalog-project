@@ -1,0 +1,35 @@
+{
+  "title": "Never Let Go",
+  "year": "2024",
+  "rated": "R",
+  "released": "20 Sep 2024",
+  "runtime": "101 min",
+  "genre": "Horror, Thriller",
+  "director": "Alexandre Aja",
+  "writer": "KC Coughlin, Ryan Grassby",
+  "actors": "Halle Berry, Percy Daggs IV, Anthony B. Jenkins",
+  "plot": "A family that has been haunted by an evil spirit for years. Their safety and their surroundings come into question when one of the children questions if the evil is real.",
+  "language": "English",
+  "country": "United States, Canada, France",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmNmMzZlN2QtNjI2Mi00NjNlLWI2M2QtZWUxNzg2OGY5MGIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "5.4",
+  "imdbID": "tt14415204",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:00.037Z"
+}

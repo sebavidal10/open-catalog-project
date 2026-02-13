@@ -1,0 +1,31 @@
+{
+  "title": "The Medium",
+  "year": "2021",
+  "rated": "Not Rated",
+  "released": "14 Jul 2021",
+  "runtime": "130 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Banjong Pisanthanakun",
+  "writer": "Cha-won Choi, Chantavit Dhanasevi, Na Hong-jin",
+  "actors": "Narilya Gulmongkolpech, Sawanee Utoomma, Sirani Yankittikan",
+  "plot": "A horrifying story of a shaman's inheritance in the Isan region of Thailand. What could be possessing a family member might not be the Goddess they make it out to be.",
+  "language": "Thai",
+  "country": "Thailand, South Korea",
+  "awards": "9 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzliMjVhZmYtOTdhMC00NjEwLWI4MGQtNjA0MjQxN2FmNjEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt13446168",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:46.734Z"
+}

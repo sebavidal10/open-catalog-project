@@ -1,0 +1,35 @@
+{
+  "title": "3 from Hell",
+  "year": "2019",
+  "rated": "R",
+  "released": "16 Sep 2019",
+  "runtime": "115 min",
+  "genre": "Action, Horror",
+  "director": "Rob Zombie",
+  "writer": "Rob Zombie",
+  "actors": "Sheri Moon Zombie, Bill Moseley, Sid Haig",
+  "plot": "After barely surviving prison, the demented Firefly clan go on the run, unleashing a whole new wave of murder, madness and mayhem.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2FiMjIzMDktNTRhNi00NzRiLTljNmMtMjdiMTNjNTQ2YmZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "58%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "metascore": "50",
+  "imdbRating": "5.4",
+  "imdbID": "tt8134742",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:24:59.803Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Beast of War",
+  "year": "2025",
+  "rated": "R",
+  "released": "10 Oct 2025",
+  "runtime": "87 min",
+  "genre": "Action, Biography, Drama",
+  "director": "Kiah Roache-Turner",
+  "writer": "Kiah Roache-Turner",
+  "actors": "Mark Coles Smith, Joel Nankervis, Sam Delich",
+  "plot": "A group of young soldiers, fresh out of boot camp, find themselves stranded on a raft in the middle of the ocean after their ship is sunk by the enemy and must battle for their lives against a giant hungry great white shark.",
+  "language": "English",
+  "country": "Australia",
+  "awards": "4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI0OGNiNGEtY2VmOC00NmYyLWE2NmMtMGE0ZmUwNTA0ZTRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "5.4",
+  "imdbID": "tt29468874",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:28.577Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Last Night in Soho",
+  "year": "2021",
+  "rated": "R",
+  "released": "29 Oct 2021",
+  "runtime": "116 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Edgar Wright",
+  "writer": "Edgar Wright, Krysty Wilson-Cairns",
+  "actors": "Thomasin McKenzie, Anya Taylor-Joy, Matt Smith",
+  "plot": "Aspiring fashion designer Eloise is mysteriously able to return to 1960s London, where she encounters dazzling wannabe singer Sandie. But the glamour is not as it seems, and the dreams of the past crack and splinter into something...",
+  "language": "English",
+  "country": "United Kingdom, China",
+  "awards": "Nominated for 2 BAFTA 24 wins & 77 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODdhZjBmZTEtZmQyMy00NWY5LWJiMWQtODhjODFkZWZlMjMyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "7.0",
+  "imdbID": "tt9639470",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:21:59.928Z"
+}

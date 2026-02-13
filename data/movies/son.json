@@ -1,0 +1,35 @@
+{
+  "title": "Son",
+  "year": "2021",
+  "rated": "Not Rated",
+  "released": "05 Mar 2021",
+  "runtime": "98 min",
+  "genre": "Horror, Thriller",
+  "director": "Ivan Kavanagh",
+  "writer": "Ivan Kavanagh",
+  "actors": "Andi Matichak, Emile Hirsch, Luke David Blumm",
+  "plot": "When a young boy contracts a mysterious illness, his mother must decide how far she will go to protect him from terrifying forces in her past.",
+  "language": "English",
+  "country": "Ireland, United States, United Kingdom",
+  "awards": "4 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzI5NzlmYWYtMzIxOS00NWZiLWEwYjEtYzBlOWY4N2IzNTQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "metascore": "54",
+  "imdbRating": "5.6",
+  "imdbID": "tt5624466",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:53.770Z"
+}

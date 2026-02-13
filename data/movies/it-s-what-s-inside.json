@@ -1,0 +1,31 @@
+{
+  "title": "It's What's Inside",
+  "year": "2024",
+  "rated": "R",
+  "released": "04 Oct 2024",
+  "runtime": "103 min",
+  "genre": "Comedy, Mystery, Sci-Fi",
+  "director": "Greg Jardin",
+  "writer": "Greg Jardin",
+  "actors": "Brittany O'Grady, James Morosini, Gavin Leatherwood",
+  "plot": "A group of friends gather for a pre-wedding party that descends into an existential nightmare when an estranged friend arrives with a mysterious game that awakens long-hidden secrets, desires and grudges.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDkxOTZmZTYtYTNmNS00MDk3LWE0MDAtMzY5M2Y5YmU1MmI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "metascore": "56",
+  "imdbRating": "6.6",
+  "imdbID": "tt14577874",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:23:04.711Z"
+}
