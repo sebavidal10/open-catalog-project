@@ -1,0 +1,35 @@
+{
+  "title": "Perfect Blue",
+  "year": "1997",
+  "rated": "Not Rated",
+  "released": "28 Feb 1998",
+  "runtime": "82 min",
+  "genre": "Animation, Crime, Drama",
+  "director": "Satoshi Kon",
+  "writer": "Sadayuki Murai, Yoshikazu Takeuchi, Satoshi Kon",
+  "actors": "Junko Iwao, Rica Matsumoto, Shinpachi Tsuji",
+  "plot": "A pop singer gives up her career to become an actress, but she slowly goes insane when she starts being stalked by an obsessed fan and what seems to be a ghost of her past.",
+  "language": "Japanese, English",
+  "country": "Japan",
+  "awards": "3 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzAwNDIzMzEtZDZkNC00ZDQ4LTk3ZDMtZjVhMTU2YzgzZTZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "8.0",
+  "imdbID": "tt0156887",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:39.201Z"
+}

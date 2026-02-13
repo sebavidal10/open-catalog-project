@@ -1,0 +1,35 @@
+{
+  "title": "The Right Stuff",
+  "year": "1983",
+  "rated": "PG",
+  "released": "17 Feb 1984",
+  "runtime": "193 min",
+  "genre": "Adventure, Biography, Drama",
+  "director": "Philip Kaufman",
+  "writer": "Philip Kaufman, Tom Wolfe",
+  "actors": "Sam Shepard, Scott Glenn, Ed Harris",
+  "plot": "The U.S. space program's development from the breaking of the sound barrier to selection of the Mercury 7 astronauts, from a group of test pilots with a more seat-of-the-pants approach than the program's more cautious engineers pr...",
+  "language": "English, Russian, Spanish",
+  "country": "United States",
+  "awards": "Won 4 Oscars. 12 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmNiMWIxZDEtYWE0Zi00YzU5LTk4NzctNmE2YThiMGUzYzlkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "metascore": "91",
+  "imdbRating": "7.8",
+  "imdbID": "tt0086197",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:07.560Z"
+}

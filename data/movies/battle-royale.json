@@ -1,0 +1,35 @@
+{
+  "title": "Battle Royale",
+  "year": "2000",
+  "rated": "Not Rated",
+  "released": "16 Dec 2000",
+  "runtime": "114 min",
+  "genre": "Action, Drama, Thriller",
+  "director": "Kinji Fukasaku",
+  "writer": "Koushun Takami, Kenta Fukasaku",
+  "actors": "Tatsuya Fujiwara, Aki Maeda, Tarô Yamamoto",
+  "plot": "In a dystopian future, a group of students from a Japanese high school are forced by the government to compete in a battle, killing one another until only one is left standing.",
+  "language": "Japanese, English",
+  "country": "Japan",
+  "awards": "7 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjdlYzJlYzMtMWU3Yi00Y2FjLWJhYmUtNjM3YzdjYzZkOWMwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.5",
+  "imdbID": "tt0266308",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:52.308Z"
+}

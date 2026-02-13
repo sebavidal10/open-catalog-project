@@ -1,0 +1,35 @@
+{
+  "title": "Rushmore",
+  "year": "1998",
+  "rated": "R",
+  "released": "19 Feb 1999",
+  "runtime": "93 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Wes Anderson",
+  "writer": "Wes Anderson, Owen Wilson",
+  "actors": "Jason Schwartzman, Bill Murray, Olivia Williams",
+  "plot": "A teenager at Rushmore Academy falls for a much older teacher and befriends a middle-aged industrialist. Later, he finds out that his love interest and his friend are having an affair, which prompts him to begin a vendetta.",
+  "language": "English, Spanish, Latin, French",
+  "country": "United States",
+  "awards": "17 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmM2MTNhYWItMDc4Yi00MTM3LWI3YTctYjE1NWRjNTczYjI5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.6",
+  "imdbID": "tt0128445",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:40.371Z"
+}

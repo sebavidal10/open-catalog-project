@@ -1,0 +1,35 @@
+{
+  "title": "Jerry Maguire",
+  "year": "1996",
+  "rated": "R",
+  "released": "13 Dec 1996",
+  "runtime": "139 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Cameron Crowe",
+  "writer": "Cameron Crowe",
+  "actors": "Tom Cruise, Cuba Gooding Jr., Renée Zellweger",
+  "plot": "When a sports agent has a moral epiphany and is fired for expressing it, he decides to put his new philosophy to the test as an independent agent with the only athlete who stays with him and his former colleague.",
+  "language": "English, American Sign ",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 26 wins & 41 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2E1ZjU1MjctZjU2Yi00MGE1LWI1MDEtYzBlMWJlNDc1NTQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.3",
+  "imdbID": "tt0116695",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:36.860Z"
+}

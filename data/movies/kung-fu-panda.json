@@ -1,0 +1,35 @@
+{
+  "title": "Kung Fu Panda",
+  "year": "2008",
+  "rated": "PG",
+  "released": "06 Jun 2008",
+  "runtime": "92 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Mark Osborne, John Stevenson",
+  "writer": "Jonathan Aibel, Glenn Berger, Ethan Reiff",
+  "actors": "Jack Black, Ian McShane, Angelina Jolie",
+  "plot": "To everyone's surprise, including his own, Po, an overweight, clumsy panda, is chosen as protector of the Valley of Peace. His suitability will soon be tested as the valley's arch-enemy is on his way.",
+  "language": "English, Japanese, Chinese",
+  "country": "United States, Japan, China, Russia",
+  "awards": "Nominated for 1 Oscar. 15 wins & 39 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDU5MDNiMGItYjVmZi00NDUxLTg2OTktNGE0NzNlNzM4NzgyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.6",
+  "imdbID": "tt0441773",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:02.556Z"
+}

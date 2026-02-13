@@ -1,0 +1,35 @@
+{
+  "title": "The Last Picture Show",
+  "year": "1971",
+  "rated": "R",
+  "released": "22 Oct 1971",
+  "runtime": "118 min",
+  "genre": "Drama, Romance",
+  "director": "Peter Bogdanovich",
+  "writer": "Larry McMurtry, Peter Bogdanovich",
+  "actors": "Timothy Bottoms, Jeff Bridges, Cybill Shepherd",
+  "plot": "In 1951, a group of high schoolers come of age in a bleak, isolated, atrophied North Texas town that is slowly dying, both culturally and economically.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 19 wins & 22 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjgwZDI3ZmItNjIwMy00OTZlLWEzNjMtMDU3NDZjZjg3ODQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "93/100"
+    }
+  ],
+  "metascore": "93",
+  "imdbRating": "8.0",
+  "imdbID": "tt0067328",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:47.640Z"
+}

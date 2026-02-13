@@ -1,0 +1,35 @@
+{
+  "title": "In the Mood for Love",
+  "year": "2000",
+  "rated": "PG",
+  "released": "09 Mar 2001",
+  "runtime": "98 min",
+  "genre": "Drama, Romance",
+  "director": "Wong Kar-Wai",
+  "writer": "Wong Kar-Wai",
+  "actors": "Maggie Cheung, Tony Leung Chiu-wai, Ping-Lam Siu",
+  "plot": "Two neighbors form a strong bond after both suspect extramarital activities of their spouses. However, they agree to keep their bond platonic so as not to commit similar wrongs.",
+  "language": "Cantonese, Shanghainese, French, Spanish",
+  "country": "Hong Kong, France",
+  "awards": "Nominated for 1 BAFTA Award45 wins & 50 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2Q4NjllMDgtOTk2Zi00YzM1LWJmOTMtNmRiZDgyZGJmMjQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "8.0",
+  "imdbID": "tt0118694",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:51.134Z"
+}

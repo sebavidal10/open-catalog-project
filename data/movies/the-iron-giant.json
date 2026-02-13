@@ -1,0 +1,35 @@
+{
+  "title": "The Iron Giant",
+  "year": "1999",
+  "rated": "PG",
+  "released": "06 Aug 1999",
+  "runtime": "86 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Brad Bird",
+  "writer": "Tim McCanlies, Brad Bird, Ted Hughes",
+  "actors": "Eli Marienthal, Harry Connick Jr., Jennifer Aniston",
+  "plot": "A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.",
+  "language": "English",
+  "country": "United States, Czech Republic, United Kingdom",
+  "awards": "Won 1 BAFTA Award20 wins & 18 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODM4ZjZjMGEtYmFiMy00MThjLWIzZjUtMDU0ODg1NTI2MzIwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "8.1",
+  "imdbID": "tt0129167",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:46.279Z"
+}

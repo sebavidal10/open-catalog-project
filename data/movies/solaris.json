@@ -1,0 +1,35 @@
+{
+  "title": "Solaris",
+  "year": "1972",
+  "rated": "PG",
+  "released": "26 Sep 1972",
+  "runtime": "167 min",
+  "genre": "Adventure, Drama, Mystery",
+  "director": "Andrei Tarkovsky",
+  "writer": "Stanislaw Lem, Fridrikh Gorenshteyn, Andrei Tarkovsky",
+  "actors": "Natalya Bondarchuk, Donatas Banionis, Jüri Järvet",
+  "plot": "A psychologist is sent to a station orbiting a distant planet in order to discover what has caused the crew to go insane.",
+  "language": "Russian, German",
+  "country": "Soviet Union",
+  "awards": "2 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTYyMjU4MjItYzZkNy00NmIyLTg1ZGEtYTY5ZTEyM2U2NDM2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "93/100"
+    }
+  ],
+  "metascore": "93",
+  "imdbRating": "7.9",
+  "imdbID": "tt0069293",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:14.855Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Stand by Me",
+  "year": "1986",
+  "rated": "R",
+  "released": "22 Aug 1986",
+  "runtime": "89 min",
+  "genre": "Adventure, Comedy, Drama",
+  "director": "Rob Reiner",
+  "writer": "Stephen King, Raynold Gideon, Bruce A. Evans",
+  "actors": "Wil Wheaton, River Phoenix, Corey Feldman",
+  "plot": "A writer recounts a childhood journey with his friends to find the body of a missing boy.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 6 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGJkNTUwM2MtZWE2MS00YjNkLWE3MjktNWQwZDQxMDIyZWVmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "8.1",
+  "imdbID": "tt0092005",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:13.434Z"
+}

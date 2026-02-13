@@ -1,0 +1,35 @@
+{
+  "title": "Batman",
+  "year": "1989",
+  "rated": "PG-13",
+  "released": "23 Jun 1989",
+  "runtime": "126 min",
+  "genre": "Action, Adventure",
+  "director": "Tim Burton",
+  "writer": "Bob Kane, Sam Hamm, Warren Skaaren",
+  "actors": "Michael Keaton, Jack Nicholson, Kim Basinger",
+  "plot": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.",
+  "language": "English, French, Spanish",
+  "country": "United States, United Kingdom",
+  "awards": "Won 1 Oscar. 13 wins & 30 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzZmZWViM2EtNzhlMi00NzBlLWE0MWEtZDFjMjk3YjIyNTBhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.5",
+  "imdbID": "tt0096895",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:21.632Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Into the Wild",
+  "year": "2007",
+  "rated": "R",
+  "released": "19 Oct 2007",
+  "runtime": "148 min",
+  "genre": "Adventure, Biography, Drama",
+  "director": "Sean Penn",
+  "writer": "Sean Penn, Jon Krakauer",
+  "actors": "Emile Hirsch, Vince Vaughn, Catherine Keener",
+  "plot": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness.",
+  "language": "English, Danish",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 23 wins & 106 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTgwZTJhNWMtNzVjMy00YzQzLWI4MTAtYmJhOGQ5ZmQ3MDM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "8.0",
+  "imdbID": "tt0758758",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:39:11.062Z"
+}

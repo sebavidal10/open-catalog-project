@@ -1,0 +1,31 @@
+{
+  "title": "La haine",
+  "year": "1995",
+  "rated": "Not Rated",
+  "released": "23 Feb 1996",
+  "runtime": "98 min",
+  "genre": "Crime, Drama",
+  "director": "Mathieu Kassovitz",
+  "writer": "Mathieu Kassovitz",
+  "actors": "Vincent Cassel, Hubert Koundé, Saïd Taghmaoui",
+  "plot": "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+  "language": "French, Yiddish",
+  "country": "France",
+  "awards": "8 wins & 15 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMThlMDA3NDYtZGM2Zi00NmJhLThlYWItZjViZTkzZWU1ZWRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.1",
+  "imdbID": "tt0113247",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:34.521Z"
+}

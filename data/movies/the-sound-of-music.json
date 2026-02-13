@@ -1,0 +1,35 @@
+{
+  "title": "The Sound of Music",
+  "year": "1965",
+  "rated": "G",
+  "released": "01 Apr 1965",
+  "runtime": "174 min",
+  "genre": "Biography, Drama, Family",
+  "director": "Robert Wise",
+  "writer": "Georg Hurdalek, Howard Lindsay, Russel Crouse",
+  "actors": "Julie Andrews, Christopher Plummer, Eleanor Parker",
+  "plot": "A young novice is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "Won 5 Oscars. 19 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWJhYmU4MjQtZDJhYi00ZGVjLTlkNTEtNzkzNGVjOWQ3MjcwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "8.1",
+  "imdbID": "tt0059742",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:38.273Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Before Sunrise",
+  "year": "1995",
+  "rated": "R",
+  "released": "27 Jan 1995",
+  "runtime": "101 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Richard Linklater",
+  "writer": "Richard Linklater, Kim Krizan",
+  "actors": "Ethan Hawke, Julie Delpy, Andrea Eckert",
+  "plot": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+  "language": "English, German, French",
+  "country": "United States, Austria",
+  "awards": "1 win & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDZhZmI1ZTUtYWI3NC00NTMwLTk3NWMtNDc0OGNjM2I0ZjlmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "8.1",
+  "imdbID": "tt0112471",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:33.349Z"
+}

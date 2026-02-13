@@ -1,0 +1,35 @@
+{
+  "title": "Heathers",
+  "year": "1989",
+  "rated": "R",
+  "released": "31 Mar 1989",
+  "runtime": "103 min",
+  "genre": "Comedy, Crime",
+  "director": "Michael Lehmann",
+  "writer": "Daniel Waters",
+  "actors": "Winona Ryder, Christian Slater, Shannen Doherty",
+  "plot": "At Westerburg High where cliques rule, jocks dominate and all the popular girls are named Heather, it's going to take a Veronica and mysterious new kid to give teen angst a body count.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzY2ODdmZDItMzQ4MS00ZDczLWIyZmItNDljYmMwZjQ2NGU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "metascore": "72",
+  "imdbRating": "7.1",
+  "imdbID": "tt0097493",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:27.719Z"
+}

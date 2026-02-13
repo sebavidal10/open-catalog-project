@@ -1,0 +1,35 @@
+{
+  "title": "Spartacus",
+  "year": "1960",
+  "rated": "PG-13",
+  "released": "17 Nov 1960",
+  "runtime": "197 min",
+  "genre": "Adventure, Biography, Drama",
+  "director": "Stanley Kubrick",
+  "writer": "Dalton Trumbo, Howard Fast, Plutarch",
+  "actors": "Kirk Douglas, Laurence Olivier, Tony Curtis",
+  "plot": "The slave Spartacus survives brutal training as a gladiator and leads a violent revolt against the decadent Roman Republic, as the ambitious Crassus seeks to gain power by crushing the uprising.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 4 Oscars. 12 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcyOThhYzktMTYyMi00NDU5LWExZWMtOWUzNGJiZGFlMWQwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.9",
+  "imdbID": "tt0054331",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:35.933Z"
+}

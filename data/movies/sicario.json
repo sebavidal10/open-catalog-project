@@ -1,0 +1,35 @@
+{
+  "title": "Sicario",
+  "year": "2015",
+  "rated": "R",
+  "released": "02 Oct 2015",
+  "runtime": "121 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Denis Villeneuve",
+  "writer": "Taylor Sheridan",
+  "actors": "Emily Blunt, Josh Brolin, Benicio Del Toro",
+  "plot": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+  "language": "English, Spanish, Ukrainian",
+  "country": "United States, Mexico, Hong Kong",
+  "awards": "Nominated for 3 Oscars. 15 wins & 157 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "7.7",
+  "imdbID": "tt3397884",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:39:30.998Z"
+}

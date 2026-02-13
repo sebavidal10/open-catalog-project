@@ -1,0 +1,35 @@
+{
+  "title": "The Super Mario Bros. Movie",
+  "year": "2023",
+  "rated": "PG",
+  "released": "05 Apr 2023",
+  "runtime": "92 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Aaron Horvath, Michael Jelenic, Pierre Leduc",
+  "writer": "Matthew Fogel",
+  "actors": "Chris Pratt, Anya Taylor-Joy, Charlie Day",
+  "plot": "Brooklyn plumbers Mario and Luigi are warped to the magical Mushroom Kingdom, and Mario must team up with Princess Peach, Toad, and Donkey Kong to save Luigi from the evil Bowser.",
+  "language": "English",
+  "country": "Japan, United States",
+  "awards": "2 wins & 49 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGZlN2EzOTYtMzUzOS00NTM3LTg0MTQtZDVjZGM4YmJlNWNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "59%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "46/100"
+    }
+  ],
+  "metascore": "46",
+  "imdbRating": "7.0",
+  "imdbID": "tt6718170",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:08.425Z"
+}

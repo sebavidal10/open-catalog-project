@@ -1,0 +1,35 @@
+{
+  "title": "On the Waterfront",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "22 Jun 1954",
+  "runtime": "108 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Elia Kazan",
+  "writer": "Budd Schulberg, Malcolm Johnson, Robert Siodmak",
+  "actors": "Marlon Brando, Karl Malden, Lee J. Cobb",
+  "plot": "An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother, as he starts to connect with the grieving sister of one of the syndicate's victims.",
+  "language": "English, Latin",
+  "country": "United States",
+  "awards": "Won 8 Oscars. 30 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDJlYTM1ZGYtZTM4YS00MzFhLThiZjktYzQ0ZjAzMGYwZTU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "metascore": "91",
+  "imdbRating": "8.1",
+  "imdbID": "tt0047296",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:43.952Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Melancholia",
+  "year": "2011",
+  "rated": "R",
+  "released": "26 May 2011",
+  "runtime": "135 min",
+  "genre": "Drama, Sci-Fi",
+  "director": "Lars von Trier",
+  "writer": "Lars von Trier",
+  "actors": "Kirsten Dunst, Charlotte Gainsbourg, Kiefer Sutherland",
+  "plot": "Two sisters find their already strained relationship challenged as a mysterious new planet threatens to collide with Earth.",
+  "language": "English",
+  "country": "Denmark, Sweden, France, Germany, Italy",
+  "awards": "36 wins & 95 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk4NjM0MjI3MV5BMl5BanBnXkFtZTcwNjcxMDYzNg@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.1",
+  "imdbID": "tt1527186",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:39:25.136Z"
+}

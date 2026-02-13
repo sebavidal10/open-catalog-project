@@ -1,0 +1,35 @@
+{
+  "title": "Sin City",
+  "year": "2005",
+  "rated": "R",
+  "released": "01 Apr 2005",
+  "runtime": "124 min",
+  "genre": "Crime, Thriller",
+  "director": "Frank Miller, Quentin Tarantino, Robert Rodriguez",
+  "writer": "Frank Miller, Robert Rodriguez",
+  "actors": "Mickey Rourke, Clive Owen, Bruce Willis",
+  "plot": "An exploration of the dark and miserable Basin City and three of its residents, all of whom are caught up in violent corruption.",
+  "language": "English",
+  "country": "United States",
+  "awards": "38 wins & 54 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWE2YmYyYzQtNGMwMi00Yzk0LTk3ZTYtYTcxNmFjMDE1MGExXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "8.0",
+  "imdbID": "tt0401792",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:39:07.546Z"
+}

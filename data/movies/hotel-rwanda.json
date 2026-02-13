@@ -1,0 +1,35 @@
+{
+  "title": "Hotel Rwanda",
+  "year": "2004",
+  "rated": "PG-13",
+  "released": "04 Feb 2005",
+  "runtime": "121 min",
+  "genre": "Biography, Drama, History",
+  "director": "Terry George",
+  "writer": "Keir Pearson, Terry George",
+  "actors": "Don Cheadle, Sophie Okonedo, Joaquin Phoenix",
+  "plot": "Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda, Africa.",
+  "language": "English, French, Kinyarwanda",
+  "country": "United States, United Kingdom, South Africa, Italy",
+  "awards": "Nominated for 3 Oscars. 16 wins & 49 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2FmMWRmZmQtN2IzMS00OGVmLWFmNjktMTM0YWQzODcwYTEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "8.1",
+  "imdbID": "tt0395169",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:39:06.376Z"
+}

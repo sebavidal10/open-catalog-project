@@ -1,0 +1,35 @@
+{
+  "title": "Ed Wood",
+  "year": "1994",
+  "rated": "R",
+  "released": "07 Oct 1994",
+  "runtime": "127 min",
+  "genre": "Biography, Comedy, Drama",
+  "director": "Tim Burton",
+  "writer": "Rudolph Grey, Scott Alexander, Larry Karaszewski",
+  "actors": "Johnny Depp, Martin Landau, Sarah Jessica Parker",
+  "plot": "Ambitious but troubled movie director Edward D. Wood Jr. tries his best to fulfill his dreams despite his lack of talent.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 27 wins & 33 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWU4NzlkZGEtODNmYi00YTVhLWJhYjAtZjBkN2Q1Y2U5NjE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.8",
+  "imdbID": "tt0109707",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:31.000Z"
+}

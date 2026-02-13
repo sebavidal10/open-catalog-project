@@ -1,0 +1,35 @@
+{
+  "title": "Moon",
+  "year": "2009",
+  "rated": "R",
+  "released": "10 Jul 2009",
+  "runtime": "97 min",
+  "genre": "Drama, Mystery, Sci-Fi",
+  "director": "Duncan Jones",
+  "writer": "Duncan Jones, Nathan Parker",
+  "actors": "Sam Rockwell, Kevin Spacey, Dominique McElligott",
+  "plot": "Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth, parcels of a resource that has helped diminish ...",
+  "language": "English, Spanish",
+  "country": "United Kingdom, United States",
+  "awards": "Won 1 BAFTA Award28 wins & 37 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgzODgyNTQwOV5BMl5BanBnXkFtZTcwNzc0NTc0Mg@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "7.8",
+  "imdbID": "tt1182345",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:39:20.456Z"
+}

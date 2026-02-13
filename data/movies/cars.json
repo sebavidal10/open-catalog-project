@@ -1,0 +1,35 @@
+{
+  "title": "Cars",
+  "year": "2006",
+  "rated": "G",
+  "released": "09 Jun 2006",
+  "runtime": "116 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "John Lasseter, Joe Ranft",
+  "writer": "John Lasseter, Joe Ranft, Jorgen Klubien",
+  "actors": "Owen Wilson, Bonnie Hunt, Paul Newman",
+  "plot": "On the way to the biggest race of his life, a hotshot rookie race car gets stranded in a rundown town and learns that winning isn't everything in life.",
+  "language": "English, Italian, Japanese, Yiddish",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 28 wins & 34 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg5NzY0MzA2MV5BMl5BanBnXkFtZTYwNDc3NTc2._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.3",
+  "imdbID": "tt0317219",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:01.383Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Burning",
+  "year": "2018",
+  "rated": "Not Rated",
+  "released": "17 May 2018",
+  "runtime": "148 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "Lee Chang-dong",
+  "writer": "Jungmi Oh, Lee Chang-dong, Haruki Murakami",
+  "actors": "Yoo Ah-in, Steven Yeun, Jeon Jong-seo",
+  "plot": "Jong-su bumps into a girl who used to live in the same neighborhood, who asks him to look after her cat while she's on a trip to Africa. When back, she introduces Ben, a mysterious guy she met there, who confesses his secret hobby.",
+  "language": "Korean, English",
+  "country": "South Korea, Japan",
+  "awards": "54 wins & 144 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWU3YzgzMTgtOTIwYi00MmNkLWExYWEtZTEyOTAzYzEwM2Q2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "metascore": "91",
+  "imdbRating": "7.4",
+  "imdbID": "tt7282468",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:39:36.884Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Third Man",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "01 Feb 1950",
+  "runtime": "104 min",
+  "genre": "Drama, Film-Noir, Mystery",
+  "director": "Carol Reed",
+  "writer": "Graham Greene, Alexander Korda, Carol Reed",
+  "actors": "Orson Welles, Joseph Cotten, Alida Valli",
+  "plot": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+  "language": "English, German, Russian, French",
+  "country": "United Kingdom, United States",
+  "awards": "Won 1 Oscar. 6 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGVjMTMxZTQtMmVlNy00YmI0LWJjMDUtYTgyZWU1Njg5ZGRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "97/100"
+    }
+  ],
+  "metascore": "97",
+  "imdbRating": "8.1",
+  "imdbID": "tt0041959",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:30.069Z"
+}

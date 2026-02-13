@@ -1,0 +1,35 @@
+{
+  "title": "All the President's Men",
+  "year": "1976",
+  "rated": "PG",
+  "released": "09 Apr 1976",
+  "runtime": "138 min",
+  "genre": "Drama, History, Thriller",
+  "director": "Alan J. Pakula",
+  "writer": "Carl Bernstein, Bob Woodward, William Goldman",
+  "actors": "Dustin Hoffman, Robert Redford, Jack Warden",
+  "plot": "\"The Washington Post\" reporters Bob Woodward and Carl Bernstein uncover the details of the Watergate scandal that leads to President Richard Nixon's resignation.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Won 4 Oscars. 17 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGQzMzcwMDYtMmNjNS00YzZlLTg2MjUtNTE0MThlNTFjMDQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.9",
+  "imdbID": "tt0074119",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:53.496Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Network",
+  "year": "1976",
+  "rated": "R",
+  "released": "27 Nov 1976",
+  "runtime": "121 min",
+  "genre": "Drama",
+  "director": "Sidney Lumet",
+  "writer": "Paddy Chayefsky",
+  "actors": "Faye Dunaway, William Holden, Peter Finch",
+  "plot": "A television network cynically exploits a deranged former anchor's ravings and revelations about mass media for its own profit, but finds that his message may be difficult to control.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 4 Oscars. 20 wins & 27 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2E4ZGJiNTMtZTAxZC00MmVlLWI1NjYtMGVhMjhkOGEwZDhjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "8.1",
+  "imdbID": "tt0074958",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:54.674Z"
+}

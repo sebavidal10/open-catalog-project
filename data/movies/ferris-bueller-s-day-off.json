@@ -1,0 +1,35 @@
+{
+  "title": "Ferris Bueller's Day Off",
+  "year": "1986",
+  "rated": "PG-13",
+  "released": "11 Jun 1986",
+  "runtime": "103 min",
+  "genre": "Comedy",
+  "director": "John Hughes",
+  "writer": "John Hughes",
+  "actors": "Matthew Broderick, Alan Ruck, Mia Sara",
+  "plot": "A brash, cocky high school senior, tired of skipping school to spend a boring day at home, is determined to enjoy an epic day roaring around his favorite Chicago sites, enlisting his best friend and girlfriend to join him on the a...",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "3 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWYwMjUxNjMtMzE0MC00NDM3LWIxMmQtYmEyNWVjNjdlZGZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "7.8",
+  "imdbID": "tt0091042",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:14.608Z"
+}

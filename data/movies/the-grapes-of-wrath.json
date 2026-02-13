@@ -1,0 +1,35 @@
+{
+  "title": "The Grapes of Wrath",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "15 Mar 1940",
+  "runtime": "129 min",
+  "genre": "Drama",
+  "director": "John Ford",
+  "writer": "Nunnally Johnson, John Steinbeck",
+  "actors": "Henry Fonda, Jane Darwell, John Carradine",
+  "plot": "An Oklahoma family, driven off their farm by the poverty and hopelessness of the Dust Bowl, joins the westward migration to California, suffering the misfortunes of the homeless in the Great Depression.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 13 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDgzZjk3OGYtNWI2Ny00MDg3LTgwYWEtNjI1ODAxNjA3ZmFlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
+  "metascore": "96",
+  "imdbRating": "8.1",
+  "imdbID": "tt0032551",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:47.461Z"
+}

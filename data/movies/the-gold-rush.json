@@ -1,0 +1,35 @@
+{
+  "title": "The Gold Rush",
+  "year": "1925",
+  "rated": "Approved",
+  "released": "16 Aug 1925",
+  "runtime": "95 min",
+  "genre": "Adventure, Comedy, Drama",
+  "director": "Charles Chaplin",
+  "writer": "Charles Chaplin",
+  "actors": "Charles Chaplin, Mack Swain, Tom Murray",
+  "plot": "A prospector goes to the Klondike during the 1890s gold rush in hopes of making his fortune, and is smitten with a girl he sees in a dance hall.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 7 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGU1NjYzYTAtZmY0YS00NWIzLTkzNzUtYzc2ZTIyOTIxZjVhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "8.1",
+  "imdbID": "tt0015864",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:55.648Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "South Park: Bigger, Longer & Uncut",
+  "year": "1999",
+  "rated": "R",
+  "released": "30 Jun 1999",
+  "runtime": "81 min",
+  "genre": "Animation, Comedy, Fantasy",
+  "director": "Trey Parker",
+  "writer": "Trey Parker, Matt Stone, Pam Brady",
+  "actors": "Trey Parker, Matt Stone, Mary Kay Bergman",
+  "plot": "When Eric Cartman and his friends go see an R-rated movie, they start cursing and their parents think that Canada is to blame.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 7 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDcyNDE4OWEtMjIzNi00OTdmLWIwMWEtNWU2ZjM4ZjA4YzNkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.7",
+  "imdbID": "tt0158983",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:47.450Z"
+}

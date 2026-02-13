@@ -1,0 +1,31 @@
+{
+  "title": "The 400 Blows",
+  "year": "1959",
+  "rated": "Not Rated",
+  "released": "16 Nov 1959",
+  "runtime": "99 min",
+  "genre": "Crime, Drama",
+  "director": "François Truffaut",
+  "writer": "François Truffaut, Marcel Moussy",
+  "actors": "Jean-Pierre Léaud, Albert Rémy, Claire Maurier",
+  "plot": "A young boy, left without attention, delves into a life of petty crime.",
+  "language": "French, English",
+  "country": "France",
+  "awards": "Nominated for 1 Oscar. 8 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTU3YTM0YzQtMmFlOS00OTIxLWFmZjctMDJkOGQxNTVhODM3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.0",
+  "imdbID": "tt0053198",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:05.326Z"
+}

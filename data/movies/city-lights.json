@@ -1,0 +1,35 @@
+{
+  "title": "City Lights",
+  "year": "1931",
+  "rated": "G",
+  "released": "07 Mar 1931",
+  "runtime": "87 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Charles Chaplin",
+  "writer": "Charles Chaplin, Harry Carr, Harry Crocker",
+  "actors": "Charles Chaplin, Virginia Cherrill, Florence Lee",
+  "plot": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "6 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmMwZDIyZWUtODVhYS00MDRmLTg0N2ItMzU5MGZhN2IxNmZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "99/100"
+    }
+  ],
+  "metascore": "99",
+  "imdbRating": "8.5",
+  "imdbID": "tt0021749",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:20.181Z"
+}

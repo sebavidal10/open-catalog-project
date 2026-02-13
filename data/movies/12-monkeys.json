@@ -1,0 +1,35 @@
+{
+  "title": "12 Monkeys",
+  "year": "1995",
+  "rated": "R",
+  "released": "05 Jan 1996",
+  "runtime": "129 min",
+  "genre": "Mystery, Sci-Fi, Thriller",
+  "director": "Terry Gilliam",
+  "writer": "Chris Marker, David Webb Peoples, Janet Peoples",
+  "actors": "Bruce Willis, Madeleine Stowe, Brad Pitt",
+  "plot": "In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.",
+  "language": "English, French, Latin, Spanish, German",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 11 wins & 25 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDQwNDY0M2MtOGFmNy00ZjI5LTkzN2ItMzg5M2IwZTZjY2MyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "8.0",
+  "imdbID": "tt0114746",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:35.690Z"
+}

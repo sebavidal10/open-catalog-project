@@ -1,0 +1,35 @@
+{
+  "title": "La Dolce Vita",
+  "year": "1960",
+  "rated": "TV-14",
+  "released": "19 Apr 1961",
+  "runtime": "174 min",
+  "genre": "Comedy, Drama",
+  "director": "Federico Fellini",
+  "writer": "Federico Fellini, Ennio Flaiano, Tullio Pinelli",
+  "actors": "Marcello Mastroianni, Anita Ekberg, Anouk Aimée",
+  "plot": "A series of stories following a week in the life of a philandering tabloid journalist living in Rome.",
+  "language": "Italian, English, French, German",
+  "country": "Italy, France",
+  "awards": "Won 1 Oscar. 11 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkxMjQ4NzU5N15BMl5BanBnXkFtZTgwMTkwODkzMTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "95/100"
+    }
+  ],
+  "metascore": "95",
+  "imdbRating": "8.0",
+  "imdbID": "tt0053779",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:07.664Z"
+}

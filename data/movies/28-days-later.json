@@ -1,0 +1,35 @@
+{
+  "title": "28 Days Later",
+  "year": "2002",
+  "rated": "R",
+  "released": "27 Jun 2003",
+  "runtime": "113 min",
+  "genre": "Drama, Horror, Sci-Fi",
+  "director": "Danny Boyle",
+  "writer": "Alex Garland",
+  "actors": "Cillian Murphy, Naomie Harris, Christopher Eccleston",
+  "plot": "Four weeks after a mysterious, incurable virus spreads throughout the United Kingdom, a handful of survivors try to find sanctuary.",
+  "language": "English, Spanish, Finnish",
+  "country": "United Kingdom, United States",
+  "awards": "10 wins & 32 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2I4NTI0ZGQtNGQ2ZC00ODIxLWI2N2QtMDBkNzI1NDhjYjE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.5",
+  "imdbID": "tt0289043",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:39:00.526Z"
+}

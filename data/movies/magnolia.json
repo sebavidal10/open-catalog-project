@@ -1,0 +1,35 @@
+{
+  "title": "Magnolia",
+  "year": "1999",
+  "rated": "R",
+  "released": "07 Jan 2000",
+  "runtime": "188 min",
+  "genre": "Drama",
+  "director": "Paul Thomas Anderson",
+  "writer": "Paul Thomas Anderson",
+  "actors": "Tom Cruise, Jason Robards, Julianne Moore",
+  "plot": "An epic mosaic of interrelated characters in search of love, forgiveness and meaning in the San Fernando Valley.",
+  "language": "English, German, French",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 28 wins & 59 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWY0Zjk1YTMtMGFlYi00OTFmLWEyOTAtNmRkYjE0ZDJiZWMwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "8.0",
+  "imdbID": "tt0175880",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:42.713Z"
+}

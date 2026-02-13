@@ -1,0 +1,35 @@
+{
+  "title": "Cast Away",
+  "year": "2000",
+  "rated": "PG-13",
+  "released": "22 Dec 2000",
+  "runtime": "143 min",
+  "genre": "Adventure, Drama, Romance",
+  "director": "Robert Zemeckis",
+  "writer": "William Broyles Jr.",
+  "actors": "Tom Hanks, Helen Hunt, Paul Sanchez",
+  "plot": "A FedEx executive undergoes a physical and emotional transformation after crash landing on a deserted island.",
+  "language": "English, Russian",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 15 wins & 36 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGNjNDI5ZGQtZjRjMy00NzQyLWFiYzQtYjcwNjM3ZDYwNThhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.8",
+  "imdbID": "tt0162222",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:35:57.866Z"
+}

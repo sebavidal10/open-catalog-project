@@ -1,0 +1,35 @@
+{
+  "title": "Breathless",
+  "year": "1960",
+  "rated": "Not Rated",
+  "released": "07 Feb 1961",
+  "runtime": "90 min",
+  "genre": "Crime, Drama",
+  "director": "Jean-Luc Godard",
+  "writer": "Claude Chabrol, Jean-Luc Godard, François Truffaut",
+  "actors": "Jean-Paul Belmondo, Jean Seberg, Richard Balducci",
+  "plot": "A small-time crook, hunted by the authorities for a car theft and the murder of a police officer, attempts to persuade a hip American journalism student to run away with him to Italy.",
+  "language": "French, English",
+  "country": "France",
+  "awards": "Nominated for 1 BAFTA Award5 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGI5MWNjYmEtNzUxZC00YTI3LWE5MzctZTdhYjJkMGMxYzI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
+  "metascore": "96",
+  "imdbRating": "7.7",
+  "imdbID": "tt0053472",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:06.493Z"
+}

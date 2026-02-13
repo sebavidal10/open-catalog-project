@@ -1,0 +1,35 @@
+{
+  "title": "Fantastic Mr. Fox",
+  "year": "2009",
+  "rated": "PG",
+  "released": "25 Nov 2009",
+  "runtime": "87 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Wes Anderson",
+  "writer": "Roald Dahl, Wes Anderson, Noah Baumbach",
+  "actors": "George Clooney, Meryl Streep, Bill Murray",
+  "plot": "An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.",
+  "language": "English, French",
+  "country": "United States, United Kingdom",
+  "awards": "Nominated for 2 Oscars. 32 wins & 63 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTA1ZTIxZDUtNGFjYS00YTc5LTgzNDMtZWNjYjBlMzI2OTk3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.9",
+  "imdbID": "tt0432283",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:39:19.264Z"
+}

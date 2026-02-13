@@ -1,0 +1,35 @@
+{
+  "title": "Mulholland Drive",
+  "year": "2001",
+  "rated": "R",
+  "released": "19 Oct 2001",
+  "runtime": "147 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "David Lynch",
+  "writer": "David Lynch",
+  "actors": "Naomi Watts, Laura Harring, Justin Theroux",
+  "plot": "After a car wreck on Mulholland Drive renders a woman amnesiac, she and a Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality.",
+  "language": "English, Spanish, French",
+  "country": "France, United States",
+  "awards": "Nominated for 1 Oscar. 50 wins & 61 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjliY2UwMjQtYjVlNi00NzExLTg1MDMtMjE2OTYwYjI0NTcxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.9",
+  "imdbID": "tt0166924",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:54.651Z"
+}

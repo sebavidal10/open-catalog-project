@@ -1,0 +1,35 @@
+{
+  "title": "Close Encounters of the Third Kind",
+  "year": "1977",
+  "rated": "PG",
+  "released": "14 Dec 1977",
+  "runtime": "138 min",
+  "genre": "Drama, Sci-Fi",
+  "director": "Steven Spielberg",
+  "writer": "Steven Spielberg, Hal Barwood, Jerry Belson",
+  "actors": "Richard Dreyfuss, François Truffaut, Teri Garr",
+  "plot": "An Indiana electric lineman finds his quiet and ordinary daily life turned upside down after a close encounter with a UFO, spurring him to an obsessed cross-country quest for answers as a momentous event approaches.",
+  "language": "English",
+  "country": "United States, United Kingdom",
+  "awards": "Won 1 Oscar. 16 wins & 40 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM1NjE5NjQxN15BMl5BanBnXkFtZTgwMjYzMzQxMDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "7.6",
+  "imdbID": "tt0075860",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:57.033Z"
+}

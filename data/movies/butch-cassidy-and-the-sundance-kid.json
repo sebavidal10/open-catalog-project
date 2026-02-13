@@ -1,0 +1,35 @@
+{
+  "title": "Butch Cassidy and the Sundance Kid",
+  "year": "1969",
+  "rated": "PG",
+  "released": "24 Sep 1969",
+  "runtime": "110 min",
+  "genre": "Adventure, Biography, Crime",
+  "director": "George Roy Hill",
+  "writer": "William Goldman",
+  "actors": "Paul Newman, Robert Redford, Katharine Ross",
+  "plot": "In 1890s Wyoming, Butch Cassidy and The Sundance Kid lead a band of outlaws. When a train robbery goes wrong, they find themselves on the run with a posse hard on their heels..",
+  "language": "English, Spanish",
+  "country": "United States, Mexico",
+  "awards": "Won 4 Oscars. 22 wins & 15 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkyMTM2NDk5Nl5BMl5BanBnXkFtZTgwNzY1NzEyMDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "8.0",
+  "imdbID": "tt0064115",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:44.135Z"
+}

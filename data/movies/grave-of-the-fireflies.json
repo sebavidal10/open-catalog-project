@@ -1,0 +1,35 @@
+{
+  "title": "Grave of the Fireflies",
+  "year": "1988",
+  "rated": "Not Rated",
+  "released": "26 Jul 1989",
+  "runtime": "88 min",
+  "genre": "Animation, Drama, War",
+  "director": "Isao Takahata",
+  "writer": "Akiyuki Nosaka, Isao Takahata",
+  "actors": "Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi",
+  "plot": "A young boy and his little sister struggle to survive in Japan during World War II.",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTY5MmE2OGMtN2IxNC00MDY4LTkwMGEtZDUzOTYyNWE0ZTNjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "8.5",
+  "imdbID": "tt0095327",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:21.874Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Lobster",
+  "year": "2015",
+  "rated": "R",
+  "released": "16 Oct 2015",
+  "runtime": "119 min",
+  "genre": "Drama, Romance, Sci-Fi",
+  "director": "Yorgos Lanthimos",
+  "writer": "Yorgos Lanthimos, Efthimis Filippou",
+  "actors": "Colin Farrell, Rachel Weisz, Jessica Barden",
+  "plot": "In a dystopian near future, according to the laws of The City, single people are taken to The Hotel, where they are obliged to find a romantic partner in 45 days or they're transformed into beasts and sent off into The Woods.",
+  "language": "English, French, Greek",
+  "country": "Ireland, United Kingdom, Greece, France, Netherlands, Belgium, United States",
+  "awards": "Nominated for 1 Oscar. 33 wins & 84 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDQ1NDE5NzQ1NF5BMl5BanBnXkFtZTgwNzA5OTM2NTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "7.1",
+  "imdbID": "tt3464902",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:39:33.372Z"
+}

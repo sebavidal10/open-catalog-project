@@ -1,0 +1,35 @@
+{
+  "title": "Fatal Attraction",
+  "year": "1987",
+  "rated": "R",
+  "released": "18 Sep 1987",
+  "runtime": "119 min",
+  "genre": "Drama, Thriller",
+  "director": "Adrian Lyne",
+  "writer": "James Dearden",
+  "actors": "Michael Douglas, Glenn Close, Anne Archer",
+  "plot": "A married man's one-night stand comes back to haunt him when that lover begins to stalk him and his family.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 6 Oscars. 10 wins & 24 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYxY2MxZGUtYWMwYi00YTI4LWE5MTItZjRiZDIzNzdhNWY3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "6.9",
+  "imdbID": "tt0093010",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:16.952Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Blade Runner",
+  "year": "1982",
+  "rated": "R",
+  "released": "25 Jun 1982",
+  "runtime": "117 min",
+  "genre": "Action, Drama, Sci-Fi",
+  "director": "Ridley Scott",
+  "writer": "Hampton Fancher, David Webb Peoples, Philip K. Dick",
+  "actors": "Harrison Ford, Rutger Hauer, Sean Young",
+  "plot": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
+  "language": "English, German, Cantonese, Japanese, Hungarian, Arabic, Korean",
+  "country": "United States, United Kingdom, Hong Kong",
+  "awards": "Nominated for 2 Oscars. 13 wins & 22 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWQ4YTBmNTQtMDYxMC00NGFjLTkwOGQtNzdhNmY1Nzc1MzUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "8.1",
+  "imdbID": "tt0083658",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:05.225Z"
+}

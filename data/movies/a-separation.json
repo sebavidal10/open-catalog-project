@@ -1,0 +1,35 @@
+{
+  "title": "A Separation",
+  "year": "2011",
+  "rated": "PG-13",
+  "released": "16 Mar 2011",
+  "runtime": "123 min",
+  "genre": "Drama",
+  "director": "Asghar Farhadi",
+  "writer": "Asghar Farhadi",
+  "actors": "Leila Hatami, Payman Maadi, Shahab Hosseini",
+  "plot": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+  "language": "Persian",
+  "country": "Iran, France, Australia",
+  "awards": "Won 1 Oscar. 89 wins & 52 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDM0ZWRmMzctM2M5ZS00ZjU0LWIxN2MtNWNlNGY1ZDhjMDVhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "95/100"
+    }
+  ],
+  "metascore": "95",
+  "imdbRating": "8.3",
+  "imdbID": "tt1832382",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:39:23.969Z"
+}

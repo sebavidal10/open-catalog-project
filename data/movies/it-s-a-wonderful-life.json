@@ -1,0 +1,35 @@
+{
+  "title": "It's a Wonderful Life",
+  "year": "1946",
+  "rated": "PG",
+  "released": "07 Jan 1947",
+  "runtime": "130 min",
+  "genre": "Drama, Family, Fantasy",
+  "director": "Frank Capra",
+  "writer": "Frances Goodrich, Albert Hackett, Frank Capra",
+  "actors": "James Stewart, Donna Reed, Lionel Barrymore",
+  "plot": "An angel is sent from Heaven to help a desperately frustrated businessman see the value of his own life.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 5 Oscars. 11 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDM4OWFhYjEtNTE5Yy00NjcyLTg5N2UtZDQwNDZlYjlmNDU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "8.6",
+  "imdbID": "tt0038650",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:17.833Z"
+}

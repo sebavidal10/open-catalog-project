@@ -1,0 +1,35 @@
+{
+  "title": "The Big Sleep",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "31 Aug 1946",
+  "runtime": "114 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Howard Hawks",
+  "writer": "William Faulkner, Leigh Brackett, Jules Furthman",
+  "actors": "Humphrey Bogart, Lauren Bacall, John Ridgely",
+  "plot": "Private detective Philip Marlowe is hired by a wealthy family. Before the complex case is over, he's seen murder, blackmail--and what might be love.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTVlNDAwZTAtZmY0My00NDMyLWFkZjMtMjY0NmVmOTFlNTdhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.9",
+  "imdbID": "tt0038355",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:28.895Z"
+}

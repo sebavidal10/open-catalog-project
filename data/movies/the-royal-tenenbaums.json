@@ -1,0 +1,35 @@
+{
+  "title": "The Royal Tenenbaums",
+  "year": "2001",
+  "rated": "R",
+  "released": "04 Jan 2002",
+  "runtime": "110 min",
+  "genre": "Comedy, Drama",
+  "director": "Wes Anderson",
+  "writer": "Wes Anderson, Owen Wilson",
+  "actors": "Gene Hackman, Gwyneth Paltrow, Anjelica Huston",
+  "plot": "The eccentric members of a dysfunctional family reluctantly gather under the same roof for various reasons.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 11 wins & 46 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTc1MzFlMjEtMzkyNC00NDgyLThjMjMtMzQzZGI5YjUyNzU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.6",
+  "imdbID": "tt0265666",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:55.829Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Donnie Darko",
+  "year": "2001",
+  "rated": "R",
+  "released": "19 Jan 2001",
+  "runtime": "113 min",
+  "genre": "Drama, Mystery, Sci-Fi",
+  "director": "Richard Kelly",
+  "writer": "Richard Kelly",
+  "actors": "Jake Gyllenhaal, Jena Malone, Mary McDonnell",
+  "plot": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes.",
+  "language": "English",
+  "country": "United States",
+  "awards": "12 wins & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWE3NTYzZmEtM2U5MS00MDZhLTk2ZTQtZTgzNjg0ZGQ5ZjM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "8.0",
+  "imdbID": "tt0246578",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:58.164Z"
+}

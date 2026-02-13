@@ -1,0 +1,31 @@
+{
+  "title": "Hero",
+  "year": "2002",
+  "rated": "PG-13",
+  "released": "27 Aug 2004",
+  "runtime": "107 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Yimou Zhang",
+  "writer": "Feng Li, Yimou Zhang, Bin Wang",
+  "actors": "Jet Li, Tony Leung Chiu-wai, Maggie Cheung",
+  "plot": "A defense officer, Nameless, was summoned by the King of Qin regarding his success of terminating three warriors.",
+  "language": "Mandarin",
+  "country": "Hong Kong, China",
+  "awards": "Nominated for 1 Oscar. 46 wins & 48 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTlkZWVjYzQtZmI1My00MGM2LTlmZjEtNjU1M2Y1MTRkNmZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "7.9",
+  "imdbID": "tt0299977",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:59.350Z"
+}

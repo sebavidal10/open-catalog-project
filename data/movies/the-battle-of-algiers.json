@@ -1,0 +1,35 @@
+{
+  "title": "The Battle of Algiers",
+  "year": "1966",
+  "rated": "Not Rated",
+  "released": "20 Sep 1967",
+  "runtime": "121 min",
+  "genre": "Drama, War",
+  "director": "Gillo Pontecorvo",
+  "writer": "Franco Solinas, Gillo Pontecorvo",
+  "actors": "Brahim Hadjadj, Jean Martin, Yacef Saadi",
+  "plot": "In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.",
+  "language": "Arabic, French, English, Spanish",
+  "country": "Italy, Algeria",
+  "awards": "Nominated for 3 Oscars. 9 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY2Mjk0OGEtYTM3Yy00ZWZiLWFhNjAtNGExMjEzNGVmMDMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
+  "metascore": "96",
+  "imdbRating": "8.1",
+  "imdbID": "tt0058946",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:11.345Z"
+}

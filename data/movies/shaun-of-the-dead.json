@@ -1,0 +1,35 @@
+{
+  "title": "Shaun of the Dead",
+  "year": "2004",
+  "rated": "R",
+  "released": "24 Sep 2004",
+  "runtime": "99 min",
+  "genre": "Comedy, Horror",
+  "director": "Edgar Wright",
+  "writer": "Simon Pegg, Edgar Wright",
+  "actors": "Simon Pegg, Kate Ashfield, Nick Frost",
+  "plot": "The uneventful, aimless lives of a London electronics salesman and his layabout roommate are disrupted by the zombie apocalypse.",
+  "language": "English",
+  "country": "United Kingdom, France, United States",
+  "awards": "Nominated for 3 BAFTA 14 wins & 20 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzNjZGE4YTUtOWU3OC00Mzg2LThjNWItMzUwYzEwMDgxYmVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.8",
+  "imdbID": "tt0365748",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:39:05.206Z"
+}

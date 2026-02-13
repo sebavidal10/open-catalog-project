@@ -1,0 +1,35 @@
+{
+  "title": "Paths of Glory",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "25 Dec 1957",
+  "runtime": "88 min",
+  "genre": "Drama, War",
+  "director": "Stanley Kubrick",
+  "writer": "Stanley Kubrick, Calder Willingham, Jim Thompson",
+  "actors": "Kirk Douglas, Ralph Meeker, Adolphe Menjou",
+  "plot": "A colonel defends three of his soldiers in a court-martial after they abandon a suicidal attack.",
+  "language": "English, German, Latin",
+  "country": "United States",
+  "awards": "Nominated for 1 BAFTA Award5 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmQ2NmI2ODYtMDQzNS00NzQyLTkzZjgtZmZlYTQ5MTc1OWU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "8.4",
+  "imdbID": "tt0050825",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:25.033Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Barry Lyndon",
+  "year": "1975",
+  "rated": "PG",
+  "released": "18 Dec 1975",
+  "runtime": "185 min",
+  "genre": "Adventure, Drama, War",
+  "director": "Stanley Kubrick",
+  "writer": "Stanley Kubrick, William Makepeace Thackeray",
+  "actors": "Ryan O'Neal, Marisa Berenson, Patrick Magee",
+  "plot": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+  "language": "English, German, French",
+  "country": "United Kingdom, United States",
+  "awards": "Won 4 Oscars. 18 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmM2MGQ5Y2UtYzA3ZC00ZDJlLTkwNDYtMjBmZGExZDJiN2RlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "8.1",
+  "imdbID": "tt0072684",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:52.324Z"
+}

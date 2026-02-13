@@ -1,0 +1,35 @@
+{
+  "title": "Clerks",
+  "year": "1994",
+  "rated": "R",
+  "released": "09 Nov 1994",
+  "runtime": "92 min",
+  "genre": "Comedy",
+  "director": "Kevin Smith",
+  "writer": "Kevin Smith",
+  "actors": "Brian O'Halloran, Jeff Anderson, Marilyn Ghigliotti",
+  "plot": "A day in the lives of two convenience clerks named Dante and Randal as they annoy customers, discuss movies, and play hockey on the store roof.",
+  "language": "English",
+  "country": "United States",
+  "awards": "7 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzcwZTU5NzMtMGIxYi00NjRhLThkYTItNjhlYWQ0MjdhYWFmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "7.7",
+  "imdbID": "tt0109445",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:29.831Z"
+}

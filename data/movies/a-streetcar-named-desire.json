@@ -1,0 +1,35 @@
+{
+  "title": "A Streetcar Named Desire",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "19 Sep 1951",
+  "runtime": "122 min",
+  "genre": "Drama",
+  "director": "Elia Kazan",
+  "writer": "Tennessee Williams, Oscar Saul",
+  "actors": "Vivien Leigh, Marlon Brando, Kim Hunter",
+  "plot": "Disturbed Blanche DuBois moves in with her sister in New Orleans and is tormented by her brutish brother-in-law while her reality crumbles around her.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Won 4 Oscars. 22 wins & 15 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTdmZDY1ODQtNzFjYy00MGM4LWJmNDItN2MxMmQ2OTgxZGNmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "97/100"
+    }
+  ],
+  "metascore": "97",
+  "imdbRating": "7.9",
+  "imdbID": "tt0044081",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:32.415Z"
+}

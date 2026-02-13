@@ -1,0 +1,35 @@
+{
+  "title": "RoboCop",
+  "year": "1987",
+  "rated": "R",
+  "released": "17 Jul 1987",
+  "runtime": "102 min",
+  "genre": "Action, Crime, Sci-Fi",
+  "director": "Paul Verhoeven",
+  "writer": "Edward Neumeier, Michael Miner",
+  "actors": "Peter Weller, Nancy Allen, Dan O'Herlihy",
+  "plot": "In a violent future in Old Detroit, murdered police officer Alex Murphy is resurrected as RoboCop, a powerful cyborg law enforcer. As he fights crime, he begins to recover memories of his past and seeks revenge on the gang who kil...",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 11 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWM1YzRhODktZDE1MC00NzBlLTk0NGMtOGNhZDQyMmJiZGFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "7.6",
+  "imdbID": "tt0093870",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:18.120Z"
+}

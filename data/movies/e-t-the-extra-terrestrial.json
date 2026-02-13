@@ -1,0 +1,35 @@
+{
+  "title": "E.T. the Extra-Terrestrial",
+  "year": "1982",
+  "rated": "PG",
+  "released": "11 Jun 1982",
+  "runtime": "115 min",
+  "genre": "Adventure, Family, Sci-Fi",
+  "director": "Steven Spielberg",
+  "writer": "Melissa Mathison",
+  "actors": "Henry Thomas, Drew Barrymore, Peter Coyote",
+  "plot": "A troubled child summons the courage to help a friendly alien escape from Earth and return to his home planet.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 4 Oscars. 52 wins & 39 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTNhNmY0YWMtMTczYi00MTA0LThhMmUtMTIxYzE0Y2QwMzRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "metascore": "92",
+  "imdbRating": "7.9",
+  "imdbID": "tt0083866",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:04.054Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Do the Right Thing",
+  "year": "1989",
+  "rated": "R",
+  "released": "21 Jul 1989",
+  "runtime": "120 min",
+  "genre": "Comedy, Drama",
+  "director": "Spike Lee",
+  "writer": "Spike Lee",
+  "actors": "Danny Aiello, Ossie Davis, Ruby Dee",
+  "plot": "On the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence.",
+  "language": "English, Italian, Spanish, Korean",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 21 wins & 19 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODA2MjU1NTI1MV5BMl5BanBnXkFtZTgwOTU4ODIwMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "93/100"
+    }
+  ],
+  "metascore": "93",
+  "imdbRating": "8.0",
+  "imdbID": "tt0097216",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:24.212Z"
+}

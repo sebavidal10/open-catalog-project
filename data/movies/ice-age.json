@@ -1,0 +1,35 @@
+{
+  "title": "Ice Age",
+  "year": "2002",
+  "rated": "PG",
+  "released": "15 Mar 2002",
+  "runtime": "81 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Chris Wedge, Carlos Saldanha",
+  "writer": "Michael Berg, Michael J. Wilson, Peter Ackerman",
+  "actors": "Denis Leary, John Leguizamo, Ray Romano",
+  "plot": "Manny the mammoth, Sid the loquacious sloth, and Diego the sabre-toothed tiger go on a comical quest to return a human baby back to his father, across a world on the brink of an ice age.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 5 wins & 30 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDBlYzU2OGMtOGJjNi00ZGZjLWIwNjMtYzdiZjkwYWNjZDljXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "7.5",
+  "imdbID": "tt0268380",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:35:59.036Z"
+}

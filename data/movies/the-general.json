@@ -1,0 +1,31 @@
+{
+  "title": "The General",
+  "year": "1926",
+  "rated": "Passed",
+  "released": "02 Jan 1927",
+  "runtime": "78 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Clyde Bruckman, Buster Keaton",
+  "writer": "Buster Keaton, Clyde Bruckman, Al Boasberg",
+  "actors": "Buster Keaton, Marion Mack, Glen Cavender",
+  "plot": "After being rejected by the Confederate military, not realizing it was due to his crucial civilian role, an engineer must single-handedly recapture his beloved locomotive after it is seized by Union spies and return it through ene...",
+  "language": "None",
+  "country": "United States",
+  "awards": "3 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTVhM2Y1MDUtMDkxYi00Y2UxLWI2MTMtZjMzYTY4ODM4MGIzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.1",
+  "imdbID": "tt0017925",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:54.478Z"
+}

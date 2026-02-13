@@ -1,0 +1,35 @@
+{
+  "title": "Battleship Potemkin",
+  "year": "1925",
+  "rated": "Not Rated",
+  "released": "24 Dec 1925",
+  "runtime": "66 min",
+  "genre": "Drama, History, Thriller",
+  "director": "Sergei Eisenstein",
+  "writer": "Nina Agadzhanova, Sergei Eisenstein, Grigoriy Aleksandrov",
+  "actors": "Aleksandr Antonov, Vladimir Barskiy, Grigoriy Aleksandrov",
+  "plot": "In the midst of the Russian Revolution of 1905, the crew of the battleship Potemkin mutiny against the brutal, tyrannical regime of the vessel's officers. The resulting street demonstration in Odessa brings on a police massacre.",
+  "language": "None, Russian, English",
+  "country": "Soviet Union",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmY5ZGQwMTEtM2E0ZC00NzVkLTgyYzktZDYxMjhiMzA5N2MzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "97/100"
+    }
+  ],
+  "metascore": "97",
+  "imdbRating": "7.9",
+  "imdbID": "tt0015648",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:00.494Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Strangers on a Train",
+  "year": "1951",
+  "rated": "PG",
+  "released": "30 Jun 1951",
+  "runtime": "101 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Alfred Hitchcock",
+  "writer": "Raymond Chandler, Czenzi Ormonde, Whitfield Cook",
+  "actors": "Farley Granger, Robert Walker, Ruth Roman",
+  "plot": "A psychopath tries to forcibly persuade a tennis star to agree to his theory that two strangers can get away with murder by submitting to his plan to kill the other's most-hated person.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 6 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjZkNjIwYjktN2IzOC00MmJlLWFkNDItZDZmNGZkNjQzZTA0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "7.9",
+  "imdbID": "tt0044079",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:31.240Z"
+}

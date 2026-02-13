@@ -1,0 +1,35 @@
+{
+  "title": "All About Eve",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "27 Oct 1950",
+  "runtime": "138 min",
+  "genre": "Drama",
+  "director": "Joseph L. Mankiewicz",
+  "writer": "Joseph L. Mankiewicz, Mary Orr",
+  "actors": "Bette Davis, Anne Baxter, George Sanders",
+  "plot": "A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Won 6 Oscars. 27 wins & 22 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "98/100"
+    }
+  ],
+  "metascore": "98",
+  "imdbRating": "8.2",
+  "imdbID": "tt0042192",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:45.122Z"
+}

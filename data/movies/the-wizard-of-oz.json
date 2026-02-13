@@ -1,0 +1,35 @@
+{
+  "title": "The Wizard of Oz",
+  "year": "1939",
+  "rated": "G",
+  "released": "25 Aug 1939",
+  "runtime": "102 min",
+  "genre": "Adventure, Family, Fantasy",
+  "director": "Victor Fleming, George Cukor, Norman Taurog",
+  "writer": "Noel Langley, Florence Ryerson, Edgar Allan Woolf",
+  "actors": "Judy Garland, Frank Morgan, Ray Bolger",
+  "plot": "Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the others...",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 16 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWRmY2I0MGItYTQ0OC00NWZmLWIwMDktYjJlNDc0MzVhMmViXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "metascore": "92",
+  "imdbRating": "8.1",
+  "imdbID": "tt0032138",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:50.970Z"
+}

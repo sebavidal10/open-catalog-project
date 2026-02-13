@@ -1,0 +1,35 @@
+{
+  "title": "The Last Duel",
+  "year": "2021",
+  "rated": "R",
+  "released": "15 Oct 2021",
+  "runtime": "152 min",
+  "genre": "Drama, History, Thriller",
+  "director": "Ridley Scott",
+  "writer": "Nicole Holofcener, Ben Affleck, Matt Damon",
+  "actors": "Matt Damon, Adam Driver, Jodie Comer",
+  "plot": "The Knight Jean de Carrouges must settle the dispute over his wife Marguerite by challenging his former friend to a duel to the death.",
+  "language": "English, German, French, Latin",
+  "country": "United States, United Kingdom",
+  "awards": "5 wins & 44 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGZiNDFkNDgtNDlmNS00NzZmLTg4MmItMzJkYjdmMjJkZDliXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "7.3",
+  "imdbID": "tt4244994",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:35:51.984Z"
+}

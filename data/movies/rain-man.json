@@ -1,0 +1,35 @@
+{
+  "title": "Rain Man",
+  "year": "1988",
+  "rated": "R",
+  "released": "16 Dec 1988",
+  "runtime": "133 min",
+  "genre": "Drama",
+  "director": "Barry Levinson",
+  "writer": "Barry Morrow, Ron Bass",
+  "actors": "Dustin Hoffman, Tom Cruise, Valeria Golino",
+  "plot": "After a selfish L.A. yuppie learns his estranged father left a fortune to an autistic-savant brother in Ohio that he didn't know existed, he absconds with his brother and sets out across the country, hoping to gain a larger inheri...",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "Won 4 Oscars. 27 wins & 26 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDUzODNkNGUtNzJjNi00ODFlLTkzMzktMGNkOTIwYWM2YTQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "8.0",
+  "imdbID": "tt0095953",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:19.294Z"
+}

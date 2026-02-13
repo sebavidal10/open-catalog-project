@@ -1,0 +1,35 @@
+{
+  "title": "The French Connection",
+  "year": "1971",
+  "rated": "R",
+  "released": "09 Oct 1971",
+  "runtime": "104 min",
+  "genre": "Action, Crime, Drama",
+  "director": "William Friedkin",
+  "writer": "Ernest Tidyman, Robin Moore, William Friedkin",
+  "actors": "Gene Hackman, Roy Scheider, Fernando Rey",
+  "plot": "A pair of NYPD detectives in the Narcotics Bureau stumble onto a heroin smuggling ring based in Marseilles, but stopping them and capturing their leaders proves an elusive goal.",
+  "language": "English, French, Italian",
+  "country": "United States, France",
+  "awards": "Won 5 Oscars. 22 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDAyZDU3OWUtNWQ3Zi00ZWRkLWI4MGEtNDFlZWIzZDk5ZTZkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "7.7",
+  "imdbID": "tt0067116",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:46.474Z"
+}

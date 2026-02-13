@@ -1,0 +1,35 @@
+{
+  "title": "Tokyo Story",
+  "year": "1953",
+  "rated": "Not Rated",
+  "released": "13 Mar 1972",
+  "runtime": "137 min",
+  "genre": "Drama",
+  "director": "Yasujirô Ozu",
+  "writer": "Kôgo Noda, Yasujirô Ozu",
+  "actors": "Chishû Ryû, Chieko Higashiyama, Sô Yamamura",
+  "plot": "An old couple visit their children and grandchildren in the city, but receive little attention.",
+  "language": "Japanese, English",
+  "country": "Japan",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODdkNzcxZjItMDU2Yy00Y2JlLWFkYTQtNzIwM2Q4MWU5MTU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "100/100"
+    }
+  ],
+  "metascore": "100",
+  "imdbRating": "8.1",
+  "imdbID": "tt0046438",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:02.989Z"
+}

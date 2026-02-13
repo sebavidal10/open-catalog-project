@@ -1,0 +1,35 @@
+{
+  "title": "The Graduate",
+  "year": "1967",
+  "rated": "PG",
+  "released": "21 Dec 1967",
+  "runtime": "106 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Mike Nichols",
+  "writer": "Calder Willingham, Buck Henry, Charles Webb",
+  "actors": "Dustin Hoffman, Anne Bancroft, Katharine Ross",
+  "plot": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 22 wins & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0ODc4MDk4Nl5BMl5BanBnXkFtZTcwMTEzNzgzNA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "8.0",
+  "imdbID": "tt0061722",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:40.619Z"
+}

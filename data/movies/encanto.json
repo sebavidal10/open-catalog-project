@@ -1,0 +1,31 @@
+{
+  "title": "Encanto",
+  "year": "2021",
+  "rated": "PG",
+  "released": "24 Nov 2021",
+  "runtime": "102 min",
+  "genre": "Animation, Comedy, Family",
+  "director": "Jared Bush, Byron Howard, Charise Castro Smith",
+  "writer": "Charise Castro Smith, Jared Bush, Byron Howard",
+  "actors": "Stephanie Beatriz, María Cecilia Botero, John Leguizamo",
+  "plot": "An extraordinary family, the Madrigals, live hidden in the mountains of Colombia, in a magical house called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift - every child except one, Mi...",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 58 wins & 86 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGEyNzk2M2MtNjBhZS00MzYwLWI0Y2YtYjc5ZWE2MjM0YWE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "7.2",
+  "imdbID": "tt2953050",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:07.251Z"
+}

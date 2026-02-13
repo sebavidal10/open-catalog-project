@@ -1,0 +1,35 @@
+{
+  "title": "Lock, Stock and Two Smoking Barrels",
+  "year": "1998",
+  "rated": "R",
+  "released": "28 Aug 1998",
+  "runtime": "107 min",
+  "genre": "Comedy, Crime",
+  "director": "Guy Ritchie",
+  "writer": "Guy Ritchie",
+  "actors": "Jason Flemyng, Dexter Fletcher, Nick Moran",
+  "plot": "When four small-time criminals lose a rigged poker game against a London kingpin, he gives them one week to settle their enormous debt.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Won 1 BAFTA Award13 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmY1M2M5ZmMtYzllZC00YzAxLTk4MjktZDJkNjA1MTUwMGQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "8.1",
+  "imdbID": "tt0120735",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:41.543Z"
+}

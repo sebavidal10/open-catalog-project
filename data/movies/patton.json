@@ -1,0 +1,35 @@
+{
+  "title": "Patton",
+  "year": "1970",
+  "rated": "PG",
+  "released": "02 Apr 1970",
+  "runtime": "172 min",
+  "genre": "Biography, Drama, War",
+  "director": "Franklin J. Schaffner",
+  "writer": "Francis Ford Coppola, Edmund H. North, Ladislas Farago",
+  "actors": "George C. Scott, Karl Malden, Stephen Young",
+  "plot": "The World War II phase of the career of controversial American general George S. Patton.",
+  "language": "English, German, French, Russian, Arabic, Italian",
+  "country": "United States",
+  "awards": "Won 7 Oscars. 25 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzQwNmI5MDItMGEyZi00Y2FjLTkzMTUtOTliOTIyOWRlN2Q0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.9",
+  "imdbID": "tt0066206",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:45.304Z"
+}

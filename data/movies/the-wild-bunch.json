@@ -1,0 +1,35 @@
+{
+  "title": "The Wild Bunch",
+  "year": "1969",
+  "rated": "R",
+  "released": "19 Jun 1969",
+  "runtime": "135 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Sam Peckinpah",
+  "writer": "Walon Green, Sam Peckinpah, Roy N. Sickner",
+  "actors": "William Holden, Ernest Borgnine, Robert Ryan",
+  "plot": "An aging group of outlaws in 1913 Texas look for one last big score, selling stolen Army rifles to a rogue Mexican general during that country's revolution, as the traditional American West is disappearing around them.",
+  "language": "English, Spanish, German",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 6 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmFlMWJlMDEtNjFlNC00YjQ1LWI1ZTYtZDZkNDY0N2RiMDA3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "98/100"
+    }
+  ],
+  "metascore": "98",
+  "imdbRating": "7.9",
+  "imdbID": "tt0065214",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:42.966Z"
+}

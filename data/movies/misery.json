@@ -1,0 +1,35 @@
+{
+  "title": "Misery",
+  "year": "1990",
+  "rated": "R",
+  "released": "30 Nov 1990",
+  "runtime": "107 min",
+  "genre": "Drama, Thriller",
+  "director": "Rob Reiner",
+  "writer": "Stephen King, William Goldman",
+  "actors": "James Caan, Kathy Bates, Richard Farnsworth",
+  "plot": "After a famous author is rescued from a car crash by a fan of his novels, he comes to realize that the care he is receiving is only the beginning of a nightmare of captivity and abuse.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 7 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzY0ODQ3MTMxN15BMl5BanBnXkFtZTgwMDkwNTg4NjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "7.8",
+  "imdbID": "tt0100157",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:23.965Z"
+}

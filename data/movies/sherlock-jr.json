@@ -1,0 +1,31 @@
+{
+  "title": "Sherlock Jr.",
+  "year": "1924",
+  "rated": "Passed",
+  "released": "11 May 1924",
+  "runtime": "45 min",
+  "genre": "Action, Comedy, Romance",
+  "director": "Buster Keaton",
+  "writer": "Jean C. Havez, Joseph A. Mitchell, Clyde Bruckman",
+  "actors": "Buster Keaton, Kathryn McGuire, Joe Keaton",
+  "plot": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQzM2E2NjYtYmRjMC00ZmVlLTljZTgtNmQ5MGZlNDYyZTc5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.2",
+  "imdbID": "tt0015324",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:57.992Z"
+}

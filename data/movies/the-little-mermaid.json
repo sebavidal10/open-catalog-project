@@ -1,0 +1,35 @@
+{
+  "title": "The Little Mermaid",
+  "year": "1989",
+  "rated": "G",
+  "released": "17 Nov 1989",
+  "runtime": "83 min",
+  "genre": "Animation, Adventure, Family",
+  "director": "Ron Clements, John Musker",
+  "writer": "John Musker, Ron Clements, Hans Christian Andersen",
+  "actors": "Jodi Benson, Samuel E. Wright, Rene Auberjonois",
+  "plot": "A mermaid princess makes a Faustian bargain in an attempt to become human and win a prince's love.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 16 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmQ3ODcyZGMtMjNlOS00YzhlLTg0YzAtZGVjNmQ0OTYyNDg0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "7.6",
+  "imdbID": "tt0097757",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:20.464Z"
+}

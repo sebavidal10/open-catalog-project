@@ -1,0 +1,35 @@
+{
+  "title": "The Breakfast Club",
+  "year": "1985",
+  "rated": "R",
+  "released": "15 Feb 1985",
+  "runtime": "97 min",
+  "genre": "Comedy, Drama",
+  "director": "John Hughes",
+  "writer": "John Hughes",
+  "actors": "Emilio Estevez, Judd Nelson, Molly Ringwald",
+  "plot": "Five high school students meet in Saturday detention and discover how they have a great deal more in common than they thought.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTZiMGU1MWMtNjk0Yi00ZjNjLTljMDEtMDhkNGE2OWY3YzZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "7.8",
+  "imdbID": "tt0088847",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:09.907Z"
+}

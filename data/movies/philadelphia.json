@@ -1,0 +1,35 @@
+{
+  "title": "Philadelphia",
+  "year": "1993",
+  "rated": "PG-13",
+  "released": "14 Jan 1994",
+  "runtime": "125 min",
+  "genre": "Drama",
+  "director": "Jonathan Demme",
+  "writer": "Ron Nyswaner",
+  "actors": "Tom Hanks, Denzel Washington, Roberta Maxwell",
+  "plot": "When a man with HIV is fired by his law firm because of his condition, he hires a homophobic small-time lawyer as the only willing advocate for a wrongful dismissal suit.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 20 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzEzZmMwMmMtNDgxYi00YTAwLWFkMjQtOGQzNmUxMGU1YWYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "7.7",
+  "imdbID": "tt0107818",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:25.134Z"
+}

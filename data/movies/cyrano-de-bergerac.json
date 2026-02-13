@@ -1,0 +1,35 @@
+{
+  "title": "Cyrano de Bergerac",
+  "year": "1990",
+  "rated": "PG",
+  "released": "01 Dec 1990",
+  "runtime": "137 min",
+  "genre": "Comedy, Drama, History",
+  "director": "Jean-Paul Rappeneau",
+  "writer": "Edmond Rostand, Jean-Paul Rappeneau, Jean-Claude Carrière",
+  "actors": "Gérard Depardieu, Anne Brochet, Vincent Perez",
+  "plot": "Famed swordsman and poet Cyrano de Bergerac is in love with his cousin Roxane. He has never expressed his love for her as he his large nose undermines his self-confidence. Then he finds a way to express his love to her, indirectly.",
+  "language": "French, Latin",
+  "country": "France",
+  "awards": "Won 1 Oscar. 31 wins & 29 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzgxYjJmZTktMWY1Zi00MjEyLWJlMGEtMmU4Y2UwMjJjZjEzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.5",
+  "imdbID": "tt0099334",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:26.549Z"
+}

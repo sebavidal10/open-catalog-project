@@ -1,0 +1,35 @@
+{
+  "title": "Office Space",
+  "year": "1999",
+  "rated": "R",
+  "released": "19 Feb 1999",
+  "runtime": "89 min",
+  "genre": "Comedy",
+  "director": "Mike Judge",
+  "writer": "Mike Judge",
+  "actors": "Ron Livingston, Jennifer Aniston, David Herman",
+  "plot": "Three company workers who hate their jobs decide to rebel against their greedy boss.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTA5MzQ3MzI1NV5BMl5BanBnXkFtZTgwNTcxNTYxMTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "7.6",
+  "imdbID": "tt0151804",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:43.886Z"
+}

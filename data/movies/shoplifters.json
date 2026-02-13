@@ -1,0 +1,35 @@
+{
+  "title": "Shoplifters",
+  "year": "2018",
+  "rated": "R",
+  "released": "23 Nov 2018",
+  "runtime": "121 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Hirokazu Koreeda",
+  "writer": "Hirokazu Koreeda",
+  "actors": "Lily Franky, Sakura Andô, Kirin Kiki",
+  "plot": "On the margins of Tokyo, a dysfunctional band of outsiders are united by loyalty, a penchant for petty theft and playful grifting. When the young son is arrested, secrets are exposed that upend their tenuous, below-the-radar exist...",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "Nominated for 1 Oscar. 49 wins & 98 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjY2NGZlZDUtMDUwMi00YTUxLTljNzEtZTE3YjAyNTQyNzU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "93/100"
+    }
+  ],
+  "metascore": "93",
+  "imdbRating": "7.9",
+  "imdbID": "tt8075192",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:39:35.711Z"
+}

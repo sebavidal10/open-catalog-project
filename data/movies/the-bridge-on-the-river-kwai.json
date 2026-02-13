@@ -1,0 +1,35 @@
+{
+  "title": "The Bridge on the River Kwai",
+  "year": "1957",
+  "rated": "PG",
+  "released": "14 Dec 1957",
+  "runtime": "161 min",
+  "genre": "Adventure, Drama, War",
+  "director": "David Lean",
+  "writer": "Pierre Boulle, Carl Foreman, Michael Wilson",
+  "actors": "William Holden, Alec Guinness, Jack Hawkins",
+  "plot": "British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors in occupied Burma, not knowing that the allied forces are planning a daring commando raid through the jungle to destroy it.",
+  "language": "English, Japanese, Thai",
+  "country": "United Kingdom, United States",
+  "awards": "Won 7 Oscars. 30 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzdkYmU2YmItNmZiYy00OWQyLTg0YWYtZmUxM2U3YTRiNTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "8.1",
+  "imdbID": "tt0050212",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:42.777Z"
+}

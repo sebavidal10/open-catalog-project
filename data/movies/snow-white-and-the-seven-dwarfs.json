@@ -1,0 +1,31 @@
+{
+  "title": "Snow White and the Seven Dwarfs",
+  "year": "1937",
+  "rated": "Approved",
+  "released": "04 Feb 1938",
+  "runtime": "83 min",
+  "genre": "Animation, Adventure, Family",
+  "director": "William Cottrell, David Hand, Wilfred Jackson",
+  "writer": "Jacob Grimm, Wilhelm Grimm, Ted Sears",
+  "actors": "Adriana Caselotti, Harry Stockwell, Lucille La Verne",
+  "plot": "Exiled into the dangerous forest by her wicked stepmother, a princess is rescued by seven dwarf miners who make her part of their household.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 13 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQwMzE2Mzc4M15BMl5BanBnXkFtZTcwMTE4NTc1Nw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
+  "metascore": "96",
+  "imdbRating": "7.6",
+  "imdbID": "tt0029583",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:52.139Z"
+}

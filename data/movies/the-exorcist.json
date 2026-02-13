@@ -1,0 +1,35 @@
+{
+  "title": "The Exorcist",
+  "year": "1973",
+  "rated": "R",
+  "released": "26 Dec 1973",
+  "runtime": "122 min",
+  "genre": "Horror",
+  "director": "William Friedkin",
+  "writer": "William Peter Blatty",
+  "actors": "Ellen Burstyn, Max von Sydow, Linda Blair",
+  "plot": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+  "language": "English, Latin, Greek, French, German, Arabic, Kurdish",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 18 wins & 21 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjg3YjE4ZjAtYTdmYS00ZTBkLWE1ZjgtNzAzODUwNzRiYjlmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "8.1",
+  "imdbID": "tt0070047",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:48.819Z"
+}

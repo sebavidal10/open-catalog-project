@@ -1,0 +1,35 @@
+{
+  "title": "Yojimbo",
+  "year": "1961",
+  "rated": "Not Rated",
+  "released": "13 Sep 1961",
+  "runtime": "110 min",
+  "genre": "Action, Drama, Thriller",
+  "director": "Akira Kurosawa",
+  "writer": "Akira Kurosawa, Ryûzô Kikushima",
+  "actors": "Toshirô Mifune, Eijirô Tôno, Tatsuya Nakadai",
+  "plot": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "Nominated for 1 Oscar. 5 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzFkODA1N2QtY2UyMC00NTMwLWEyNzctMmE3YjIzNzE1MzY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "93/100"
+    }
+  ],
+  "metascore": "93",
+  "imdbRating": "8.2",
+  "imdbID": "tt0055630",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:08.838Z"
+}

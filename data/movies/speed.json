@@ -1,0 +1,35 @@
+{
+  "title": "Speed",
+  "year": "1994",
+  "rated": "R",
+  "released": "10 Jun 1994",
+  "runtime": "116 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "Jan de Bont",
+  "writer": "Graham Yost",
+  "actors": "Keanu Reeves, Dennis Hopper, Sandra Bullock",
+  "plot": "An extortionist bomber rigs a Los Angeles city bus to explode if its speed drops below 50 mph, forcing a young cop and a female passenger to keep it moving and save everyone on board.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 20 wins & 21 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDc2ODI5YWQtMmM2ZS00MTdmLWEyNWEtNmRmOGE5NGZlYWMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.3",
+  "imdbID": "tt0111257",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:28.658Z"
+}

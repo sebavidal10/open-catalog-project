@@ -1,0 +1,35 @@
+{
+  "title": "Zootopia",
+  "year": "2016",
+  "rated": "PG",
+  "released": "04 Mar 2016",
+  "runtime": "108 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Byron Howard, Rich Moore, Jared Bush",
+  "writer": "Byron Howard, Rich Moore, Jared Bush",
+  "actors": "Ginnifer Goodwin, Jason Bateman, Idris Elba",
+  "plot": "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 49 wins & 75 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "8.0",
+  "imdbID": "tt2948356",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:04.904Z"
+}

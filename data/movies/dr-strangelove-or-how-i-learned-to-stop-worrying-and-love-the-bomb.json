@@ -1,0 +1,35 @@
+{
+  "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+  "year": "1964",
+  "rated": "PG",
+  "released": "29 Jan 1964",
+  "runtime": "95 min",
+  "genre": "Comedy, War",
+  "director": "Stanley Kubrick",
+  "writer": "Stanley Kubrick, Terry Southern, Peter George",
+  "actors": "Peter Sellers, George C. Scott, Sterling Hayden",
+  "plot": "A mentally unstable American general orders a hydrogen bomb attack on the Soviet Union, triggering a path to global nuclear holocaust that a war room full of politicians and generals frantically tries to stop.",
+  "language": "English, Russian",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 4 Oscars. 14 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjFjYzBlOTktMTI2OS00ZWVhLTgxMDUtNzAwODY2NmI3YTAzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "97/100"
+    }
+  ],
+  "metascore": "97",
+  "imdbRating": "8.3",
+  "imdbID": "tt0057012",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:32.063Z"
+}

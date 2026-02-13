@@ -1,0 +1,35 @@
+{
+  "title": "Wild Strawberries",
+  "year": "1957",
+  "rated": "Not Rated",
+  "released": "22 Jun 1959",
+  "runtime": "92 min",
+  "genre": "Drama, Romance",
+  "director": "Ingmar Bergman",
+  "writer": "Ingmar Bergman",
+  "actors": "Victor Sjöström, Bibi Andersson, Ingrid Thulin",
+  "plot": "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.",
+  "language": "Swedish, Latin",
+  "country": "Sweden",
+  "awards": "Nominated for 1 Oscar. 16 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWQ5MDllM2EtZWRmNS00MmZiLWI4ZWQtMjRiY2Q5MTAxODY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "8.1",
+  "imdbID": "tt0050986",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:04.158Z"
+}

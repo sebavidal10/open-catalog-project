@@ -1,0 +1,35 @@
+{
+  "title": "The Lives of Others",
+  "year": "2006",
+  "rated": "R",
+  "released": "30 Mar 2007",
+  "runtime": "137 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "Florian Henckel von Donnersmarck",
+  "writer": "Florian Henckel von Donnersmarck",
+  "actors": "Ulrich Mühe, Martina Gedeck, Sebastian Koch",
+  "plot": "In 1984 East Berlin, an agent of the secret police conducting surveillance on a writer and his lover finds himself becoming increasingly absorbed by their lives.",
+  "language": "German",
+  "country": "Germany, France",
+  "awards": "Won 1 Oscar. 80 wins & 38 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjM1N2Q0YWEtN2E5MC00NDM3LTk2NTEtMTc1NTk5OTA5ZGIzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "8.4",
+  "imdbID": "tt0405094",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:23.691Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Playtime",
+  "year": "1967",
+  "rated": "Not Rated",
+  "released": "27 Jun 1973",
+  "runtime": "155 min",
+  "genre": "Comedy",
+  "director": "Jacques Tati",
+  "writer": "Jacques Tati, Jacques Lagrange, Art Buchwald",
+  "actors": "Jacques Tati, Barbara Dennek, Rita Maiden",
+  "plot": "Monsieur Hulot curiously wanders around a high-tech Paris, paralleling a trip with a group of American tourists. Meanwhile, a nightclub/restaurant prepares its opening night, but it's still under construction.",
+  "language": "French, English, German",
+  "country": "France, Italy",
+  "awards": "2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDA4NTU0YzItNjc0MS00ODE2LWE1MDYtMWY3ZTk3MWE2N2M5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "99/100"
+    }
+  ],
+  "metascore": "99",
+  "imdbRating": "7.8",
+  "imdbID": "tt0062136",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:12.520Z"
+}

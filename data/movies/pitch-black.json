@@ -1,0 +1,35 @@
+{
+  "title": "Pitch Black",
+  "year": "2000",
+  "rated": "R",
+  "released": "18 Feb 2000",
+  "runtime": "109 min",
+  "genre": "Horror, Sci-Fi, Thriller",
+  "director": "David Twohy",
+  "writer": "Jim Wheat, Ken Wheat, David Twohy",
+  "actors": "Radha Mitchell, Cole Hauser, Vin Diesel",
+  "plot": "A transport ship crashes and leaves its crew stranded on a desert planet inhabited by bloodthirsty creatures that come out during an eclipse.",
+  "language": "English, Arabic",
+  "country": "United States",
+  "awards": "2 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGJlYjllOTUtZGRiNS00YmI4LTkxYmItYjBmYTdmZWZlMTMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "58%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "metascore": "49",
+  "imdbRating": "7.0",
+  "imdbID": "tt0134847",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:53.479Z"
+}

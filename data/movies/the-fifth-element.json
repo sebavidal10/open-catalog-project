@@ -1,0 +1,35 @@
+{
+  "title": "The Fifth Element",
+  "year": "1997",
+  "rated": "PG-13",
+  "released": "09 May 1997",
+  "runtime": "126 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Luc Besson",
+  "writer": "Luc Besson, Robert Mark Kamen",
+  "actors": "Bruce Willis, Milla Jovovich, Gary Oldman",
+  "plot": "In the colorful future, cabdriver Korben Dallas unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep the great evil and Jean-Baptiste Emmanuel Zorg at bay.",
+  "language": "English, Swedish, German, Arabic, Egyptian (Ancient)",
+  "country": "France, United Kingdom",
+  "awards": "Nominated for 1 Oscar. 10 wins & 39 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODU4ZTE5MWYtNmY2MC00NDkyLTk0NDgtNTk5YjgzMzc4NmQwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "7.6",
+  "imdbID": "tt0119116",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:35:56.689Z"
+}

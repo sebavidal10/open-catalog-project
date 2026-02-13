@@ -1,0 +1,35 @@
+{
+  "title": "Boogie Nights",
+  "year": "1997",
+  "rated": "R",
+  "released": "31 Oct 1997",
+  "runtime": "155 min",
+  "genre": "Drama",
+  "director": "Paul Thomas Anderson",
+  "writer": "Paul Thomas Anderson",
+  "actors": "Mark Wahlberg, Julianne Moore, Burt Reynolds",
+  "plot": "An idealistic porn producer aspires to elevate his craft to an art when he discovers a hot young talent.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 36 wins & 64 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTFmZmE4OTMtNDYxNi00MmZmLThlYjktMmExMzMwY2YzOTFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.9",
+  "imdbID": "tt0118749",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:38.031Z"
+}

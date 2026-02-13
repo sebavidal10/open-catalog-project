@@ -1,0 +1,35 @@
+{
+  "title": "The Godfather Part III",
+  "year": "1990",
+  "rated": "R",
+  "released": "25 Dec 1990",
+  "runtime": "162 min",
+  "genre": "Crime, Drama",
+  "director": "Francis Ford Coppola",
+  "writer": "Mario Puzo, Francis Ford Coppola",
+  "actors": "Al Pacino, Diane Keaton, Andy Garcia",
+  "plot": "Follows Michael Corleone, now in his 60s, as he seeks to free his family from crime and find a suitable successor to his empire.",
+  "language": "English, Italian, German, Latin, Persian",
+  "country": "United States",
+  "awards": "Nominated for 7 Oscars. 6 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDVjODgzNTEtNjBiNS00ODBjLWEwZjUtMDljZTFhOTA4M2MxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "66%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "7.5",
+  "imdbID": "tt0099674",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:38.084Z"
+}

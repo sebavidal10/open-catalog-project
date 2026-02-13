@@ -1,0 +1,35 @@
+{
+  "title": "Stalker",
+  "year": "1979",
+  "rated": "Not Rated",
+  "released": "17 Apr 1980",
+  "runtime": "162 min",
+  "genre": "Drama, Sci-Fi",
+  "director": "Andrei Tarkovsky",
+  "writer": "Arkadiy Strugatskiy, Boris Strugatskiy, Andrei Tarkovsky",
+  "actors": "Alisa Freyndlikh, Aleksandr Kaydanovskiy, Anatoliy Solonitsyn",
+  "plot": "A guide leads two men through an area known as the Zone to find a room that grants wishes.",
+  "language": "Russian",
+  "country": "Soviet Union",
+  "awards": "2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDIzMDRiYjgtM2U1Yy00MjlhLTliODMtM2E5NDI5Njc3YmZkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "8.0",
+  "imdbID": "tt0079944",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:16.027Z"
+}

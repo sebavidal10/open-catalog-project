@@ -1,0 +1,35 @@
+{
+  "title": "The Passion of Joan of Arc",
+  "year": "1928",
+  "rated": "Passed",
+  "released": "25 Oct 1928",
+  "runtime": "114 min",
+  "genre": "Biography, Drama, History",
+  "director": "Carl Theodor Dreyer",
+  "writer": "Joseph Delteil, Carl Theodor Dreyer",
+  "actors": "Maria Falconetti, Eugene Silvain, André Berley",
+  "plot": "In 1431, Jeanne d'Arc is placed on trial on charges of heresy, and the ecclesiastical jurists attempt to force her to recant her claims of holy visions.",
+  "language": "None, French, Latin",
+  "country": "France",
+  "awards": "4 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTE1MDliZjgtYTU2Yy00YjAxLTljYTItNDE2ZGYwYTY1MGQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "98/100"
+    }
+  ],
+  "metascore": "98",
+  "imdbRating": "8.1",
+  "imdbID": "tt0019254",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:59.329Z"
+}

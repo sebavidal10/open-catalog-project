@@ -1,0 +1,35 @@
+{
+  "title": "Ran",
+  "year": "1985",
+  "rated": "R",
+  "released": "01 Jun 1985",
+  "runtime": "160 min",
+  "genre": "Action, Drama, War",
+  "director": "Akira Kurosawa",
+  "writer": "Akira Kurosawa, Hideo Oguni, Masato Ide",
+  "actors": "Tatsuya Nakadai, Akira Terao, Jinpachi Nezu",
+  "plot": "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",
+  "language": "Japanese",
+  "country": "Japan, France",
+  "awards": "Won 1 Oscar. 30 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDk2NDY5YjktMjEyMC00OTJhLTkzM2EtY2Q4Y2RjYzc2Yjk4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "97/100"
+    }
+  ],
+  "metascore": "97",
+  "imdbRating": "8.2",
+  "imdbID": "tt0089881",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:18.362Z"
+}

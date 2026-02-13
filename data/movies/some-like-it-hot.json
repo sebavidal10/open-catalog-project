@@ -1,0 +1,35 @@
+{
+  "title": "Some Like It Hot",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "19 Mar 1959",
+  "runtime": "121 min",
+  "genre": "Comedy, Music, Romance",
+  "director": "Billy Wilder",
+  "writer": "Billy Wilder, I.A.L. Diamond, Robert Thoeren",
+  "actors": "Marilyn Monroe, Tony Curtis, Jack Lemmon",
+  "plot": "After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 11 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTllZDYyNjEtY2RmMS00NmJhLWI4ODAtMTQ0NWFiZTJhZjA0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "98/100"
+    }
+  ],
+  "metascore": "98",
+  "imdbRating": "8.2",
+  "imdbID": "tt0053291",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:34.760Z"
+}

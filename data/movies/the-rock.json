@@ -1,0 +1,35 @@
+{
+  "title": "The Rock",
+  "year": "1996",
+  "rated": "R",
+  "released": "07 Jun 1996",
+  "runtime": "136 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "Michael Bay",
+  "writer": "David Weisberg, Douglas Cook, Mark Rosner",
+  "actors": "Sean Connery, Nicolas Cage, Ed Harris",
+  "plot": "An FBI chemical weapons expert, and a former SAS soldier turned political prisoner, must break into Alcatraz prison when a rogue military group, led by a renegade general, take it over and threaten a nerve gas attack on San Franci...",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 9 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDhkYjRiZWEtZTE0Ny00ZjA1LThmNjgtM2UyYTQzODA4MjdhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "68%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "7.4",
+  "imdbID": "tt0117500",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:35:54.345Z"
+}

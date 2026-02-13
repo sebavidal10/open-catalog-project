@@ -1,0 +1,35 @@
+{
+  "title": "Midnight Cowboy",
+  "year": "1969",
+  "rated": "R",
+  "released": "25 May 1969",
+  "runtime": "113 min",
+  "genre": "Drama",
+  "director": "John Schlesinger",
+  "writer": "Waldo Salt, James Leo Herlihy",
+  "actors": "Dustin Hoffman, Jon Voight, Sylvia Miles",
+  "plot": "A naive hustler travels from Texas to New York City to seek personal fortune, finding a new friend in the process.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 28 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2QyNDQ4ZGQtOTFlYy00NDVjLWI5NTEtNTBmYTA5OTI0ODYyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.8",
+  "imdbID": "tt0064665",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:41.793Z"
+}

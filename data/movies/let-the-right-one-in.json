@@ -1,0 +1,35 @@
+{
+  "title": "Let the Right One In",
+  "year": "2008",
+  "rated": "R",
+  "released": "12 Dec 2008",
+  "runtime": "114 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Tomas Alfredson",
+  "writer": "John Ajvide Lindqvist",
+  "actors": "Kåre Hedebrant, Lina Leandersson, Per Ragnar",
+  "plot": "A bullied boy forms a unique friendship with his new neighbor, a peculiar girl with a dark secret.",
+  "language": "Swedish, Spanish",
+  "country": "Sweden, Norway, France",
+  "awards": "Nominated for 1 BAFTA Award76 wins & 58 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjgxZGFlYjktNjE2NC00YTkzLTlhY2QtNDJmMDhmMGEzOTcwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "7.8",
+  "imdbID": "tt1139797",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:39:15.742Z"
+}

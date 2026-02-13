@@ -1,0 +1,35 @@
+{
+  "title": "Crouching Tiger, Hidden Dragon",
+  "year": "2000",
+  "rated": "PG-13",
+  "released": "12 Jan 2001",
+  "runtime": "120 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Ang Lee",
+  "writer": "Hui-Ling Wang, James Schamus, Kuo Jung Tsai",
+  "actors": "Chow Yun-Fat, Michelle Yeoh, Ziyi Zhang",
+  "plot": "A young Chinese warrior steals a sword from a famed swordsman and then escapes into a world of romantic adventure with a mysterious man in the frontier of the nation.",
+  "language": "Mandarin",
+  "country": "Taiwan, China, Hong Kong, United States",
+  "awards": "Won 4 Oscars. 102 wins & 132 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzRmMTU2OWEtZjI0Ni00MGRhLThjOTItZTJiNmM4MDk0ZWU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "7.9",
+  "imdbID": "tt0190332",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:49.962Z"
+}

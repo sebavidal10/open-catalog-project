@@ -1,0 +1,35 @@
+{
+  "title": "Rocky",
+  "year": "1976",
+  "rated": "PG",
+  "released": "03 Dec 1976",
+  "runtime": "120 min",
+  "genre": "Drama, Sport",
+  "director": "John G. Avildsen",
+  "writer": "Sylvester Stallone",
+  "actors": "Sylvester Stallone, Talia Shire, Burt Young",
+  "plot": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+  "language": "English, Spanish, Italian",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 23 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDEyY2M2MGMtYjg5OC00ZWFjLWFkZDQtNmQzZTdiYmYzZTBkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "8.1",
+  "imdbID": "tt0075148",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:39.255Z"
+}

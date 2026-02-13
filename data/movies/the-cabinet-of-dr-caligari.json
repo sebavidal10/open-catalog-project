@@ -1,0 +1,31 @@
+{
+  "title": "The Cabinet of Dr. Caligari",
+  "year": "1920",
+  "rated": "Not Rated",
+  "released": "27 Feb 1920",
+  "runtime": "67 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Robert Wiene",
+  "writer": "Carl Mayer, Hans Janowitz",
+  "actors": "Werner Krauss, Conrad Veidt, Friedrich Feher",
+  "plot": "Hypnotist Dr. Caligari uses a somnambulist, Cesare, to commit murders.",
+  "language": "None, German",
+  "country": "Germany",
+  "awards": "2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzNhY2VmYTctODhhZC00M2U1LTk4MTktMmFmNmJhY2Y1YzgxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.0",
+  "imdbID": "tt0010323",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:56.819Z"
+}

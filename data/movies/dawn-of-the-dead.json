@@ -1,0 +1,35 @@
+{
+  "title": "Dawn of the Dead",
+  "year": "1978",
+  "rated": "Unrated",
+  "released": "24 May 1979",
+  "runtime": "127 min",
+  "genre": "Horror, Thriller",
+  "director": "George A. Romero",
+  "writer": "George A. Romero",
+  "actors": "David Emge, Ken Foree, Scott H. Reiniger",
+  "plot": "During an escalating zombie epidemic, two Philadelphia SWAT team members, a traffic reporter and his TV executive girlfriend seek refuge in a secluded shopping mall.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "3 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmVkMmU4ZjItY2FiYS00MmRhLWIzNmYtODMwODFmZGY4ZjNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.8",
+  "imdbID": "tt0077402",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:37:59.374Z"
+}

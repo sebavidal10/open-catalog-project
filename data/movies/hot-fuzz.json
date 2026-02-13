@@ -1,0 +1,35 @@
+{
+  "title": "Hot Fuzz",
+  "year": "2007",
+  "rated": "R",
+  "released": "20 Apr 2007",
+  "runtime": "121 min",
+  "genre": "Action, Comedy, Mystery",
+  "director": "Edgar Wright",
+  "writer": "Edgar Wright, Simon Pegg",
+  "actors": "Simon Pegg, Nick Frost, Martin Freeman",
+  "plot": "An overachieving London police sergeant is transferred to a village where the easygoing officers object to his fervor for regulations, all while a string of grisly murders strikes the town.",
+  "language": "English",
+  "country": "United Kingdom, France",
+  "awards": "2 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjFkZTkzZTQtNjM1ZS00M2EyLWE3MTAtMmY5Yzk0NTc0NDc3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.8",
+  "imdbID": "tt0425112",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:39:12.233Z"
+}

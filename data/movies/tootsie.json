@@ -1,0 +1,35 @@
+{
+  "title": "Tootsie",
+  "year": "1982",
+  "rated": "PG",
+  "released": "17 Dec 1982",
+  "runtime": "116 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Sydney Pollack",
+  "writer": "Don McGuire, Larry Gelbart, Murray Schisgal",
+  "actors": "Dustin Hoffman, Jessica Lange, Teri Garr",
+  "plot": "Michael Dorsey, an unsuccessful actor, disguises himself as a woman in order to get a role on a trashy hospital soap.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 26 wins & 31 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzc1YjU5NzEtMmZjYi00NzE2LThjMmEtMzY1ZTg5ZjgyM2EzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "7.4",
+  "imdbID": "tt0084805",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:06.396Z"
+}

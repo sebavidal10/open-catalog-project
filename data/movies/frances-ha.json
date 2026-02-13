@@ -1,0 +1,35 @@
+{
+  "title": "Frances Ha",
+  "year": "2012",
+  "rated": "R",
+  "released": "17 May 2013",
+  "runtime": "86 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Noah Baumbach",
+  "writer": "Noah Baumbach, Greta Gerwig",
+  "actors": "Greta Gerwig, Mickey Sumner, Adam Driver",
+  "plot": "A New York woman apprentices for a dance company and throws herself headlong into her dreams, even as the possibility of realizing them dwindles.",
+  "language": "English, French",
+  "country": "United States, Brazil",
+  "awards": "1 win & 49 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTY0NDQ2NzQ2N15BMl5BanBnXkFtZTcwMTU0OTkwOQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "7.4",
+  "imdbID": "tt2347569",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:39:27.484Z"
+}

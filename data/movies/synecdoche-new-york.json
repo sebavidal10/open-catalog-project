@@ -1,0 +1,35 @@
+{
+  "title": "Synecdoche, New York",
+  "year": "2008",
+  "rated": "R",
+  "released": "05 Feb 2009",
+  "runtime": "124 min",
+  "genre": "Drama",
+  "director": "Charlie Kaufman",
+  "writer": "Charlie Kaufman",
+  "actors": "Philip Seymour Hoffman, Samantha Morton, Michelle Williams",
+  "plot": "A theater director struggles with his work and the women in his life as he creates a life-size replica of New York City inside a warehouse as part of his new play.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "8 wins & 29 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MjIyOTI3MF5BMl5BanBnXkFtZTcwODM5NTY5MQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "7.5",
+  "imdbID": "tt0383028",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:39:16.915Z"
+}

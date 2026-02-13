@@ -1,0 +1,35 @@
+{
+  "title": "The Treasure of the Sierra Madre",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "24 Jan 1948",
+  "runtime": "126 min",
+  "genre": "Adventure, Drama, Western",
+  "director": "John Huston",
+  "writer": "John Huston, Bruno Traven",
+  "actors": "Humphrey Bogart, Walter Huston, Tim Holt",
+  "plot": "Two down-on-their-luck Americans searching for work in 1920s Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 18 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWM1YjFmODEtMWNhMC00YmI1LWI0Y2EtYzg0YTBhZWI4ODE3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "98/100"
+    }
+  ],
+  "metascore": "98",
+  "imdbRating": "8.2",
+  "imdbID": "tt0040897",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:36:46.293Z"
+}

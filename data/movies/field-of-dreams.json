@@ -1,0 +1,35 @@
+{
+  "title": "Field of Dreams",
+  "year": "1989",
+  "rated": "PG",
+  "released": "05 May 1989",
+  "runtime": "107 min",
+  "genre": "Drama, Family, Fantasy",
+  "director": "Phil Alden Robinson",
+  "writer": "W.P. Kinsella, Phil Alden Robinson",
+  "actors": "Kevin Costner, James Earl Jones, Ray Liotta",
+  "plot": "Iowa farmer Ray Kinsella is inspired by a voice he can't ignore to pursue a dream he can hardly believe. Supported by his wife, Ray begins the quest by turning his ordinary cornfield into a place where dreams can come true.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 9 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTEwMGYzNDktOWEyMi00NTJjLWE5MGQtNmNlNDkxOTYyZDA5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "metascore": "57",
+  "imdbRating": "7.5",
+  "imdbID": "tt0097351",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:22.798Z"
+}

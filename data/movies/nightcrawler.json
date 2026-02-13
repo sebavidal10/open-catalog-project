@@ -1,0 +1,35 @@
+{
+  "title": "Nightcrawler",
+  "year": "2014",
+  "rated": "R",
+  "released": "31 Oct 2014",
+  "runtime": "117 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Dan Gilroy",
+  "writer": "Dan Gilroy",
+  "actors": "Jake Gyllenhaal, Rene Russo, Bill Paxton",
+  "plot": "A petty thief desperate for work muscles into the world of crime journalism and becomes the star of his own story as he blurs the line between observer and participant.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 46 wins & 126 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjMwMmI5MWQtOTU4OS00OTAyLTg0OTYtNmQ5YzExZTQ3ZWJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.8",
+  "imdbID": "tt2872718",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:39:29.828Z"
+}

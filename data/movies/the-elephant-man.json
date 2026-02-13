@@ -1,0 +1,35 @@
+{
+  "title": "The Elephant Man",
+  "year": "1980",
+  "rated": "PG",
+  "released": "10 Oct 1980",
+  "runtime": "124 min",
+  "genre": "Biography, Drama",
+  "director": "David Lynch",
+  "writer": "Christopher De Vore, Eric Bergren, David Lynch",
+  "actors": "Anthony Hopkins, John Hurt, Anne Bancroft",
+  "plot": "A Victorian surgeon rescues a heavily-disfigured and mistreated young man working as a sideshow freak, who gradually reveals his capacity for kindness, intelligence and sophistication.",
+  "language": "English, French",
+  "country": "United States, United Kingdom",
+  "awards": "Nominated for 8 Oscars. 11 wins & 22 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGE3MDZhNmMtMmUxZS00MDJmLTgxYmQtOGU4ODU0Y2JmNDI1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "8.2",
+  "imdbID": "tt0080678",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:00.547Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Ocean's Eleven",
+  "year": "2001",
+  "rated": "PG-13",
+  "released": "07 Dec 2001",
+  "runtime": "116 min",
+  "genre": "Crime, Thriller",
+  "director": "Steven Soderbergh",
+  "writer": "George Clayton Johnson, Jack Golden Russell, Harry Brown",
+  "actors": "George Clooney, Brad Pitt, Julia Roberts",
+  "plot": "Danny Ocean, a gangster, rounds up a gang of associates to stage a sophisticated and elaborate casino heist which involves robbing three Las Vegas casinos simultaneously during a popular boxing event.",
+  "language": "English, Italian, Mandarin",
+  "country": "United States",
+  "awards": "4 wins & 20 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmNhZDkxYTgtMDM3ZC00NTQ3LWFjZTUtNzc1Y2QyNWZjNDRmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.7",
+  "imdbID": "tt0240772",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:38:56.998Z"
+}

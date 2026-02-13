@@ -1,0 +1,35 @@
+{
+  "title": "Hereditary",
+  "year": "2018",
+  "rated": "R",
+  "released": "08 Jun 2018",
+  "runtime": "127 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Ari Aster",
+  "writer": "Ari Aster",
+  "actors": "Toni Collette, Milly Shapiro, Gabriel Byrne",
+  "plot": "A grieving family is haunted by tragic and disturbing occurrences.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "52 wins & 112 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTEyZGQwODctYWJjZi00NjFmLTg3YmEtMzlhNjljOGZhMWMyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.3",
+  "imdbID": "tt7784604",
+  "type": "movie",
+  "fetched_at": "2026-02-13T03:39:34.543Z"
+}
