@@ -1,0 +1,35 @@
+{
+  "title": "My Own Private Idaho",
+  "year": "1991",
+  "rated": "R",
+  "released": "20 Jul 1991",
+  "runtime": "104 min",
+  "genre": "Drama",
+  "director": "Gus Van Sant",
+  "writer": "Gus Van Sant, William Shakespeare",
+  "actors": "River Phoenix, Keanu Reeves, James Russo",
+  "plot": "Two best friends living on the streets of Portland as hustlers embark on a journey of self discovery and find their relationship stumbling along the way.",
+  "language": "English, Italian, German",
+  "country": "United States",
+  "awards": "10 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjkxY2I1NGYtYThmNC00ODIyLWE1NTktMTcxMzQyOWI0ZjYxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.0",
+  "imdbID": "tt0102494",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:27.244Z"
+}

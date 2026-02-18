@@ -1,0 +1,35 @@
+{
+  "title": "Chasing Amy",
+  "year": "1997",
+  "rated": "R",
+  "released": "18 Apr 1997",
+  "runtime": "113 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Kevin Smith",
+  "writer": "Kevin Smith",
+  "actors": "Ben Affleck, Joey Lauren Adams, Ethan Suplee",
+  "plot": "Holden and Banky are comic book artists. Everything's going good for them until they meet Alyssa, also a comic book artist. Holden falls for her, but his hopes are crushed when he finds out she's a lesbian.",
+  "language": "English, Arabic",
+  "country": "United States",
+  "awards": "5 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWQ5OWQ4NWEtZGJlYy00MzI3LTg5YzItZjVhYjJhYmNkZjM4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.2",
+  "imdbID": "tt0118842",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:17.149Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Sixteen Candles",
+  "year": "1984",
+  "rated": "PG",
+  "released": "04 May 1984",
+  "runtime": "93 min",
+  "genre": "Comedy, Romance",
+  "director": "John Hughes",
+  "writer": "John Hughes",
+  "actors": "Molly Ringwald, Anthony Michael Hall, Justin Henry",
+  "plot": "A high school girl's sixteenth birthday is anything but special, her family forgets about it while preparing for her older sister's wedding, the boy she has a crush on has a girlfriend, and she suffers from multitude of embarrassm...",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgzNTkxMTkxMl5BMl5BanBnXkFtZTgwMjE3NjkzMTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "7.0",
+  "imdbID": "tt0088128",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:33.066Z"
+}

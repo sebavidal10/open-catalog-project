@@ -1,0 +1,35 @@
+{
+  "title": "Austin Powers: International Man of Mystery",
+  "year": "1997",
+  "rated": "PG-13",
+  "released": "02 May 1997",
+  "runtime": "89 min",
+  "genre": "Adventure, Comedy",
+  "director": "Jay Roach",
+  "writer": "Mike Myers",
+  "actors": "Mike Myers, Elizabeth Hurley, Michael York",
+  "plot": "A world-class playboy and part-time secret agent from the 1960s emerges after thirty years in a cryogenic state to battle with his nemesis Dr. Evil.",
+  "language": "English",
+  "country": "Germany, United States",
+  "awards": "3 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODQzM2UwODQtMzg1ZC00MTk4LTlkOTEtYzU4NDFhYmM1MWJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "7.0",
+  "imdbID": "tt0118655",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:09.018Z"
+}

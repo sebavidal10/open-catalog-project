@@ -1,0 +1,35 @@
+{
+  "title": "Grosse Pointe Blank",
+  "year": "1997",
+  "rated": "R",
+  "released": "11 Apr 1997",
+  "runtime": "107 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "George Armitage",
+  "writer": "Tom Jankiewicz, D.V. DeVincentis, Steve Pink",
+  "actors": "John Cusack, Minnie Driver, Dan Aykroyd",
+  "plot": "Professional assassin Martin Blank is sent on a mission to a small Detroit suburb, Grosse Pointe--where, by coincidence, his 10-year high-school reunion party is about to take place.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDJkMWJkMTgtZjljZS00ZDNlLWE2MjEtNjQ2NzI5NDk4MTRkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.3",
+  "imdbID": "tt0119229",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:15.985Z"
+}

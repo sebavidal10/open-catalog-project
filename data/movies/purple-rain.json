@@ -1,0 +1,35 @@
+{
+  "title": "Purple Rain",
+  "year": "1984",
+  "rated": "R",
+  "released": "27 Jul 1984",
+  "runtime": "111 min",
+  "genre": "Drama, Music, Romance",
+  "director": "Albert Magnoli",
+  "writer": "Albert Magnoli, William Blinn",
+  "actors": "Prince, Apollonia Kotero, Morris Day",
+  "plot": "A young musician, tormented by an abusive situation at home, must contend with a rival singer, a burgeoning romance, and his own dissatisfied band, as his star begins to rise.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 10 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDI3YzhiMmItNWUwOC00NjQ2LTliMTItMGFjOTJhZTc4MDcyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "6.5",
+  "imdbID": "tt0087957",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:36.555Z"
+}

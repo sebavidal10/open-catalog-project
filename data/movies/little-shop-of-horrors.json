@@ -1,0 +1,35 @@
+{
+  "title": "Little Shop of Horrors",
+  "year": "1986",
+  "rated": "PG-13",
+  "released": "19 Dec 1986",
+  "runtime": "94 min",
+  "genre": "Comedy, Horror, Musical",
+  "director": "Frank Oz",
+  "writer": "Howard Ashman, Roger Corman, Charles B. Griffith",
+  "actors": "Rick Moranis, Ellen Greene, Vincent Gardenia",
+  "plot": "A nerdy florist finds his chance for success and romance with the help of a giant man-eating plant who demands to be fed.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 2 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTJjM2VhMDctMTIxYi00MzY3LWI5ZDgtZjFiNzg0M2QxNzI5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.1",
+  "imdbID": "tt0091419",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:02.457Z"
+}

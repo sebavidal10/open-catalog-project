@@ -1,0 +1,31 @@
+{
+  "title": "Splash",
+  "year": "1984",
+  "rated": "PG",
+  "released": "09 Mar 1984",
+  "runtime": "111 min",
+  "genre": "Comedy, Fantasy, Romance",
+  "director": "Ron Howard",
+  "writer": "Brian Grazer, Bruce Jay Friedman, Lowell Ganz",
+  "actors": "Tom Hanks, Daryl Hannah, Eugene Levy",
+  "plot": "A young man is reunited with a mermaid he briefly encountered as a boy and falls in love with her without knowing her secret.",
+  "language": "English, Swedish",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGM2NDk4ZTgtYmVkZS00OTE4LTk2ZTAtYzc3Nzk4ZGU3NmE0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "6.3",
+  "imdbID": "tt0088161",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:38.881Z"
+}

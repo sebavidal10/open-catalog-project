@@ -1,0 +1,35 @@
+{
+  "title": "Dumb and Dumber",
+  "year": "1994",
+  "rated": "PG-13",
+  "released": "16 Dec 1994",
+  "runtime": "107 min",
+  "genre": "Comedy",
+  "director": "Peter Farrelly, Bobby Farrelly",
+  "writer": "Peter Farrelly, Bennett Yellin, Bobby Farrelly",
+  "actors": "Jim Carrey, Jeff Daniels, Lauren Holly",
+  "plot": "After a woman leaves a briefcase at the airport terminal, a dumb limo driver and his dumber friend set out on a hilarious cross-country road trip to Aspen to return it.",
+  "language": "English, Swedish, German",
+  "country": "United States",
+  "awards": "5 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGQxZDA1MmMtYWQ1Ni00NTJmLTljMjgtZWVmODllODVhMzgyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "41/100"
+    }
+  ],
+  "metascore": "41",
+  "imdbRating": "7.3",
+  "imdbID": "tt0109686",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:48.345Z"
+}

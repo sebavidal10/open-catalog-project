@@ -1,0 +1,35 @@
+{
+  "title": "Alice Through the Looking Glass",
+  "year": "2016",
+  "rated": "PG",
+  "released": "27 May 2016",
+  "runtime": "113 min",
+  "genre": "Adventure, Family, Fantasy",
+  "director": "James Bobin",
+  "writer": "Linda Woolverton, Lewis Carroll",
+  "actors": "Mia Wasikowska, Johnny Depp, Helena Bonham Carter",
+  "plot": "Alice is appointed to save her beloved Mad Hatter from deadly grief by travelling back to the past, but this means fatally harming Time himself, the noble clockwork man with the device needed to save the Hatter's family from the R...",
+  "language": "English",
+  "country": "United States, Thailand, United Kingdom, India, Canada",
+  "awards": "4 wins & 20 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc2NjExMTIyN15BMl5BanBnXkFtZTgwMjg0OTIwODE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "29%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "34/100"
+    }
+  ],
+  "metascore": "34",
+  "imdbRating": "6.2",
+  "imdbID": "tt2567026",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:58.149Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Suicide Squad",
+  "year": "2016",
+  "rated": "PG-13",
+  "released": "05 Aug 2016",
+  "runtime": "123 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "David Ayer",
+  "writer": "David Ayer, John Ostrander",
+  "actors": "Will Smith, Jared Leto, Margot Robbie",
+  "plot": "A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.",
+  "language": "English, Japanese, Spanish",
+  "country": "United States, Canada",
+  "awards": "Won 1 Oscar. 18 wins & 41 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "26%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "40/100"
+    }
+  ],
+  "metascore": "40",
+  "imdbRating": "5.9",
+  "imdbID": "tt1386697",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:44.245Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Cool Runnings",
+  "year": "1993",
+  "rated": "PG",
+  "released": "01 Oct 1993",
+  "runtime": "98 min",
+  "genre": "Adventure, Comedy, Family",
+  "director": "Jon Turteltaub",
+  "writer": "Lynn Siefert, Michael Ritchie, Tommy Swerdlow",
+  "actors": "John Candy, Leon, Doug E. Doug",
+  "plot": "When a Jamaican sprinter is disqualified from the Olympic Games, he enlists the help of a dishonored coach to start the first Jamaican Bobsled Team.",
+  "language": "English, German, Russian",
+  "country": "United States",
+  "awards": "2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjBmZDM0OTQtMjJiMi00NTEwLWEzNTktMTY5NWFmMDcwZmNjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "7.0",
+  "imdbID": "tt0106611",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:52.103Z"
+}

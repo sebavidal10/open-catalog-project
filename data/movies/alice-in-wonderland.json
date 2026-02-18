@@ -1,0 +1,35 @@
+{
+  "title": "Alice in Wonderland",
+  "year": "2010",
+  "rated": "PG",
+  "released": "05 Mar 2010",
+  "runtime": "108 min",
+  "genre": "Adventure, Family, Fantasy",
+  "director": "Tim Burton",
+  "writer": "Linda Woolverton, Lewis Carroll",
+  "actors": "Mia Wasikowska, Johnny Depp, Helena Bonham Carter",
+  "plot": "Nineteen-year-old Alice returns to the magical world from her childhood adventure, where she reunites with her old friends and learns of her true destiny: to end the Red Queen's reign of terror.",
+  "language": "English",
+  "country": "United States, Italy, Canada, Japan, United Kingdom",
+  "awards": "Won 2 Oscars. 35 wins & 65 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMTQ3NjMtOTI1Yy00Yzg4LWJlNWQtMjFkNjVlYjU0OWIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "51%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "metascore": "53",
+  "imdbRating": "6.4",
+  "imdbID": "tt1014759",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:56.984Z"
+}

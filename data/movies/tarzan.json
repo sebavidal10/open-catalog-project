@@ -1,0 +1,35 @@
+{
+  "title": "Tarzan",
+  "year": "1999",
+  "rated": "G",
+  "released": "18 Jun 1999",
+  "runtime": "88 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Chris Buck, Kevin Lima",
+  "writer": "Tab Murphy, Bob Tzudiker, Noni White",
+  "actors": "Tony Goldwyn, Minnie Driver, Brian Blessed",
+  "plot": "A man raised by gorillas must decide where he really belongs when he discovers he is a human.",
+  "language": "English",
+  "country": "United States, Japan",
+  "awards": "Won 1 Oscar. 11 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjM5OWM5NzktMTIzYy00OTk1LWIyYzAtYzBhNWY3NWQ2Y2Y0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "7.3",
+  "imdbID": "tt0120855",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:40.677Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Justice League",
+  "year": "2017",
+  "rated": "PG-13",
+  "released": "17 Nov 2017",
+  "runtime": "120 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Zack Snyder",
+  "writer": "Jerry Siegel, Joe Shuster, Chris Terrio",
+  "actors": "Ben Affleck, Gal Gadot, Jason Momoa",
+  "plot": "Steppenwolf and his Parademons return after eons to capture Earth. However, Batman seeks the help of Wonder Woman to recruit and assemble Flash, Cyborg and Aquaman to fight the powerful new enemy.",
+  "language": "English, Irish Gaelic, Russian, Icelandic",
+  "country": "United States, Canada, United Kingdom",
+  "awards": "2 wins & 15 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM5YmQxM2YtZjI2Yy00YjhhLTg5N2MtMTEyMzdlZDU3OTVhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "39%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "45/100"
+    }
+  ],
+  "metascore": "45",
+  "imdbRating": "6.0",
+  "imdbID": "tt0974015",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:45.413Z"
+}

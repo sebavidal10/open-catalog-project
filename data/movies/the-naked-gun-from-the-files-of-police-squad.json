@@ -1,0 +1,35 @@
+{
+  "title": "The Naked Gun: From the Files of Police Squad!",
+  "year": "1988",
+  "rated": "PG-13",
+  "released": "02 Dec 1988",
+  "runtime": "85 min",
+  "genre": "Comedy, Crime",
+  "director": "David Zucker",
+  "writer": "Jerry Zucker, Jim Abrahams, David Zucker",
+  "actors": "Leslie Nielsen, Priscilla Presley, O.J. Simpson",
+  "plot": "Incompetent police Detective Frank Drebin must foil an attempt to assassinate Queen Elizabeth II.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTI5N2I1MjAtNTc0Yy00ZDIyLThkZTctMGQ5NTBhNjIwMWQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.6",
+  "imdbID": "tt0095705",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:36.509Z"
+}

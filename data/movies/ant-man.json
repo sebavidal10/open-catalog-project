@@ -1,0 +1,35 @@
+{
+  "title": "Ant-Man",
+  "year": "2015",
+  "rated": "PG-13",
+  "released": "17 Jul 2015",
+  "runtime": "117 min",
+  "genre": "Action, Comedy, Sci-Fi",
+  "director": "Peyton Reed",
+  "writer": "Edgar Wright, Joe Cornish, Adam McKay",
+  "actors": "Paul Rudd, Michael Douglas, Corey Stoll",
+  "plot": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 BAFTA Award4 wins & 34 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "7.2",
+  "imdbID": "tt0478970",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:57.060Z"
+}

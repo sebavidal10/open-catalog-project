@@ -1,0 +1,35 @@
+{
+  "title": "The Fisher King",
+  "year": "1991",
+  "rated": "R",
+  "released": "27 Sep 1991",
+  "runtime": "137 min",
+  "genre": "Comedy, Drama, Fantasy",
+  "director": "Terry Gilliam",
+  "writer": "Richard LaGravenese",
+  "actors": "Jeff Bridges, Robin Williams, Adam Bryant",
+  "plot": "A former radio DJ, suicidally despondent because of a terrible mistake he once made, finds redemption in helping a mentally unstable homeless man who was an innocent victim of that mistake.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 14 wins & 39 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTg2OGU4MmMtZThkZi00YjJjLTkwMjItMDMwYWE4NTA3NzRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "7.5",
+  "imdbID": "tt0101889",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:15.640Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Despicable Me 4",
+  "year": "2024",
+  "rated": "PG",
+  "released": "03 Jul 2024",
+  "runtime": "94 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Chris Renaud, Patrick Delage",
+  "writer": "Mike White, Ken Daurio",
+  "actors": "Steve Carell, Kristen Wiig, Pierre Coffin",
+  "plot": "Gru, Lucy, Margo, Edith, and Agnes welcome a new member to the family, Gru Jr., who is intent on tormenting his dad. Gru faces a new nemesis in Maxime Le Mal and his girlfriend Valentina, and the family is forced to go on the run.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "2 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzY0ZTlhYzgtOTgzZC00ZTg2LTk4NTEtZDllM2E2NGE5Njg2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "55%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "6.2",
+  "imdbID": "tt7510222",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:10.399Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Dangerous Liaisons",
+  "year": "1988",
+  "rated": "R",
+  "released": "24 Feb 1989",
+  "runtime": "119 min",
+  "genre": "Drama, Romance",
+  "director": "Stephen Frears",
+  "writer": "Christopher Hampton, Choderlos de Laclos",
+  "actors": "Glenn Close, John Malkovich, Michelle Pfeiffer",
+  "plot": "A scheming widow and her manipulative ex-lover make a bet regarding the corruption of a recently married woman.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Won 3 Oscars. 21 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmJkMzZhNzktYjgyYi00N2ZjLTgxN2EtN2JhOGY1NTE3ZWY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.5",
+  "imdbID": "tt0094947",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:28.202Z"
+}

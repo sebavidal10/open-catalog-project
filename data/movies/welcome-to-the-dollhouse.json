@@ -1,0 +1,35 @@
+{
+  "title": "Welcome to the Dollhouse",
+  "year": "1995",
+  "rated": "R",
+  "released": "24 May 1996",
+  "runtime": "88 min",
+  "genre": "Comedy, Drama",
+  "director": "Todd Solondz",
+  "writer": "Todd Solondz",
+  "actors": "Heather Matarazzo, Christina Brucato, Victoria Davis",
+  "plot": "An awkward seventh-grader struggles to cope with inattentive parents, snobbish class-mates, a smart older brother, an attractive younger sister and her own insecurities in suburban New Jersey.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins & 17 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGI1ZGIzYjctMDAxZC00ZGVlLWI0NGYtMjM0MWM3MTkzYzE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.4",
+  "imdbID": "tt0114906",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:43.443Z"
+}

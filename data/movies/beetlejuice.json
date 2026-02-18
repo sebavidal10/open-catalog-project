@@ -1,0 +1,35 @@
+{
+  "title": "Beetlejuice",
+  "year": "1988",
+  "rated": "PG",
+  "released": "30 Mar 1988",
+  "runtime": "92 min",
+  "genre": "Comedy, Fantasy",
+  "director": "Tim Burton",
+  "writer": "Michael McDowell, Larry Wilson, Warren Skaaren",
+  "actors": "Alec Baldwin, Geena Davis, Michael Keaton",
+  "plot": "The spirits of a deceased couple are harassed by an unbearable family that has moved into their home, and hire a malicious spirit to drive them out.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 7 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjkwNzVlNDEtMTJlNy00OTdlLTljYWItM2RkZmZkYzY3YjM2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.4",
+  "imdbID": "tt0094721",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:35.511Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Birdcage",
+  "year": "1996",
+  "rated": "R",
+  "released": "08 Mar 1996",
+  "runtime": "117 min",
+  "genre": "Comedy",
+  "director": "Mike Nichols",
+  "writer": "Jean Poiret, Francis Veber, Édouard Molinaro",
+  "actors": "Robin Williams, Nathan Lane, Gene Hackman",
+  "plot": "A gay cabaret owner and his drag queen companion agree to put up a false straight front so that their son can introduce them to his fiancée's right-wing, conservative parents.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 7 wins & 25 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM2NjExODYyOF5BMl5BanBnXkFtZTcwNTc0NjgyNA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.2",
+  "imdbID": "tt0115685",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:58.511Z"
+}

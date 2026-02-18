@@ -1,0 +1,35 @@
+{
+  "title": "Chaplin",
+  "year": "1992",
+  "rated": "PG-13",
+  "released": "08 Jan 1993",
+  "runtime": "143 min",
+  "genre": "Biography, Comedy, Drama",
+  "director": "Richard Attenborough",
+  "writer": "David Robinson, Charles Chaplin, Diana Hawkins",
+  "actors": "Robert Downey Jr., Geraldine Chaplin, Paul Rhys",
+  "plot": "An elderly Charlie Chaplin discusses his autobiography with his editor, recounting his amazing journey from his poverty-stricken childhood to world-wide success after the ingenious invention of the Little Tramp.",
+  "language": "English, Italian, German",
+  "country": "United Kingdom, France, Italy, Japan, United States",
+  "awards": "Nominated for 3 Oscars. 3 wins & 20 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2IyZmJiOTUtYTY4ZC00MDFiLWI4YTctYzAyOTVhNzJiZDJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "62%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "47/100"
+    }
+  ],
+  "metascore": "47",
+  "imdbRating": "7.5",
+  "imdbID": "tt0103939",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:39.023Z"
+}

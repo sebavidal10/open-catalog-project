@@ -1,0 +1,35 @@
+{
+  "title": "The Untouchables",
+  "year": "1987",
+  "rated": "R",
+  "released": "03 Jun 1987",
+  "runtime": "119 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Brian De Palma",
+  "writer": "David Mamet, Oscar Fraley, Eliot Ness",
+  "actors": "Kevin Costner, Sean Connery, Robert De Niro",
+  "plot": "During Prohibition, Treasury agent Eliot Ness sets out to stop ruthless Chicago gangster Al Capone, and assembles a small, incorruptible team to help him.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 11 wins & 18 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjVlNTk3NGYtOWE0OC00MDI4LThlZWItZGMwMTdmYzcwM2Y5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.8",
+  "imdbID": "tt0094226",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:23.533Z"
+}

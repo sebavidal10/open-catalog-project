@@ -1,0 +1,35 @@
+{
+  "title": "Buffalo '66",
+  "year": "1998",
+  "rated": "R",
+  "released": "26 Jun 1998",
+  "runtime": "110 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Vincent Gallo",
+  "writer": "Vincent Gallo, Alison Bagnall",
+  "actors": "Vincent Gallo, Christina Ricci, Ben Gazzara",
+  "plot": "After being released from prison, Billy is set to visit his parents with his wife, whom he does not actually have. This provokes Billy to act out, as he kidnaps a girl and forces her to act as his wife for the visit.",
+  "language": "English",
+  "country": "United States, Canada",
+  "awards": "6 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQzYzEwZWItMGE2Ny00YTg2LTgyMjUtMjNjZDUzMGE2ZGE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.4",
+  "imdbID": "tt0118789",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:41.988Z"
+}

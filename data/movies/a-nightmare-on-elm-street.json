@@ -1,0 +1,35 @@
+{
+  "title": "A Nightmare on Elm Street",
+  "year": "1984",
+  "rated": "R",
+  "released": "16 Nov 1984",
+  "runtime": "91 min",
+  "genre": "Horror",
+  "director": "Wes Craven",
+  "writer": "Wes Craven",
+  "actors": "Heather Langenkamp, Johnny Depp, Robert Englund",
+  "plot": "Teenager Nancy Thompson must uncover the dark truth concealed by her parents after she and her friends become targets of the spirit of a serial killer with a bladed glove in their dreams, in which if they die, it kills them in rea...",
+  "language": "English",
+  "country": "United States",
+  "awards": "7 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTZmN2VlMWMtMTdlMi00NDBhLWIyODMtODEwMzM0ODMwMWYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.4",
+  "imdbID": "tt0087800",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:34.229Z"
+}

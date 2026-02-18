@@ -1,0 +1,35 @@
+{
+  "title": "Tron",
+  "year": "1982",
+  "rated": "PG",
+  "released": "09 Jul 1982",
+  "runtime": "96 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Steven Lisberger",
+  "writer": "Steven Lisberger, Bonnie MacBird",
+  "actors": "Jeff Bridges, Bruce Boxleitner, David Warner",
+  "plot": "A computer hacker is abducted into a digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.",
+  "language": "English",
+  "country": "United States, Taiwan, Japan, United Kingdom",
+  "awards": "Nominated for 2 Oscars. 2 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA4Y2VjOWEtMWQ5MS00YWU5LTkxZTMtNzVmMDYyNWFiODU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "6.7",
+  "imdbID": "tt0084827",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:10.895Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Dinosaur",
+  "year": "2000",
+  "rated": "PG",
+  "released": "19 May 2000",
+  "runtime": "82 min",
+  "genre": "Animation, Adventure, Drama",
+  "director": "Eric Leighton, Ralph Zondag",
+  "writer": "John Harrison, Robert Nelson Jacobs, Walon Green",
+  "actors": "D.B. Sweeney, Julianna Margulies, Samuel E. Wright",
+  "plot": "An orphaned dinosaur raised by lemurs joins an arduous trek to a sanctuary after a meteorite shower destroys his family home.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjFlNjFkNmUtNDRmNi00ZWIwLTg3ZjQtNTIxNmJkMjc1OTlhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "65%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "metascore": "56",
+  "imdbRating": "6.4",
+  "imdbID": "tt0130623",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:38.344Z"
+}

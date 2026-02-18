@@ -1,0 +1,35 @@
+{
+  "title": "X-Men: Dark Phoenix",
+  "year": "2019",
+  "rated": "PG-13",
+  "released": "07 Jun 2019",
+  "runtime": "113 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Simon Kinberg",
+  "writer": "Simon Kinberg",
+  "actors": "James McAvoy, Michael Fassbender, Jennifer Lawrence",
+  "plot": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to have to decide if her life is worth more than all of humanity.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjcwMDIyNjctMDVmNS00MzkyLTgxMDMtNTFmNTk0NDkyNzdjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "22%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "43/100"
+    }
+  ],
+  "metascore": "43",
+  "imdbRating": "5.7",
+  "imdbID": "tt6565702",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:11.028Z"
+}

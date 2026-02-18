@@ -1,0 +1,35 @@
+{
+  "title": "Pacific Rim: Uprising",
+  "year": "2018",
+  "rated": "PG-13",
+  "released": "23 Mar 2018",
+  "runtime": "111 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Steven S. DeKnight",
+  "writer": "Steven S. DeKnight, Emily Carmichael, Kira Snyder",
+  "actors": "John Boyega, Scott Eastwood, Cailee Spaeny",
+  "plot": "Jake Pentecost, son of Stacker Pentecost, reunites with Mako Mori to lead a new generation of Jaeger pilots, including rival Lambert and 15-year-old hacker Amara, against a new Kaiju threat.",
+  "language": "English, Mandarin, Russian",
+  "country": "United States, China, Japan, United Kingdom, Mexico, Australia",
+  "awards": "6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI3Nzg0MTM5NF5BMl5BanBnXkFtZTgwOTE2MTgwNTM@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "42%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "44/100"
+    }
+  ],
+  "metascore": "44",
+  "imdbRating": "5.6",
+  "imdbID": "tt2557478",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:18.012Z"
+}

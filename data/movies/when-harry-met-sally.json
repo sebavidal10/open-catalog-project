@@ -1,0 +1,35 @@
+{
+  "title": "When Harry Met Sally...",
+  "year": "1989",
+  "rated": "R",
+  "released": "21 Jul 1989",
+  "runtime": "95 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Rob Reiner",
+  "writer": "Nora Ephron",
+  "actors": "Billy Crystal, Meg Ryan, Carrie Fisher",
+  "plot": "Harry and Sally have known each other for years, and are very good friends, but they fear sex would ruin the friendship.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 6 wins & 19 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.7",
+  "imdbID": "tt0098635",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:46.982Z"
+}

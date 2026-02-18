@@ -1,0 +1,35 @@
+{
+  "title": "The War of the Roses",
+  "year": "1989",
+  "rated": "R",
+  "released": "08 Dec 1989",
+  "runtime": "116 min",
+  "genre": "Comedy, Romance",
+  "director": "Danny DeVito",
+  "writer": "Warren Adler, Michael Leeson",
+  "actors": "Michael Douglas, Kathleen Turner, Danny DeVito",
+  "plot": "A married couple tries everything to drive each other out of the house in a vicious divorce battle.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 BAFTA Award2 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWZkOTA1YzAtZDM2MC00YTY5LTllNGMtOGExYTIxMTA2Y2FkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "6.8",
+  "imdbID": "tt0098621",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:58.911Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Ace Ventura: Pet Detective",
+  "year": "1994",
+  "rated": "PG-13",
+  "released": "04 Feb 1994",
+  "runtime": "86 min",
+  "genre": "Comedy",
+  "director": "Tom Shadyac",
+  "writer": "Jack Bernstein, Tom Shadyac, Jim Carrey",
+  "actors": "Jim Carrey, Courteney Cox, Sean Young",
+  "plot": "A goofy detective specializing in animals goes in search of the missing mascot of the Miami Dolphins.",
+  "language": "English",
+  "country": "United States",
+  "awards": "5 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWU1M2Q5MDgtOTkxZS00NjdmLWFlNWEtOGEyOTNlNGYyYTZlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "47%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "37/100"
+    }
+  ],
+  "metascore": "37",
+  "imdbRating": "6.9",
+  "imdbID": "tt0109040",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:49.513Z"
+}

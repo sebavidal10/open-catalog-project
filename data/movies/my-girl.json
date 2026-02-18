@@ -1,0 +1,35 @@
+{
+  "title": "My Girl",
+  "year": "1991",
+  "rated": "PG",
+  "released": "27 Nov 1991",
+  "runtime": "102 min",
+  "genre": "Comedy, Drama, Family",
+  "director": "Howard Zieff",
+  "writer": "Laurice Elehwany",
+  "actors": "Anna Chlumsky, Macaulay Culkin, Dan Aykroyd",
+  "plot": "Vada is obsessed with death. Her mother is dead, and her father runs a funeral parlor. When Vada's father hires Shelly, a makeup expert, and begins to fall in love, Vada is outraged and does everything in her power to split them up.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmI5M2EzZDUtZTBkZS00YWFmLWFhZTMtNjc3YTllZDBhODQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "metascore": "56",
+  "imdbRating": "6.9",
+  "imdbID": "tt0102492",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:20.279Z"
+}

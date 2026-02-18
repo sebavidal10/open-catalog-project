@@ -1,0 +1,35 @@
+{
+  "title": "Shallow Grave",
+  "year": "1994",
+  "rated": "R",
+  "released": "10 Feb 1995",
+  "runtime": "89 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Danny Boyle",
+  "writer": "John Hodge",
+  "actors": "Kerry Fox, Christopher Eccleston, Ewan McGregor",
+  "plot": "Three friends discover their new flatmate dead but loaded with cash.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Won 1 BAFTA Award14 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjgyZDcwOGYtZDVmMi00NWY0LWI0NDUtMGFiMzA1YjRlMjZlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.2",
+  "imdbID": "tt0111149",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:19.040Z"
+}

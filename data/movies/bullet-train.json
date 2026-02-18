@@ -1,0 +1,35 @@
+{
+  "title": "Bullet Train",
+  "year": "2022",
+  "rated": "R",
+  "released": "05 Aug 2022",
+  "runtime": "127 min",
+  "genre": "Action, Comedy, Thriller",
+  "director": "David Leitch",
+  "writer": "Zak Olkewicz, Kôtarô Isaka",
+  "actors": "Brad Pitt, Joey King, Aaron Taylor-Johnson",
+  "plot": "Five assassins aboard a swiftly-moving bullet train find out that their missions have something in common.",
+  "language": "English, Japanese, Spanish, Russian",
+  "country": "United States, Japan",
+  "awards": "2 wins & 19 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODUyZjkxZDMtZGI3ZC00ZmEwLTgwMTUtYTU4OTQ5YjU4ZjRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "52%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "metascore": "49",
+  "imdbRating": "7.3",
+  "imdbID": "tt12593682",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:35.463Z"
+}

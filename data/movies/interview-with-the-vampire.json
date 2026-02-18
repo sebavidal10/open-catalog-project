@@ -1,0 +1,35 @@
+{
+  "title": "Interview with the Vampire",
+  "year": "1994",
+  "rated": "R",
+  "released": "11 Nov 1994",
+  "runtime": "123 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Neil Jordan",
+  "writer": "Anne Rice",
+  "actors": "Brad Pitt, Tom Cruise, Antonio Banderas",
+  "plot": "A vampire tells his epic life story: love, betrayal, loneliness, and hunger.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 24 wins & 34 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzJlN2NiZDQtZmI4NC00ZWFiLWFmMTUtMWM4ODVlOGFlODY1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "66%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.5",
+  "imdbID": "tt0110148",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:08.394Z"
+}

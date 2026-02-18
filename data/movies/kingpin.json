@@ -1,0 +1,35 @@
+{
+  "title": "Kingpin",
+  "year": "1996",
+  "rated": "PG-13",
+  "released": "26 Jul 1996",
+  "runtime": "114 min",
+  "genre": "Comedy, Sport",
+  "director": "Bobby Farrelly, Peter Farrelly",
+  "writer": "Barry Fanaro, Mort Nathan",
+  "actors": "Woody Harrelson, Randy Quaid, Bill Murray",
+  "plot": "An amateur state bowling champion whose professional aspirations are prematurely dashed when he gets \"Munsoned\" hopes to ride a new bowling prodigy to success and riches by becoming his manager.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODAzODIyMDYwMV5BMl5BanBnXkFtZTcwMTUyNTEzNA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "51%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "43/100"
+    }
+  ],
+  "metascore": "43",
+  "imdbRating": "6.9",
+  "imdbID": "tt0116778",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:01.986Z"
+}

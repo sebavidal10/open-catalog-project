@@ -1,0 +1,35 @@
+{
+  "title": "Friday the 13th",
+  "year": "1980",
+  "rated": "R",
+  "released": "09 May 1980",
+  "runtime": "95 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Sean S. Cunningham",
+  "writer": "Victor Miller, Ron Kurz",
+  "actors": "Betsy Palmer, Adrienne King, Jeannine Taylor",
+  "plot": "A group of teenage camp counselors attempt to re-open an abandoned summer camp with a tragic past, but they are stalked by a mysterious, relentless killer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjEwOTY5MjMtMTkzMi00Zjk1LThkM2QtZGZhMzQ3MzI3NDNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "68%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "22/100"
+    }
+  ],
+  "metascore": "22",
+  "imdbRating": "6.4",
+  "imdbID": "tt0080761",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:06:34.206Z"
+}

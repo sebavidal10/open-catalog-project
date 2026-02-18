@@ -1,0 +1,35 @@
+{
+  "title": "Hocus Pocus",
+  "year": "1993",
+  "rated": "PG",
+  "released": "16 Jul 1993",
+  "runtime": "96 min",
+  "genre": "Comedy, Family, Fantasy",
+  "director": "Kenny Ortega",
+  "writer": "David Kirschner, Mick Garris, Neil Cuthbert",
+  "actors": "Bette Midler, Sarah Jessica Parker, Kathy Najimy",
+  "plot": "A teenage boy named Max and his little sister move to Salem, where he struggles to fit in before awakening a trio of diabolical witches that were executed in the 17th century.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "2 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWRhOThjM2UtNmRhMi00YzFiLWI4MDYtOGQwNGY0ZjFlOGFkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "42%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "43/100"
+    }
+  ],
+  "metascore": "43",
+  "imdbRating": "6.9",
+  "imdbID": "tt0107120",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:49.466Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Dark Shadows",
+  "year": "2012",
+  "rated": "PG-13",
+  "released": "11 May 2012",
+  "runtime": "113 min",
+  "genre": "Comedy, Fantasy, Horror",
+  "director": "Tim Burton",
+  "writer": "Seth Grahame-Smith, John August, Dan Curtis",
+  "actors": "Johnny Depp, Michelle Pfeiffer, Eva Green",
+  "plot": "An imprisoned vampire, Barnabas Collins, is set free and returns to his ancestral home, where his dysfunctional descendants are in need of his protection.",
+  "language": "English",
+  "country": "United States, Australia, United Kingdom",
+  "awards": "3 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjNiYWMxZjctMzEyZS00NDZmLTgxYmYtM2NmOGI0MmY3ZTJiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "35%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "6.2",
+  "imdbID": "tt1077368",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:53.480Z"
+}

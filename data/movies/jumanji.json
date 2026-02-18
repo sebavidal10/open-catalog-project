@@ -1,0 +1,35 @@
+{
+  "title": "Jumanji",
+  "year": "1995",
+  "rated": "PG",
+  "released": "15 Dec 1995",
+  "runtime": "104 min",
+  "genre": "Adventure, Comedy, Family",
+  "director": "Joe Johnston",
+  "writer": "Jonathan Hensleigh, Greg Taylor, Jim Strain",
+  "actors": "Robin Williams, Kirsten Dunst, Bonnie Hunt",
+  "plot": "A magic board game summons jungle perils and a missing boy.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "4 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTFkMjFmODgtYzRiZi00NmQwLTliZWMtMzRhMWQ5ZmY3ZDExXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "55%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "41/100"
+    }
+  ],
+  "metascore": "41",
+  "imdbRating": "7.1",
+  "imdbID": "tt0113497",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:51.836Z"
+}

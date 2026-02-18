@@ -1,0 +1,35 @@
+{
+  "title": "Fantasia 2000",
+  "year": "1999",
+  "rated": "G",
+  "released": "16 Jun 2000",
+  "runtime": "75 min",
+  "genre": "Animation, Family, Fantasy",
+  "director": "James Algar, Gaëtan Brizzi, Paul Brizzi",
+  "writer": "Eric Goldberg, James Fujii, Joe Grant",
+  "actors": "James Levine, Steve Martin, Itzhak Perlman",
+  "plot": "An update of the original film with new interpretations of great works of classical music.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDE3YTU1ZTktZGQzYy00YWYwLWFhNjMtNmZiZTYwOWM4Y2U0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "metascore": "59",
+  "imdbRating": "7.1",
+  "imdbID": "tt0120910",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:39.511Z"
+}

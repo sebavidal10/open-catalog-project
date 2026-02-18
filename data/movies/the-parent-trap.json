@@ -1,0 +1,35 @@
+{
+  "title": "The Parent Trap",
+  "year": "1998",
+  "rated": "PG",
+  "released": "29 Jul 1998",
+  "runtime": "128 min",
+  "genre": "Adventure, Comedy, Drama",
+  "director": "Nancy Meyers",
+  "writer": "Erich Kästner, David Swift, Nancy Meyers",
+  "actors": "Lindsay Lohan, Dennis Quaid, Natasha Richardson",
+  "plot": "Identical twins Annie and Hallie, separated at birth and each raised by one of their biological parents, discover each other for the first time at summer camp and make a plan to bring their wayward parents back together.",
+  "language": "English, French",
+  "country": "United States, United Kingdom",
+  "awards": "2 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTRkYmY3Y2QtMGM2Ny00MTNmLTk4NjYtNjMwNTNmMGY5ZDllXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "6.7",
+  "imdbID": "tt0120783",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:30.201Z"
+}

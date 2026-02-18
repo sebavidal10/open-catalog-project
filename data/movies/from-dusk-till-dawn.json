@@ -1,0 +1,35 @@
+{
+  "title": "From Dusk Till Dawn",
+  "year": "1996",
+  "rated": "R",
+  "released": "19 Jan 1996",
+  "runtime": "108 min",
+  "genre": "Action, Crime, Horror",
+  "director": "Robert Rodriguez",
+  "writer": "Robert Kurtzman, Quentin Tarantino",
+  "actors": "Harvey Keitel, George Clooney, Juliette Lewis",
+  "plot": "Two criminals and their hostages unknowingly seek temporary refuge in a truck stop populated by vampires, with chaotic results.",
+  "language": "English, Spanish",
+  "country": "United States, Mexico",
+  "awards": "7 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGNjMWMwNWEtYTQ2YS00N2E5LTg5ZWYtMDgzM2UxMTE1ZTE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "66%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "48/100"
+    }
+  ],
+  "metascore": "48",
+  "imdbRating": "7.2",
+  "imdbID": "tt0116367",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:49.248Z"
+}

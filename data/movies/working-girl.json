@@ -1,0 +1,35 @@
+{
+  "title": "Working Girl",
+  "year": "1988",
+  "rated": "R",
+  "released": "21 Dec 1988",
+  "runtime": "113 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Mike Nichols",
+  "writer": "Kevin Wade",
+  "actors": "Melanie Griffith, Harrison Ford, Sigourney Weaver",
+  "plot": "When a secretary's idea is stolen by her boss, she seizes an opportunity to steal it back by pretending she has her boss' job.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 9 wins & 18 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzZhNGFlNGYtMjgyMi00YmZiLWFjNjktZGIzYjkxM2YyZWJjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "6.8",
+  "imdbID": "tt0096463",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:32.863Z"
+}

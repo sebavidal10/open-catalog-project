@@ -1,0 +1,35 @@
+{
+  "title": "Fantastic Four",
+  "year": "2005",
+  "rated": "PG-13",
+  "released": "08 Jul 2005",
+  "runtime": "106 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Tim Story",
+  "writer": "Mark Frost, Michael France, Stan Lee",
+  "actors": "Ioan Gruffudd, Michael Chiklis, Chris Evans",
+  "plot": "A group of astronauts gain superpowers after a cosmic radiation exposure and must use them to oppose the plans of their enemy, Doctor Victor Von Doom.",
+  "language": "English",
+  "country": "Germany, United States, Canada",
+  "awards": "4 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjY2YmZmMzUtZWY5Mi00MzI3LTljOTgtYTMwMWY1ODI5ZWY5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "28%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "40/100"
+    }
+  ],
+  "metascore": "40",
+  "imdbRating": "5.7",
+  "imdbID": "tt0120667",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:12.196Z"
+}

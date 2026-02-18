@@ -1,0 +1,35 @@
+{
+  "title": "Brother Bear",
+  "year": "2003",
+  "rated": "G",
+  "released": "01 Nov 2003",
+  "runtime": "85 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Aaron Blaise, Robert Walker",
+  "writer": "Tab Murphy, Lorne Cameron, David Hoselton",
+  "actors": "Joaquin Phoenix, Jeremy Suarez, Rick Moranis",
+  "plot": "When a young Inuit hunter needlessly kills a bear, he is magically changed into a bear himself as punishment with a talkative cub being his only guide to changing back.",
+  "language": "English, Inuktitut, Croatian, Serbian",
+  "country": "United States, Japan",
+  "awards": "Nominated for 1 Oscar. 2 wins & 22 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIyNTAyNDYxNF5BMl5BanBnXkFtZTYwNjYwMjg2._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "38%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "48/100"
+    }
+  ],
+  "metascore": "48",
+  "imdbRating": "6.9",
+  "imdbID": "tt0328880",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:33.687Z"
+}

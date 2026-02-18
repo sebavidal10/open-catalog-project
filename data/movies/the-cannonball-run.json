@@ -1,0 +1,35 @@
+{
+  "title": "The Cannonball Run",
+  "year": "1981",
+  "rated": "PG",
+  "released": "19 Jun 1981",
+  "runtime": "95 min",
+  "genre": "Action, Comedy, Sport",
+  "director": "Hal Needham",
+  "writer": "Brock Yates",
+  "actors": "Burt Reynolds, Roger Moore, Farrah Fawcett",
+  "plot": "A wide variety of eccentric competitors participate in a wild and illegal cross-country road race. However, the eccentric entrants will do anything to win the road race, including low-down, dirty tricks.",
+  "language": "English, Cantonese, Japanese, Arabic",
+  "country": "Hong Kong, United States",
+  "awards": "1 win & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjk5YWQ1NmItY2NkNS00NjI0LTgyNzktNGI0MWU1NWQ1MTNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "29%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "28/100"
+    }
+  ],
+  "metascore": "28",
+  "imdbRating": "6.2",
+  "imdbID": "tt0082136",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:06:57.942Z"
+}

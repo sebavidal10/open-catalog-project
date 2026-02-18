@@ -1,0 +1,35 @@
+{
+  "title": "This Is Spinal Tap",
+  "year": "1984",
+  "rated": "R",
+  "released": "02 Mar 1984",
+  "runtime": "82 min",
+  "genre": "Comedy, Music",
+  "director": "Rob Reiner",
+  "writer": "Christopher Guest, Michael McKean, Harry Shearer",
+  "actors": "Rob Reiner, Michael McKean, Christopher Guest",
+  "plot": "Spinal Tap, one of England's loudest bands, is chronicled by film director Marty DiBergi on what proves to be a fateful tour.",
+  "language": "English, Japanese",
+  "country": "United States",
+  "awards": "3 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MTIzMzg5Nl5BMl5BanBnXkFtZTgwOTc5NDI1MDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "metascore": "92",
+  "imdbRating": "7.9",
+  "imdbID": "tt0088258",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:37.719Z"
+}

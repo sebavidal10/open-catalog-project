@@ -1,0 +1,35 @@
+{
+  "title": "Waterworld",
+  "year": "1995",
+  "rated": "PG-13",
+  "released": "28 Jul 1995",
+  "runtime": "135 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Kevin Reynolds",
+  "writer": "Peter Rader, David Twohy",
+  "actors": "Kevin Costner, Jeanne Tripplehorn, Dennis Hopper",
+  "plot": "In a future where the polar ice-caps have melted and Earth is almost entirely submerged, a mutated mariner fights starvation and outlaw \"smokers,\" and reluctantly helps a woman and a young girl try to find dry land.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 6 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI5ZmQ3NTAtNWVhMi00ZmI2LTg3YTMtN2Q1MmNjYzMwZGI1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "metascore": "56",
+  "imdbRating": "6.3",
+  "imdbID": "tt0114898",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:21.355Z"
+}

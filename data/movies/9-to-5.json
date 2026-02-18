@@ -1,0 +1,35 @@
+{
+  "title": "9 to 5",
+  "year": "1980",
+  "rated": "PG",
+  "released": "19 Dec 1980",
+  "runtime": "109 min",
+  "genre": "Comedy",
+  "director": "Colin Higgins",
+  "writer": "Patricia Resnick, Colin Higgins",
+  "actors": "Jane Fonda, Lily Tomlin, Dolly Parton",
+  "plot": "Three secretaries turn the tables on their obnoxious boss.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 4 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2MyMmVjNTMtOTdjNS00YWUyLWIyNzktZDVjMTdkNjM5ZjQ5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "6.9",
+  "imdbID": "tt0080319",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:06:37.701Z"
+}

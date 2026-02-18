@@ -1,0 +1,35 @@
+{
+  "title": "Hellboy II: The Golden Army",
+  "year": "2008",
+  "rated": "PG-13",
+  "released": "11 Jul 2008",
+  "runtime": "120 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Guillermo del Toro",
+  "writer": "Guillermo del Toro, Mike Mignola",
+  "actors": "Ron Perlman, Selma Blair, Doug Jones",
+  "plot": "A prince of the mythical world starts a rebellion against humanity in order to rule the Earth. Hellboy and his team must fight to stop him from locating the all-powerful Golden Army.",
+  "language": "English, Gaelic, German",
+  "country": "United States, Germany, Hungary",
+  "awards": "Nominated for 1 Oscar. 6 wins & 36 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NzgyMjc2Nl5BMl5BanBnXkFtZTcwOTU3MDI3MQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.0",
+  "imdbID": "tt0411477",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:16.853Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Midnight Run",
+  "year": "1988",
+  "rated": "R",
+  "released": "20 Jul 1988",
+  "runtime": "126 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "Martin Brest",
+  "writer": "George Gallo",
+  "actors": "Robert De Niro, Charles Grodin, Yaphet Kotto",
+  "plot": "A bounty hunter pursues a former Mafia accountant who is also being chased by a rival bounty hunter, the F.B.I., and his old mob boss after jumping bail.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmQ2NWU5OWYtOTNiOC00MjA1LWJhOWQtMzYyMDgwMmE5ZDE0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.5",
+  "imdbID": "tt0095631",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:40.016Z"
+}

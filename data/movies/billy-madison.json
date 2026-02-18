@@ -1,0 +1,35 @@
+{
+  "title": "Billy Madison",
+  "year": "1995",
+  "rated": "PG-13",
+  "released": "10 Feb 1995",
+  "runtime": "89 min",
+  "genre": "Comedy",
+  "director": "Tamra Davis",
+  "writer": "Tim Herlihy, Adam Sandler",
+  "actors": "Adam Sandler, Darren McGavin, Bridgette Wilson-Sampras",
+  "plot": "In order to inherit his fed-up father Brian's hotel empire, immature and lazy Billy Madison must repeat grades one through twelve all over again. The further Billy progresses, the harder his hated rival Eric Gordon tries to stop him.",
+  "language": "English, French, Spanish",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2Y2ODczY2YtZTQ4NS00NWQxLTlhZWMtZWY4M2IyMmJhZGI1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "16/100"
+    }
+  ],
+  "metascore": "16",
+  "imdbRating": "6.4",
+  "imdbID": "tt0112508",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:27.162Z"
+}

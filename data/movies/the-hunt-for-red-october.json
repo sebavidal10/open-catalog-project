@@ -1,0 +1,35 @@
+{
+  "title": "The Hunt for Red October",
+  "year": "1990",
+  "rated": "PG",
+  "released": "02 Mar 1990",
+  "runtime": "135 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "John McTiernan",
+  "writer": "Tom Clancy, Larry Ferguson, Donald E. Stewart",
+  "actors": "Sean Connery, Alec Baldwin, Scott Glenn",
+  "plot": "Moscow, Washington D.C. and a CIA Analyst track a rogue Soviet Captain and his new submarine.",
+  "language": "English, Russian",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 3 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmNhYWJmN2EtZDYwNC00NzE0LWE5N2UtZTUyMDM4YjZmYWE3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "7.5",
+  "imdbID": "tt0099810",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:07.349Z"
+}

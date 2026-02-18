@@ -1,0 +1,35 @@
+{
+  "title": "Bull Durham",
+  "year": "1988",
+  "rated": "R",
+  "released": "15 Jun 1988",
+  "runtime": "108 min",
+  "genre": "Comedy, Romance, Sport",
+  "director": "Ron Shelton",
+  "writer": "Ron Shelton",
+  "actors": "Kevin Costner, Susan Sarandon, Tim Robbins",
+  "plot": "A fan who has an affair with one minor-league baseball player each season meets an up-and-coming pitcher and the experienced catcher assigned to him.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 7 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGJiNmFmZjYtYzQzZi00ZTk1LWI2MGUtZjI1NDI3YmU4Y2FhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.0",
+  "imdbID": "tt0094812",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:31.689Z"
+}

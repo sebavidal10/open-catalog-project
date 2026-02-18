@@ -1,0 +1,35 @@
+{
+  "title": "Primary Colors",
+  "year": "1998",
+  "rated": "R",
+  "released": "20 Mar 1998",
+  "runtime": "143 min",
+  "genre": "Comedy, Drama",
+  "director": "Mike Nichols",
+  "writer": "Joe Klein, Elaine May",
+  "actors": "John Travolta, Emma Thompson, Kathy Bates",
+  "plot": "A man joins the political campaign of a smooth-operator candidate for President of the United States of America.",
+  "language": "English, Hebrew, Spanish",
+  "country": "United Kingdom, France, Germany, Japan, United States",
+  "awards": "Nominated for 2 Oscars. 10 wins & 31 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzlkNDFmM2UtYWY4ZC00NGQwLTgwNmYtMWMxMzNhZjM4ODk4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "6.7",
+  "imdbID": "tt0119942",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:33.861Z"
+}

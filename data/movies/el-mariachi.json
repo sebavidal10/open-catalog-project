@@ -1,0 +1,35 @@
+{
+  "title": "El Mariachi",
+  "year": "1992",
+  "rated": "R",
+  "released": "26 Feb 1993",
+  "runtime": "81 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Robert Rodriguez",
+  "writer": "Robert Rodriguez",
+  "actors": "Carlos Gallardo, Consuelo Gómez, Jaime de Hoyos",
+  "plot": "A traveling mariachi is mistaken for a murderous criminal and must hide from a gang bent on killing him.",
+  "language": "Spanish, English",
+  "country": "Mexico, United States",
+  "awards": "7 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDc0ZmVjYWItMmY4MC00NzFmLThhZjktZWQzMDI1NmE0ZTc4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "6.8",
+  "imdbID": "tt0104815",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:44.825Z"
+}

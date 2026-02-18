@@ -1,0 +1,35 @@
+{
+  "title": "Steel Magnolias",
+  "year": "1989",
+  "rated": "PG",
+  "released": "22 Nov 1989",
+  "runtime": "117 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Herbert Ross",
+  "writer": "Robert Harling",
+  "actors": "Shirley MacLaine, Olympia Dukakis, Sally Field",
+  "plot": "A young beautician, newly arrived in a small Louisiana town, finds work at the local salon, where a small group of women share a close bond of friendship, and welcome her into the fold.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE4MTYyOWYtYjBjNy00NjBiLThhYWEtNzQ2MmE4MzY4ZGI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "metascore": "56",
+  "imdbRating": "7.3",
+  "imdbID": "tt0098384",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:48.143Z"
+}

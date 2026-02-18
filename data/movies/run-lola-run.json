@@ -1,0 +1,35 @@
+{
+  "title": "Run Lola Run",
+  "year": "1998",
+  "rated": "R",
+  "released": "18 Jun 1999",
+  "runtime": "80 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Tom Tykwer",
+  "writer": "Tom Tykwer",
+  "actors": "Franka Potente, Moritz Bleibtreu, Herbert Knaup",
+  "plot": "After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deutschmarks.",
+  "language": "German, English, Japanese",
+  "country": "Germany",
+  "awards": "Nominated for 1 BAFTA Award28 wins & 21 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzA0NDdiNDgtNjI4Ny00OTc0LTg3NGMtZDBlNmI1ZGUxYTg2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.6",
+  "imdbID": "tt0130827",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:39.661Z"
+}

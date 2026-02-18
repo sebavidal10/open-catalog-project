@@ -1,0 +1,35 @@
+{
+  "title": "Indiana Jones and the Temple of Doom",
+  "year": "1984",
+  "rated": "PG",
+  "released": "23 May 1984",
+  "runtime": "118 min",
+  "genre": "Action, Adventure",
+  "director": "Steven Spielberg",
+  "writer": "Willard Huyck, Gloria Katz, George Lucas",
+  "actors": "Harrison Ford, Kate Capshaw, Ke Huy Quan",
+  "plot": "In 1935, Indiana Jones is tasked by Indian villagers with reclaiming a sacred stone stolen from them by a secret cult.",
+  "language": "English, Hindi, Sinhala",
+  "country": "United States, United Kingdom",
+  "awards": "Won 1 Oscar. 11 wins & 22 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGUwZjZiNWQtYzAzZi00NGI5LWE4YmUtN2Y4YWMwY2RlZDkyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "metascore": "57",
+  "imdbRating": "7.5",
+  "imdbID": "tt0087469",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:22.684Z"
+}

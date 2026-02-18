@@ -1,0 +1,35 @@
+{
+  "title": "Hairspray",
+  "year": "1988",
+  "rated": "PG",
+  "released": "26 Feb 1988",
+  "runtime": "92 min",
+  "genre": "Comedy, Drama, Family",
+  "director": "John Waters",
+  "writer": "John Waters",
+  "actors": "Sonny Bono, Ruth Brown, Divine",
+  "plot": "A 'pleasantly plump' teenager teaches 1962 Baltimore a thing or two about integration after landing a spot on a local TV dance show.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWI5MzRmOWEtNTU4MS00MGM0LTk3MGYtMWU4OWQ5NTYyM2UyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.0",
+  "imdbID": "tt0095270",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:35.342Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Silkwood",
+  "year": "1983",
+  "rated": "R",
+  "released": "27 Jan 1984",
+  "runtime": "131 min",
+  "genre": "Biography, Drama, History",
+  "director": "Mike Nichols",
+  "writer": "Nora Ephron, Alice Arlen",
+  "actors": "Meryl Streep, Kurt Russell, Cher",
+  "plot": "A worker at a plutonium processing plant is purposefully contaminated, psychologically tortured and possibly murdered to prevent her from exposing worker safety violations at the plant.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 5 Oscars. 2 wins & 19 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGVhMWYzNWQtODQ4NS00OTI5LTlmYjEtNWZlZjc2OWIxYzg5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "7.1",
+  "imdbID": "tt0086312",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:22.632Z"
+}

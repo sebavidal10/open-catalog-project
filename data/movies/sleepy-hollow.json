@@ -1,0 +1,35 @@
+{
+  "title": "Sleepy Hollow",
+  "year": "1999",
+  "rated": "R",
+  "released": "19 Nov 1999",
+  "runtime": "105 min",
+  "genre": "Fantasy, Horror, Mystery",
+  "director": "Tim Burton",
+  "writer": "Washington Irving, Kevin Yagher, Andrew Kevin Walker",
+  "actors": "Johnny Depp, Christina Ricci, Miranda Richardson",
+  "plot": "Ichabod Crane is sent to Sleepy Hollow to investigate the decapitations of three people; the culprit is legendary apparition The Headless Horseman.",
+  "language": "English, Latin",
+  "country": "United Kingdom, Germany, United States",
+  "awards": "Won 1 Oscar. 28 wins & 44 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWIwMTIxZTQtNDZhNS00ZDZlLTg5MTEtOTNkMmNjOGUzMTA1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "7.3",
+  "imdbID": "tt0162661",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:00:00.474Z"
+}

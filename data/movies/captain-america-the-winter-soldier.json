@@ -1,0 +1,35 @@
+{
+  "title": "Captain America: The Winter Soldier",
+  "year": "2014",
+  "rated": "PG-13",
+  "released": "04 Apr 2014",
+  "runtime": "136 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Anthony Russo, Joe Russo",
+  "writer": "Christopher Markus, Stephen McFeely, Joe Simon",
+  "actors": "Chris Evans, Samuel L. Jackson, Scarlett Johansson",
+  "plot": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 5 wins & 52 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWY1NjFmNDItZDhmOC00NjI1LWE0ZDItMTM0MjBjZThiOTQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "7.7",
+  "imdbID": "tt1843866",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:50.065Z"
+}

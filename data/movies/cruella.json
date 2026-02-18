@@ -1,0 +1,35 @@
+{
+  "title": "Cruella",
+  "year": "2021",
+  "rated": "PG-13",
+  "released": "28 May 2021",
+  "runtime": "134 min",
+  "genre": "Adventure, Comedy, Crime",
+  "director": "Craig Gillespie",
+  "writer": "Dana Fox, Tony McNamara, Aline Brosh McKenna",
+  "actors": "Emma Stone, Emma Thompson, Joel Fry",
+  "plot": "During the 1970s London punk rock revolution, young grifter Estella transforms herself into the raucous, revenge-bent Cruella de Vil.",
+  "language": "English, French",
+  "country": "United States, United Kingdom, Canada, Ireland",
+  "awards": "Won 1 Oscar. 28 wins & 43 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWY5MjljNjctZjhjZS00MWY0LTgwYzUtZTJiYTVmMmJkM2E0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "metascore": "59",
+  "imdbRating": "7.3",
+  "imdbID": "tt3228774",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:54.085Z"
+}

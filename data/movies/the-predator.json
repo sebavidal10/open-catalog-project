@@ -1,0 +1,35 @@
+{
+  "title": "The Predator",
+  "year": "2018",
+  "rated": "R",
+  "released": "14 Sep 2018",
+  "runtime": "107 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Shane Black",
+  "writer": "Fred Dekker, Shane Black, Jim Thomas",
+  "actors": "Boyd Holbrook, Trevante Rhodes, Jacob Tremblay",
+  "plot": "When a young boy accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled scientist can prevent the end of the human race.",
+  "language": "English, Spanish",
+  "country": "Canada, United States, United Kingdom, India, Australia, Brazil, China",
+  "awards": "1 win & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM5MDk2NDIxMF5BMl5BanBnXkFtZTgwNjU5NDk3NTM@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "34%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "48/100"
+    }
+  ],
+  "metascore": "48",
+  "imdbRating": "5.3",
+  "imdbID": "tt3829266",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:00:07.478Z"
+}

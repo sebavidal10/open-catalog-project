@@ -1,0 +1,35 @@
+{
+  "title": "Sling Blade",
+  "year": "1996",
+  "rated": "R",
+  "released": "14 Mar 1997",
+  "runtime": "135 min",
+  "genre": "Drama",
+  "director": "Billy Bob Thornton",
+  "writer": "Billy Bob Thornton",
+  "actors": "Billy Bob Thornton, Dwight Yoakam, J.T. Walsh",
+  "plot": "Karl Childers, a simple man hospitalized since his childhood murder of his mother and her lover, is released to start a new life in a small town.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 14 wins & 15 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDM5MjhhMDgtMmVmYy00ODNlLWI1OGMtMzAzNmY5OGRmNjk0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "8.0",
+  "imdbID": "tt0117666",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:55.039Z"
+}

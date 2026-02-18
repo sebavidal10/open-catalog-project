@@ -1,0 +1,35 @@
+{
+  "title": "Mallrats",
+  "year": "1995",
+  "rated": "R",
+  "released": "20 Oct 1995",
+  "runtime": "94 min",
+  "genre": "Comedy, Romance",
+  "director": "Kevin Smith",
+  "writer": "Kevin Smith",
+  "actors": "Shannen Doherty, Jeremy London, Jason Lee",
+  "plot": "Both dumped by their girlfriends, two best friends seek refuge in the local mall.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDM2MWVkMWItNjhjMy00MDUzLWEyOTAtN2I0MzNlZjc4Mjk0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "58%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "41/100"
+    }
+  ],
+  "metascore": "41",
+  "imdbRating": "7.0",
+  "imdbID": "tt0113749",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:38.801Z"
+}

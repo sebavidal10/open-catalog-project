@@ -1,0 +1,35 @@
+{
+  "title": "Big Trouble in Little China",
+  "year": "1986",
+  "rated": "PG-13",
+  "released": "02 Jul 1986",
+  "runtime": "99 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "John Carpenter",
+  "writer": "Gary Goldman, David Z. Weinstein, W.D. Richter",
+  "actors": "Kurt Russell, Kim Cattrall, Dennis Dun",
+  "plot": "A rough-and-tumble trucker and his sidekick face off with an ancient sorcerer in a supernatural battle beneath Chinatown.",
+  "language": "English, Cantonese",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWNjZDQyMjUtZDEzZC00OThhLTg1NWItOTQ1MWI3ODBlODcyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "metascore": "53",
+  "imdbRating": "7.2",
+  "imdbID": "tt0090728",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:09.424Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Aliens vs. Predator: Requiem",
+  "year": "2007",
+  "rated": "R",
+  "released": "25 Dec 2007",
+  "runtime": "94 min",
+  "genre": "Action, Horror, Sci-Fi",
+  "director": "Colin Strause, Greg Strause",
+  "writer": "Shane Salerno, Dan O'Bannon, Ronald Shusett",
+  "actors": "Reiko Aylesworth, Steven Pasquale, Shareeka Epps",
+  "plot": "Warring Alien and Predator races descend on a rural Colorado town, where unsuspecting residents must band together for any chance of survival.",
+  "language": "English",
+  "country": "United States",
+  "awards": "5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI5NDY2NDUwM15BMl5BanBnXkFtZTYwNzQxMTA3._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "12%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "29/100"
+    }
+  ],
+  "metascore": "29",
+  "imdbRating": "4.6",
+  "imdbID": "tt0758730",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:00:10.977Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Gattaca",
+  "year": "1997",
+  "rated": "PG-13",
+  "released": "24 Oct 1997",
+  "runtime": "106 min",
+  "genre": "Drama, Sci-Fi, Thriller",
+  "director": "Andrew Niccol",
+  "writer": "Andrew Niccol",
+  "actors": "Ethan Hawke, Uma Thurman, Gore Vidal",
+  "plot": "Vincent, an \"In-Valid,\" assumes the identity of a member of the genetic elite to pursue his goal of traveling into space with the Gattaca Aerospace Corporation. However, a week before his mission, a murder marks Vincent as a suspect.",
+  "language": "English, Esperanto",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 6 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjQxNTc3YzQtZDA5ZC00MmM5LWE3NGYtMGE0Yjk3MDYwODVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "7.7",
+  "imdbID": "tt0119177",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:24.244Z"
+}

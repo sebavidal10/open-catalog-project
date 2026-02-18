@@ -1,0 +1,35 @@
+{
+  "title": "The Running Man",
+  "year": "1987",
+  "rated": "R",
+  "released": "13 Nov 1987",
+  "runtime": "101 min",
+  "genre": "Action, Sci-Fi, Thriller",
+  "director": "Paul Michael Glaser",
+  "writer": "Stephen King, Steven E. de Souza",
+  "actors": "Arnold Schwarzenegger, Maria Conchita Alonso, Yaphet Kotto",
+  "plot": "In a future dystopian America, a wrongfully accused and convicted policeman gets his shot at freedom when he's forced to participate in a TV game show where convicts called Runners must battle killers for their freedom.",
+  "language": "English, Italian, Japanese",
+  "country": "United States",
+  "awards": "1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDQwYzMwMDItYzFhZC00YjkzLTlmODAtMzg3NDFlNDhhZjYzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "59%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "45/100"
+    }
+  ],
+  "metascore": "45",
+  "imdbRating": "6.6",
+  "imdbID": "tt0093894",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:25.866Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "X-Men: Apocalypse",
+  "year": "2016",
+  "rated": "PG-13",
+  "released": "27 May 2016",
+  "runtime": "144 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Bryan Singer",
+  "writer": "Simon Kinberg, Bryan Singer, Michael Dougherty",
+  "actors": "James McAvoy, Michael Fassbender, Jennifer Lawrence",
+  "plot": "In the 1980s, the X-Men must defeat an ancient all-powerful mutant, En Sabah Nur, who intends to thrive by bringing destruction to the world.",
+  "language": "English, Polish, German, Arabic, Egyptian (Ancient)",
+  "country": "United States",
+  "awards": "1 win & 19 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjVhNWY3NjItNmZjOS00NTU3LWFiZTctNzdjNGM5Y2Y0MDUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "47%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "6.8",
+  "imdbID": "tt3385516",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:09.865Z"
+}

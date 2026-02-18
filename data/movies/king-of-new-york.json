@@ -1,0 +1,35 @@
+{
+  "title": "King of New York",
+  "year": "1990",
+  "rated": "R",
+  "released": "29 Aug 1991",
+  "runtime": "103 min",
+  "genre": "Crime, Thriller",
+  "director": "Abel Ferrara",
+  "writer": "Nicholas St. John",
+  "actors": "Christopher Walken, David Caruso, Laurence Fishburne",
+  "plot": "A drug kingpin is released from prison and seeks to take total control of the criminal underworld in order to give back to the community.",
+  "language": "English, Spanish",
+  "country": "Italy, United States",
+  "awards": "1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTE2NDcxNzE4N15BMl5BanBnXkFtZTgwMDc1NTk4NjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "6.9",
+  "imdbID": "tt0099939",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:02.703Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Cujo",
+  "year": "1983",
+  "rated": "R",
+  "released": "12 Aug 1983",
+  "runtime": "93 min",
+  "genre": "Horror, Thriller",
+  "director": "Lewis Teague",
+  "writer": "Stephen King, Don Carlos Dunaway, Barbara Turner",
+  "actors": "Dee Wallace, Daniel Hugh Kelly, Danny Pintauro",
+  "plot": "Cujo, a friendly St. Bernard, contracts rabies and conducts a reign of terror on an American farm.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM2NDc1NDYtMzA1ZS00NGIwLTljMDAtN2JiNGU2ZDM0MDM3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "metascore": "57",
+  "imdbRating": "6.1",
+  "imdbID": "tt0085382",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:26.100Z"
+}

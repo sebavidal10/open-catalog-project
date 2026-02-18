@@ -1,0 +1,35 @@
+{
+  "title": "Meet the Robinsons",
+  "year": "2007",
+  "rated": "G",
+  "released": "30 Mar 2007",
+  "runtime": "95 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Stephen J. Anderson",
+  "writer": "Jon Bernstein, Michelle Bochner Spitz, Don Hall",
+  "actors": "Daniel Hansen, Wesley Singerman, Angela Bassett",
+  "plot": "Lewis is a brilliant inventor who meets mysterious stranger named Wilbur Robinson, whisking Lewis away in a time machine and together they team up to track down Bowler Hat Guy in a showdown that ends with an unexpected twist of fate.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjVjY2E5MWYtZDZmNy00NzllLThlNzEtMmQ4MjExNTIxZDUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "68%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "6.8",
+  "imdbID": "tt0396555",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:30.201Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Happiness",
+  "year": "1998",
+  "rated": "NC-17",
+  "released": "16 Oct 1998",
+  "runtime": "134 min",
+  "genre": "Comedy, Drama",
+  "director": "Todd Solondz",
+  "writer": "Todd Solondz",
+  "actors": "Jane Adams, Jon Lovitz, Philip Seymour Hoffman",
+  "plot": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
+  "language": "English, Russian",
+  "country": "United States",
+  "awards": "12 wins & 27 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzczYzIyNGEtNWRlNi00NmU4LWI5YjgtNTFjMmUyMjhkOTBhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.7",
+  "imdbID": "tt0147612",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:38.500Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Thor: Ragnarok",
+  "year": "2017",
+  "rated": "PG-13",
+  "released": "03 Nov 2017",
+  "runtime": "130 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Taika Waititi",
+  "writer": "Eric Pearson, Craig Kyle, Christopher L. Yost",
+  "actors": "Chris Hemsworth, Tom Hiddleston, Cate Blanchett",
+  "plot": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+  "language": "English",
+  "country": "United States",
+  "awards": "6 wins & 50 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.9",
+  "imdbID": "tt3501632",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:47.732Z"
+}

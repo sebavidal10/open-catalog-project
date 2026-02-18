@@ -1,0 +1,35 @@
+{
+  "title": "Major League",
+  "year": "1989",
+  "rated": "R",
+  "released": "07 Apr 1989",
+  "runtime": "107 min",
+  "genre": "Comedy, Sport",
+  "director": "David S. Ward",
+  "writer": "David S. Ward",
+  "actors": "Tom Berenger, Charlie Sheen, Corbin Bernsen",
+  "plot": "The new owner of the Cleveland Indians puts together a purposely horrible team so they'll lose and she can move the team. But when the plot is uncovered, they start winning just to spite her.",
+  "language": "English, Spanish, Japanese",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmRiNjc2YWMtYzg4YS00Njg3LTg4YzgtNWVhM2RmMGIwNGFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.2",
+  "imdbID": "tt0097815",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:56.584Z"
+}

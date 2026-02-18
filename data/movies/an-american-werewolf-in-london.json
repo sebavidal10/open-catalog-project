@@ -1,0 +1,35 @@
+{
+  "title": "An American Werewolf in London",
+  "year": "1981",
+  "rated": "R",
+  "released": "21 Aug 1981",
+  "runtime": "97 min",
+  "genre": "Comedy, Horror",
+  "director": "John Landis",
+  "writer": "John Landis",
+  "actors": "David Naughton, Jenny Agutter, Joe Belcher",
+  "plot": "American college students David Kessler and Jack Goodman on a walking tour of Britain are attacked by a werewolf that none of the locals will admit exists. Jack dies. David recovers in a hospital, where he has nightmares.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Won 1 Oscar. 3 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWYyNmMwMTUtZjE2OC00YWQzLWJmMzctNzhmMDI1OTQwNzdhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "7.5",
+  "imdbID": "tt0082010",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:06:51.812Z"
+}

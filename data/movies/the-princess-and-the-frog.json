@@ -1,0 +1,35 @@
+{
+  "title": "The Princess and the Frog",
+  "year": "2009",
+  "rated": "G",
+  "released": "11 Dec 2009",
+  "runtime": "97 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Ron Clements, John Musker",
+  "writer": "Ron Clements, John Musker, Greg Erb",
+  "actors": "Anika Noni Rose, Keith David, Oprah Winfrey",
+  "plot": "A waitress desperate to fulfill her dreams as a restaurant owner is set on a journey to turn a frog prince back into a human, but she has to face the same problem after she kisses him.",
+  "language": "English, French",
+  "country": "United States, Brazil, Canada",
+  "awards": "Nominated for 3 Oscars. 10 wins & 42 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTE3YTExYTEtOTUxZC00OTM0LWJmYmItMDk5YjczNmIwNzA2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.2",
+  "imdbID": "tt0780521",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:27.884Z"
+}

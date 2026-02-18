@@ -1,0 +1,35 @@
+{
+  "title": "War for the Planet of the Apes",
+  "year": "2017",
+  "rated": "PG-13",
+  "released": "14 Jul 2017",
+  "runtime": "140 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Matt Reeves",
+  "writer": "Mark Bomback, Matt Reeves, Rick Jaffa",
+  "actors": "Andy Serkis, Woody Harrelson, Steve Zahn",
+  "plot": "After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind.",
+  "language": "English, American Sign ",
+  "country": "United States, Canada",
+  "awards": "Nominated for 1 Oscar. 28 wins & 65 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzNhMzNiZDYtMzYxYy00YTYwLTkxNmYtNTJhOGU1Yjg5ODI5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "7.4",
+  "imdbID": "tt3450958",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:00:05.144Z"
+}

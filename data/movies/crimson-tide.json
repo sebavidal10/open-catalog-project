@@ -1,0 +1,35 @@
+{
+  "title": "Crimson Tide",
+  "year": "1995",
+  "rated": "R",
+  "released": "12 May 1995",
+  "runtime": "116 min",
+  "genre": "Action, Drama, Thriller",
+  "director": "Tony Scott",
+  "writer": "Michael Schiffer, Richard P. Henrick",
+  "actors": "Denzel Washington, Gene Hackman, Matt Craven",
+  "plot": "On a U.S. nuclear missile sub, a young First Officer stages a mutiny to prevent his trigger-happy Captain from launching his missiles before confirming his orders to do so.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 5 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTNhZDk2NmQtNDc3ZC00Nzk3LWFmNTctYTc0OWMyNGM0ZWYyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "7.4",
+  "imdbID": "tt0112740",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:34.156Z"
+}

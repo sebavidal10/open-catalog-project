@@ -1,0 +1,35 @@
+{
+  "title": "I Know What You Did Last Summer",
+  "year": "1997",
+  "rated": "R",
+  "released": "17 Oct 1997",
+  "runtime": "101 min",
+  "genre": "Horror, Mystery",
+  "director": "Jim Gillespie",
+  "writer": "Kevin Williamson, Lois Duncan",
+  "actors": "Jennifer Love Hewitt, Sarah Michelle Gellar, Anne Heche",
+  "plot": "Four young friends bound by a tragic accident are reunited when they find themselves being stalked by a hook-wielding maniac in their small seaside town.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGE1MmMxZDMtYzkyYS00N2EzLTgxYWItNWZiN2NmMzZiZTNmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "47%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "5.8",
+  "imdbID": "tt0119345",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:10.180Z"
+}

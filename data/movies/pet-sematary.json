@@ -1,0 +1,35 @@
+{
+  "title": "Pet Sematary",
+  "year": "1989",
+  "rated": "R",
+  "released": "21 Apr 1989",
+  "runtime": "103 min",
+  "genre": "Fantasy, Horror, Thriller",
+  "director": "Mary Lambert",
+  "writer": "Stephen King",
+  "actors": "Dale Midkiff, Denise Crosby, Fred Gwynne",
+  "plot": "After tragedy strikes, a grieving father discovers an ancient burial ground behind his home with the power to raise the dead.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTEyYWIyZWYtMTM5OC00M2ZmLWI5NzMtZjA0ZTI4MTQ4ZDZkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "58%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "38/100"
+    }
+  ],
+  "metascore": "38",
+  "imdbRating": "6.5",
+  "imdbID": "tt0098084",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:55.418Z"
+}

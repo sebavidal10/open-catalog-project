@@ -1,0 +1,35 @@
+{
+  "title": "Chungking Express",
+  "year": "1994",
+  "rated": "PG-13",
+  "released": "08 Mar 1996",
+  "runtime": "102 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Wong Kar-Wai",
+  "writer": "Wong Kar-Wai",
+  "actors": "Brigitte Lin, Takeshi Kaneshiro, Tony Leung Chiu-wai",
+  "plot": "Two melancholic Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents.",
+  "language": "Cantonese, Mandarin",
+  "country": "Hong Kong",
+  "awards": "8 wins & 19 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDQ4ZmYxODctZDVlZC00OTcxLWJjOGItZjRlMzk4MDA1Yjg1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.9",
+  "imdbID": "tt0109424",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:20.198Z"
+}

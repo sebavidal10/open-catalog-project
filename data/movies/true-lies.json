@@ -1,0 +1,35 @@
+{
+  "title": "True Lies",
+  "year": "1994",
+  "rated": "R",
+  "released": "15 Jul 1994",
+  "runtime": "141 min",
+  "genre": "Action, Comedy, Thriller",
+  "director": "James Cameron",
+  "writer": "James Cameron, Claude Zidi, Simon Michaël",
+  "actors": "Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold",
+  "plot": "A fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used-car salesman while terrorists smuggle nuclear war heads into the United S...",
+  "language": "English, French, Arabic, German",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 8 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjU1ZjNhMjMtOTMxZS00MDc1LTlkNzQtZTdjNGQyYjQ4YTA4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "7.3",
+  "imdbID": "tt0111503",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:13.049Z"
+}

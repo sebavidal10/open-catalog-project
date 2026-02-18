@@ -1,0 +1,35 @@
+{
+  "title": "Barton Fink",
+  "year": "1991",
+  "rated": "R",
+  "released": "21 Aug 1991",
+  "runtime": "116 min",
+  "genre": "Comedy, Drama, Thriller",
+  "director": "Joel Coen, Ethan Coen",
+  "writer": "Joel Coen, Ethan Coen",
+  "actors": "John Turturro, John Goodman, Judy Davis",
+  "plot": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 3 Oscars. 19 wins & 29 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDc1YWRjODItNGZjNS00MDI4LTliYWYtNDdjZjI3ZWYzNzM4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.6",
+  "imdbID": "tt0101410",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:23.761Z"
+}

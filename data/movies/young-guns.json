@@ -1,0 +1,35 @@
+{
+  "title": "Young Guns",
+  "year": "1988",
+  "rated": "R",
+  "released": "12 Aug 1988",
+  "runtime": "107 min",
+  "genre": "Action, Drama, Western",
+  "director": "Christopher Cain",
+  "writer": "John Fusco",
+  "actors": "Emilio Estevez, Kiefer Sutherland, Lou Diamond Phillips",
+  "plot": "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGE5ZjYzMDEtZmQ4ZS00YjczLTk5YWYtNjdkZjY4NmQxNTEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "metascore": "50",
+  "imdbRating": "6.8",
+  "imdbID": "tt0096487",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:42.341Z"
+}

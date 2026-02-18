@@ -1,0 +1,35 @@
+{
+  "title": "The Abyss",
+  "year": "1989",
+  "rated": "PG-13",
+  "released": "09 Aug 1989",
+  "runtime": "140 min",
+  "genre": "Adventure, Drama, Mystery",
+  "director": "James Cameron",
+  "writer": "James Cameron",
+  "actors": "Ed Harris, Mary Elizabeth Mastrantonio, Michael Biehn",
+  "plot": "A civilian diving team is enlisted to search for a lost nuclear submarine and faces danger while encountering an alien aquatic species.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 9 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGRkNzJlNjgtZmUwYS00Y2U3LTljZDctMTQxYWIxOWVjMzNjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.5",
+  "imdbID": "tt0096754",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:00.224Z"
+}

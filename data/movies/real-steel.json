@@ -1,0 +1,35 @@
+{
+  "title": "Real Steel",
+  "year": "2011",
+  "rated": "PG-13",
+  "released": "07 Oct 2011",
+  "runtime": "127 min",
+  "genre": "Action, Drama, Sci-Fi",
+  "director": "Shawn Levy",
+  "writer": "John Gatins, Dan Gilroy, Jeremy Leven",
+  "actors": "Hugh Jackman, Evangeline Lilly, Dakota Goyo",
+  "plot": "In a near future where robot boxing is a top sport, a struggling ex-boxer feels he's found a champion in a discarded robot.",
+  "language": "English, Ukrainian",
+  "country": "United States, India",
+  "awards": "Nominated for 1 Oscar. 2 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMzEzNjg0N15BMl5BanBnXkFtZTcwMzg4NDk0Ng@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "metascore": "56",
+  "imdbRating": "7.1",
+  "imdbID": "tt0433035",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:19.177Z"
+}

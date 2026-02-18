@@ -1,0 +1,35 @@
+{
+  "title": "Con Air",
+  "year": "1997",
+  "rated": "R",
+  "released": "06 Jun 1997",
+  "runtime": "115 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Simon West",
+  "writer": "Scott Rosenberg",
+  "actors": "Nicolas Cage, John Cusack, John Malkovich",
+  "plot": "Former US Army Ranger, Cameron Poe, has just been paroled for manslaughter, but must stop a group of violent and deadly criminals from escaping the country after they seize control of the prison transport plane he is on.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 7 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODcxOGFjOTEtM2M3Zi00ZWNiLWFjMTYtZDQ0Yjg2NTE2MzNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "59%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "6.9",
+  "imdbID": "tt0118880",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:55.327Z"
+}

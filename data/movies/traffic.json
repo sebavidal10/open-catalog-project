@@ -1,0 +1,35 @@
+{
+  "title": "Traffic",
+  "year": "2000",
+  "rated": "R",
+  "released": "05 Jan 2001",
+  "runtime": "147 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Steven Soderbergh",
+  "writer": "Simon Moore, Stephen Gaghan",
+  "actors": "Michael Douglas, Benicio Del Toro, Catherine Zeta-Jones",
+  "plot": "A conservative judge is appointed by the President to spearhead America's escalating war against drugs, only to discover that his teenage daughter is a crack addict. Two DEA agents protect an informant. A jailed drug baron's wife ...",
+  "language": "English, Spanish",
+  "country": "Germany, United States",
+  "awards": "Won 4 Oscars. 73 wins & 86 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWM3OWEzZGMtNThmZS00ZGFmLTk4ZDctMGQ4NmRhZGM4ZjUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.5",
+  "imdbID": "tt0181865",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:05.817Z"
+}

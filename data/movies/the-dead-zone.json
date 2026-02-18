@@ -1,0 +1,35 @@
+{
+  "title": "The Dead Zone",
+  "year": "1983",
+  "rated": "R",
+  "released": "21 Oct 1983",
+  "runtime": "103 min",
+  "genre": "Drama, Fantasy, Thriller",
+  "director": "David Cronenberg",
+  "writer": "Stephen King, Jeffrey Boam",
+  "actors": "Christopher Walken, Brooke Adams, Tom Skerritt",
+  "plot": "Five years after a traffic accident that left him in a coma, a man awakens to discover that he has the ability to foresee future events and even prevent tragedies from happening. Will these new abilities prove to be a blessing or ...",
+  "language": "English, Polish, Russian",
+  "country": "United States, Canada",
+  "awards": "7 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjlmYzYyODgtYjBiYS00ZDM3LWE0MDYtN2U3MzBjMTRmYzMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.2",
+  "imdbID": "tt0085407",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:27.267Z"
+}

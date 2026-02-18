@@ -1,0 +1,35 @@
+{
+  "title": "The Hunchback of Notre Dame",
+  "year": "1996",
+  "rated": "G",
+  "released": "21 Jun 1996",
+  "runtime": "91 min",
+  "genre": "Animation, Drama, Family",
+  "director": "Gary Trousdale, Kirk Wise",
+  "writer": "Tab Murphy, Irene Mecchi, Bob Tzudiker",
+  "actors": "Demi Moore, Jason Alexander, Mary Kay Bergman",
+  "plot": "A deformed bell-ringer must assert his independence from a vicious government minister in order to help his friend, a gypsy dancer.",
+  "language": "English, Latin",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 8 wins & 26 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2QzMGEzNGMtMDQyNC00YTlmLWEwYjMtOGI1NWYxMTM4NjA2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.0",
+  "imdbID": "tt0116583",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:44.174Z"
+}

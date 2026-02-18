@@ -1,0 +1,35 @@
+{
+  "title": "Deadpool 2",
+  "year": "2018",
+  "rated": "R",
+  "released": "18 May 2018",
+  "runtime": "119 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "David Leitch",
+  "writer": "Rhett Reese, Paul Wernick, Ryan Reynolds",
+  "actors": "Ryan Reynolds, Josh Brolin, Morena Baccarin",
+  "plot": "Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool) assembles a team of fellow mutant rogues to protect a young boy with abilities from the brutal, time-traveling cyborg Cable.",
+  "language": "English, Cantonese, Spanish, Russian",
+  "country": "United States, Canada",
+  "awards": "6 wins & 52 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGY3N2ZhYmMtYTlmYi00ZWIzLWJiZWMtMjgxMjljYTk3MDAwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "7.6",
+  "imdbID": "tt5463162",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:05.213Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Karate Kid",
+  "year": "1984",
+  "rated": "PG",
+  "released": "22 Jun 1984",
+  "runtime": "126 min",
+  "genre": "Action, Drama, Family",
+  "director": "John G. Avildsen",
+  "writer": "Robert Mark Kamen",
+  "actors": "Ralph Macchio, Pat Morita, Elisabeth Shue",
+  "plot": "Recently relocated from NJ to LA, Daniel becomes the target of a gang of Cobra Kai dojo students. When Mr. Miyagi saves him with expert Karate skills, Daniel convinces him to teach him to defend himself, and put his bullies in the...",
+  "language": "English, Japanese",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 5 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2I3ZmZhNzctMzBlNC00YTc2LWE1MmEtY2ZkMzg3Y2I1ZDJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "7.3",
+  "imdbID": "tt0087538",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:32.010Z"
+}

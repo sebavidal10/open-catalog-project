@@ -1,0 +1,35 @@
+{
+  "title": "Clue",
+  "year": "1985",
+  "rated": "PG",
+  "released": "13 Dec 1985",
+  "runtime": "94 min",
+  "genre": "Comedy, Crime, Mystery",
+  "director": "Jonathan Lynn",
+  "writer": "John Landis, Jonathan Lynn, Anthony E. Pratt",
+  "actors": "Eileen Brennan, Tim Curry, Madeline Kahn",
+  "plot": "Six guests are anonymously invited to a strange mansion for dinner, but after their host is killed, they must cooperate with the staff to identify the murderer as the bodies pile up.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzMwZTY3ZGItYTY3Zi00YTRmLWE3Y2UtYWE1NmMwZDVjMmYxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "41/100"
+    }
+  ],
+  "metascore": "41",
+  "imdbRating": "7.3",
+  "imdbID": "tt0088930",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:49.658Z"
+}

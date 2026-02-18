@@ -1,0 +1,35 @@
+{
+  "title": "Total Recall",
+  "year": "1990",
+  "rated": "R",
+  "released": "01 Jun 1990",
+  "runtime": "113 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Paul Verhoeven",
+  "writer": "Philip K. Dick, Ronald Shusett, Dan O'Bannon",
+  "actors": "Arnold Schwarzenegger, Sharon Stone, Michael Ironside",
+  "plot": "When a man goes in to have virtual vacation memories of the planet Mars implanted in his mind, an unexpected and harrowing series of events forces him to go to the planet for real - or is he?",
+  "language": "English",
+  "country": "United States, Mexico, Netherlands",
+  "awards": "Nominated for 2 Oscars. 7 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjRlMzBkOGMtMTA1Ny00ZWI4LTkzMDItOGVkNWJkN2E4ZTkwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "7.5",
+  "imdbID": "tt0100802",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:42.500Z"
+}

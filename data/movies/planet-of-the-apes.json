@@ -1,0 +1,35 @@
+{
+  "title": "Planet of the Apes",
+  "year": "2001",
+  "rated": "PG-13",
+  "released": "27 Jul 2001",
+  "runtime": "120 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Tim Burton",
+  "writer": "Pierre Boulle, William Broyles Jr., Lawrence Konner",
+  "actors": "Mark Wahlberg, Tim Roth, Helena Bonham Carter",
+  "plot": "In 2029, an Air Force astronaut crash-lands on a mysterious planet where evolved, talking apes dominate a race of primitive humans.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 BAFTA 11 wins & 32 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjczODRhOTQtZjdkYi00MmM2LTg1ZmEtZDQ3YjA5MDJhODNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "42%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "metascore": "50",
+  "imdbRating": "5.7",
+  "imdbID": "tt0133152",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:00:01.641Z"
+}

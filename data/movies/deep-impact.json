@@ -1,0 +1,35 @@
+{
+  "title": "Deep Impact",
+  "year": "1998",
+  "rated": "PG-13",
+  "released": "08 May 1998",
+  "runtime": "120 min",
+  "genre": "Action, Drama, Sci-Fi",
+  "director": "Mimi Leder",
+  "writer": "Bruce Joel Rubin, Michael Tolkin",
+  "actors": "Robert Duvall, Téa Leoni, Elijah Wood",
+  "plot": "A comet is discovered to be on a collision course with Earth. As doomsday nears, the human race prepares for the worst.",
+  "language": "English, Russian",
+  "country": "United States",
+  "awards": "5 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2EwNjMxOWYtYWE5Zi00MWEyLWJlMGMtYzA1NDQyZGE5YWZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "45%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "40/100"
+    }
+  ],
+  "metascore": "40",
+  "imdbRating": "6.3",
+  "imdbID": "tt0120647",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:32.541Z"
+}

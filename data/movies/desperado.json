@@ -1,0 +1,35 @@
+{
+  "title": "Desperado",
+  "year": "1995",
+  "rated": "R",
+  "released": "25 Aug 1995",
+  "runtime": "104 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Robert Rodriguez",
+  "writer": "Robert Rodriguez",
+  "actors": "Antonio Banderas, Salma Hayek, Joaquim de Almeida",
+  "plot": "Former musician and gunslinger El Mariachi arrives at a small Mexican border town after being away for a long time. His past quickly catches up with him and he soon gets entangled with the local drug kingpin Bucho and his gang.",
+  "language": "English, Spanish",
+  "country": "United States, Mexico",
+  "awards": "1 win & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2IzOThmNTMtODE4My00NTI1LThkOWMtNTA4MTc4NWI1NTNlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "7.1",
+  "imdbID": "tt0112851",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:41.116Z"
+}

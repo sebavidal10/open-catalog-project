@@ -1,0 +1,35 @@
+{
+  "title": "The Piano",
+  "year": "1993",
+  "rated": "R",
+  "released": "11 Feb 1994",
+  "runtime": "121 min",
+  "genre": "Drama, Music, Romance",
+  "director": "Jane Campion",
+  "writer": "Jane Campion",
+  "actors": "Holly Hunter, Harvey Keitel, Sam Neill",
+  "plot": "In the mid-19th century a mute woman is sent to New Zealand along with her young daughter and prized piano for an arranged marriage to a farmer, but is soon lusted after by a farm worker.",
+  "language": "English, British Sign , Maori",
+  "country": "New Zealand, Australia, France",
+  "awards": "Won 3 Oscars. 65 wins & 57 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGZiYTQ0MmEtY2RmYy00ZjRkLWI3NTctYTRhMGJlMzA4ZDg0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "7.5",
+  "imdbID": "tt0107822",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:45.990Z"
+}

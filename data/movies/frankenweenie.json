@@ -1,0 +1,35 @@
+{
+  "title": "Frankenweenie",
+  "year": "2012",
+  "rated": "PG",
+  "released": "05 Oct 2012",
+  "runtime": "87 min",
+  "genre": "Animation, Comedy, Drama",
+  "director": "Tim Burton",
+  "writer": "Leonard Ripps, Tim Burton, John August",
+  "actors": "Winona Ryder, Catherine O'Hara, Martin Short",
+  "plot": "When a boy's beloved dog passes away suddenly, he attempts to bring the animal back to life through a powerful science experiment.",
+  "language": "English",
+  "country": "United States, United Kingdom",
+  "awards": "Nominated for 1 Oscar. 12 wins & 50 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjNjOThlZTctMjNmNy00YjdmLTgwOTYtMzg1N2VmNmMyOTBlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "6.9",
+  "imdbID": "tt1142977",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:49.983Z"
+}

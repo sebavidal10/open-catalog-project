@@ -1,0 +1,35 @@
+{
+  "title": "Videodrome",
+  "year": "1983",
+  "rated": "R",
+  "released": "04 Feb 1983",
+  "runtime": "87 min",
+  "genre": "Drama, Horror, Sci-Fi",
+  "director": "David Cronenberg",
+  "writer": "David Cronenberg",
+  "actors": "James Woods, Debbie Harry, Sonja Smits",
+  "plot": "A Toronto cable TV station co-owner who specializes in adult entertainment searches for the producers of a dangerous and bizarre broadcast titled \"Videodrome.\"",
+  "language": "English, Spanish, Japanese, French, Italian",
+  "country": "Canada",
+  "awards": "3 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTI0NDVlMjMtNWI5Yi00ZWM0LTg4NWUtNGRkYjU5NTBkZjVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "7.2",
+  "imdbID": "tt0086541",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:24.944Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Dawn of the Planet of the Apes",
+  "year": "2014",
+  "rated": "PG-13",
+  "released": "11 Jul 2014",
+  "runtime": "130 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Matt Reeves",
+  "writer": "Mark Bomback, Rick Jaffa, Amanda Silver",
+  "actors": "Gary Oldman, Keri Russell, Andy Serkis",
+  "plot": "The fragile peace between apes and humans is threatened as mistrust and betrayal threaten to plunge both tribes into a war for dominance over the Earth.",
+  "language": "English, American Sign ",
+  "country": "United States, United Kingdom, Canada",
+  "awards": "Nominated for 1 Oscar. 17 wins & 48 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWNjYzQ4ZGItZTg1My00NTM2LTg1NDUtYThjOTQwMTYyNjU1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.6",
+  "imdbID": "tt2103281",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:00:03.978Z"
+}

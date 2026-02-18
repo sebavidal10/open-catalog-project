@@ -1,0 +1,35 @@
+{
+  "title": "Funny Games",
+  "year": "1997",
+  "rated": "Not Rated",
+  "released": "11 Mar 1998",
+  "runtime": "108 min",
+  "genre": "Crime, Drama, Horror",
+  "director": "Michael Haneke",
+  "writer": "Michael Haneke",
+  "actors": "Susanne Lothar, Ulrich Mühe, Arno Frisch",
+  "plot": "Two violent young men take a mother, father, and son hostage in their vacation cabin and force them to play sadistic \"games\" with one another for their own amusement.",
+  "language": "German, French, Italian",
+  "country": "Austria",
+  "awards": "5 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2NkZWQyNzgtNGIzZC00YjFkLWFkZGQtNTU0OGI5ODYxODA1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.5",
+  "imdbID": "tt0119167",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:26.554Z"
+}

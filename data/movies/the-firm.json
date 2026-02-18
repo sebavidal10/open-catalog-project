@@ -1,0 +1,35 @@
+{
+  "title": "The Firm",
+  "year": "1993",
+  "rated": "R",
+  "released": "30 Jun 1993",
+  "runtime": "154 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "Sydney Pollack",
+  "writer": "John Grisham, David Rabe, Robert Towne",
+  "actors": "Tom Cruise, Jeanne Tripplehorn, Gene Hackman",
+  "plot": "A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 3 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE3ZDZkMWMtY2RkMC00YzJjLWFhYTUtYmRjMzAyMzEwZDE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "6.9",
+  "imdbID": "tt0106918",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:00.243Z"
+}

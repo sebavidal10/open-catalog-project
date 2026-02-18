@@ -1,0 +1,35 @@
+{
+  "title": "O Brother, Where Art Thou?",
+  "year": "2000",
+  "rated": "PG-13",
+  "released": "02 Feb 2001",
+  "runtime": "107 min",
+  "genre": "Adventure, Comedy, Crime",
+  "director": "Joel Coen, Ethan Coen",
+  "writer": "Homer, Ethan Coen, Joel Coen",
+  "actors": "George Clooney, John Turturro, Tim Blake Nelson",
+  "plot": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.",
+  "language": "English",
+  "country": "United Kingdom, France, United States",
+  "awards": "Nominated for 2 Oscars. 8 wins & 38 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDhmMzZkYzctOTQ4MS00NWEzLWI1YzMtNTllZDhkYjgwOWQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.7",
+  "imdbID": "tt0190590",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:54.923Z"
+}

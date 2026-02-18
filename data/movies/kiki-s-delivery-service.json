@@ -1,0 +1,31 @@
+{
+  "title": "Kiki's Delivery Service",
+  "year": "1989",
+  "rated": "G",
+  "released": "20 Dec 1990",
+  "runtime": "103 min",
+  "genre": "Animation, Family, Fantasy",
+  "director": "Hayao Miyazaki",
+  "writer": "Eiko Kadono, Hayao Miyazaki",
+  "actors": "Minami Takayama, Rei Sakuma, Mieko Nobusawa",
+  "plot": "Along with her black cat Jiji, Kiki settles in a seaside town and starts a high-flying delivery service. Here begins her magical encounter with independence and responsibility, making lifelong friends and finding her place in the ...",
+  "language": "Japanese, English",
+  "country": "Japan",
+  "awards": "4 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTFhYWI1NGUtZWFhZS00MTdkLWIzZTItMDBhNWNiZDNlMjYyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "7.8",
+  "imdbID": "tt0097814",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:41.338Z"
+}

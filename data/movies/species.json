@@ -1,0 +1,35 @@
+{
+  "title": "Species",
+  "year": "1995",
+  "rated": "R",
+  "released": "07 Jul 1995",
+  "runtime": "108 min",
+  "genre": "Action, Horror, Sci-Fi",
+  "director": "Roger Donaldson",
+  "writer": "Dennis Feldman",
+  "actors": "Natasha Henstridge, Michael Madsen, Ben Kingsley",
+  "plot": "A group of scientists try to track down and trap a killer alien seductress before she successfully mates with a human.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzOTkxNTcyM15BMl5BanBnXkFtZTcwOTk0MjI3NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "42%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "metascore": "49",
+  "imdbRating": "5.9",
+  "imdbID": "tt0114508",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:36.478Z"
+}

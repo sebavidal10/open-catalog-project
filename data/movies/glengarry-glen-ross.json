@@ -1,0 +1,35 @@
+{
+  "title": "Glengarry Glen Ross",
+  "year": "1992",
+  "rated": "R",
+  "released": "02 Oct 1992",
+  "runtime": "100 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "James Foley",
+  "writer": "David Mamet",
+  "actors": "Al Pacino, Jack Lemmon, Alec Baldwin",
+  "plot": "An examination of the machinations behind the scenes at a real estate office.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 8 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2Q5NDA1ODctNmM4Yy00Yjk4LTg2ZTUtZTJjYzYyMjA2MTdmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.7",
+  "imdbID": "tt0104348",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:33.227Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Conan the Barbarian",
+  "year": "1982",
+  "rated": "R",
+  "released": "14 May 1982",
+  "runtime": "129 min",
+  "genre": "Adventure, Fantasy",
+  "director": "John Milius",
+  "writer": "Robert E. Howard, John Milius, Oliver Stone",
+  "actors": "Arnold Schwarzenegger, James Earl Jones, Max von Sydow",
+  "plot": "A powerful warrior seeks to avenge the genocide of his people and the murder of his parents at the hands of a snake cult.",
+  "language": "English",
+  "country": "United States, Mexico",
+  "awards": "2 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjUzM2YzZDAtNzk1MS00YmNmLTg1ZmQtNjgyN2U3NTY0ZjE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "43/100"
+    }
+  ],
+  "metascore": "43",
+  "imdbRating": "6.9",
+  "imdbID": "tt0082198",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:12.052Z"
+}

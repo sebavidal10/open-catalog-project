@@ -1,0 +1,35 @@
+{
+  "title": "Sister Act",
+  "year": "1992",
+  "rated": "PG",
+  "released": "29 May 1992",
+  "runtime": "100 min",
+  "genre": "Comedy, Family, Music",
+  "director": "Emile Ardolino",
+  "writer": "Paul Rudnick",
+  "actors": "Whoopi Goldberg, Maggie Smith, Harvey Keitel",
+  "plot": "When a nightclub singer is forced to take refuge from the mob in a convent, she ends up turning the convent choir into a soulful chorus complete with a Motown repertoire, until the sudden celebrity of the choir jeopardizes her ide...",
+  "language": "English",
+  "country": "United States",
+  "awards": "9 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIzOTU0ODItMzcyMi00YzFjLTk3MzktNTQ2YjZmN2E0NTBkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "6.5",
+  "imdbID": "tt0105417",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:30.907Z"
+}

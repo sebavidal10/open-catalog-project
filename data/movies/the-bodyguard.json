@@ -1,0 +1,35 @@
+{
+  "title": "The Bodyguard",
+  "year": "1992",
+  "rated": "R",
+  "released": "25 Nov 1992",
+  "runtime": "129 min",
+  "genre": "Drama, Music, Romance",
+  "director": "Mick Jackson",
+  "writer": "Lawrence Kasdan",
+  "actors": "Kevin Costner, Whitney Houston, Gary Kemp",
+  "plot": "A former Secret Service agent takes on the job of bodyguard to an R&amp;B singer, whose lifestyle is most unlike a President's.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 14 wins & 21 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTM4ZWNjZmItMmUxNy00Y2M2LTlhZmItMjc0NjQzZmNiOWY5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "38%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "39/100"
+    }
+  ],
+  "metascore": "39",
+  "imdbRating": "6.4",
+  "imdbID": "tt0103855",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:32.072Z"
+}

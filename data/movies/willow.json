@@ -1,0 +1,35 @@
+{
+  "title": "Willow",
+  "year": "1988",
+  "rated": "PG",
+  "released": "20 May 1988",
+  "runtime": "126 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Ron Howard",
+  "writer": "George Lucas, Bob Dolman",
+  "actors": "Val Kilmer, Joanne Whalley, Warwick Davis",
+  "plot": "A young dwarf farmer is chosen to undertake a perilous journey in order to protect a special baby from an evil queen. Along the way, he teams up with a disgraced swordsman to defeat the evil sorceress.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 1 win & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2E5Mjg3NzItNTNlNy00NzJmLThjOGUtZjdjMTZiMGJkYTMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "52%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "47/100"
+    }
+  ],
+  "metascore": "47",
+  "imdbRating": "7.2",
+  "imdbID": "tt0096446",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:34.026Z"
+}

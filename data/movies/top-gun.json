@@ -1,0 +1,35 @@
+{
+  "title": "Top Gun",
+  "year": "1986",
+  "rated": "PG",
+  "released": "16 May 1986",
+  "runtime": "110 min",
+  "genre": "Action, Drama",
+  "director": "Tony Scott",
+  "writer": "Jim Cash, Jack Epps Jr., Ehud Yonay",
+  "actors": "Tom Cruise, Tim Robbins, Kelly McGillis",
+  "plot": "The Top Gun Naval Fighter Weapons School is where the best of the best train to refine their elite flying skills. When hotshot fighter pilot Maverick is sent to the school, his reckless attitude and cocky demeanor put him at odds ...",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 11 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmVjNzQ3MjYtYTZiNC00Y2YzLWExZTEtMTM2ZDllNDI0MzgyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "59%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "metascore": "50",
+  "imdbRating": "7.0",
+  "imdbID": "tt0092099",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:28.511Z"
+}

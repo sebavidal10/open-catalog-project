@@ -1,0 +1,35 @@
+{
+  "title": "Conspiracy Theory",
+  "year": "1997",
+  "rated": "R",
+  "released": "08 Aug 1997",
+  "runtime": "135 min",
+  "genre": "Action, Drama, Mystery",
+  "director": "Richard Donner",
+  "writer": "Brian Helgeland",
+  "actors": "Mel Gibson, Julia Roberts, Patrick Stewart",
+  "plot": "A taxi driver with a penchant for conspiracy theories becomes a target after one of these theories turns out to be true. Unfortunately, to save himself, he has to figure out which theory it is.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQ1MTYxMzA4OF5BMl5BanBnXkFtZTgwNjg2NTM1MTI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "59%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "metascore": "50",
+  "imdbRating": "6.7",
+  "imdbID": "tt0118883",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:20.772Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Showgirls",
+  "year": "1995",
+  "rated": "NC-17",
+  "released": "22 Sep 1995",
+  "runtime": "131 min",
+  "genre": "Drama",
+  "director": "Paul Verhoeven",
+  "writer": "Joe Eszterhas",
+  "actors": "Elizabeth Berkley, Kyle MacLachlan, Gina Gershon",
+  "plot": "A mysterious young drifter who calls herself Nomi Malone hitches a ride to Las Vegas, where she finds work as a stripper and sets about clawing her way to the top of the Vegas showgirls.",
+  "language": "English",
+  "country": "France, United States",
+  "awards": "10 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzcyMjExNjg3OF5BMl5BanBnXkFtZTgwOTY4Mjc1MDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "24%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "25/100"
+    }
+  ],
+  "metascore": "25",
+  "imdbRating": "5.1",
+  "imdbID": "tt0114436",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:37.643Z"
+}

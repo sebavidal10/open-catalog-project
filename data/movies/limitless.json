@@ -1,0 +1,35 @@
+{
+  "title": "Limitless",
+  "year": "2011",
+  "rated": "PG-13",
+  "released": "18 Mar 2011",
+  "runtime": "105 min",
+  "genre": "Sci-Fi, Thriller",
+  "director": "Neil Burger",
+  "writer": "Leslie Dixon, Alan Glynn",
+  "actors": "Bradley Cooper, Anna Friel, Abbie Cornish",
+  "plot": "A mysterious pill that enables the user to access 100% of his brain's abilities transforms a struggling writer into a financial wizard, but it also puts him in a new world with many dangers.",
+  "language": "English, Russian, Italian, Mandarin, French",
+  "country": "United States",
+  "awards": "2 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWQ4OTQ4YzYtODlmMi00ZjA0LTg5M2QtZWUzNjA5N2NmODE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "68%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "metascore": "59",
+  "imdbRating": "7.4",
+  "imdbID": "tt1219289",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:27.313Z"
+}

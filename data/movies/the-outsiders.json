@@ -1,0 +1,35 @@
+{
+  "title": "The Outsiders",
+  "year": "1983",
+  "rated": "PG",
+  "released": "25 Mar 1983",
+  "runtime": "91 min",
+  "genre": "Crime, Drama",
+  "director": "Francis Ford Coppola",
+  "writer": "Kathleen Rowell, S.E. Hinton",
+  "actors": "C. Thomas Howell, Matt Dillon, Ralph Macchio",
+  "plot": "In Tulsa, Oklahoma in 1964, the rivalry between two gangs, the poor Greasers and the rich Socs, heats up when one gang member accidentally kills a member of the other.",
+  "language": "English",
+  "country": "France, United States",
+  "awards": "1 win & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODlmMzZjZDEtOTUwOS00OTAwLTg2YzAtYTA4ZTk3ZWNjMTgxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "45/100"
+    }
+  ],
+  "metascore": "45",
+  "imdbRating": "7.0",
+  "imdbID": "tt0086066",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:20.167Z"
+}

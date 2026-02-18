@@ -1,0 +1,35 @@
+{
+  "title": "Cape Fear",
+  "year": "1991",
+  "rated": "R",
+  "released": "15 Nov 1991",
+  "runtime": "128 min",
+  "genre": "Crime, Thriller",
+  "director": "Martin Scorsese",
+  "writer": "John D. MacDonald, James R. Webb, Wesley Strick",
+  "actors": "Robert De Niro, Nick Nolte, Jessica Lange",
+  "plot": "A convicted rapist, released from prison after serving a fourteen-year sentence, stalks the family of the lawyer who originally defended him.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 5 wins & 21 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.3",
+  "imdbID": "tt0101540",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:21.438Z"
+}

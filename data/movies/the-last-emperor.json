@@ -1,0 +1,35 @@
+{
+  "title": "The Last Emperor",
+  "year": "1987",
+  "rated": "PG-13",
+  "released": "15 Apr 1988",
+  "runtime": "163 min",
+  "genre": "Biography, Drama, History",
+  "director": "Bernardo Bertolucci",
+  "writer": "Enzo Ungari, Mark Peploe, Bernardo Bertolucci",
+  "actors": "John Lone, Joan Chen, Peter O'Toole",
+  "plot": "Bernardo Bertolucci's Oscar-winning dramatization of China's eleventh and final monarch of the Qing dynasty: Emperor Puyi.",
+  "language": "English, Mandarin, Japanese, French",
+  "country": "China, Italy, United Kingdom, France",
+  "awards": "Won 9 Oscars. 58 wins & 20 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjIxYWFiMDgtZTgyMy00MjFiLWIyMmEtNGIyZjc1NTRlMzQ3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.7",
+  "imdbID": "tt0093389",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:12.916Z"
+}

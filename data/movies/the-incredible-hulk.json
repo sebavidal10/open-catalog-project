@@ -1,0 +1,35 @@
+{
+  "title": "The Incredible Hulk",
+  "year": "2008",
+  "rated": "PG-13",
+  "released": "13 Jun 2008",
+  "runtime": "112 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Louis Leterrier",
+  "writer": "Zak Penn, Stan Lee, Jack Kirby",
+  "actors": "Edward Norton, Liv Tyler, Tim Roth",
+  "plot": "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into whenever he loses his temper.",
+  "language": "English, Portuguese, Spanish",
+  "country": "United States, Canada, Japan",
+  "awards": "2 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "68%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "6.6",
+  "imdbID": "tt0800080",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:14.525Z"
+}

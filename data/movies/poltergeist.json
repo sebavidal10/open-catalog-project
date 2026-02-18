@@ -1,0 +1,35 @@
+{
+  "title": "Poltergeist",
+  "year": "1982",
+  "rated": "PG",
+  "released": "04 Jun 1982",
+  "runtime": "114 min",
+  "genre": "Horror, Thriller",
+  "director": "Tobe Hooper",
+  "writer": "Steven Spielberg, Michael Grais, Mark Victor",
+  "actors": "JoBeth Williams, Heather O'Rourke, Craig T. Nelson",
+  "plot": "A family's home becomes the center of paranormal activity that opens a doorway to the \"other side.\" With help, they must cross over to get their daughter back.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 5 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzY4MGZkYjgtYTQ2YS00YTlhLWEyMjAtMjZhYzczNTRlM2ZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.3",
+  "imdbID": "tt0084516",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:03.911Z"
+}

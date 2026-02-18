@@ -1,0 +1,35 @@
+{
+  "title": "Cars 2",
+  "year": "2011",
+  "rated": "G",
+  "released": "24 Jun 2011",
+  "runtime": "106 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "John Lasseter, Bradford Lewis",
+  "writer": "John Lasseter, Bradford Lewis, Dan Fogelman",
+  "actors": "Owen Wilson, Larry the Cable Guy, Michael Caine",
+  "plot": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international e...",
+  "language": "English, Japanese, Italian, French, Russian",
+  "country": "United States, Japan, India, United Kingdom, Australia",
+  "awards": "1 win & 19 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUzNTc3MTU3M15BMl5BanBnXkFtZTcwMzIxNTc3NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "metascore": "57",
+  "imdbRating": "6.2",
+  "imdbID": "tt1216475",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:19.721Z"
+}

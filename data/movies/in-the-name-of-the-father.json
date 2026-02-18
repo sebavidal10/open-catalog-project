@@ -1,0 +1,35 @@
+{
+  "title": "In the Name of the Father",
+  "year": "1993",
+  "rated": "R",
+  "released": "25 Feb 1994",
+  "runtime": "133 min",
+  "genre": "Biography, Crime, Drama",
+  "director": "Jim Sheridan",
+  "writer": "Gerry Conlon, Terry George, Jim Sheridan",
+  "actors": "Daniel Day-Lewis, Pete Postlethwaite, Anthony Brophy",
+  "plot": "An Irish man's coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. Meanwhile, a British lawyer fights to clear their names and free them.",
+  "language": "English",
+  "country": "Ireland, United Kingdom, United States",
+  "awards": "Nominated for 7 Oscars. 7 wins & 41 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGZiZDVjNzYtZWM4ZC00MzVkLThhNDEtMDJlOTBhYzVjMmNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "8.1",
+  "imdbID": "tt0107207",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:54.424Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "GoldenEye",
+  "year": "1995",
+  "rated": "PG-13",
+  "released": "17 Nov 1995",
+  "runtime": "130 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "Martin Campbell",
+  "writer": "Ian Fleming, Michael France, Jeffrey Caine",
+  "actors": "Pierce Brosnan, Sean Bean, Izabella Scorupco",
+  "plot": "When a powerful secret defense system is stolen, James Bond is assigned to stop a Russian crime syndicate from using it.",
+  "language": "English, Russian, Spanish",
+  "country": "United Kingdom, United States, Russia",
+  "awards": "Nominated for 2 BAFTA 2 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGQxNmYyY2YtZGIyNy00ODgxLThhZWEtZGIyNjJhYzFlOTllXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "7.2",
+  "imdbID": "tt0113189",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:23.679Z"
+}

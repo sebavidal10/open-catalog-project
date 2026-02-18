@@ -1,0 +1,35 @@
+{
+  "title": "Captain America: The First Avenger",
+  "year": "2011",
+  "rated": "PG-13",
+  "released": "22 Jul 2011",
+  "runtime": "124 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Joe Johnston",
+  "writer": "Christopher Markus, Stephen McFeely, Joe Simon",
+  "actors": "Chris Evans, Hugo Weaving, Samuel L. Jackson",
+  "plot": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a \"Super-Soldier serum\". But being Captain America comes at a price as he attempts to take down a warmonger and a terrorist organiza...",
+  "language": "English, Norwegian, French",
+  "country": "United States",
+  "awards": "4 wins & 50 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzUyM2YyY2MtNzNlMS00MWU5LTgxNjAtNzZlNmI2NjU2NDZlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "6.9",
+  "imdbID": "tt0458339",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:51.227Z"
+}

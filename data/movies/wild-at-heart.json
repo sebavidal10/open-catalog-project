@@ -1,0 +1,35 @@
+{
+  "title": "Wild at Heart",
+  "year": "1990",
+  "rated": "R",
+  "released": "17 Aug 1990",
+  "runtime": "125 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "David Lynch",
+  "writer": "Barry Gifford, David Lynch",
+  "actors": "Nicolas Cage, Laura Dern, Willem Dafoe",
+  "plot": "Young lovers Sailor and Lula run from the variety of weirdos that Lula's mom has hired to kill Sailor.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 5 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmUyNjMzMjEtMGFkNy00MDA1LWI0NGEtMDY5OGU1N2NmNDg1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "65%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "7.2",
+  "imdbID": "tt0100935",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:12.159Z"
+}

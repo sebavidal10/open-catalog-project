@@ -1,0 +1,35 @@
+{
+  "title": "Road House",
+  "year": "1989",
+  "rated": "R",
+  "released": "19 May 1989",
+  "runtime": "114 min",
+  "genre": "Action, Thriller",
+  "director": "Rowdy Herrington",
+  "writer": "R. Lance Hill, Hilary Henkin",
+  "actors": "Patrick Swayze, Kelly Lynch, Sam Elliott",
+  "plot": "A legendary bouncer comes to restore order at a notorious bar but runs afoul of a ruthless crime boss who controls the town.",
+  "language": "English, Portuguese",
+  "country": "United States",
+  "awards": "5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU1MTE2Mjk2OF5BMl5BanBnXkFtZTcwMTUzNjYzNA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "44%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "36/100"
+    }
+  ],
+  "metascore": "36",
+  "imdbRating": "6.7",
+  "imdbID": "tt0098206",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:51.623Z"
+}

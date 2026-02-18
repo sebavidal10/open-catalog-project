@@ -1,0 +1,35 @@
+{
+  "title": "James and the Giant Peach",
+  "year": "1996",
+  "rated": "PG",
+  "released": "12 Apr 1996",
+  "runtime": "79 min",
+  "genre": "Animation, Adventure, Family",
+  "director": "Henry Selick",
+  "writer": "Roald Dahl, Karey Kirkpatrick, Jonathan Roberts",
+  "actors": "Paul Terry, Joanna Lumley, Pete Postlethwaite",
+  "plot": "An orphan who lives with his two cruel aunts befriends anthropomorphic bugs who live inside a giant peach, and they embark on a journey to New York City.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 1 Oscar. 4 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmQwNDEyNjItYmExOC00MGU4LWE2MDEtOTFlZTM5MzA1OTY1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "6.7",
+  "imdbID": "tt0116683",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:47.661Z"
+}

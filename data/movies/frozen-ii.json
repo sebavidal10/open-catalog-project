@@ -1,0 +1,35 @@
+{
+  "title": "Frozen II",
+  "year": "2019",
+  "rated": "PG",
+  "released": "22 Nov 2019",
+  "runtime": "103 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Chris Buck, Jennifer Lee",
+  "writer": "Jennifer Lee, Hans Christian Andersen, Chris Buck",
+  "actors": "Kristen Bell, Idina Menzel, Josh Gad",
+  "plot": "Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom.",
+  "language": "English",
+  "country": "United States, Japan",
+  "awards": "Nominated for 1 Oscar. 18 wins & 95 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTE1YjlmZjctNjIwNi00NDQ0LTlmMzgtYWZkY2RkZTMwNTdmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "6.8",
+  "imdbID": "tt4520988",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:24.391Z"
+}

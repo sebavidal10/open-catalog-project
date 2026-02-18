@@ -1,0 +1,35 @@
+{
+  "title": "The Blues Brothers",
+  "year": "1980",
+  "rated": "R",
+  "released": "20 Jun 1980",
+  "runtime": "133 min",
+  "genre": "Adventure, Comedy, Crime",
+  "director": "John Landis",
+  "writer": "Dan Aykroyd, John Landis",
+  "actors": "John Belushi, Dan Aykroyd, Cab Calloway",
+  "plot": "Jake Blues rejoins his brother Elwood after being released from prison, but the duo has just days to reunite their old R&amp;B band and save the Catholic home where the two were raised, outrunning the police as they tear through Chicago.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzI2ZDAyNjYtNzgwOS00MTRlLWE3MjUtMTI3M2VmYzQ1ZWJmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "7.9",
+  "imdbID": "tt0080455",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:06:33.038Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Sing",
+  "year": "2016",
+  "rated": "PG",
+  "released": "21 Dec 2016",
+  "runtime": "108 min",
+  "genre": "Animation, Comedy, Family",
+  "director": "Garth Jennings, Christophe Lourdelet",
+  "writer": "Garth Jennings",
+  "actors": "Matthew McConaughey, Reese Witherspoon, Seth MacFarlane",
+  "plot": "In a city of humanoid animals, a hustling theater impresario's attempt to save his theater with a singing competition becomes grander than he anticipates even as its finalists find that their lives will never be the same.",
+  "language": "English, Japanese",
+  "country": "Japan, United States",
+  "awards": "3 wins & 25 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "metascore": "59",
+  "imdbRating": "7.1",
+  "imdbID": "tt3470600",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:04.575Z"
+}

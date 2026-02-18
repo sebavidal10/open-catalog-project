@@ -1,0 +1,35 @@
+{
+  "title": "A Few Good Men",
+  "year": "1992",
+  "rated": "R",
+  "released": "11 Dec 1992",
+  "runtime": "138 min",
+  "genre": "Drama, Thriller",
+  "director": "Rob Reiner",
+  "writer": "Aaron Sorkin",
+  "actors": "Tom Cruise, Jack Nicholson, Demi Moore",
+  "plot": "A military lawyer intends to prove that two US Marines charged with murdering a fellow Marine were only following their base commander's orders.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 11 wins & 30 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGVhMTUwYzEtZGQ1ZC00Nzg1LTk0OGUtMDk0NDM0ZmZlN2E0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.7",
+  "imdbID": "tt0104257",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:46.004Z"
+}

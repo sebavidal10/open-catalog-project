@@ -1,0 +1,35 @@
+{
+  "title": "Stargate",
+  "year": "1994",
+  "rated": "PG-13",
+  "released": "28 Oct 1994",
+  "runtime": "121 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Roland Emmerich",
+  "writer": "Dean Devlin, Roland Emmerich",
+  "actors": "Kurt Russell, James Spader, Jaye Davidson",
+  "plot": "An interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra.",
+  "language": "English, Norwegian, Swedish, Egyptian (Ancient), Arabic",
+  "country": "France, United States",
+  "awards": "6 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGRmZmNhMTctZTBiMy00ZmJhLWE3MmMtMDNmZWRkZjczMGVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "53%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "42/100"
+    }
+  ],
+  "metascore": "42",
+  "imdbRating": "7.0",
+  "imdbID": "tt0111282",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:11.886Z"
+}

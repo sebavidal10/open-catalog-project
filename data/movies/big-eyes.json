@@ -1,0 +1,35 @@
+{
+  "title": "Big Eyes",
+  "year": "2014",
+  "rated": "PG-13",
+  "released": "25 Dec 2014",
+  "runtime": "106 min",
+  "genre": "Biography, Crime, Drama",
+  "director": "Tim Burton",
+  "writer": "Scott Alexander, Larry Karaszewski",
+  "actors": "Amy Adams, Christoph Waltz, Danny Huston",
+  "plot": "A drama about the awakening of painter Margaret Keane, her phenomenal success in the 1950s, and the subsequent legal difficulties she had with her husband, who claimed credit for her works in the 1960s.",
+  "language": "English, French, Italian",
+  "country": "United States, Canada",
+  "awards": "Nominated for 2 BAFTA 3 wins & 18 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA2ODM5MDE3N15BMl5BanBnXkFtZTgwOTIxNjc1MzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.0",
+  "imdbID": "tt1126590",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:54.654Z"
+}

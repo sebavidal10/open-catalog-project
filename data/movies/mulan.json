@@ -1,0 +1,35 @@
+{
+  "title": "Mulan",
+  "year": "2020",
+  "rated": "PG-13",
+  "released": "04 Sep 2020",
+  "runtime": "115 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Niki Caro",
+  "writer": "Rick Jaffa, Amanda Silver, Lauren Hynek",
+  "actors": "Yifei Liu, Donnie Yen, Gong Li",
+  "plot": "To keep her ailing father from serving in the Imperial Army, a fearless young woman disguises herself as a man and battles northern invaders in China.",
+  "language": "English, Mandarin",
+  "country": "United States, China",
+  "awards": "Nominated for 2 Oscars. 11 wins & 42 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWJiZDg3ZWEtYWZkMC00Zjc1LTkzYTctZWFkODk2MDlmOGNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "5.8",
+  "imdbID": "tt4566758",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:01.063Z"
+}

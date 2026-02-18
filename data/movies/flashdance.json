@@ -1,0 +1,35 @@
+{
+  "title": "Flashdance",
+  "year": "1983",
+  "rated": "R",
+  "released": "15 Apr 1983",
+  "runtime": "95 min",
+  "genre": "Drama, Music, Romance",
+  "director": "Adrian Lyne",
+  "writer": "Thomas Hedley Jr., Joe Eszterhas",
+  "actors": "Jennifer Beals, Michael Nouri, Lilia Skala",
+  "plot": "An 18-year-old female amateur dancer who performs nightly at a dancing bar, and works as a welder during the day, dreams of joining the Pittsburgh ballet school.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 14 wins & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWU3NzQ3NDYtYjY2ZS00NTZjLWJkYjEtMDA1NzcxOTdiOWI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "37%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "39/100"
+    }
+  ],
+  "metascore": "39",
+  "imdbRating": "6.2",
+  "imdbID": "tt0085549",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:19.007Z"
+}

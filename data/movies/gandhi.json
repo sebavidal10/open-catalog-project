@@ -1,0 +1,35 @@
+{
+  "title": "Gandhi",
+  "year": "1982",
+  "rated": "PG",
+  "released": "25 Feb 1983",
+  "runtime": "191 min",
+  "genre": "Biography, Drama, History",
+  "director": "Richard Attenborough",
+  "writer": "John Briley",
+  "actors": "Ben Kingsley, John Gielgud, Rohini Hattangadi",
+  "plot": "The life of the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest.",
+  "language": "English, Hindi",
+  "country": "United Kingdom, India",
+  "awards": "Won 8 Oscars. 35 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTg3ODhlZTEtM2Q3MC00YzMxLWJjN2YtOWUyMDIyYTlhYzM3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "8.0",
+  "imdbID": "tt0083987",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:06:59.099Z"
+}

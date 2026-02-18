@@ -1,0 +1,35 @@
+{
+  "title": "Outbreak",
+  "year": "1995",
+  "rated": "R",
+  "released": "10 Mar 1995",
+  "runtime": "127 min",
+  "genre": "Action, Drama, Thriller",
+  "director": "Wolfgang Petersen",
+  "writer": "Laurence Dworet, Robert Roy Pool",
+  "actors": "Dustin Hoffman, Rene Russo, Morgan Freeman",
+  "plot": "A team of Army doctors struggle to find a cure for the deadly Motaba virus that was transported from Africa to North America by a white-headed Capuchin monkey and is now spreading quickly throughout a small California town.",
+  "language": "English, Korean, French",
+  "country": "United States",
+  "awards": "5 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGYxY2Q0YzUtMmE3OS00ZmQ5LWFiOGUtZDZmNTJlM2YyZjJmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "6.6",
+  "imdbID": "tt0114069",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:35.320Z"
+}

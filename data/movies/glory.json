@@ -1,0 +1,35 @@
+{
+  "title": "Glory",
+  "year": "1989",
+  "rated": "R",
+  "released": "16 Feb 1990",
+  "runtime": "122 min",
+  "genre": "Biography, Drama, History",
+  "director": "Edward Zwick",
+  "writer": "Kevin Jarre, Lincoln Kirstein, Peter Burchard",
+  "actors": "Matthew Broderick, Denzel Washington, Cary Elwes",
+  "plot": "Robert Gould Shaw leads the U.S. Civil War's first all-black volunteer company, fighting prejudices from both his own Union Army, and the Confederates.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 15 wins & 18 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTA1NDcyOGMtYTc0Zi00OTQ0LTllZTEtMTIxZDcxMWYxZTVhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.8",
+  "imdbID": "tt0097441",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:49.309Z"
+}

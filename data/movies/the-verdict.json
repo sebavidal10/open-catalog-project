@@ -1,0 +1,35 @@
+{
+  "title": "The Verdict",
+  "year": "1982",
+  "rated": "R",
+  "released": "17 Dec 1982",
+  "runtime": "129 min",
+  "genre": "Drama",
+  "director": "Sidney Lumet",
+  "writer": "Barry Reed, David Mamet, Jay Presson Allen",
+  "actors": "Paul Newman, Charlotte Rampling, Jack Warden",
+  "plot": "An outcast, alcoholic Boston lawyer sees the chance to salvage his career and self-respect by taking a medical malpractice case to trial rather than settling.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 5 Oscars. 3 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGNhMzRhNTgtOWUwMy00MGNmLThmZjEtZWMxNDM0N2ZlNzM2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.7",
+  "imdbID": "tt0084855",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:00.413Z"
+}

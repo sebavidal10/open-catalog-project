@@ -1,0 +1,35 @@
+{
+  "title": "The Full Monty",
+  "year": "1997",
+  "rated": "R",
+  "released": "19 Sep 1997",
+  "runtime": "91 min",
+  "genre": "Comedy, Drama",
+  "director": "Peter Cattaneo",
+  "writer": "Simon Beaufoy",
+  "actors": "Robert Carlyle, Tom Wilkinson, Mark Addy",
+  "plot": "Six unemployed steel workers form a male striptease act. The women cheer them on to go for \"the full monty\" - total nudity.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Won 1 Oscar. 37 wins & 35 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjZjNjU4YjItM2NhNS00NzIwLWIzMjMtMGMzZjcyMjYwYzE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "7.2",
+  "imdbID": "tt0119164",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:11.335Z"
+}

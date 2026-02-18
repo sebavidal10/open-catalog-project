@@ -1,0 +1,35 @@
+{
+  "title": "Hellboy",
+  "year": "2004",
+  "rated": "PG-13",
+  "released": "02 Apr 2004",
+  "runtime": "122 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Guillermo del Toro",
+  "writer": "Guillermo del Toro, Peter Briggs, Mike Mignola",
+  "actors": "Ron Perlman, Doug Jones, Selma Blair",
+  "plot": "A demon raised from infancy after being conjured by and rescued from the Nazis, grows up to become a defender against the forces of darkness.",
+  "language": "English, Russian, German, Latin",
+  "country": "United States",
+  "awards": "3 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWZhODhmZjktNmIzNC00NGRmLTkyMDEtODVmMzVmNGQwYWU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "metascore": "72",
+  "imdbRating": "6.9",
+  "imdbID": "tt0167190",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:15.687Z"
+}

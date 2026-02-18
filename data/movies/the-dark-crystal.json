@@ -1,0 +1,35 @@
+{
+  "title": "The Dark Crystal",
+  "year": "1982",
+  "rated": "PG",
+  "released": "17 Dec 1982",
+  "runtime": "93 min",
+  "genre": "Adventure, Family, Fantasy",
+  "director": "Jim Henson, Frank Oz",
+  "writer": "David Odell, Jim Henson",
+  "actors": "Jim Henson, Kathryn Mullen, Frank Oz",
+  "plot": "On another planet in the distant past, the last of the Gelfling race embarks on a quest to find the missing shard of a magical crystal and to restore order to his world.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 1 BAFTA Award3 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTcxY2NiMDAtMjRmYi00ZTUwLTk2NDYtYjI1MDQ4ZDBiMTA5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "7.1",
+  "imdbID": "tt0083791",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:09.735Z"
+}

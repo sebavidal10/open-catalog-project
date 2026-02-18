@@ -1,0 +1,35 @@
+{
+  "title": "The Blue Lagoon",
+  "year": "1980",
+  "rated": "R",
+  "released": "02 Jul 1980",
+  "runtime": "104 min",
+  "genre": "Adventure, Drama, Romance",
+  "director": "Randal Kleiser",
+  "writer": "Henry De Vere Stacpoole, Douglas Day Stewart",
+  "actors": "Brooke Shields, Christopher Atkins, Leo McKern",
+  "plot": "During the Victorian period, two preteen cousins are shipwrecked on a tropical island in the South Pacific and enjoy a simple life together until puberty complicates matters.",
+  "language": "English",
+  "country": "United States, Fiji, Jamaica",
+  "awards": "Nominated for 1 Oscar. 4 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWJiNTViMTUtNzAwNy00OGNkLWI2NzQtYWFiNTBmMjA4ODI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "12%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "31/100"
+    }
+  ],
+  "metascore": "31",
+  "imdbRating": "5.8",
+  "imdbID": "tt0080453",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:06:35.367Z"
+}

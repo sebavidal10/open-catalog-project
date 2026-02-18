@@ -1,0 +1,35 @@
+{
+  "title": "Enola Holmes 2",
+  "year": "2022",
+  "rated": "PG-13",
+  "released": "04 Nov 2022",
+  "runtime": "129 min",
+  "genre": "Action, Adventure, Crime",
+  "director": "Harry Bradbeer",
+  "writer": "Jack Thorne, Harry Bradbeer, Nancy Springer",
+  "actors": "Millie Bobby Brown, Henry Cavill, David Thewlis",
+  "plot": "Now a detective-for-hire, Enola Holmes takes on her first official case to find a missing girl as the sparks of a dangerous conspiracy ignite a mystery that requires the help of friends - and Sherlock himself - to unravel.",
+  "language": "English",
+  "country": "United States",
+  "awards": "5 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjRjZjZhNzUtMDQyMC00OWZmLWIzMjQtZDM2OWRhNzgwOGU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "6.8",
+  "imdbID": "tt14641788",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:48.259Z"
+}

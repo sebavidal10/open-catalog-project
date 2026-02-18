@@ -1,0 +1,35 @@
+{
+  "title": "Guillermo del Toro's Pinocchio",
+  "year": "2022",
+  "rated": "PG",
+  "released": "09 Dec 2022",
+  "runtime": "117 min",
+  "genre": "Animation, Adventure, Drama",
+  "director": "Guillermo del Toro, Mark Gustafson",
+  "writer": "Guillermo del Toro, Patrick McHale, Carlo Collodi",
+  "actors": "Ewan McGregor, David Bradley, Gregory Mann",
+  "plot": "A father's wish magically brings a wooden boy to life in Italy, giving him a chance to care for the child.",
+  "language": "English, Italian",
+  "country": "United States, Mexico, France",
+  "awards": "Won 1 Oscar. 78 wins & 135 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2I3NDQzZmQtODJmOS00M2QyLWIxZTItYTA1ZTYzOWJlM2ZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "27%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.6",
+  "imdbID": "tt1488589",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:02.225Z"
+}

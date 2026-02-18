@@ -1,0 +1,35 @@
+{
+  "title": "Enola Holmes",
+  "year": "2020",
+  "rated": "PG-13",
+  "released": "23 Sep 2020",
+  "runtime": "123 min",
+  "genre": "Adventure, Crime, Drama",
+  "director": "Harry Bradbeer",
+  "writer": "Jack Thorne, Nancy Springer, Arthur Conan Doyle",
+  "actors": "Millie Bobby Brown, Henry Cavill, Sam Claflin",
+  "plot": "When Enola Holmes, Sherlock's sister, discovers her mother is missing, she endeavors to find her, becoming a super-sleuth in her own right as she outwits her famous brother and unravels a dangerous conspiracy.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTRlYmI1NTMtYTVkYi00MjJkLWE3ZGItOThkYTdhNzBhMThhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "6.6",
+  "imdbID": "tt7846844",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:47.097Z"
+}

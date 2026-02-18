@@ -1,0 +1,35 @@
+{
+  "title": "Kindergarten Cop",
+  "year": "1990",
+  "rated": "PG-13",
+  "released": "21 Dec 1990",
+  "runtime": "111 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "Ivan Reitman",
+  "writer": "Murray Salem, Herschel Weingrod, Timothy Harris",
+  "actors": "Arnold Schwarzenegger, Penelope Ann Miller, Pamela Reed",
+  "plot": "A tough cop must pose as a kindergarten teacher in order to locate a dangerous criminal's ex-wife, who may hold the key to putting him behind bars.",
+  "language": "English, Spanish, German",
+  "country": "United States",
+  "awards": "4 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMyMTIyOTc0N15BMl5BanBnXkFtZTgwODY1NTk4NjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "54%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "6.3",
+  "imdbID": "tt0099938",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:05.019Z"
+}

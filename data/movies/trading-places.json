@@ -1,0 +1,35 @@
+{
+  "title": "Trading Places",
+  "year": "1983",
+  "rated": "R",
+  "released": "08 Jun 1983",
+  "runtime": "116 min",
+  "genre": "Comedy",
+  "director": "John Landis",
+  "writer": "Timothy Harris, Herschel Weingrod",
+  "actors": "Eddie Murphy, Dan Aykroyd, Ralph Bellamy",
+  "plot": "A snobbish Wall Street commodities broker and a wily street hustler find their positions reversed as part of a bet by two callous millionaire brothers who run a brokerage house.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 3 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzlkYjQ1MzUtNjgwZi00MmRhLTkwYzItMGRmN2Y3YmRjY2JmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.5",
+  "imdbID": "tt0086465",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:15.531Z"
+}

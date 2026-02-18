@@ -1,0 +1,35 @@
+{
+  "title": "Erin Brockovich",
+  "year": "2000",
+  "rated": "R",
+  "released": "17 Mar 2000",
+  "runtime": "131 min",
+  "genre": "Biography, Drama",
+  "director": "Steven Soderbergh",
+  "writer": "Susannah Grant",
+  "actors": "Julia Roberts, Albert Finney, David Brisbin",
+  "plot": "A flamboyant law firm secretary works tirelessly to gain justice for a small town wrecked by a utility company's pollution.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 33 wins & 59 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTNkNzkzYTEtYTJkMC00MTNkLWE0YjMtOGYxNGI0ODNiMzIwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.5",
+  "imdbID": "tt0195685",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:56.082Z"
+}

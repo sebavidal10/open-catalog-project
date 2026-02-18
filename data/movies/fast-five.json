@@ -1,0 +1,35 @@
+{
+  "title": "Fast Five",
+  "year": "2011",
+  "rated": "PG-13",
+  "released": "29 Apr 2011",
+  "runtime": "130 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Justin Lin",
+  "writer": "Chris Morgan, Gary Scott Thompson",
+  "actors": "Vin Diesel, Paul Walker, Dwayne Johnson",
+  "plot": "Dominic Toretto and his crew of street racers plan a massive heist to buy their freedom while in the sights of a powerful Brazilian drug lord and a dangerous federal agent.",
+  "language": "English, Portuguese, Spanish, Italian, French",
+  "country": "United States, Brazil, Japan",
+  "awards": "9 wins & 21 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUxNTk5MTE0OF5BMl5BanBnXkFtZTcwMjA2NzY3NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "7.3",
+  "imdbID": "tt1596343",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:36.086Z"
+}

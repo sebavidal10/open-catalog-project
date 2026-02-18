@@ -1,0 +1,35 @@
+{
+  "title": "Four Weddings and a Funeral",
+  "year": "1994",
+  "rated": "R",
+  "released": "15 Apr 1994",
+  "runtime": "117 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Mike Newell",
+  "writer": "Richard Curtis",
+  "actors": "Hugh Grant, Andie MacDowell, James Fleet",
+  "plot": "Over the course of five social occasions, a committed bachelor must consider the notion that he may have discovered love.",
+  "language": "English, British Sign ",
+  "country": "United Kingdom",
+  "awards": "Nominated for 2 Oscars. 24 wins & 27 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMyNzg2NzgxNV5BMl5BanBnXkFtZTcwMTcxNzczNA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.1",
+  "imdbID": "tt0109831",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:06.070Z"
+}

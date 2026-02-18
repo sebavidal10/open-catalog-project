@@ -1,0 +1,35 @@
+{
+  "title": "Lucy",
+  "year": "2014",
+  "rated": "R",
+  "released": "25 Jul 2014",
+  "runtime": "89 min",
+  "genre": "Action, Sci-Fi, Thriller",
+  "director": "Luc Besson",
+  "writer": "Luc Besson",
+  "actors": "Scarlett Johansson, Morgan Freeman, Choi Min-sik",
+  "plot": "A woman who has become accidentally trapped in a dark deal with a mysterious and brutal criminal overlord transforms into a merciless warrior evolved beyond previously known human evolutionary limits and turns the tables on her ca...",
+  "language": "English, Mandarin, French, Italian, German, Spanish, Korean",
+  "country": "France, Germany, Taiwan, Canada, United Kingdom",
+  "awards": "1 win & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODcxMzY3ODY1NF5BMl5BanBnXkFtZTgwNzg1NDY4MTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "6.4",
+  "imdbID": "tt2872732",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:28.475Z"
+}

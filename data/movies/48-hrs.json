@@ -1,0 +1,35 @@
+{
+  "title": "48 Hrs.",
+  "year": "1982",
+  "rated": "R",
+  "released": "08 Dec 1982",
+  "runtime": "96 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "Walter Hill",
+  "writer": "Roger Spottiswoode, Walter Hill, Larry Gross",
+  "actors": "Nick Nolte, Eddie Murphy, Annette O'Toole",
+  "plot": "A hard-nosed cop reluctantly teams up with a wise-cracking criminal temporarily paroled to him in order to track down a killer.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "3 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGQwMzQ1NjItMWU0YS00ZDc0LThlYzUtMDgzOTIzN2QwZTJmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "6.9",
+  "imdbID": "tt0083511",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:06.236Z"
+}

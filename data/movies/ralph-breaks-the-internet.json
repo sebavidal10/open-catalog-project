@@ -1,0 +1,35 @@
+{
+  "title": "Ralph Breaks the Internet",
+  "year": "2018",
+  "rated": "PG",
+  "released": "21 Nov 2018",
+  "runtime": "112 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Phil Johnston, Rich Moore",
+  "writer": "Phil Johnston, Pamela Ribon, Rich Moore",
+  "actors": "John C. Reilly, Sarah Silverman, Gal Gadot",
+  "plot": "On a quest to save the video game 'Sugar Rush' and to find a replacement, Ralph and his best friend Vanellope travel to the World Wide Web through a Wi-Fi router they find at the arcade.",
+  "language": "English",
+  "country": "United States, Singapore",
+  "awards": "Nominated for 1 Oscar. 4 wins & 67 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYyNzEyNDAzOV5BMl5BanBnXkFtZTgwNTk3NDczNjM@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.0",
+  "imdbID": "tt5848272",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:25.559Z"
+}

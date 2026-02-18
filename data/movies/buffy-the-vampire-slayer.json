@@ -1,0 +1,35 @@
+{
+  "title": "Buffy the Vampire Slayer",
+  "year": "1992",
+  "rated": "PG-13",
+  "released": "01 Jul 1992",
+  "runtime": "86 min",
+  "genre": "Action, Comedy, Fantasy",
+  "director": "Fran Rubel Kuzui",
+  "writer": "Joss Whedon",
+  "actors": "Kristy Swanson, Donald Sutherland, Paul Reubens",
+  "plot": "Flighty teenage girl Buffy Summers learns that she is her generation's destined battler of vampires.",
+  "language": "English",
+  "country": "Japan, United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDQ4MzNlMzAtZDMxMy00YzcwLWJiMTMtNDBmMWMyMTAwODM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "36%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "48/100"
+    }
+  ],
+  "metascore": "48",
+  "imdbRating": "5.7",
+  "imdbID": "tt0103893",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:42.505Z"
+}

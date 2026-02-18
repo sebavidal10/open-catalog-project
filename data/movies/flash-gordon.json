@@ -1,0 +1,35 @@
+{
+  "title": "Flash Gordon",
+  "year": "1980",
+  "rated": "PG",
+  "released": "05 Dec 1980",
+  "runtime": "111 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Mike Hodges",
+  "writer": "Lorenzo Semple Jr., Michael Allin, Alex Raymond",
+  "actors": "Sam J. Jones, Melody Anderson, Max von Sydow",
+  "plot": "Football player Flash Gordon and his comrades travel to the planet Mongo and find themselves fighting the tyranny of Ming the Merciless to save Earth from its eventual destruction.",
+  "language": "English",
+  "country": "United Kingdom, United States, Netherlands, Italy",
+  "awards": "Nominated for 3 BAFTA 2 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzQ1NGE2MTItY2Q0ZS00ZmYyLWEzZjgtYWIwNGU2NWFkZGQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "6.5",
+  "imdbID": "tt0080745",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:06:40.032Z"
+}

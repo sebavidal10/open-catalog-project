@@ -1,0 +1,35 @@
+{
+  "title": "Megamind",
+  "year": "2010",
+  "rated": "PG",
+  "released": "05 Nov 2010",
+  "runtime": "95 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Tom McGrath",
+  "writer": "Alan Schoolcraft, Brent Simons",
+  "actors": "Will Ferrell, Jonah Hill, Brad Pitt",
+  "plot": "Evil genius Megamind finally defeats his do-gooder nemesis, Metro Man, but is left without a purpose in a superhero-free world.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAzMzI0NTMzNDBeQTJeQWpwZ15BbWU3MDM3NTAyOTM@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "7.3",
+  "imdbID": "tt1001526",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:16.219Z"
+}

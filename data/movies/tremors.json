@@ -1,0 +1,35 @@
+{
+  "title": "Tremors",
+  "year": "1990",
+  "rated": "PG-13",
+  "released": "19 Jan 1990",
+  "runtime": "96 min",
+  "genre": "Comedy, Horror",
+  "director": "Ron Underwood",
+  "writer": "S.S. Wilson, Brent Maddock, Ron Underwood",
+  "actors": "Kevin Bacon, Fred Ward, Finn Carter",
+  "plot": "Natives of a small isolated town defend themselves against strange underground creatures which are killing them one by one.",
+  "language": "English",
+  "country": "United States",
+  "awards": "5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTEzNjkwMzIyMjZeQTJeQWpwZ15BbWU4MDI2NTU5ODYx._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "7.2",
+  "imdbID": "tt0100814",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:08.507Z"
+}

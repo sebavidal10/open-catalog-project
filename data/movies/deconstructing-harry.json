@@ -1,0 +1,35 @@
+{
+  "title": "Deconstructing Harry",
+  "year": "1997",
+  "rated": "R",
+  "released": "02 Jan 1998",
+  "runtime": "96 min",
+  "genre": "Comedy",
+  "director": "Woody Allen",
+  "writer": "Woody Allen",
+  "actors": "Woody Allen, Judy Davis, Julia Louis-Dreyfus",
+  "plot": "Suffering from writer's block and eagerly awaiting his writing award, Harry Block remembers events from his past and scenes from his best-selling books as characters, real and fictional, come back to haunt him.",
+  "language": "English, Hebrew",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 4 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDEyMzNhZTQtMmJkNC00ZWRkLWE1YjEtNzRkZGY5YWFiZmVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.3",
+  "imdbID": "tt0118954",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:13.655Z"
+}

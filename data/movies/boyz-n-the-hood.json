@@ -1,0 +1,35 @@
+{
+  "title": "Boyz n the Hood",
+  "year": "1991",
+  "rated": "R",
+  "released": "12 Jul 1991",
+  "runtime": "112 min",
+  "genre": "Crime, Drama",
+  "director": "John Singleton",
+  "writer": "John Singleton",
+  "actors": "Cuba Gooding Jr., Laurence Fishburne, Hudhail Al-Amir",
+  "plot": "Follows the lives of three young males living in the Crenshaw ghetto of Los Angeles, dissecting questions of race, relationships, violence, and future prospects.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 12 wins & 28 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzZhNDcyYTctOWU1My00ZmUzLWFmNmItZTIwY2JkNjVkZTdmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.8",
+  "imdbID": "tt0101507",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:17.958Z"
+}

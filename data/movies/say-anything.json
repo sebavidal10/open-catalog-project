@@ -1,0 +1,35 @@
+{
+  "title": "Say Anything",
+  "year": "1989",
+  "rated": "PG-13",
+  "released": "14 Apr 1989",
+  "runtime": "100 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Cameron Crowe",
+  "writer": "Cameron Crowe",
+  "actors": "John Cusack, Ione Skye, John Mahoney",
+  "plot": "A noble underachiever and a beautiful valedictorian fall in love the summer before she goes off to college.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjY1N2QwZDItOWZjZC00MTg4LTg1YmUtZWMzMThhY2YxNmNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.3",
+  "imdbID": "tt0098258",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:50.465Z"
+}

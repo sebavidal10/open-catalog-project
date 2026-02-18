@@ -1,0 +1,35 @@
+{
+  "title": "American Gigolo",
+  "year": "1980",
+  "rated": "R",
+  "released": "01 Feb 1980",
+  "runtime": "117 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Paul Schrader",
+  "writer": "Paul Schrader",
+  "actors": "Richard Gere, Lauren Hutton, Hector Elizondo",
+  "plot": "Los Angeles escort Julian Kay is accused of a murder which he did not commit.",
+  "language": "English, Swedish, French, German",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmQzYmJlOWMtYWQ3ZC00ZjMzLWE1ZWUtOTFjNjkxNWEzZjY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "metascore": "57",
+  "imdbRating": "6.3",
+  "imdbID": "tt0080365",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:06:38.863Z"
+}

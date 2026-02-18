@@ -1,0 +1,35 @@
+{
+  "title": "The Gray Man",
+  "year": "2022",
+  "rated": "PG-13",
+  "released": "22 Jul 2022",
+  "runtime": "122 min",
+  "genre": "Action, Mystery, Thriller",
+  "director": "Joe Russo, Anthony Russo",
+  "writer": "Joe Russo, Christopher Markus, Stephen McFeely",
+  "actors": "Ryan Gosling, Chris Evans, Ana de Armas",
+  "plot": "When the CIA's most skilled operative, whose true identity is known to none, accidentally uncovers dark agency secrets, a psychopathic former colleague puts a bounty on his head, setting off a global manhunt by international assas...",
+  "language": "English",
+  "country": "United States, Czech Republic, United Kingdom, Canada, France, Denmark, Thailand, Vietnam, Cambodia",
+  "awards": "7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmFhZTNlNzctZGQzZi00MTA3LThiNjMtYWQzNjUzMjNjZjA3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "46%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "metascore": "49",
+  "imdbRating": "6.5",
+  "imdbID": "tt1649418",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:36.628Z"
+}

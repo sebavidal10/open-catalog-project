@@ -1,0 +1,35 @@
+{
+  "title": "Jungle Cruise",
+  "year": "2021",
+  "rated": "PG-13",
+  "released": "30 Jul 2021",
+  "runtime": "127 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Jaume Collet-Serra",
+  "writer": "Michael Green, Glenn Ficarra, John Requa",
+  "actors": "Dwayne Johnson, Emily Blunt, Edgar Ramírez",
+  "plot": "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+  "language": "English, German, Spanish, Tupi, Italian, Portuguese, Latin, French",
+  "country": "United States, Hungary, Canada",
+  "awards": "6 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWU5ZTBkMjQtMzg2Yi00ZmJlLTk4YWEtYTc0ZjU1YzE1NGNkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "62%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "metascore": "50",
+  "imdbRating": "6.5",
+  "imdbID": "tt0870154",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:52.924Z"
+}

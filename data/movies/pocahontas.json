@@ -1,0 +1,35 @@
+{
+  "title": "Pocahontas",
+  "year": "1995",
+  "rated": "G",
+  "released": "23 Jun 1995",
+  "runtime": "81 min",
+  "genre": "Animation, Adventure, Drama",
+  "director": "Mike Gabriel, Eric Goldberg",
+  "writer": "Carl Binder, Susannah Grant, Philip LaZebnik",
+  "actors": "Mel Gibson, Linda Hunt, Christian Bale",
+  "plot": "An English soldier and the daughter of an Algonquin chief share a romance when English colonists invade seventeenth century Virginia.",
+  "language": "English, Algonquin",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 16 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2ZlNTUxM2MtYmJhYS00Y2E5LTlmYTItZDhlNWJmMmRiYTYzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "58%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "metascore": "59",
+  "imdbRating": "6.7",
+  "imdbID": "tt0114148",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:45.337Z"
+}

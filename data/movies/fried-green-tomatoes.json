@@ -1,0 +1,35 @@
+{
+  "title": "Fried Green Tomatoes",
+  "year": "1991",
+  "rated": "PG-13",
+  "released": "24 Jan 1992",
+  "runtime": "130 min",
+  "genre": "Drama",
+  "director": "Jon Avnet",
+  "writer": "Fannie Flagg, Carol Sobieski",
+  "actors": "Kathy Bates, Jessica Tandy, Mary Stuart Masterson",
+  "plot": "Evelyn, an ordinary housewife, visits a nursing home and befriends the old lady Ninny. Together, they bond over stories from the past about two intrepid women of Whistle Stop Cafe.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 6 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzBhMzRkNGItNDFmMy00NjViLWFiYWYtMzAxMzI4YTZmZjRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "7.7",
+  "imdbID": "tt0101921",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:16.797Z"
+}

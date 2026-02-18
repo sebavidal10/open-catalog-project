@@ -1,0 +1,35 @@
+{
+  "title": "Leaving Las Vegas",
+  "year": "1995",
+  "rated": "R",
+  "released": "09 Feb 1996",
+  "runtime": "111 min",
+  "genre": "Drama, Romance",
+  "director": "Mike Figgis",
+  "writer": "John O'Brien, Mike Figgis",
+  "actors": "Nicolas Cage, Elisabeth Shue, Julian Sands",
+  "plot": "Ben Sanderson, a Hollywood screenwriter who lost everything because of his alcoholism, arrives in Las Vegas to drink himself to death. There, he meets and forms an uneasy friendship and non-interference pact with prostitute Sera.",
+  "language": "English, Russian, Latvian",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 32 wins & 30 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDg3MDM5NTI0MF5BMl5BanBnXkFtZTcwNDY0NDk0NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "7.5",
+  "imdbID": "tt0113627",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:30.666Z"
+}

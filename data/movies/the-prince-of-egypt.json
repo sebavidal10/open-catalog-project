@@ -1,0 +1,35 @@
+{
+  "title": "The Prince of Egypt",
+  "year": "1998",
+  "rated": "PG",
+  "released": "18 Dec 1998",
+  "runtime": "99 min",
+  "genre": "Animation, Adventure, Drama",
+  "director": "Brenda Chapman, Steve Hickner, Simon Wells",
+  "writer": "Philip LaZebnik, Nicholas Meyer",
+  "actors": "Val Kilmer, Ralph Fiennes, Michelle Pfeiffer",
+  "plot": "Egyptian Prince Moses learns of his identity as a Hebrew and his destiny to become the chosen deliverer of his people.",
+  "language": "English, Hebrew",
+  "country": "United States, Canada",
+  "awards": "Won 1 Oscar. 12 wins & 27 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjc4NzU5MDUtNmFkNi00NzI5LWE3NjQtNjJlZDRlNjdhZWYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "7.2",
+  "imdbID": "tt0120794",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:53.763Z"
+}

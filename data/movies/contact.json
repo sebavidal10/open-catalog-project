@@ -1,0 +1,35 @@
+{
+  "title": "Contact",
+  "year": "1997",
+  "rated": "PG",
+  "released": "11 Jul 1997",
+  "runtime": "150 min",
+  "genre": "Drama, Mystery, Sci-Fi",
+  "director": "Robert Zemeckis",
+  "writer": "James V. Hart, Michael Goldenberg, Carl Sagan",
+  "actors": "Jodie Foster, Matthew McConaughey, Tom Skerritt",
+  "plot": "Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of extraterrestrial intelligence, sending plans for a mysterious machine.",
+  "language": "English, Spanish, German, Russian",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 15 wins & 32 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2JiYmE1Y2UtNDQ3YS00YTZhLTk5MzAtYzEzMzIyNTM4OTRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.5",
+  "imdbID": "tt0118884",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:23.087Z"
+}

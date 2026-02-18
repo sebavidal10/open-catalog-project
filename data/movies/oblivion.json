@@ -1,0 +1,35 @@
+{
+  "title": "Oblivion",
+  "year": "2013",
+  "rated": "PG-13",
+  "released": "19 Apr 2013",
+  "runtime": "124 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Joseph Kosinski",
+  "writer": "Karl Gajdusek, Michael Arndt, Joseph Kosinski",
+  "actors": "Tom Cruise, Morgan Freeman, Andrea Riseborough",
+  "plot": "A stranger's arrival triggers one man's battle to save mankind.",
+  "language": "English",
+  "country": "United States, United Kingdom, Japan, Iceland",
+  "awards": "1 win & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQwMDY0MTA4MF5BMl5BanBnXkFtZTcwNzI3MDgxOQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "53%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "metascore": "54",
+  "imdbRating": "7.0",
+  "imdbID": "tt1483013",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:22.663Z"
+}

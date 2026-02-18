@@ -1,0 +1,35 @@
+{
+  "title": "The Age of Innocence",
+  "year": "1993",
+  "rated": "PG",
+  "released": "01 Oct 1993",
+  "runtime": "139 min",
+  "genre": "Drama, Romance",
+  "director": "Martin Scorsese",
+  "writer": "Edith Wharton, Jay Cocks, Martin Scorsese",
+  "actors": "Daniel Day-Lewis, Michelle Pfeiffer, Winona Ryder",
+  "plot": "A tale of nineteenth-century New York high society in which a young lawyer falls in love with a woman separated from her husband, while he is engaged to the woman's cousin.",
+  "language": "English, Italian, French",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 15 wins & 33 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzFkYjQzZjUtY2NjNi00ZDFkLWI4M2MtN2RjODQ0NDJkMWM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "7.2",
+  "imdbID": "tt0106226",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:56.754Z"
+}

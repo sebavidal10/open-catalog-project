@@ -1,0 +1,35 @@
+{
+  "title": "The Wedding Singer",
+  "year": "1998",
+  "rated": "PG-13",
+  "released": "13 Feb 1998",
+  "runtime": "97 min",
+  "genre": "Comedy, Music, Romance",
+  "director": "Frank Coraci",
+  "writer": "Tim Herlihy",
+  "actors": "Adam Sandler, Drew Barrymore, Christine Taylor",
+  "plot": "Robbie, a singer, and Julia, a waitress, are both engaged, but to the wrong people. Fortune intervenes to help them discover each other.",
+  "language": "English, Hebrew",
+  "country": "United States",
+  "awards": "5 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjU5MGYxNGMtMWZjNC00ZGYxLWIzY2YtNWExNDFlNmQwYzU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "6.9",
+  "imdbID": "tt0120888",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:58.814Z"
+}

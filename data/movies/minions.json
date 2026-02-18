@@ -1,0 +1,35 @@
+{
+  "title": "Minions",
+  "year": "2015",
+  "rated": "PG",
+  "released": "10 Jul 2015",
+  "runtime": "91 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Kyle Balda, Pierre Coffin",
+  "writer": "Brian Lynch",
+  "actors": "Sandra Bullock, Jon Hamm, Michael Keaton",
+  "plot": "Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+  "language": "English, Spanish, Italian",
+  "country": "United States, France",
+  "awards": "Nominated for 1 BAFTA Award4 wins & 29 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODI4NzMyNjE0MF5BMl5BanBnXkFtZTgwMTcwNzI0MzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "55%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "metascore": "56",
+  "imdbRating": "6.4",
+  "imdbID": "tt2293640",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:11.560Z"
+}

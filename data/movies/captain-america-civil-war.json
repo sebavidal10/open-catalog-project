@@ -1,0 +1,35 @@
+{
+  "title": "Captain America: Civil War",
+  "year": "2016",
+  "rated": "PG-13",
+  "released": "06 May 2016",
+  "runtime": "147 min",
+  "genre": "Action, Sci-Fi",
+  "director": "Anthony Russo, Joe Russo",
+  "writer": "Christopher Markus, Stephen McFeely, Joe Simon",
+  "actors": "Chris Evans, Robert Downey Jr., Scarlett Johansson",
+  "plot": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
+  "language": "English, German, Xhosa, Russian, Romanian",
+  "country": "United States, Germany, Iceland, United Kingdom",
+  "awards": "16 wins & 73 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "7.8",
+  "imdbID": "tt3498820",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:48.900Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Elysium",
+  "year": "2013",
+  "rated": "R",
+  "released": "09 Aug 2013",
+  "runtime": "109 min",
+  "genre": "Action, Drama, Sci-Fi",
+  "director": "Neill Blomkamp",
+  "writer": "Neill Blomkamp",
+  "actors": "Matt Damon, Jodie Foster, Sharlto Copley",
+  "plot": "In the year 2154, the very wealthy live on a man-made space station while the rest of the population resides on a ruined Earth. A man takes on a mission that could bring equality to the polarized worlds.",
+  "language": "English, Spanish, French, Afrikaans",
+  "country": "United States, Canada, South Africa, Mexico",
+  "awards": "1 win & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDc2NjU0MTcwNV5BMl5BanBnXkFtZTcwMjg4MDg2OQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "6.6",
+  "imdbID": "tt1535108",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:21.499Z"
+}

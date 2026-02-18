@@ -1,0 +1,35 @@
+{
+  "title": "Maleficent",
+  "year": "2014",
+  "rated": "PG",
+  "released": "30 May 2014",
+  "runtime": "97 min",
+  "genre": "Adventure, Drama, Family",
+  "director": "Robert Stromberg",
+  "writer": "Linda Woolverton, Charles Perrault, Milt Banta",
+  "actors": "Angelina Jolie, Elle Fanning, Sharlto Copley",
+  "plot": "A vengeful fairy is driven to curse an infant princess, only to discover that the child could be the one person who can restore peace to their troubled land.",
+  "language": "English",
+  "country": "United States, Canada, United Kingdom",
+  "awards": "Nominated for 1 Oscar. 12 wins & 44 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAwMzAzMzExOF5BMl5BanBnXkFtZTgwOTcwMDA5MTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "54%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "metascore": "56",
+  "imdbRating": "6.9",
+  "imdbID": "tt1587310",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:55.245Z"
+}

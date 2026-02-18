@@ -1,0 +1,35 @@
+{
+  "title": "Ghostbusters",
+  "year": "1984",
+  "rated": "PG",
+  "released": "08 Jun 1984",
+  "runtime": "105 min",
+  "genre": "Action, Comedy, Fantasy",
+  "director": "Ivan Reitman",
+  "writer": "Dan Aykroyd, Harold Ramis",
+  "actors": "Bill Murray, Dan Aykroyd, Sigourney Weaver",
+  "plot": "Armed with proton packs, four paranormal investigators battle mischievous ghouls in New York.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 9 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGI0Yjg2ODAtNDYzNi00Njc2LTlkMmMtMmRmYWI5MDE4ZGRkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.8",
+  "imdbID": "tt0087332",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:25.013Z"
+}

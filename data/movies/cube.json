@@ -1,0 +1,35 @@
+{
+  "title": "Cube",
+  "year": "1997",
+  "rated": "R",
+  "released": "10 Dec 1997",
+  "runtime": "90 min",
+  "genre": "Horror, Mystery, Sci-Fi",
+  "director": "Vincenzo Natali",
+  "writer": "André Bijelic, Vincenzo Natali, Graeme Manson",
+  "actors": "Nicole de Boer, Maurice Dean Wint, David Hewlett",
+  "plot": "A group of strangers awaken to find themselves placed in a giant cube. Each one of them is gifted with a special skill and they must work together to escape an endless maze of deadly traps.",
+  "language": "English, German, French",
+  "country": "Canada",
+  "awards": "13 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzcyOTE5YTItM2I4OC00MTc0LTkyNWUtMWZmYmY1MWVhNmZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "61%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "7.1",
+  "imdbID": "tt0123755",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:25.398Z"
+}

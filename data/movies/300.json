@@ -1,0 +1,35 @@
+{
+  "title": "300",
+  "year": "2006",
+  "rated": "R",
+  "released": "09 Mar 2007",
+  "runtime": "117 min",
+  "genre": "Action, Drama",
+  "director": "Zack Snyder",
+  "writer": "Zack Snyder, Kurt Johnstad, Michael B. Gordon",
+  "actors": "Gerard Butler, Lena Headey, David Wenham",
+  "plot": "In the ancient battle of Thermopylae, King Leonidas and 300 Spartans fight against Xerxes and his massive Persian army.",
+  "language": "English",
+  "country": "United States, Canada, Bulgaria",
+  "awards": "19 wins & 57 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjc4OTc0ODgwNV5BMl5BanBnXkFtZTcwNjM1ODE0MQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "61%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "7.6",
+  "imdbID": "tt0416449",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:12.803Z"
+}

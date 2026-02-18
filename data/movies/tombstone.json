@@ -1,0 +1,35 @@
+{
+  "title": "Tombstone",
+  "year": "1993",
+  "rated": "R",
+  "released": "25 Dec 1993",
+  "runtime": "130 min",
+  "genre": "Biography, Drama, History",
+  "director": "George P. Cosmatos",
+  "writer": "Kevin Jarre",
+  "actors": "Kurt Russell, Val Kilmer, Sam Elliott",
+  "plot": "A successful lawman's plans to retire anonymously in Tombstone, Arizona, are disrupted by the kind of outlaws he was famous for eliminating.",
+  "language": "English, Latin, Spanish",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmQyMzlhNjUtMzRjYS00MWY4LWI5MDAtZGU1MWE2M2E0OGMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "metascore": "50",
+  "imdbRating": "7.8",
+  "imdbID": "tt0108358",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:50.785Z"
+}

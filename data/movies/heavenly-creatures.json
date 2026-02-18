@@ -1,0 +1,35 @@
+{
+  "title": "Heavenly Creatures",
+  "year": "1994",
+  "rated": "R",
+  "released": "14 Oct 1994",
+  "runtime": "99 min",
+  "genre": "Biography, Crime, Drama",
+  "director": "Peter Jackson",
+  "writer": "Fran Walsh, Peter Jackson",
+  "actors": "Melanie Lynskey, Kate Winslet, Sarah Peirse",
+  "plot": "Two teenage girls share a unique bond: their parents, concerned that the friendship is too intense, separate them, and the girls take revenge.",
+  "language": "English, French, Spanish",
+  "country": "New Zealand, Germany",
+  "awards": "Nominated for 1 Oscar. 17 wins & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjY2OTgyMjMtZGEwYy00NGNjLTg3NmQtNzBmMDRkZmRiYzlhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.3",
+  "imdbID": "tt0110005",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:17.864Z"
+}

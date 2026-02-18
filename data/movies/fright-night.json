@@ -1,0 +1,35 @@
+{
+  "title": "Fright Night",
+  "year": "1985",
+  "rated": "R",
+  "released": "02 Aug 1985",
+  "runtime": "106 min",
+  "genre": "Horror",
+  "director": "Tom Holland",
+  "writer": "Tom Holland",
+  "actors": "Chris Sarandon, William Ragsdale, Amanda Bearse",
+  "plot": "\"Fright Night\" sees a teenager believing that the newcomer in his neighborhood is a vampire. He turns to an actor in a television hosted horror movie show for help to deal with the undead.",
+  "language": "English",
+  "country": "United States",
+  "awards": "5 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQzMTM4NzUyM15BMl5BanBnXkFtZTgwNDYyODgwNzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.1",
+  "imdbID": "tt0089175",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:53.146Z"
+}

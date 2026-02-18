@@ -1,0 +1,35 @@
+{
+  "title": "Airplane!",
+  "year": "1980",
+  "rated": "PG",
+  "released": "02 Jul 1980",
+  "runtime": "88 min",
+  "genre": "Comedy",
+  "director": "Jim Abrahams, David Zucker, Jerry Zucker",
+  "writer": "Jim Abrahams, David Zucker, Jerry Zucker",
+  "actors": "Robert Hays, Julie Hagerty, Leslie Nielsen",
+  "plot": "After the crew becomes sick with food poisoning, a neurotic ex-fighter pilot must safely land a commercial airplane full of passengers.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 BAFTA Award3 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGMxMDRhMjItMDNlZi00MDIzLWE5MDQtODljMDQ3MWM1Y2E4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.7",
+  "imdbID": "tt0080339",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:06:30.690Z"
+}

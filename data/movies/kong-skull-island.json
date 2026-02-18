@@ -1,0 +1,35 @@
+{
+  "title": "Kong: Skull Island",
+  "year": "2017",
+  "rated": "PG-13",
+  "released": "10 Mar 2017",
+  "runtime": "118 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Jordan Vogt-Roberts",
+  "writer": "Dan Gilroy, Max Borenstein, Derek Connolly",
+  "actors": "Tom Hiddleston, Samuel L. Jackson, Brie Larson",
+  "plot": "After the Vietnam war, a team of scientists explores an uncharted island in the Pacific, venturing into the domain of the mighty Kong and must fight to escape a primal Eden.",
+  "language": "English, Vietnamese, Japanese",
+  "country": "United States, China, Vietnam",
+  "awards": "Nominated for 1 Oscar. 1 win & 22 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcwMjcxYTQtYjJlOS00YTE1LWIyZGYtOGRlOTBlMWZmYTliXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "6.7",
+  "imdbID": "tt3731562",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:31.432Z"
+}

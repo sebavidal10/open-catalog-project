@@ -1,0 +1,35 @@
+{
+  "title": "Malcolm X",
+  "year": "1992",
+  "rated": "PG-13",
+  "released": "18 Nov 1992",
+  "runtime": "202 min",
+  "genre": "Biography, Drama, History",
+  "director": "Spike Lee",
+  "writer": "Arnold Perl, Spike Lee, Alex Haley",
+  "actors": "Denzel Washington, Angela Bassett, Delroy Lindo",
+  "plot": "Biographical epic of the controversial and influential Black Nationalist leader, from his early life and career as a small-time gangster, to his ministry as a member of the Nation of Islam and his eventual assassination.",
+  "language": "English, Arabic",
+  "country": "Japan, United States",
+  "awards": "Nominated for 2 Oscars. 19 wins & 24 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTQwYjFhNTMtMjliOC00MGJhLTkwYWMtYjQzZTRiYjRlNjE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.7",
+  "imdbID": "tt0104797",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:34.385Z"
+}

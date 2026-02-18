@@ -1,0 +1,35 @@
+{
+  "title": "Indiana Jones and the Last Crusade",
+  "year": "1989",
+  "rated": "PG-13",
+  "released": "24 May 1989",
+  "runtime": "127 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Steven Spielberg",
+  "writer": "Jeffrey Boam, George Lucas, Menno Meyjes",
+  "actors": "Harrison Ford, Sean Connery, Alison Doody",
+  "plot": "In 1938, after his father goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against the Nazis again to stop them from obtaining its powers.",
+  "language": "English, German, Greek, Latin, Italian",
+  "country": "United States, United Kingdom, Spain, Italy, Jordan",
+  "awards": "Won 1 Oscar. 9 wins & 24 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "8.2",
+  "imdbID": "tt0097576",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:23.849Z"
+}

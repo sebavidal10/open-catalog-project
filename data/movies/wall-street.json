@@ -1,0 +1,35 @@
+{
+  "title": "Wall Street",
+  "year": "1987",
+  "rated": "R",
+  "released": "11 Dec 1987",
+  "runtime": "126 min",
+  "genre": "Crime, Drama",
+  "director": "Oliver Stone",
+  "writer": "Stanley Weiser, Oliver Stone",
+  "actors": "Charlie Sheen, Tamara Tunie, Franklin Cover",
+  "plot": "An impatient young stockbroker is willing to do anything to get to the top, including trading on illegal inside information taken through a ruthless, greedy corporate raider who takes the youth under his wing.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 9 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWQ4NDY4NTktYjE5NS00MWQ5LWFmZTUtNjk5NjA4Mzc3ODNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "metascore": "56",
+  "imdbRating": "7.3",
+  "imdbID": "tt0094291",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:15.242Z"
+}

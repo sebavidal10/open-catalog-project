@@ -1,0 +1,35 @@
+{
+  "title": "The Bridges of Madison County",
+  "year": "1995",
+  "rated": "PG-13",
+  "released": "02 Jun 1995",
+  "runtime": "135 min",
+  "genre": "Drama, Romance",
+  "director": "Clint Eastwood",
+  "writer": "Richard LaGravenese, Robert James Waller",
+  "actors": "Clint Eastwood, Meryl Streep, Annie Corley",
+  "plot": "Photographer Robert Kincaid wanders into the life of housewife Francesca Johnson for four days in the 1960s.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 8 wins & 19 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODBlMjVmOGYtZjY0Mi00MDgzLWE3MDYtNDk5ZmE1OGNkMGZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.6",
+  "imdbID": "tt0112579",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:32.993Z"
+}

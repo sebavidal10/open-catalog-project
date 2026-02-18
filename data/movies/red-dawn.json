@@ -1,0 +1,35 @@
+{
+  "title": "Red Dawn",
+  "year": "1984",
+  "rated": "PG-13",
+  "released": "10 Aug 1984",
+  "runtime": "114 min",
+  "genre": "Action, Drama, Thriller",
+  "director": "John Milius",
+  "writer": "Kevin Reynolds, John Milius",
+  "actors": "Patrick Swayze, C. Thomas Howell, Lea Thompson",
+  "plot": "It is the dawn of World War III. In the western mountains of America, a group of teenagers band together to defend their town, and their country, from invading Soviet forces.",
+  "language": "English, Russian, Spanish",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDFhN2RlNDItMWZiMS00MzY5LTk1NzMtYzgxYTA4Y2Y2MDljXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "48%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "metascore": "53",
+  "imdbRating": "6.3",
+  "imdbID": "tt0087985",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:41.202Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Lady and the Tramp",
+  "year": "2019",
+  "rated": "PG",
+  "released": "12 Nov 2019",
+  "runtime": "111 min",
+  "genre": "Adventure, Comedy, Family",
+  "director": "Charlie Bean",
+  "writer": "Andrew Bujalski, Kari Granlund, Ward Greene",
+  "actors": "Tessa Thompson, Justin Theroux, Sam Elliott",
+  "plot": "The romantic tale of a sheltered uptown Cocker Spaniel dog and a streetwise downtown Mutt.",
+  "language": "English",
+  "country": "United States, New Zealand, Canada, United Kingdom",
+  "awards": "5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjlhNjVhMDItZTBjNi00MDljLWI1ODktNzU5ZTg2YWZhMWZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "48/100"
+    }
+  ],
+  "metascore": "48",
+  "imdbRating": "6.2",
+  "imdbID": "tt8096832",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:59.900Z"
+}

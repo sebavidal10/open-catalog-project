@@ -1,0 +1,35 @@
+{
+  "title": "Godzilla",
+  "year": "2014",
+  "rated": "PG-13",
+  "released": "16 May 2014",
+  "runtime": "123 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Gareth Edwards",
+  "writer": "Dave Callaham, Max Borenstein",
+  "actors": "Aaron Taylor-Johnson, Elizabeth Olsen, Bryan Cranston",
+  "plot": "The world is beset by the appearance of monstrous creatures, but one of them may be the only one who can save humanity.",
+  "language": "English, Japanese",
+  "country": "United States, Japan",
+  "awards": "7 wins & 31 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODE2NTdmMmYtY2U1OS00MjExLWIwNjQtYjQ5NTA0ZDZmZjZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "6.4",
+  "imdbID": "tt0831387",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:30.268Z"
+}

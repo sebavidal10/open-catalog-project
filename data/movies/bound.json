@@ -1,0 +1,35 @@
+{
+  "title": "Bound",
+  "year": "1996",
+  "rated": "R",
+  "released": "04 Oct 1996",
+  "runtime": "109 min",
+  "genre": "Crime, Thriller",
+  "director": "Lana Wachowski, Lilly Wachowski",
+  "writer": "Lilly Wachowski, Lana Wachowski",
+  "actors": "Jennifer Tilly, Gina Gershon, Joe Pantoliano",
+  "plot": "Tough ex-con Corky and her lover Violet concoct a scheme to steal millions of stashed mob money and pin the blame on Violet's crooked boyfriend Caesar.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "8 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjY0OWFmODctNmEwNy00Njc2LWFkYTAtNmI4OWIzY2ZkYjJlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "7.3",
+  "imdbID": "tt0115736",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:04.306Z"
+}

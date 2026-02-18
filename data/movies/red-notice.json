@@ -1,0 +1,35 @@
+{
+  "title": "Red Notice",
+  "year": "2021",
+  "rated": "PG-13",
+  "released": "12 Nov 2021",
+  "runtime": "118 min",
+  "genre": "Action, Comedy, Thriller",
+  "director": "Rawson Marshall Thurber",
+  "writer": "Rawson Marshall Thurber",
+  "actors": "Dwayne Johnson, Ryan Reynolds, Gal Gadot",
+  "plot": "An Interpol agent successfully tracks down the world's most wanted art thief with help from a rival thief. But nothing is as it seems as a series of double-crosses ensues.",
+  "language": "English, Russian, Italian, Spanish, Indonesian",
+  "country": "United States, Italy",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGNjNGQ3MmItYTM5NS00NjBiLWI0ZTItZDE5ZjQyNjg3ODBjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "37%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "37/100"
+    }
+  ],
+  "metascore": "37",
+  "imdbRating": "6.3",
+  "imdbID": "tt7991608",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:40.117Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Mask",
+  "year": "1985",
+  "rated": "PG-13",
+  "released": "22 Mar 1985",
+  "runtime": "120 min",
+  "genre": "Biography, Drama",
+  "director": "Peter Bogdanovich",
+  "writer": "Anna Hamilton Phelan",
+  "actors": "Cher, Eric Stoltz, Sam Elliott",
+  "plot": "A teenager with a massive facial skull deformity and biker gang mother attempt to live as normal a life as possible under the circumstances.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 3 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzU1ZDFkYjAtZGMzNC00MjJjLWI5ZjQtZTE4Y2QzOWVhNjcxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.2",
+  "imdbID": "tt0089560",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:54.307Z"
+}

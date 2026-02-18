@@ -1,0 +1,35 @@
+{
+  "title": "Empire of the Sun",
+  "year": "1987",
+  "rated": "PG",
+  "released": "25 Dec 1987",
+  "runtime": "153 min",
+  "genre": "Drama, War",
+  "director": "Steven Spielberg",
+  "writer": "Tom Stoppard, J.G. Ballard, Menno Meyjes",
+  "actors": "Christian Bale, John Malkovich, Miranda Richardson",
+  "plot": "A teenage English boy struggles to survive with his fellow captives under Japanese occupation of China during World War II.",
+  "language": "English, Japanese, Mandarin, Shanghainese",
+  "country": "United States",
+  "awards": "Nominated for 6 Oscars. 13 wins & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWY2NjdkYzEtYWZhZS00YTdhLWJhMGQtZjkxZjZkODQyYWY5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.7",
+  "imdbID": "tt0092965",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:27.039Z"
+}

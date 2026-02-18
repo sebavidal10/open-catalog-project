@@ -1,0 +1,35 @@
+{
+  "title": "Enemy of the State",
+  "year": "1998",
+  "rated": "R",
+  "released": "20 Nov 1998",
+  "runtime": "132 min",
+  "genre": "Action, Thriller",
+  "director": "Tony Scott",
+  "writer": "David Marconi",
+  "actors": "Will Smith, Gene Hackman, Jon Voight",
+  "plot": "A lawyer becomes targeted by a corrupt politician and his N.S.A. goons when he accidentally receives key evidence to a politically motivated crime.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "5 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWVhZmRiODktNzM0Zi00YmVlLWI3MGQtY2M0NmYzN2Q4Yzg4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "7.3",
+  "imdbID": "tt0120660",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:46.633Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Dirty Dancing",
+  "year": "1987",
+  "rated": "PG-13",
+  "released": "21 Aug 1987",
+  "runtime": "100 min",
+  "genre": "Drama, Music, Romance",
+  "director": "Emile Ardolino",
+  "writer": "Eleanor Bergstein",
+  "actors": "Patrick Swayze, Jennifer Grey, Jerry Orbach",
+  "plot": "Spending the summer at a Catskills resort with her family, Frances \"Baby\" Houseman falls in love with the camp's dance instructor, Johnny Castle.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 15 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmIwZjA1NzUtNTA0OS00OWMyLWE5MzctM2RjOWYxZjQyZDdmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "7.1",
+  "imdbID": "tt0092890",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:33.175Z"
+}

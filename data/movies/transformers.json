@@ -1,0 +1,35 @@
+{
+  "title": "Transformers",
+  "year": "2007",
+  "rated": "PG-13",
+  "released": "03 Jul 2007",
+  "runtime": "144 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Michael Bay",
+  "writer": "Roberto Orci, Alex Kurtzman, John Rogers",
+  "actors": "Shia LaBeouf, Megan Fox, Josh Duhamel",
+  "plot": "An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 25 wins & 50 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjM3ZDA2YmItMzhiMi00ZGI3LTg3ZGQtOTk3Nzk0MDY0ZDZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "7.1",
+  "imdbID": "tt0418279",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:33.756Z"
+}

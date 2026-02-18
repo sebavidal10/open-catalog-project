@@ -1,0 +1,35 @@
+{
+  "title": "Scent of a Woman",
+  "year": "1992",
+  "rated": "R",
+  "released": "08 Jan 1993",
+  "runtime": "156 min",
+  "genre": "Drama",
+  "director": "Martin Brest",
+  "writer": "Giovanni Arpino, Bo Goldman, Ruggero Maccari",
+  "actors": "Al Pacino, Chris O'Donnell, James Rebhorn",
+  "plot": "A prep school student needing money agrees to \"babysit\" a blind man, but the job is not at all what he anticipated.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 6 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzc5ODg2NzMtYTQ4MS00MWFiLWI5NWMtNWNkODNmZjE0ZGVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "metascore": "57",
+  "imdbRating": "8.0",
+  "imdbID": "tt0105323",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:28.434Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Out of Africa",
+  "year": "1985",
+  "rated": "PG",
+  "released": "20 Dec 1985",
+  "runtime": "161 min",
+  "genre": "Biography, Drama, Romance",
+  "director": "Sydney Pollack",
+  "writer": "Karen Blixen, Judith Thurman, Errol Trzebinski",
+  "actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer",
+  "plot": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.",
+  "language": "English, Swahili, Arabic",
+  "country": "United States",
+  "awards": "Won 7 Oscars. 30 wins & 31 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWQ5MGI3NWYtMmVjNS00OWIzLWEzMGQtMGZhMzY3NjI2YjhiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "62%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.1",
+  "imdbID": "tt0089755",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:44.685Z"
+}

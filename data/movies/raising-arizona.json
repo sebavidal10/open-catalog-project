@@ -1,0 +1,35 @@
+{
+  "title": "Raising Arizona",
+  "year": "1987",
+  "rated": "PG-13",
+  "released": "10 Apr 1987",
+  "runtime": "94 min",
+  "genre": "Comedy, Crime",
+  "director": "Joel Coen, Ethan Coen",
+  "writer": "Ethan Coen, Joel Coen",
+  "actors": "Nicolas Cage, Holly Hunter, Trey Wilson",
+  "plot": "When a childless couple--an ex-con and an ex-cop--decide to help themselves to one of another family's quintuplets, their lives become more complicated than they anticipated.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWIzMTdmZDgtZTc2NS00MDA1LWFiMmMtYzc5YzY0YTEyZjE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.3",
+  "imdbID": "tt0093822",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:17.565Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Hook",
+  "year": "1991",
+  "rated": "PG",
+  "released": "11 Dec 1991",
+  "runtime": "142 min",
+  "genre": "Adventure, Comedy, Family",
+  "director": "Steven Spielberg",
+  "writer": "J.M. Barrie, James V. Hart, Nick Castle",
+  "actors": "Dustin Hoffman, Robin Williams, Julia Roberts",
+  "plot": "When Captain James Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 5 Oscars. 6 wins & 24 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTU0ZTU3MGUtOTQwNi00N2QzLWFmMDUtZDgxMGJlNGI5NDllXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "37%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "6.8",
+  "imdbID": "tt0102057",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:43.669Z"
+}

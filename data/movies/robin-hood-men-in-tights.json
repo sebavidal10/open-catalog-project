@@ -1,0 +1,35 @@
+{
+  "title": "Robin Hood: Men in Tights",
+  "year": "1993",
+  "rated": "PG-13",
+  "released": "28 Jul 1993",
+  "runtime": "104 min",
+  "genre": "Adventure, Comedy, Musical",
+  "director": "Mel Brooks",
+  "writer": "J.D. Shapiro, Evan Chandler, Mel Brooks",
+  "actors": "Cary Elwes, Richard Lewis, Roger Rees",
+  "plot": "A spoof of Robin Hood in general, and Robin Hood: Prince of Thieves (1991) in particular.",
+  "language": "English",
+  "country": "United States, France",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2ZkMGU1OGUtZTJlOS00MmE5LWIxZjQtYWRlZDljMGJkMTZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "42%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "44/100"
+    }
+  ],
+  "metascore": "44",
+  "imdbRating": "6.7",
+  "imdbID": "tt0107977",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:04.911Z"
+}

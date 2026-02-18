@@ -1,0 +1,31 @@
+{
+  "title": "Don't Look Up",
+  "year": "2021",
+  "rated": "R",
+  "released": "24 Dec 2021",
+  "runtime": "138 min",
+  "genre": "Comedy, Drama, Sci-Fi",
+  "director": "Adam McKay",
+  "writer": "Adam McKay, David Sirota",
+  "actors": "Leonardo DiCaprio, Jennifer Lawrence, Meryl Streep",
+  "plot": "Two low-level astronomers must go on a giant media tour to warn humankind of an approaching comet that will destroy planet Earth.",
+  "language": "English",
+  "country": "United States, Canada",
+  "awards": "Nominated for 4 Oscars. 24 wins & 99 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjhhNWFjNzctYTJjOS00MDc0LThiNjItZmM0ZDVmMWViY2UzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "metascore": "49",
+  "imdbRating": "7.1",
+  "imdbID": "tt11286314",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:44.772Z"
+}

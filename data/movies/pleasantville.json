@@ -1,0 +1,35 @@
+{
+  "title": "Pleasantville",
+  "year": "1998",
+  "rated": "PG-13",
+  "released": "23 Oct 1998",
+  "runtime": "124 min",
+  "genre": "Comedy, Drama, Fantasy",
+  "director": "Gary Ross",
+  "writer": "Gary Ross",
+  "actors": "Tobey Maguire, Jeff Daniels, Joan Allen",
+  "plot": "Two 1990s teenage siblings find themselves transported to a 1950s sitcom where their influence begins to profoundly change that colorless, complacent world.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 18 wins & 45 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmM4ZThmNzAtYzRmNi00ZjZmLThhYjAtYjU2YTcwMmY3MzRmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.5",
+  "imdbID": "tt0120789",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:44.310Z"
+}

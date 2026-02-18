@@ -1,0 +1,35 @@
+{
+  "title": "John Wick: Chapter 3 - Parabellum",
+  "year": "2019",
+  "rated": "R",
+  "released": "17 May 2019",
+  "runtime": "130 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Chad Stahelski",
+  "writer": "Derek Kolstad, Shay Hatten, Chris Collins",
+  "actors": "Keanu Reeves, Halle Berry, Ian McShane",
+  "plot": "John Wick is on the run after killing a member of the international assassins' guild, and with a $14 million price tag on his head, he is the target of hit men and women everywhere.",
+  "language": "English, Russian, Japanese, Indonesian, Mandarin, Italian, Arabic, Latin",
+  "country": "United States, Morocco, Ukraine, Italy",
+  "awards": "18 wins & 29 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjdlNWFlZjEtM2U0NS00ZWU5LTk1M2EtZmQxNWFiZjk0MGM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.4",
+  "imdbID": "tt6146586",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:30.808Z"
+}

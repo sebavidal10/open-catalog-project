@@ -1,0 +1,35 @@
+{
+  "title": "Rise of the Planet of the Apes",
+  "year": "2011",
+  "rated": "PG-13",
+  "released": "05 Aug 2011",
+  "runtime": "105 min",
+  "genre": "Action, Drama, Sci-Fi",
+  "director": "Rupert Wyatt",
+  "writer": "Rick Jaffa, Amanda Silver, Pierre Boulle",
+  "actors": "James Franco, Andy Serkis, Freida Pinto",
+  "plot": "A substance designed to help the brain repair itself gives advanced intelligence to a chimpanzee who leads an ape uprising.",
+  "language": "English, Sign ",
+  "country": "United States, United Kingdom, Canada",
+  "awards": "Nominated for 1 Oscar. 21 wins & 45 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjllODU1NDItODU1Ni00N2Y2LTg4Y2ItOTJjMTczZDliN2FhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "7.6",
+  "imdbID": "tt1318514",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:00:02.814Z"
+}

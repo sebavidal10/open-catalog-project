@@ -1,0 +1,35 @@
+{
+  "title": "Mulan",
+  "year": "1998",
+  "rated": "G",
+  "released": "19 Jun 1998",
+  "runtime": "87 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Tony Bancroft, Barry Cook",
+  "writer": "Robert D. San Souci, Rita Hsiao, Chris Sanders",
+  "actors": "Ming-Na Wen, Eddie Murphy, BD Wong",
+  "plot": "To save her father from death in the army, a young maiden secretly goes in his place and becomes one of China's greatest heroines in the process.",
+  "language": "English, Mandarin",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 17 wins & 21 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzU0ZTQxZDktOGY0Yy00NjdiLTllNDItMTMzMjI1YjMyYjRhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "metascore": "72",
+  "imdbRating": "7.7",
+  "imdbID": "tt0120762",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:41.839Z"
+}

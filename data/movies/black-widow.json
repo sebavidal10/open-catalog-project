@@ -1,0 +1,35 @@
+{
+  "title": "Black Widow",
+  "year": "2021",
+  "rated": "PG-13",
+  "released": "09 Jul 2021",
+  "runtime": "134 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Cate Shortland",
+  "writer": "Eric Pearson, Jac Schaeffer, Ned Benson",
+  "actors": "Scarlett Johansson, Florence Pugh, David Harbour",
+  "plot": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+  "language": "English, Russian, Norwegian, Hungarian, Macedonian, Finnish",
+  "country": "United States",
+  "awards": "14 wins & 37 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTMyZTA0ZTItYjY3Yi00ODNjLWExYTgtYzgxZTk0NTg0Y2FlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "6.6",
+  "imdbID": "tt3480822",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:02.876Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Lethal Weapon",
+  "year": "1987",
+  "rated": "R",
+  "released": "06 Mar 1987",
+  "runtime": "109 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Richard Donner",
+  "writer": "Shane Black, Jeffrey Boam",
+  "actors": "Mel Gibson, Danny Glover, Gary Busey",
+  "plot": "Two newly paired cops who are complete opposites must put aside their differences in order to catch a gang of drug smugglers.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 5 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWVlNWZlODktMzhhNS00YThhLWEzZWYtYzU0NDFmNzk0MGVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "7.6",
+  "imdbID": "tt0093409",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:37.839Z"
+}

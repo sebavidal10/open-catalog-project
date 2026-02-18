@@ -1,0 +1,35 @@
+{
+  "title": "Bad Boys",
+  "year": "1995",
+  "rated": "R",
+  "released": "07 Apr 1995",
+  "runtime": "119 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "Michael Bay",
+  "writer": "George Gallo, Michael Barrie, Jim Mulholland",
+  "actors": "Will Smith, Martin Lawrence, Lisa Boyle",
+  "plot": "Two hip detectives protect a witness to a murder while investigating a case of stolen heroin from the evidence storage room from their police precinct.",
+  "language": "English, Persian",
+  "country": "United States",
+  "awards": "1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWNjZWEwNDMtMWE1ZC00MTgwLTk2YzAtYmE0NTkwOWVhMDI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "46%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "41/100"
+    }
+  ],
+  "metascore": "41",
+  "imdbRating": "6.8",
+  "imdbID": "tt0112442",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:22.514Z"
+}

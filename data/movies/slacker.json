@@ -1,0 +1,35 @@
+{
+  "title": "Slacker",
+  "year": "1990",
+  "rated": "R",
+  "released": "05 Jul 1991",
+  "runtime": "97 min",
+  "genre": "Comedy, Drama",
+  "director": "Richard Linklater",
+  "writer": "Richard Linklater",
+  "actors": "Richard Linklater, Rudy Basquez, Jean Caffeine",
+  "plot": "A day in the life of Austin, Texas as the camera roams from place to place and provides a brief look at the overeducated, the social misfits, the outcasts and the oddballs.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzQzNzI3MGQtZWI4OC00Y2EyLTk1ZmQtY2QzYTk3ZjVlNGQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.0",
+  "imdbID": "tt0102943",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:13.315Z"
+}

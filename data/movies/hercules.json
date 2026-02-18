@@ -1,0 +1,35 @@
+{
+  "title": "Hercules",
+  "year": "1997",
+  "rated": "G",
+  "released": "27 Jun 1997",
+  "runtime": "93 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Ron Clements, John Musker",
+  "writer": "Ron Clements, John Musker, Don McEnery",
+  "actors": "Tate Donovan, Susan Egan, James Woods",
+  "plot": "The son of Zeus and Hera is stripped of his immortality as an infant and must become a true hero in order to reclaim it.",
+  "language": "English, Spanish, Greek",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 9 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmUyZGY1ZjItMWYwZS00MjJjLTg1YzAtY2Q5OTA4MmFhYzFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.3",
+  "imdbID": "tt0119282",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:43.004Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Past Lives",
+  "year": "2023",
+  "rated": "PG-13",
+  "released": "23 Jun 2023",
+  "runtime": "105 min",
+  "genre": "Drama, Romance",
+  "director": "Celine Song",
+  "writer": "Celine Song",
+  "actors": "Greta Lee, Teo Yoo, John Magaro",
+  "plot": "Nora and Hae Sung, two deeply connected childhood friends, are wrested apart after Nora's family emigrates from South Korea. Twenty years later, they are reunited for one fateful week as they confront notions of love and destiny.",
+  "language": "Korean, English, Mandarin, French",
+  "country": "United States, South Korea",
+  "awards": "Nominated for 2 Oscars. 83 wins & 239 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjQyMTNhNjUtN2VmYy00NWRhLTkwOTctMGVmNTBmNDIxYjZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "7.8",
+  "imdbID": "tt13238346",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:26.777Z"
+}

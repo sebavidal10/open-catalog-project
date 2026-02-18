@@ -1,0 +1,35 @@
+{
+  "title": "Chappie",
+  "year": "2015",
+  "rated": "R",
+  "released": "06 Mar 2015",
+  "runtime": "120 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Neill Blomkamp",
+  "writer": "Neill Blomkamp, Terri Tatchell",
+  "actors": "Sharlto Copley, Dev Patel, Ninja",
+  "plot": "In the near future, crime is patrolled by a mechanized police force. When one police droid, Chappie, is stolen and given new programming, he becomes the first robot with the ability to think and feel for himself.",
+  "language": "English",
+  "country": "United States, South Africa, Mexico",
+  "awards": "3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNTI4NTIwNl5BMl5BanBnXkFtZTgwMjQ4MTI0NDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "32%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "41/100"
+    }
+  ],
+  "metascore": "41",
+  "imdbRating": "6.8",
+  "imdbID": "tt1823672",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:20.340Z"
+}

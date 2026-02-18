@@ -1,0 +1,35 @@
+{
+  "title": "Turner & Hooch",
+  "year": "1989",
+  "rated": "PG",
+  "released": "28 Jul 1989",
+  "runtime": "97 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Roger Spottiswoode",
+  "writer": "Dennis Shryack, Michael Blodgett, Daniel Petrie Jr.",
+  "actors": "Tom Hanks, Mare Winningham, Craig T. Nelson",
+  "plot": "A detective must adopt a rambunctious dog in order to help him find a killer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzYzYTliNGYtMGQzZS00ZGE0LWFmM2UtMzRlYWQ5NzI5ZTVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "36/100"
+    }
+  ],
+  "metascore": "36",
+  "imdbRating": "6.2",
+  "imdbID": "tt0098536",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:57.748Z"
+}

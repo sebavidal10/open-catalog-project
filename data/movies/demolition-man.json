@@ -1,0 +1,35 @@
+{
+  "title": "Demolition Man",
+  "year": "1993",
+  "rated": "R",
+  "released": "08 Oct 1993",
+  "runtime": "115 min",
+  "genre": "Action, Sci-Fi, Thriller",
+  "director": "Marco Brambilla",
+  "writer": "Peter M. Lenkov, Robert Reneau, Daniel Waters",
+  "actors": "Sylvester Stallone, Wesley Snipes, Sandra Bullock",
+  "plot": "A police officer is brought out of suspended animation in prison to pursue an old ultra-violent nemesis who is loose in a non-violent future society.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWY3ZThmN2QtMzVkNS00MjczLTllNDQtOGEwN2M0ZTFkMWMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "66%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "34/100"
+    }
+  ],
+  "metascore": "34",
+  "imdbRating": "6.7",
+  "imdbID": "tt0106697",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:02.575Z"
+}

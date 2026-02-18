@@ -1,0 +1,35 @@
+{
+  "title": "Mississippi Burning",
+  "year": "1988",
+  "rated": "R",
+  "released": "27 Jan 1989",
+  "runtime": "128 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Alan Parker",
+  "writer": "Chris Gerolmo",
+  "actors": "Gene Hackman, Willem Dafoe, Frances McDormand",
+  "plot": "Two FBI agents with wildly different styles arrive in Mississippi to investigate the disappearance of three civil rights activists.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 17 wins & 25 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDgwNTljYmMtYmQyNi00MmEwLTk0NzMtZDJmZDIzZmQ4MzQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "7.8",
+  "imdbID": "tt0095647",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:29.360Z"
+}

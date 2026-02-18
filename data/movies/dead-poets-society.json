@@ -1,0 +1,35 @@
+{
+  "title": "Dead Poets Society",
+  "year": "1989",
+  "rated": "PG",
+  "released": "09 Jun 1989",
+  "runtime": "128 min",
+  "genre": "Comedy, Drama",
+  "director": "Peter Weir",
+  "writer": "Tom Schulman",
+  "actors": "Robin Williams, Robert Sean Leonard, Ethan Hawke",
+  "plot": "Maverick teacher John Keating returns in 1959 to the prestigious New England boys' boarding school where he was once a star student, using poetry to embolden his pupils to new heights of self-expression.",
+  "language": "English, Latin, French",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 20 wins & 19 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "8.1",
+  "imdbID": "tt0097165",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:45.818Z"
+}

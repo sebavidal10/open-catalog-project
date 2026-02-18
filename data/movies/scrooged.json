@@ -1,0 +1,35 @@
+{
+  "title": "Scrooged",
+  "year": "1988",
+  "rated": "PG-13",
+  "released": "23 Nov 1988",
+  "runtime": "101 min",
+  "genre": "Comedy, Drama, Fantasy",
+  "director": "Richard Donner",
+  "writer": "Mitch Glazer, Michael O'Donoghue, Charles Dickens",
+  "actors": "Bill Murray, Karen Allen, John Forsythe",
+  "plot": "A selfish, cynical television executive is haunted by three spirits bearing lessons on Christmas Eve.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWY3ODUyZTQtMTQyZS00ZWIyLTk3M2YtYzU5ZWQ3MTEwZGU1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "38/100"
+    }
+  ],
+  "metascore": "38",
+  "imdbRating": "6.9",
+  "imdbID": "tt0096061",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:37.665Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Coming to America",
+  "year": "1988",
+  "rated": "R",
+  "released": "29 Jun 1988",
+  "runtime": "117 min",
+  "genre": "Comedy, Romance",
+  "director": "John Landis",
+  "writer": "Eddie Murphy, David Sheffield, Barry W. Blaustein",
+  "actors": "Eddie Murphy, Paul Bates, Garcelle Beauvais",
+  "plot": "An extremely pampered African prince travels to Queens, New York and goes undercover to find a wife that he can respect for her intelligence and strong will.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 5 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDY1N2RiYWMtMTNmMy00MWQzLTlkYzAtYzRlZmM5OGZhMjUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "47/100"
+    }
+  ],
+  "metascore": "47",
+  "imdbRating": "7.1",
+  "imdbID": "tt0094898",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:36.677Z"
+}

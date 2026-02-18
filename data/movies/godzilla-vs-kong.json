@@ -1,0 +1,35 @@
+{
+  "title": "Godzilla vs. Kong",
+  "year": "2021",
+  "rated": "PG-13",
+  "released": "31 Mar 2021",
+  "runtime": "113 min",
+  "genre": "Action, Sci-Fi, Thriller",
+  "director": "Adam Wingard",
+  "writer": "Terry Rossio, Michael Dougherty, Zach Shields",
+  "actors": "Alexander Skarsgård, Millie Bobby Brown, Rebecca Hall",
+  "plot": "The epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against each other--the fearsome Godzilla and the mighty Kong--with humanity caught in the balance.",
+  "language": "English, American Sign ",
+  "country": "United States, Australia, Hong Kong",
+  "awards": "3 wins & 20 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjZlYjUwZjItZmQ1ZS00NDU2LWFhNWMtMGRmMmZiMzliY2NhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "metascore": "59",
+  "imdbRating": "6.3",
+  "imdbID": "tt5034838",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:32.589Z"
+}

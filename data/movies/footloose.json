@@ -1,0 +1,35 @@
+{
+  "title": "Footloose",
+  "year": "1984",
+  "rated": "PG",
+  "released": "17 Feb 1984",
+  "runtime": "107 min",
+  "genre": "Drama, Music, Romance",
+  "director": "Herbert Ross",
+  "writer": "Dean Pitchford",
+  "actors": "Kevin Bacon, Lori Singer, John Lithgow",
+  "plot": "A big city teenager moves to a small town where Rock and Roll music and dancing have been banned by backward local parents and his rebellious spirit shakes up the populace.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 2 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmRjMzdkZDUtMDRkYi00ZjVkLWJlMjItMmY1MjgwOTQzMzYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "55%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "42/100"
+    }
+  ],
+  "metascore": "42",
+  "imdbRating": "6.6",
+  "imdbID": "tt0087277",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:29.589Z"
+}

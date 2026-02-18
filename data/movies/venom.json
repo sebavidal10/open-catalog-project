@@ -1,0 +1,35 @@
+{
+  "title": "Venom",
+  "year": "2018",
+  "rated": "PG-13",
+  "released": "05 Oct 2018",
+  "runtime": "112 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Ruben Fleischer",
+  "writer": "Jeff Pinkner, Scott Rosenberg, Kelly Marcel",
+  "actors": "Tom Hardy, Michelle Williams, Riz Ahmed",
+  "plot": "A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it.",
+  "language": "English, Mandarin, Malay",
+  "country": "United States, China",
+  "awards": "2 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTYwMDg5MDItNjhmZi00NmVmLThjNWItMmNkMjVkMWRhNzI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "31%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "35/100"
+    }
+  ],
+  "metascore": "35",
+  "imdbRating": "6.6",
+  "imdbID": "tt1270797",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:04.037Z"
+}

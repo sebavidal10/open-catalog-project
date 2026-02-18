@@ -1,0 +1,35 @@
+{
+  "title": "Witness",
+  "year": "1985",
+  "rated": "R",
+  "released": "08 Feb 1985",
+  "runtime": "112 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "Peter Weir",
+  "writer": "William Kelley, Pamela Wallace, Earl W. Wallace",
+  "actors": "Harrison Ford, Kelly McGillis, Lukas Haas",
+  "plot": "While protecting an Amish boy - who is the sole witness to a brutal murder - and his mother, a detective is forced to seek refuge within their community when his own life is threatened.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 13 wins & 28 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDcyNjU5MWMtNDZiYy00Yjc4LWE4YjItMTA5ODBlOGU1NzRhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.4",
+  "imdbID": "tt0090329",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:47.018Z"
+}

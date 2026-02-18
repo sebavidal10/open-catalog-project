@@ -1,0 +1,35 @@
+{
+  "title": "The Crying Game",
+  "year": "1992",
+  "rated": "R",
+  "released": "19 Feb 1993",
+  "runtime": "112 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "Neil Jordan",
+  "writer": "Neil Jordan",
+  "actors": "Stephen Rea, Jaye Davidson, Forest Whitaker",
+  "plot": "A British soldier kidnapped by the IRA soon befriends one of his captors, who then becomes drawn into the soldier's world.",
+  "language": "English",
+  "country": "United Kingdom, Japan",
+  "awards": "Won 1 Oscar. 22 wins & 46 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2NlZjJlODgtNDQ1ZC00YjcxLTgxMjAtODNmYmQ5MTRhOTNkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "7.2",
+  "imdbID": "tt0104036",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:29.598Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Big Chill",
+  "year": "1983",
+  "rated": "R",
+  "released": "30 Sep 1983",
+  "runtime": "105 min",
+  "genre": "Comedy, Drama",
+  "director": "Lawrence Kasdan",
+  "writer": "Lawrence Kasdan, Barbara Benedek",
+  "actors": "Tom Berenger, Glenn Close, Jeff Goldblum",
+  "plot": "A group of seven former college friends gather for a weekend reunion at a South Carolina vacation home after the funeral of another of their college friends.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 3 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTg3YWQ1MWItMTcxYy00NTczLWJiMDktYjkxMWExNDY3ZjI4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "7.1",
+  "imdbID": "tt0085244",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:17.852Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Natural Born Killers",
+  "year": "1994",
+  "rated": "R",
+  "released": "26 Aug 1994",
+  "runtime": "119 min",
+  "genre": "Crime, Romance",
+  "director": "Oliver Stone",
+  "writer": "Quentin Tarantino, David Veloz, Richard Rutowski",
+  "actors": "O-Lan Jones, Woody Harrelson, Juliette Lewis",
+  "plot": "Two victims of traumatized childhoods become lovers and psychopathic serial murderers irresponsibly glorified by the mass media.",
+  "language": "English, Navajo, Japanese",
+  "country": "United States",
+  "awards": "5 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTlmYjkxNzYtYWMwMC00NTNhLWExZjEtNmUwMzlmYWJhOGFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "52%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.2",
+  "imdbID": "tt0110632",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:07.229Z"
+}

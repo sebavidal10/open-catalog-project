@@ -1,0 +1,35 @@
+{
+  "title": "My Cousin Vinny",
+  "year": "1992",
+  "rated": "R",
+  "released": "13 Mar 1992",
+  "runtime": "120 min",
+  "genre": "Comedy, Crime",
+  "director": "Jonathan Lynn",
+  "writer": "Dale Launer",
+  "actors": "Joe Pesci, Marisa Tomei, Ralph Macchio",
+  "plot": "Two New Yorkers accused of murder in rural Alabama while on their way back to college call in the help of one of their cousins, a loudmouth lawyer with no trial experience.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 5 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQxNDYzMTg1M15BMl5BanBnXkFtZTgwNzk4MDgxMTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "7.6",
+  "imdbID": "tt0104952",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:35.543Z"
+}

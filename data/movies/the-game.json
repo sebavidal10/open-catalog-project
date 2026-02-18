@@ -1,0 +1,35 @@
+{
+  "title": "The Game",
+  "year": "1997",
+  "rated": "R",
+  "released": "12 Sep 1997",
+  "runtime": "129 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "David Fincher",
+  "writer": "John Brancato, Michael Ferris",
+  "actors": "Michael Douglas, Deborah Kara Unger, Sean Penn",
+  "plot": "A mysterious game invades a man's ordered existence.",
+  "language": "English, Cantonese, German, Spanish, Thai",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGUzNzQwNmMtNzI3Mi00ZDIwLWJlM2ItMTA5N2Q2ZDMxMjJiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "7.7",
+  "imdbID": "tt0119174",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:06.701Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "6 Underground",
+  "year": "2019",
+  "rated": "R",
+  "released": "13 Dec 2019",
+  "runtime": "128 min",
+  "genre": "Action, Thriller",
+  "director": "Michael Bay",
+  "writer": "Paul Wernick, Rhett Reese",
+  "actors": "Ryan Reynolds, Mélanie Laurent, Manuel Garcia-Rulfo",
+  "plot": "It follows a group of people who fake their deaths and decide to form a vigilante team in order to stage a coup d'état against a ruthless dictator.",
+  "language": "English, Turkmen, Cantonese, Italian, Spanish, Ukrainian, French",
+  "country": "United States, Canada, United Arab Emirates, Italy, Hungary",
+  "awards": "1 win & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTNmZDgzMmMtMzJhMy00NGI3LWI5YTktYjg5MTllZmYyYTMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "36%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "41/100"
+    }
+  ],
+  "metascore": "41",
+  "imdbRating": "6.1",
+  "imdbID": "tt8106534",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:41.278Z"
+}

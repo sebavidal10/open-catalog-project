@@ -1,0 +1,35 @@
+{
+  "title": "Mars Attacks!",
+  "year": "1996",
+  "rated": "PG-13",
+  "released": "13 Dec 1996",
+  "runtime": "106 min",
+  "genre": "Comedy, Sci-Fi",
+  "director": "Tim Burton",
+  "writer": "Len Brown, Woody Gelman, Wally Wood",
+  "actors": "Jack Nicholson, Pierce Brosnan, Sarah Jessica Parker",
+  "plot": "Earth is invaded by Martians with unbeatable weapons and a cruel sense of humor.",
+  "language": "English, French",
+  "country": "United States, Japan, United Kingdom",
+  "awards": "3 wins & 19 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjJhNTIxZmQtZjQ3ZC00MTZkLWI2YTItY2Y0ZTdiMmNiNGIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "55%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "6.4",
+  "imdbID": "tt0116996",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:51.152Z"
+}

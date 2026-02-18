@@ -1,0 +1,35 @@
+{
+  "title": "Who Framed Roger Rabbit",
+  "year": "1988",
+  "rated": "PG",
+  "released": "22 Jun 1988",
+  "runtime": "104 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Robert Zemeckis",
+  "writer": "Jeffrey Price, Peter S. Seaman, Gary K. Wolf",
+  "actors": "Bob Hoskins, Christopher Lloyd, Joanna Cassidy",
+  "plot": "When a cartoon rabbit is accused of murder, he enlists the help of a burnt out private investigator to prove his innocence.",
+  "language": "English",
+  "country": "United States, United Kingdom",
+  "awards": "Won 3 Oscars. 25 wins & 22 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDc5ZGRiM2EtMWRmMC00YjViLWEwMjYtNGE5MWVlZGEzZGM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.7",
+  "imdbID": "tt0096438",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:34.342Z"
+}

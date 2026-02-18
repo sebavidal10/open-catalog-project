@@ -1,0 +1,35 @@
+{
+  "title": "Casper",
+  "year": "1995",
+  "rated": "PG",
+  "released": "26 May 1995",
+  "runtime": "100 min",
+  "genre": "Comedy, Family, Fantasy",
+  "director": "Brad Silberling",
+  "writer": "Joseph Oriolo, Sherri Stoner, Deanna Oliver",
+  "actors": "Bill Pullman, Christina Ricci, Cathy Moriarty",
+  "plot": "An afterlife therapist and his daughter meet a friendly young ghost when they move into a crumbling mansion in order to rid the premises of wicked spirits.",
+  "language": "English",
+  "country": "United States",
+  "awards": "5 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjYzZWZlYzYtZWZkYy00YjRkLWIxN2EtNjY1MGZmYmQxYTIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "59%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "metascore": "49",
+  "imdbRating": "6.2",
+  "imdbID": "tt0112642",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:25.994Z"
+}

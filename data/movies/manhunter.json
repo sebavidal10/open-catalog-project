@@ -1,0 +1,35 @@
+{
+  "title": "Manhunter",
+  "year": "1986",
+  "rated": "R",
+  "released": "15 Aug 1986",
+  "runtime": "120 min",
+  "genre": "Crime, Mystery, Thriller",
+  "director": "Michael Mann",
+  "writer": "Thomas Harris, Michael Mann",
+  "actors": "William Petersen, Kim Greist, Joan Allen",
+  "plot": "Former FBI profiler Will Graham returns to service to pursue a deranged serial killer dubbed \"the Tooth Fairy\" by the media.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTVlMDQ5MmYtYmFhMi00OTE1LThmNTEtZTgyMzg5Njk2OWM2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "7.2",
+  "imdbID": "tt0091474",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:10.584Z"
+}

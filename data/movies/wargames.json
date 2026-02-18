@@ -1,0 +1,35 @@
+{
+  "title": "WarGames",
+  "year": "1983",
+  "rated": "PG",
+  "released": "03 Jun 1983",
+  "runtime": "114 min",
+  "genre": "Action, Drama, Sci-Fi",
+  "director": "John Badham",
+  "writer": "Lawrence Lasker, Walter F. Parkes",
+  "actors": "Matthew Broderick, Ally Sheedy, John Wood",
+  "plot": "A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 4 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmM5MDlmZWUtYTE1Mi00M2JiLTk1NzYtMTg0NTdlMzM2N2RkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.1",
+  "imdbID": "tt0086567",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:16.692Z"
+}

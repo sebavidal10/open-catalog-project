@@ -1,0 +1,35 @@
+{
+  "title": "Cocoon",
+  "year": "1985",
+  "rated": "PG-13",
+  "released": "21 Jun 1985",
+  "runtime": "117 min",
+  "genre": "Comedy, Drama, Sci-Fi",
+  "director": "Ron Howard",
+  "writer": "Tom Benedek, David Saperstein",
+  "actors": "Don Ameche, Wilford Brimley, Hume Cronyn",
+  "plot": "When a group of trespassing seniors swim in a pool containing alien cocoons, they find themselves energized with youthful vigor.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 7 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2VkNzdkMTktODZlYi00NzMzLWEzZDQtZTJmYmFkOGQyMWU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "6.7",
+  "imdbID": "tt0088933",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:48.178Z"
+}

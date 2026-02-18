@@ -1,0 +1,35 @@
+{
+  "title": "Scanners",
+  "year": "1981",
+  "rated": "R",
+  "released": "14 Jan 1981",
+  "runtime": "103 min",
+  "genre": "Horror, Sci-Fi, Thriller",
+  "director": "David Cronenberg",
+  "writer": "David Cronenberg",
+  "actors": "Jennifer O'Neill, Stephen Lack, Patrick McGoohan",
+  "plot": "A scientist trains a man with an advanced telepathic ability called \"scanning\" to stop a dangerous Scanner with extraordinary psychic powers from waging war against non scanners.",
+  "language": "English",
+  "country": "Canada",
+  "awards": "3 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWY2OTA1NjctNmFhYS00ZGQwLTlhNGUtNjQ1M2JiNzFjNmI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "6.7",
+  "imdbID": "tt0081455",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:06:56.782Z"
+}

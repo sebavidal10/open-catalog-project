@@ -1,0 +1,35 @@
+{
+  "title": "Space Jam",
+  "year": "1996",
+  "rated": "PG",
+  "released": "15 Nov 1996",
+  "runtime": "88 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Joe Pytka",
+  "writer": "Leo Benvenuti, Steve Rudnick, Timothy Harris",
+  "actors": "Michael Jordan, Wayne Knight, Theresa Randle",
+  "plot": "In a desperate attempt to win a basketball match and earn their freedom, the Looney Tunes seek the aid of retired basketball champion, Michael Jordan.",
+  "language": "English",
+  "country": "United States",
+  "awards": "5 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGQ3ZDk0M2MtZDNmNi00OWE3LThiODUtMTU3NmVjMTA0ZGQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "44%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "metascore": "57",
+  "imdbRating": "6.5",
+  "imdbID": "tt0117705",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:52.995Z"
+}

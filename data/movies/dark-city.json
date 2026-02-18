@@ -1,0 +1,31 @@
+{
+  "title": "Dark City",
+  "year": "1998",
+  "rated": "R",
+  "released": "27 Feb 1998",
+  "runtime": "100 min",
+  "genre": "Fantasy, Mystery, Sci-Fi",
+  "director": "Alex Proyas",
+  "writer": "Alex Proyas, Lem Dobbs, David S. Goyer",
+  "actors": "Rufus Sewell, William Hurt, Kiefer Sutherland",
+  "plot": "A man struggles with memories of his past, which include a wife he cannot remember and a nightmarish world no one else ever seems to wake up from.",
+  "language": "English",
+  "country": "Australia, United States",
+  "awards": "12 wins & 19 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTFhMmE1YzgtNTFhYS00MTRlLWI3ZDMtMWJkMTBmOWMzOTk5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "7.6",
+  "imdbID": "tt0118929",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:43.149Z"
+}

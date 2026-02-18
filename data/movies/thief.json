@@ -1,0 +1,35 @@
+{
+  "title": "Thief",
+  "year": "1981",
+  "rated": "R",
+  "released": "27 Mar 1981",
+  "runtime": "123 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Michael Mann",
+  "writer": "Michael Mann, Frank Hohimer",
+  "actors": "James Caan, Tuesday Weld, Willie Nelson",
+  "plot": "After years in prison, ace safe-cracker Frank owns a car dealership and a cocktail lounge, which are fronts for high-stakes jewelry heists. He wants to complete one last big heist for the Mob before he goes straight.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzk2MGQ3NjMtNDc4Yy00NzEwLTk5ZDQtNzYwMjhmMzcwN2JiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.4",
+  "imdbID": "tt0083190",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:06:55.617Z"
+}

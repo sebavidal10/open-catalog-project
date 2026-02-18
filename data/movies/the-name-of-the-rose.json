@@ -1,0 +1,35 @@
+{
+  "title": "The Name of the Rose",
+  "year": "1986",
+  "rated": "R",
+  "released": "24 Sep 1986",
+  "runtime": "130 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "Jean-Jacques Annaud",
+  "writer": "Umberto Eco, Andrew Birkin, Gérard Brach",
+  "actors": "Sean Connery, Christian Slater, Helmut Qualtinger",
+  "plot": "An intellectually nonconformist friar investigates a series of mysterious deaths in an isolated abbey.",
+  "language": "English, Latin",
+  "country": "West Germany, Italy, France",
+  "awards": "Won 2 BAFTA 17 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODcwODk2NmQtMjg0My00NzcxLWFhNTYtNjM4ODUxM2VjNTI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "metascore": "54",
+  "imdbRating": "7.7",
+  "imdbID": "tt0091605",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:11.751Z"
+}

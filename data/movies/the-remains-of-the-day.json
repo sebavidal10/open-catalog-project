@@ -1,0 +1,35 @@
+{
+  "title": "The Remains of the Day",
+  "year": "1993",
+  "rated": "PG",
+  "released": "19 Nov 1993",
+  "runtime": "134 min",
+  "genre": "Drama, Romance",
+  "director": "James Ivory",
+  "writer": "Kazuo Ishiguro, Ruth Prawer Jhabvala",
+  "actors": "Anthony Hopkins, Emma Thompson, John Haycraft",
+  "plot": "A butler sacrifices love for duty in 1930s England.",
+  "language": "English, French, German",
+  "country": "United States, United Kingdom",
+  "awards": "Nominated for 8 Oscars. 17 wins & 42 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWY5MTFkMmEtNDE2Zi00NzU4LWE2OWMtZGE4ZWY1NmIzN2I0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.8",
+  "imdbID": "tt0107943",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:55.588Z"
+}

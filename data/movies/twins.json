@@ -1,0 +1,35 @@
+{
+  "title": "Twins",
+  "year": "1988",
+  "rated": "PG",
+  "released": "09 Dec 1988",
+  "runtime": "107 min",
+  "genre": "Comedy, Crime",
+  "director": "Ivan Reitman",
+  "writer": "William Davies, William Osborne, Timothy Harris",
+  "actors": "Arnold Schwarzenegger, Danny DeVito, Kelly Preston",
+  "plot": "A physically perfect but innocent man goes in search of his long-lost twin brother, who turns out to be a short, womanizing, small-time crook.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDJmMTc5YmUtN2FmNi00YzlhLWEwNTktZjI3NjlhMWE3ODM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "metascore": "50",
+  "imdbRating": "6.2",
+  "imdbID": "tt0096320",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:41.173Z"
+}

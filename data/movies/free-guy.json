@@ -1,0 +1,35 @@
+{
+  "title": "Free Guy",
+  "year": "2021",
+  "rated": "PG-13",
+  "released": "13 Aug 2021",
+  "runtime": "115 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Shawn Levy",
+  "writer": "Matt Lieberman, Zak Penn",
+  "actors": "Ryan Reynolds, Jodie Comer, Taika Waititi",
+  "plot": "When Guy, a bank teller, learns that he is a non-player character in a bloodthirsty, open-world video game, he goes on to become the hero of the story and takes the responsibility of saving the world.",
+  "language": "English, Japanese, German",
+  "country": "United States, Canada",
+  "awards": "Nominated for 1 Oscar. 6 wins & 30 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2I0MGMxYjUtZTZiMS00MzMxLTkzNWYtMDUyZmUwY2ViYTljXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.1",
+  "imdbID": "tt6264654",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:51.763Z"
+}

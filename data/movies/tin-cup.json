@@ -1,0 +1,35 @@
+{
+  "title": "Tin Cup",
+  "year": "1996",
+  "rated": "R",
+  "released": "16 Aug 1996",
+  "runtime": "135 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Ron Shelton",
+  "writer": "John Norville, Ron Shelton",
+  "actors": "Kevin Costner, Rene Russo, Don Johnson",
+  "plot": "A washed-up golf pro working at a driving range tries to qualify for the U.S. Open in order to win the heart of his successful rival's girlfriend.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmU1YzE5MWEtMzc4MS00MzQ3LWEwMzYtMDg0ZTFlMmVhMzNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "6.4",
+  "imdbID": "tt0117918",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:03.142Z"
+}

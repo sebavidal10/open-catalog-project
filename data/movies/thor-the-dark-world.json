@@ -1,0 +1,35 @@
+{
+  "title": "Thor: The Dark World",
+  "year": "2013",
+  "rated": "PG-13",
+  "released": "08 Nov 2013",
+  "runtime": "112 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Alan Taylor",
+  "writer": "Christopher L. Yost, Christopher Markus, Stephen McFeely",
+  "actors": "Chris Hemsworth, Natalie Portman, Tom Hiddleston",
+  "plot": "When the Dark Elves attempt to plunge the universe into darkness, Thor must embark on a perilous and personal journey that will reunite him with doctor Jane Foster.",
+  "language": "English",
+  "country": "United States, Iceland",
+  "awards": "4 wins & 21 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "metascore": "54",
+  "imdbRating": "6.7",
+  "imdbID": "tt1981115",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:53.553Z"
+}

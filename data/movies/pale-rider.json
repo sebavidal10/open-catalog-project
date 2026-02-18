@@ -1,0 +1,35 @@
+{
+  "title": "Pale Rider",
+  "year": "1985",
+  "rated": "R",
+  "released": "28 Jun 1985",
+  "runtime": "115 min",
+  "genre": "Drama, Western",
+  "director": "Clint Eastwood",
+  "writer": "Michael Butler, Dennis Shryack",
+  "actors": "Clint Eastwood, Michael Moriarty, Carrie Snodgress",
+  "plot": "A mysterious preacher protects gold miners from villains.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWY2YjMwODAtZTllMC00OTZhLTg3N2EtMjcxNzg0ZjYwODY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "7.3",
+  "imdbID": "tt0089767",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:55.466Z"
+}

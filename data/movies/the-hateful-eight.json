@@ -1,0 +1,35 @@
+{
+  "title": "The Hateful Eight",
+  "year": "2015",
+  "rated": "R",
+  "released": "30 Dec 2015",
+  "runtime": "168 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Quentin Tarantino",
+  "writer": "Quentin Tarantino",
+  "actors": "Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh",
+  "plot": "In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.",
+  "language": "English, Spanish, French, Persian",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 46 wins & 116 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "7.8",
+  "imdbID": "tt3460252",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:20.956Z"
+}

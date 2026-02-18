@@ -1,0 +1,35 @@
+{
+  "title": "Naked Lunch",
+  "year": "1991",
+  "rated": "R",
+  "released": "24 Apr 1992",
+  "runtime": "115 min",
+  "genre": "Drama, Mystery",
+  "director": "David Cronenberg",
+  "writer": "William S. Burroughs, David Cronenberg",
+  "actors": "Peter Weller, Judy Davis, Ian Holm",
+  "plot": "After developing an addiction to the substance he uses to kill bugs, an exterminator accidentally kills his wife and becomes involved in a secret government plot being orchestrated by giant bugs in a port town in North Africa.",
+  "language": "English, Arabic, Spanish, German",
+  "country": "Canada, United Kingdom, Japan, Netherlands",
+  "awards": "13 wins & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzBkOWM0MTYtN2QwYy00YTg3LWIwNmEtMGRlNDNhN2UyNjU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "6.9",
+  "imdbID": "tt0102511",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:24.920Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Elizabeth",
+  "year": "1998",
+  "rated": "R",
+  "released": "19 Feb 1999",
+  "runtime": "124 min",
+  "genre": "Biography, Drama, History",
+  "director": "Shekhar Kapur",
+  "writer": "Michael Hirst",
+  "actors": "Cate Blanchett, Liz Giles, Rod Culbertson",
+  "plot": "The early years of the reign of Elizabeth I of England and her difficult task of learning what is necessary to be a monarch.",
+  "language": "English, French, Turkish",
+  "country": "United Kingdom, United States",
+  "awards": "Won 1 Oscar. 35 wins & 56 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWRjZjJjNDUtOTgzMi00YjBlLTg5ODQtMjQxOTAyMzM2ZWJiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "7.4",
+  "imdbID": "tt0127536",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:37.339Z"
+}

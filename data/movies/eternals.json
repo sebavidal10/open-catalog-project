@@ -1,0 +1,35 @@
+{
+  "title": "Eternals",
+  "year": "2021",
+  "rated": "PG-13",
+  "released": "05 Nov 2021",
+  "runtime": "156 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Chloé Zhao",
+  "writer": "Chloé Zhao, Patrick Burleigh, Ryan Firpo",
+  "actors": "Gemma Chan, Richard Madden, Angelina Jolie",
+  "plot": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
+  "language": "English, American Sign , Marathi, Assyrian Neo-Aramaic, Spanish, Sumerian, Latin, Sanskrit, Greek, Ancient (to 1453), Arabic",
+  "country": "United States",
+  "awards": "7 wins & 18 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTBiZjI2M2UtZTNiNy00NmU4LWJiMjYtZjk4MDIzMzhlMjFlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "47%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "6.2",
+  "imdbID": "tt9032400",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:00.544Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Out of Sight",
+  "year": "1998",
+  "rated": "R",
+  "released": "26 Jun 1998",
+  "runtime": "123 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Steven Soderbergh",
+  "writer": "Elmore Leonard, Scott Frank",
+  "actors": "George Clooney, Jennifer Lopez, Ving Rhames",
+  "plot": "A career bank robber breaks out of jail, and shares a moment of mutual attraction with a U.S. Marshal he has kidnapped.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 13 wins & 15 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2U3OGQ0NTMtNmQxYS00MmRiLTg2OTctZDI3ZjNjZjM5N2NlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.0",
+  "imdbID": "tt0120780",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:48.951Z"
+}

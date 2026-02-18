@@ -1,0 +1,35 @@
+{
+  "title": "Romancing the Stone",
+  "year": "1984",
+  "rated": "PG",
+  "released": "30 Mar 1984",
+  "runtime": "106 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Robert Zemeckis",
+  "writer": "Diane Thomas",
+  "actors": "Michael Douglas, Kathleen Turner, Danny DeVito",
+  "plot": "A mousy romance novelist sets off for Colombia to ransom her kidnapped sister, and soon finds herself in the middle of a dangerous adventure hunting for treasure with a mercenary rogue.",
+  "language": "English, Spanish, French",
+  "country": "United States, Mexico",
+  "awards": "Nominated for 1 Oscar. 9 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTVhOWU2OTItZDgzNy00MWMyLThkNmUtOGNiOTU3ZTYzYTU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "6.9",
+  "imdbID": "tt0088011",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:31.907Z"
+}

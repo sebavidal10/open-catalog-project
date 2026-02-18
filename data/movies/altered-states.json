@@ -1,0 +1,35 @@
+{
+  "title": "Altered States",
+  "year": "1980",
+  "rated": "R",
+  "released": "25 Dec 1980",
+  "runtime": "102 min",
+  "genre": "Horror, Sci-Fi, Thriller",
+  "director": "Ken Russell",
+  "writer": "Paddy Chayefsky",
+  "actors": "William Hurt, Blair Brown, Bob Balaban",
+  "plot": "A psycho-physiologist experiments with drugs and a sensory-deprivation tank and has visions he believes are genetic memories.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 1 win & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA3ZmU3ZjEtMmJkNC00MzZjLWEzZTEtZDdmN2Y3OWJhMmFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "6.9",
+  "imdbID": "tt0080360",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:06:42.506Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Mighty Aphrodite",
+  "year": "1995",
+  "rated": "R",
+  "released": "10 Nov 1995",
+  "runtime": "95 min",
+  "genre": "Comedy, Fantasy, Romance",
+  "director": "Woody Allen",
+  "writer": "Woody Allen",
+  "actors": "Woody Allen, Mira Sorvino, Pamela Blair",
+  "plot": "When he discovers his adopted son is a genius, a New York sportswriter seeks out the boy's birth mother: a ditzy porn star and prostitute.",
+  "language": "English, Latin",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 12 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGY4MWQ2Y2QtMzliZC00NTc3LWJmMGYtMzUxYWI0YTFhYTY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "metascore": "59",
+  "imdbRating": "7.0",
+  "imdbID": "tt0113819",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:31.830Z"
+}

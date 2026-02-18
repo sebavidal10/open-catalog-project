@@ -1,0 +1,35 @@
+{
+  "title": "Treasure Planet",
+  "year": "2002",
+  "rated": "PG",
+  "released": "29 Nov 2002",
+  "runtime": "95 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Ron Clements, John Musker",
+  "writer": "Ron Clements, John Musker, Rob Edwards",
+  "actors": "Joseph Gordon-Levitt, Emma Thompson, Martin Short",
+  "plot": "Jim Hawkins is a teenager who finds the map of a great treasure hidden by a space pirate. Together with some friends, he sets off in a large spaceship, shaped like a caravel, on his quest.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2VjNjk5MTAtNDE3Ni00NjczLWFhN2EtNGQ1ZmZmOWRjZjIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "68%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "7.2",
+  "imdbID": "tt0133240",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:34.853Z"
+}

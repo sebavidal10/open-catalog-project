@@ -1,0 +1,35 @@
+{
+  "title": "Body Heat",
+  "year": "1981",
+  "rated": "R",
+  "released": "28 Aug 1981",
+  "runtime": "113 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "Lawrence Kasdan",
+  "writer": "Lawrence Kasdan",
+  "actors": "William Hurt, Kathleen Turner, Richard Crenna",
+  "plot": "During an extreme heatwave, a beautiful Florida woman and a seedy lawyer engage in an affair while plotting the murder of her rich husband.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 BAFTA Award6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWZjNDE0ZDUtZTg3Ny00ZWNiLWExZDMtNTY3OWYxZDUzZjg1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.4",
+  "imdbID": "tt0082089",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:06:54.453Z"
+}

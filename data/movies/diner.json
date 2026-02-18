@@ -1,0 +1,35 @@
+{
+  "title": "Diner",
+  "year": "1982",
+  "rated": "R",
+  "released": "21 May 1982",
+  "runtime": "110 min",
+  "genre": "Comedy, Drama",
+  "director": "Barry Levinson",
+  "writer": "Barry Levinson",
+  "actors": "Steve Guttenberg, Mickey Rourke, Kevin Bacon",
+  "plot": "A group of college-age buddies struggle with their imminent passage into adulthood in 1959 Baltimore.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 3 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDc5MDkwMTMtY2QzOC00Y2IwLTk0MWItOGMyZjkyZjc4YjAyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "7.0",
+  "imdbID": "tt0083833",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:08.567Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Risky Business",
+  "year": "1983",
+  "rated": "R",
+  "released": "05 Aug 1983",
+  "runtime": "99 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Paul Brickman",
+  "writer": "Paul Brickman",
+  "actors": "Tom Cruise, Rebecca De Mornay, Joe Pantoliano",
+  "plot": "A Chicago teenager is looking for fun at home while his parents are away, but the situation quickly gets out of hand.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2ZkNDFlMDQtNmI0OS00YTQ1LTg4MDMtYjdhZTY1MjQzNmU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "6.8",
+  "imdbID": "tt0086200",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:14.373Z"
+}

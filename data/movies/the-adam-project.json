@@ -1,0 +1,35 @@
+{
+  "title": "The Adam Project",
+  "year": "2022",
+  "rated": "PG-13",
+  "released": "11 Mar 2022",
+  "runtime": "106 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Shawn Levy",
+  "writer": "Jonathan Tropper, T.S. Nowlin, Jennifer Flackett",
+  "actors": "Ryan Reynolds, Walker Scobell, Mark Ruffalo",
+  "plot": "After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self for a mission to save the future.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWU1NDJlYWUtYWE1OC00MGVlLTliNzYtMjg4OTk0MWE4MDQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "68%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "6.7",
+  "imdbID": "tt2463208",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:50.597Z"
+}

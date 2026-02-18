@@ -1,0 +1,35 @@
+{
+  "title": "Short Cuts",
+  "year": "1993",
+  "rated": "R",
+  "released": "01 Oct 1993",
+  "runtime": "188 min",
+  "genre": "Comedy, Drama",
+  "director": "Robert Altman",
+  "writer": "Raymond Carver, Robert Altman, Frank Barhydt",
+  "actors": "Andie MacDowell, Julianne Moore, Tim Robbins",
+  "plot": "The day-to-day lives of several suburban Los Angeles residents.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 17 wins & 19 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYThkMTY5ZTgtYzc0Yy00MTZiLWE5YjUtMDAwM2E4Yjg5MmM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.6",
+  "imdbID": "tt0108122",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:53.263Z"
+}

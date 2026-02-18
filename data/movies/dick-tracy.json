@@ -1,0 +1,35 @@
+{
+  "title": "Dick Tracy",
+  "year": "1990",
+  "rated": "PG",
+  "released": "15 Jun 1990",
+  "runtime": "105 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "Warren Beatty",
+  "writer": "Chester Gould, Jim Cash, Jack Epps Jr.",
+  "actors": "Warren Beatty, Madonna, Al Pacino",
+  "plot": "The comic strip detective finds his life vastly complicated when Breathless Mahoney makes advances towards him while he is trying to battle Big Boy Caprice's united mob.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 9 wins & 37 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDRmNmU2OGUtOWVjNC00NTI5LTg4ODQtNmY0NTNkY2ZhM2RkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "63%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "6.2",
+  "imdbID": "tt0099422",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:03.859Z"
+}

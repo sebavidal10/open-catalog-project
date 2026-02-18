@@ -1,0 +1,35 @@
+{
+  "title": "Anatomy of a Fall",
+  "year": "2023",
+  "rated": "R",
+  "released": "22 Mar 2024",
+  "runtime": "151 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Justine Triet",
+  "writer": "Justine Triet, Arthur Harari",
+  "actors": "Sandra Hüller, Swann Arlaud, Milo Machado-Graner",
+  "plot": "A woman is suspected of murder after her husband's death; their half-blind son faces a moral dilemma as the main witness.",
+  "language": "French, English",
+  "country": "France",
+  "awards": "Won 1 Oscar. 131 wins & 191 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTk3MjFkZmQtMThiYi00N2JhLTk2YzItZTE5ZGUxZTIyZDVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.6",
+  "imdbID": "tt17009710",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:27.938Z"
+}

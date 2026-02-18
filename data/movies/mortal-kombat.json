@@ -1,0 +1,35 @@
+{
+  "title": "Mortal Kombat",
+  "year": "1995",
+  "rated": "PG-13",
+  "released": "18 Aug 1995",
+  "runtime": "101 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Paul W.S. Anderson",
+  "writer": "Ed Boon, John Tobias, Kevin Droney",
+  "actors": "Christopher Lambert, Robin Shou, Linden Ashby",
+  "plot": "Three martial artists are forced to battle demonic adversaries in another dimension with the fate of the world hanging in the balance.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjQyYjJjMzEtZTYzYy00ZjFmLTlkNTktNDI5ZjIwNTAxOWE0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "44%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "5.8",
+  "imdbID": "tt0113855",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:24.837Z"
+}

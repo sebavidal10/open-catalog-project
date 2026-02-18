@@ -1,0 +1,35 @@
+{
+  "title": "Rush",
+  "year": "2013",
+  "rated": "R",
+  "released": "27 Sep 2013",
+  "runtime": "123 min",
+  "genre": "Biography, Drama, Sport",
+  "director": "Ron Howard",
+  "writer": "Peter Morgan",
+  "actors": "Daniel Brühl, Chris Hemsworth, Olivia Wilde",
+  "plot": "James Hunt and Niki Lauda, two extremely skilled Formula One racers, have an intense rivalry with each other. However, it is their enmity that pushes them to their limits.",
+  "language": "English, German, Italian, French, Japanese, Spanish",
+  "country": "United Kingdom, United States",
+  "awards": "Won 1 BAFTA Award6 wins & 66 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTZhOGQxM2ItNGQyYy00YzE5LWI5MjMtNmMzNGQzNDE1OTUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "8.1",
+  "imdbID": "tt1979320",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:16.290Z"
+}

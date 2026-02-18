@@ -1,0 +1,35 @@
+{
+  "title": "American Pie",
+  "year": "1999",
+  "rated": "R",
+  "released": "09 Jul 1999",
+  "runtime": "95 min",
+  "genre": "Comedy",
+  "director": "Paul Weitz",
+  "writer": "Adam Herz",
+  "actors": "Jason Biggs, Chris Klein, Thomas Ian Nicholas",
+  "plot": "Four teenage boys enter a pact to lose their virginity by prom night.",
+  "language": "English",
+  "country": "United States",
+  "awards": "9 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg3ODY5ODI1NF5BMl5BanBnXkFtZTgwMTkxNTYxMTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "62%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "7.0",
+  "imdbID": "tt0163651",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:01.146Z"
+}

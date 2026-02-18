@@ -1,0 +1,35 @@
+{
+  "title": "Atlantis: The Lost Empire",
+  "year": "2001",
+  "rated": "PG",
+  "released": "15 Jun 2001",
+  "runtime": "95 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Gary Trousdale, Kirk Wise",
+  "writer": "Tab Murphy, Kirk Wise, Gary Trousdale",
+  "actors": "Michael J. Fox, Jim Varney, Corey Burton",
+  "plot": "A young linguist named Milo Thatch joins an intrepid group of explorers to find the mysterious lost continent of Atlantis.",
+  "language": "English, French, Spanish",
+  "country": "United States, Japan",
+  "awards": "2 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODYwZTQwMDEtYjgyZS00NzNhLWFhYWMtN2Q1Y2JmZjlmZDlhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "48%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "6.9",
+  "imdbID": "tt0230011",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:36.018Z"
+}

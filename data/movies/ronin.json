@@ -1,0 +1,35 @@
+{
+  "title": "Ronin",
+  "year": "1998",
+  "rated": "R",
+  "released": "25 Sep 1998",
+  "runtime": "122 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "John Frankenheimer",
+  "writer": "J.D. Zeik, David Mamet",
+  "actors": "Robert De Niro, Jean Reno, Natascha McElhone",
+  "plot": "A freelancing former U.S. intelligence agent tries to track down a mysterious package that's wanted by both the Irish and the Russian governments.",
+  "language": "English, French, Russian",
+  "country": "United Kingdom, United States",
+  "awards": "1 win & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzU0MDEwOGMtZWFlMy00ZjllLWFmMWQtYWIxN2M1YmU5ZWQwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "7.2",
+  "imdbID": "tt0122690",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:47.788Z"
+}

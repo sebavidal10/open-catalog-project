@@ -1,0 +1,35 @@
+{
+  "title": "Cars 3",
+  "year": "2017",
+  "rated": "G",
+  "released": "16 Jun 2017",
+  "runtime": "102 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Brian Fee",
+  "writer": "Brian Fee, Ben Queen, Eyal Podell",
+  "actors": "Owen Wilson, Cristela Alonzo, Chris Cooper",
+  "plot": "Lightning McQueen sets out to prove to a new generation of racers that he's still the best race car in the world.",
+  "language": "English",
+  "country": "United States, Japan, Australia, United Kingdom, Canada",
+  "awards": "3 wins & 24 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc0NzU2OTYyN15BMl5BanBnXkFtZTgwMTkwOTg2MTI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "metascore": "59",
+  "imdbRating": "6.7",
+  "imdbID": "tt3606752",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:20.893Z"
+}

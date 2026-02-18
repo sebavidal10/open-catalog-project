@@ -1,0 +1,35 @@
+{
+  "title": "The Zone of Interest",
+  "year": "2023",
+  "rated": "PG-13",
+  "released": "20 Feb 2024",
+  "runtime": "105 min",
+  "genre": "Drama, History, War",
+  "director": "Jonathan Glazer",
+  "writer": "Jonathan Glazer, Martin Amis",
+  "actors": "Christian Friedel, Sandra Hüller, Johann Karthaus",
+  "plot": "The commandant of Auschwitz and his wife strive to build a dream life for their family in a house next to the camp.",
+  "language": "German, Yiddish, Polish",
+  "country": "United Kingdom, Poland, United States",
+  "awards": "Won 2 Oscars. 71 wins & 186 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjk4MTQ3MGEtZmI4OS00N2NhLWI5ZjgtYWE5ZWVkZGExYTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "metascore": "92",
+  "imdbRating": "7.3",
+  "imdbID": "tt7160372",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:29.102Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Broadcast News",
+  "year": "1987",
+  "rated": "R",
+  "released": "25 Dec 1987",
+  "runtime": "133 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "James L. Brooks",
+  "writer": "James L. Brooks",
+  "actors": "William Hurt, Albert Brooks, Holly Hunter",
+  "plot": "A high-strung news producer finds herself in a love triangle between a talented but self-doubting reporter and a charming new anchor, who embodies the growing trivialization of news that she is determined to fight against.",
+  "language": "English, Spanish, French, German",
+  "country": "United States",
+  "awards": "Nominated for 7 Oscars. 15 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGVhZjNiYmUtMTAwYS00ZjQ0LWIyNGItNTU1OWNjYjA4ZDE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.3",
+  "imdbID": "tt0092699",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:16.404Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Man of Steel",
+  "year": "2013",
+  "rated": "PG-13",
+  "released": "14 Jun 2013",
+  "runtime": "143 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Zack Snyder",
+  "writer": "David S. Goyer, Christopher Nolan, Jerry Siegel",
+  "actors": "Henry Cavill, Amy Adams, Michael Shannon",
+  "plot": "An alien child is evacuated from his dying world and sent to Earth to live among humans. His peace is threatened when other survivors of his home planet invade Earth.",
+  "language": "English",
+  "country": "United States, United Kingdom, Canada",
+  "awards": "Nominated for 1 BAFTA Award7 wins & 46 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "7.1",
+  "imdbID": "tt0770828",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:41.919Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Disclosure",
+  "year": "1994",
+  "rated": "R",
+  "released": "09 Dec 1994",
+  "runtime": "128 min",
+  "genre": "Drama, Thriller",
+  "director": "Barry Levinson",
+  "writer": "Michael Crichton, Paul Attanasio",
+  "actors": "Michael Douglas, Demi Moore, Donald Sutherland",
+  "plot": "A computer specialist is sued for sexual harassment by a former lover turned boss who initiated the act forcefully, which threatens both his career and his personal life.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmRlNTA4NGQtOTFlYy00NDk5LWEzOWYtNjMyMjI3NDdlNjRmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "58%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "6.2",
+  "imdbID": "tt0109635",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:15.382Z"
+}

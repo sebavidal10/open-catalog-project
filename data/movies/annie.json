@@ -1,0 +1,35 @@
+{
+  "title": "Annie",
+  "year": "1982",
+  "rated": "PG",
+  "released": "18 Jun 1982",
+  "runtime": "127 min",
+  "genre": "Comedy, Drama, Family",
+  "director": "John Huston",
+  "writer": "Carol Sobieski, Thomas Meehan, Martin Charnin",
+  "actors": "Aileen Quinn, Albert Finney, Carol Burnett",
+  "plot": "A spunky young orphan is taken in by a rich eccentric, much to the chagrin of the cantankerous woman who runs the orphanage.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 3 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjQzOGJkNTAtYzY3NS00ZjViLWI4OTMtZTdkNzRjYWRmOTUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "49%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "39/100"
+    }
+  ],
+  "metascore": "39",
+  "imdbRating": "6.6",
+  "imdbID": "tt0083564",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:05.078Z"
+}

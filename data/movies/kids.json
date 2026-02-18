@@ -1,0 +1,35 @@
+{
+  "title": "Kids",
+  "year": "1995",
+  "rated": "NC-17",
+  "released": "01 Sep 1995",
+  "runtime": "91 min",
+  "genre": "Drama",
+  "director": "Larry Clark",
+  "writer": "Harmony Korine, Larry Clark",
+  "actors": "Leo Fitzpatrick, Justin Pierce, Chloë Sevigny",
+  "plot": "A day in the life of a group of teens as they travel around New York City skating, drinking, smoking and deflowering virgins.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "1 win & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDVlZjdkM2YtNTU3ZS00NjVmLWEwMWMtOWQ3MTM1Mzk4MWM2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "47%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "7.0",
+  "imdbID": "tt0113540",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:42.283Z"
+}

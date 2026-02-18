@@ -1,0 +1,35 @@
+{
+  "title": "X-Men: Days of Future Past",
+  "year": "2014",
+  "rated": "PG-13",
+  "released": "23 May 2014",
+  "runtime": "132 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Bryan Singer",
+  "writer": "Simon Kinberg, Jane Goldman, Matthew Vaughn",
+  "actors": "Patrick Stewart, Ian McKellen, Hugh Jackman",
+  "plot": "The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants.",
+  "language": "English, Vietnamese, French, Russian",
+  "country": "United Kingdom, United States, Canada",
+  "awards": "Nominated for 1 Oscar. 16 wins & 48 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzNiYWE4NjMtMTU4OS00NmM4LWE4ZjAtYmE5OTA5NjkzODExXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "7.9",
+  "imdbID": "tt1877832",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:08.699Z"
+}

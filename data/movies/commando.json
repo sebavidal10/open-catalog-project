@@ -1,0 +1,35 @@
+{
+  "title": "Commando",
+  "year": "1985",
+  "rated": "R",
+  "released": "04 Oct 1985",
+  "runtime": "90 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "Mark L. Lester",
+  "writer": "Jeph Loeb, Matthew Weisman, Steven E. de Souza",
+  "actors": "Arnold Schwarzenegger, Rae Dawn Chong, Dan Hedaya",
+  "plot": "A retired Special Forces colonel tries to save his daughter, who was abducted by his former subordinate.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjAyNTRiMTEtNzNlZS00YTZhLThmNzQtZjBkOWQ4N2Y4YjQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "68%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "6.7",
+  "imdbID": "tt0088944",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:50.823Z"
+}

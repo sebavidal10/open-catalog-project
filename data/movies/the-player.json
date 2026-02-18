@@ -1,0 +1,35 @@
+{
+  "title": "The Player",
+  "year": "1992",
+  "rated": "R",
+  "released": "08 May 1992",
+  "runtime": "124 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Robert Altman",
+  "writer": "Michael Tolkin",
+  "actors": "Tim Robbins, Greta Scacchi, Fred Ward",
+  "plot": "A hotshot Hollywood studio executive starts receiving death threats from a rejected writer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 24 wins & 33 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM5MDg0MjU3Ml5BMl5BanBnXkFtZTgwODQ0NjYxMTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.5",
+  "imdbID": "tt0105151",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:37.866Z"
+}

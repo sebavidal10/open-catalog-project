@@ -1,0 +1,35 @@
+{
+  "title": "Twilight",
+  "year": "2008",
+  "rated": "PG-13",
+  "released": "21 Nov 2008",
+  "runtime": "122 min",
+  "genre": "Drama, Fantasy, Romance",
+  "director": "Catherine Hardwicke",
+  "writer": "Melissa Rosenberg, Stephenie Meyer",
+  "actors": "Kristen Stewart, Robert Pattinson, Billy Burke",
+  "plot": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire.",
+  "language": "English",
+  "country": "United States, United Kingdom",
+  "awards": "34 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NzUxMTAxN15BMl5BanBnXkFtZTcwMzEyMTIwMg@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "48%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "metascore": "56",
+  "imdbRating": "5.4",
+  "imdbID": "tt1099212",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:34.921Z"
+}

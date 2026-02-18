@@ -1,0 +1,35 @@
+{
+  "title": "Starship Troopers",
+  "year": "1997",
+  "rated": "R",
+  "released": "07 Nov 1997",
+  "runtime": "129 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Paul Verhoeven",
+  "writer": "Edward Neumeier, Robert A. Heinlein",
+  "actors": "Casper Van Dien, Denise Richards, Dina Meyer",
+  "plot": "Humans, in a fascist militaristic future, wage war with giant alien bugs.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 3 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTNiOGM1ZWUtZTZjZC00OWJmLWE2YzUtZjQ4ODZjZmVlMDU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "7.3",
+  "imdbID": "tt0120201",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:56.486Z"
+}

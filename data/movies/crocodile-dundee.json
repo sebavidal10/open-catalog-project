@@ -1,0 +1,35 @@
+{
+  "title": "Crocodile Dundee",
+  "year": "1986",
+  "rated": "PG-13",
+  "released": "26 Sep 1986",
+  "runtime": "97 min",
+  "genre": "Adventure, Comedy",
+  "director": "Peter Faiman",
+  "writer": "Paul Hogan, Ken Shadie, John Cornell",
+  "actors": "Paul Hogan, Linda Kozlowski, John Meillon",
+  "plot": "An American reporter travels to the Australian outback to meet eccentric poacher Mick \"Crocodile\" Dundee and invites him to New York City, where he comes face-to-face with the complexities of modern life.",
+  "language": "English",
+  "country": "Australia, United States",
+  "awards": "Nominated for 1 Oscar. 3 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDFkMTYyNWUtOGNjMy00MTMyLWFkMTQtYzZiMmY1NzBhN2I3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "6.6",
+  "imdbID": "tt0090555",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:05.943Z"
+}

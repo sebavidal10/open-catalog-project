@@ -1,0 +1,35 @@
+{
+  "title": "Antz",
+  "year": "1998",
+  "rated": "PG",
+  "released": "02 Oct 1998",
+  "runtime": "83 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Eric Darnell, Tim Johnson, Lawrence Guterman",
+  "writer": "Todd Alcott, Chris Weitz, Paul Weitz",
+  "actors": "Woody Allen, Sharon Stone, Gene Hackman",
+  "plot": "A rather neurotic ant tries to break from his totalitarian society while trying to win the affection of the princess he loves.",
+  "language": "English",
+  "country": "United States, United Kingdom",
+  "awards": "Nominated for 1 BAFTA Award6 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzdlMzZhZjctY2JjYy00OGRiLThjMTEtODRmZTg2ZjI5MjEzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "6.5",
+  "imdbID": "tt0120587",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:52.434Z"
+}

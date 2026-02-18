@@ -1,0 +1,35 @@
+{
+  "title": "Safe",
+  "year": "1995",
+  "rated": "R",
+  "released": "30 Jun 1995",
+  "runtime": "119 min",
+  "genre": "Drama",
+  "director": "Todd Haynes",
+  "writer": "Todd Haynes",
+  "actors": "Julianne Moore, Xander Berkeley, Dean Norris",
+  "plot": "An affluent and unexceptional homemaker in the suburbs develops multiple chemical sensitivity.",
+  "language": "English, Spanish",
+  "country": "United States, United Kingdom",
+  "awards": "4 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmFlNmIyZGEtMzdjZS00NTQwLTg3NmEtNjFmMDU0NTQwOGRmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.1",
+  "imdbID": "tt0114323",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:44.607Z"
+}

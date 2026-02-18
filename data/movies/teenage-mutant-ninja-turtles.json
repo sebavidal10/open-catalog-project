@@ -1,0 +1,35 @@
+{
+  "title": "Teenage Mutant Ninja Turtles",
+  "year": "1990",
+  "rated": "PG",
+  "released": "30 Mar 1990",
+  "runtime": "93 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Steve Barron",
+  "writer": "Kevin Eastman, Peter Laird, Bobby Herbeck",
+  "actors": "Judith Hoag, Elias Koteas, Josh Pais",
+  "plot": "Four teenage mutant ninja turtles emerge from the shadows to protect New York City from a gang of criminal ninjas.",
+  "language": "English, French",
+  "country": "Hong Kong, United States",
+  "awards": "3 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzg3NTQ4NDk5NV5BMl5BanBnXkFtZTgwNzMzNDg4NjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "46%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "6.8",
+  "imdbID": "tt0100758",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:06.182Z"
+}

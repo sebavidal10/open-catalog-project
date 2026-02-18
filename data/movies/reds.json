@@ -1,0 +1,35 @@
+{
+  "title": "Reds",
+  "year": "1981",
+  "rated": "PG",
+  "released": "25 Dec 1981",
+  "runtime": "195 min",
+  "genre": "Biography, Drama, History",
+  "director": "Warren Beatty",
+  "writer": "Warren Beatty, Trevor Griffiths",
+  "actors": "Warren Beatty, Diane Keaton, Edward Herrmann",
+  "plot": "A radical American journalist becomes involved with the Communist revolution in Russia, and hopes to bring its spirit and idealism to the United States.",
+  "language": "English, Russian, German, French, Finnish, Italian",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 22 wins & 37 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDFjMThlYTMtMjMwMy00MjgxLTlhZjgtZTY2ZTdmYjhmY2U2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.3",
+  "imdbID": "tt0082979",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:06:43.670Z"
+}

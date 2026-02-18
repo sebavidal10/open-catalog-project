@@ -1,0 +1,35 @@
+{
+  "title": "City Slickers",
+  "year": "1991",
+  "rated": "PG-13",
+  "released": "07 Jun 1991",
+  "runtime": "113 min",
+  "genre": "Comedy, Western",
+  "director": "Ron Underwood",
+  "writer": "Lowell Ganz, Babaloo Mandel",
+  "actors": "Billy Crystal, Jack Palance, Daniel Stern",
+  "plot": "On the verge of turning 40, an unhappy Manhattan yuppie is roped into joining his two friends on a cattle drive in the southwest.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 8 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkwNjM2MTc5NF5BMl5BanBnXkFtZTcwMzQ2NjEzNA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "6.8",
+  "imdbID": "tt0101587",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:22.599Z"
+}

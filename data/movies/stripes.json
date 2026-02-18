@@ -1,0 +1,35 @@
+{
+  "title": "Stripes",
+  "year": "1981",
+  "rated": "R",
+  "released": "26 Jun 1981",
+  "runtime": "106 min",
+  "genre": "Comedy, War",
+  "director": "Ivan Reitman",
+  "writer": "Len Blum, Daniel Goldberg, Harold Ramis",
+  "actors": "Bill Murray, John Candy, Harold Ramis",
+  "plot": "Two friends who are dissatisfied with their jobs decide to join the army for a bit of fun.",
+  "language": "English, Russian, Polish",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2VjZDExMjctMGVjMS00MDQxLWI2NTQtODJjNjNkN2ExY2FkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "6.8",
+  "imdbID": "tt0083131",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:06:48.325Z"
+}

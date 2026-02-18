@@ -1,0 +1,35 @@
+{
+  "title": "John Wick: Chapter 4",
+  "year": "2023",
+  "rated": "R",
+  "released": "24 Mar 2023",
+  "runtime": "169 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Chad Stahelski",
+  "writer": "Shay Hatten, Michael Finch, Derek Kolstad",
+  "actors": "Keanu Reeves, Laurence Fishburne, George Georgiou",
+  "plot": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+  "language": "English, Japanese, Russian, French, Spanish, German, Latin, Cantonese, Arabic",
+  "country": "United States, Germany",
+  "awards": "38 wins & 51 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2Q2ZmI5ZjUtNWVhMC00YzJkLTlmYjMtY2RmZDhkNzEzYjZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.6",
+  "imdbID": "tt10366206",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:31.972Z"
+}

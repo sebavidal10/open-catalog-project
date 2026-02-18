@@ -1,0 +1,31 @@
+{
+  "title": "Hard Boiled",
+  "year": "1992",
+  "rated": "R",
+  "released": "24 Jun 2025",
+  "runtime": "128 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "John Woo",
+  "writer": "John Woo, Barry Wong, Gordon Chan",
+  "actors": "Chow Yun-Fat, Tony Leung Chiu-wai, Teresa Mo",
+  "plot": "A tough-as-nails cop teams up with an undercover agent to shut down a sinister mobster and his crew.",
+  "language": "Cantonese, English",
+  "country": "Hong Kong",
+  "awards": "3 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTZkYjBlMTktOGNmMC00ZWMzLTlkYmYtNDAxYjNjNWRkNjE0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0104684",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:43.667Z"
+}

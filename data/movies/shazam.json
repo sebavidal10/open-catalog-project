@@ -1,0 +1,35 @@
+{
+  "title": "Shazam!",
+  "year": "2019",
+  "rated": "PG-13",
+  "released": "05 Apr 2019",
+  "runtime": "132 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "David F. Sandberg",
+  "writer": "Henry Gayden, Darren Lemke, Bill Parker",
+  "actors": "Zachary Levi, Mark Strong, Asher Angel",
+  "plot": "A newly fostered young boy in search of his mother instead finds unexpected super powers and soon gains a powerful enemy.",
+  "language": "English, Spanish",
+  "country": "United States, Canada",
+  "awards": "27 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWM1YjdmOGQtNGYyMC00NjMwLTk1OWUtMGYzM2NjYjliYzYyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.0",
+  "imdbID": "tt0448115",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:40.759Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Shang-Chi and the Legend of the Ten Rings",
+  "year": "2021",
+  "rated": "PG-13",
+  "released": "03 Sep 2021",
+  "runtime": "132 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Destin Daniel Cretton",
+  "writer": "Dave Callaham, Destin Daniel Cretton, Andrew Lanham",
+  "actors": "Simu Liu, Awkwafina, Tony Leung Chiu-wai",
+  "plot": "Shang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.",
+  "language": "English, Mandarin",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 19 wins & 71 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmY5MDcyNzAtYzg3MC00MGNlLTg3OGItNmRjYThkZGVlNzAyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.3",
+  "imdbID": "tt9376612",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:01.717Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Murder Mystery",
+  "year": "2019",
+  "rated": "PG-13",
+  "released": "14 Jun 2019",
+  "runtime": "97 min",
+  "genre": "Crime, Mystery, Romance",
+  "director": "Kyle Newacheck",
+  "writer": "James Vanderbilt",
+  "actors": "Adam Sandler, Jennifer Aniston, Luke Evans",
+  "plot": "A New York cop and his wife go on a European vacation to reinvigorate the spark in their marriage, but end up getting framed and on the run for the death of an elderly billionaire.",
+  "language": "English, French, Latin, Spanish",
+  "country": "United States, Italy, Canada",
+  "awards": "1 win & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzg4NDFjNmYtZjQxMy00MDY4LWEyZjUtYzRjNjNkNjJiZTZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "38/100"
+    }
+  ],
+  "metascore": "38",
+  "imdbRating": "6.1",
+  "imdbID": "tt1618434",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:49.427Z"
+}

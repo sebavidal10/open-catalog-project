@@ -1,0 +1,35 @@
+{
+  "title": "Thor",
+  "year": "2011",
+  "rated": "PG-13",
+  "released": "06 May 2011",
+  "runtime": "115 min",
+  "genre": "Action, Fantasy",
+  "director": "Kenneth Branagh",
+  "writer": "Ashley E. Miller, Zack Stentz, Don Payne",
+  "actors": "Chris Hemsworth, Anthony Hopkins, Natalie Portman",
+  "plot": "The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.",
+  "language": "English",
+  "country": "United States",
+  "awards": "5 wins & 30 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjRhNGZjZjEtYTQzYS00OWUxLThjNGEtMTIwMTE2ZDFlZTZkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "metascore": "57",
+  "imdbRating": "7.0",
+  "imdbID": "tt0800369",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:52.393Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Finding Dory",
+  "year": "2016",
+  "rated": "PG",
+  "released": "17 Jun 2016",
+  "runtime": "97 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Andrew Stanton, Angus MacLane",
+  "writer": "Andrew Stanton, Victoria Strouse",
+  "actors": "Ellen DeGeneres, Albert Brooks, Ed O'Neill",
+  "plot": "Friendly but forgetful blue tang Dory begins a search for her long-lost parents and everyone learns a few things about the real meaning of family along the way.",
+  "language": "English, Indonesian",
+  "country": "United States",
+  "awards": "Nominated for 1 BAFTA Award17 wins & 48 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2VlYWJjMGMtYjcwZC00MDE2LThmMDItYjVlMzNhYzBhYTk5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.2",
+  "imdbID": "tt2277860",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:18.555Z"
+}

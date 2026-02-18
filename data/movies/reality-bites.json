@@ -1,0 +1,35 @@
+{
+  "title": "Reality Bites",
+  "year": "1994",
+  "rated": "PG-13",
+  "released": "18 Feb 1994",
+  "runtime": "99 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Ben Stiller",
+  "writer": "Helen Childress",
+  "actors": "Winona Ryder, Ethan Hawke, Janeane Garofalo",
+  "plot": "A documentary filmmaker and her fellow Generation X graduates face life after college, looking for work and love in Houston.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmMwNWY5NTctYzUxNi00MTZkLWJhYWEtYjVkNDQ3ZTFiYjRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "61%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "6.6",
+  "imdbID": "tt0110950",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:16.543Z"
+}

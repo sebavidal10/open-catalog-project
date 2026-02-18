@@ -1,0 +1,35 @@
+{
+  "title": "Furious 7",
+  "year": "2015",
+  "rated": "PG-13",
+  "released": "03 Apr 2015",
+  "runtime": "137 min",
+  "genre": "Action, Thriller",
+  "director": "James Wan",
+  "writer": "Chris Morgan, Gary Scott Thompson",
+  "actors": "Vin Diesel, Paul Walker, Dwayne Johnson",
+  "plot": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
+  "language": "English, Thai, Arabic, Spanish",
+  "country": "United States, China, Japan, Canada, United Arab Emirates",
+  "awards": "36 wins & 36 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQxOTA2NDUzOV5BMl5BanBnXkFtZTgwNzY2MTMxMzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "7.1",
+  "imdbID": "tt2820852",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:37.262Z"
+}

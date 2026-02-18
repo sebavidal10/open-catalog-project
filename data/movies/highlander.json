@@ -1,0 +1,35 @@
+{
+  "title": "Highlander",
+  "year": "1986",
+  "rated": "R",
+  "released": "07 Mar 1986",
+  "runtime": "116 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Russell Mulcahy",
+  "writer": "Gregory Widen, Peter Bellwood, Larry Ferguson",
+  "actors": "Christopher Lambert, Sean Connery, Clancy Brown",
+  "plot": "An immortal Scottish swordsman must confront the last of his immortal opponents, a murderously brutal barbarian who lusts for the fabled \"Prize\".",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDUzODA3ZDctODM1MS00YzY0LWI1MzUtZTU0N2UzYjRhY2M3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "24/100"
+    }
+  ],
+  "metascore": "24",
+  "imdbRating": "7.0",
+  "imdbID": "tt0091203",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:04.784Z"
+}

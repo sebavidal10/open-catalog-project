@@ -1,0 +1,35 @@
+{
+  "title": "Terms of Endearment",
+  "year": "1983",
+  "rated": "PG",
+  "released": "09 Dec 1983",
+  "runtime": "132 min",
+  "genre": "Comedy, Drama",
+  "director": "James L. Brooks",
+  "writer": "Larry McMurtry, James L. Brooks",
+  "actors": "Shirley MacLaine, Debra Winger, Jack Nicholson",
+  "plot": "Widow Aurora Greenway juggles her own struggles with a new romantic interest while trying to sort out the emotional problems of her daughter who's married to a philandering husband.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 5 Oscars. 33 wins & 22 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk0ODM4NDk0MF5BMl5BanBnXkFtZTgwMTEzMDUxMDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.4",
+  "imdbID": "tt0086425",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:13.210Z"
+}

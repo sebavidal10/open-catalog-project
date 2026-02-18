@@ -1,0 +1,35 @@
+{
+  "title": "The Goonies",
+  "year": "1985",
+  "rated": "PG",
+  "released": "07 Jun 1985",
+  "runtime": "114 min",
+  "genre": "Adventure, Comedy, Family",
+  "director": "Richard Donner",
+  "writer": "Chris Columbus, Steven Spielberg",
+  "actors": "Sean Astin, Josh Brolin, Jeff Cohen",
+  "plot": "A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure.",
+  "language": "English, Spanish, Cantonese, Italian",
+  "country": "United States",
+  "awards": "4 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE1OWU4ODEtZmEzMC00NTcwLWFlMWUtYjhlNzExOTIxYzVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.7",
+  "imdbID": "tt0089218",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:56:30.845Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Fly",
+  "year": "1986",
+  "rated": "R",
+  "released": "15 Aug 1986",
+  "runtime": "96 min",
+  "genre": "Drama, Horror, Sci-Fi",
+  "director": "David Cronenberg",
+  "writer": "George Langelaan, Charles Edward Pogue, David Cronenberg",
+  "actors": "Jeff Goldblum, Geena Davis, John Getz",
+  "plot": "A botched experiment transmutes a man into a monstrous insect.",
+  "language": "English",
+  "country": "United States, Canada",
+  "awards": "Won 1 Oscar. 7 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTBlNTliNTItY2VhNS00MjA5LTllYzItMmQyNGRjYTAyZWQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.6",
+  "imdbID": "tt0091064",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:01.292Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Hulk",
+  "year": "2003",
+  "rated": "PG-13",
+  "released": "20 Jun 2003",
+  "runtime": "138 min",
+  "genre": "Action, Sci-Fi",
+  "director": "Ang Lee",
+  "writer": "Stan Lee, Jack Kirby, James Schamus",
+  "actors": "Eric Bana, Jennifer Connelly, Sam Elliott",
+  "plot": "Bruce Banner, a genetics researcher with a tragic past, suffers a lab accident that makes him transform into a raging, giant green monster when angered, making him a target of forces seeking to abuse his power.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "3 wins & 15 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTQxMmVlMTItMGFjYi00MTc2LWE5MzMtYjFhZWJmZGY0MTY5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "63%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "metascore": "54",
+  "imdbRating": "5.7",
+  "imdbID": "tt0286716",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:13.358Z"
+}

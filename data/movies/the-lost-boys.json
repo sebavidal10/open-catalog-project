@@ -1,0 +1,35 @@
+{
+  "title": "The Lost Boys",
+  "year": "1987",
+  "rated": "R",
+  "released": "31 Jul 1987",
+  "runtime": "97 min",
+  "genre": "Comedy, Horror",
+  "director": "Joel Schumacher",
+  "writer": "Jan Fischer, James Jeremias, Jeffrey Boam",
+  "actors": "Jason Patric, Corey Haim, Dianne Wiest",
+  "plot": "When a recently divorced mother and her two teenage boys move to a coastal town to stay with her father, it doesn't take long for the brothers to realize the area is a haven for something much more sinister than party-going surfers.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc4NzljMDQtMWYxMS00ZDIxLTkwY2ItMjZhMzIzNjQ4NDNkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "7.2",
+  "imdbID": "tt0093437",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:18.739Z"
+}

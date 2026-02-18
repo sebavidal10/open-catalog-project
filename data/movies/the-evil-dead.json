@@ -1,0 +1,35 @@
+{
+  "title": "The Evil Dead",
+  "year": "1981",
+  "rated": "NC-17",
+  "released": "15 Apr 1983",
+  "runtime": "85 min",
+  "genre": "Horror",
+  "director": "Sam Raimi",
+  "writer": "Sam Raimi",
+  "actors": "Bruce Campbell, Ellen Sandweiss, Richard DeManincor",
+  "plot": "Five friends travel to a cabin in the woods, where they unknowingly release flesh-possessing demons.",
+  "language": "English",
+  "country": "United States",
+  "awards": "5 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWRmZGQyYzgtNjA5OC00NGYzLTlhYWMtNzBhZTFlZGNjYWI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.4",
+  "imdbID": "tt0083907",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:06:49.487Z"
+}

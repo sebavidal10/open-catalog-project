@@ -1,0 +1,35 @@
+{
+  "title": "A League of Their Own",
+  "year": "1992",
+  "rated": "PG",
+  "released": "01 Jul 1992",
+  "runtime": "128 min",
+  "genre": "Comedy, Drama, Sport",
+  "director": "Penny Marshall",
+  "writer": "Kim Wilson, Kelly Candaele, Lowell Ganz",
+  "actors": "Tom Hanks, Geena Davis, Lori Petty",
+  "plot": "During World War II, sisters Dottie and Kit join the first female professional baseball league and struggle to help it succeed amid their own growing rivalry.",
+  "language": "English",
+  "country": "United States",
+  "awards": "6 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDgwZDJjNWQtMzBmNi00ZTNkLTk5NGQtMzE2ODJkZjUyYjRhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.4",
+  "imdbID": "tt0104694",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:36.704Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Chariots of Fire",
+  "year": "1981",
+  "rated": "PG",
+  "released": "09 Apr 1982",
+  "runtime": "125 min",
+  "genre": "Biography, Drama, Sport",
+  "director": "Hugh Hudson",
+  "writer": "Colin Welland",
+  "actors": "Ben Cross, Ian Charleson, Nicholas Farrell",
+  "plot": "Two British track athletes, one a determined Jew and the other a devout Christian, are driven to win in the 1924 Olympics as they wrestle with issues of pride and conscience.",
+  "language": "English, French",
+  "country": "United Kingdom",
+  "awards": "Won 4 Oscars. 18 wins & 19 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjkzZjFmZDEtNTliZi00MDcwLThjMTMtNmI5OGVmYjZjZDM1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.1",
+  "imdbID": "tt0082158",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:06:46.007Z"
+}

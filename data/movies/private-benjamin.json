@@ -1,0 +1,35 @@
+{
+  "title": "Private Benjamin",
+  "year": "1980",
+  "rated": "R",
+  "released": "10 Oct 1980",
+  "runtime": "109 min",
+  "genre": "Comedy, War",
+  "director": "Howard Zieff",
+  "writer": "Nancy Meyers, Charles Shyer, Harvey Miller",
+  "actors": "Goldie Hawn, Eileen Brennan, Armand Assante",
+  "plot": "A sheltered young high-society woman joins the United States Army on a whim and finds herself in a trickier situation than she ever expected.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 1 win & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNjkxMjUyMF5BMl5BanBnXkFtZTgwMzU0MjEyMDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "metascore": "59",
+  "imdbRating": "6.2",
+  "imdbID": "tt0081375",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:06:41.347Z"
+}

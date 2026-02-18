@@ -1,0 +1,35 @@
+{
+  "title": "Fast Times at Ridgemont High",
+  "year": "1982",
+  "rated": "R",
+  "released": "13 Aug 1982",
+  "runtime": "90 min",
+  "genre": "Comedy, Drama",
+  "director": "Amy Heckerling",
+  "writer": "Cameron Crowe",
+  "actors": "Sean Penn, Jennifer Jason Leigh, Judge Reinhold",
+  "plot": "A group of SoCal high school students would rather ignore their studies and instead indulge in their teenage distractions.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWM4NTc3N2YtMjk2Ny00MTRmLWE4YzItNTVhMTRlODVkNmE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "7.1",
+  "imdbID": "tt0083929",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:01.575Z"
+}

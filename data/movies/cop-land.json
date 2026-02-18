@@ -1,0 +1,35 @@
+{
+  "title": "Cop Land",
+  "year": "1997",
+  "rated": "R",
+  "released": "15 Aug 1997",
+  "runtime": "105 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "James Mangold",
+  "writer": "James Mangold",
+  "actors": "Sylvester Stallone, Harvey Keitel, Ray Liotta",
+  "plot": "The Sheriff of a suburban New Jersey community, populated by New York City police officers, slowly discovers the town is a front for mob connections and corruption.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWVjN2IzYjctMDRlNy00YzlhLTlmZmMtNWYxNzVjN2E2NDg2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "7.0",
+  "imdbID": "tt0118887",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:19.464Z"
+}

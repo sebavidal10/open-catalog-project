@@ -1,0 +1,35 @@
+{
+  "title": "Sneakers",
+  "year": "1992",
+  "rated": "PG-13",
+  "released": "11 Sep 1992",
+  "runtime": "126 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Phil Alden Robinson",
+  "writer": "Phil Alden Robinson, Lawrence Lasker, Walter F. Parkes",
+  "actors": "Robert Redford, Dan Aykroyd, Sidney Poitier",
+  "plot": "A security pro finds his past returning to haunt him when he and his unique team are tasked with retrieving a particularly important item.",
+  "language": "English, Russian, Chinese",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGEwMmZlMjgtNDc0MS00NmY1LTljMzQtMzBmNmE0OWRkNjViXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "7.1",
+  "imdbID": "tt0105435",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:40.181Z"
+}

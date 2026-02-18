@@ -1,0 +1,35 @@
+{
+  "title": "Shine",
+  "year": "1996",
+  "rated": "PG-13",
+  "released": "14 Feb 1997",
+  "runtime": "105 min",
+  "genre": "Biography, Drama, Music",
+  "director": "Scott Hicks",
+  "writer": "Jan Sardi, Scott Hicks",
+  "actors": "Geoffrey Rush, Armin Mueller-Stahl, Justin Braine",
+  "plot": "David Helfgott, a gifted pianist, struggles through childhood as his dysfunctional father abuses him and his siblings. Years later, he suffers a mental breakdown but manages to return as a legend.",
+  "language": "English, Yiddish",
+  "country": "Australia",
+  "awards": "Won 1 Oscar. 46 wins & 52 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODZlMjRmN2UtZmY1Yi00YjhjLTg4OTAtZmQxNWMwZTY5YjI4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.6",
+  "imdbID": "tt0117631",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:56.193Z"
+}

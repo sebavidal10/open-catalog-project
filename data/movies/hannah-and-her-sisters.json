@@ -1,0 +1,35 @@
+{
+  "title": "Hannah and Her Sisters",
+  "year": "1986",
+  "rated": "PG-13",
+  "released": "14 Mar 1986",
+  "runtime": "107 min",
+  "genre": "Comedy, Drama",
+  "director": "Woody Allen",
+  "writer": "Woody Allen",
+  "actors": "Mia Farrow, Dianne Wiest, Michael Caine",
+  "plot": "Between two Thanksgivings two years apart, Hannah's husband falls in love with her sister Lee, while her hypochondriac ex-husband rekindles his relationship with her sister Holly.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 27 wins & 28 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTdmOWViYWMtMjVjNC00MDI5LTk3ZmEtM2MxMzFkMzQ5NzNjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "7.8",
+  "imdbID": "tt0091167",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:57.801Z"
+}

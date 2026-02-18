@@ -1,0 +1,35 @@
+{
+  "title": "Kingdom of the Planet of the Apes",
+  "year": "2024",
+  "rated": "PG-13",
+  "released": "10 May 2024",
+  "runtime": "145 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Wes Ball",
+  "writer": "Josh Friedman, Rick Jaffa, Amanda Silver",
+  "actors": "Owen Teague, Freya Allan, Kevin Durand",
+  "plot": "Many years after the reign of Caesar, a young ape goes on a journey that will lead him to question everything he's been taught about the past and make choices that will define a future for apes and humans alike.",
+  "language": "English, American Sign ",
+  "country": "United States, Canada",
+  "awards": "Nominated for 1 Oscar. 4 wins & 62 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDRlZTc3YTItOTk3Yi00NmU4LWFiOGUtNjgwMDZjNjIzNTU1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "6.8",
+  "imdbID": "tt11389872",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:00:06.312Z"
+}

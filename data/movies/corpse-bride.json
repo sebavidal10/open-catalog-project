@@ -1,0 +1,35 @@
+{
+  "title": "Corpse Bride",
+  "year": "2005",
+  "rated": "PG",
+  "released": "23 Sep 2005",
+  "runtime": "77 min",
+  "genre": "Animation, Comedy, Drama",
+  "director": "Tim Burton, Mike Johnson",
+  "writer": "Tim Burton, Carlos Grangel, John August",
+  "actors": "Johnny Depp, Helena Bonham Carter, Emily Watson",
+  "plot": "When a shy groom practices his wedding vows in the inadvertent presence of a deceased young woman, she rises from the grave assuming he has married her.",
+  "language": "English",
+  "country": "United States, United Kingdom",
+  "awards": "Nominated for 1 Oscar. 9 wins & 30 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk1MTY1NjU4MF5BMl5BanBnXkFtZTcwNjIzMTEzMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.4",
+  "imdbID": "tt0121164",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:48.824Z"
+}

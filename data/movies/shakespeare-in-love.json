@@ -1,0 +1,35 @@
+{
+  "title": "Shakespeare in Love",
+  "year": "1998",
+  "rated": "R",
+  "released": "08 Jan 1999",
+  "runtime": "123 min",
+  "genre": "Comedy, Drama, History",
+  "director": "John Madden",
+  "writer": "Marc Norman, Tom Stoppard",
+  "actors": "Gwyneth Paltrow, Joseph Fiennes, Geoffrey Rush",
+  "plot": "History's greatest playwright is young, out of ideas and short of cash, but meets his ideal woman and is inspired to write one of his most famous plays.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Won 7 Oscars. 65 wins & 87 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmM3MTllNzYtN2MzNS00NWQwLTk0NTEtNjY1MmMwYjNkNTE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.1",
+  "imdbID": "tt0138097",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:28.879Z"
+}

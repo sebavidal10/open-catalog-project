@@ -1,0 +1,35 @@
+{
+  "title": "Weird Science",
+  "year": "1985",
+  "rated": "PG-13",
+  "released": "02 Aug 1985",
+  "runtime": "94 min",
+  "genre": "Comedy, Romance, Sci-Fi",
+  "director": "John Hughes",
+  "writer": "John Hughes, Al Feldstein, William M. Gaines",
+  "actors": "Anthony Michael Hall, Ilan Mitchell-Smith, Kelly LeBrock",
+  "plot": "Two high-school nerds use a computer program to literally create the perfect woman, who promptly turns their lives upside-down.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjI2N2Q4ZjEtZjMyNC00MDM5LTkxZTQtNzA4MTE1ZGQyYTgwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "46/100"
+    }
+  ],
+  "metascore": "46",
+  "imdbRating": "6.6",
+  "imdbID": "tt0090305",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:51.987Z"
+}

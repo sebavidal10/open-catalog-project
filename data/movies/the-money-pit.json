@@ -1,0 +1,35 @@
+{
+  "title": "The Money Pit",
+  "year": "1986",
+  "rated": "PG",
+  "released": "26 Mar 1986",
+  "runtime": "91 min",
+  "genre": "Comedy",
+  "director": "Richard Benjamin",
+  "writer": "David Giler",
+  "actors": "Tom Hanks, Shelley Long, Alexander Godunov",
+  "plot": "A young couple struggles to repair a hopelessly dilapidated house.",
+  "language": "English, Spanish, Chinese, Russian, Portuguese",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWMyMzliNDgtNDJiYy00ZDg2LTkwZGEtYjVmYmEyNTk2ZTFlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "metascore": "49",
+  "imdbRating": "6.4",
+  "imdbID": "tt0091541",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:08.263Z"
+}

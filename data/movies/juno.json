@@ -1,0 +1,35 @@
+{
+  "title": "Juno",
+  "year": "2007",
+  "rated": "PG-13",
+  "released": "25 Dec 2007",
+  "runtime": "96 min",
+  "genre": "Comedy, Drama",
+  "director": "Jason Reitman",
+  "writer": "Diablo Cody",
+  "actors": "Elliot Page, Michael Cera, Jennifer Garner",
+  "plot": "Faced with an unplanned pregnancy, an offbeat young woman makes a selfless decision regarding the unborn child.",
+  "language": "English, Spanish",
+  "country": "United States, Canada",
+  "awards": "Won 1 Oscar. 90 wins & 101 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIwMDgwODc5Nl5BMl5BanBnXkFtZTYwMjQzMDM4._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.4",
+  "imdbID": "tt0467406",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:13.966Z"
+}

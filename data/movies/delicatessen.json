@@ -1,0 +1,35 @@
+{
+  "title": "Delicatessen",
+  "year": "1991",
+  "rated": "R",
+  "released": "03 Apr 1992",
+  "runtime": "99 min",
+  "genre": "Comedy, Crime",
+  "director": "Marc Caro, Jean-Pierre Jeunet",
+  "writer": "Jean-Pierre Jeunet, Marc Caro, Gilles Adrien",
+  "actors": "Marie-Laure Dougnac, Dominique Pinon, Pascal Benezech",
+  "plot": "Post-apocalyptic surrealist black comedy about the landlord of an apartment building who occasionally prepares a delicacy for his odd tenants.",
+  "language": "French",
+  "country": "France",
+  "awards": "Nominated for 1 BAFTA Award15 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGM3ZjE4ZjMtOGIxNi00ODc3LWI2OGQtY2E5MDlkMjAwZWZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "7.5",
+  "imdbID": "tt0101700",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:26.082Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Jungle Book",
+  "year": "2016",
+  "rated": "PG",
+  "released": "15 Apr 2016",
+  "runtime": "106 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Jon Favreau",
+  "writer": "Justin Marks, Rudyard Kipling",
+  "actors": "Neel Sethi, Bill Murray, Ben Kingsley",
+  "plot": "After a threat from the tiger Shere Khan forces him to flee the jungle, a man-cub named Mowgli embarks on a journey of self discovery with the help of panther Bagheera and free-spirited bear Baloo.",
+  "language": "English",
+  "country": "United Kingdom, United States, New Zealand, France, Canada, India",
+  "awards": "Won 1 Oscar. 33 wins & 56 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc3NTUzNTI4MV5BMl5BanBnXkFtZTgwNjU0NjU5NzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.3",
+  "imdbID": "tt3040964",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:57.576Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Negotiator",
+  "year": "1998",
+  "rated": "R",
+  "released": "29 Jul 1998",
+  "runtime": "140 min",
+  "genre": "Action, Crime, Drama",
+  "director": "F. Gary Gray",
+  "writer": "James DeMonaco, Kevin Fox",
+  "actors": "Samuel L. Jackson, Kevin Spacey, David Morse",
+  "plot": "A police negotiator confronts a framed counterpart.",
+  "language": "English",
+  "country": "Germany, United States",
+  "awards": "2 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTBjZDM3NzctOGE2YS00NDZiLTk4ZWMtY2IwOWI5ZTE4ZDc0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.3",
+  "imdbID": "tt0120768",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:45.473Z"
+}

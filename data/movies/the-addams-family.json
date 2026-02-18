@@ -1,0 +1,35 @@
+{
+  "title": "The Addams Family",
+  "year": "1991",
+  "rated": "PG-13",
+  "released": "22 Nov 1991",
+  "runtime": "99 min",
+  "genre": "Comedy, Fantasy",
+  "director": "Barry Sonnenfeld",
+  "writer": "Charles Addams, Caroline Thompson, Larry Wilson",
+  "actors": "Anjelica Huston, Raul Julia, Christopher Lloyd",
+  "plot": "Con artists plan to fleece an eccentric family using an accomplice who claims to be their long-lost uncle.",
+  "language": "English, Italian, French",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 5 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWY0MzVlNGEtYzM1MC00OTI4LWE3ZTQtNWJjYzk2Y2MyNjVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "metascore": "57",
+  "imdbRating": "7.0",
+  "imdbID": "tt0101272",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:09:19.122Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Mask of Zorro",
+  "year": "1998",
+  "rated": "PG-13",
+  "released": "17 Jul 1998",
+  "runtime": "136 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Martin Campbell",
+  "writer": "Johnston McCulley, Ted Elliott, Terry Rossio",
+  "actors": "Antonio Banderas, Anthony Hopkins, Catherine Zeta-Jones",
+  "plot": "A young thief seeking revenge for his brother's death is trained by the once-great, aging Zorro, who is pursuing his own vengeance.",
+  "language": "English",
+  "country": "United States, Mexico, Germany",
+  "awards": "Nominated for 2 Oscars. 9 wins & 18 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzA2MDgyYzMtNjc4OC00YjU0LWEzMWEtOTRhMTViODY0Mjk0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "6.8",
+  "imdbID": "tt0120746",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:50.115Z"
+}

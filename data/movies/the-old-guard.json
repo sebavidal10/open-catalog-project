@@ -1,0 +1,35 @@
+{
+  "title": "The Old Guard",
+  "year": "2020",
+  "rated": "R",
+  "released": "10 Jul 2020",
+  "runtime": "125 min",
+  "genre": "Action, Thriller",
+  "director": "Gina Prince-Bythewood",
+  "writer": "Greg Rucka, Leandro Fernandez",
+  "actors": "Charlize Theron, KiKi Layne, Matthias Schoenaerts",
+  "plot": "A covert group of tight-knit mercenaries with an inability to die have fought to protect the world for centuries. But when their abilities are suddenly exposed, they need to eliminate the threat of those who seek to replicate thei...",
+  "language": "English, Arabic, French, Italian",
+  "country": "United States, United Kingdom, Morocco",
+  "awards": "5 wins & 24 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzMwNjVjNTEtZDVhOC00NzQzLTg0MGYtMGI1Yzc0Nzg2MjNmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "6.7",
+  "imdbID": "tt7556122",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:42.449Z"
+}

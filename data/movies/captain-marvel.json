@@ -1,0 +1,35 @@
+{
+  "title": "Captain Marvel",
+  "year": "2019",
+  "rated": "PG-13",
+  "released": "08 Mar 2019",
+  "runtime": "123 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Anna Boden, Ryan Fleck",
+  "writer": "Anna Boden, Ryan Fleck, Geneva Robertson-Dworet",
+  "actors": "Brie Larson, Samuel L. Jackson, Ben Mendelsohn",
+  "plot": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+  "language": "English",
+  "country": "United States, Australia",
+  "awards": "10 wins & 56 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDI1NGU2ODAtNzBiNy00MWY5LWIyMGEtZjUxZjUwZmZiNjBlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "6.7",
+  "imdbID": "tt4154664",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:57:59.383Z"
+}

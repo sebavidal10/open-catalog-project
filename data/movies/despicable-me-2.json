@@ -1,0 +1,35 @@
+{
+  "title": "Despicable Me 2",
+  "year": "2013",
+  "rated": "PG",
+  "released": "03 Jul 2013",
+  "runtime": "98 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Pierre Coffin, Chris Renaud",
+  "writer": "Cinco Paul, Ken Daurio",
+  "actors": "Steve Carell, Kristen Wiig, Benjamin Bratt",
+  "plot": "When a new criminal comes to town, the Anti-Villain League decides to hire Gru in order to fight him off. While Gru initially refuses, he eventually agrees after his aide goes back to his evil ways.",
+  "language": "English, Ukrainian",
+  "country": "United States, France, Japan",
+  "awards": "Nominated for 2 Oscars. 12 wins & 66 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQxNzY1MjI5NF5BMl5BanBnXkFtZTcwNTI0MDY1OQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.3",
+  "imdbID": "tt1690953",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:08.069Z"
+}

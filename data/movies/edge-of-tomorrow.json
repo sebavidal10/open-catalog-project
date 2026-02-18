@@ -1,0 +1,35 @@
+{
+  "title": "Edge of Tomorrow",
+  "year": "2014",
+  "rated": "PG-13",
+  "released": "06 Jun 2014",
+  "runtime": "113 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Doug Liman",
+  "writer": "Christopher McQuarrie, Jez Butterworth, John-Henry Butterworth",
+  "actors": "Tom Cruise, Emily Blunt, Bill Paxton",
+  "plot": "A man fighting in a war against aliens must relive the same day every time he dies until he can find a way to stop their power source with the help of an elite soldier.",
+  "language": "English",
+  "country": "United States, Canada, India, Australia",
+  "awards": "11 wins & 38 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.9",
+  "imdbID": "tt1631867",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:23.823Z"
+}

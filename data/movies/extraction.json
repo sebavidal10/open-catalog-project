@@ -1,0 +1,35 @@
+{
+  "title": "Extraction",
+  "year": "2020",
+  "rated": "R",
+  "released": "24 Apr 2020",
+  "runtime": "116 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Sam Hargrave",
+  "writer": "Joe Russo, Ande Parks, Anthony Russo",
+  "actors": "Chris Hemsworth, Bryon Lerum, Ryder Lerum",
+  "plot": "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord.",
+  "language": "English, Hindi, Bengali",
+  "country": "United States, India, Thailand, Australia, Canada, Bangladesh",
+  "awards": "4 wins & 15 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDBhMmI3OWYtZTA2Ny00Y2RjLTliMWQtYWY5MGIwN2RlZGFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "metascore": "56",
+  "imdbRating": "6.8",
+  "imdbID": "tt8936646",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:37.794Z"
+}

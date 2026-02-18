@@ -1,0 +1,35 @@
+{
+  "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+  "year": "2007",
+  "rated": "R",
+  "released": "21 Dec 2007",
+  "runtime": "116 min",
+  "genre": "Drama, Horror, Musical",
+  "director": "Tim Burton",
+  "writer": "John Logan, Hugh Wheeler, Christopher Bond",
+  "actors": "Johnny Depp, Helena Bonham Carter, Alan Rickman",
+  "plot": "The legendary tale of a barber who returns from wrongful imprisonment to 1840s London, bent on revenge for the rape and death of his wife, and resumes his trade while forming a sinister partnership with his fellow tenant, Mrs. Lov...",
+  "language": "English, Italian",
+  "country": "United Kingdom, United States",
+  "awards": "Won 1 Oscar. 34 wins & 77 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg3NjUxMzM5NV5BMl5BanBnXkFtZTcwMzQ1NjQzMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.3",
+  "imdbID": "tt0408236",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:59:52.317Z"
+}

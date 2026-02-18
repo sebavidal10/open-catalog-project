@@ -1,0 +1,35 @@
+{
+  "title": "Predators",
+  "year": "2010",
+  "rated": "R",
+  "released": "09 Jul 2010",
+  "runtime": "107 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Nimród Antal",
+  "writer": "Alex Litvak, Michael Finch, Jim Thomas",
+  "actors": "Adrien Brody, Laurence Fishburne, Topher Grace",
+  "plot": "A group of elite warriors parachute into an unfamiliar jungle and are hunted by members of a merciless alien race.",
+  "language": "English, Spanish, Russian",
+  "country": "United States",
+  "awards": "2 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODNhMWY0MDQtNjgwZC00YjM3LWEwMDItMWM3MTg4ZjA5ODgwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "65%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "6.4",
+  "imdbID": "tt1424381",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:00:08.644Z"
+}

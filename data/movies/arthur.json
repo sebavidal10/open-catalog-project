@@ -1,0 +1,35 @@
+{
+  "title": "Arthur",
+  "year": "1981",
+  "rated": "PG",
+  "released": "17 Jul 1981",
+  "runtime": "97 min",
+  "genre": "Comedy, Romance",
+  "director": "Steve Gordon",
+  "writer": "Steve Gordon",
+  "actors": "Dudley Moore, Liza Minnelli, John Gielgud",
+  "plot": "Alcoholic billionaire playboy Arthur Bach must marry a woman he does not love, or he will be cut off from his $750,000,000 fortune. But when Arthur falls in love with a poor waitress, he must decide if he wants to choose love or m...",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 12 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWRhYzc3MDktOGY0My00NmE0LWE0OWEtNTFkMmVhMWFmNDE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "6.9",
+  "imdbID": "tt0082031",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:06:47.163Z"
+}

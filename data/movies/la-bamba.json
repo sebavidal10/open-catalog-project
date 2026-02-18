@@ -1,0 +1,35 @@
+{
+  "title": "La Bamba",
+  "year": "1987",
+  "rated": "PG-13",
+  "released": "24 Jul 1987",
+  "runtime": "108 min",
+  "genre": "Biography, Drama, Music",
+  "director": "Luis Valdez",
+  "writer": "Luis Valdez",
+  "actors": "Lou Diamond Phillips, Esai Morales, Rosanna DeSoto",
+  "plot": "Biographical story of the rise from nowhere of early rock and roll singer Ritchie Valens who died at age 17 in a plane crash with Buddy Holly and The Big Bopper.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "3 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjFiYWM4YjItNzcwMC00NWRkLWJlN2ItMDhhNWRlNDZkNWQ3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "7.0",
+  "imdbID": "tt0093378",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:08:24.704Z"
+}

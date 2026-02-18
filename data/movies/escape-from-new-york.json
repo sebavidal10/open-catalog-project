@@ -1,0 +1,35 @@
+{
+  "title": "Escape from New York",
+  "year": "1981",
+  "rated": "R",
+  "released": "10 Jul 1981",
+  "runtime": "99 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "John Carpenter",
+  "writer": "John Carpenter, Nick Castle",
+  "actors": "Kurt Russell, Lee Van Cleef, Ernest Borgnine",
+  "plot": "In a dystopian 1997, a soldier-turned-bank robber is tasked with rescuing the U.S. President after he crashes into Manhattan, which has been turned into a giant maximum security prison.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUzMTY0Nzg0MV5BMl5BanBnXkFtZTgwMDU3MzQxMDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.1",
+  "imdbID": "tt0082340",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:06:50.649Z"
+}

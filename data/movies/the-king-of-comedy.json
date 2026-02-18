@@ -1,0 +1,35 @@
+{
+  "title": "The King of Comedy",
+  "year": "1982",
+  "rated": "PG",
+  "released": "18 Dec 1982",
+  "runtime": "109 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Martin Scorsese",
+  "writer": "Paul D. Zimmerman",
+  "actors": "Robert De Niro, Jerry Lewis, Diahnne Abbott",
+  "plot": "Rupert is an aspiring stand-up comedian, who is willing to go the extra mile in his attempt to appear in the late night show hosted by his idol.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 BAFTA Award3 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTQxNGUwNmUtMDJhYy00ZjM1LWFjZjQtYmI5ZGY4YTZmZWQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.8",
+  "imdbID": "tt0085794",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:07.401Z"
+}

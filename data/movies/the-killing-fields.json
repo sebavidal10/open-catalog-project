@@ -1,0 +1,35 @@
+{
+  "title": "The Killing Fields",
+  "year": "1984",
+  "rated": "R",
+  "released": "01 Feb 1985",
+  "runtime": "141 min",
+  "genre": "Biography, Drama, History",
+  "director": "Roland Joffé",
+  "writer": "Bruce Robinson",
+  "actors": "Sam Waterston, Haing S. Ngor, John Malkovich",
+  "plot": "A journalist is trapped in Cambodia during Pol Pot's bloody Year Zero cleansing campaign.",
+  "language": "English, French, Central Khmer, Russian",
+  "country": "United Kingdom",
+  "awards": "Won 3 Oscars. 28 wins & 24 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWFiNThiZjUtMzMxZS00MmY5LWE3NzYtYjU5NjAwOTEwZGMyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.8",
+  "imdbID": "tt0087553",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:42.362Z"
+}

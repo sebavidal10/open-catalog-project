@@ -1,0 +1,35 @@
+{
+  "title": "The English Patient",
+  "year": "1996",
+  "rated": "R",
+  "released": "06 Dec 1996",
+  "runtime": "162 min",
+  "genre": "Drama, Romance, War",
+  "director": "Anthony Minghella",
+  "writer": "Michael Ondaatje, Anthony Minghella",
+  "actors": "Ralph Fiennes, Juliette Binoche, Willem Dafoe",
+  "plot": "At the close of World War II, a young nurse tends to a badly burned plane crash victim. His past is shown in flashbacks, revealing an involvement in a fateful love affair.",
+  "language": "English, German, Italian, Arabic",
+  "country": "United States, United Kingdom",
+  "awards": "Won 9 Oscars. 62 wins & 78 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODg0NjdiN2UtZWY3MS00M2JmLTg1MDAtY2ZiNzNiMzAzYWFmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.4",
+  "imdbID": "tt0116209",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:46.927Z"
+}

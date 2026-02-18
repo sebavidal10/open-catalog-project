@@ -1,0 +1,35 @@
+{
+  "title": "A Simple Plan",
+  "year": "1998",
+  "rated": "R",
+  "released": "22 Jan 1999",
+  "runtime": "121 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Sam Raimi",
+  "writer": "Scott B. Smith",
+  "actors": "Bill Paxton, Billy Bob Thornton, Bridget Fonda",
+  "plot": "Two brothers and a friend, all blue-collar workers, come across millions of dollars in lost cash and make a plan to keep their find from the authorities, but it isn't long before complications and mistrust weave their way into the...",
+  "language": "English",
+  "country": "United Kingdom, France, Germany, Japan, United States",
+  "awards": "Nominated for 2 Oscars. 16 wins & 24 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2RiZGE0MGYtMmUxZS00NjZhLWJmNGEtMDNlN2RmMGFmOGJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.5",
+  "imdbID": "tt0120324",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:11:35.020Z"
+}

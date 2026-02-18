@@ -1,0 +1,35 @@
+{
+  "title": "Paris, Texas",
+  "year": "1984",
+  "rated": "R",
+  "released": "23 Aug 1984",
+  "runtime": "145 min",
+  "genre": "Drama",
+  "director": "Wim Wenders",
+  "writer": "L.M. Kit Carson, Sam Shepard, Walter Donohue",
+  "actors": "Harry Dean Stanton, Nastassja Kinski, Dean Stockwell",
+  "plot": "Travis Henderson, an aimless drifter who has been missing for four years, wanders out of the desert and must reconnect with society, himself, his life, and his family.",
+  "language": "English, Spanish",
+  "country": "West Germany, France, United Kingdom",
+  "awards": "Won 1 BAFTA Award16 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWY5YzE4YmUtZWFhMS00YjYxLWI5ZGUtNDEyNmMzNDVjMGEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "8.1",
+  "imdbID": "tt0087884",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:28.428Z"
+}

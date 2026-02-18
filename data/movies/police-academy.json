@@ -1,0 +1,35 @@
+{
+  "title": "Police Academy",
+  "year": "1984",
+  "rated": "R",
+  "released": "23 Mar 1984",
+  "runtime": "96 min",
+  "genre": "Comedy",
+  "director": "Hugh Wilson",
+  "writer": "Neal Israel, Pat Proft, Hugh Wilson",
+  "actors": "Steve Guttenberg, Kim Cattrall, G.W. Bailey",
+  "plot": "The mayor declares that anyone can enroll in the police academy irrespective of their physical condition or education level, and many misfits descend on the academy, including a young troublemaker who's forced to apply or go to jail.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmY2Zjk3ZmYtZGQwYS00NGM4LTk1MWMtZjI4MmRkNmM2ZDYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "58%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "41/100"
+    }
+  ],
+  "metascore": "41",
+  "imdbRating": "6.7",
+  "imdbID": "tt0087928",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:07:30.746Z"
+}

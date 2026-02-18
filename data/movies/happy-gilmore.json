@@ -1,0 +1,35 @@
+{
+  "title": "Happy Gilmore",
+  "year": "1996",
+  "rated": "PG-13",
+  "released": "16 Feb 1996",
+  "runtime": "92 min",
+  "genre": "Comedy, Sport",
+  "director": "Dennis Dugan",
+  "writer": "Tim Herlihy, Adam Sandler",
+  "actors": "Adam Sandler, Christopher McDonald, Julie Bowen",
+  "plot": "After his grandmother's house is repossessed by the IRS, a bad tempered hockey player takes his talents to golf to earn the big bucks and get his grandmothers house back.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzMyZTM1MTMtNDdjOS00NzIzLTkxY2QtZTU4OGYxOTUwNDMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "65%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "31/100"
+    }
+  ],
+  "metascore": "31",
+  "imdbRating": "7.0",
+  "imdbID": "tt0116483",
+  "type": "movie",
+  "fetched_at": "2026-02-18T22:10:50.408Z"
+}

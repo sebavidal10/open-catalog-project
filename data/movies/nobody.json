@@ -1,0 +1,35 @@
+{
+  "title": "Nobody",
+  "year": "2021",
+  "rated": "R",
+  "released": "26 Mar 2021",
+  "runtime": "92 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Ilya Naishuller",
+  "writer": "Derek Kolstad",
+  "actors": "Bob Odenkirk, Aleksey Serebryakov, Connie Nielsen",
+  "plot": "A docile family man slowly reveals his true character after his house gets burgled by two petty thieves, which, coincidentally, leads him into a bloody war with a Russian crime boss.",
+  "language": "English, Russian, Spanish",
+  "country": "United States, China, Japan",
+  "awards": "5 wins & 18 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmIzOWViNDEtOWRiZS00ZWM4LWFiMmEtNGJjMmQ3NTIxN2U0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "7.4",
+  "imdbID": "tt7888964",
+  "type": "movie",
+  "fetched_at": "2026-02-18T21:58:33.135Z"
+}
