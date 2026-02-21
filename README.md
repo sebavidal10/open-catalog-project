@@ -142,7 +142,23 @@ El script detecta automáticamente si una película ya existe con el mismo títu
 
 ---
 
-## 👨‍💻 4. Desarrollo
+## 🔍 4. Sistema de Índices
+
+Para facilitar la búsqueda por título en aplicaciones externas (como `boveda-api`), este proyecto genera índices JSON automáticos.
+
+### Generar índices
+
+Si has añadido contenido manualmente o mediante los scripts, ejecuta:
+
+```bash
+node scripts/generate-index.js
+```
+
+Esto actualizará los archivos `index.json` en las carpetas de `data/movies/`, `data/books/` y `data/comics/`.
+
+---
+
+## 👨‍💻 5. Desarrollo
 
 Si quieres colaborar con código:
 

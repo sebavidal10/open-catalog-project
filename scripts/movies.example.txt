@@ -1,3 +1,0 @@
-# Add movie titles and year here, one per line.
-# Example:
-# Inception (2010)
