@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "lint": "eslint .",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "test": "vitest run"
   },
   "keywords": [],
   "author": "",

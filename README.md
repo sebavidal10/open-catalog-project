@@ -89,11 +89,40 @@ fetch(
 
 ## 🤝 2. Cómo contribuir
 
-Este catálogo crece con los aportes de todos. Actualmente, los items nuevos son registrados automáticamente por la API de Bóveda cuando no se encuentran resultados, y se agregan manualmente al repositorio.
+Este catálogo crece de dos formas:
+
+1.  **Sincronización Automática:** La API de Bóveda envía automáticamente nuevos items encontrados en librerías externas (como OpenLibrary) al **Receiver Server**.
+2.  **Manual:** Agregando archivos JSON directamente al repositorio y regenerando índices.
 
 ---
 
-## 🛠️ 3. Setup Técnico
+## 🚀 3. Receiver Server (Sync API)
+
+El proyecto incluye un servidor Express (`server.js`) diseñado para recibir nuevos items desde el backend de Bóveda de forma segura.
+
+### Requisitos locales
+
+- Node.js 18+
+- Variables de entorno:
+  - `CATALOG_API_KEY`: Clave secreta para autorizar peticiones (debe coincidir con la del backend).
+  - `PORT`: Puerto de escucha (default: `3001`).
+
+### Ejecución
+
+```bash
+# Copia el ejemplo de env
+cp .env.example .env
+# Inicia el servidor
+node server.js
+```
+
+### Endpoints
+
+- **POST `/items?type=[BOOK|COMIC|MOVIE]`**: Guarda un nuevo item y regenera el índice automáticamente. Requiere header `x-api-key`.
+
+---
+
+## 🛠️ 4. Setup Técnico
 
 Si vas a hacer un **Fork** para tener tu propia versión:
 
