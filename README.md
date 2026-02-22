@@ -87,16 +87,9 @@ fetch(
 
 ---
 
-## 🤝 2. Cómo contribuir (Vía Issues)
+## 🤝 2. Cómo contribuir
 
-Este catálogo crece con los aportes de todos. Si quieres agregar algo:
-
-1. Ve a la pestaña de **Issues**.
-2. Abre uno nuevo usando este formato en el título:
-3. - `add-book: [ISBN]` (Ej: `add-book: 9780141036144`)
-4. - `add-movie: [Título]` (Ej: `add-movie: Interstellar` o `add-movie: The Matrix (1999)`)
-5. - `add-comic: [ISBN]` (Ej: `add-comic: 9781302915544`)
-6. Una vez aprobado por un moderador (etiqueta `approved`), el bot lo agregará automáticamente al catálogo.
+Este catálogo crece con los aportes de todos. Actualmente, los items nuevos son registrados automáticamente por la API de Bóveda cuando no se encuentran resultados, y se agregan manualmente al repositorio.
 
 ---
 
@@ -105,46 +98,7 @@ Este catálogo crece con los aportes de todos. Si quieres agregar algo:
 Si vas a hacer un **Fork** para tener tu propia versión:
 
 1. **Instala dependencias:** `npm install`
-2. **API Key:** Consigue una clave gratuita en [omdbapi.com](http://www.omdbapi.com/). Es **fundamental** para que las películas funcionen.
-3. **Secrets:** En tu repo, ve a `Settings > Secrets > Actions` y guarda tu clave como `OMDB_API_KEY`.
-4. **GitHub Pages:** Ve a `Settings > Pages`. En **Source**, selecciona **GitHub Actions**. El workflow incluido (`deploy.yml`) se encargará del resto.
-
-Para probar los scripts manualmente:
-
-```bash
-export OMDB_API_KEY="tu_clave"
-node scripts/fetch-book.js 9780141187761
-node scripts/fetch-movie.js "Inception"
-node scripts/fetch-comic.js 9781302915544
-```
-
-### Importación Masiva (Películas)
-
-1. Edita el archivo `scripts/movies.txt` con los títulos (y año opcional) uno por línea.
-   - Este archivo es ignorado por git, así que puedes poner tu lista personal sin miedo.
-   - Puedes ver un ejemplo en `scripts/movies.example.txt`.
-
-2. Ejecuta el script:
-
-```bash
-node scripts/bulk-fetch-movies.js
-```
-
-Si prefieres usar otro archivo, pasa la ruta como argumento:
-
-```bash
-node scripts/bulk-fetch-movies.js ruta/a/tu/lista.txt
-```
-
-### Manejo de Colisiones (Nombres Repetidos)
-
-El script detecta automáticamente si una película ya existe con el mismo título. Si son películas diferentes (distinto año o ID), creará un nuevo archivo agregando el año al nombre (ej. `point-break-2015.json`).
-
----
-
-## 🔍 4. Sistema de Índices
-
-Para facilitar la búsqueda por título en aplicaciones externas (como `boveda-api`), este proyecto genera índices JSON automáticos.
+2. **GitHub Pages:** Ve a `Settings > Pages`. En **Source**, selecciona **GitHub Actions**. El workflow incluido (`deploy.yml`) se encargará del resto.
 
 ### Generar índices
 
