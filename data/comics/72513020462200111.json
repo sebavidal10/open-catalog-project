@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "72513020462200111",
+  "title": "(Classic) Battlestar Galactica #1",
+  "authors": [
+    "Alex Ross",
+    "Andy Lanning",
+    "Cezar Razek",
+    "Chris Eliopoulos",
+    "Dan Abnett",
+    "Simon Bowland",
+    "Vinicius Townsend"
+  ],
+  "publish_date": "2013-05-15",
+  "publisher": [
+    "Dynamite Entertainment"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/12/05/123991af47694d7c8d8354a2adf44ebd.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/158228/",
+  "fetched_at": "2026-02-28T19:59:09.108Z"
+}

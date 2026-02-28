@@ -1,24 +1,26 @@
-export function cleanComicData(isbn, data) {
-  const bookKey = `ISBN:${isbn}`;
-  const comicData = data[bookKey];
+export function cleanComicData(data) {
+  const issue = data;
 
-  if (!comicData) {
-    throw new Error(`Comic with ISBN ${isbn} not found.`);
+  if (!issue || !issue.id) {
+    throw new Error('Invalid comic data received from Metron');
   }
 
+  // Legacy structure requirements:
+  // title, authors (array), publish_date, publisher (array), pages (number),
+  // cover (string), subjects (array), url (string), fetched_at (ISO string)
+  // Optional but preferred: isbn, upc
+
   return {
-    isbn,
-    title: comicData.title,
-    authors: comicData.authors?.map((a) => a.name) || [],
-    publish_date: comicData.publish_date,
-    publisher: comicData.publishers?.map((p) => p.name) || [],
-    pages: comicData.number_of_pages,
-    cover:
-      comicData.cover?.large ||
-      comicData.cover?.medium ||
-      comicData.cover?.small,
-    subjects: comicData.subjects?.map((s) => s.name) || [],
-    url: comicData.url,
+    isbn: issue.isbn || null,
+    upc: issue.upc || null,
+    title: `${issue.series.name} #${issue.number}`,
+    authors: issue.credits?.map((c) => c.creator) || [],
+    publish_date: issue.store_date || issue.cover_date || 'Unknown',
+    publisher: issue.publisher?.name ? [issue.publisher.name] : [],
+    pages: issue.page_count || 0,
+    cover: issue.image || '',
+    subjects: issue.genres?.map((g) => g.name) || [],
+    url: `https://metron.cloud/issue/${issue.id}/`,
     fetched_at: new Date().toISOString(),
   };
 }

@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194121787100211",
+  "title": "100 Bullets #2",
+  "authors": [
+    "Axel Alonso",
+    "Brian Azzarello",
+    "Clem Robins",
+    "Dave Johnson",
+    "Digital Chameleon",
+    "Eduardo Risso",
+    "Grant Goleash"
+  ],
+  "publish_date": "1999-07-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/19/100-bullets-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/32657/",
+  "fetched_at": "2026-02-28T20:01:04.362Z"
+}

@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194134457700711",
+  "title": "All Star Batman #7",
+  "authors": [
+    "Dave Wielgosz",
+    "Francesco Francavilla",
+    "Mark Doyle",
+    "Rebecca Taylor",
+    "Scott Snyder",
+    "Steve Wands",
+    "Tula Lotay"
+  ],
+  "publish_date": "2017-02-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/05/all-star-batman-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/36085/",
+  "fetched_at": "2026-02-28T20:05:54.286Z"
+}

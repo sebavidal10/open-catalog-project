@@ -27,8 +27,12 @@ async function generateIndex() {
           return {
             title: content.title,
             slug: file.replace('.json', ''),
-            // Include ISBN if it exists (for books/comics)
-            identifier: content.isbn || file.replace('.json', ''),
+            // Include ISBN or UPC if it exists (for books/comics)
+            identifier:
+              content.isbn ||
+              content.upc ||
+              content.id ||
+              file.replace('.json', ''),
           };
         } catch (err) {
           console.error(`Error reading ${file}:`, err.message);

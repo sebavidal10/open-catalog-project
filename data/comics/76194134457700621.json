@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134457700621",
+  "title": "All Star Batman #6",
+  "authors": [
+    "Dave Wielgosz",
+    "Francesco Francavilla",
+    "Jock",
+    "Mark Doyle",
+    "Matt Hollingsworth",
+    "Rebecca Taylor",
+    "Scott Snyder",
+    "Steve Wands"
+  ],
+  "publish_date": "2017-01-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/05/all-star-batman-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/36084/",
+  "fetched_at": "2026-02-28T20:05:51.182Z"
+}

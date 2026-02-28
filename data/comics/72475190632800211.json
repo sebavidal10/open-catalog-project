@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "72475190632800211",
+  "title": "The 06 Protocol #2",
+  "authors": [
+    "Andy Clarke",
+    "Cardinal Rae",
+    "Cliff Richards",
+    "Joe Pruett",
+    "José Villarrubia",
+    "Lee Turner",
+    "Matt Herms",
+    "Mike Marts",
+    "Rus Wooton",
+    "Teodoro Leo"
+  ],
+  "publish_date": "2022-11-23",
+  "publisher": [
+    "AfterShock Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/09/19/6-protocol-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/52530/",
+  "fetched_at": "2026-02-28T20:00:42.452Z"
+}
