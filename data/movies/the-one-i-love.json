@@ -1,0 +1,35 @@
+{
+  "title": "The One I Love",
+  "year": "2014",
+  "rated": "R",
+  "released": "08 Aug 2014",
+  "runtime": "91 min",
+  "genre": "Comedy, Drama, Fantasy",
+  "director": "Charlie McDowell",
+  "writer": "Justin Lader",
+  "actors": "Mark Duplass, Elisabeth Moss, Ted Danson",
+  "plot": "A troubled couple vacate to a beautiful getaway, but bizarre circumstances further complicate their situation.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgzODMyMjcyOV5BMl5BanBnXkFtZTgwMTAyMjMyMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "7.0",
+  "imdbID": "tt2756032",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:26.069Z"
+}

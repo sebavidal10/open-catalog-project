@@ -2,16 +2,9 @@
   "isbn": null,
   "upc": "70985300443100111",
   "title": "'68 #1",
-  "authors": [
-    "Jason William Hanley",
-    "Jay Fotos",
-    "Mark Kidwell",
-    "Nat Jones"
-  ],
+  "authors": ["Jason William Hanley", "Jay Fotos", "Mark Kidwell", "Nat Jones"],
   "publish_date": "2006-12-01",
-  "publisher": [
-    "Image Comics"
-  ],
+  "publisher": ["Image Comics"],
   "pages": 0,
   "cover": "https://static.metron.cloud/media/issue/2023/12/02/395d1af45859497183f0b868485831aa.jpg",
   "subjects": [],

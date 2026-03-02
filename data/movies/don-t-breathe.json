@@ -1,0 +1,35 @@
+{
+  "title": "Don't Breathe",
+  "year": "2016",
+  "rated": "R",
+  "released": "26 Aug 2016",
+  "runtime": "88 min",
+  "genre": "Crime, Horror, Thriller",
+  "director": "Fede Alvarez",
+  "writer": "Fede Alvarez, Rodo Sayagues",
+  "actors": "Stephen Lang, Jane Levy, Dylan Minnette",
+  "plot": "Three delinquents break into the house of a war veteran who is blind to steal his money. However, they discover that the man is not as defenseless as he seems.",
+  "language": "English",
+  "country": "United States, Hungary",
+  "awards": "7 wins & 21 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjAxOTJkMmEtNjg4MC00ODk3LTkwYmUtNjM3YzE5YTk1YTFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.1",
+  "imdbID": "tt4160708",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:36.611Z"
+}

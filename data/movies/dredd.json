@@ -1,0 +1,35 @@
+{
+  "title": "Dredd",
+  "year": "2012",
+  "rated": "R",
+  "released": "21 Sep 2012",
+  "runtime": "95 min",
+  "genre": "Action, Crime, Sci-Fi",
+  "director": "Pete Travis",
+  "writer": "John Wagner, Carlos Ezquerra, Alex Garland",
+  "actors": "Karl Urban, Olivia Thirlby, Lena Headey",
+  "plot": "In a violent, futuristic metropolis, a law enforcement and his rookie trainee become caught up in a high-stakes drug war.",
+  "language": "English",
+  "country": "United Kingdom, South Africa, United States, India",
+  "awards": "2 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODkyNDQzMzUzOF5BMl5BanBnXkFtZTcwODYyMDEyOA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "7.1",
+  "imdbID": "tt1343727",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:07.450Z"
+}

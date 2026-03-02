@@ -1,0 +1,35 @@
+{
+  "title": "Elite Squad",
+  "year": "2007",
+  "rated": "R",
+  "released": "12 Oct 2007",
+  "runtime": "115 min",
+  "genre": "Action, Crime, Drama",
+  "director": "José Padilha",
+  "writer": "José Padilha, Rodrigo Pimentel, Bráulio Mantovani",
+  "actors": "Wagner Moura, André Ramiro, Caio Junqueira",
+  "plot": "In 1997 Rio de Janeiro, Captain Nascimento has to find a substitute for his position while trying to take down drug dealers and criminals before the Pope visits.",
+  "language": "Portuguese",
+  "country": "Brazil, Argentina",
+  "awards": "47 wins & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjU3Yzk3NzctYWNiNy00YWMzLThiOGItODc3NmEzODBkYjRmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "51%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "33/100"
+    }
+  ],
+  "metascore": "33",
+  "imdbRating": "8.0",
+  "imdbID": "tt0861739",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:05.785Z"
+}

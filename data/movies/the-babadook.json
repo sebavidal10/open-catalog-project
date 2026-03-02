@@ -1,0 +1,35 @@
+{
+  "title": "The Babadook",
+  "year": "2014",
+  "rated": "Not Rated",
+  "released": "28 Nov 2014",
+  "runtime": "94 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Jennifer Kent",
+  "writer": "Jennifer Kent",
+  "actors": "Essie Davis, Noah Wiseman, Daniel Henshall",
+  "plot": "A single mother and her child fall into a deep well of paranoia when an eerie children's book titled \"Mister Babadook\" manifests in their home.",
+  "language": "English",
+  "country": "Australia, Canada",
+  "awards": "56 wins & 64 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "6.8",
+  "imdbID": "tt2321549",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:54.076Z"
+}

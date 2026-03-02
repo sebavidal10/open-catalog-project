@@ -1,0 +1,35 @@
+{
+  "title": "The Red Turtle",
+  "year": "2016",
+  "rated": "PG",
+  "released": "20 Jan 2017",
+  "runtime": "80 min",
+  "genre": "Animation, Drama, Family",
+  "director": "Michael Dudok de Wit",
+  "writer": "Michael Dudok de Wit, Pascale Ferran",
+  "actors": "Emmanuel Garijo, Tom Hudson, Baptiste Goy",
+  "plot": "A man is shipwrecked on a deserted island and encounters a big red turtle, which changes his life.",
+  "language": "None",
+  "country": "France, Belgium, Japan, United States",
+  "awards": "Nominated for 1 Oscar. 13 wins & 34 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzNkNTI3NTYtMzFjNS00ZDExLTkzZDMtYmFhNTY0YTNhYjYzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.5",
+  "imdbID": "tt3666024",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:11.457Z"
+}

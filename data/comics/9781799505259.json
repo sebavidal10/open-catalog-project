@@ -2,15 +2,9 @@
   "isbn": "9781799505259",
   "upc": null,
   "title": "Absolute Batman #1",
-  "authors": [
-    "Gabriel Hernandez Walta",
-    "Nick Dragotta",
-    "Scott Snyder"
-  ],
+  "authors": ["Gabriel Hernandez Walta", "Nick Dragotta", "Scott Snyder"],
   "publish_date": "2025-08-05",
-  "publisher": [
-    "DC Comics"
-  ],
+  "publisher": ["DC Comics"],
   "pages": 0,
   "cover": "https://static.metron.cloud/media/issue/2025/10/24/9882492-7593656483-ABSBM.jpg",
   "subjects": [],

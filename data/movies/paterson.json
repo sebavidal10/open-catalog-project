@@ -1,0 +1,35 @@
+{
+  "title": "Paterson",
+  "year": "2016",
+  "rated": "R",
+  "released": "28 Dec 2016",
+  "runtime": "118 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Jim Jarmusch",
+  "writer": "Jim Jarmusch, Ron Padgett, William Carlos Williams",
+  "actors": "Adam Driver, Golshifteh Farahani, Nellie",
+  "plot": "A quiet observation of the triumphs and defeats of daily life, along with the poetry evident in its smallest details.",
+  "language": "English, Italian",
+  "country": "France, Germany, United States",
+  "awards": "10 wins & 41 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUzODA4Nzk0OF5BMl5BanBnXkFtZTgwNzE1MDIwMDI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "7.3",
+  "imdbID": "tt5247022",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:51.849Z"
+}

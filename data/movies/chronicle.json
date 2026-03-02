@@ -1,0 +1,35 @@
+{
+  "title": "Chronicle",
+  "year": "2012",
+  "rated": "PG-13",
+  "released": "03 Feb 2012",
+  "runtime": "84 min",
+  "genre": "Drama, Sci-Fi, Thriller",
+  "director": "Josh Trank",
+  "writer": "Max Landis, Josh Trank",
+  "actors": "Dane DeHaan, Alex Russell, Michael B. Jordan",
+  "plot": "Three high school friends gain superpowers after making an incredible discovery underground. Soon they find their lives spinning out of control and their bond tested as they embrace their darker sides.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDBmYmExZDUtYWQxZS00MWI4LTkyZTQtYzIxNzg3NjJkZjZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.0",
+  "imdbID": "tt1706593",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:09.771Z"
+}

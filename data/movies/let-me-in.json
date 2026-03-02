@@ -1,0 +1,35 @@
+{
+  "title": "Let Me In",
+  "year": "2010",
+  "rated": "R",
+  "released": "01 Oct 2010",
+  "runtime": "116 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Matt Reeves",
+  "writer": "Matt Reeves, John Ajvide Lindqvist",
+  "actors": "Kodi Smit-McPhee, Chloë Grace Moretz, Richard Jenkins",
+  "plot": "A bullied young boy befriends a young female vampire who lives in secrecy with her guardian.",
+  "language": "English",
+  "country": "United Kingdom, United States, Sweden",
+  "awards": "14 wins & 28 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDQ4MjQ4OTMwMF5BMl5BanBnXkFtZTcwOTYzNDc4Mw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.1",
+  "imdbID": "tt1228987",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:59.898Z"
+}

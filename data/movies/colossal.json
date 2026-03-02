@@ -1,0 +1,35 @@
+{
+  "title": "Colossal",
+  "year": "2016",
+  "rated": "R",
+  "released": "21 Apr 2017",
+  "runtime": "109 min",
+  "genre": "Comedy, Drama, Fantasy",
+  "director": "Nacho Vigalondo",
+  "writer": "Nacho Vigalondo",
+  "actors": "Anne Hathaway, Jason Sudeikis, Austin Stowell",
+  "plot": "Gloria is an out-of-work party girl forced to leave her life in New York City and move back home. When reports surface that a giant creature is destroying Seoul, she gradually comes to the realization that she is somehow connected...",
+  "language": "English, Korean",
+  "country": "United States, Spain, Canada, South Korea",
+  "awards": "3 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "6.2",
+  "imdbID": "tt4680182",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:24.896Z"
+}

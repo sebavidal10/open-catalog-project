@@ -1,0 +1,35 @@
+{
+  "title": "Moonrise Kingdom",
+  "year": "2012",
+  "rated": "PG-13",
+  "released": "29 Jun 2012",
+  "runtime": "94 min",
+  "genre": "Adventure, Comedy, Drama",
+  "director": "Wes Anderson",
+  "writer": "Wes Anderson, Roman Coppola",
+  "actors": "Jared Gilman, Kara Hayward, Bruce Willis",
+  "plot": "Two 12-year-olds, who live on an island, fall in love with each other and elope into the wilderness. While people set out on a search mission, a violent storm approaching them catches their attention.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 36 wins & 121 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTEwMTc3NDkzOTJeQTJeQWpwZ15BbWU3MDI4NTAwNzc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.8",
+  "imdbID": "tt1748122",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:58.516Z"
+}

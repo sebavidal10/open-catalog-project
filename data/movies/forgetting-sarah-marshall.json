@@ -1,0 +1,35 @@
+{
+  "title": "Forgetting Sarah Marshall",
+  "year": "2008",
+  "rated": "R",
+  "released": "18 Apr 2008",
+  "runtime": "111 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Nicholas Stoller",
+  "writer": "Jason Segel",
+  "actors": "Kristen Bell, Jason Segel, Paul Rudd",
+  "plot": "Devastated Peter takes a Hawaiian vacation in order to deal with the recent break-up with his TV star girlfriend, Sarah. Little does he know, Sarah's traveling to the same resort as her ex - and she's bringing along her new boyfri...",
+  "language": "English, Hawaiian, German, Japanese, Spanish",
+  "country": "United States",
+  "awards": "4 wins & 19 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzODgzMjAyM15BMl5BanBnXkFtZTcwMTI3NzI2MQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "7.1",
+  "imdbID": "tt0800039",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:13.720Z"
+}

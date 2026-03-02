@@ -2,14 +2,9 @@
   "isbn": null,
   "upc": "76194138584601811",
   "title": "Absolute Batman #18",
-  "authors": [
-    "Jim Lee",
-    "Marie Javins"
-  ],
+  "authors": ["Jim Lee", "Marie Javins"],
   "publish_date": "2026-03-11",
-  "publisher": [
-    "DC Comics"
-  ],
+  "publisher": ["DC Comics"],
   "pages": 0,
   "cover": "https://static.metron.cloud/media/issue/2026/02/15/d4593333b1074d3c94e5e69890a2de39.jpg",
   "subjects": [],

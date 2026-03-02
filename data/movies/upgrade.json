@@ -1,0 +1,35 @@
+{
+  "title": "Upgrade",
+  "year": "2018",
+  "rated": "R",
+  "released": "01 Jun 2018",
+  "runtime": "100 min",
+  "genre": "Action, Sci-Fi, Thriller",
+  "director": "Leigh Whannell",
+  "writer": "Leigh Whannell",
+  "actors": "Logan Marshall-Green, Melanie Vallejo, Steve Danielsen",
+  "plot": "Set in the near-future, technology controls nearly all aspects of life. But when the world of Grey, a self-labeled technophobe, is turned upside down, his only hope for revenge is an experimental computer chip implant.",
+  "language": "English, Dutch",
+  "country": "United States, Australia",
+  "awards": "3 wins & 26 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI0NzcyMjM5Ml5BMl5BanBnXkFtZTgwMzk2NzAyNTM@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "7.5",
+  "imdbID": "tt6499752",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:08.611Z"
+}

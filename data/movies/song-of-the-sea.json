@@ -1,0 +1,35 @@
+{
+  "title": "Song of the Sea",
+  "year": "2014",
+  "rated": "PG",
+  "released": "20 Nov 2015",
+  "runtime": "93 min",
+  "genre": "Animation, Adventure, Drama",
+  "director": "Tomm Moore",
+  "writer": "Will Collins, Tomm Moore",
+  "actors": "David Rawle, Brendan Gleeson, Lisa Hannigan",
+  "plot": "Ben, a young Irish boy, and his little sister Saoirse, a girl who can turn into a seal, go on an adventure to free the fairies and save the spirit world.",
+  "language": "English, Irish Gaelic",
+  "country": "Ireland, Denmark, Belgium, France, Luxembourg",
+  "awards": "Nominated for 1 Oscar. 12 wins & 26 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MDMwNjEwNV5BMl5BanBnXkFtZTgwOTkxMzI0MzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "8.0",
+  "imdbID": "tt1865505",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:39.230Z"
+}

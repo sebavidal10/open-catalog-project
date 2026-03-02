@@ -1,0 +1,35 @@
+{
+  "title": "Snowpiercer",
+  "year": "2013",
+  "rated": "R",
+  "released": "11 Jul 2014",
+  "runtime": "126 min",
+  "genre": "Action, Sci-Fi, Thriller",
+  "director": "Bong Joon Ho",
+  "writer": "Jacques Lob, Benjamin Legrand, Jean-Marc Rochette",
+  "actors": "Chris Evans, Jamie Bell, Tilda Swinton",
+  "plot": "In a future where a failed climate change experiment has killed all life except for the survivors who boarded the Snowpiercer (a train that travels around the globe), a new class system emerges.",
+  "language": "English, Korean, French, Japanese, Czech, German",
+  "country": "South Korea, Czech Republic",
+  "awards": "36 wins & 109 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.1",
+  "imdbID": "tt1706620",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:06.290Z"
+}

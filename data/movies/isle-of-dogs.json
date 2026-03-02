@@ -1,0 +1,35 @@
+{
+  "title": "Isle of Dogs",
+  "year": "2018",
+  "rated": "PG-13",
+  "released": "13 Apr 2018",
+  "runtime": "101 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Wes Anderson",
+  "writer": "Wes Anderson, Roman Coppola, Jason Schwartzman",
+  "actors": "Bryan Cranston, Koyu Rankin, Edward Norton",
+  "plot": "Set in Japan, Isle of Dogs follows a boy's odyssey in search of his lost dog.",
+  "language": "English, Japanese",
+  "country": "United States, United Kingdom, Germany, Japan",
+  "awards": "Nominated for 2 Oscars. 34 wins & 95 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTVmZWFmYWYtZTY1NC00Yjg5LTkxZGItZjhiYTExNTExNjA3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "7.8",
+  "imdbID": "tt5104604",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:46.953Z"
+}

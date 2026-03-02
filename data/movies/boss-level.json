@@ -1,0 +1,35 @@
+{
+  "title": "Boss Level",
+  "year": "2020",
+  "rated": "TV-MA",
+  "released": "05 Mar 2021",
+  "runtime": "100 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Joe Carnahan",
+  "writer": "Chris Borey, Eddie Borey, Joe Carnahan",
+  "actors": "Frank Grillo, Mel Gibson, Naomi Watts",
+  "plot": "Trapped in a time loop that constantly repeats the day of his murder, a former special forces agent must unlock the mystery behind his untimely demise.",
+  "language": "English",
+  "country": "United States, Australia, United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNThlODU1ZjAtMWZkOS00NDc4LWE5ZjYtZTk1NzYwZTdjMmJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "metascore": "56",
+  "imdbRating": "6.8",
+  "imdbID": "tt7638348",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:23.733Z"
+}

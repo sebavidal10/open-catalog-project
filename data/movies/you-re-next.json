@@ -1,0 +1,35 @@
+{
+  "title": "You're Next",
+  "year": "2011",
+  "rated": "R",
+  "released": "23 Aug 2013",
+  "runtime": "95 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Adam Wingard",
+  "writer": "Simon Barrett",
+  "actors": "Sharni Vinson, Joe Swanberg, AJ Bowen",
+  "plot": "When the Davison family comes under attack during their wedding anniversary getaway, the gang of mysterious killers soon learns that one of the victims harbors a secret talent for fighting back.",
+  "language": "English",
+  "country": "United States, United Kingdom",
+  "awards": "11 wins & 20 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQwODAxMTE1NF5BMl5BanBnXkFtZTcwNTQ0MjY3OQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "6.6",
+  "imdbID": "tt1853739",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:42.438Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The House That Jack Built",
+  "year": "2018",
+  "rated": "R",
+  "released": "17 Oct 2018",
+  "runtime": "152 min",
+  "genre": "Crime, Drama, Horror",
+  "director": "Lars von Trier",
+  "writer": "Lars von Trier, Jenle Hallund",
+  "actors": "Matt Dillon, Bruno Ganz, Uma Thurman",
+  "plot": "In five episodes, failed architect and vicious sociopath Jack recounts his elaborately orchestrated murders -- each, as he views them, a towering work of art that defines his life's work as a serial killer in the Pacific Northwest.",
+  "language": "English, German, Italian",
+  "country": "Denmark, France, Sweden, Germany, Belgium, Tunisia",
+  "awards": "11 wins & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2Q3MDFiZGQtMjc4NS00MDJiLWFmYjgtNmI0MTQwMzUyOWNmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "59%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "42/100"
+    }
+  ],
+  "metascore": "42",
+  "imdbRating": "6.8",
+  "imdbID": "tt4003440",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:07.897Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Hush",
+  "year": "2016",
+  "rated": "R",
+  "released": "08 Apr 2016",
+  "runtime": "82 min",
+  "genre": "Horror, Thriller",
+  "director": "Mike Flanagan",
+  "writer": "Mike Flanagan, Kate Siegel",
+  "actors": "John Gallagher Jr., Kate Siegel, Michael Trucco",
+  "plot": "A deaf and mute writer who retreated into the woods to live a solitary life must fight for her life in silence when a masked killer appears at her window.",
+  "language": "English, American Sign ",
+  "country": "United States",
+  "awards": "2 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjQ0YTU4OTQtMTU3Zi00OTdlLTkzN2EtZjlmOTZhNjIwN2VkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "6.6",
+  "imdbID": "tt5022702",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:43.599Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Lady Vengeance",
+  "year": "2005",
+  "rated": "R",
+  "released": "29 Jul 2005",
+  "runtime": "115 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Park Chan-wook",
+  "writer": "Chung Seo-kyung, Park Chan-wook, Park Myeong-chan",
+  "actors": "Lee Yeong-ae, Choi Min-sik, Yea-young Kwon",
+  "plot": "After being wrongfully imprisoned for thirteen years and having her child taken away from her, a woman seeks revenge through increasingly brutal means.",
+  "language": "Korean, English, Japanese",
+  "country": "South Korea",
+  "awards": "13 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTczMTI1MzYwMV5BMl5BanBnXkFtZTgwMDI1OTE3MjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "7.5",
+  "imdbID": "tt0451094",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:11.762Z"
+}

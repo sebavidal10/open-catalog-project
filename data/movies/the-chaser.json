@@ -1,0 +1,35 @@
+{
+  "title": "The Chaser",
+  "year": "2008",
+  "rated": "Not Rated",
+  "released": "14 Feb 2008",
+  "runtime": "125 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Na Hong-jin",
+  "writer": "Na Hong-jin, Shinho Lee, Hong Won-chan",
+  "actors": "Kim Yoon-seok, Ha Jung-woo, Seo Young-hee",
+  "plot": "A disgraced ex-policeman who runs a small ring of prostitutes finds himself in a race against time when one of his women goes missing.",
+  "language": "Korean",
+  "country": "South Korea",
+  "awards": "29 wins & 27 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGZjMDU2ODAtMzFlNy00MWU1LWE1YTEtYTFmZTE0ZmEyYjYxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "7.8",
+  "imdbID": "tt1190539",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:14.108Z"
+}

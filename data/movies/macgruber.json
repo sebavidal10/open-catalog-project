@@ -1,0 +1,35 @@
+{
+  "title": "MacGruber",
+  "year": "2010",
+  "rated": "R",
+  "released": "21 May 2010",
+  "runtime": "90 min",
+  "genre": "Action, Comedy",
+  "director": "Jorma Taccone",
+  "writer": "Will Forte, John Solomon, Jorma Taccone",
+  "actors": "Will Forte, Kristen Wiig, Val Kilmer",
+  "plot": "Former special operative MacGruber is called back into action to take down his arch-enemy, Dieter Von Cunth, who's in possession of a nuclear warhead and bent on destroying Washington, D.C.",
+  "language": "English, Russian",
+  "country": "United States",
+  "awards": "3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE4MDY1ODY5Nl5BMl5BanBnXkFtZTcwNjgzMTEzMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "47%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "43/100"
+    }
+  ],
+  "metascore": "43",
+  "imdbRating": "5.6",
+  "imdbID": "tt1470023",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:28.369Z"
+}

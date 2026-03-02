@@ -1,0 +1,35 @@
+{
+  "title": "Creep",
+  "year": "2014",
+  "rated": "R",
+  "released": "23 Jun 2015",
+  "runtime": "77 min",
+  "genre": "Horror, Thriller",
+  "director": "Patrick Brice",
+  "writer": "Patrick Brice, Mark Duplass",
+  "actors": "Mark Duplass, Patrick Brice, Katie Aselton",
+  "plot": "A young videographer answers an online ad for a one-day job in a remote town to record the last messages of a dying man. When he notices the man's odd behavior, he starts to question his intentions.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY0NTU2ODM5Ml5BMl5BanBnXkFtZTgwMTAwOTA5NTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "6.3",
+  "imdbID": "tt2428170",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:44.762Z"
+}

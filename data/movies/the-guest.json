@@ -1,0 +1,35 @@
+{
+  "title": "The Guest",
+  "year": "2014",
+  "rated": "R",
+  "released": "05 Sep 2014",
+  "runtime": "100 min",
+  "genre": "Action, Mystery, Thriller",
+  "director": "Adam Wingard",
+  "writer": "Simon Barrett",
+  "actors": "Dan Stevens, Sheila Kelley, Maika Monroe",
+  "plot": "A soldier introduces himself to the Peterson family, claiming to be a friend of their son who died in action. After the young man is welcomed into their home, a series of accidental deaths seem to be connected to his presence.",
+  "language": "English",
+  "country": "United States, United Kingdom",
+  "awards": "5 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTQyODc5MTAwM15BMl5BanBnXkFtZTgwNjMwMjA1MjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "6.7",
+  "imdbID": "tt2980592",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:37.776Z"
+}

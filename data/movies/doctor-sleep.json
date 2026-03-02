@@ -1,0 +1,35 @@
+{
+  "title": "Doctor Sleep",
+  "year": "2019",
+  "rated": "R",
+  "released": "08 Nov 2019",
+  "runtime": "152 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Mike Flanagan",
+  "writer": "Mike Flanagan, Stephen King",
+  "actors": "Ewan McGregor, Rebecca Ferguson, Kyliegh Curran",
+  "plot": "Years following the events of The Shining (1980), a now-adult Dan Torrance must protect a young girl with similar powers from a cult known as The True Knot, who prey on children with powers to remain immortal.",
+  "language": "English, Persian",
+  "country": "Canada, United States",
+  "awards": "9 wins & 37 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGUyNTg0NWItODdkZS00YWY0LTljNjItMDYwMTI1ZmZkMjExXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "metascore": "59",
+  "imdbRating": "7.3",
+  "imdbID": "tt5606664",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:01.116Z"
+}

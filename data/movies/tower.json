@@ -1,0 +1,35 @@
+{
+  "title": "Tower",
+  "year": "2016",
+  "rated": "TV-14",
+  "released": "03 Feb 2017",
+  "runtime": "82 min",
+  "genre": "Documentary, Animation, Crime",
+  "director": "Keith Maitland",
+  "writer": "Pamela Colloff",
+  "actors": "Monty Muir, Violett Beane, Cole Bee Wilson",
+  "plot": "Animation, testimony, and archival footage combine to relate the events of August 1, 1966 when a gunman opened fire from the University of Texas clock tower, killing 16 people.",
+  "language": "English",
+  "country": "United States",
+  "awards": "18 wins & 30 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjI1Nzg3NTgyOV5BMl5BanBnXkFtZTgwNzIwMjIxMDI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "metascore": "92",
+  "imdbRating": "7.9",
+  "imdbID": "tt5116410",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:06.796Z"
+}

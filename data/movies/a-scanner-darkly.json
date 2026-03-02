@@ -1,0 +1,35 @@
+{
+  "title": "A Scanner Darkly",
+  "year": "2006",
+  "rated": "R",
+  "released": "28 Jul 2006",
+  "runtime": "100 min",
+  "genre": "Animation, Comedy, Crime",
+  "director": "Richard Linklater",
+  "writer": "Philip K. Dick, Richard Linklater",
+  "actors": "Keanu Reeves, Winona Ryder, Robert Downey Jr.",
+  "plot": "An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins & 21 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDliMjJiYTYtYWU0YS00OTUzLWI4MjMtYmM1YzgxNDcwOTZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "68%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.0",
+  "imdbID": "tt0405296",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:17.923Z"
+}

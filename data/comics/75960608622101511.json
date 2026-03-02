@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960608622101511",
+  "title": "Thanos #15",
+  "authors": [
+    "Alan Fine",
+    "Annalise Bissa",
+    "Antonio Fabela",
+    "Axel Alonso",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Donny Cates",
+    "Geoff Shaw",
+    "Joe Quesada",
+    "Jordan D. White"
+  ],
+  "publish_date": "2018-01-24",
+  "publisher": ["Marvel"],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/09/02/thanos-v2-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/5140/",
+  "fetched_at": "2026-03-02T02:08:52.928Z"
+}

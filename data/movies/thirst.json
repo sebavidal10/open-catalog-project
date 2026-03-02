@@ -1,0 +1,35 @@
+{
+  "title": "Thirst",
+  "year": "2009",
+  "rated": "R",
+  "released": "30 Apr 2009",
+  "runtime": "134 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Park Chan-wook",
+  "writer": "Émile Zola, Park Chan-wook, Chung Seo-kyung",
+  "actors": "Song Kang-ho, Kim Ok-bin, Choi Hee-jin",
+  "plot": "Through a failed medical experiment, a priest is stricken with vampirism and is forced to abandon his ascetic ways.",
+  "language": "Korean, English, French",
+  "country": "South Korea, United States",
+  "awards": "18 wins & 21 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDIxMTk2MjAtYTgzNy00NDE5LTg2MWQtYjM5ODBhODZkN2M4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.1",
+  "imdbID": "tt0762073",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:34.286Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Ong-Bak: The Thai Warrior",
+  "year": "2003",
+  "rated": "R",
+  "released": "11 Feb 2005",
+  "runtime": "105 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Prachya Pinkaew",
+  "writer": "Panna Rittikrai, Prachya Pinkaew, Suphachai Sittiaumponpan",
+  "actors": "Tony Jaa, Phetthai Vongkumlao, Pumwaree Yodkamol",
+  "plot": "When the head of a statue sacred to a village is stolen, a young martial artist goes to the big city and finds himself taking on the underworld to retrieve it.",
+  "language": "Thai, English",
+  "country": "Thailand, Hong Kong, France",
+  "awards": "2 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTcwMTAzNDItODg2MC00MjE0LWEyNzYtYzZjNjZmNjdhODE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.1",
+  "imdbID": "tt0368909",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:20.193Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Decision to Leave",
+  "year": "2022",
+  "rated": "Not Rated",
+  "released": "21 Oct 2022",
+  "runtime": "139 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Park Chan-wook",
+  "writer": "Park Chan-wook, Chung Seo-kyung",
+  "actors": "Tang Wei, Park Hae-il, Lee Jung-hyun",
+  "plot": "A detective investigating a man's death in the mountains meets the dead man's mysterious wife in the course of his dogged sleuthing.",
+  "language": "Korean, Mandarin, English",
+  "country": "South Korea",
+  "awards": "Nominated for 2 BAFTA 76 wins & 153 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2NhZjcxYjItNDhlOC00Y2U2LWE4NDktMDJhNTQ1NzNjMmNmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "7.3",
+  "imdbID": "tt12477480",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:37.423Z"
+}

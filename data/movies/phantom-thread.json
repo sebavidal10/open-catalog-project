@@ -1,0 +1,35 @@
+{
+  "title": "Phantom Thread",
+  "year": "2017",
+  "rated": "R",
+  "released": "19 Jan 2018",
+  "runtime": "130 min",
+  "genre": "Drama, Romance",
+  "director": "Paul Thomas Anderson",
+  "writer": "Paul Thomas Anderson",
+  "actors": "Vicky Krieps, Daniel Day-Lewis, Lesley Manville",
+  "plot": "Set in 1950s London, Reynolds Woodcock is a renowned dressmaker whose fastidious life is disrupted by a young, strong-willed woman, Alma, who becomes his muse and lover.",
+  "language": "English, French",
+  "country": "United States, China",
+  "awards": "Won 1 Oscar. 55 wins & 121 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTMzNWNhNDctMTM2MC00N2EwLThjYTEtMmQ2ZDAyNDVlNzgyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "7.4",
+  "imdbID": "tt5776858",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:49.062Z"
+}

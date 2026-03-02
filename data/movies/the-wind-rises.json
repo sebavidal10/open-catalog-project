@@ -1,0 +1,35 @@
+{
+  "title": "The Wind Rises",
+  "year": "2013",
+  "rated": "PG-13",
+  "released": "21 Feb 2014",
+  "runtime": "126 min",
+  "genre": "Animation, Biography, Drama",
+  "director": "Hayao Miyazaki",
+  "writer": "Hayao Miyazaki",
+  "actors": "Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima",
+  "plot": "Jiro Horikoshi studies assiduously to fulfill his aim of becoming an aeronautical engineer. As WWII begins, fighter aircraft designed by him end up getting used by the Japanese Empire against its foes.",
+  "language": "Japanese, German, Italian, French",
+  "country": "Japan",
+  "awards": "Nominated for 1 Oscar. 26 wins & 54 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU4NDg0MzkzNV5BMl5BanBnXkFtZTgwODA3Mzc1MDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.8",
+  "imdbID": "tt2013293",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:49.283Z"
+}

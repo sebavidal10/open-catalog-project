@@ -1,0 +1,35 @@
+{
+  "title": "Son of Saul",
+  "year": "2015",
+  "rated": "R",
+  "released": "11 Jun 2015",
+  "runtime": "107 min",
+  "genre": "Drama, War",
+  "director": "László Nemes",
+  "writer": "László Nemes, Clara Royer",
+  "actors": "Géza Röhrig, Levente Molnár, Urs Rechn",
+  "plot": "A Jewish-Hungarian concentration camp prisoner sets out to give a child he mistook for his son a proper burial.",
+  "language": "Hungarian, Yiddish, German, Russian, Polish, French, Greek, Slovak, Hebrew",
+  "country": "Hungary, France",
+  "awards": "Won 1 Oscar. 65 wins & 61 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTMwNTI0MDktNGJiYS00ZWQ0LTgyZDgtMzU2MjkzZTkxNDBhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "metascore": "91",
+  "imdbRating": "7.4",
+  "imdbID": "tt3808342",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:20.875Z"
+}

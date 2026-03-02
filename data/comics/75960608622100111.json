@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608622100111",
+  "title": "Thanos #1",
+  "authors": [
+    "Alan Fine",
+    "Alex Kropinak",
+    "Axel Alonso",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Darren Shan",
+    "Frank Martin",
+    "Jeff Dekal",
+    "Jeff Lemire",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Kathleen Wisneski",
+    "Michael Del Mundo",
+    "Mike Deodato",
+    "Rachelle Rosenberg",
+    "Ron Lim"
+  ],
+  "publish_date": "2016-11-16",
+  "publisher": ["Marvel"],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/09/02/thanos-v2-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/5126/",
+  "fetched_at": "2026-03-02T02:07:40.333Z"
+}

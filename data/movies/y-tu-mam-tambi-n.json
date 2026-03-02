@@ -1,0 +1,35 @@
+{
+  "title": "Y tu mamá también",
+  "year": "2001",
+  "rated": "R",
+  "released": "08 Jun 2001",
+  "runtime": "106 min",
+  "genre": "Drama",
+  "director": "Alfonso Cuarón",
+  "writer": "Carlos Cuarón, Alfonso Cuarón",
+  "actors": "Maribel Verdú, Gael García Bernal, Daniel Giménez Cacho",
+  "plot": "In Mexico, two teenage boys and an older woman embark on a road trip and learn a thing or two about life and each other.",
+  "language": "Spanish",
+  "country": "Mexico",
+  "awards": "Nominated for 1 Oscar. 39 wins & 48 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTRmZmNlMjktZDRkMi00OGNjLWJkZGUtMDljNDViMGE3MjNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "7.7",
+  "imdbID": "tt0245574",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:24.433Z"
+}

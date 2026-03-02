@@ -1,0 +1,35 @@
+{
+  "title": "Amour",
+  "year": "2012",
+  "rated": "PG-13",
+  "released": "20 Sep 2012",
+  "runtime": "127 min",
+  "genre": "Drama",
+  "director": "Michael Haneke",
+  "writer": "Michael Haneke",
+  "actors": "Jean-Louis Trintignant, Emmanuelle Riva, Isabelle Huppert",
+  "plot": "Georges and Anne are an octogenarian couple. They are cultivated, retired music teachers. Their daughter, also a musician, lives in Britain with her family. One day, Anne has a stroke, and the couple's bond of love is severely tes...",
+  "language": "French, English",
+  "country": "France, Germany, Austria",
+  "awards": "Won 1 Oscar. 84 wins & 111 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk1NTc3NDc4MF5BMl5BanBnXkFtZTcwNjYwNDk0OA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "95/100"
+    }
+  ],
+  "metascore": "95",
+  "imdbRating": "7.9",
+  "imdbID": "tt1602620",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:13.796Z"
+}

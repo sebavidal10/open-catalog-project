@@ -1,0 +1,35 @@
+{
+  "title": "Blindspotting",
+  "year": "2018",
+  "rated": "R",
+  "released": "27 Jul 2018",
+  "runtime": "95 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Carlos López Estrada",
+  "writer": "Rafael Casal, Daveed Diggs",
+  "actors": "Daveed Diggs, Rafael Casal, Janina Gavankar",
+  "plot": "While on probation, a man begins to re-evaluate his relationship with his volatile best friend.",
+  "language": "English",
+  "country": "United States",
+  "awards": "5 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODc5ZmRjNzItODhjYS00NTJjLTg1YWYtNjBmMzY0YThhYjljXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "7.4",
+  "imdbID": "tt7242142",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:42.331Z"
+}

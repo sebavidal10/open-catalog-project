@@ -1,0 +1,35 @@
+{
+  "title": "Loveless",
+  "year": "2017",
+  "rated": "R",
+  "released": "01 Jun 2017",
+  "runtime": "127 min",
+  "genre": "Drama",
+  "director": "Andrey Zvyagintsev",
+  "writer": "Oleg Negin, Andrey Zvyagintsev",
+  "actors": "Maryana Spivak, Aleksey Rozin, Matvey Novikov",
+  "plot": "A couple going through a divorce must team up to find their son who has disappeared during one of their bitter arguments.",
+  "language": "Russian, Portuguese, Uzbek",
+  "country": "Russia, France, Germany, Belgium, Cyprus",
+  "awards": "Nominated for 1 Oscar. 28 wins & 49 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzU3ODQ3MzQ5Nl5BMl5BanBnXkFtZTgwMDQwMDIzNDM@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.6",
+  "imdbID": "tt6304162",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:35.100Z"
+}

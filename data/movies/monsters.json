@@ -1,0 +1,35 @@
+{
+  "title": "Monsters",
+  "year": "2010",
+  "rated": "R",
+  "released": "03 Dec 2010",
+  "runtime": "94 min",
+  "genre": "Adventure, Drama, Romance",
+  "director": "Gareth Edwards",
+  "writer": "Gareth Edwards",
+  "actors": "Scoot McNairy, Whitney Able, Mario Zuniga Benavides",
+  "plot": "Six years after Earth has suffered an alien invasion, a cynical journalist agrees to escort a shaken American tourist through an infected zone in Mexico to the safety of the U.S. border.",
+  "language": "English, Spanish",
+  "country": "United Kingdom, Mexico, Costa Rica",
+  "awards": "Nominated for 1 BAFTA Award14 wins & 15 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE4MzMyNjExMl5BMl5BanBnXkFtZTcwMzI5NjM3Mw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "6.3",
+  "imdbID": "tt1470827",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:14.430Z"
+}

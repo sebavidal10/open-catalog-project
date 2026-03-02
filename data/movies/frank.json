@@ -1,0 +1,35 @@
+{
+  "title": "Frank",
+  "year": "2014",
+  "rated": "R",
+  "released": "05 Sep 2014",
+  "runtime": "95 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "Lenny Abrahamson",
+  "writer": "Jon Ronson, Peter Straughan",
+  "actors": "Michael Fassbender, Domhnall Gleeson, Maggie Gyllenhaal",
+  "plot": "Jon, a young wanna-be musician, discovers he's bitten off more than he can chew when he joins an eccentric pop band led by the mysterious and enigmatic Frank.",
+  "language": "English, French, German",
+  "country": "Ireland, United Kingdom",
+  "awards": "13 wins & 18 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM0OTczMTcxOV5BMl5BanBnXkFtZTgwMDU1MDUwMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "6.9",
+  "imdbID": "tt1605717",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:44.686Z"
+}

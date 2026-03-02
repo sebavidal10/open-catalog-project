@@ -1,0 +1,31 @@
+{
+  "title": "Suzume",
+  "year": "2022",
+  "rated": "PG",
+  "released": "14 Apr 2023",
+  "runtime": "122 min",
+  "genre": "Animation, Adventure, Drama",
+  "director": "Makoto Shinkai",
+  "writer": "Makoto Shinkai",
+  "actors": "Nanoka Hara, Hokuto Matsumura, Eri Fukatsu",
+  "plot": "A modern action adventure road story where a 17-year-old girl named Suzume helps a mysterious young man close doors from the other side that are releasing disasters all over in Japan.",
+  "language": "Japanese, English",
+  "country": "Japan",
+  "awards": "4 wins & 29 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODhkNDhmNzktODFmMC00NDZiLWEzN2UtY2YwYzgzYTVlMWZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.6",
+  "imdbID": "tt16428256",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:55.152Z"
+}

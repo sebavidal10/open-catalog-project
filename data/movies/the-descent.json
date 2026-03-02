@@ -1,0 +1,35 @@
+{
+  "title": "The Descent",
+  "year": "2005",
+  "rated": "R",
+  "released": "04 Aug 2006",
+  "runtime": "99 min",
+  "genre": "Adventure, Horror, Thriller",
+  "director": "Neil Marshall",
+  "writer": "Neil Marshall",
+  "actors": "Shauna Macdonald, Natalie Mendoza, Alex Reid",
+  "plot": "A caving expedition goes horribly wrong when six explorers become trapped and ultimately pursued by a strange breed of predators.",
+  "language": "English, Swedish",
+  "country": "United Kingdom",
+  "awards": "8 wins & 22 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NzQ1NTgwNV5BMl5BanBnXkFtZTcwNjUxMzUzMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.2",
+  "imdbID": "tt0435625",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:28.400Z"
+}

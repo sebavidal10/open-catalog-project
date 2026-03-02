@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960609607700111",
+  "title": "Avengers: Marvels Snapshots #1",
+  "authors": [
+    "Alex Ross",
+    "Ariana Maher",
+    "Barbara Randall Kesel",
+    "C. B. Cebulski",
+    "George Pérez",
+    "Jim Charalampidis",
+    "Joe Sinnott",
+    "Lauren Amaro",
+    "Martin Biro",
+    "Morry Hollowell",
+    "Rachelle Rosenberg",
+    "Staz Johnson",
+    "Tom Brevoort",
+    "Tom Palmer"
+  ],
+  "publish_date": "2020-11-18",
+  "publisher": ["Marvel"],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/07/11/clean.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/50359/",
+  "fetched_at": "2026-03-02T01:50:02.322Z"
+}

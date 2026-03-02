@@ -1,0 +1,35 @@
+{
+  "title": "Holy Motors",
+  "year": "2012",
+  "rated": "Not Rated",
+  "released": "04 Jul 2012",
+  "runtime": "115 min",
+  "genre": "Drama, Fantasy",
+  "director": "Leos Carax",
+  "writer": "Leos Carax",
+  "actors": "Denis Lavant, Edith Scob, Eva Mendes",
+  "plot": "A man boards a limousine to be driven to his day's work: nine mysterious \"appointments.\"",
+  "language": "French, English, Chinese",
+  "country": "France, Germany, Belgium",
+  "awards": "29 wins & 74 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTBiZmJjN2YtMzA4NS00MzRlLWEwMDEtM2NlYTE4YTVmNTA1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "7.0",
+  "imdbID": "tt2076220",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:17.325Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "House of Flying Daggers",
+  "year": "2004",
+  "rated": "PG-13",
+  "released": "14 Jan 2005",
+  "runtime": "119 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Yimou Zhang",
+  "writer": "Feng Li, Bin Wang, Yimou Zhang",
+  "actors": "Ziyi Zhang, Takeshi Kaneshiro, Andy Lau",
+  "plot": "A romantic police captain breaks a beautiful member of a rebel group out of prison to help her rejoin her fellows, but things are not what they seem.",
+  "language": "Mandarin",
+  "country": "China, Hong Kong",
+  "awards": "Nominated for 1 Oscar. 26 wins & 74 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWZlZjQwMjUtNGI5Ny00ODg4LTg0Y2UtODkxYmYxM2IxNjgzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "7.5",
+  "imdbID": "tt0385004",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:23.784Z"
+}

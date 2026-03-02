@@ -1,0 +1,35 @@
+{
+  "title": "Wild Tales",
+  "year": "2014",
+  "rated": "R",
+  "released": "21 Aug 2014",
+  "runtime": "122 min",
+  "genre": "Comedy, Drama, Thriller",
+  "director": "Damián Szifron",
+  "writer": "Julian Loyola, Germán Servidio, Damián Szifron",
+  "actors": "Darío Grandinetti, María Marull, Mónica Villa",
+  "plot": "Six short stories that explore the extremities of human behavior involving people in distress.",
+  "language": "Spanish",
+  "country": "Argentina, Spain, France, United Kingdom",
+  "awards": "Nominated for 1 Oscar. 51 wins & 58 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzAzMjA1ODAxOV5BMl5BanBnXkFtZTgwODg4NTQzNDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "8.1",
+  "imdbID": "tt3011894",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:31.518Z"
+}

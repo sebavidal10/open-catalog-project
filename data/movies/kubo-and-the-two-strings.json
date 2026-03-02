@@ -1,0 +1,35 @@
+{
+  "title": "Kubo and the Two Strings",
+  "year": "2016",
+  "rated": "PG",
+  "released": "19 Aug 2016",
+  "runtime": "101 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Travis Knight",
+  "writer": "Marc Haimes, Chris Butler, Shannon Tindle",
+  "actors": "Charlize Theron, Art Parkinson, Matthew McConaughey",
+  "plot": "A young boy named Kubo must locate a magical suit of armour worn by his late father in order to defeat a vengeful spirit from the past.",
+  "language": "English",
+  "country": "United States, United Kingdom",
+  "awards": "Nominated for 2 Oscars. 33 wins & 67 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA2Mzg2NDMzNl5BMl5BanBnXkFtZTgwMjcwODUzOTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.7",
+  "imdbID": "tt4302938",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:36.882Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Spring",
+  "year": "2014",
+  "rated": "Not Rated",
+  "released": "20 Mar 2015",
+  "runtime": "109 min",
+  "genre": "Drama, Horror, Romance",
+  "director": "Justin Benson, Aaron Moorhead",
+  "writer": "Justin Benson",
+  "actors": "Lou Taylor Pucci, Nadia Hilker, Francesco Carnelutti",
+  "plot": "A young man in a personal tailspin flees from US to Italy, where he sparks up a romance with a woman harboring a dark, primordial secret.",
+  "language": "English, Italian, French, German",
+  "country": "United States, Italy",
+  "awards": "5 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMwNzM2OTk3OF5BMl5BanBnXkFtZTgwNjExOTU0NDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "6.7",
+  "imdbID": "tt3395184",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:41.273Z"
+}

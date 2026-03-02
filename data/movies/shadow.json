@@ -1,0 +1,35 @@
+{
+  "title": "Shadow",
+  "year": "2018",
+  "rated": "Not Rated",
+  "released": "30 Sep 2018",
+  "runtime": "116 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Yimou Zhang",
+  "writer": "Wei Li, Yimou Zhang, Sujin Zhu",
+  "actors": "Chao Deng, Li Sun, Ryan Zheng",
+  "plot": "In a Chinese royal court, an army commander secretly trains a \"shadow\" to retake a city against the wishes of the king.",
+  "language": "Mandarin",
+  "country": "China, Hong Kong",
+  "awards": "38 wins & 60 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDVmMjU1M2ItNzc4Ny00NjE0LTljNTMtYTA0NWI1ZWMzNjhkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.0",
+  "imdbID": "tt6864046",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:26.117Z"
+}

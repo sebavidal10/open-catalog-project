@@ -1,0 +1,35 @@
+{
+  "title": "Swiss Army Man",
+  "year": "2016",
+  "rated": "R",
+  "released": "01 Jul 2016",
+  "runtime": "97 min",
+  "genre": "Comedy, Drama, Fantasy",
+  "director": "Daniel Kwan, Daniel Scheinert",
+  "writer": "Daniel Scheinert, Daniel Kwan",
+  "actors": "Paul Dano, Daniel Radcliffe, Mary Elizabeth Winstead",
+  "plot": "A hopeless man stranded on a deserted island befriends a dead body, and together they go on a surreal journey to get home.",
+  "language": "English",
+  "country": "United States",
+  "awards": "8 wins & 31 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk0OTEyMjM1OF5BMl5BanBnXkFtZTgwMzMzODM4ODE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "6.9",
+  "imdbID": "tt4034354",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:41.164Z"
+}

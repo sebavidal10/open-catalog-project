@@ -1,0 +1,35 @@
+{
+  "title": "The Beguiled",
+  "year": "2017",
+  "rated": "R",
+  "released": "30 Jun 2017",
+  "runtime": "93 min",
+  "genre": "Drama, History, Thriller",
+  "director": "Sofia Coppola",
+  "writer": "Sofia Coppola, Thomas Cullinan, Albert Maltz",
+  "actors": "Nicole Kidman, Kirsten Dunst, Elle Fanning",
+  "plot": "The unexpected arrival of a wounded Union soldier at a girls school in Virginia during the American Civil War leads to jealousy and betrayal.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "5 wins & 26 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg5NjY3NDYxMl5BMl5BanBnXkFtZTgwMjI5ODgyMjI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "6.3",
+  "imdbID": "tt5592248",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:56.192Z"
+}

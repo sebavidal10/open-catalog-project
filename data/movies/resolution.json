@@ -1,0 +1,35 @@
+{
+  "title": "Resolution",
+  "year": "2012",
+  "rated": "Not Rated",
+  "released": "23 Jan 2013",
+  "runtime": "93 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Justin Benson, Aaron Moorhead",
+  "writer": "Justin Benson",
+  "actors": "Peter Cilella, Vinny Curran, Emily Montague",
+  "plot": "A man imprisons his estranged junkie friend in an isolated cabin in the boonies of San Diego to force him through a week of sobriety, but the events of that week are being mysteriously manipulated.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY1OTI0NjcyM15BMl5BanBnXkFtZTcwOTc1NzI5OA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "6.4",
+  "imdbID": "tt1977895",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:51.752Z"
+}

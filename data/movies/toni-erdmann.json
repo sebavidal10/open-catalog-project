@@ -1,0 +1,35 @@
+{
+  "title": "Toni Erdmann",
+  "year": "2016",
+  "rated": "R",
+  "released": "25 Dec 2016",
+  "runtime": "162 min",
+  "genre": "Comedy, Drama",
+  "director": "Maren Ade",
+  "writer": "Maren Ade",
+  "actors": "Sandra Hüller, Peter Simonischek, Michael Wittenborn",
+  "plot": "A practical joking father tries to reconnect with his hard working daughter by creating an outrageous alter ego and posing as her CEO's life coach.",
+  "language": "French, German, English, Romanian",
+  "country": "Germany, Austria, Monaco, Romania, France, Switzerland, Belgium",
+  "awards": "Nominated for 1 Oscar. 59 wins & 85 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODNiNmE5OWMtNDAxMy00YTQzLThjMGItMTAwOTNlNGM2ZDlhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "93/100"
+    }
+  ],
+  "metascore": "93",
+  "imdbRating": "7.3",
+  "imdbID": "tt4048272",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:18.489Z"
+}

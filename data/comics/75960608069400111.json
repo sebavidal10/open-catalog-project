@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608069400111",
+  "title": "Thanos Annual #1",
+  "authors": [
+    "Al Milgrom",
+    "Alan Fine",
+    "Andy Smith",
+    "Axel Alonso",
+    "Brad Anderson",
+    "Dale Keown",
+    "Dan Buckley",
+    "Ive Svorcina",
+    "Jim Starlin",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jon Moisan",
+    "Ron Lim",
+    "Tom Brevoort",
+    "Val Staples",
+    "Wil Moss"
+  ],
+  "publish_date": "2014-05-28",
+  "publisher": ["Marvel"],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/12/05/bf508328fbbb4566b0cf6b920dfbb65e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/158185/",
+  "fetched_at": "2026-03-02T02:10:08.150Z"
+}

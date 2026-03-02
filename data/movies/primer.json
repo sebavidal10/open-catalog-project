@@ -1,0 +1,35 @@
+{
+  "title": "Primer",
+  "year": "2004",
+  "rated": "PG-13",
+  "released": "25 May 2005",
+  "runtime": "77 min",
+  "genre": "Drama, Sci-Fi, Thriller",
+  "director": "Shane Carruth",
+  "writer": "Shane Carruth",
+  "actors": "Shane Carruth, David Sullivan, Casey Gooden",
+  "plot": "Four friends/fledgling entrepreneurs, knowing that there's something bigger and more innovative than the different error-checking devices they've built, wrestle over their new invention.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "3 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTRmZDlmNzUtNjM2NS00MjBjLWFmNjQtMTczMWNkZTdiOGZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "6.7",
+  "imdbID": "tt0390384",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:19:53.468Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Protector",
+  "year": "2005",
+  "rated": "R",
+  "released": "08 Sep 2006",
+  "runtime": "111 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Prachya Pinkaew",
+  "writer": "Napalee, Piyaros Thongdee, Joe Wannapin",
+  "actors": "Tony Jaa, Nathan Jones, Xing Jin",
+  "plot": "A young fighter named Kham must go to Australia to retrieve his stolen elephant. With the help of a Thai-born Australian detective, Kham must take on all comers, including a gang led by an evil woman and her two deadly bodyguards.",
+  "language": "Thai, English, Mandarin, Vietnamese",
+  "country": "Thailand, United States, Hong Kong, France, Australia",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2JhMjVjZTktODVkYi00ZTM2LTlkMDAtMDBhMDVjYTQxZmYzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "53%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "7.0",
+  "imdbID": "tt0427954",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:21.429Z"
+}

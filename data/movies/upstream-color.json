@@ -1,0 +1,35 @@
+{
+  "title": "Upstream Color",
+  "year": "2013",
+  "rated": "Not Rated",
+  "released": "30 Aug 2013",
+  "runtime": "96 min",
+  "genre": "Drama, Mystery, Sci-Fi",
+  "director": "Shane Carruth",
+  "writer": "Shane Carruth",
+  "actors": "Amy Seimetz, Frank Mosley, Shane Carruth",
+  "plot": "A man and woman are drawn together, entangled in the life cycle of an ageless organism. Identity becomes an illusion as they struggle to assemble the loose fragments of wrecked lives.",
+  "language": "English",
+  "country": "United States",
+  "awards": "5 wins & 35 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQzMzQ4MDAyNF5BMl5BanBnXkFtZTcwNzE0MDk3OA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "6.5",
+  "imdbID": "tt2084989",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:19:54.636Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Headshot",
+  "year": "2016",
+  "rated": "Not Rated",
+  "released": "03 Mar 2017",
+  "runtime": "118 min",
+  "genre": "Action, Drama, Thriller",
+  "director": "Kimo Stamboel, Timo Tjahjanto",
+  "writer": "Timo Tjahjanto",
+  "actors": "Iko Uwais, Chelsea Islan, Sunny Pang",
+  "plot": "Uwais plays a young man who washes ashore, an amnesiac with a serious head injury whose past comes back to haunt him shortly after being nursed back to health by a young doctor. Violence ensues. Sweet, sweet violence.",
+  "language": "Indonesian, English",
+  "country": "Indonesia, Singapore",
+  "awards": "2 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI2MzU2ODQ4M15BMl5BanBnXkFtZTgwOTgxMTU5OTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "6.3",
+  "imdbID": "tt5147214",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:28.633Z"
+}

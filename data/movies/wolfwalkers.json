@@ -1,0 +1,35 @@
+{
+  "title": "Wolfwalkers",
+  "year": "2020",
+  "rated": "PG",
+  "released": "13 Nov 2020",
+  "runtime": "103 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Tomm Moore, Ross Stewart",
+  "writer": "Will Collins, Tomm Moore, Ross Stewart",
+  "actors": "Honor Kneafsey, Eva Whittaker, Sean Bean",
+  "plot": "A young apprentice hunter and her father journey to Ireland to help wipe out the last wolf pack. But everything changes when she befriends a free-spirited girl from a mysterious tribe rumored to transform into wolves by night.",
+  "language": "English, Irish Gaelic",
+  "country": "Ireland, Luxembourg, France, China, United States",
+  "awards": "Nominated for 1 Oscar. 33 wins & 65 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzg3MjBkYmYtZjZkZS00YWVkLTk3YjMtNDBlMTVmNDZkZDJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "8.0",
+  "imdbID": "tt5198068",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:40.631Z"
+}

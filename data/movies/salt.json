@@ -1,0 +1,35 @@
+{
+  "title": "Salt",
+  "year": "2010",
+  "rated": "PG-13",
+  "released": "23 Jul 2010",
+  "runtime": "100 min",
+  "genre": "Action, Thriller",
+  "director": "Phillip Noyce",
+  "writer": "Kurt Wimmer",
+  "actors": "Angelina Jolie, Liev Schreiber, Chiwetel Ejiofor",
+  "plot": "A CIA agent goes on the run after a defector accuses her of being a Russian spy.",
+  "language": "English, Russian, Korean",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 4 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyODA2NDg4NV5BMl5BanBnXkFtZTcwMjg4NDAwMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "62%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "6.5",
+  "imdbID": "tt0944835",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:33.366Z"
+}

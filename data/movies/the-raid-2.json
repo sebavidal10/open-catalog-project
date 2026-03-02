@@ -1,0 +1,35 @@
+{
+  "title": "The Raid 2",
+  "year": "2014",
+  "rated": "R",
+  "released": "11 Apr 2014",
+  "runtime": "150 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Gareth Evans",
+  "writer": "Gareth Evans",
+  "actors": "Iko Uwais, Yayan Ruhian, Arifin Putra",
+  "plot": "Only a short time after the first raid, Rama goes undercover with the thugs of Jakarta and plans to bring down the syndicate and uncover the corruption within his police force.",
+  "language": "Indonesian, Japanese, English, Sign ",
+  "country": "Indonesia, United States, Malaysia",
+  "awards": "11 wins & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDMyNTMzZmYtNDIxYi00YTNkLWE2ZTMtM2M4ZGQwYTFjZTEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.9",
+  "imdbID": "tt2265171",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:04.626Z"
+}

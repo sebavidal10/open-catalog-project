@@ -1,0 +1,35 @@
+{
+  "title": "Green Room",
+  "year": "2015",
+  "rated": "R",
+  "released": "13 May 2016",
+  "runtime": "95 min",
+  "genre": "Horror, Thriller",
+  "director": "Jeremy Saulnier",
+  "writer": "Jeremy Saulnier",
+  "actors": "Anton Yelchin, Imogen Poots, Alia Shawkat",
+  "plot": "A punk rock band is forced to fight for survival after witnessing a murder at a neo-Nazi skinhead bar.",
+  "language": "English",
+  "country": "United States",
+  "awards": "8 wins & 25 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjU1ODQ5NzA0N15BMl5BanBnXkFtZTgwMDg5MTA5NzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.0",
+  "imdbID": "tt4062536",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:35.449Z"
+}

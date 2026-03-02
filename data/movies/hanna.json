@@ -1,0 +1,35 @@
+{
+  "title": "Hanna",
+  "year": "2011",
+  "rated": "PG-13",
+  "released": "08 Apr 2011",
+  "runtime": "111 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Joe Wright",
+  "writer": "Seth Lochhead, David Farr",
+  "actors": "Saoirse Ronan, Cate Blanchett, Eric Bana",
+  "plot": "A sixteen-year-old girl who was raised by her father to be the perfect assassin is dispatched on a mission across Europe, tracked by a ruthless intelligence agent and her operatives.",
+  "language": "English, French, German, Italian, Arabic, Spanish",
+  "country": "United States, United Kingdom, Germany, Finland",
+  "awards": "8 wins & 26 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTAzMTg1NjY0NF5BMl5BanBnXkFtZTcwODc3MTgzNA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "6.7",
+  "imdbID": "tt0993842",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:30.963Z"
+}

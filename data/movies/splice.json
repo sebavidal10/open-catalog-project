@@ -1,0 +1,35 @@
+{
+  "title": "Splice",
+  "year": "2009",
+  "rated": "R",
+  "released": "04 Jun 2010",
+  "runtime": "104 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Vincenzo Natali",
+  "writer": "Vincenzo Natali, Antoinette Terry Bryant, Doug Taylor",
+  "actors": "Adrien Brody, Sarah Polley, Delphine Chanéac",
+  "plot": "Genetic engineers Clive Nicoli and Elsa Kast hope to achieve fame by successfully splicing together the DNA of different animals to create new hybrid animals for medical use.",
+  "language": "English, French",
+  "country": "Canada, France, United States",
+  "awards": "4 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEwODQ0MjI2OV5BMl5BanBnXkFtZTcwMTA4MjQ0Mw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "5.8",
+  "imdbID": "tt1017460",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:16.758Z"
+}

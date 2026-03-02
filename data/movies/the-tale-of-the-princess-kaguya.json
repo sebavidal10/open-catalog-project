@@ -1,0 +1,35 @@
+{
+  "title": "The Tale of The Princess Kaguya",
+  "year": "2013",
+  "rated": "PG",
+  "released": "23 Nov 2013",
+  "runtime": "137 min",
+  "genre": "Animation, Drama, Family",
+  "director": "Isao Takahata",
+  "writer": "Isao Takahata, Riko Sakaguchi",
+  "actors": "Chloë Grace Moretz, James Caan, Mary Steenburgen",
+  "plot": "Kaguya is a beautiful young woman coveted by five nobles. To try to avoid marrying a stranger she doesn't love, she sends her suitors on seemingly impossible tasks. But she will have to face her fate and punishment for her choices.",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "Nominated for 1 Oscar. 13 wins & 38 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcwODI0MzEwOF5BMl5BanBnXkFtZTgwNjkyNTEwMTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "8.0",
+  "imdbID": "tt2576852",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:48.121Z"
+}

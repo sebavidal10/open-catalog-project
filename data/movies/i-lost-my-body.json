@@ -1,0 +1,35 @@
+{
+  "title": "I Lost My Body",
+  "year": "2019",
+  "rated": "TV-MA",
+  "released": "15 Nov 2019",
+  "runtime": "81 min",
+  "genre": "Animation, Drama, Fantasy",
+  "director": "Jérémy Clapin",
+  "writer": "Jérémy Clapin, Guillaume Laurant",
+  "actors": "Hakim Faris, Victoire Du Bois, Patrick d'Assumçao",
+  "plot": "A story of Naoufel, a young man who is in love with Gabrielle. In another part of town, a severed hand escapes from a dissection lab, determined to find its body again.",
+  "language": "French",
+  "country": "France, United Kingdom, United States",
+  "awards": "Nominated for 1 Oscar. 32 wins & 57 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzI5ZmNmMmUtYTc2NS00OTNjLThiNGQtYjRjMDJjYzk3ZWQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.5",
+  "imdbID": "tt9806192",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:10.292Z"
+}

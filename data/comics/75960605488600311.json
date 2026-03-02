@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960605488600311",
+  "title": "Thanos #3",
+  "authors": [
+    "Al Milgrom",
+    "Andy Schmidt",
+    "Christie Scheele",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Jim Starlin",
+    "Joe Quesada",
+    "Marc Sumerak",
+    "Nicole Wiley Boose",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2003-12-03",
+  "publisher": ["Marvel"],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/06/06/thanos-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/48937/",
+  "fetched_at": "2026-03-02T02:06:44.516Z"
+}

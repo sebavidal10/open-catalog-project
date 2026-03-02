@@ -1,0 +1,35 @@
+{
+  "title": "Volver",
+  "year": "2006",
+  "rated": "R",
+  "released": "26 Jan 2007",
+  "runtime": "121 min",
+  "genre": "Comedy, Drama",
+  "director": "Pedro Almodóvar",
+  "writer": "Pedro Almodóvar",
+  "actors": "Penélope Cruz, Carmen Maura, Lola Dueñas",
+  "plot": "After her death, a mother returns to her home town in order to fix the situations she couldn't resolve during her life.",
+  "language": "Spanish",
+  "country": "Spain, United Kingdom",
+  "awards": "Nominated for 1 Oscar. 61 wins & 94 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA0NTUxMjY1OV5BMl5BanBnXkFtZTcwNjI2OTMzMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.6",
+  "imdbID": "tt0441909",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:28.007Z"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960620825800111",
+  "title": "Thanos #1",
+  "authors": [
+    "C. B. Cebulski",
+    "Christopher Cantwell",
+    "Cory Petit",
+    "David Wachter",
+    "Gabriel Mata",
+    "InHyuk Lee",
+    "Kendrick Lim",
+    "Leinil Francis Yu",
+    "Luca Pizzari",
+    "Michelle Marchese",
+    "Ruth Redmond",
+    "Sunny Gho",
+    "Wil Moss"
+  ],
+  "publish_date": "2023-11-08",
+  "publisher": ["Marvel"],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/11/03/47b9d7bc143240c38c711687eb60b88f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/78905/",
+  "fetched_at": "2026-03-02T02:09:43.104Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "A Serious Man",
+  "year": "2009",
+  "rated": "R",
+  "released": "06 Nov 2009",
+  "runtime": "106 min",
+  "genre": "Comedy, Drama",
+  "director": "Ethan Coen, Joel Coen",
+  "writer": "Joel Coen, Ethan Coen",
+  "actors": "Michael Stuhlbarg, Richard Kind, Sari Lennick",
+  "plot": "Larry Gopnik, a Midwestern physics teacher, watches his life unravel over multiple sudden incidents. Despite seeking meaning and answers amidst his turmoils, he seems to keep sinking.",
+  "language": "English, Yiddish, Hebrew",
+  "country": "United Kingdom, France, United States",
+  "awards": "Nominated for 2 Oscars. 17 wins & 80 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTQ0MWU5ODItMmY0Yy00NTM1LWJjMmItMjg4MDgwMTE5YmY5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "7.0",
+  "imdbID": "tt1019452",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:46.718Z"
+}

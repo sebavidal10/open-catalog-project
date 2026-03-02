@@ -1,0 +1,35 @@
+{
+  "title": "Hot Rod",
+  "year": "2007",
+  "rated": "PG-13",
+  "released": "03 Aug 2007",
+  "runtime": "88 min",
+  "genre": "Comedy, Sport",
+  "director": "Akiva Schaffer",
+  "writer": "Pam Brady",
+  "actors": "Andy Samberg, Jorma Taccone, Bill Hader",
+  "plot": "Self-proclaimed stuntman Rod Kimble is preparing for the jump of his life - to clear fifteen buses to raise money for his abusive stepfather Frank's life-saving heart operation.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjYwNjA3OTY0Nl5BMl5BanBnXkFtZTcwNDMyNDUzMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "39%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "43/100"
+    }
+  ],
+  "metascore": "43",
+  "imdbRating": "6.7",
+  "imdbID": "tt0787475",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:30.688Z"
+}

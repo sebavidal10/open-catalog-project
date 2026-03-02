@@ -1,0 +1,35 @@
+{
+  "title": "Ad Astra",
+  "year": "2019",
+  "rated": "PG-13",
+  "released": "20 Sep 2019",
+  "runtime": "123 min",
+  "genre": "Adventure, Drama, Mystery",
+  "director": "James Gray",
+  "writer": "James Gray, Ethan Gross",
+  "actors": "Brad Pitt, Tommy Lee Jones, Ruth Negga",
+  "plot": "An astronaut embarks on a space mission to investigate a threat to the universe and uncover the truth about his father who disappeared thirty years ago.",
+  "language": "English, Norwegian",
+  "country": "United States, China, Brazil",
+  "awards": "Nominated for 1 Oscar. 11 wins & 75 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGRhOGNjZjEtNTU2Ni00MDlmLWI3MWEtNzc1OGE2ZmEwZGNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "6.5",
+  "imdbID": "tt2935510",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:15.595Z"
+}

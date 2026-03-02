@@ -1,0 +1,35 @@
+{
+  "title": "Brigsby Bear",
+  "year": "2017",
+  "rated": "PG-13",
+  "released": "21 Sep 2017",
+  "runtime": "97 min",
+  "genre": "Comedy, Drama",
+  "director": "Dave McCary",
+  "writer": "Kevin Costello, Kyle Mooney",
+  "actors": "Kyle Mooney, Jorge Lendeborg Jr., Matt Walsh",
+  "plot": "After being freed from his life in an underground bunker, a man sets out to make a movie of the only TV show he has ever known.",
+  "language": "English",
+  "country": "United States, China",
+  "awards": "5 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgyODgyMTYzNV5BMl5BanBnXkFtZTgwMTk5NzY2MjI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "7.3",
+  "imdbID": "tt5805752",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:45.846Z"
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608622101111",
+  "title": "Thanos #11",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Charles Beacham",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Darren Shan",
+    "Germán Peralta",
+    "Jeff Lemire",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Kathleen Wisneski",
+    "Mike Deodato",
+    "Rachelle Rosenberg",
+    "Rain Beredo",
+    "Will Robson"
+  ],
+  "publish_date": "2017-09-27",
+  "publisher": ["Marvel"],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/09/02/thanos-v2-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/5136/",
+  "fetched_at": "2026-03-02T02:08:32.729Z"
+}

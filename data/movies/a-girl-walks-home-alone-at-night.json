@@ -1,0 +1,35 @@
+{
+  "title": "A Girl Walks Home Alone at Night",
+  "year": "2014",
+  "rated": "Not Rated",
+  "released": "20 Apr 2015",
+  "runtime": "101 min",
+  "genre": "Drama, Horror, Romance",
+  "director": "Ana Lily Amirpour",
+  "writer": "Ana Lily Amirpour",
+  "actors": "Sheila Vand, Arash Marandi, Marshall Manesh",
+  "plot": "In the Iranian ghost-town Bad City, a place that reeks of death and loneliness, the townspeople are unaware they are being stalked by a lonesome vampire.",
+  "language": "Persian",
+  "country": "United States",
+  "awards": "9 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMzNjMyMjU2M15BMl5BanBnXkFtZTgwMzA3NjQ0MzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "6.9",
+  "imdbID": "tt2326554",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:58.733Z"
+}

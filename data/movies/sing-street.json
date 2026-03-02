@@ -1,0 +1,35 @@
+{
+  "title": "Sing Street",
+  "year": "2016",
+  "rated": "PG-13",
+  "released": "17 Mar 2016",
+  "runtime": "106 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "John Carney",
+  "writer": "Simon Carmody, John Carney",
+  "actors": "Ferdia Walsh-Peelo, Aidan Gillen, Maria Doyle Kennedy",
+  "plot": "A young lad notices a beautiful girl who begins to occupy his thoughts. While struggling with poverty, personal relationships and life's woes, he starts a band, hoping to catch her attention.",
+  "language": "English, French, Latin",
+  "country": "Ireland, United Kingdom, United States",
+  "awards": "16 wins & 45 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzODA3MDcxMl5BMl5BanBnXkFtZTgwODgxNDk3NzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.9",
+  "imdbID": "tt3544112",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:37.669Z"
+}

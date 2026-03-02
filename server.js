@@ -64,12 +64,10 @@ app.post('/items', authMiddleware, (req, res) => {
     exec('node scripts/generate-index.js', (error, stdout, stderr) => {
       if (error) {
         console.error(`Error regenerating index: ${error.message}`);
-        return res
-          .status(500)
-          .json({
-            error: 'Item saved but index failed',
-            detail: error.message,
-          });
+        return res.status(500).json({
+          error: 'Item saved but index failed',
+          detail: error.message,
+        });
       }
       console.log('Index regenerated successfully');
       res

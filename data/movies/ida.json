@@ -1,0 +1,35 @@
+{
+  "title": "Ida",
+  "year": "2013",
+  "rated": "PG-13",
+  "released": "25 Oct 2013",
+  "runtime": "82 min",
+  "genre": "Drama",
+  "director": "Pawel Pawlikowski",
+  "writer": "Pawel Pawlikowski, Rebecca Lenkiewicz",
+  "actors": "Agata Kulesza, Agata Trzebuchowska, Dawid Ogrodnik",
+  "plot": "A novice nun about to take her vows uncovers a family secret dating back to the German occupation.",
+  "language": "Polish, Latin, French",
+  "country": "Poland, Denmark, France, United Kingdom",
+  "awards": "Won 1 Oscar. 69 wins & 92 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI1ODAyN2EtYzg3Mi00OWY5LWI2MzgtMmVlNGRjZmNjMDgxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "metascore": "91",
+  "imdbRating": "7.4",
+  "imdbID": "tt2718492",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:22.043Z"
+}

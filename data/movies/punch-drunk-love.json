@@ -1,0 +1,35 @@
+{
+  "title": "Punch-Drunk Love",
+  "year": "2002",
+  "rated": "R",
+  "released": "01 Nov 2002",
+  "runtime": "95 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Paul Thomas Anderson",
+  "writer": "Paul Thomas Anderson",
+  "actors": "Adam Sandler, Emily Watson, Philip Seymour Hoffman",
+  "plot": "Socially frustrated Barry Egan calls a phone-sex line to curb his loneliness. Little does he know it will land him in deep trouble and will jeopardize his burgeoning romance with the mysterious Lena.",
+  "language": "English",
+  "country": "United States",
+  "awards": "14 wins & 37 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTYyMTQ2MDAtMzYzYS00YjZiLWJiNDUtZjEwNzM4YzE1ZDhhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.3",
+  "imdbID": "tt0272338",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:51.396Z"
+}

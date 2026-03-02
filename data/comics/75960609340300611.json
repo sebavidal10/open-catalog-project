@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960609340300611",
+  "title": "Thanos #6",
+  "authors": [
+    "Alan Fine",
+    "Antonio Fabela",
+    "Ariel Olivetti",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Darren Shan",
+    "Jeff Dekal",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Lauren Amaro",
+    "Tini Howard"
+  ],
+  "publish_date": "2019-09-25",
+  "publisher": ["Marvel"],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/09/20/thanos-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/5711/",
+  "fetched_at": "2026-03-02T02:09:37.970Z"
+}

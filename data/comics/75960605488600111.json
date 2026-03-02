@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960605488600111",
+  "title": "Thanos #1",
+  "authors": [
+    "Al Milgrom",
+    "Andy Schmidt",
+    "Bill Jemas",
+    "Christie Scheele",
+    "Dave Sharpe",
+    "Jim Starlin",
+    "Joe Quesada",
+    "Marc Sumerak",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2003-10-01",
+  "publisher": ["Marvel"],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/06/06/thanos-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/48935/",
+  "fetched_at": "2026-03-02T02:06:32.387Z"
+}

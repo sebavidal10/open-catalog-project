@@ -1,0 +1,35 @@
+{
+  "title": "Priscilla",
+  "year": "2023",
+  "rated": "R",
+  "released": "03 Nov 2023",
+  "runtime": "113 min",
+  "genre": "Biography, Drama, Music",
+  "director": "Sofia Coppola",
+  "writer": "Priscilla Presley, Sandra Harmon, Sofia Coppola",
+  "actors": "Cailee Spaeny, Jacob Elordi, Ari Cohen",
+  "plot": "When teenage Priscilla Beaulieu meets Elvis Presley, the man who is already a meteoric rock-and-roll superstar becomes someone entirely unexpected in private moments: a thrilling crush, an ally in loneliness, a vulnerable best fri...",
+  "language": "English, French",
+  "country": "Italy, United States, United Kingdom",
+  "awards": "6 wins & 35 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWRjYjVhYWUtNjM2OS00OWE1LTk5ZmYtZDM3MjllNzI1ZmQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "6.5",
+  "imdbID": "tt22041854",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:57.356Z"
+}

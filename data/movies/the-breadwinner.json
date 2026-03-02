@@ -1,0 +1,35 @@
+{
+  "title": "The Breadwinner",
+  "year": "2017",
+  "rated": "PG-13",
+  "released": "17 Nov 2017",
+  "runtime": "94 min",
+  "genre": "Animation, Drama, War",
+  "director": "Nora Twomey",
+  "writer": "Anita Doron, Deborah Ellis",
+  "actors": "Saara Chaudry, Soma Chhaya, Noorin Gulamgaus",
+  "plot": "In 2001, Afghanistan is under the control of the Taliban. When her father is captured, a determined young girl disguises herself as a boy in order to provide for her family.",
+  "language": "English",
+  "country": "Ireland, Canada, Luxembourg, United States, France",
+  "awards": "Nominated for 1 Oscar. 24 wins & 55 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzlhMTkzYTYtOTBiZC00NzE4LWJlM2MtMmEwMWIxNTg3YjRkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.7",
+  "imdbID": "tt3901826",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:09.122Z"
+}

@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960609340300111",
+  "title": "Thanos #1",
+  "authors": [
+    "Alan Fine",
+    "Alan Weiss",
+    "Antonio Fabela",
+    "Ariel Olivetti",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Darren Shan",
+    "Gerald Parel",
+    "Gerardo Zaffino",
+    "Israel Silva",
+    "Jason Keith",
+    "Jeff Dekal",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Joe Rubinstein",
+    "Jordan D. White",
+    "Lauren Amaro",
+    "Ron Lim",
+    "Tini Howard"
+  ],
+  "publish_date": "2019-04-24",
+  "publisher": ["Marvel"],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/24/thanos-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2075/",
+  "fetched_at": "2026-03-02T02:09:14.194Z"
+}

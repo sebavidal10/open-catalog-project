@@ -1,0 +1,35 @@
+{
+  "title": "Step Brothers",
+  "year": "2008",
+  "rated": "R",
+  "released": "25 Jul 2008",
+  "runtime": "98 min",
+  "genre": "Comedy",
+  "director": "Adam McKay",
+  "writer": "Will Ferrell, Adam McKay, John C. Reilly",
+  "actors": "Will Ferrell, John C. Reilly, Mary Steenburgen",
+  "plot": "Two aimless middle-aged losers still living at home are forced against their will to become roommates when their parents marry.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "3 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWNiOGZkOTgtNGMzMC00MDg5LTliM2UtN2VjMDI3N2ViOWE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "54%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "6.9",
+  "imdbID": "tt0838283",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:11.392Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "A Tale of Two Sisters",
+  "year": "2003",
+  "rated": "R",
+  "released": "13 Jun 2003",
+  "runtime": "114 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Kim Jee-woon",
+  "writer": "Kim Jee-woon",
+  "actors": "Lim Soo-jung, Yum Jung-ah, Kim Kap-su",
+  "plot": "After being institutionalized in a mental hospital, Su-mi reunites with her sister, Su-yeon, and they return to live at their country home. But strange events plague the house, leading to surprising revelations and a shocking conc...",
+  "language": "Korean",
+  "country": "South Korea",
+  "awards": "23 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTEwMTYwMGQtY2ZhNi00Y2QwLWIxYjktMGY1Mzk4YmE4ODY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "7.1",
+  "imdbID": "tt0365376",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:31.900Z"
+}

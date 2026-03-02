@@ -1,0 +1,35 @@
+{
+  "title": "The Gift",
+  "year": "2015",
+  "rated": "R",
+  "released": "07 Aug 2015",
+  "runtime": "108 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "Joel Edgerton",
+  "writer": "Joel Edgerton",
+  "actors": "Jason Bateman, Rebecca Hall, Joel Edgerton",
+  "plot": "A married couple, Simon and Robyn, run into Gordo, an old classmate. Things take a turn when Gordo begins to drop in unannounced at their house and inundates them with mysterious gifts.",
+  "language": "English",
+  "country": "United States, Australia, China",
+  "awards": "2 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTNlZmJiNGUtZGEwNC00MzE1LTkzNTItNGQ0NGRkYjhiYTNmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.0",
+  "imdbID": "tt4178092",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:45.932Z"
+}

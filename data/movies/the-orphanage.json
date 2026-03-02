@@ -1,0 +1,35 @@
+{
+  "title": "The Orphanage",
+  "year": "2007",
+  "rated": "R",
+  "released": "11 Jan 2008",
+  "runtime": "105 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "J.A. Bayona",
+  "writer": "Sergio G. Sánchez",
+  "actors": "Belén Rueda, Fernando Cayo, Roger Príncep",
+  "plot": "A woman brings her family back to her childhood home, which used to be an orphanage for handicapped children. Before long, her son starts to communicate with an invisible new friend.",
+  "language": "Spanish",
+  "country": "Spain, Mexico, France, Belgium",
+  "awards": "32 wins & 43 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTE3ZDYxMjctZDJhOC00NDY4LTgwMjYtOTZiNTYwM2Y1N2VhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.4",
+  "imdbID": "tt0464141",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:25.675Z"
+}

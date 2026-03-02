@@ -1,0 +1,35 @@
+{
+  "title": "Marie Antoinette",
+  "year": "2006",
+  "rated": "PG-13",
+  "released": "20 Oct 2006",
+  "runtime": "123 min",
+  "genre": "Biography, Drama, History",
+  "director": "Sofia Coppola",
+  "writer": "Sofia Coppola",
+  "actors": "Kirsten Dunst, Jason Schwartzman, Rip Torn",
+  "plot": "The retelling of France's iconic but ill-fated queen, Marie Antoinette. From her betrothal and marriage to Louis XVI at 14 to her reign as queen at 19 and to the end of her reign as queen, and ultimately the fall of Versailles.",
+  "language": "English, Latin, French",
+  "country": "United States, France, Japan",
+  "awards": "Won 1 Oscar. 19 wins & 24 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmE4NzQzNGItNTY4My00ZTBhLTk2ZjItZDJkMjRlYTE2MGRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "6.5",
+  "imdbID": "tt0422720",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:53.855Z"
+}

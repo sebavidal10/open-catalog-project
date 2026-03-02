@@ -1,0 +1,35 @@
+{
+  "title": "The Raid: Redemption",
+  "year": "2011",
+  "rated": "R",
+  "released": "13 Apr 2012",
+  "runtime": "101 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Gareth Evans",
+  "writer": "Gareth Evans",
+  "actors": "Iko Uwais, Ananda George, Ray Sahetapy",
+  "plot": "A S.W.A.T. team becomes trapped in a tenement run by a ruthless mobster and his army of killers and thugs.",
+  "language": "Indonesian, English",
+  "country": "Indonesia, France, United States",
+  "awards": "9 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGUxM2Q0MzItZDRmYy00ZWY1LWFiNzctNmY3Njg2ODJjZWNmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.6",
+  "imdbID": "tt1899353",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:03.443Z"
+}

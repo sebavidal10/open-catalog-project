@@ -1,0 +1,35 @@
+{
+  "title": "Attack the Block",
+  "year": "2011",
+  "rated": "R",
+  "released": "13 May 2011",
+  "runtime": "88 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Joe Cornish",
+  "writer": "Joe Cornish",
+  "actors": "John Boyega, Jodie Whittaker, Alex Esmail",
+  "plot": "A teen gang in South London defend their block from an alien invasion.",
+  "language": "English",
+  "country": "United Kingdom, France",
+  "awards": "Nominated for 1 BAFTA Award19 wins & 39 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAzNjc1MjgzOF5BMl5BanBnXkFtZTcwMzE3Njk5NQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "6.7",
+  "imdbID": "tt1478964",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:03.964Z"
+}

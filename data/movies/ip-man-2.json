@@ -1,0 +1,35 @@
+{
+  "title": "Ip Man 2",
+  "year": "2010",
+  "rated": "R",
+  "released": "05 Oct 2025",
+  "runtime": "108 min",
+  "genre": "Action, Biography, Drama",
+  "director": "Wilson Yip",
+  "writer": "Tai-Lee Chan, Hiu-Yan Choi, David Tadman",
+  "actors": "Donnie Yen, Xiaoming Huang, Sammo Kam-Bo Hung",
+  "plot": "Centering on Ip Man's migration to Hong Kong in 1949 as he attempts to propagate his discipline of Wing Chun martial arts.",
+  "language": "Cantonese, Chinese, English",
+  "country": "Hong Kong, China",
+  "awards": "6 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzEzYTBmYjgtNjQzMi00YmNiLTkyZGItOGFhMzEzOWY3MjI4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "7.5",
+  "imdbID": "tt1386932",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:18.953Z"
+}

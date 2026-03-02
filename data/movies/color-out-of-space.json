@@ -1,0 +1,35 @@
+{
+  "title": "Color Out of Space",
+  "year": "2019",
+  "rated": "Unrated",
+  "released": "25 Feb 2020",
+  "runtime": "111 min",
+  "genre": "Horror, Mystery, Sci-Fi",
+  "director": "Richard Stanley",
+  "writer": "H.P. Lovecraft, Richard Stanley, Scarlett Amaris",
+  "actors": "Nicolas Cage, Joely Richardson, Madeleine Arthur",
+  "plot": "A secluded farm is struck by a strange meteorite which has apocalyptic consequences for the family living there and possibly the world.",
+  "language": "English",
+  "country": "United States, Malaysia, Portugal",
+  "awards": "11 wins & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmNlNDMwNzUtYzJlOC00MjRkLTkyNjYtZjY3NTk1NjZlZGMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "6.1",
+  "imdbID": "tt5073642",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:50.591Z"
+}

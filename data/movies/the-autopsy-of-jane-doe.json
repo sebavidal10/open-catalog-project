@@ -1,0 +1,35 @@
+{
+  "title": "The Autopsy of Jane Doe",
+  "year": "2016",
+  "rated": "R",
+  "released": "21 Dec 2016",
+  "runtime": "86 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "André Øvredal",
+  "writer": "Ian Goldberg, Richard Naing",
+  "actors": "Brian Cox, Emile Hirsch, Ophelia Lovibond",
+  "plot": "Father and son coroners investigate the death of a beautiful Jane Doe.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "8 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA2MTEzMzkzM15BMl5BanBnXkFtZTgwMjM2MTM5MDI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "6.8",
+  "imdbID": "tt3289956",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:38.941Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Wailing",
+  "year": "2016",
+  "rated": "TV-MA",
+  "released": "03 Jun 2016",
+  "runtime": "156 min",
+  "genre": "Drama, Horror",
+  "director": "Na Hong-jin",
+  "writer": "Na Hong-jin",
+  "actors": "Jun Kunimura, Hwang Jung-min, Kwak Do-won",
+  "plot": "Soon after a stranger arrives in a little village, a mysterious sickness starts spreading. A policeman, drawn into the incident, is forced to solve the mystery in order to save his daughter...",
+  "language": "Korean, Japanese",
+  "country": "South Korea",
+  "awards": "34 wins & 57 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODkwMTgxNjA2NF5BMl5BanBnXkFtZTgwMDc0OTcwOTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.4",
+  "imdbID": "tt5215952",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:30.730Z"
+}

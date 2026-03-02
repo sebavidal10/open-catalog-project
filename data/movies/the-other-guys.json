@@ -1,0 +1,35 @@
+{
+  "title": "The Other Guys",
+  "year": "2010",
+  "rated": "PG-13",
+  "released": "06 Aug 2010",
+  "runtime": "107 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "Adam McKay",
+  "writer": "Adam McKay, Chris Henchy",
+  "actors": "Will Ferrell, Mark Wahlberg, Derek Jeter",
+  "plot": "Two mismatched New York City detectives seize an opportunity to step up like the city's top cops, whom they idolize, only things don't quite go as planned.",
+  "language": "English, Ukrainian",
+  "country": "United States",
+  "awards": "3 wins & 15 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODU1OTY5ZTYtNWQ0MC00ZWE1LTkyYjEtZTI2ODM1ZGE2MjBkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "6.7",
+  "imdbID": "tt1386588",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:27.201Z"
+}

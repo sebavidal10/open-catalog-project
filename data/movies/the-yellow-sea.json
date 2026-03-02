@@ -1,0 +1,35 @@
+{
+  "title": "The Yellow Sea",
+  "year": "2010",
+  "rated": "R",
+  "released": "02 Dec 2011",
+  "runtime": "136 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Na Hong-jin",
+  "writer": "Na Hong-jin, Hong Won-chan",
+  "actors": "Ha Jung-woo, Kim Yoon-seok, Jo Sung-ha",
+  "plot": "When the attempt to kill a professor goes wrong, a series of violent events are triggered which force a taxi driver to run for his life.",
+  "language": "Korean, Mandarin",
+  "country": "South Korea, Hong Kong, United States",
+  "awards": "9 wins & 24 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTRhOWY0NDMtNjgzNy00YTg3LWIxOWEtMDViNWU5OGI0Y2JlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "7.3",
+  "imdbID": "tt1230385",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:16.627Z"
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960620825800211",
+  "title": "Thanos #2",
+  "authors": [
+    "C. B. Cebulski",
+    "Christopher Cantwell",
+    "Cory Petit",
+    "Gabriel Mata",
+    "Gabriele Dell'Otto",
+    "Leinil Francis Yu",
+    "Luca Pizzari",
+    "Michelle Marchese",
+    "Ruth Redmond",
+    "Sunny Gho",
+    "Taurin Clarke",
+    "Wil Moss"
+  ],
+  "publish_date": "2024-01-03",
+  "publisher": ["Marvel"],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/01/01/7091cc68a2284cacb59d8269d3fc85e0.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/99533/",
+  "fetched_at": "2026-03-02T02:09:47.456Z"
+}

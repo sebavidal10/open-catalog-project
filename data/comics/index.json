@@ -1,5 +1,40 @@
 [
   {
+    "title": "The Thanos Quest #1",
+    "slug": "02488523232501",
+    "identifier": "02488523232501"
+  },
+  {
+    "title": "The Thanos Quest #2",
+    "slug": "02488523232502",
+    "identifier": "02488523232502"
+  },
+  {
+    "title": "Adam: Legend of the Blue Marvel #1",
+    "slug": "596060141500111",
+    "identifier": "596060141500111"
+  },
+  {
+    "title": "Adam: Legend of the Blue Marvel #2",
+    "slug": "596060141500211",
+    "identifier": "596060141500211"
+  },
+  {
+    "title": "Adam: Legend of the Blue Marvel #3",
+    "slug": "596060141500311",
+    "identifier": "596060141500311"
+  },
+  {
+    "title": "Adam: Legend of the Blue Marvel #4",
+    "slug": "596060141500411",
+    "identifier": "596060141500411"
+  },
+  {
+    "title": "Adam: Legend of the Blue Marvel #5",
+    "slug": "596060141500511",
+    "identifier": "596060141500511"
+  },
+  {
     "title": "'68 #1",
     "slug": "70985300443100111",
     "identifier": "70985300443100111"
@@ -25,9 +60,64 @@
     "identifier": "70985301018000411"
   },
   {
+    "title": "'Breed III #1",
+    "slug": "70985301027200111",
+    "identifier": "70985301027200111"
+  },
+  {
+    "title": "'Breed III #2",
+    "slug": "70985301027200211",
+    "identifier": "70985301027200211"
+  },
+  {
+    "title": "'Breed III #3",
+    "slug": "70985301027200311",
+    "identifier": "70985301027200311"
+  },
+  {
+    "title": "'Breed III #4",
+    "slug": "70985301027200411",
+    "identifier": "70985301027200411"
+  },
+  {
+    "title": "'Breed III #5",
+    "slug": "70985301027200511",
+    "identifier": "70985301027200511"
+  },
+  {
+    "title": "'Breed III #6",
+    "slug": "70985301027200611",
+    "identifier": "70985301027200611"
+  },
+  {
+    "title": "'Breed III #7",
+    "slug": "70985301027200711",
+    "identifier": "70985301027200711"
+  },
+  {
     "title": "'68 Jungle Jim #1",
     "slug": "70985301091300111",
     "identifier": "70985301091300111"
+  },
+  {
+    "title": "'68 Scars #1",
+    "slug": "70985301180400121",
+    "identifier": "70985301180400121"
+  },
+  {
+    "title": "'68 Scars #2",
+    "slug": "70985301180400211",
+    "identifier": "70985301180400211"
+  },
+  {
+    "title": "'68 Scars #3",
+    "slug": "70985301180400311",
+    "identifier": "70985301180400311"
+  },
+  {
+    "title": "'68 Scars #4",
+    "slug": "70985301180400411",
+    "identifier": "70985301180400411"
   },
   {
     "title": "'68 Jungle Jim #1",
@@ -55,6 +145,26 @@
     "identifier": "70985301513000111"
   },
   {
+    "title": "'68 Rule of War #1",
+    "slug": "70985301602100111",
+    "identifier": "70985301602100111"
+  },
+  {
+    "title": "'68 Rule of War #2",
+    "slug": "70985301602100211",
+    "identifier": "70985301602100211"
+  },
+  {
+    "title": "'68 Rule of War #3",
+    "slug": "70985301602100311",
+    "identifier": "70985301602100311"
+  },
+  {
+    "title": "'68 Rule of War #4",
+    "slug": "70985301602100411",
+    "identifier": "70985301602100411"
+  },
+  {
     "title": "'68 Homefront #1",
     "slug": "70985301707300111",
     "identifier": "70985301707300111"
@@ -75,6 +185,1046 @@
     "identifier": "70985301707300411"
   },
   {
+    "title": "'68 Jungle Jim: Guts N Glory #1",
+    "slug": "70985301848300111",
+    "identifier": "70985301848300111"
+  },
+  {
+    "title": "'68: Bad Sign #1",
+    "slug": "70985301878000111",
+    "identifier": "70985301878000111"
+  },
+  {
+    "title": "'68: Last Rites #1",
+    "slug": "70985301929900111",
+    "identifier": "70985301929900111"
+  },
+  {
+    "title": "'68: Last Rites #2",
+    "slug": "70985301929900211",
+    "identifier": "70985301929900211"
+  },
+  {
+    "title": "'68: Last Rites #3",
+    "slug": "70985301929900311",
+    "identifier": "70985301929900311"
+  },
+  {
+    "title": "'68: Last Rites #4",
+    "slug": "70985301929900411",
+    "identifier": "70985301929900411"
+  },
+  {
+    "title": "The 06 Protocol #1",
+    "slug": "72475190632800111",
+    "identifier": "72475190632800111"
+  },
+  {
+    "title": "The 06 Protocol #2",
+    "slug": "72475190632800211",
+    "identifier": "72475190632800211"
+  },
+  {
+    "title": "The 06 Protocol #3",
+    "slug": "72475190632800311",
+    "identifier": "72475190632800311"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica #1",
+    "slug": "72513020462200111",
+    "identifier": "72513020462200111"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica #2",
+    "slug": "72513020462200211",
+    "identifier": "72513020462200211"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica #3",
+    "slug": "72513020462200311",
+    "identifier": "72513020462200311"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica #4",
+    "slug": "72513020462200411",
+    "identifier": "72513020462200411"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica #5",
+    "slug": "72513020462200511",
+    "identifier": "72513020462200511"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica #6",
+    "slug": "72513020462200611",
+    "identifier": "72513020462200611"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica #7",
+    "slug": "72513020462200711",
+    "identifier": "72513020462200711"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica #8",
+    "slug": "72513020462200811",
+    "identifier": "72513020462200811"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica #9",
+    "slug": "72513020462200911",
+    "identifier": "72513020462200911"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica #10",
+    "slug": "72513020462201011",
+    "identifier": "72513020462201011"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica #11",
+    "slug": "72513020462201111",
+    "identifier": "72513020462201111"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica #12",
+    "slug": "72513020462201211",
+    "identifier": "72513020462201211"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica: Starbuck #1",
+    "slug": "72513020930600111",
+    "identifier": "72513020930600111"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica: Starbuck #2",
+    "slug": "72513020930600211",
+    "identifier": "72513020930600211"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica: Starbuck #3",
+    "slug": "72513020930600311",
+    "identifier": "72513020930600311"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica: Starbuck #4",
+    "slug": "72513020930600411",
+    "identifier": "72513020930600411"
+  },
+  {
+    "title": "(New) Battlestar Galactica: Six #1",
+    "slug": "72513021546801011",
+    "identifier": "72513021546801011"
+  },
+  {
+    "title": "(New) Battlestar Galactica: Six #2",
+    "slug": "72513021546802011",
+    "identifier": "72513021546802011"
+  },
+  {
+    "title": "(New) Battlestar Galactica: Six #3",
+    "slug": "72513021546803011",
+    "identifier": "72513021546803011"
+  },
+  {
+    "title": "(New) Battlestar Galactica: Six #4",
+    "slug": "72513021546804011",
+    "identifier": "72513021546804011"
+  },
+  {
+    "title": "(New) Battlestar Galactica: Six #5",
+    "slug": "72513021546805011",
+    "identifier": "72513021546805011"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica Annual 2014 #1",
+    "slug": "72513021547501011",
+    "identifier": "72513021547501011"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica: The Death of Apollo #1",
+    "slug": "72513022440801011",
+    "identifier": "72513022440801011"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica: The Death of Apollo #2",
+    "slug": "72513022440802011",
+    "identifier": "72513022440802011"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica: The Death of Apollo #3",
+    "slug": "72513022440803011",
+    "identifier": "72513022440803011"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica: The Death of Apollo #4",
+    "slug": "72513022440804011",
+    "identifier": "72513022440804011"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica: The Death of Apollo #5",
+    "slug": "72513022440805011",
+    "identifier": "72513022440805011"
+  },
+  {
+    "title": "(Classic) Battlestar Galactica: The Death of Apollo #6",
+    "slug": "72513022440806011",
+    "identifier": "72513022440806011"
+  },
+  {
+    "title": "10 Years To Death #1",
+    "slug": "75469799031000111",
+    "identifier": "75469799031000111"
+  },
+  {
+    "title": "The 100 Greatest Marvels of All Time #1",
+    "slug": "759606051847",
+    "identifier": "759606051847"
+  },
+  {
+    "title": "The 100 Greatest Marvels of All Time #10",
+    "slug": "759606052080",
+    "identifier": "759606052080"
+  },
+  {
+    "title": "Thanos #1",
+    "slug": "75960605488600111",
+    "identifier": "75960605488600111"
+  },
+  {
+    "title": "Thanos #2",
+    "slug": "75960605488600211",
+    "identifier": "75960605488600211"
+  },
+  {
+    "title": "Thanos #3",
+    "slug": "75960605488600311",
+    "identifier": "75960605488600311"
+  },
+  {
+    "title": "Thanos #4",
+    "slug": "75960605488600411",
+    "identifier": "75960605488600411"
+  },
+  {
+    "title": "Thanos #5",
+    "slug": "75960605488600511",
+    "identifier": "75960605488600511"
+  },
+  {
+    "title": "Thanos #6",
+    "slug": "75960605488600611",
+    "identifier": "75960605488600611"
+  },
+  {
+    "title": "Thanos #7",
+    "slug": "75960605488600711",
+    "identifier": "75960605488600711"
+  },
+  {
+    "title": "Thanos #8",
+    "slug": "75960605488600811",
+    "identifier": "75960605488600811"
+  },
+  {
+    "title": "Thanos #9",
+    "slug": "75960605488600911",
+    "identifier": "75960605488600911"
+  },
+  {
+    "title": "Thanos #10",
+    "slug": "75960605488601011",
+    "identifier": "75960605488601011"
+  },
+  {
+    "title": "Thanos #11",
+    "slug": "75960605488601111",
+    "identifier": "75960605488601111"
+  },
+  {
+    "title": "Thanos #12",
+    "slug": "75960605488601211",
+    "identifier": "75960605488601211"
+  },
+  {
+    "title": "Black Widow & The Marvel Girls #1",
+    "slug": "75960607061900111",
+    "identifier": "75960607061900111"
+  },
+  {
+    "title": "Black Widow & The Marvel Girls #2",
+    "slug": "75960607061900211",
+    "identifier": "75960607061900211"
+  },
+  {
+    "title": "Black Widow & The Marvel Girls #3",
+    "slug": "75960607061900311",
+    "identifier": "75960607061900311"
+  },
+  {
+    "title": "Black Widow & The Marvel Girls #4",
+    "slug": "75960607061900411",
+    "identifier": "75960607061900411"
+  },
+  {
+    "title": "The Thanos Imperative: Ignition #1",
+    "slug": "75960607268200111",
+    "identifier": "75960607268200111"
+  },
+  {
+    "title": "The Thanos Imperative #1",
+    "slug": "75960607271200111",
+    "identifier": "75960607271200111"
+  },
+  {
+    "title": "The Thanos Imperative #2",
+    "slug": "75960607271200211",
+    "identifier": "75960607271200211"
+  },
+  {
+    "title": "The Thanos Imperative: Devastation #1",
+    "slug": "75960607551500111",
+    "identifier": "75960607551500111"
+  },
+  {
+    "title": "Thanos Rising #3",
+    "slug": "759606078684",
+    "identifier": "759606078684"
+  },
+  {
+    "title": "Thanos Rising #1",
+    "slug": "75960607868400111",
+    "identifier": "75960607868400111"
+  },
+  {
+    "title": "Thanos Rising #2",
+    "slug": "75960607868400211",
+    "identifier": "75960607868400211"
+  },
+  {
+    "title": "All-New Marvel Now! Point One #1",
+    "slug": "75960607992600111",
+    "identifier": "75960607992600111"
+  },
+  {
+    "title": "100ᵗʰ Anniversary Special: Spider-Man #1",
+    "slug": "75960608000700211",
+    "identifier": "75960608000700211"
+  },
+  {
+    "title": "Thanos Annual #1",
+    "slug": "75960608069400111",
+    "identifier": "75960608069400111"
+  },
+  {
+    "title": "Thanos vs. Hulk #1",
+    "slug": "75960608189900111",
+    "identifier": "75960608189900111"
+  },
+  {
+    "title": "Thanos vs. Hulk #2",
+    "slug": "75960608189900211",
+    "identifier": "75960608189900211"
+  },
+  {
+    "title": "Thanos vs. Hulk #3",
+    "slug": "75960608189900311",
+    "identifier": "75960608189900311"
+  },
+  {
+    "title": "Thanos vs. Hulk #4",
+    "slug": "75960608189900411",
+    "identifier": "75960608189900411"
+  },
+  {
+    "title": "Age of Ultron vs. Marvel Zombies #1",
+    "slug": "75960608203200111",
+    "identifier": "75960608203200111"
+  },
+  {
+    "title": "Age of Ultron vs. Marvel Zombies #2",
+    "slug": "75960608203200211",
+    "identifier": "75960608203200211"
+  },
+  {
+    "title": "Age of Ultron vs. Marvel Zombies #3",
+    "slug": "75960608203200311",
+    "identifier": "75960608203200311"
+  },
+  {
+    "title": "Age of Ultron vs. Marvel Zombies #4",
+    "slug": "75960608203200411",
+    "identifier": "75960608203200411"
+  },
+  {
+    "title": "Deadpool vs. Thanos #1",
+    "slug": "75960608286500111",
+    "identifier": "75960608286500111"
+  },
+  {
+    "title": "Deadpool vs. Thanos #2",
+    "slug": "75960608286500211",
+    "identifier": "75960608286500211"
+  },
+  {
+    "title": "Deadpool vs. Thanos #3",
+    "slug": "75960608286500311",
+    "identifier": "75960608286500311"
+  },
+  {
+    "title": "Deadpool vs. Thanos #4",
+    "slug": "75960608286500411",
+    "identifier": "75960608286500411"
+  },
+  {
+    "title": "All-New All-Different Marvel Point One #1",
+    "slug": "75960608365700111",
+    "identifier": "75960608365700111"
+  },
+  {
+    "title": "Thanos #1",
+    "slug": "75960608622100111",
+    "identifier": "75960608622100111"
+  },
+  {
+    "title": "Thanos #2",
+    "slug": "75960608622100211",
+    "identifier": "75960608622100211"
+  },
+  {
+    "title": "Thanos #3",
+    "slug": "75960608622100311",
+    "identifier": "75960608622100311"
+  },
+  {
+    "title": "Thanos #4",
+    "slug": "75960608622100411",
+    "identifier": "75960608622100411"
+  },
+  {
+    "title": "Thanos #5",
+    "slug": "75960608622100511",
+    "identifier": "75960608622100511"
+  },
+  {
+    "title": "Thanos #6",
+    "slug": "75960608622100611",
+    "identifier": "75960608622100611"
+  },
+  {
+    "title": "Thanos #7",
+    "slug": "75960608622100711",
+    "identifier": "75960608622100711"
+  },
+  {
+    "title": "Thanos #8",
+    "slug": "75960608622100811",
+    "identifier": "75960608622100811"
+  },
+  {
+    "title": "Thanos #9",
+    "slug": "75960608622100911",
+    "identifier": "75960608622100911"
+  },
+  {
+    "title": "Thanos #10",
+    "slug": "75960608622101011",
+    "identifier": "75960608622101011"
+  },
+  {
+    "title": "Thanos #11",
+    "slug": "75960608622101111",
+    "identifier": "75960608622101111"
+  },
+  {
+    "title": "Thanos #12",
+    "slug": "75960608622101211",
+    "identifier": "75960608622101211"
+  },
+  {
+    "title": "Thanos #13",
+    "slug": "75960608622101311",
+    "identifier": "75960608622101311"
+  },
+  {
+    "title": "Thanos #14",
+    "slug": "75960608622101411",
+    "identifier": "75960608622101411"
+  },
+  {
+    "title": "Thanos #15",
+    "slug": "75960608622101511",
+    "identifier": "75960608622101511"
+  },
+  {
+    "title": "Thanos #16",
+    "slug": "75960608622101611",
+    "identifier": "75960608622101611"
+  },
+  {
+    "title": "Thanos #17",
+    "slug": "75960608622101711",
+    "identifier": "75960608622101711"
+  },
+  {
+    "title": "Thanos #18",
+    "slug": "75960608622101811",
+    "identifier": "75960608622101811"
+  },
+  {
+    "title": "Thanos Legacy #1",
+    "slug": "75960609117100111",
+    "identifier": "75960609117100111"
+  },
+  {
+    "title": "Age of X-Man: The Marvelous X-Men #1",
+    "slug": "75960609210900111",
+    "identifier": "75960609210900111"
+  },
+  {
+    "title": "Age of X-Man: The Marvelous X-Men #2",
+    "slug": "75960609210900211",
+    "identifier": "75960609210900211"
+  },
+  {
+    "title": "Age of X-Man: The Marvelous X-Men #3",
+    "slug": "75960609210900311",
+    "identifier": "75960609210900311"
+  },
+  {
+    "title": "Age of X-Man: The Marvelous X-Men #4",
+    "slug": "75960609210900411",
+    "identifier": "75960609210900411"
+  },
+  {
+    "title": "Age of X-Man: The Marvelous X-Men #5",
+    "slug": "75960609210900511",
+    "identifier": "75960609210900511"
+  },
+  {
+    "title": "Thanos #1",
+    "slug": "75960609340300111",
+    "identifier": "75960609340300111"
+  },
+  {
+    "title": "Thanos #2",
+    "slug": "75960609340300211",
+    "identifier": "75960609340300211"
+  },
+  {
+    "title": "Thanos #3",
+    "slug": "75960609340300311",
+    "identifier": "75960609340300311"
+  },
+  {
+    "title": "Thanos #4",
+    "slug": "75960609340300411",
+    "identifier": "75960609340300411"
+  },
+  {
+    "title": "Thanos #5",
+    "slug": "75960609340300511",
+    "identifier": "75960609340300511"
+  },
+  {
+    "title": "Thanos #6",
+    "slug": "75960609340300611",
+    "identifier": "75960609340300611"
+  },
+  {
+    "title": "Absolute Carnage: Symbiote Spider-Man #1",
+    "slug": "75960609522300111",
+    "identifier": "75960609522300111"
+  },
+  {
+    "title": "Absolute Carnage: Captain Marvel #1",
+    "slug": "75960609531500111",
+    "identifier": "75960609531500111"
+  },
+  {
+    "title": "Avengers: Marvels Snapshots #1",
+    "slug": "75960609607700111",
+    "identifier": "75960609607700111"
+  },
+  {
+    "title": "Captain America: Marvels Snapshots #1",
+    "slug": "75960609759300111",
+    "identifier": "75960609759300111"
+  },
+  {
+    "title": "Eternals: Thanos Rises #1",
+    "slug": "75960620094800111",
+    "identifier": "75960620094800111"
+  },
+  {
+    "title": "Thanos: Death Notes #1",
+    "slug": "759606204961000111",
+    "identifier": "759606204961000111"
+  },
+  {
+    "title": "Avengers Two: Wonder Man and Beast - Marvel Tales #1",
+    "slug": "75960620552300111",
+    "identifier": "75960620552300111"
+  },
+  {
+    "title": "Thanos #1",
+    "slug": "75960620825800111",
+    "identifier": "75960620825800111"
+  },
+  {
+    "title": "Thanos #2",
+    "slug": "75960620825800211",
+    "identifier": "75960620825800211"
+  },
+  {
+    "title": "Thanos #3",
+    "slug": "75960620825800311",
+    "identifier": "75960620825800311"
+  },
+  {
+    "title": "Thanos #4",
+    "slug": "75960620825800411",
+    "identifier": "75960620825800411"
+  },
+  {
+    "title": "Thanos Annual #1",
+    "slug": "75960620900200111",
+    "identifier": "75960620900200111"
+  },
+  {
+    "title": "Avengers Academy: Marvel's Voices Infinity Comic #46",
+    "slug": "75960621045904611",
+    "identifier": "75960621045904611"
+  },
+  {
+    "title": "'Patra #1",
+    "slug": "76156801259000111",
+    "identifier": "76156801259000111"
+  },
+  {
+    "title": "'Patra #2",
+    "slug": "76156801259000211",
+    "identifier": "76156801259000211"
+  },
+  {
+    "title": "'Patra #3",
+    "slug": "76156801259000311",
+    "identifier": "76156801259000311"
+  },
+  {
+    "title": "'Patra #4",
+    "slug": "76156801259000411",
+    "identifier": "76156801259000411"
+  },
+  {
+    "title": "100 Bullets #1",
+    "slug": "76194121787100111",
+    "identifier": "76194121787100111"
+  },
+  {
+    "title": "100 Bullets #2",
+    "slug": "76194121787100211",
+    "identifier": "76194121787100211"
+  },
+  {
+    "title": "All Star Batman #10",
+    "slug": "761941234457701011",
+    "identifier": "761941234457701011"
+  },
+  {
+    "title": "All Star Batman & Robin, The Boy Wonder #1",
+    "slug": "76194124658100111",
+    "identifier": "76194124658100111"
+  },
+  {
+    "title": "All Star Batman & Robin, The Boy Wonder #3",
+    "slug": "76194124658100311",
+    "identifier": "76194124658100311"
+  },
+  {
+    "title": "All Star Batman & Robin, The Boy Wonder #4",
+    "slug": "76194124658100411",
+    "identifier": "76194124658100411"
+  },
+  {
+    "title": "All Star Batman & Robin, The Boy Wonder #5",
+    "slug": "76194124658100511",
+    "identifier": "76194124658100511"
+  },
+  {
+    "title": "All Star Batman & Robin, The Boy Wonder #6",
+    "slug": "76194124658100611",
+    "identifier": "76194124658100611"
+  },
+  {
+    "title": "All Star Batman & Robin, The Boy Wonder #7",
+    "slug": "76194124658100711",
+    "identifier": "76194124658100711"
+  },
+  {
+    "title": "All Star Batman & Robin, The Boy Wonder #8",
+    "slug": "76194124658100811",
+    "identifier": "76194124658100811"
+  },
+  {
+    "title": "All Star Batman & Robin, The Boy Wonder #10",
+    "slug": "76194124658101011",
+    "identifier": "76194124658101011"
+  },
+  {
+    "title": "The All-New Batman: The Brave and the Bold #1",
+    "slug": "76194130056600111",
+    "identifier": "76194130056600111"
+  },
+  {
+    "title": "The All-New Batman: The Brave and the Bold #2",
+    "slug": "76194130056600211",
+    "identifier": "76194130056600211"
+  },
+  {
+    "title": "The All-New Batman: The Brave and the Bold #3",
+    "slug": "76194130056600311",
+    "identifier": "76194130056600311"
+  },
+  {
+    "title": "The All-New Batman: The Brave and the Bold #4",
+    "slug": "76194130056600411",
+    "identifier": "76194130056600411"
+  },
+  {
+    "title": "The All-New Batman: The Brave and the Bold #5",
+    "slug": "76194130056600511",
+    "identifier": "76194130056600511"
+  },
+  {
+    "title": "The All-New Batman: The Brave and the Bold #6",
+    "slug": "76194130056600611",
+    "identifier": "76194130056600611"
+  },
+  {
+    "title": "The All-New Batman: The Brave and the Bold #7",
+    "slug": "76194130056600711",
+    "identifier": "76194130056600711"
+  },
+  {
+    "title": "The All-New Batman: The Brave and the Bold #8",
+    "slug": "76194130056600811",
+    "identifier": "76194130056600811"
+  },
+  {
+    "title": "The All-New Batman: The Brave and the Bold #9",
+    "slug": "76194130056600911",
+    "identifier": "76194130056600911"
+  },
+  {
+    "title": "The All-New Batman: The Brave and the Bold #10",
+    "slug": "76194130056601011",
+    "identifier": "76194130056601011"
+  },
+  {
+    "title": "The All-New Batman: The Brave and the Bold #11",
+    "slug": "76194130056601111",
+    "identifier": "76194130056601111"
+  },
+  {
+    "title": "The All-New Batman: The Brave and the Bold #12",
+    "slug": "76194130056601211",
+    "identifier": "76194130056601211"
+  },
+  {
+    "title": "The All-New Batman: The Brave and the Bold #13",
+    "slug": "76194130056601311",
+    "identifier": "76194130056601311"
+  },
+  {
+    "title": "The All-New Batman: The Brave and the Bold #14",
+    "slug": "76194130056601411",
+    "identifier": "76194130056601411"
+  },
+  {
+    "title": "The All-New Batman: The Brave and the Bold #15",
+    "slug": "76194130056601511",
+    "identifier": "76194130056601511"
+  },
+  {
+    "title": "The All-New Batman: The Brave and the Bold #16",
+    "slug": "76194130056601611",
+    "identifier": "76194130056601611"
+  },
+  {
+    "title": "All Star Batman #1",
+    "slug": "76194134457700111",
+    "identifier": "76194134457700111"
+  },
+  {
+    "title": "All Star Batman #3",
+    "slug": "76194134457700311",
+    "identifier": "76194134457700311"
+  },
+  {
+    "title": "All Star Batman #4",
+    "slug": "76194134457700411",
+    "identifier": "76194134457700411"
+  },
+  {
+    "title": "All Star Batman #6",
+    "slug": "76194134457700621",
+    "identifier": "76194134457700621"
+  },
+  {
+    "title": "All Star Batman #7",
+    "slug": "76194134457700711",
+    "identifier": "76194134457700711"
+  },
+  {
+    "title": "All Star Batman #8",
+    "slug": "76194134457700811",
+    "identifier": "76194134457700811"
+  },
+  {
+    "title": "All Star Batman #9",
+    "slug": "76194134457700911",
+    "identifier": "76194134457700911"
+  },
+  {
+    "title": "All Star Batman #11",
+    "slug": "76194134457701111",
+    "identifier": "76194134457701111"
+  },
+  {
+    "title": "All Star Batman #13",
+    "slug": "76194134457701311",
+    "identifier": "76194134457701311"
+  },
+  {
+    "title": "All Star Batman #14",
+    "slug": "76194134457701411",
+    "identifier": "76194134457701411"
+  },
+  {
+    "title": "Absolute Batman #1",
+    "slug": "76194138584600111",
+    "identifier": "76194138584600111"
+  },
+  {
+    "title": "Absolute Batman #2",
+    "slug": "76194138584600211",
+    "identifier": "76194138584600211"
+  },
+  {
+    "title": "Absolute Batman #3",
+    "slug": "76194138584600311",
+    "identifier": "76194138584600311"
+  },
+  {
+    "title": "Absolute Batman #4",
+    "slug": "76194138584600411",
+    "identifier": "76194138584600411"
+  },
+  {
+    "title": "Absolute Batman #5",
+    "slug": "76194138584600511",
+    "identifier": "76194138584600511"
+  },
+  {
+    "title": "Absolute Batman #6",
+    "slug": "76194138584600611",
+    "identifier": "76194138584600611"
+  },
+  {
+    "title": "Absolute Batman #7",
+    "slug": "76194138584600711",
+    "identifier": "76194138584600711"
+  },
+  {
+    "title": "Absolute Batman #8",
+    "slug": "76194138584600811",
+    "identifier": "76194138584600811"
+  },
+  {
+    "title": "Absolute Batman #9",
+    "slug": "76194138584600911",
+    "identifier": "76194138584600911"
+  },
+  {
+    "title": "Absolute Batman #14",
+    "slug": "76194138584601411",
+    "identifier": "76194138584601411"
+  },
+  {
+    "title": "Absolute Batman #15",
+    "slug": "76194138584601511",
+    "identifier": "76194138584601511"
+  },
+  {
+    "title": "Absolute Batman #16",
+    "slug": "76194138584601611",
+    "identifier": "76194138584601611"
+  },
+  {
+    "title": "Absolute Batman #17",
+    "slug": "76194138584601711",
+    "identifier": "76194138584601711"
+  },
+  {
+    "title": "Absolute Batman #18",
+    "slug": "76194138584601811",
+    "identifier": "76194138584601811"
+  },
+  {
+    "title": "Absolute Superman #1",
+    "slug": "76194138585300111",
+    "identifier": "76194138585300111"
+  },
+  {
+    "title": "Absolute Superman #2",
+    "slug": "76194138585300211",
+    "identifier": "76194138585300211"
+  },
+  {
+    "title": "Absolute Superman #3",
+    "slug": "76194138585300311",
+    "identifier": "76194138585300311"
+  },
+  {
+    "title": "Absolute Superman #4",
+    "slug": "76194138585300411",
+    "identifier": "76194138585300411"
+  },
+  {
+    "title": "Absolute Superman #5",
+    "slug": "76194138585300511",
+    "identifier": "76194138585300511"
+  },
+  {
+    "title": "Absolute Superman #6",
+    "slug": "76194138585300611",
+    "identifier": "76194138585300611"
+  },
+  {
+    "title": "Absolute Superman #7",
+    "slug": "76194138585300711",
+    "identifier": "76194138585300711"
+  },
+  {
+    "title": "Absolute Superman #8",
+    "slug": "76194138585300811",
+    "identifier": "76194138585300811"
+  },
+  {
+    "title": "Absolute Superman #9",
+    "slug": "76194138585300911",
+    "identifier": "76194138585300911"
+  },
+  {
+    "title": "Absolute Superman #10",
+    "slug": "76194138585301011",
+    "identifier": "76194138585301011"
+  },
+  {
+    "title": "Absolute Superman #11",
+    "slug": "76194138585301111",
+    "identifier": "76194138585301111"
+  },
+  {
+    "title": "Absolute Superman #12",
+    "slug": "76194138585301211",
+    "identifier": "76194138585301211"
+  },
+  {
+    "title": "Absolute Superman #13",
+    "slug": "76194138585301311",
+    "identifier": "76194138585301311"
+  },
+  {
+    "title": "Absolute Superman #14",
+    "slug": "76194138585301411",
+    "identifier": "76194138585301411"
+  },
+  {
+    "title": "Absolute Superman #15",
+    "slug": "76194138585301511",
+    "identifier": "76194138585301511"
+  },
+  {
+    "title": "Absolute Superman #16",
+    "slug": "76194138585301611",
+    "identifier": "76194138585301611"
+  },
+  {
+    "title": "Absolute Superman #17",
+    "slug": "76194138585301711",
+    "identifier": "76194138585301711"
+  },
+  {
+    "title": "Absolute Batman Noir Edition #1",
+    "slug": "76194138907300111",
+    "identifier": "76194138907300111"
+  },
+  {
+    "title": "Absolute Batman 2025 Annual #1",
+    "slug": "76194139348300111",
+    "identifier": "76194139348300111"
+  },
+  {
+    "title": "Absolute Batman: Ark-M #1",
+    "slug": "76194139648400111",
+    "identifier": "76194139648400111"
+  },
+  {
+    "title": "Archie Meets Batman '66 #1",
+    "slug": "76281654852600111",
+    "identifier": "76281654852600111"
+  },
+  {
+    "title": "Archie Meets Batman '66 #2",
+    "slug": "76281654852600211",
+    "identifier": "76281654852600211"
+  },
+  {
+    "title": "Archie Meets Batman '66 #3",
+    "slug": "76281654852600311",
+    "identifier": "76281654852600311"
+  },
+  {
+    "title": "Archie Meets Batman '66 #4",
+    "slug": "76281654852600411",
+    "identifier": "76281654852600411"
+  },
+  {
+    "title": "Archie Meets Batman '66 #5",
+    "slug": "76281654852600511",
+    "identifier": "76281654852600511"
+  },
+  {
+    "title": "Archie Meets Batman '66 #6",
+    "slug": "76281654852600611",
+    "identifier": "76281654852600611"
+  },
+  {
+    "title": "10 Tons of Fun Preview: Free Comic Book Day 2021 #1",
+    "slug": "80680295892700111",
+    "identifier": "80680295892700111"
+  },
+  {
+    "title": "Thanos: The Infinity Revelation #1",
+    "slug": "978078518470652499",
+    "identifier": "978078518470652499"
+  },
+  {
+    "title": "Thanos: The Infinity Relativity #1",
+    "slug": "978078519303652499",
+    "identifier": "978078519303652499"
+  },
+  {
+    "title": "Thanos: The Infinity Finale #1",
+    "slug": "978078519305052499",
+    "identifier": "978078519305052499"
+  },
+  {
+    "title": "8-Bit Zombie: The Full Byte #1",
+    "slug": "9780930655273",
+    "identifier": "9780930655273"
+  },
+  {
     "title": "Guardians of the Galaxy",
     "slug": "9781302915544",
     "identifier": "9781302915544"
@@ -83,5 +1233,25 @@
     "title": "'68 Compendium #1",
     "slug": "9781534332126",
     "identifier": "9781534332126"
+  },
+  {
+    "title": "Absolute Batman #1",
+    "slug": "9781799505259",
+    "identifier": "9781799505259"
+  },
+  {
+    "title": "Absolute Superman #1",
+    "slug": "9781799505334",
+    "identifier": "9781799505334"
+  },
+  {
+    "title": "Absolute Batman #2",
+    "slug": "9781799507512",
+    "identifier": "9781799507512"
+  },
+  {
+    "title": "Absolute Superman #2",
+    "slug": "9781799507529",
+    "identifier": "9781799507529"
   }
 ]

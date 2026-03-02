@@ -1,0 +1,35 @@
+{
+  "title": "Persepolis",
+  "year": "2007",
+  "rated": "PG-13",
+  "released": "22 Feb 2008",
+  "runtime": "96 min",
+  "genre": "Animation, Biography, Drama",
+  "director": "Vincent Paronnaud, Marjane Satrapi",
+  "writer": "Marjane Satrapi, Vincent Paronnaud",
+  "actors": "Chiara Mastroianni, Catherine Deneuve, Gena Rowlands",
+  "plot": "A precocious and outspoken Iranian girl grows up during the Islamic Revolution.",
+  "language": "French, English, Persian, German",
+  "country": "France, United States",
+  "awards": "Nominated for 1 Oscar. 30 wins & 58 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzk3NTI2NGUtNmM1Yy00YTRmLWE2YTItZTYyNGM0ZjdjOTliXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "8.0",
+  "imdbID": "tt0808417",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:02.136Z"
+}

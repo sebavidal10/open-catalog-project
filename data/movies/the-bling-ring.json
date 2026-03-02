@@ -1,0 +1,35 @@
+{
+  "title": "The Bling Ring",
+  "year": "2013",
+  "rated": "R",
+  "released": "21 Jun 2013",
+  "runtime": "90 min",
+  "genre": "Biography, Crime, Drama",
+  "director": "Sofia Coppola",
+  "writer": "Sofia Coppola, Nancy Jo Sales",
+  "actors": "Katie Chang, Israel Broussard, Emma Watson",
+  "plot": "Inspired by actual events, a group of fame-obsessed teenagers use the internet to track celebrities' whereabouts in order to rob their homes.",
+  "language": "English",
+  "country": "United States, United Kingdom, France, Germany, Japan",
+  "awards": "4 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQzMTgwMzQxN15BMl5BanBnXkFtZTcwOTcwNTY0OQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "59%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "5.6",
+  "imdbID": "tt2132285",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:55.028Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Before Midnight",
+  "year": "2013",
+  "rated": "R",
+  "released": "14 Jun 2013",
+  "runtime": "109 min",
+  "genre": "Drama, Romance",
+  "director": "Richard Linklater",
+  "writer": "Richard Linklater, Julie Delpy, Ethan Hawke",
+  "actors": "Ethan Hawke, Julie Delpy, Seamus Davey-Fitzpatrick",
+  "plot": "We meet Jesse and Celine nine years on in Greece. Almost two decades have passed since their first meeting on that train bound for Vienna.",
+  "language": "English, Greek, French",
+  "country": "United States, Greece",
+  "awards": "Nominated for 1 Oscar. 20 wins & 64 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NzgxODE2NF5BMl5BanBnXkFtZTcwNTI1NTI0OQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "7.9",
+  "imdbID": "tt2209418",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:45.553Z"
+}

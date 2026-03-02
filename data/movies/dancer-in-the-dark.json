@@ -1,0 +1,35 @@
+{
+  "title": "Dancer in the Dark",
+  "year": "2000",
+  "rated": "R",
+  "released": "06 Oct 2000",
+  "runtime": "135 min",
+  "genre": "Crime, Drama, Musical",
+  "director": "Lars von Trier",
+  "writer": "Lars von Trier, Sjón",
+  "actors": "Björk, Catherine Deneuve, David Morse",
+  "plot": "An Eastern European US immigrant with a love for musicals has to cope with the gradual loss of her vision.",
+  "language": "English, German, Czech",
+  "country": "Denmark, Germany, Netherlands, Italy, United States, United Kingdom, France, Sweden, Finland, Iceland, Norway",
+  "awards": "Nominated for 1 Oscar. 34 wins & 48 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDg3NWFlYWEtZjQ3Ny00Y2ZjLWI3ZWYtN2ZmMDA4MThkZTg2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "7.9",
+  "imdbID": "tt0168629",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:10.223Z"
+}

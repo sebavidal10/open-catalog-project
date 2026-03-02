@@ -1,0 +1,35 @@
+{
+  "title": "The Life Aquatic with Steve Zissou",
+  "year": "2004",
+  "rated": "R",
+  "released": "25 Dec 2004",
+  "runtime": "119 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Wes Anderson",
+  "writer": "Wes Anderson, Noah Baumbach",
+  "actors": "Bill Murray, Owen Wilson, Anjelica Huston",
+  "plot": "With a plan to exact revenge on a legendary shark that killed his partner, oceanographer Steve Zissou (Bill Murray) rallies a crew that includes his estranged wife, a journalist, and a man who may or may not be his son.",
+  "language": "English, Icelandic, Filipino, Portuguese, French, Tagalog, German, Italian",
+  "country": "United States",
+  "awards": "3 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzODYzNzg2MF5BMl5BanBnXkFtZTcwMTkzOTQzMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.2",
+  "imdbID": "tt0362270",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:03.189Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Good Time",
+  "year": "2017",
+  "rated": "R",
+  "released": "25 Aug 2017",
+  "runtime": "102 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Benny Safdie, Josh Safdie",
+  "writer": "Ronald Bronstein, Josh Safdie",
+  "actors": "Robert Pattinson, Benny Safdie, Jennifer Jason Leigh",
+  "plot": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
+  "language": "English",
+  "country": "United States",
+  "awards": "6 wins & 47 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTYwOTJmYmItYjA3MS00MGYyLTg3YjgtNDljM2U5MzgwNjNmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "7.3",
+  "imdbID": "tt4846232",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:53.020Z"
+}

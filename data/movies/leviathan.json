@@ -1,0 +1,35 @@
+{
+  "title": "Leviathan",
+  "year": "2014",
+  "rated": "R",
+  "released": "05 Feb 2015",
+  "runtime": "140 min",
+  "genre": "Crime, Drama",
+  "director": "Andrey Zvyagintsev",
+  "writer": "Oleg Negin, Andrey Zvyagintsev",
+  "actors": "Aleksey Serebryakov, Elena Lyadova, Roman Madyanov",
+  "plot": "In a Russian coastal town, Kolya is forced to fight the corrupt mayor when he is told that his house will be demolished. He recruits a lawyer friend to help, but the man's arrival brings further misfortune for Kolya and his family.",
+  "language": "Russian",
+  "country": "Russia",
+  "awards": "Nominated for 1 Oscar. 38 wins & 52 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAwMTY3MTU0Ml5BMl5BanBnXkFtZTgwNzE0ODAwMzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "metascore": "92",
+  "imdbRating": "7.6",
+  "imdbID": "tt2802154",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:33.937Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Endless",
+  "year": "2017",
+  "rated": "Not Rated",
+  "released": "06 Apr 2018",
+  "runtime": "111 min",
+  "genre": "Horror, Mystery, Sci-Fi",
+  "director": "Justin Benson, Aaron Moorhead",
+  "writer": "Justin Benson",
+  "actors": "Aaron Moorhead, Justin Benson, Callie Hernandez",
+  "plot": "As kids, they escaped a UFO death cult. Now, two adult brothers seek answers after an old videotape surfaces and brings them back to where they began.",
+  "language": "English",
+  "country": "United States",
+  "awards": "5 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjA5OTI1MjgwMl5BMl5BanBnXkFtZTgwMDU2NzY2NDM@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "6.5",
+  "imdbID": "tt3986820",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:10.936Z"
+}

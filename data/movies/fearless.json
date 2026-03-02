@@ -1,0 +1,35 @@
+{
+  "title": "Fearless",
+  "year": "2006",
+  "rated": "PG-13",
+  "released": "22 Sep 2006",
+  "runtime": "104 min",
+  "genre": "Action, Biography, Drama",
+  "director": "Ronny Yu",
+  "writer": "Chris Chow, Chi-Long To, Bin Wang",
+  "actors": "Jet Li, Li Sun, Yong Dong",
+  "plot": "A biography of Chinese Martial Arts Master Huo Yuanjia, who is the founder and spiritual guru of the Jin Wu Sports Federation.",
+  "language": "Mandarin, Japanese, English",
+  "country": "China, Hong Kong, United States",
+  "awards": "6 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjI1N2ZmOWMtODE2ZS00MzU5LWJhMzYtNWNmNDQ2NGIzNDM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "7.6",
+  "imdbID": "tt0446059",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:24.951Z"
+}

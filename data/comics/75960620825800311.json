@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960620825800311",
+  "title": "Thanos #3",
+  "authors": [
+    "Alex Sinclair",
+    "C. B. Cebulski",
+    "Christopher Cantwell",
+    "Cory Petit",
+    "Gabriel Mata",
+    "George Pérez",
+    "Germán Peralta",
+    "Leinil Francis Yu",
+    "Luca Pizzari",
+    "Michelle Marchese",
+    "Ruth Redmond",
+    "Sunny Gho",
+    "Wil Moss"
+  ],
+  "publish_date": "2024-02-07",
+  "publisher": ["Marvel"],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/01/29/40c24f3dd00746f1b4706829308c086a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/107235/",
+  "fetched_at": "2026-03-02T02:09:52.966Z"
+}

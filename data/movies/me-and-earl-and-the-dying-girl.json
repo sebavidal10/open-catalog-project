@@ -1,0 +1,35 @@
+{
+  "title": "Me and Earl and the Dying Girl",
+  "year": "2015",
+  "rated": "PG-13",
+  "released": "01 Jul 2015",
+  "runtime": "105 min",
+  "genre": "Comedy, Drama",
+  "director": "Alfonso Gomez-Rejon",
+  "writer": "Jesse Andrews",
+  "actors": "Thomas Mann, RJ Cyler, Olivia Cooke",
+  "plot": "High schooler Greg, who spends most of his time making parodies of classic movies with his co-worker Earl, finds his outlook forever altered after befriending a classmate who has just been diagnosed with cancer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "18 wins & 30 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTA1NzUzNjY4MV5BMl5BanBnXkFtZTgwNDU0MDI0NTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.7",
+  "imdbID": "tt2582496",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:34.167Z"
+}

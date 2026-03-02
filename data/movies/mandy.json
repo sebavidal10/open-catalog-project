@@ -1,0 +1,35 @@
+{
+  "title": "Mandy",
+  "year": "2018",
+  "rated": "Not Rated",
+  "released": "14 Sep 2018",
+  "runtime": "121 min",
+  "genre": "Action, Fantasy, Horror",
+  "director": "Panos Cosmatos",
+  "writer": "Panos Cosmatos, Aaron Stewart-Ahn, Casper Kelly",
+  "actors": "Nicolas Cage, Andrea Riseborough, Linus Roache",
+  "plot": "The enchanted lives of a couple in a secluded forest are brutally shattered by a nightmarish hippie cult and their demon-biker henchmen, propelling a man into a spiraling, surreal rampage of vengeance.",
+  "language": "English",
+  "country": "United Kingdom, Belgium, United States",
+  "awards": "13 wins & 43 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGI1NTNhNzctOTk4OC00N2RjLTkwYTgtOGMwMWFjMzM5ZjNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "6.5",
+  "imdbID": "tt6998518",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:49.428Z"
+}

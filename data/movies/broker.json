@@ -1,0 +1,35 @@
+{
+  "title": "Broker",
+  "year": "2022",
+  "rated": "R",
+  "released": "08 Jun 2022",
+  "runtime": "129 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Hirokazu Koreeda",
+  "writer": "Hirokazu Koreeda",
+  "actors": "Song Kang-ho, Gang Dong-won, Bae Doona",
+  "plot": "When a young mother reconsiders abandoning her baby, she discovers a scheme selling foundlings for adoption.",
+  "language": "Korean",
+  "country": "South Korea",
+  "awards": "11 wins & 30 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDRmYTY2ZTgtZDJlNi00OTBhLTg4MjYtNTQ0YmZjOWNlYWQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.1",
+  "imdbID": "tt13056052",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:36.262Z"
+}

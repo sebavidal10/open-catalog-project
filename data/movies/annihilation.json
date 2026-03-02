@@ -1,0 +1,35 @@
+{
+  "title": "Annihilation",
+  "year": "2018",
+  "rated": "R",
+  "released": "23 Feb 2018",
+  "runtime": "115 min",
+  "genre": "Adventure, Drama, Horror",
+  "director": "Alex Garland",
+  "writer": "Alex Garland, Jeff VanderMeer",
+  "actors": "Natalie Portman, Jennifer Jason Leigh, Tessa Thompson",
+  "plot": "A biologist signs up for a dangerous, secret expedition in which the laws of nature don't apply.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "17 wins & 63 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk2Mjc2NzYxNl5BMl5BanBnXkFtZTgwMTA2OTA1NDM@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "6.8",
+  "imdbID": "tt2798920",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:19:59.284Z"
+}

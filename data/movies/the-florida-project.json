@@ -1,0 +1,35 @@
+{
+  "title": "The Florida Project",
+  "year": "2017",
+  "rated": "R",
+  "released": "10 Nov 2017",
+  "runtime": "111 min",
+  "genre": "Drama",
+  "director": "Sean Baker",
+  "writer": "Sean Baker, Chris Bergoch",
+  "actors": "Brooklynn Prince, Bria Vinaite, Willem Dafoe",
+  "plot": "A single mother and the manager of a roadside motel do their utmost to maintain the innocence of a six-year-old girl's life.",
+  "language": "English, Spanish, Portuguese",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 68 wins & 134 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDBhM2MxYjAtMWFiYy00MWMwLThkMDYtN2M1ZWY3NjkxNGExXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "metascore": "92",
+  "imdbRating": "7.6",
+  "imdbID": "tt5649144",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:39.751Z"
+}

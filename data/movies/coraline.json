@@ -1,0 +1,35 @@
+{
+  "title": "Coraline",
+  "year": "2009",
+  "rated": "PG",
+  "released": "06 Feb 2009",
+  "runtime": "100 min",
+  "genre": "Animation, Drama, Family",
+  "director": "Henry Selick",
+  "writer": "Henry Selick, Neil Gaiman",
+  "actors": "Dakota Fanning, Teri Hatcher, John Hodgman",
+  "plot": "Wandering her rambling old house in her boring new town, a young girl discovers a hidden door to a strangely idealized version of her life that seems too good to be true.",
+  "language": "English, Russian",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 8 wins & 46 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzQxNjM5NzkxNV5BMl5BanBnXkFtZTcwMzg5NDMwMg@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "7.8",
+  "imdbID": "tt0327597",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:43.154Z"
+}

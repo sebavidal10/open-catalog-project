@@ -1,0 +1,35 @@
+{
+  "title": "I'm Thinking of Ending Things",
+  "year": "2020",
+  "rated": "R",
+  "released": "04 Sep 2020",
+  "runtime": "134 min",
+  "genre": "Drama, Thriller",
+  "director": "Charlie Kaufman",
+  "writer": "Charlie Kaufman, Iain Reid",
+  "actors": "Jesse Plemons, Jessie Buckley, Toni Collette",
+  "plot": "Full of misgivings, a young woman travels with her new boyfriend to his parents' secluded farm. Upon arriving, she comes to question everything she thought she knew about him, and herself.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "13 wins & 102 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTgxNWU0MGMtMDI1Ny00NDIwLTllYzYtZDkyOTVmYmFhZGM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "6.5",
+  "imdbID": "tt7939766",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:52.625Z"
+}

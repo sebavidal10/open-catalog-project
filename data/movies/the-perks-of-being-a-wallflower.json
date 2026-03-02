@@ -1,0 +1,35 @@
+{
+  "title": "The Perks of Being a Wallflower",
+  "year": "2012",
+  "rated": "PG-13",
+  "released": "12 Oct 2012",
+  "runtime": "103 min",
+  "genre": "Drama",
+  "director": "Stephen Chbosky",
+  "writer": "Stephen Chbosky",
+  "actors": "Logan Lerman, Emma Watson, Ezra Miller",
+  "plot": "A pair of charismatic seniors take socially awkward Charlie under their wing.",
+  "language": "English",
+  "country": "United States",
+  "awards": "20 wins & 51 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTY0ZTI2NzQtYWI1YS00ZWM3LWFmMjMtZWYxNmNmOTI0MGJjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "7.9",
+  "imdbID": "tt1659337",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:36.503Z"
+}

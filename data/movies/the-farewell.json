@@ -1,0 +1,35 @@
+{
+  "title": "The Farewell",
+  "year": "2019",
+  "rated": "PG",
+  "released": "09 Aug 2019",
+  "runtime": "100 min",
+  "genre": "Comedy, Drama",
+  "director": "Lulu Wang",
+  "writer": "Lulu Wang",
+  "actors": "Shuzhen Zhao, Awkwafina, X Mayo",
+  "plot": "A Chinese family discovers their grandmother has only a short while left to live and decide to keep her in the dark, scheduling a wedding to gather before she dies.",
+  "language": "Mandarin, English, Japanese, Italian",
+  "country": "United States, China",
+  "awards": "Nominated for 1 BAFTA Award37 wins & 194 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjdlZDI1OWYtZWU4MC00NDhkLThmOWEtMTZiODFhZThkMjA4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "7.5",
+  "imdbID": "tt8637428",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:38.591Z"
+}

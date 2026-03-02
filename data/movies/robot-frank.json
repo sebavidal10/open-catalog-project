@@ -1,0 +1,35 @@
+{
+  "title": "Robot & Frank",
+  "year": "2012",
+  "rated": "PG-13",
+  "released": "17 Aug 2012",
+  "runtime": "89 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Jake Schreier",
+  "writer": "Christopher Ford",
+  "actors": "Peter Sarsgaard, Frank Langella, Susan Sarandon",
+  "plot": "In the near future, an ex-jewel thief receives a gift from his son: a robot butler programmed to look after him. But soon the two companions try their luck as a heist team.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUzMTE0NTk4Ml5BMl5BanBnXkFtZTcwNjQ1OTMwOA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "7.0",
+  "imdbID": "tt1990314",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:20.245Z"
+}

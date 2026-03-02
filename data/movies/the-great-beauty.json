@@ -1,0 +1,35 @@
+{
+  "title": "The Great Beauty",
+  "year": "2013",
+  "rated": "Not Rated",
+  "released": "14 Mar 2014",
+  "runtime": "141 min",
+  "genre": "Drama",
+  "director": "Paolo Sorrentino",
+  "writer": "Paolo Sorrentino, Umberto Contarello",
+  "actors": "Toni Servillo, Carlo Verdone, Sabrina Ferilli",
+  "plot": "Jep Gambardella has seduced his way through the lavish nightlife of Rome for decades, but after his 65th birthday and a shock from the past, Jep looks past the nightclubs and parties to find a timeless landscape of absurd, exquisi...",
+  "language": "Italian, Japanese, Spanish, Chinese, French, Latin, German, English",
+  "country": "Italy, France",
+  "awards": "Won 1 Oscar. 60 wins & 78 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0ODg1OTQ2Nl5BMl5BanBnXkFtZTgwNTc2MDY1MDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.7",
+  "imdbID": "tt2358891",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:19.709Z"
+}

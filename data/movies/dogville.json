@@ -1,0 +1,35 @@
+{
+  "title": "Dogville",
+  "year": "2003",
+  "rated": "R",
+  "released": "23 Apr 2004",
+  "runtime": "171 min",
+  "genre": "Crime, Drama",
+  "director": "Lars von Trier",
+  "writer": "Lars von Trier",
+  "actors": "Nicole Kidman, Paul Bettany, Lauren Bacall",
+  "plot": "A woman on the run from the mob is reluctantly accepted in a small Colorado community in exchange for labor, but when a search visits the town she finds out that their support has a price.",
+  "language": "English, French",
+  "country": "Denmark, Netherlands, Sweden, Germany, United Kingdom, France, Finland, Norway, Italy",
+  "awards": "21 wins & 33 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMThkZDEzYWEtMDZhMC00NWQwLTlmMWYtNTEwYjMzY2UxMDRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "8.0",
+  "imdbID": "tt0276919",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:04.364Z"
+}

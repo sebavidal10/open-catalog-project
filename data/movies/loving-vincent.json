@@ -1,0 +1,35 @@
+{
+  "title": "Loving Vincent",
+  "year": "2017",
+  "rated": "PG-13",
+  "released": "22 Sep 2017",
+  "runtime": "94 min",
+  "genre": "Animation, Drama, Mystery",
+  "director": "DK Welchman, Hugh Welchman",
+  "writer": "DK Welchman, Hugh Welchman, Jacek Dehnel",
+  "actors": "Douglas Booth, Jerome Flynn, Robert Gulaczyk",
+  "plot": "In a story depicted in oil painted animation, a young man comes to the last hometown of painter Vincent van Gogh to deliver the troubled artist's final letter and ends up investigating his final days there.",
+  "language": "English",
+  "country": "Poland, United Kingdom, United States, Switzerland, Netherlands",
+  "awards": "Nominated for 1 Oscar. 24 wins & 54 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU3NjE2NjgwN15BMl5BanBnXkFtZTgwNDYzMzEwMzI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.8",
+  "imdbID": "tt3262342",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:45.787Z"
+}

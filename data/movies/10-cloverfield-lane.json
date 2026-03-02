@@ -1,0 +1,35 @@
+{
+  "title": "10 Cloverfield Lane",
+  "year": "2016",
+  "rated": "PG-13",
+  "released": "11 Mar 2016",
+  "runtime": "103 min",
+  "genre": "Drama, Horror, Sci-Fi",
+  "director": "Dan Trachtenberg",
+  "writer": "Josh Campbell, Matt Stuecken, Damien Chazelle",
+  "actors": "John Goodman, Mary Elizabeth Winstead, John Gallagher Jr.",
+  "plot": "A young woman is held in an underground bunker by a man who insists that a hostile event has left the surface of the Earth uninhabitable.",
+  "language": "English",
+  "country": "United States",
+  "awards": "16 wins & 48 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMjczOTIxMV5BMl5BanBnXkFtZTgwOTUwMjI3NzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.2",
+  "imdbID": "tt1179933",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:47.106Z"
+}

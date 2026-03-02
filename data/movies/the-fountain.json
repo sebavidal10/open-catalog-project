@@ -1,0 +1,35 @@
+{
+  "title": "The Fountain",
+  "year": "2006",
+  "rated": "PG-13",
+  "released": "22 Nov 2006",
+  "runtime": "97 min",
+  "genre": "Drama, Mystery, Romance",
+  "director": "Darren Aronofsky",
+  "writer": "Darren Aronofsky, Ari Handel",
+  "actors": "Hugh Jackman, Rachel Weisz, Sean Patrick Thomas",
+  "plot": "As a modern-day scientist, Tommy is struggling with mortality, desperately searching for the medical breakthrough that will save the life of his cancer-stricken wife, Izzi.",
+  "language": "English, Maya",
+  "country": "United States, Canada",
+  "awards": "9 wins & 38 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU5OTczMTcxMV5BMl5BanBnXkFtZTcwNDg3MTEzMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "52%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "7.1",
+  "imdbID": "tt0414993",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:01.636Z"
+}

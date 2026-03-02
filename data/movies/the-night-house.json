@@ -1,0 +1,35 @@
+{
+  "title": "The Night House",
+  "year": "2020",
+  "rated": "R",
+  "released": "20 Aug 2021",
+  "runtime": "107 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "David Bruckner",
+  "writer": "Ben Collins, Luke Piotrowski",
+  "actors": "Rebecca Hall, Sarah Goldberg, Vondie Curtis-Hall",
+  "plot": "A widow begins to uncover her recently deceased husband's disturbing secrets.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "1 win & 19 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2U1MzRiN2UtZjkyMS00MGEwLWIyYTktNjMyMmUzZmMyMGRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "6.4",
+  "imdbID": "tt9731534",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:02.281Z"
+}

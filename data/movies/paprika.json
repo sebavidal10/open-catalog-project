@@ -1,0 +1,35 @@
+{
+  "title": "Paprika",
+  "year": "2006",
+  "rated": "R",
+  "released": "22 Jun 2007",
+  "runtime": "90 min",
+  "genre": "Animation, Drama, Fantasy",
+  "director": "Satoshi Kon",
+  "writer": "Yasutaka Tsutsui, Seishi Minakami, Satoshi Kon",
+  "actors": "Megumi Hayashibara, Tôru Emori, Katsunosuke Hori",
+  "plot": "When a machine that allows therapists to enter their patients' dreams is stolen, all hell breaks loose. Only a young female therapist, Paprika, can stop it.",
+  "language": "Japanese, English",
+  "country": "Japan",
+  "awards": "6 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGJkYjkyMDUtM2U3ZC00NDM3LWI0MzItZjU5MmYwYjg2YmIwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.7",
+  "imdbID": "tt0851578",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:59.803Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Waking Life",
+  "year": "2001",
+  "rated": "R",
+  "released": "07 Mar 2002",
+  "runtime": "99 min",
+  "genre": "Animation, Drama, Fantasy",
+  "director": "Richard Linklater",
+  "writer": "Richard Linklater",
+  "actors": "Ethan Hawke, Trevor Jack Brooks, Lorelei Linklater",
+  "plot": "A man shuffles through a dream meeting various people and discussing the meanings and purposes of the universe.",
+  "language": "English",
+  "country": "United States",
+  "awards": "5 wins & 21 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjkyYzhkZjgtODhiNi00Yjk3LWJkY2ItMTQ0NTlhMDljYjY5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "7.6",
+  "imdbID": "tt0243017",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:04.462Z"
+}

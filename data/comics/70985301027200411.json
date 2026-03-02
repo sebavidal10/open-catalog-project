@@ -2,14 +2,9 @@
   "isbn": null,
   "upc": "70985301027200411",
   "title": "'Breed III #4",
-  "authors": [
-    "Ed Dukeshire",
-    "Jim Starlin"
-  ],
+  "authors": ["Ed Dukeshire", "Jim Starlin"],
   "publish_date": "2011-08-10",
-  "publisher": [
-    "Image Comics"
-  ],
+  "publisher": ["Image Comics"],
   "pages": 0,
   "cover": "https://static.metron.cloud/media/issue/2023/12/02/74763df177a94a3d926d57875ceb0cfa.jpg",
   "subjects": [],

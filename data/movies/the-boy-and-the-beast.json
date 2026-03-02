@@ -1,0 +1,35 @@
+{
+  "title": "The Boy and the Beast",
+  "year": "2015",
+  "rated": "PG-13",
+  "released": "11 Jul 2015",
+  "runtime": "119 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Mamoru Hosoda",
+  "writer": "Mamoru Hosoda",
+  "actors": "Kôji Yakusho, Aoi Miyazaki, Shôta Sometani",
+  "plot": "When a young orphaned boy living on the streets of Shibuya stumbles upon a fantastic world of beasts, he's taken in by a gruff warrior beast looking for an apprentice.",
+  "language": "Japanese, German, Portuguese, Italian, English, Spanish, French",
+  "country": "Japan",
+  "awards": "2 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDg1ZWJlNTctZDA2MS00ZGM4LWIzNzQtMGFlNDQxZGRmZmU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "7.6",
+  "imdbID": "tt4272866",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:58.640Z"
+}

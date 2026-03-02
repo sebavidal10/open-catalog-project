@@ -1,0 +1,35 @@
+{
+  "title": "The Disaster Artist",
+  "year": "2017",
+  "rated": "R",
+  "released": "08 Dec 2017",
+  "runtime": "104 min",
+  "genre": "Biography, Comedy, Drama",
+  "director": "James Franco",
+  "writer": "Scott Neustadter, Michael H. Weber, Greg Sestero",
+  "actors": "Dave Franco, James Franco, Seth Rogen",
+  "plot": "When aspiring actor Greg Sestero meets the weird and mysterious Tommy Wiseau in an acting class, they form a unique friendship and travel to Hollywood to make their dreams come true.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 32 wins & 84 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmZlMjUxZDktNGNjYS00NmI2LWFhYTAtOGY2MjQwNTM1M2U4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.3",
+  "imdbID": "tt3521126",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:43.518Z"
+}

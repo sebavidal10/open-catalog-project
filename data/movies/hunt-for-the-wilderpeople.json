@@ -1,0 +1,35 @@
+{
+  "title": "Hunt for the Wilderpeople",
+  "year": "2016",
+  "rated": "PG-13",
+  "released": "01 Jul 2016",
+  "runtime": "101 min",
+  "genre": "Adventure, Comedy, Drama",
+  "director": "Taika Waititi",
+  "writer": "Taika Waititi, Barry Crump, Tearepa Kahi",
+  "actors": "Sam Neill, Julian Dennison, Rima Te Wiata",
+  "plot": "A national manhunt is ordered for a rebellious kid and his foster uncle who go missing in the wild New Zealand bush.",
+  "language": "English",
+  "country": "New Zealand",
+  "awards": "24 wins & 26 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI1MDQ2MDg5Ml5BMl5BanBnXkFtZTgwMjc2NjM5ODE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.8",
+  "imdbID": "tt4698684",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:40.002Z"
+}

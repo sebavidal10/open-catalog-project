@@ -1,0 +1,35 @@
+{
+  "title": "The Illusionist",
+  "year": "2010",
+  "rated": "PG",
+  "released": "11 Feb 2011",
+  "runtime": "80 min",
+  "genre": "Animation, Drama, Fantasy",
+  "director": "Sylvain Chomet",
+  "writer": "Sylvain Chomet, Jacques Tati",
+  "actors": "Jean-Claude Donda, Eilidh Rankin, Duncan MacNeil",
+  "plot": "A French illusionist finds himself out of work and travels to Scotland, where he meets a young woman. Their ensuing adventure changes both their lives forever.",
+  "language": "English, French, Gaelic",
+  "country": "France, United Kingdom, South Korea",
+  "awards": "Nominated for 1 Oscar. 7 wins & 35 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg0MjI4MTcxMF5BMl5BanBnXkFtZTcwNTQ1ODUwNA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "7.4",
+  "imdbID": "tt0775489",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:00.970Z"
+}

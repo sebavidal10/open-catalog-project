@@ -1,0 +1,35 @@
+{
+  "title": "It Comes at Night",
+  "year": "2017",
+  "rated": "R",
+  "released": "09 Jun 2017",
+  "runtime": "91 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Trey Edward Shults",
+  "writer": "Trey Edward Shults",
+  "actors": "Joel Edgerton, Christopher Abbott, Carmen Ejogo",
+  "plot": "Secure within a desolate home as an unnatural threat terrorizes the world, a man has established a tenuous domestic order with his wife and son. Then a desperate young family arrives seeking refuge.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQ3MDA0ODA2N15BMl5BanBnXkFtZTgwNzg0NzgwMjI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "6.1",
+  "imdbID": "tt4695012",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:40.106Z"
+}

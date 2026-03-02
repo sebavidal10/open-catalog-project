@@ -1,0 +1,35 @@
+{
+  "title": "Shoot 'Em Up",
+  "year": "2007",
+  "rated": "R",
+  "released": "07 Sep 2007",
+  "runtime": "86 min",
+  "genre": "Action, Comedy, Thriller",
+  "director": "Michael Davis",
+  "writer": "Michael Davis",
+  "actors": "Clive Owen, Monica Bellucci, Paul Giamatti",
+  "plot": "A man named Mr. Smith delivers a woman's baby during a shootout, and is then called upon to protect the newborn from the army of gunmen.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEwMDA1MDUwNl5BMl5BanBnXkFtZTcwMDQzMzM1MQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "metascore": "49",
+  "imdbRating": "6.6",
+  "imdbID": "tt0465602",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:35.694Z"
+}

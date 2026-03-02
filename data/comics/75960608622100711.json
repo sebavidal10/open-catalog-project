@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960608622100711",
+  "title": "Thanos #7",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Darren Shan",
+    "Frank Martin",
+    "Germán Peralta",
+    "Jeff Lemire",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Kathleen Wisneski",
+    "Mike Deodato",
+    "Rachelle Rosenberg"
+  ],
+  "publish_date": "2017-05-31",
+  "publisher": ["Marvel"],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/09/02/thanos-v2-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/5132/",
+  "fetched_at": "2026-03-02T02:08:11.046Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Crank",
+  "year": "2006",
+  "rated": "R",
+  "released": "01 Sep 2006",
+  "runtime": "88 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Mark Neveldine, Brian Taylor",
+  "writer": "Mark Neveldine, Brian Taylor",
+  "actors": "Jason Statham, Amy Smart, Carlos Sanz",
+  "plot": "Professional assassin Chev Chelios learns his rival has injected him with a poison that will kill him if his heart rate drops.",
+  "language": "English, Spanish, Korean",
+  "country": "United States",
+  "awards": "2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjg0NjAxNDY4MV5BMl5BanBnXkFtZTcwODA5MjMzMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "62%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "metascore": "57",
+  "imdbRating": "6.9",
+  "imdbID": "tt0479884",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:34.528Z"
+}

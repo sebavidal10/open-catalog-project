@@ -1,0 +1,35 @@
+{
+  "title": "Asteroid City",
+  "year": "2023",
+  "rated": "PG-13",
+  "released": "23 Jun 2023",
+  "runtime": "105 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Wes Anderson",
+  "writer": "Wes Anderson, Roman Coppola",
+  "actors": "Jason Schwartzman, Scarlett Johansson, Tom Hanks",
+  "plot": "World-changing events spectacularly disrupt the annual Asteroid Day celebration in an American desert town.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins & 86 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjY2YjYxNjEtNDJkYi00ZmJjLWIwYTEtNjEyZDgzY2M5ZDc3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "6.4",
+  "imdbID": "tt14230388",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:00.853Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Submarine",
+  "year": "2010",
+  "rated": "R",
+  "released": "18 Mar 2011",
+  "runtime": "97 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Richard Ayoade",
+  "writer": "Richard Ayoade, Joe Dunthorne",
+  "actors": "Craig Roberts, Sally Hawkins, Paddy Considine",
+  "plot": "15-year-old Oliver Tate has two objectives: to lose his virginity before his next birthday, and to extinguish the flame between his mother and an ex-lover who has resurfaced in her life.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 1 BAFTA Award6 wins & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5ODMxNTIyNV5BMl5BanBnXkFtZTcwNjQ1ODgyNQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.3",
+  "imdbID": "tt1440292",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:48.169Z"
+}

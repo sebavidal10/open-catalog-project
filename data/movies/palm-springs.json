@@ -1,0 +1,35 @@
+{
+  "title": "Palm Springs",
+  "year": "2020",
+  "rated": "R",
+  "released": "10 Jul 2020",
+  "runtime": "90 min",
+  "genre": "Comedy, Fantasy, Mystery",
+  "director": "Max Barbakow",
+  "writer": "Andy Siara, Max Barbakow",
+  "actors": "Andy Samberg, Cristin Milioti, J.K. Simmons",
+  "plot": "Nyles and Sarah find themselves stuck in a time loop and living the same day over and over again. They are drawn to each other, but certain revelations threaten their budding romance.",
+  "language": "English",
+  "country": "United States, Hong Kong",
+  "awards": "16 wins & 43 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2VkNGY0MTMtMjEzZi00OThkLWJiOTMtNGU4ZGNjZDE5ZGIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.4",
+  "imdbID": "tt9484998",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:22.571Z"
+}

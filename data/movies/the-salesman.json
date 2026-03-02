@@ -1,0 +1,35 @@
+{
+  "title": "The Salesman",
+  "year": "2016",
+  "rated": "PG-13",
+  "released": "31 Aug 2016",
+  "runtime": "124 min",
+  "genre": "Drama, Thriller",
+  "director": "Asghar Farhadi",
+  "writer": "Asghar Farhadi",
+  "actors": "Shahab Hosseini, Taraneh Alidoosti, Mina Sadati",
+  "plot": "While Ranaa and Emad, a married couple, are participating in a production of \"Death of a Salesman,\" she is assaulted in their new home, which leaves him determined to find the perpetrator over his wife's traumatized objections.",
+  "language": "Persian, English",
+  "country": "Iran, France, Qatar, United States",
+  "awards": "Won 1 Oscar. 17 wins & 32 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg2MTc0ODEwOV5BMl5BanBnXkFtZTgwNDAyOTY1MDI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "7.7",
+  "imdbID": "tt5186714",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:32.772Z"
+}

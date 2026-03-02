@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960608622100611",
+  "title": "Thanos #6",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Darren Shan",
+    "Frank Martin",
+    "Jamal Campbell",
+    "Jeff Lemire",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Kathleen Wisneski",
+    "Mike Deodato"
+  ],
+  "publish_date": "2017-04-26",
+  "publisher": ["Marvel"],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/09/02/thanos-v2-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/5131/",
+  "fetched_at": "2026-03-02T02:08:07.048Z"
+}

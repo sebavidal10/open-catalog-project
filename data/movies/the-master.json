@@ -1,0 +1,35 @@
+{
+  "title": "The Master",
+  "year": "2012",
+  "rated": "R",
+  "released": "21 Sep 2012",
+  "runtime": "138 min",
+  "genre": "Drama",
+  "director": "Paul Thomas Anderson",
+  "writer": "Paul Thomas Anderson",
+  "actors": "Joaquin Phoenix, Philip Seymour Hoffman, Amy Adams",
+  "plot": "A Naval veteran arrives home from war unsettled and uncertain of his future - until he is tantalized by a cult and its charismatic leader.",
+  "language": "English, Filipino",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 75 wins & 187 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NjQ5MzMwMF5BMl5BanBnXkFtZTcwMjczNTAzOA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.1",
+  "imdbID": "tt1560747",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:47.885Z"
+}

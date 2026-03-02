@@ -1,0 +1,35 @@
+{
+  "title": "Portrait of a Lady on Fire",
+  "year": "2019",
+  "rated": "R",
+  "released": "14 Feb 2020",
+  "runtime": "122 min",
+  "genre": "Drama, Romance",
+  "director": "Céline Sciamma",
+  "writer": "Céline Sciamma",
+  "actors": "Noémie Merlant, Adèle Haenel, Luàna Bajrami",
+  "plot": "On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman.",
+  "language": "French, Italian",
+  "country": "France",
+  "awards": "Nominated for 1 BAFTA Award59 wins & 155 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjJlYWJlYmMtNjMyMS00ZDgxLTlmNjAtOTJhMzBiZWM5N2VmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "95/100"
+    }
+  ],
+  "metascore": "95",
+  "imdbRating": "8.0",
+  "imdbID": "tt8613070",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:22:12.622Z"
+}

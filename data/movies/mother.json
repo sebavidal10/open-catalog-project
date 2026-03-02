@@ -1,0 +1,35 @@
+{
+  "title": "Mother",
+  "year": "2009",
+  "rated": "R",
+  "released": "28 May 2009",
+  "runtime": "129 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Bong Joon Ho",
+  "writer": "Bong Joon Ho, Park Eun-kyo",
+  "actors": "Kim Hye-ja, Won Bin, Jin Goo",
+  "plot": "A mother desperately searches for the killer who framed her son for a girl's horrific murder.",
+  "language": "Korean",
+  "country": "South Korea",
+  "awards": "45 wins & 49 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQzMTg0NDA1M15BMl5BanBnXkFtZTgwODUzMTE0MjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.7",
+  "imdbID": "tt1216496",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:12.943Z"
+}

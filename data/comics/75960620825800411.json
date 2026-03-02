@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960620825800411",
+  "title": "Thanos #4",
+  "authors": [
+    "C. B. Cebulski",
+    "Christopher Cantwell",
+    "Cory Petit",
+    "Gabriel Mata",
+    "Germán Peralta",
+    "Greg Hildebrandt",
+    "Justin Mason",
+    "Leinil Francis Yu",
+    "Luca Pizzari",
+    "Michelle Marchese",
+    "Ruth Redmond",
+    "Sunny Gho",
+    "Taurin Clarke",
+    "Tim Hildebrandt",
+    "Wil Moss"
+  ],
+  "publish_date": "2024-03-06",
+  "publisher": ["Marvel"],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/02/23/7b4362394c05478886565af24c8b8ba0.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/111931/",
+  "fetched_at": "2026-03-02T02:09:58.260Z"
+}

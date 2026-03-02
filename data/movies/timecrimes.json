@@ -1,0 +1,35 @@
+{
+  "title": "Timecrimes",
+  "year": "2007",
+  "rated": "R",
+  "released": "27 Jun 2008",
+  "runtime": "92 min",
+  "genre": "Horror, Mystery, Sci-Fi",
+  "director": "Nacho Vigalondo",
+  "writer": "Nacho Vigalondo",
+  "actors": "Karra Elejalde, Candela Fernández, Bárbara Goenaga",
+  "plot": "A man accidentally gets into a time machine and travels back in time nearly an hour. Finding himself will be the first of a series of disasters of unforeseeable consequences.",
+  "language": "Spanish",
+  "country": "Spain",
+  "awards": "10 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTc3NGZkZmItMmZkZS00Yzc4LWIzZDItODRkYTI0MjlhNjA0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "7.1",
+  "imdbID": "tt0480669",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:13.262Z"
+}

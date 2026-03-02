@@ -1,0 +1,35 @@
+{
+  "title": "Coherence",
+  "year": "2013",
+  "rated": "Not Rated",
+  "released": "06 Aug 2014",
+  "runtime": "89 min",
+  "genre": "Mystery, Sci-Fi, Thriller",
+  "director": "James Ward Byrkit",
+  "writer": "James Ward Byrkit, Alex Manugian",
+  "actors": "Emily Baldoni, Maury Sterling, Nicholas Brendon",
+  "plot": "Strange things begin to happen when a group of friends gather for a dinner party on an evening when a comet is passing overhead.",
+  "language": "English",
+  "country": "United States, United Kingdom",
+  "awards": "6 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzQ3ODUzNDY2M15BMl5BanBnXkFtZTgwNzg0ODY2MTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "7.2",
+  "imdbID": "tt2866360",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:19:55.793Z"
+}

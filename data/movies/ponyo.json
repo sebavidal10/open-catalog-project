@@ -1,0 +1,35 @@
+{
+  "title": "Ponyo",
+  "year": "2008",
+  "rated": "G",
+  "released": "14 Aug 2009",
+  "runtime": "101 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Hayao Miyazaki",
+  "writer": "Hayao Miyazaki",
+  "actors": "Tomoko Yamaguchi, Kazushige Nagashima, Yûki Amami",
+  "plot": "A five-year-old boy develops a relationship with Ponyo, a young goldfish princess who longs to become a human after falling in love with him.",
+  "language": "Japanese, English",
+  "country": "Japan",
+  "awards": "12 wins & 20 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDkzMzQ5ZmQtOTA3MC00MjhiLTk5M2UtNzk0MjEzZmVjN2UxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.6",
+  "imdbID": "tt0876563",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:50.451Z"
+}

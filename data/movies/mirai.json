@@ -1,0 +1,35 @@
+{
+  "title": "Mirai",
+  "year": "2018",
+  "rated": "PG",
+  "released": "20 Jul 2018",
+  "runtime": "98 min",
+  "genre": "Animation, Adventure, Drama",
+  "director": "Mamoru Hosoda",
+  "writer": "Mamoru Hosoda",
+  "actors": "Haru Kuroki, Moka Kamishiraishi, Gen Hoshino",
+  "plot": "A young boy encounters a magical garden which enables him to travel through time and meet his relatives from different eras, with guidance by his younger sister from the future.",
+  "language": "Japanese, English",
+  "country": "Japan",
+  "awards": "Nominated for 1 Oscar. 5 wins & 36 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGMxNzNjY2EtMTUxNi00MTU0LTg3NDUtYmM1YWRhYmFlMGE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.0",
+  "imdbID": "tt6900448",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:21:57.476Z"
+}

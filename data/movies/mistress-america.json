@@ -1,0 +1,35 @@
+{
+  "title": "Mistress America",
+  "year": "2015",
+  "rated": "R",
+  "released": "04 Sep 2015",
+  "runtime": "84 min",
+  "genre": "Comedy, Drama",
+  "director": "Noah Baumbach",
+  "writer": "Noah Baumbach, Greta Gerwig",
+  "actors": "Greta Gerwig, Lola Kirke, Shana Dowdeswell",
+  "plot": "A lonely college freshman's life is turned upside-down by her impetuous, adventurous stepsister-to-be.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzNzgzNDgzNV5BMl5BanBnXkFtZTgwODcyMjk4NTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "6.7",
+  "imdbID": "tt2872462",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:23:49.371Z"
+}

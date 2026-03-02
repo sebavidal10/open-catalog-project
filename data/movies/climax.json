@@ -1,0 +1,35 @@
+{
+  "title": "Climax",
+  "year": "2018",
+  "rated": "R",
+  "released": "15 Mar 2019",
+  "runtime": "97 min",
+  "genre": "Drama, Horror, Music",
+  "director": "Gaspar Noé",
+  "writer": "Gaspar Noé",
+  "actors": "Sofia Boutella, Romain Guillermic, Souheila Yacoub",
+  "plot": "French dancers gather in a remote, empty school building to rehearse on a wintry night. The all-night celebration morphs into a hallucinatory nightmare when they learn their sangria is laced with LSD.",
+  "language": "French, English, Russian",
+  "country": "France, Belgium",
+  "awards": "8 wins & 15 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWQwOTVmNGQtNGU1Ny00ODNkLTkzMmMtYzY1ZWQyMzk0Y2ZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "6.9",
+  "imdbID": "tt8359848",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:48.268Z"
+}

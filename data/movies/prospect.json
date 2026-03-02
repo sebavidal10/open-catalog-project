@@ -1,0 +1,35 @@
+{
+  "title": "Prospect",
+  "year": "2018",
+  "rated": "R",
+  "released": "02 Nov 2018",
+  "runtime": "100 min",
+  "genre": "Adventure, Drama, Sci-Fi",
+  "director": "Christopher Caldwell, Zeek Earl",
+  "writer": "Christopher Caldwell, Zeek Earl",
+  "actors": "Sophie Thatcher, Jay Duplass, Pedro Pascal",
+  "plot": "A teenage girl and her father land on a forest moon to mine for gems, but a malfunction forces them to confront dangerous rival prospectors and treacherous conditions to complete their mission.",
+  "language": "English",
+  "country": "Canada, United States",
+  "awards": "7 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2QzYzU1ZGUtOGJjYy00ODNmLWFhNWYtYjBkMWRkZTQ3M2E0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "6.3",
+  "imdbID": "tt7946422",
+  "type": "movie",
+  "fetched_at": "2026-03-02T02:20:12.101Z"
+}
