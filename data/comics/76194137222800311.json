@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194137222800311",
+  "title": "The Joker #3",
+  "authors": [
+    "Ariana Maher",
+    "Arif Prianto",
+    "Ben Abernathy",
+    "Brad Anderson",
+    "Dave Wielgosz",
+    "David Finch",
+    "Gary Frank",
+    "Guillem March",
+    "James Tynion IV",
+    "Jim Lee",
+    "Marie Javins",
+    "Mirka Andolfo",
+    "Romulo Fajardo Jr.",
+    "Sam Johns",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2021-05-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/joker-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30395/",
+  "fetched_at": "2026-03-02T22:53:03.206Z"
+}

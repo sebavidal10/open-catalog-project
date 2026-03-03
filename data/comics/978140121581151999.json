@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "978140121581151999",
+  "title": "Joker #1",
+  "authors": [
+    "Bob Harras",
+    "Brian Azzarello",
+    "Lee Bermejo",
+    "Mick Gray",
+    "Trish Mulvihill",
+    "Will Dennis"
+  ],
+  "publish_date": "2008-10-29",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/30/412ea827ac714c4490efbf73883289e1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152804/",
+  "fetched_at": "2026-03-02T22:52:54.953Z"
+}

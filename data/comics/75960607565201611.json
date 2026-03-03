@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960607565201611",
+  "title": "Venom #16",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Kevin Walker",
+    "Michael Del Mundo",
+    "Rick Remender",
+    "Stephen Wacker",
+    "Tom Brennan"
+  ],
+  "publish_date": "2012-04-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/28/venom-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33251/",
+  "fetched_at": "2026-03-02T22:44:23.970Z"
+}

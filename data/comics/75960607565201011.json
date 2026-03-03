@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960607565201011",
+  "title": "Venom #10",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dave Stewart",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Lan Medina",
+    "Marte Gracia",
+    "Nelson DeCastro",
+    "Rick Remender",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tony Moore"
+  ],
+  "publish_date": "2011-12-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/28/venom-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33241/",
+  "fetched_at": "2026-03-02T22:43:56.734Z"
+}

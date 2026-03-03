@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960605436701311",
+  "title": "Venom #13",
+  "authors": [
+    "Axel Alonso",
+    "Carlos Cuevas",
+    "Cory Petit",
+    "Daniel Way",
+    "Francisco Herrera",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Sean Galloway",
+    "Studio F",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2004-04-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/16/d1c8b50ee02746ee899e39c27e971a60.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151738/",
+  "fetched_at": "2026-03-02T22:43:17.333Z"
+}

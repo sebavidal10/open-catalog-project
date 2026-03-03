@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607565200511",
+  "title": "Venom #5",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Crimelab Studios",
+    "Dan Buckley",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Rauch",
+    "Mike McKone",
+    "Morry Hollowell",
+    "Rick Remender",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Fowler",
+    "Tony Moore"
+  ],
+  "publish_date": "2011-07-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/28/venom-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33236/",
+  "fetched_at": "2026-03-02T22:43:43.546Z"
+}

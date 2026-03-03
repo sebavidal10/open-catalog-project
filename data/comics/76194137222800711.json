@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194137222800711",
+  "title": "The Joker #7",
+  "authors": [
+    "Ariana Maher",
+    "Arif Prianto",
+    "Ben Abernathy",
+    "Ben Oliver",
+    "Dave Wielgosz",
+    "Guillem March",
+    "James Stokoe",
+    "James Tynion IV",
+    "Jim Lee",
+    "Marie Javins",
+    "Sam Johns",
+    "Simone Bianchi",
+    "Sweeney Boo",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2021-09-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/02/joker-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37435/",
+  "fetched_at": "2026-03-02T22:53:13.721Z"
+}

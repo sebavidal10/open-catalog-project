@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605436700511",
+  "title": "Venom #5",
+  "authors": [
+    "Axel Alonso",
+    "Carlos Cuevas",
+    "Daniel Way",
+    "Francisco Herrera",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Rus Wooton",
+    "Sam Kieth",
+    "Studio F"
+  ],
+  "publish_date": "2003-10-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/16/d27e22f208d749f0858ff51eebe67f98.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151730/",
+  "fetched_at": "2026-03-02T22:42:56.624Z"
+}

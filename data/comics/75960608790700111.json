@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960608790700111",
+  "title": "Amazing Spider-Man: Venom Inc. Alpha #1",
+  "authors": [
+    "Adi Granov",
+    "Alan Fine",
+    "Allison Stock",
+    "Anthony Gambino",
+    "Axel Alonso",
+    "Brian Reber",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Gabriele Dell'Otto",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Mike Costa",
+    "Nick Lowe",
+    "Ryan Stegman",
+    "Tom Groneman",
+    "Tyler Kirkham"
+  ],
+  "publish_date": "2018-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/21/Amazing_Spider-Man_-_Venom_Inc._Alpha_2017-_001-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/132104/",
+  "fetched_at": "2026-03-02T22:41:03.186Z"
+}

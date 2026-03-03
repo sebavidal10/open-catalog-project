@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960607790800111",
+  "title": "Venom #13.2",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "Frank Martin",
+    "Jeanine Schaefer",
+    "Jeff Parker",
+    "Joe Quesada",
+    "Rick Remender",
+    "Rob Williams",
+    "Sana Takeda",
+    "Sebastian Girner",
+    "Stefano Caselli"
+  ],
+  "publish_date": "2012-02-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/28/venom-13-point-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33246/",
+  "fetched_at": "2026-03-02T22:44:10.147Z"
+}

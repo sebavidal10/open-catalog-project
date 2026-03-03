@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605436701211",
+  "title": "Venom #12",
+  "authors": [
+    "Axel Alonso",
+    "Carlos Cuevas",
+    "Cory Petit",
+    "Daniel Way",
+    "Francisco Herrera",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Mike Deodato",
+    "Studio F"
+  ],
+  "publish_date": "2004-03-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/16/6530aea5a62e45f0974546adff5de205.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151737/",
+  "fetched_at": "2026-03-02T22:43:14.846Z"
+}

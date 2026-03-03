@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605436700911",
+  "title": "Venom #9",
+  "authors": [
+    "Axel Alonso",
+    "Cory Petit",
+    "Daniel Way",
+    "Guru-eFX",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Juan Vlasco",
+    "Paco Medina",
+    "Sam Kieth"
+  ],
+  "publish_date": "2003-12-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/16/98b9c19a369b4aa0abf95e1d40ee4376.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151734/",
+  "fetched_at": "2026-03-02T22:43:07.226Z"
+}

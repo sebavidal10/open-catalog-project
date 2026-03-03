@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607565202011",
+  "title": "Venom #20",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Sotomayor",
+    "Cullen Bunn",
+    "Dan Buckley",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Lan Medina",
+    "Michael Del Mundo",
+    "Nelson DeCastro",
+    "Rick Ketcham",
+    "Rick Remender",
+    "Robert Atkins",
+    "Stephen Wacker",
+    "Tom Brennan"
+  ],
+  "publish_date": "2012-07-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/28/venom-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33255/",
+  "fetched_at": "2026-03-02T22:44:34.517Z"
+}

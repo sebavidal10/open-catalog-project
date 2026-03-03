@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605436700711",
+  "title": "Venom #7",
+  "authors": [
+    "Axel Alonso",
+    "Cory Petit",
+    "Daniel Way",
+    "Guru-eFX",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Juan Vlasco",
+    "Paco Medina",
+    "Sam Kieth"
+  ],
+  "publish_date": "2003-10-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/16/0e0ddc4c87f2462dbfc0602e52909e2c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151732/",
+  "fetched_at": "2026-03-02T22:43:02.137Z"
+}

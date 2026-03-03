@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607565201811",
+  "title": "Venom #18",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Sotomayor",
+    "Clayton Cowles",
+    "Cullen Bunn",
+    "Dan Buckley",
+    "Joe Quesada",
+    "John Rauch",
+    "Lan Medina",
+    "Nelson DeCastro",
+    "Rick Remender",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tony Moore"
+  ],
+  "publish_date": "2012-05-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/28/venom-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33253/",
+  "fetched_at": "2026-03-02T22:44:29.296Z"
+}

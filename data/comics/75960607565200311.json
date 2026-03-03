@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960607565200311",
+  "title": "Venom #3",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Rauch",
+    "Mike Deodato",
+    "Patrick Zircher",
+    "Rain Beredo",
+    "Rick Remender",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Fowler"
+  ],
+  "publish_date": "2011-05-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/28/venom-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33234/",
+  "fetched_at": "2026-03-02T22:43:38.028Z"
+}

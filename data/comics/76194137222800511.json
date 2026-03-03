@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "76194137222800511",
+  "title": "The Joker #5",
+  "authors": [
+    "Ariana Maher",
+    "Arif Prianto",
+    "Ben Abernathy",
+    "Dave Wielgosz",
+    "Francesco Francavilla",
+    "Guillem March",
+    "James Tynion IV",
+    "Jim Lee",
+    "Kaare Andrews",
+    "Marie Javins",
+    "Matthew Rosenberg",
+    "Riccardo Federici",
+    "Sam Johns",
+    "Sean Phillips",
+    "Sweeney Boo",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2021-07-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/05/joker-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33799/",
+  "fetched_at": "2026-03-02T22:53:08.559Z"
+}

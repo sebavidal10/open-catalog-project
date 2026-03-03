@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960620188400111",
+  "title": "Free Comic Book Day 2021: Spider-Man / Venom #1",
+  "authors": [
+    "Alejandro Sánchez",
+    "Alex Sinclair",
+    "Andrew Currie",
+    "Bryan Hitch",
+    "C. B. Cebulski",
+    "Chip Zdarsky",
+    "Clayton Cowles",
+    "Danny Khazem",
+    "Devin Lewis",
+    "Greg Smallwood",
+    "Joe Caramagna",
+    "Lindsey Cohick",
+    "Nick Lowe",
+    "Patrick Gleason",
+    "Ram V",
+    "Zeb Wells"
+  ],
+  "publish_date": "2021-08-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/15/fcbd-2021-sm-venom-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/48012/",
+  "fetched_at": "2026-03-02T22:41:53.031Z"
+}

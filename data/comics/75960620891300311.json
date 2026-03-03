@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960620891300311",
+  "title": "Kid Venom #3",
+  "authors": [
+    "C. B. Cebulski",
+    "Danny Khazem",
+    "Hatano",
+    "Ivan Tao",
+    "Joe Sabino",
+    "Kat Gregorowicz",
+    "Luciano Vecchio",
+    "Mattia Iacono",
+    "Philip Tan",
+    "Richard Isanove",
+    "Taigami"
+  ],
+  "publish_date": "2024-11-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/03/c9023fa9731b4cf4ad668f320303844f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130351/",
+  "fetched_at": "2026-03-02T22:42:07.981Z"
+}

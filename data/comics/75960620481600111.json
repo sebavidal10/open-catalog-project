@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960620481600111",
+  "title": "Ms. Marvel & Venom #1",
+  "authors": [
+    "C. B. Cebulski",
+    "David Wachter",
+    "Drew Baumgartner",
+    "Edgar Delgado",
+    "Erick Arciniega",
+    "Federico Blee",
+    "Jody Houser",
+    "Mark Basso",
+    "Peach Momoko",
+    "Sara Pichelli",
+    "Stacie Zucker",
+    "Travis Lanham",
+    "Walter Simonson"
+  ],
+  "publish_date": "2022-09-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/09/05/mm-venom-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/51635/",
+  "fetched_at": "2026-03-02T22:42:15.865Z"
+}

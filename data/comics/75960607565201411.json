@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607565201411",
+  "title": "Venom #14",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Frank Martin",
+    "Jeanine Schaefer",
+    "Jeff Parker",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Rick Remender",
+    "Rob Williams",
+    "Stefano Caselli",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tony Moore",
+    "Val Staples"
+  ],
+  "publish_date": "2012-03-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/28/venom-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33249/",
+  "fetched_at": "2026-03-02T22:44:18.439Z"
+}

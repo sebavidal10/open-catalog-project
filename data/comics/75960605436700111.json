@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605436700111",
+  "title": "Venom #1",
+  "authors": [
+    "Axel Alonso",
+    "Carlos Cuevas",
+    "Daniel Way",
+    "Dave Sharpe",
+    "Francisco Herrera",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Sam Kieth",
+    "Studio F"
+  ],
+  "publish_date": "2003-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/16/864e6b2d1ef64a659c0d11257db5b098.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151726/",
+  "fetched_at": "2026-03-02T22:42:46.432Z"
+}

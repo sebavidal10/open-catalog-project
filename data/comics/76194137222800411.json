@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194137222800411",
+  "title": "The Joker #4",
+  "authors": [
+    "Ariana Maher",
+    "Arif Prianto",
+    "Ben Abernathy",
+    "Dave Wielgosz",
+    "Ejikure",
+    "Guillem March",
+    "James Tynion IV",
+    "Jim Lee",
+    "Lucio Parrillo",
+    "Marie Javins",
+    "Mirka Andolfo",
+    "Riccardo Federici",
+    "Romulo Fajardo Jr.",
+    "Sam Johns",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2021-06-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/04/joker-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/31670/",
+  "fetched_at": "2026-03-02T22:53:05.918Z"
+}

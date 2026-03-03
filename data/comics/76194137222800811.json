@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194137222800811",
+  "title": "The Joker #8",
+  "authors": [
+    "Ariana Maher",
+    "Arif Prianto",
+    "Ben Abernathy",
+    "Dave Wielgosz",
+    "Guillem March",
+    "James Stokoe",
+    "James Tynion IV",
+    "Jim Lee",
+    "Jorge Molina",
+    "Marie Javins",
+    "Marissa Louise",
+    "Rosi Kämpe",
+    "Sam Johns",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2021-10-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/04/joker-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39174/",
+  "fetched_at": "2026-03-02T22:53:16.456Z"
+}

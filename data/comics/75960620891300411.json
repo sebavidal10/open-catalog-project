@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960620891300411",
+  "title": "Kid Venom #4",
+  "authors": [
+    "C. B. Cebulski",
+    "Danny Khazem",
+    "Frank Martin",
+    "Joe Sabino",
+    "Kat Gregorowicz",
+    "Mattia Iacono",
+    "Philip Tan",
+    "Richard Isanove",
+    "Taigami"
+  ],
+  "publish_date": "2025-01-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/16/2cc4325001484aca84bd9d74aa9ea787.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/133783/",
+  "fetched_at": "2026-03-02T22:42:10.541Z"
+}

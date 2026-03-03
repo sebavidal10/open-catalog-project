@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194136015700111",
+  "title": "Batman: Three Jokers #1",
+  "authors": [
+    "Amedeo Turturro",
+    "Bob Harras",
+    "Brad Anderson",
+    "Geoff Johns",
+    "Jason Fabok",
+    "Jim Lee",
+    "Mark Doyle",
+    "Rob Leigh"
+  ],
+  "publish_date": "2020-08-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/08/25/batman-three-jokers-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16624/",
+  "fetched_at": "2026-03-02T22:52:00.268Z"
+}
