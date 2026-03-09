@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194121936302311",
+  "title": "The Authority #23",
+  "authors": [
+    "David Baron",
+    "Dustin Nguyen",
+    "Jason Martin",
+    "John Layman",
+    "Richard Friend",
+    "Ryan Cline",
+    "Tom Peyer"
+  ],
+  "publish_date": "2001-06-06",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/02/16/authority-v1-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9714/",
+  "fetched_at": "2026-03-09T18:53:44.162Z"
+}

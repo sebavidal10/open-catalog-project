@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194121936302411",
+  "title": "The Authority #24",
+  "authors": [
+    "Bill O'Neil",
+    "David Baron",
+    "Dustin Nguyen",
+    "Jason Martin",
+    "John Layman",
+    "Richard Friend",
+    "Tom Peyer"
+  ],
+  "publish_date": "2001-07-05",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/02/16/authority-v1-24.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9715/",
+  "fetched_at": "2026-03-09T18:53:47.684Z"
+}

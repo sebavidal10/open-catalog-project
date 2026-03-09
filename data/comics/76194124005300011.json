@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194124005300011",
+  "title": "The Authority #0",
+  "authors": [
+    "Ben Abernathy",
+    "David Baron",
+    "Dwayne Turner",
+    "Kristy Quinn",
+    "Richard Starkings",
+    "Robbie Morrison",
+    "Sal Regla",
+    "Sandra Hope"
+  ],
+  "publish_date": "2003-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/03/the-authority-0.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/31559/",
+  "fetched_at": "2026-03-09T18:54:17.341Z"
+}
