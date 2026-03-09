@@ -2,6 +2,13 @@ export async function fetchData(url, options = {}) {
   console.log(`Fetching data from: ${url}`);
   try {
     const response = await fetch(url, options);
+
+    if (response.status === 429) {
+      console.warn('Rate limited (429). Retrying in 5 seconds...');
+      await new Promise((resolve) => setTimeout(resolve, 5000));
+      return fetchData(url, options);
+    }
+
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }

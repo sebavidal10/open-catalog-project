@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 
 const DATA_DIR = './data';
-const CATEGORIES = ['movies', 'books', 'comics'];
+const CATEGORIES = ['movies', 'books', 'comics', 'services'];
 
 async function generateIndex() {
   for (const category of CATEGORIES) {

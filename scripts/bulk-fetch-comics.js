@@ -52,13 +52,8 @@ async function fetchRecentComics() {
         console.log(`Fetching full details for issue ID: ${apiId}`);
         const fullData = await fetchMetronData(`/issue/${apiId}/`);
 
-        // Strict identification rule: must have UPC or ISBN
-        const identifier = fullData.upc || fullData.isbn;
-
-        if (!identifier) {
-          console.log(`Skipping issue ${apiId}: No UPC or ISBN found.`);
-          continue;
-        }
+        // Identifier rule: UPC, ISBN, or Fallback to Metron ID
+        const identifier = fullData.upc || fullData.isbn || `metron-${apiId}`;
 
         const fileName = `${identifier}.json`;
         const filePath = path.join(DATA_DIR, fileName);
@@ -73,8 +68,8 @@ async function fetchRecentComics() {
         fs.writeFileSync(filePath, JSON.stringify(cleanedData, null, 2));
         console.log(`Saved: ${cleanedData.title} to ${fileName}`);
 
-        // Rate limiting: 1 second delay
-        await new Promise((resolve) => setTimeout(resolve, 1000));
+        // Rate limiting: 2 second delay (previously 1)
+        await new Promise((resolve) => setTimeout(resolve, 2000));
       } catch (error) {
         console.error(`Error processing issue ${apiId}:`, error.message);
       }

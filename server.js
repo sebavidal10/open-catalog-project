@@ -37,10 +37,14 @@ app.post('/items', authMiddleware, (req, res) => {
 
   if (type === 'BOOK' || type === 'COMIC') {
     subDir = type === 'BOOK' ? 'books' : 'comics';
-    filename = item.isbn || item.title.toLowerCase().replace(/ /g, '-');
+    filename =
+      item.isbn || item.upc || item.title?.toLowerCase().replace(/ /g, '-');
   } else if (type === 'MOVIE') {
     subDir = 'movies';
-    filename = item.title.toLowerCase().replace(/ /g, '-');
+    filename = item.title?.toLowerCase().replace(/ /g, '-');
+  } else if (type === 'SERVICE') {
+    subDir = 'services';
+    filename = item.slug || item.name?.toLowerCase().replace(/ /g, '-');
   } else {
     return res.status(400).json({ error: 'Invalid type' });
   }

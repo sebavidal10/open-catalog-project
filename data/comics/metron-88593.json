@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "'Mazing Man #9",
+  "authors": [
+    "Alan Gold",
+    "Barbara Randall Kesel",
+    "Bob Lappan",
+    "Bob Rozakis",
+    "Fred Hembeck",
+    "Karl Kesel",
+    "Nansi Hoolahan",
+    "Stephen DeStefano"
+  ],
+  "publish_date": "1986-05-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/11/28/587f4dd0e84a487aada39b57ba663719.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/88593/",
+  "fetched_at": "2026-03-09T16:34:13.391Z"
+}

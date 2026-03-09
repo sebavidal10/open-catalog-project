@@ -1,0 +1,37 @@
+{
+  "isbn": null,
+  "upc": "75960608299500111",
+  "title": "All-New, All-Different Avengers #1",
+  "authors": [
+    "Adam Kubert",
+    "Alan Fine",
+    "Alanna Smith",
+    "Alex Ross",
+    "Axel Alonso",
+    "Cliff Chiang",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dave McCaig",
+    "David Marquez",
+    "Dick Ayers",
+    "Jason Keith",
+    "Jim Cheung",
+    "Joe Quesada",
+    "Luciano Vecchio",
+    "Mahmud A. Asrar",
+    "Mark Waid",
+    "Paul Mounts",
+    "Sonia Oback",
+    "Tom Brevoort",
+    "Wil Moss"
+  ],
+  "publish_date": "2015-11-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/23/all-new-avengers-v1-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21558/",
+  "fetched_at": "2026-03-09T13:52:25.468Z"
+}

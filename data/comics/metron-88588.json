@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "'Mazing Man #4",
+  "authors": [
+    "Alan Gold",
+    "Bob Lappan",
+    "Bob Rozakis",
+    "Gary Martin",
+    "Karl Kesel",
+    "Stephen DeStefano",
+    "Tom Ziuko"
+  ],
+  "publish_date": "1985-12-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/11/28/a7a6a6355db9428994fd4ca59bd6eee1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/88588/",
+  "fetched_at": "2026-03-09T16:33:55.639Z"
+}

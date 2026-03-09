@@ -19,6 +19,9 @@ function cleanup() {
 
     const basename = file.replace('.json', '');
 
+    // Skip index.json and ensure it's not deleted
+    if (basename === 'index') return;
+
     // Rule: Must be strictly numerical (UPC or ISBN)
     // UPC is usually 12-15 digits, ISBN 10 or 13.
     // We allow 10 to 18 digits just to be safe but strictly numbers.

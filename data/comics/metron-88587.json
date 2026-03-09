@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "'Mazing Man #3",
+  "authors": [
+    "Alan Gold",
+    "Bob Lappan",
+    "Bob Rozakis",
+    "Gary Martin",
+    "Karl Kesel",
+    "Nansi Hoolahan",
+    "Stephen DeStefano"
+  ],
+  "publish_date": "1985-11-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/11/28/dd2407c34a754e598ffc572296e7c5f1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/88587/",
+  "fetched_at": "2026-03-09T16:33:51.888Z"
+}

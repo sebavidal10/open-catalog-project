@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "'Mazing Man #7",
+  "authors": [
+    "Alan Gold",
+    "Bob Lappan",
+    "Bob Rozakis",
+    "Fred Hembeck",
+    "Karl Kesel",
+    "Stephen DeStefano",
+    "Tom Ziuko"
+  ],
+  "publish_date": "1986-03-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/11/28/71859c70cbca4a308ba9c03c9c98fab7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/88591/",
+  "fetched_at": "2026-03-09T16:34:06.181Z"
+}
