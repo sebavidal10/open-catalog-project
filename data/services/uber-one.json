@@ -1,0 +1,10 @@
+{
+  "name": "Uber One",
+  "slug": "uber-one",
+  "category": "subscription",
+  "description": "Subscription service for Uber and Uber Eats benefits.",
+  "color": "#000000",
+  "icon_url": "",
+  "website": "https://www.uber.com",
+  "fetched_at": "2026-03-09T16:36:27Z"
+}

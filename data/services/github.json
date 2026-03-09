@@ -1,0 +1,10 @@
+{
+  "name": "Github",
+  "slug": "github",
+  "category": "development",
+  "description": "GitHub is a platform for software development and version control using Git.",
+  "color": "#181717",
+  "icon_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+  "website": "https://github.com",
+  "fetched_at": "2026-03-09T13:38:00Z"
+}
