@@ -10,6 +10,11 @@
     "identifier": "02488523232502"
   },
   {
+    "title": "The Inhumans: A Marvel Graphic Novel #1",
+    "slug": "02488523408485",
+    "identifier": "02488523408485"
+  },
+  {
     "title": "The Joker #6",
     "slug": "0709893244304",
     "identifier": "0709893244304"
@@ -28,6 +33,36 @@
     "title": "The Joker #9",
     "slug": "0709893244310",
     "identifier": "0709893244310"
+  },
+  {
+    "title": "The Inhumans #9",
+    "slug": "0714860211002",
+    "identifier": "0714860211002"
+  },
+  {
+    "title": "The Inhumans #10",
+    "slug": "0714860211004",
+    "identifier": "0714860211004"
+  },
+  {
+    "title": "The Inhumans #5",
+    "slug": "0714860211006",
+    "identifier": "0714860211006"
+  },
+  {
+    "title": "The Inhumans #6",
+    "slug": "0714860211008",
+    "identifier": "0714860211008"
+  },
+  {
+    "title": "The Inhumans #7",
+    "slug": "0714860211010",
+    "identifier": "0714860211010"
+  },
+  {
+    "title": "The Inhumans #8",
+    "slug": "0714860211012",
+    "identifier": "0714860211012"
   },
   {
     "title": "Adam: Legend of the Blue Marvel #1",
@@ -395,6 +430,91 @@
     "identifier": "75469799031000111"
   },
   {
+    "title": "Inhumans #1",
+    "slug": "75960603885500111",
+    "identifier": "75960603885500111"
+  },
+  {
+    "title": "Inhumans #2",
+    "slug": "75960603885500211",
+    "identifier": "75960603885500211"
+  },
+  {
+    "title": "Inhumans #3",
+    "slug": "75960603885500311",
+    "identifier": "75960603885500311"
+  },
+  {
+    "title": "Inhumans #4",
+    "slug": "75960603885500411",
+    "identifier": "75960603885500411"
+  },
+  {
+    "title": "Inhumans #5",
+    "slug": "75960603885500511",
+    "identifier": "75960603885500511"
+  },
+  {
+    "title": "Inhumans #6",
+    "slug": "75960603885500611",
+    "identifier": "75960603885500611"
+  },
+  {
+    "title": "Inhumans #7",
+    "slug": "75960603885500711",
+    "identifier": "75960603885500711"
+  },
+  {
+    "title": "Inhumans #8",
+    "slug": "75960603885500811",
+    "identifier": "75960603885500811"
+  },
+  {
+    "title": "Inhumans #9",
+    "slug": "75960603885500911",
+    "identifier": "75960603885500911"
+  },
+  {
+    "title": "Inhumans #10",
+    "slug": "75960603885501011",
+    "identifier": "75960603885501011"
+  },
+  {
+    "title": "Inhumans #11",
+    "slug": "75960603885501111",
+    "identifier": "75960603885501111"
+  },
+  {
+    "title": "Inhumans #12",
+    "slug": "75960603885501211",
+    "identifier": "75960603885501211"
+  },
+  {
+    "title": "Alpha Flight / Inhumans '98 #1",
+    "slug": "75960604691100111",
+    "identifier": "75960604691100111"
+  },
+  {
+    "title": "Inhumans #1",
+    "slug": "75960604862500111",
+    "identifier": "75960604862500111"
+  },
+  {
+    "title": "Inhumans #2",
+    "slug": "75960604862500211",
+    "identifier": "75960604862500211"
+  },
+  {
+    "title": "Inhumans #3",
+    "slug": "75960604862500311",
+    "identifier": "75960604862500311"
+  },
+  {
+    "title": "Inhumans #4",
+    "slug": "75960604862500411",
+    "identifier": "75960604862500411"
+  },
+  {
     "title": "The 100 Greatest Marvels of All Time #1",
     "slug": "759606051847",
     "identifier": "759606051847"
@@ -495,6 +615,66 @@
     "identifier": "75960605436701811"
   },
   {
+    "title": "Inhumans #1",
+    "slug": "75960605444200111",
+    "identifier": "75960605444200111"
+  },
+  {
+    "title": "Inhumans #2",
+    "slug": "75960605444200211",
+    "identifier": "75960605444200211"
+  },
+  {
+    "title": "Inhumans #3",
+    "slug": "75960605444200311",
+    "identifier": "75960605444200311"
+  },
+  {
+    "title": "Inhumans #4",
+    "slug": "75960605444200411",
+    "identifier": "75960605444200411"
+  },
+  {
+    "title": "Inhumans #5",
+    "slug": "75960605444200511",
+    "identifier": "75960605444200511"
+  },
+  {
+    "title": "Inhumans #6",
+    "slug": "75960605444200611",
+    "identifier": "75960605444200611"
+  },
+  {
+    "title": "Inhumans #7",
+    "slug": "75960605444200711",
+    "identifier": "75960605444200711"
+  },
+  {
+    "title": "Inhumans #8",
+    "slug": "75960605444200811",
+    "identifier": "75960605444200811"
+  },
+  {
+    "title": "Inhumans #9",
+    "slug": "75960605444200911",
+    "identifier": "75960605444200911"
+  },
+  {
+    "title": "Inhumans #10",
+    "slug": "75960605444201011",
+    "identifier": "75960605444201011"
+  },
+  {
+    "title": "Inhumans #11",
+    "slug": "75960605444201111",
+    "identifier": "75960605444201111"
+  },
+  {
+    "title": "Inhumans #12",
+    "slug": "75960605444201211",
+    "identifier": "75960605444201211"
+  },
+  {
     "title": "Thanos #1",
     "slug": "75960605488600111",
     "identifier": "75960605488600111"
@@ -555,6 +735,11 @@
     "identifier": "75960605488601211"
   },
   {
+    "title": "Inhumans 2099 #1",
+    "slug": "75960605633000111",
+    "identifier": "75960605633000111"
+  },
+  {
     "title": "Captain Universe / Daredevil #1",
     "slug": "75960605751100211",
     "identifier": "75960605751100211"
@@ -573,6 +758,16 @@
     "title": "The Amazing Spider-Man Presents: Anti-Venom: New Ways to Live #3",
     "slug": "75960606874600311",
     "identifier": "75960606874600311"
+  },
+  {
+    "title": "Realm of Kings: Inhumans #1",
+    "slug": "75960606995800111",
+    "identifier": "75960606995800111"
+  },
+  {
+    "title": "Realm of Kings: Inhumans #2",
+    "slug": "75960606995800211",
+    "identifier": "75960606995800211"
   },
   {
     "title": "Black Widow & The Marvel Girls #1",
@@ -820,6 +1015,31 @@
     "identifier": "75960608203200411"
   },
   {
+    "title": "Inhumans: Attilan Rising #1",
+    "slug": "75960608205600111",
+    "identifier": "75960608205600111"
+  },
+  {
+    "title": "Inhumans: Attilan Rising #2",
+    "slug": "75960608205600211",
+    "identifier": "75960608205600211"
+  },
+  {
+    "title": "Inhumans: Attilan Rising #3",
+    "slug": "75960608205600311",
+    "identifier": "75960608205600311"
+  },
+  {
+    "title": "Inhumans: Attilan Rising #4",
+    "slug": "75960608205600411",
+    "identifier": "75960608205600411"
+  },
+  {
+    "title": "Inhumans: Attilan Rising #5",
+    "slug": "75960608205600511",
+    "identifier": "75960608205600511"
+  },
+  {
     "title": "Deadpool vs. Thanos #1",
     "slug": "75960608286500111",
     "identifier": "75960608286500111"
@@ -893,6 +1113,61 @@
     "title": "All-New, All-Different Avengers #11",
     "slug": "75960608299501111",
     "identifier": "75960608299501111"
+  },
+  {
+    "title": "All-New Inhumans #1",
+    "slug": "75960608345900111",
+    "identifier": "75960608345900111"
+  },
+  {
+    "title": "All-New Inhumans #2",
+    "slug": "75960608345900211",
+    "identifier": "75960608345900211"
+  },
+  {
+    "title": "All-New Inhumans #3",
+    "slug": "75960608345900311",
+    "identifier": "75960608345900311"
+  },
+  {
+    "title": "All-New Inhumans #4",
+    "slug": "75960608345900411",
+    "identifier": "75960608345900411"
+  },
+  {
+    "title": "All-New Inhumans #5",
+    "slug": "75960608345900511",
+    "identifier": "75960608345900511"
+  },
+  {
+    "title": "All-New Inhumans #6",
+    "slug": "75960608345900611",
+    "identifier": "75960608345900611"
+  },
+  {
+    "title": "All-New Inhumans #7",
+    "slug": "75960608345900711",
+    "identifier": "75960608345900711"
+  },
+  {
+    "title": "All-New Inhumans #8",
+    "slug": "75960608345900811",
+    "identifier": "75960608345900811"
+  },
+  {
+    "title": "All-New Inhumans #9",
+    "slug": "75960608345900911",
+    "identifier": "75960608345900911"
+  },
+  {
+    "title": "All-New Inhumans #10",
+    "slug": "75960608345901011",
+    "identifier": "75960608345901011"
+  },
+  {
+    "title": "All-New Inhumans #11",
+    "slug": "75960608345901111",
+    "identifier": "75960608345901111"
   },
   {
     "title": "All-New All-Different Marvel Point One #1",
@@ -995,6 +1270,36 @@
     "identifier": "75960608622101811"
   },
   {
+    "title": "Inhumans Prime #1",
+    "slug": "75960608637500011",
+    "identifier": "75960608637500011"
+  },
+  {
+    "title": "Inhumans: Once And Future Kings #1",
+    "slug": "75960608760000111",
+    "identifier": "75960608760000111"
+  },
+  {
+    "title": "Inhumans: Once And Future Kings #2",
+    "slug": "75960608760000211",
+    "identifier": "75960608760000211"
+  },
+  {
+    "title": "Inhumans: Once And Future Kings #3",
+    "slug": "759606087601000311",
+    "identifier": "759606087601000311"
+  },
+  {
+    "title": "Inhumans: Once And Future Kings #4",
+    "slug": "759606087601000411",
+    "identifier": "759606087601000411"
+  },
+  {
+    "title": "Inhumans: Once And Future Kings #5",
+    "slug": "759606087601000511",
+    "identifier": "759606087601000511"
+  },
+  {
     "title": "Amazing Spider-Man: Venom Inc. Alpha #1",
     "slug": "75960608790700111",
     "identifier": "75960608790700111"
@@ -1003,6 +1308,36 @@
     "title": "Amazing Spider-Man: Venom Inc. Omega #1",
     "slug": "75960608790700211",
     "identifier": "75960608790700211"
+  },
+  {
+    "title": "Inhumans: Judgment Day #1",
+    "slug": "75960608859100111",
+    "identifier": "75960608859100111"
+  },
+  {
+    "title": "Death of the Inhumans #1",
+    "slug": "75960608996300111",
+    "identifier": "75960608996300111"
+  },
+  {
+    "title": "Death of the Inhumans #2",
+    "slug": "75960608996300211",
+    "identifier": "75960608996300211"
+  },
+  {
+    "title": "Death of the Inhumans #3",
+    "slug": "75960608996300311",
+    "identifier": "75960608996300311"
+  },
+  {
+    "title": "Death of the Inhumans #4",
+    "slug": "75960608996300411",
+    "identifier": "75960608996300411"
+  },
+  {
+    "title": "Death of the Inhumans #5",
+    "slug": "75960608996300511",
+    "identifier": "75960608996300511"
   },
   {
     "title": "Thanos Legacy #1",
@@ -2130,6 +2465,11 @@
     "identifier": "9781799507529"
   },
   {
+    "title": "Inhumans Special #1",
+    "slug": "metron-136293",
+    "identifier": "metron-136293"
+  },
+  {
     "title": "8-Bit Zombie #1",
     "slug": "metron-136787",
     "identifier": "metron-136787"
@@ -2138,6 +2478,26 @@
     "title": "10 Ton Tales: Free Comic Book Day 2022 #1",
     "slug": "metron-162586",
     "identifier": "metron-162586"
+  },
+  {
+    "title": "The Inhumans #1",
+    "slug": "metron-3894",
+    "identifier": "metron-3894"
+  },
+  {
+    "title": "The Inhumans #2",
+    "slug": "metron-3895",
+    "identifier": "metron-3895"
+  },
+  {
+    "title": "The Inhumans #3",
+    "slug": "metron-3896",
+    "identifier": "metron-3896"
+  },
+  {
+    "title": "The Inhumans #4",
+    "slug": "metron-3897",
+    "identifier": "metron-3897"
   },
   {
     "title": "'Mazing Man #1",

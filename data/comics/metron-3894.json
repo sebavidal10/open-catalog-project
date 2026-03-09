@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "The Inhumans #1",
+  "authors": [
+    "Annette Kawecki",
+    "Diane Buscema",
+    "Doug Moench",
+    "Frank Chiaramonte",
+    "Frank Giacoia",
+    "George Pérez",
+    "Gil Kane",
+    "Len Wein"
+  ],
+  "publish_date": "1975-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/21/inhumans-v1-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3894/",
+  "fetched_at": "2026-03-09T16:57:41.578Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "The Inhumans #2",
+  "authors": [
+    "Doug Moench",
+    "Frank Giacoia",
+    "Fred Kida",
+    "George Pérez",
+    "Janice Cohen",
+    "Marv Wolfman",
+    "Rich Buckler",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "1975-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/21/inhumans-v1-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3895/",
+  "fetched_at": "2026-03-09T16:57:45.171Z"
+}

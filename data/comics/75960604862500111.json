@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960604862500111",
+  "title": "Inhumans #1",
+  "authors": [
+    "Bob Harras",
+    "Carlos Pacheco",
+    "José Ladrönn",
+    "Mark Powers",
+    "Rafael Marin",
+    "Richard Starkings",
+    "Wes Abbott"
+  ],
+  "publish_date": "2000-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/16/inhuman-v2-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3773/",
+  "fetched_at": "2026-03-09T16:59:06.053Z"
+}

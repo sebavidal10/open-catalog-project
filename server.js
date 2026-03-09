@@ -42,9 +42,6 @@ app.post('/items', authMiddleware, (req, res) => {
   } else if (type === 'MOVIE') {
     subDir = 'movies';
     filename = item.title?.toLowerCase().replace(/ /g, '-');
-  } else if (type === 'SERVICE') {
-    subDir = 'services';
-    filename = item.slug || item.name?.toLowerCase().replace(/ /g, '-');
   } else {
     return res.status(400).json({ error: 'Invalid type' });
   }

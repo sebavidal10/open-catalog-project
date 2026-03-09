@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960603885500111",
+  "title": "Inhumans #1",
+  "authors": [
+    "Bob Harras",
+    "Jae Lee",
+    "Jimmy Palmiotti",
+    "Joe Quesada",
+    "Paul Jenkins",
+    "Richard Starkings",
+    "Wes Abbott"
+  ],
+  "publish_date": "1998-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/21/inhumans-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3906/",
+  "fetched_at": "2026-03-09T16:58:21.847Z"
+}

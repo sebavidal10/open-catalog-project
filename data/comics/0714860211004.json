@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "0714860211004",
+  "title": "The Inhumans #10",
+  "authors": [
+    "Archie Goodwin",
+    "Don Warfield",
+    "Doug Moench",
+    "Ed Hannigan",
+    "John Costanza",
+    "Keith Pollard",
+    "Mike Esposito"
+  ],
+  "publish_date": "1977-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/21/inhumans-v1-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3903/",
+  "fetched_at": "2026-03-09T16:58:14.901Z"
+}

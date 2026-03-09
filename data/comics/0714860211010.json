@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "0714860211010",
+  "title": "The Inhumans #7",
+  "authors": [
+    "Don Perlin",
+    "Doug Moench",
+    "Gil Kane",
+    "Howard Bender",
+    "Hugh Paley",
+    "Klaus Janson",
+    "Marv Wolfman"
+  ],
+  "publish_date": "1976-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/21/inhumans-v1-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3900/",
+  "fetched_at": "2026-03-09T16:58:02.949Z"
+}
