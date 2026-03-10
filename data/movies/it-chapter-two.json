@@ -1,0 +1,35 @@
+{
+  "title": "It: Chapter Two",
+  "year": "2019",
+  "rated": "R",
+  "released": "06 Sep 2019",
+  "runtime": "169 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Andy Muschietti",
+  "writer": "Stephen King, Gary Dauberman",
+  "actors": "Jessica Chastain, James McAvoy, Bill Hader",
+  "plot": "Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+  "language": "English, North American Indian, Spanish",
+  "country": "United States, Canada",
+  "awards": "7 wins & 34 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzUxM2VhOGItZTY2My00OTA4LWI4NjUtMDA5YWJjM2M2NDJjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "62%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "6.5",
+  "imdbID": "tt7349950",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:27.394Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Freddy's Dead: The Final Nightmare",
+  "year": "1991",
+  "rated": "R",
+  "released": "13 Sep 1991",
+  "runtime": "89 min",
+  "genre": "Fantasy, Horror",
+  "director": "Rachel Talalay",
+  "writer": "Wes Craven, Rachel Talalay, Michael De Luca",
+  "actors": "Robert Englund, Lisa Zane, Shon Greenblatt",
+  "plot": "Dream-haunting Freddy Krueger returns once again to prowl the nightmares of Springwood's last surviving teenager, and of a woman whose personal connection to Krueger may mean his doom.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjNiMWEzNDMtZjQwZS00YTJiLTkyNzItNjkyY2Y4YjBiNmIzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "23%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "39/100"
+    }
+  ],
+  "metascore": "39",
+  "imdbRating": "4.7",
+  "imdbID": "tt0101917",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:54.640Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Twisters",
+  "year": "2024",
+  "rated": "PG-13",
+  "released": "19 Jul 2024",
+  "runtime": "122 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "Lee Isaac Chung",
+  "writer": "Mark L. Smith, Joseph Kosinski, Michael Crichton",
+  "actors": "Daisy Edgar-Jones, Glen Powell, Anthony Ramos",
+  "plot": "Kate Carter, a retired tornado-chaser and meteorologist, is persuaded to return to Oklahoma to work with a new team and new technologies.",
+  "language": "English",
+  "country": "United States, Japan",
+  "awards": "37 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjM4MWEwMTEtNTcwYi00ZDI4LWEwMzUtNDMzODBhZmI5MWE1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "6.5",
+  "imdbID": "tt12584954",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:13.204Z"
+}

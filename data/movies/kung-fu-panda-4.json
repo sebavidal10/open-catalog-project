@@ -1,0 +1,35 @@
+{
+  "title": "Kung Fu Panda 4",
+  "year": "2024",
+  "rated": "PG",
+  "released": "08 Mar 2024",
+  "runtime": "94 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Mike Mitchell, Stephanie Stine",
+  "writer": "Jonathan Aibel, Glenn Berger, Darren Lemke",
+  "actors": "Jack Black, Awkwafina, Viola Davis",
+  "plot": "After Po is tapped to become the Spiritual Leader of the Valley of Peace, he needs to find and train a new Dragon Warrior, while a wicked sorceress plans to re-summon all the master villains whom Po has vanquished to the spirit re...",
+  "language": "English",
+  "country": "United States, China, Japan",
+  "awards": "12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzJlNGYxYzQtOTg4MC00OTMyLTkwYzMtZDRlNTgwY2YwOWYxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "metascore": "54",
+  "imdbRating": "6.3",
+  "imdbID": "tt21692408",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:07.267Z"
+}

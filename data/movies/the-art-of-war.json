@@ -1,0 +1,35 @@
+{
+  "title": "The Art of War",
+  "year": "2000",
+  "rated": "R",
+  "released": "25 Aug 2000",
+  "runtime": "117 min",
+  "genre": "Action, Adventure, Crime",
+  "director": "Christian Duguay",
+  "writer": "Wayne Beach, Simon Barry",
+  "actors": "Wesley Snipes, Donald Sutherland, Maury Chaykin",
+  "plot": "UN's secretary general uses covert operations to help diplomacy along. Shaw's called back 6 months after one such operation. He witnesses the murder of Chinese UN ambassador at UN, NYC, chases the assassin and ends up a suspect.",
+  "language": "English",
+  "country": "United States, Canada",
+  "awards": "2 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGM3NjZiNWMtMDVlZi00NTNjLThjN2YtZjI1Nzk3ZDNlNTk1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "16%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "30/100"
+    }
+  ],
+  "metascore": "30",
+  "imdbRating": "5.7",
+  "imdbID": "tt0160009",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:43.954Z"
+}

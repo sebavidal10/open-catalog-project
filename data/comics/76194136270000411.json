@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194136270000411",
+  "title": "Batman / Superman #4",
+  "authors": [
+    "Alejandro Sánchez",
+    "Ben Meares",
+    "David Marquez",
+    "Jamie S. Rich",
+    "John J. Hill",
+    "Joshua Williamson",
+    "Olivier Coipel",
+    "Paul Kaminski"
+  ],
+  "publish_date": "2019-11-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/15/batman-superman-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7483/",
+  "fetched_at": "2026-03-10T01:44:33.189Z"
+}

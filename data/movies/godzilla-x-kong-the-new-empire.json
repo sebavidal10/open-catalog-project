@@ -1,0 +1,35 @@
+{
+  "title": "Godzilla x Kong: The New Empire",
+  "year": "2024",
+  "rated": "PG-13",
+  "released": "29 Mar 2024",
+  "runtime": "115 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Adam Wingard",
+  "writer": "Terry Rossio, Adam Wingard, Simon Barrett",
+  "actors": "Rebecca Hall, Brian Tyree Henry, Dan Stevens",
+  "plot": "Two ancient titans, Godzilla and Kong, clash in an epic battle as humans unravel their intertwined origins and connection to Skull Island's mysteries.",
+  "language": "English",
+  "country": "United States, Australia",
+  "awards": "4 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY0N2MzODctY2ExYy00OWYxLTkyNDItMTVhZGIxZjliZjU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "54%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "47/100"
+    }
+  ],
+  "metascore": "47",
+  "imdbRating": "6.0",
+  "imdbID": "tt14539740",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:06.098Z"
+}

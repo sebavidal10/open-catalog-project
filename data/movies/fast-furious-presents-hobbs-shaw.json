@@ -1,0 +1,35 @@
+{
+  "title": "Fast & Furious Presents: Hobbs & Shaw",
+  "year": "2019",
+  "rated": "PG-13",
+  "released": "02 Aug 2019",
+  "runtime": "137 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "David Leitch",
+  "writer": "Chris Morgan, Drew Pearce, Gary Scott Thompson",
+  "actors": "Dwayne Johnson, Jason Statham, Idris Elba",
+  "plot": "Lawman Luke Hobbs and outcast Deckard Shaw form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity.",
+  "language": "English, Samoan, Russian",
+  "country": "United States, Japan",
+  "awards": "1 win & 25 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmU4OTA5NGYtMTFjMS00MzgxLWFjNTMtYjdlMThlYzc4M2M4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "6.4",
+  "imdbID": "tt6806448",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:28.554Z"
+}

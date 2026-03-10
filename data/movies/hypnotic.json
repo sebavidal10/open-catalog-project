@@ -1,0 +1,35 @@
+{
+  "title": "Hypnotic",
+  "year": "2023",
+  "rated": "R",
+  "released": "12 May 2023",
+  "runtime": "93 min",
+  "genre": "Action, Drama, Mystery",
+  "director": "Robert Rodriguez",
+  "writer": "Robert Rodriguez, Max Borenstein",
+  "actors": "Ben Affleck, Alice Braga, JD Pardo",
+  "plot": "A detective investigates a mystery involving his missing daughter and a secret government program.",
+  "language": "English, Spanish",
+  "country": "United States, United Kingdom, Canada",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzUyNzBjMjQtNmJhOS00M2U0LTg0MWEtZDVmYmNjNGY2N2U4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "32%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "metascore": "53",
+  "imdbRating": "5.5",
+  "imdbID": "tt8080204",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:31.862Z"
+}

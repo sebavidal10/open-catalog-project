@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "DC Comics Presents: The Flash #1",
+  "authors": [
+    "Alex Ross",
+    "Dave Stewart",
+    "David Baron",
+    "Dennis O'Neil",
+    "Dexter Vines",
+    "Doug Mahnke",
+    "Ed McGuinness",
+    "Eddie Berganza",
+    "Jared K. Fletcher",
+    "Jeph Loeb",
+    "Mark Farmer",
+    "Mike Carlin",
+    "Richard Starkings",
+    "Tom Palmer Jr."
+  ],
+  "publish_date": "2004-08-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/27/dc-presents-flash-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1157/",
+  "fetched_at": "2026-03-10T01:55:27.173Z"
+}

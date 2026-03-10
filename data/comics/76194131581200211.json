@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194131581200211",
+  "title": "Batman / Superman #2",
+  "authors": [
+    "Dan Brown",
+    "Eddie Berganza",
+    "Giuseppe Camuncoli",
+    "Greg Pak",
+    "Jae Lee",
+    "June Chung",
+    "Rickey Purdin",
+    "Rob Leigh"
+  ],
+  "publish_date": "2013-07-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/06/23/batman-superman-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/49716/",
+  "fetched_at": "2026-03-10T01:42:15.419Z"
+}

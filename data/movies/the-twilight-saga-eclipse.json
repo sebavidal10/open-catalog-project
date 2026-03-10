@@ -1,0 +1,35 @@
+{
+  "title": "The Twilight Saga: Eclipse",
+  "year": "2010",
+  "rated": "PG-13",
+  "released": "30 Jun 2010",
+  "runtime": "124 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "David Slade",
+  "writer": "Melissa Rosenberg, Stephenie Meyer",
+  "actors": "Kristen Stewart, Robert Pattinson, Taylor Lautner",
+  "plot": "Danger once again lurks for Bella, with a malicious vampire seeking revenge. Amidst the turmoil, Bella must choose between her love for Edward and her friendship with Jacob, knowing the decision could trigger a battle between them.",
+  "language": "English",
+  "country": "United States",
+  "awards": "23 wins & 35 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDMwNjAzNzYwOF5BMl5BanBnXkFtZTcwMDY5NzcyMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "46%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "5.1",
+  "imdbID": "tt1325004",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:46.064Z"
+}

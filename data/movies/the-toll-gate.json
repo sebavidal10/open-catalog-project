@@ -1,0 +1,27 @@
+{
+  "title": "The Toll Gate",
+  "year": "1920",
+  "rated": "Passed",
+  "released": "15 Apr 1920",
+  "runtime": "73 min",
+  "genre": "Adventure, Drama, Western",
+  "director": "Lambert Hillyer",
+  "writer": "Lambert Hillyer, William S. Hart",
+  "actors": "William S. Hart, Anna Q. Nilsson, Joseph Singleton",
+  "plot": "After being betrayed to the law by one of his henchmen, a bandit leader seeks to avenge himself.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI2MTU0ODgxOF5BMl5BanBnXkFtZTgwMTE4NDcwMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0011779",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:57:02.925Z"
+}

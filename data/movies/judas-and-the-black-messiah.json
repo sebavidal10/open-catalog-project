@@ -1,0 +1,35 @@
+{
+  "title": "Judas and the Black Messiah",
+  "year": "2021",
+  "rated": "R",
+  "released": "12 Feb 2021",
+  "runtime": "126 min",
+  "genre": "Biography, Crime, Drama",
+  "director": "Shaka King",
+  "writer": "Will Berson, Shaka King, Kenneth Lucas",
+  "actors": "LaKeith Stanfield, Daniel Kaluuya, Jesse Plemons",
+  "plot": "Offered a plea deal by the FBI, William O'Neal infiltrates the Illinois chapter of the Black Panther Party to gather intelligence on Chairman Fred Hampton.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 45 wins & 85 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWJkZWY5YTAtMTQwMS00MGUyLWJjM2UtMGM5ZmRkMTc4MjRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.4",
+  "imdbID": "tt9784798",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:30:22.719Z"
+}

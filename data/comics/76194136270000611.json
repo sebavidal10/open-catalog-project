@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194136270000611",
+  "title": "Batman / Superman #6",
+  "authors": [
+    "Alejandro Sánchez",
+    "Ben Abernathy",
+    "Ben Meares",
+    "David Marquez",
+    "John J. Hill",
+    "Joshua Williamson",
+    "Paul Kaminski",
+    "Simone Bianchi"
+  ],
+  "publish_date": "2020-01-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/01/16/batman-superman-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8705/",
+  "fetched_at": "2026-03-10T01:44:39.809Z"
+}

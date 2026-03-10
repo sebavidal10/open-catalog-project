@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194136270001311",
+  "title": "Batman / Superman #13",
+  "authors": [
+    "Alejandro Sánchez",
+    "Ben Abernathy",
+    "Ben Meares",
+    "David Marquez",
+    "Joshua Williamson",
+    "Mark Brooks",
+    "Max Raynor",
+    "Paul Kaminski"
+  ],
+  "publish_date": "2020-10-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/10/21/bat-supes-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18291/",
+  "fetched_at": "2026-03-10T01:45:05.439Z"
+}

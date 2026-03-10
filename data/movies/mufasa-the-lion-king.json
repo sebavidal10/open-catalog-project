@@ -1,0 +1,35 @@
+{
+  "title": "Mufasa: The Lion King",
+  "year": "2024",
+  "rated": "PG",
+  "released": "20 Dec 2024",
+  "runtime": "118 min",
+  "genre": "Animation, Adventure, Drama",
+  "director": "Barry Jenkins",
+  "writer": "Jeff Nathanson",
+  "actors": "Aaron Pierre, Kelvin Harrison Jr., Tiffany Boone",
+  "plot": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+  "language": "English, Swahili",
+  "country": "United States, Canada",
+  "awards": "1 win & 18 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjBkOWUwODYtYWI3YS00N2I0LWEyYTktOTJjM2YzOTc3ZDNlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "56%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "metascore": "56",
+  "imdbRating": "6.6",
+  "imdbID": "tt13186482",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:00.535Z"
+}

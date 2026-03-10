@@ -1,0 +1,35 @@
+{
+  "title": "Heretic",
+  "year": "2024",
+  "rated": "R",
+  "released": "08 Nov 2024",
+  "runtime": "111 min",
+  "genre": "Horror, Thriller",
+  "director": "Scott Beck, Bryan Woods",
+  "writer": "Scott Beck, Bryan Woods",
+  "actors": "Hugh Grant, Sophie Thatcher, Chloe East",
+  "plot": "Two young religious women are drawn into a game of cat-and-mouse in the house of a strange man.",
+  "language": "English",
+  "country": "United States, Canada",
+  "awards": "Nominated for 1 BAFTA Award4 wins & 38 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzFiMWM4YjAtY2Y3Yi00MDIzLTk0N2MtYTAwNGM3ZmMwODhlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.0",
+  "imdbID": "tt28015403",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:07.048Z"
+}

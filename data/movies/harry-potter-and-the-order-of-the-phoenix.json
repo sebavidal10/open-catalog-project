@@ -1,0 +1,35 @@
+{
+  "title": "Harry Potter and the Order of the Phoenix",
+  "year": "2007",
+  "rated": "PG-13",
+  "released": "11 Jul 2007",
+  "runtime": "138 min",
+  "genre": "Action, Adventure, Family",
+  "director": "David Yates",
+  "writer": "Michael Goldenberg, J.K. Rowling",
+  "actors": "Daniel Radcliffe, Emma Watson, Rupert Grint",
+  "plot": "With their warning about Lord Voldemort's return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.",
+  "language": "English, Latin",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 2 BAFTA 17 wins & 50 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWJmM2M1YzItMjY1Ni00YzRmLTg5YWYtNDFmNTJjNzQ0ODkyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.5",
+  "imdbID": "tt0373889",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:41.329Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Snow Day",
+  "year": "2000",
+  "rated": "PG",
+  "released": "11 Feb 2000",
+  "runtime": "89 min",
+  "genre": "Adventure, Comedy, Family",
+  "director": "Chris Koch",
+  "writer": "Will McRobb, Chris Viscardi",
+  "actors": "Chris Elliott, Mark Webber, Jean Smart",
+  "plot": "When a school in upstate New York is snowed in, a group of students hi-jack a plow to keep the school closed.",
+  "language": "English",
+  "country": "Germany, United States",
+  "awards": "4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGYwZjYyYWItZjFjMC00M2QwLWEzMzMtOWM2MjMxYjg4YjZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "28%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "34/100"
+    }
+  ],
+  "metascore": "34",
+  "imdbRating": "5.2",
+  "imdbID": "tt0184907",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:42.766Z"
+}

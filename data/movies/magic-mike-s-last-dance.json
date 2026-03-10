@@ -1,0 +1,35 @@
+{
+  "title": "Magic Mike's Last Dance",
+  "year": "2023",
+  "rated": "R",
+  "released": "10 Feb 2023",
+  "runtime": "112 min",
+  "genre": "Comedy, Drama",
+  "director": "Steven Soderbergh",
+  "writer": "Reid Carolin",
+  "actors": "Channing Tatum, Salma Hayek, Ayub Khan-Din",
+  "plot": "Mike takes to the stage again, following a business deal that went bust, leaving him broke and taking bartender gigs in Florida. Mike heads to London with a wealthy socialite who lures him with an offer he can't refuse.",
+  "language": "English, Spanish, French",
+  "country": "United States",
+  "awards": "4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzk2NGRmNDEtNDQ3ZC00NWZjLTlhYTUtM2M2MmM5YzljYzZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "48%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "5.2",
+  "imdbID": "tt16280138",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:38.966Z"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194136270001511",
+  "title": "Batman / Superman #15",
+  "authors": [
+    "Alejandro Sánchez",
+    "Andrei Bressan",
+    "Ben Abernathy",
+    "Ben Meares",
+    "Bob Harras",
+    "David Marquez",
+    "Jim Lee",
+    "John J. Hill",
+    "Joshua Williamson",
+    "Paul Kaminski",
+    "Travis Charest"
+  ],
+  "publish_date": "2020-12-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/15/bat-sup-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/20989/",
+  "fetched_at": "2026-03-10T01:45:12.724Z"
+}

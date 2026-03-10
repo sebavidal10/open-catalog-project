@@ -1,0 +1,35 @@
+{
+  "title": "Shazam! Fury of the Gods",
+  "year": "2023",
+  "rated": "PG-13",
+  "released": "17 Mar 2023",
+  "runtime": "130 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "David F. Sandberg",
+  "writer": "Henry Gayden, Chris Morgan, Bill Parker",
+  "actors": "Zachary Levi, Asher Angel, Jack Dylan Grazer",
+  "plot": "The film continues the story of teenage Billy Batson who, upon reciting the magic word \"SHAZAM!\", is transformed into his adult superhero alter ego, Shazam.",
+  "language": "English, Greek, French, Spanish",
+  "country": "United States, Germany, New Zealand, United Kingdom, India, South Korea, Canada",
+  "awards": "8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjdlYzAwYTMtMWJlOC00OTQ5LWJhMmYtMDhjNGY4M2RhMGU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "49%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "47/100"
+    }
+  ],
+  "metascore": "47",
+  "imdbRating": "5.9",
+  "imdbID": "tt10151854",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:34.242Z"
+}

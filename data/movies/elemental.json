@@ -1,0 +1,35 @@
+{
+  "title": "Elemental",
+  "year": "2023",
+  "rated": "PG",
+  "released": "16 Jun 2023",
+  "runtime": "101 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Peter Sohn",
+  "writer": "John Hoberg, Kat Likkel, Brenda Hsueh",
+  "actors": "Leah Lewis, Mamoudou Athie, Ronnie Del Carmen",
+  "plot": "Follow Ember and Wade, in a city where fire, water, earth and air live together.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 3 wins & 69 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjU2MjE1OGItZjdmYS00ZmIyLTljNjYtOWI5ZGRkZjM4NDEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "7.0",
+  "imdbID": "tt15789038",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:27.129Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Gladiator II",
+  "year": "2024",
+  "rated": "R",
+  "released": "22 Nov 2024",
+  "runtime": "148 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Ridley Scott",
+  "writer": "David Franzoni, Peter Craig, David Scarpa",
+  "actors": "Paul Mescal, Denzel Washington, Pedro Pascal",
+  "plot": "After his home is conquered by the tyrannical emperors who now lead Rome, Lucius is forced to enter the Colosseum and must look to his past to find strength to return the glory of Rome to its people.",
+  "language": "English, Latin",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 1 Oscar. 9 wins & 113 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWYzZTM5ZGQtOGE5My00NmM2LWFlMDEtMGNjYjdmOWM1MzA1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "6.5",
+  "imdbID": "tt9218128",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:16.743Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Zootopia 2",
+  "year": "2025",
+  "rated": "PG",
+  "released": "26 Nov 2025",
+  "runtime": "108 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Jared Bush, Byron Howard",
+  "writer": "Jared Bush",
+  "actors": "Ginnifer Goodwin, Jason Bateman, Ke Huy Quan",
+  "plot": "Brave rabbit cop Judy Hopps and her friend, the fox Nick Wilde, team up again to crack a new case, the most perilous and intricate of their careers.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 9 wins & 74 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.4",
+  "imdbID": "tt26443597",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:27:48.329Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Twilight Saga: New Moon",
+  "year": "2009",
+  "rated": "PG-13",
+  "released": "20 Nov 2009",
+  "runtime": "130 min",
+  "genre": "Adventure, Drama, Fantasy",
+  "director": "Chris Weitz",
+  "writer": "Melissa Rosenberg, Stephenie Meyer",
+  "actors": "Kristen Stewart, Robert Pattinson, Taylor Lautner",
+  "plot": "After Edward leaves because of an incident involving Bella, Jacob Black becomes her best friend, but what Bella doesn't realize is that Jacob also has a secret that will suddenly change their lives.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "23 wins & 24 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI3MjE3NDIxNF5BMl5BanBnXkFtZTcwODM3NTY5Mg@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "28%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "44/100"
+    }
+  ],
+  "metascore": "44",
+  "imdbRating": "4.8",
+  "imdbID": "tt1259571",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:44.876Z"
+}

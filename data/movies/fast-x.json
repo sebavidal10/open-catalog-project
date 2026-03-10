@@ -1,0 +1,35 @@
+{
+  "title": "Fast X",
+  "year": "2023",
+  "rated": "PG-13",
+  "released": "19 May 2023",
+  "runtime": "141 min",
+  "genre": "Action, Adventure, Crime",
+  "director": "Louis Leterrier",
+  "writer": "Dan Mazeau, Justin Lin, Zach Dean",
+  "actors": "Vin Diesel, Michelle Rodriguez, Jason Statham",
+  "plot": "Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
+  "language": "English, Spanish, French, Arabic, Portuguese, Italian",
+  "country": "United States, China, Japan, Spain, United Kingdom, Iceland",
+  "awards": "2 wins & 19 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzEwZjczOTktYzU1OS00YjJlLTgyY2UtNWEzODBlN2RjZDEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "56%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "metascore": "56",
+  "imdbRating": "5.7",
+  "imdbID": "tt5433140",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:29.486Z"
+}

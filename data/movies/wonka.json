@@ -1,0 +1,35 @@
+{
+  "title": "Wonka",
+  "year": "2023",
+  "rated": "PG",
+  "released": "15 Dec 2023",
+  "runtime": "116 min",
+  "genre": "Adventure, Comedy, Family",
+  "director": "Paul King",
+  "writer": "Roald Dahl, Paul King, Simon Farnaby",
+  "actors": "Timothée Chalamet, Gustave Die, Murray McArthur",
+  "plot": "With dreams of opening a shop in a city renowned for its chocolate, a young and poor Willy Wonka discovers that the industry is run by a cartel of greedy chocolatiers.",
+  "language": "English, Latin, French",
+  "country": "United States, United Kingdom, Canada",
+  "awards": "Nominated for 1 BAFTA Award6 wins & 45 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2Y1N2ZhNjctYjVhZC00MDg2LWFhNTItMzI3ZjAwZDhjYmFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "6.9",
+  "imdbID": "tt6166392",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:17.680Z"
+}

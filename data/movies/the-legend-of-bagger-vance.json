@@ -1,0 +1,35 @@
+{
+  "title": "The Legend of Bagger Vance",
+  "year": "2000",
+  "rated": "PG-13",
+  "released": "03 Nov 2000",
+  "runtime": "126 min",
+  "genre": "Drama, Sport",
+  "director": "Robert Redford",
+  "writer": "Steven Pressfield, Jeremy Leven",
+  "actors": "Will Smith, Matt Damon, Charlize Theron",
+  "plot": "A down-and-out golfer attempts to recover his game and his life with help from a mystical caddie.",
+  "language": "English",
+  "country": "United States, United Kingdom",
+  "awards": "2 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTczMGVhYjgtM2MxNy00NmU0LWIxNjctZWU2ODg1M2U3ODcyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "47/100"
+    }
+  ],
+  "metascore": "47",
+  "imdbRating": "6.7",
+  "imdbID": "tt0146984",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:46.368Z"
+}

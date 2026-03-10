@@ -1,0 +1,35 @@
+{
+  "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+  "year": "2008",
+  "rated": "PG-13",
+  "released": "22 May 2008",
+  "runtime": "122 min",
+  "genre": "Action, Adventure",
+  "director": "Steven Spielberg",
+  "writer": "David Koepp, George Lucas, Jeff Nathanson",
+  "actors": "Harrison Ford, Cate Blanchett, Shia LaBeouf",
+  "plot": "In 1957, Indiana Jones is called back into action when he becomes entangled in a Soviet plot to uncover the secret behind mysterious artifacts known as the Crystal Skulls.",
+  "language": "English, German, Russian",
+  "country": "United States",
+  "awards": "Nominated for 1 BAFTA Award10 wins & 42 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTFiMDk2NzItZDU5Ni00ZjBjLTkzYWQtYzcwZDIwMWZjMmZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "6.2",
+  "imdbID": "tt0367882",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:49.612Z"
+}

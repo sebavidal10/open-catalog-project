@@ -1,0 +1,35 @@
+{
+  "title": "80 for Brady",
+  "year": "2023",
+  "rated": "PG-13",
+  "released": "03 Feb 2023",
+  "runtime": "98 min",
+  "genre": "Comedy, Drama, Sport",
+  "director": "Kyle Marvin",
+  "writer": "Sarah Haskins, Emily Halpern",
+  "actors": "Lily Tomlin, Jane Fonda, Rita Moreno",
+  "plot": "A group of friends made it their life-long mission to go to the Super Bowl and meet NFL superstar Tom Brady.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU3NDgwYmMtNGFlMi00MzhhLWI4ZmItYTU0NTM3NjJiNTYyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "59%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "5.9",
+  "imdbID": "tt18079362",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:37.780Z"
+}

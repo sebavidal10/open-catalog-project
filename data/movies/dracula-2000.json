@@ -1,0 +1,31 @@
+{
+  "title": "Dracula 2000",
+  "year": "2000",
+  "rated": "R",
+  "released": "22 Dec 2000",
+  "runtime": "99 min",
+  "genre": "Action, Fantasy, Horror",
+  "director": "Patrick Lussier",
+  "writer": "Joel Soisson, Patrick Lussier",
+  "actors": "Gerard Butler, Justine Waddell, Jonny Lee Miller",
+  "plot": "Dracula slakes his blood thirst and renews his search for love in New Orleans.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmY1YjVjNDctZDc3NC00YmM0LWE2ZGItZjE1ODk0ZWNiY2E5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.9/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "26/100"
+    }
+  ],
+  "metascore": "26",
+  "imdbRating": "4.9",
+  "imdbID": "tt0219653",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:49.910Z"
+}

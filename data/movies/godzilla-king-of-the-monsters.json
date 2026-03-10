@@ -1,0 +1,35 @@
+{
+  "title": "Godzilla: King of the Monsters",
+  "year": "2019",
+  "rated": "PG-13",
+  "released": "31 May 2019",
+  "runtime": "132 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Michael Dougherty",
+  "writer": "Michael Dougherty, Zach Shields, Max Borenstein",
+  "actors": "Kyle Chandler, Vera Farmiga, Millie Bobby Brown",
+  "plot": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.",
+  "language": "English, Japanese, Chinese, Spanish",
+  "country": "United States, Japan, China",
+  "awards": "5 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDVhMjk2OGUtYzYxNS00NzBjLTk5YTItYzI0ZjgzNjY1NmI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "42%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "48/100"
+    }
+  ],
+  "metascore": "48",
+  "imdbRating": "6.0",
+  "imdbID": "tt3741700",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:32.095Z"
+}

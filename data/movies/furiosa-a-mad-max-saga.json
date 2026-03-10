@@ -1,0 +1,35 @@
+{
+  "title": "Furiosa: A Mad Max Saga",
+  "year": "2024",
+  "rated": "R",
+  "released": "24 May 2024",
+  "runtime": "148 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "George Miller",
+  "writer": "George Miller, Nick Lathouris",
+  "actors": "Anya Taylor-Joy, Chris Hemsworth, Tom Burke",
+  "plot": "After being snatched from the Green Place of Many Mothers, while the tyrants Dementus and Immortan Joe fight for power and control, the young Furiosa must survive many trials as she puts together the means to find her way home.",
+  "language": "English, Romanian, Italian",
+  "country": "Australia, United States",
+  "awards": "29 wins & 128 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.5",
+  "imdbID": "tt12037194",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:20.298Z"
+}

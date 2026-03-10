@@ -1,0 +1,35 @@
+{
+  "title": "Transformers: Revenge of the Fallen",
+  "year": "2009",
+  "rated": "PG-13",
+  "released": "24 Jun 2009",
+  "runtime": "149 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Michael Bay",
+  "writer": "Ehren Kruger, Roberto Orci, Alex Kurtzman",
+  "actors": "Shia LaBeouf, Megan Fox, Josh Duhamel",
+  "plot": "Sam Witwicky leaves the Autobots behind for a normal life. But when his mind is filled with cryptic symbols, the Decepticons target him and he is dragged back into the Transformers' war.",
+  "language": "English, Spanish",
+  "country": "United States, Jordan, United Kingdom, Egypt",
+  "awards": "Nominated for 1 Oscar. 15 wins & 30 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjk4OTczOTk0NF5BMl5BanBnXkFtZTcwNjQ0NzMzMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "19%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "35/100"
+    }
+  ],
+  "metascore": "35",
+  "imdbRating": "6.0",
+  "imdbID": "tt1055369",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:48.423Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Cocaine Bear",
+  "year": "2023",
+  "rated": "R",
+  "released": "24 Feb 2023",
+  "runtime": "95 min",
+  "genre": "Comedy, Crime, Thriller",
+  "director": "Elizabeth Banks",
+  "writer": "Jimmy Warden",
+  "actors": "Keri Russell, Alden Ehrenreich, O'Shea Jackson Jr.",
+  "plot": "An oddball group of cops, criminals, tourists and teens converge on a Georgia forest where a huge black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
+  "language": "English",
+  "country": "United States, Ireland, New Zealand, Netherlands, United Kingdom",
+  "awards": "1 win & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjg3MmNiNWQtOWI1OS00MjE2LWFhYzYtMWY0NWRhZmVkMGFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "65%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "metascore": "54",
+  "imdbRating": "5.9",
+  "imdbID": "tt14209916",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:36.620Z"
+}

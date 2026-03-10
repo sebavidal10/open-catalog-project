@@ -1,0 +1,35 @@
+{
+  "title": "Guardians of the Galaxy Vol. 3",
+  "year": "2023",
+  "rated": "PG-13",
+  "released": "05 May 2023",
+  "runtime": "150 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "James Gunn",
+  "writer": "James Gunn, Jim Starlin, Stan Lee",
+  "actors": "Chris Pratt, Chukwudi Iwuji, Bradley Cooper",
+  "plot": "Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe and one of their own - a mission that could mean the end of the Guardians if not successful.",
+  "language": "English, Russian",
+  "country": "United States, New Zealand, France, Canada",
+  "awards": "Nominated for 1 Oscar. 12 wins & 96 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTJhOTMxMmItZmE0Ny00MDc3LWEzOGEtOGFkMzY4MWYyZDQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "7.9",
+  "imdbID": "tt6791350",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:20.036Z"
+}

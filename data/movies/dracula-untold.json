@@ -1,0 +1,35 @@
+{
+  "title": "Dracula Untold",
+  "year": "2014",
+  "rated": "PG-13",
+  "released": "10 Oct 2014",
+  "runtime": "92 min",
+  "genre": "Action, Drama, Fantasy",
+  "director": "Gary Shore",
+  "writer": "Matt Sazama, Burk Sharpless, Bram Stoker",
+  "actors": "Luke Evans, Dominic Cooper, Sarah Gadon",
+  "plot": "As his kingdom is being threatened by the Turks, young prince Vlad Tepes must become a monster feared by his own people in order to obtain the power needed to protect his own family, and the families of his kingdom.",
+  "language": "English, Turkish",
+  "country": "United States, Japan",
+  "awards": "3 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkzNzI1OTI4N15BMl5BanBnXkFtZTgwNTQ2NzEwMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "26%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "40/100"
+    }
+  ],
+  "metascore": "40",
+  "imdbRating": "6.2",
+  "imdbID": "tt0829150",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:10:05.652Z"
+}

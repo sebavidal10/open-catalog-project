@@ -1,0 +1,31 @@
+{
+  "title": "The Golem",
+  "year": "1920",
+  "rated": "Unrated",
+  "released": "19 Jun 1921",
+  "runtime": "91 min",
+  "genre": "Fantasy, Horror",
+  "director": "Paul Wegener, Carl Boese",
+  "writer": "Paul Wegener, Henrik Galeen",
+  "actors": "Paul Wegener, Albert Steinrück, Ernst Deutsch",
+  "plot": "In 16th-century Prague, a rabbi creates the Golem - a giant creature made of clay. Using sorcery, he brings the creature to life in order to protect the Jews of Prague from persecution.",
+  "language": "German",
+  "country": "Germany",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5MTQxMzkxNV5BMl5BanBnXkFtZTgwNTc4MjIyMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0011237",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:56:11.656Z"
+}

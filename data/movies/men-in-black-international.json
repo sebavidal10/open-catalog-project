@@ -1,0 +1,35 @@
+{
+  "title": "Men in Black: International",
+  "year": "2019",
+  "rated": "PG-13",
+  "released": "14 Jun 2019",
+  "runtime": "114 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "F. Gary Gray",
+  "writer": "Matt Holloway, Art Marcum, Lowell Cunningham",
+  "actors": "Chris Hemsworth, Tessa Thompson, Kumail Nanjiani",
+  "plot": "The MIB tackle a mole in their organization.",
+  "language": "English, French, Chinese",
+  "country": "United States, China, United Kingdom",
+  "awards": "1 win & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTI0ZjJlODYtNTAyOS00ZDk4LTk0M2ItNDljMzY5NmZkYTRkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "23%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "38/100"
+    }
+  ],
+  "metascore": "38",
+  "imdbRating": "5.6",
+  "imdbID": "tt2283336",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:33.285Z"
+}

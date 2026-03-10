@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194136270001011",
+  "title": "Batman / Superman #10",
+  "authors": [
+    "Alejandro Sánchez",
+    "Ben Abernathy",
+    "Ben Meares",
+    "Clayton Henry",
+    "John J. Hill",
+    "Joshua Williamson",
+    "Paul Kaminski",
+    "Riccardo Federici"
+  ],
+  "publish_date": "2020-07-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/23/superman-batman-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15388/",
+  "fetched_at": "2026-03-10T01:44:53.048Z"
+}

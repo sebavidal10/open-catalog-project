@@ -1,0 +1,31 @@
+{
+  "title": "The Saphead",
+  "year": "1920",
+  "rated": "Not Rated",
+  "released": "20 Sep 1920",
+  "runtime": "77 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Herbert Blaché, Winchell Smith",
+  "writer": "Bronson Howard, Victor Mapes, June Mathis",
+  "actors": "Edward Jobson, Beulah Booker, Edward Connelly",
+  "plot": "The simple-minded son of a rich financier must find his own way in the world.",
+  "language": "None",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjYzYjFlMDctZDEzNS00MjQxLTkzNTUtZjgyMjkyNWU2YjVmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0011652",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:56:18.804Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "A Minecraft Movie",
+  "year": "2025",
+  "rated": "PG",
+  "released": "04 Apr 2025",
+  "runtime": "101 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Jared Hess",
+  "writer": "Chris Bowman, Hubbel Palmer, Neil Widener",
+  "actors": "Jason Momoa, Jack Black, Sebastian Hansen",
+  "plot": "Four misfits are suddenly pulled through a mysterious portal into a bizarre cubic wonderland that thrives on imagination. To get back home they'll have to master this world while embarking on a quest with an unexpected expert craf...",
+  "language": "English, Spanish",
+  "country": "United States, Sweden, New Zealand, Canada",
+  "awards": "2 wins & 15 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzFjMzNjOTktNDBlNy00YWZhLWExYTctZDcxNDA4OWVhOTJjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "45/100"
+    }
+  ],
+  "metascore": "45",
+  "imdbRating": "5.6",
+  "imdbID": "tt3566834",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:27:51.880Z"
+}

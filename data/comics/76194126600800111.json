@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "76194126600800111",
+  "title": "All Flash #1",
+  "authors": [
+    "Bill Sienkiewicz",
+    "Daniel Acuña",
+    "Ian Churchill",
+    "Joan Hilty",
+    "Joe Bennett",
+    "Joshua Middleton",
+    "Karl Kerschl",
+    "Mark Waid",
+    "Marte Gracia",
+    "Norm Rapmund",
+    "Pat Brosseau",
+    "Rachel Gluckstern",
+    "Richard Horie",
+    "Ruy José",
+    "Stephane Peru",
+    "Tanya Horie"
+  ],
+  "publish_date": "2007-07-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/22/all-flash-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4842/",
+  "fetched_at": "2026-03-10T01:54:47.947Z"
+}

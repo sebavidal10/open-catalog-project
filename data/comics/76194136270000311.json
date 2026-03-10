@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194136270000311",
+  "title": "Batman / Superman #3",
+  "authors": [
+    "Alejandro Sánchez",
+    "David Marquez",
+    "Jamie S. Rich",
+    "John J. Hill",
+    "Joshua Williamson",
+    "Paolo Pantalena",
+    "Paul Kaminski",
+    "Rob Levin",
+    "Romulo Fajardo Jr."
+  ],
+  "publish_date": "2019-10-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/18/batman-superman-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6661/",
+  "fetched_at": "2026-03-10T01:44:29.803Z"
+}

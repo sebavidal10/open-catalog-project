@@ -1,0 +1,31 @@
+{
+  "title": "Dr. Jekyll and Mr. Hyde",
+  "year": "1920",
+  "rated": "Unrated",
+  "released": "28 Sep 1920",
+  "runtime": "69 min",
+  "genre": "Drama, Horror, Sci-Fi",
+  "director": "John S. Robertson",
+  "writer": "Robert Louis Stevenson, Clara Beranger, Thomas Russell Sullivan",
+  "actors": "John Barrymore, Martha Mansfield, Brandon Hurst",
+  "plot": "Dr. Henry Jekyll experiments with scientific means of revealing the hidden, dark side of man and releases a murderer from within himself.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjYzZGQwMGUtZDkyMC00ODUwLTljYzMtOGQ3Njc1M2VlZThjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0011130",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:56:12.846Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Flash",
+  "year": "2023",
+  "rated": "PG-13",
+  "released": "16 Jun 2023",
+  "runtime": "144 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Andy Muschietti",
+  "writer": "Christina Hodson, John Francis Daley, Jonathan Goldstein",
+  "actors": "Ezra Miller, Michael Keaton, Sasha Calle",
+  "plot": "Barry Allen uses his super speed to change the past, but his attempt to save his family creates a world without super heroes, forcing him to race for his life in order to save the future.",
+  "language": "English",
+  "country": "United States, Canada, Australia, New Zealand",
+  "awards": "5 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmE2NzBjNGUtNTJiMy00N2UxLWEyYzMtYzFjODFhMGZlOTgzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "63%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "6.6",
+  "imdbID": "tt0439572",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:25.935Z"
+}

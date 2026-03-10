@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194136270000911",
+  "title": "Batman / Superman #9",
+  "authors": [
+    "Alejandro Sánchez",
+    "Ben Abernathy",
+    "Ben Meares",
+    "Clayton Henry",
+    "John J. Hill",
+    "Joshua Williamson",
+    "Mike Mayhew",
+    "Paul Kaminski"
+  ],
+  "publish_date": "2020-06-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/06/01/bat-sup-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/13427/",
+  "fetched_at": "2026-03-10T01:44:49.668Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Dungeons & Dragons",
+  "year": "2000",
+  "rated": "PG-13",
+  "released": "08 Dec 2000",
+  "runtime": "107 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Courtney Solomon",
+  "writer": "Topper Lilien, Carroll Cartwright, E. Gary Gygax",
+  "actors": "Justin Whalin, Jeremy Irons, Zoe McLellan",
+  "plot": "Profion, a tyrant, attempts to overthrow a peaceful kingdom ruled by a tough empress.",
+  "language": "English",
+  "country": "United States, Czech Republic, Canada",
+  "awards": "11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMDc3OTQyOV5BMl5BanBnXkFtZTYwMzk5OTc3._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "3.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "9%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "14/100"
+    }
+  ],
+  "metascore": "14",
+  "imdbRating": "3.6",
+  "imdbID": "tt0190374",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:48.743Z"
+}

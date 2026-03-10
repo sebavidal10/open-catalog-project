@@ -1,0 +1,31 @@
+{
+  "title": "Way Down East",
+  "year": "1920",
+  "rated": "Passed",
+  "released": "03 Sep 1920",
+  "runtime": "145 min",
+  "genre": "Drama, Romance",
+  "director": "D.W. Griffith",
+  "writer": "Lottie Blair Parker, William A. Brady, Joseph R. Grismer",
+  "actors": "Lillian Gish, Richard Barthelmess, Mrs. David Landau",
+  "plot": "A naive country girl is tricked into a sham marriage by a wealthy womanizer, then must rebuild her life despite the taint of having borne a child out of wedlock.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI5OTI3NTQ4NV5BMl5BanBnXkFtZTgwNDY3NTAwMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0011841",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:56:14.039Z"
+}

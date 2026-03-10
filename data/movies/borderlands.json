@@ -1,0 +1,35 @@
+{
+  "title": "Borderlands",
+  "year": "2024",
+  "rated": "PG-13",
+  "released": "09 Aug 2024",
+  "runtime": "101 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Eli Roth",
+  "writer": "Eli Roth, Joe Abercrombie",
+  "actors": "Cate Blanchett, Kevin Hart, Edgar Ramírez",
+  "plot": "An infamous bounty hunter returns to her childhood home, the chaotic planet Pandora, and forms an unlikely alliance with a team of misfits to find the missing daughter of the most powerful man in the universe.",
+  "language": "English",
+  "country": "United States, Hungary",
+  "awards": "1 win & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDhkMzQzZmQtOGQ1NS00Y2FhLTkzYjAtNWE1MmRiOWM1MjUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "10%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "26/100"
+    }
+  ],
+  "metascore": "26",
+  "imdbRating": "4.7",
+  "imdbID": "tt4978420",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:16.493Z"
+}

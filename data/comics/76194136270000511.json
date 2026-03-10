@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194136270000511",
+  "title": "Batman / Superman #5",
+  "authors": [
+    "Alejandro Sánchez",
+    "Ben Abernathy",
+    "Ben Meares",
+    "David Marquez",
+    "Jim Cheung",
+    "John J. Hill",
+    "Joshua Williamson",
+    "Paul Kaminski",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2019-12-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/12/batman-superman-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8095/",
+  "fetched_at": "2026-03-10T01:44:36.563Z"
+}

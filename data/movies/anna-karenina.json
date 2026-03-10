@@ -1,0 +1,27 @@
+{
+  "title": "Anna Karenina",
+  "year": "1920",
+  "rated": "N/A",
+  "released": "30 Dec 1920",
+  "runtime": "N/A",
+  "genre": "Drama, History",
+  "director": "Frederic Zelnik",
+  "writer": "Fanny Carlsen, Lev Tolstoy",
+  "actors": "Lya Mara, Johannes Riemann, Heinrich Peer",
+  "plot": "N/A",
+  "language": "None, German",
+  "country": "Germany",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDg3NDAwYjItMWRmOS00ZTkwLTg3MzAtOTA3ZmE2MmYyODBlXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0210520",
+  "type": "movie",
+  "fetched_at": "2026-03-10T02:00:03.108Z"
+}

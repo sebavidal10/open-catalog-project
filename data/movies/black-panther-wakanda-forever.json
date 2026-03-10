@@ -1,0 +1,35 @@
+{
+  "title": "Black Panther: Wakanda Forever",
+  "year": "2022",
+  "rated": "PG-13",
+  "released": "11 Nov 2022",
+  "runtime": "161 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Ryan Coogler",
+  "writer": "Ryan Coogler, Joe Robert Cole, Stan Lee",
+  "actors": "Letitia Wright, Lupita Nyong'o, Danai Gurira",
+  "plot": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+  "language": "English, Xhosa, Maya, Spanish, Haitian, French",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 51 wins & 173 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWY5NDY1ZjItZDQxMy00MTAzLTgyOGQtNTQxYjFiMzZjMjUyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "6.6",
+  "imdbID": "tt9114286",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:57.913Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Bad Boys: Ride or Die",
+  "year": "2024",
+  "rated": "R",
+  "released": "07 Jun 2024",
+  "runtime": "115 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Adil El Arbi, Bilall Fallah",
+  "writer": "Chris Bremner, Will Beall, George Gallo",
+  "actors": "Will Smith, Martin Lawrence, Vanessa Hudgens",
+  "plot": "When their late police captain gets linked to drug cartels, wisecracking Miami cops Mike Lowrey and Marcus Burnett embark on a dangerous mission to clear his name.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWNjZWUwNDgtYTM4ZC00Zjk0LTg3ZWItNGEyZmVkZTIxZDk0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "65%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "metascore": "54",
+  "imdbRating": "6.5",
+  "imdbID": "tt4919268",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:10.833Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Transformers One",
+  "year": "2024",
+  "rated": "PG",
+  "released": "20 Sep 2024",
+  "runtime": "104 min",
+  "genre": "Animation, Action, Adventure",
+  "director": "Josh Cooley",
+  "writer": "Eric Pearson, Andrew Barrer, Gabriel Ferrari",
+  "actors": "Chris Hemsworth, Brian Tyree Henry, Scarlett Johansson",
+  "plot": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but who once were friends bonded like brothers who changed the fate of Cybertron forever.",
+  "language": "English",
+  "country": "United States",
+  "awards": "25 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWI1ZDY1YTQtMjRkNy00ZDZhLWE3OTItMTIwNzliY2Y1MTZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "7.6",
+  "imdbID": "tt8864596",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:40.389Z"
+}

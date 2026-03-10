@@ -1,0 +1,35 @@
+{
+  "title": "Ant-Man and the Wasp: Quantumania",
+  "year": "2023",
+  "rated": "PG-13",
+  "released": "17 Feb 2023",
+  "runtime": "124 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Peyton Reed",
+  "writer": "Jeff Loveness, Stan Lee, Larry Lieber",
+  "actors": "Paul Rudd, Evangeline Lilly, Michael Douglas",
+  "plot": "Scott Lang and Hope Van Dyne are dragged into the Quantum Realm, along with Hope's parents and Scott's daughter Cassie. Together they must find a way to escape, but what secrets is Hope's mother hiding? And who is the mysterious K...",
+  "language": "English",
+  "country": "United States, Australia, Canada",
+  "awards": "14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMThkYWY5ZjQtYjJlMS00MDFmLWFkYzEtODEzZjg5YWFmMGY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "46%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "48/100"
+    }
+  ],
+  "metascore": "48",
+  "imdbRating": "6.0",
+  "imdbID": "tt10954600",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:22.390Z"
+}

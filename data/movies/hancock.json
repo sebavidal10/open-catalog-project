@@ -1,0 +1,35 @@
+{
+  "title": "Hancock",
+  "year": "2008",
+  "rated": "R",
+  "released": "02 Jul 2008",
+  "runtime": "92 min",
+  "genre": "Action, Comedy, Drama",
+  "director": "Peter Berg",
+  "writer": "Vy Vincent Ngo, Vince Gilligan",
+  "actors": "Will Smith, Charlize Theron, Jason Bateman",
+  "plot": "Hancock is a superhero whose ill-considered behavior regularly causes damage in the millions. He changes when the person he saves helps him improve his public image.",
+  "language": "English, Japanese, Vietnamese",
+  "country": "United States",
+  "awards": "4 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgyMzc4ODU3NV5BMl5BanBnXkFtZTcwNjk5Mzc1MQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "42%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "metascore": "49",
+  "imdbRating": "6.4",
+  "imdbID": "tt0448157",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:50.801Z"
+}

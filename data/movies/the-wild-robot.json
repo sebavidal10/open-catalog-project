@@ -1,0 +1,35 @@
+{
+  "title": "The Wild Robot",
+  "year": "2024",
+  "rated": "PG",
+  "released": "27 Sep 2024",
+  "runtime": "102 min",
+  "genre": "Animation, Adventure, Family",
+  "director": "Chris Sanders",
+  "writer": "Chris Sanders, Peter Brown",
+  "actors": "Lupita Nyong'o, Pedro Pascal, Kit Connor",
+  "plot": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+  "language": "English, German, French, Spanish, Swahili, Japanese",
+  "country": "United States, Japan",
+  "awards": "Nominated for 3 Oscars. 94 wins & 109 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWNiZjVlZTUtNGUwYi00MjJmLTg2MDctNWEzYTJiMzY1ODc4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "8.2",
+  "imdbID": "tt29623480",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:15.581Z"
+}

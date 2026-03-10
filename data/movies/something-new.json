@@ -1,0 +1,27 @@
+{
+  "title": "Something New",
+  "year": "1920",
+  "rated": "Unrated",
+  "released": "01 Oct 1920",
+  "runtime": "57 min",
+  "genre": "Adventure, Drama, Western",
+  "director": "Nell Shipman, Bert Van Tuyle",
+  "writer": "Nell Shipman, Bert Van Tuyle",
+  "actors": "Nell Shipman, Bert Van Tuyle, L.M. Wells",
+  "plot": "A young woman visiting Mexico is kidnapped by a gang of bandits who drag her through the rugged wilderness to their hideout. She manages to leave word for her friend Bill, who knows the country well. But when Bill cannot find a ho...",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWE2N2FjODUtNDljMy00ZjViLWJiMTAtNGNiMWRlZDMxYTZlXkEyXkFqcGdeQXVyNzU3NTk0NjA@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0197903",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:57:10.063Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Lost Souls",
+  "year": "2000",
+  "rated": "R",
+  "released": "13 Oct 2000",
+  "runtime": "97 min",
+  "genre": "Drama, Horror, Thriller",
+  "director": "Janusz Kaminski",
+  "writer": "Pierce Gardner, Betsy Stahl",
+  "actors": "Winona Ryder, Ben Chaplin, Sarah Wynter",
+  "plot": "A Catholic teacher meets an atheist journalist, whom a group of Catholics and Priests believes has been chosen by the devil to be the Antichrist.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTlhNTQ1ZmQtMmNlOS00YzJkLTg5YTYtYzQzN2RlYmEzNjE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "8%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "16/100"
+    }
+  ],
+  "metascore": "16",
+  "imdbRating": "4.8",
+  "imdbID": "tt0160484",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:52.290Z"
+}

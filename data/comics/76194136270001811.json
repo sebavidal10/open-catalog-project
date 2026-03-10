@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194136270001811",
+  "title": "Batman / Superman #18",
+  "authors": [
+    "Ben Abernathy",
+    "Ben Meares",
+    "Danny Miki",
+    "Gene Luen Yang",
+    "Ivan Reis",
+    "Jim Lee",
+    "Jonas Trindade",
+    "José Luís",
+    "Marie Javins",
+    "Paul Kaminski",
+    "Sabine Rich",
+    "Saida Temofonte",
+    "Simone Bianchi"
+  ],
+  "publish_date": "2021-05-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/21/bat-sup-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/31015/",
+  "fetched_at": "2026-03-10T01:45:22.977Z"
+}

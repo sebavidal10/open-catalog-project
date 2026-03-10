@@ -1,0 +1,35 @@
+{
+  "title": "65",
+  "year": "2023",
+  "rated": "PG-13",
+  "released": "10 Mar 2023",
+  "runtime": "93 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Scott Beck, Bryan Woods",
+  "writer": "Scott Beck, Bryan Woods",
+  "actors": "Adam Driver, Ariana Greenblatt, Chloe Coleman",
+  "plot": "An astronaut crash lands on a mysterious planet only to discover he's not alone.",
+  "language": "English",
+  "country": "United States, Ireland, Australia, Canada",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWQ2NjUyNWMtNDhlYy00Y2Y3LThlZTYtNzI3ODhiYjQ5YmFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "35%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "40/100"
+    }
+  ],
+  "metascore": "40",
+  "imdbRating": "5.4",
+  "imdbID": "tt12261776",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:33.049Z"
+}

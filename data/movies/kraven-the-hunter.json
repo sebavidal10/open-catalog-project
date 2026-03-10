@@ -1,0 +1,35 @@
+{
+  "title": "Kraven the Hunter",
+  "year": "2024",
+  "rated": "R",
+  "released": "13 Dec 2024",
+  "runtime": "127 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "J.C. Chandor",
+  "writer": "Richard Wenk, Art Marcum, Matt Holloway",
+  "actors": "Aaron Taylor-Johnson, Ariana DeBose, Fred Hechinger",
+  "plot": "Kraven's complex relationship with his ruthless father, Nikolai Kravinoff, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most ...",
+  "language": "English, Russian, Turkish",
+  "country": "United Kingdom, Iceland, Canada, United States",
+  "awards": "5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDU0YTI5ODAtN2NmMS00YTg3LTgyNDItN2RmOWEzOTkzZjcyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "15%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "35/100"
+    }
+  ],
+  "metascore": "35",
+  "imdbRating": "5.5",
+  "imdbID": "tt8790086",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:19.112Z"
+}

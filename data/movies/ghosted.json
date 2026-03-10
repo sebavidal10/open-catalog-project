@@ -1,0 +1,31 @@
+{
+  "title": "Ghosted",
+  "year": "2023",
+  "rated": "PG-13",
+  "released": "21 Apr 2023",
+  "runtime": "116 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Dexter Fletcher",
+  "writer": "Rhett Reese, Paul Wernick, Chris McKenna",
+  "actors": "Chris Evans, Ana de Armas, Adrien Brody",
+  "plot": "Cole falls head over heels for enigmatic Sadie, but then makes the shocking discovery that she's a secret agent. Before they can decide on a second date, Cole and Sadie are swept away on an international adventure to save the world.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDI0YzJjZTctNjU0MS00Y2Y3LThkNDgtNWMxYWVlZjVkYzYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "34/100"
+    }
+  ],
+  "metascore": "34",
+  "imdbRating": "5.8",
+  "imdbID": "tt15326988",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:24.768Z"
+}

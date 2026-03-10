@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194136270000111",
+  "title": "Batman / Superman #1",
+  "authors": [
+    "Alejandro Sánchez",
+    "David Marquez",
+    "Jamie S. Rich",
+    "John J. Hill",
+    "Joshua Williamson",
+    "Leinil Francis Yu",
+    "Paul Kaminski",
+    "Rob Levin",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2019-08-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/24/batman-superman-v3-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4882/",
+  "fetched_at": "2026-03-10T01:44:23.218Z"
+}

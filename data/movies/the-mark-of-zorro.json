@@ -1,0 +1,31 @@
+{
+  "title": "The Mark of Zorro",
+  "year": "1920",
+  "rated": "Passed",
+  "released": "05 Dec 1920",
+  "runtime": "79 min",
+  "genre": "Adventure, Romance, Western",
+  "director": "Fred Niblo",
+  "writer": "Johnston McCulley, Douglas Fairbanks, Eugene Miller",
+  "actors": "Douglas Fairbanks, Marguerite De La Motte, Noah Beery",
+  "plot": "A seemingly idiotic fop is really the courageous vigilante Zorro, who seeks to protect the oppressed.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWViNWZjMTMtNDg1Yi00NWY2LTljZDQtYjA3NmY5YTU1YTIzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0011439",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:56:27.143Z"
+}

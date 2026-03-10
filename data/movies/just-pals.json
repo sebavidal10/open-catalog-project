@@ -1,0 +1,27 @@
+{
+  "title": "Just Pals",
+  "year": "1920",
+  "rated": "Not Rated",
+  "released": "18 Nov 1920",
+  "runtime": "50 min",
+  "genre": "Comedy, Drama, Western",
+  "director": "John Ford",
+  "writer": "John McDermott, Paul Schofield",
+  "actors": "Buck Jones, Helen Ferguson, Georgie Stone",
+  "plot": "Small-town tramp befriends runaway boy.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MTk1NDU4M15BMl5BanBnXkFtZTgwNTE4NDcwMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0011358",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:56:29.522Z"
+}

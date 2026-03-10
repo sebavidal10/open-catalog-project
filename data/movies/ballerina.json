@@ -1,0 +1,31 @@
+{
+  "title": "Ballerina",
+  "year": "2025",
+  "rated": "R",
+  "released": "06 Jun 2025",
+  "runtime": "124 min",
+  "genre": "Action, Thriller",
+  "director": "Len Wiseman",
+  "writer": "Shay Hatten, Derek Kolstad",
+  "actors": "Ana de Armas, Keanu Reeves, Ian McShane",
+  "plot": "An assassin trained in the traditions of the Ruska Roma organization sets out to seek revenge after her father's death.",
+  "language": "English, Russian, Spanish, German",
+  "country": "United States, Hungary",
+  "awards": "1 win & 20 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzdhZmY2OTQtYWI4OC00ZThkLTlhZjAtNzE2YzRjM2Q5YjJlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "metascore": "59",
+  "imdbRating": "6.8",
+  "imdbID": "tt7181546",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:01.728Z"
+}

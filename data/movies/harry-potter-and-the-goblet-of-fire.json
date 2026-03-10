@@ -1,0 +1,35 @@
+{
+  "title": "Harry Potter and the Goblet of Fire",
+  "year": "2005",
+  "rated": "PG-13",
+  "released": "18 Nov 2005",
+  "runtime": "157 min",
+  "genre": "Adventure, Family, Fantasy",
+  "director": "Mike Newell",
+  "writer": "Steve Kloves, J.K. Rowling",
+  "actors": "Daniel Radcliffe, Emma Watson, Rupert Grint",
+  "plot": "Harry Potter finds himself competing in a hazardous tournament between rival schools of magic, but he is distracted by recurring nightmares.",
+  "language": "English, French, Latin",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 1 Oscar. 13 wins & 48 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIzNzUzOTk2NV5BMl5BanBnXkFtZTYwNTI4MDg2._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.7",
+  "imdbID": "tt0330373",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:29:40.160Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Wicked",
+  "year": "2024",
+  "rated": "PG",
+  "released": "22 Nov 2024",
+  "runtime": "160 min",
+  "genre": "Fantasy, Musical, Romance",
+  "director": "Jon M. Chu",
+  "writer": "Winnie Holzman, Dana Fox, Gregory Maguire",
+  "actors": "Cynthia Erivo, Ariana Grande, Jeff Goldblum",
+  "plot": "Elphaba, a young woman ridiculed for her green skin, and Galinda, a popular girl, become friends at Shiz University in the Land of Oz. After an encounter with the Wonderful Wizard of Oz, their friendship reaches a crossroads.",
+  "language": "English",
+  "country": "United Kingdom, United States, Canada",
+  "awards": "Won 2 Oscars. 125 wins & 324 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.4",
+  "imdbID": "tt1262426",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:17.952Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Beach",
+  "year": "2000",
+  "rated": "R",
+  "released": "11 Feb 2000",
+  "runtime": "119 min",
+  "genre": "Adventure, Drama, Romance",
+  "director": "Danny Boyle",
+  "writer": "John Hodge, Alex Garland",
+  "actors": "Leonardo DiCaprio, Tilda Swinton, Daniel York Loh",
+  "plot": "On vacation in Thailand, Richard sets out for an island rumored to be a solitary beach paradise.",
+  "language": "English, Mandingo, French, Swedish, Thai, Serbian",
+  "country": "United Kingdom, United States",
+  "awards": "7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTljNTg1YjktY2I3MS00MmQwLWJkYTAtYzcwZjRjM2ExNDJjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "21%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "43/100"
+    }
+  ],
+  "metascore": "43",
+  "imdbRating": "6.6",
+  "imdbID": "tt0163978",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:45.149Z"
+}

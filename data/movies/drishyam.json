@@ -1,0 +1,31 @@
+{
+  "title": "Drishyam",
+  "year": "2013",
+  "rated": "Not Rated",
+  "released": "19 Dec 2013",
+  "runtime": "160 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Jeethu Joseph",
+  "writer": "Jeethu Joseph",
+  "actors": "Mohanlal, Meena, Asha Sharath",
+  "plot": "A man goes to extreme lengths to save his family from punishment after the family commits an accidental crime.",
+  "language": "Malayalam",
+  "country": "India",
+  "awards": "16 wins & 6 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2MwMjNlNjctYjA2ZS00ZDA4LWJmNTYtODg5NDY1YzQzZDg2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.3",
+  "imdbID": "tt3417422",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:55.826Z"
+}

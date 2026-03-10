@@ -1,0 +1,35 @@
+{
+  "title": "Elio",
+  "year": "2025",
+  "rated": "PG",
+  "released": "20 Jun 2025",
+  "runtime": "98 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Adrian Molina, Madeline Sharafian, Domee Shi",
+  "writer": "Julia Cho, Mark Hammer, Mike Jones",
+  "actors": "Yonas Kibreab, Zoe Saldaña, Remy Edgerly",
+  "plot": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant ...",
+  "language": "English, Spanish, French, Serbian, Dutch, Hindi, Japanese, Italian",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 43 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWE5ZDMyMWEtOTZjMi00YzFhLWE4OTEtNDc3MDMzZjFmMmIzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "6.6",
+  "imdbID": "tt4900148",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:59.369Z"
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194131581200111",
+  "title": "Batman / Superman #1",
+  "authors": [
+    "Ben Oliver",
+    "Dan Brown",
+    "Eddie Berganza",
+    "Greg Pak",
+    "Guillem March",
+    "Jae Lee",
+    "June Chung",
+    "Kenneth Rocafort",
+    "Rickey Purdin",
+    "Rob Leigh"
+  ],
+  "publish_date": "2013-06-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/06/23/batman-superman-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/49715/",
+  "fetched_at": "2026-03-10T01:42:11.579Z"
+}

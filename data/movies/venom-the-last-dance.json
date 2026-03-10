@@ -1,0 +1,35 @@
+{
+  "title": "Venom: The Last Dance",
+  "year": "2024",
+  "rated": "PG-13",
+  "released": "25 Oct 2024",
+  "runtime": "110 min",
+  "genre": "Action, Adventure, Horror",
+  "director": "Kelly Marcel",
+  "writer": "Kelly Marcel, Tom Hardy, Todd McFarlane",
+  "actors": "Tom Hardy, Chiwetel Ejiofor, Juno Temple",
+  "plot": "Eddie Brock and Venom must make a devastating decision as they're pursued by a mysterious military man and alien monsters from Venom's home world.",
+  "language": "English, Spanish",
+  "country": "United States, United Kingdom, Spain, Canada",
+  "awards": "2 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDMyYWU4NzItZDY0MC00ODE2LTkyYTMtMzNkNDdmYmFhZDg0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "41/100"
+    }
+  ],
+  "metascore": "41",
+  "imdbRating": "6.0",
+  "imdbID": "tt16366836",
+  "type": "movie",
+  "fetched_at": "2026-03-10T01:28:09.643Z"
+}
