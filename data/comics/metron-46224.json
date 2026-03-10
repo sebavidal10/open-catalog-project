@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Sandman #43",
+  "authors": [
+    "Daniel Vozzo",
+    "Dave McKean",
+    "Jill Thompson",
+    "Karen Berger",
+    "Kelley Jones",
+    "Lisa Aufenanger",
+    "Neil Gaiman",
+    "Todd Klein",
+    "Vincent Locke"
+  ],
+  "publish_date": "1992-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/07/the-sandman-43.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/46224/",
+  "fetched_at": "2026-03-10T13:30:26.050Z"
+}

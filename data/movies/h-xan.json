@@ -1,0 +1,31 @@
+{
+  "title": "Häxan",
+  "year": "1922",
+  "rated": "Not Rated",
+  "released": "27 May 1929",
+  "runtime": "91 min",
+  "genre": "Documentary, Fantasy, Horror",
+  "director": "Benjamin Christensen",
+  "writer": "Benjamin Christensen",
+  "actors": "Benjamin Christensen, Elisabeth Christensen, Maren Pedersen",
+  "plot": "Fictionalized documentary showing the evolution of witchcraft, from its pagan roots to its confusion with hysteria in Eastern Europe.",
+  "language": "Swedish, Danish",
+  "country": "Sweden, Denmark",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEwMzgzMTEtYzI3ZS00M2M4LWJjZGYtY2UxZjgzNzNjNjc0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0013257",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:32:08.794Z"
+}

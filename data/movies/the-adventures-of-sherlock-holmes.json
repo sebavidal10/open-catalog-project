@@ -1,0 +1,27 @@
+{
+  "title": "The Adventures of Sherlock Holmes",
+  "year": "1921",
+  "rated": "N/A",
+  "released": "N/A",
+  "runtime": "N/A",
+  "genre": "Drama, Mystery",
+  "director": "Maurice Elvey",
+  "writer": "Arthur Conan Doyle",
+  "actors": "Eille Norwood, Hubert Willis",
+  "plot": "N/A",
+  "language": "None",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGIxOTY4MGItZjk2ZC00OTg3LWE2OTktNzEwZmQ3ZWIzZjE2XkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.3",
+  "imdbID": "tt0011907",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:30:53.789Z"
+}

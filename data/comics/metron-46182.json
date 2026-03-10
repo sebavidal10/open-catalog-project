@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Sandman #1",
+  "authors": [
+    "Art Young",
+    "Dave McKean",
+    "Karen Berger",
+    "Mike Dringenberg",
+    "Neil Gaiman",
+    "Robbie Busch",
+    "Sam Kieth",
+    "Todd Klein"
+  ],
+  "publish_date": "1989-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/07/the-sandman-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/46182/",
+  "fetched_at": "2026-03-10T13:27:50.966Z"
+}

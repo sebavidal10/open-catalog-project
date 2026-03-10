@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120068207011",
+  "title": "Sandman #70",
+  "authors": [
+    "Daniel Vozzo",
+    "Dave McKean",
+    "Digital Chameleon",
+    "Karen Berger",
+    "Michael Zulli",
+    "Neil Gaiman",
+    "Todd Klein"
+  ],
+  "publish_date": "1995-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/07/the-sandman-70.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/46251/",
+  "fetched_at": "2026-03-10T13:32:01.653Z"
+}

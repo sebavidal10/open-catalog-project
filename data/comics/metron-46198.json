@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Sandman #17",
+  "authors": [
+    "Daniel Vozzo",
+    "Dave McKean",
+    "Karen Berger",
+    "Kelley Jones",
+    "Malcolm Jones III",
+    "Neil Gaiman",
+    "Todd Klein",
+    "Tom Peyer"
+  ],
+  "publish_date": "1990-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/07/the-sandman-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/46198/",
+  "fetched_at": "2026-03-10T13:28:48.155Z"
+}

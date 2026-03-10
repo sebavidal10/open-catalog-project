@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "0709893042511",
+  "title": "Aquaman #58",
+  "authors": [
+    "David Michelinie",
+    "Jim Aparo",
+    "Juan Ortiz",
+    "Liz Berube",
+    "Paul Kupperberg",
+    "Vince Colletta"
+  ],
+  "publish_date": "1977-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/13/aquaman-v1-58.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3692/",
+  "fetched_at": "2026-03-10T14:54:44.551Z"
+}

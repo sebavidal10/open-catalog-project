@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Sandman Mystery Theatre #1",
+  "authors": [
+    "David Hornung",
+    "Gavin Wilson",
+    "Guy Davis",
+    "John Costanza",
+    "Karen Berger",
+    "Matt Wagner",
+    "Shelly Bond"
+  ],
+  "publish_date": "1993-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/04/13/4ec5e9e70c7444a793999563654d25ed.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/61643/",
+  "fetched_at": "2026-03-10T13:32:23.023Z"
+}

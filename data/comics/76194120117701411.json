@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120117701411",
+  "title": "Aquaman #14",
+  "authors": [
+    "Dan Nakrosis",
+    "Eddie Berganza",
+    "Howard Shum",
+    "Jim Calafiore",
+    "Kevin Dooley",
+    "Mark McKenna",
+    "Martin Egeland",
+    "Peter David",
+    "Tom McCraw"
+  ],
+  "publish_date": "1995-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/05/aquaman-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1798/",
+  "fetched_at": "2026-03-10T14:57:10.495Z"
+}

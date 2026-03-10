@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Aquaman #1",
+  "authors": [
+    "Al Vey",
+    "Barbara Randall Kesel",
+    "Curt Swan",
+    "Dave Devries",
+    "John Costanza",
+    "Keith Giffen",
+    "Robert Loren Fleming",
+    "Tom McCraw"
+  ],
+  "publish_date": "1989-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/25/aquaman-v3-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2541/",
+  "fetched_at": "2026-03-10T14:55:18.824Z"
+}

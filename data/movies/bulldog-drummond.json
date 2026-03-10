@@ -1,0 +1,31 @@
+{
+  "title": "Bulldog Drummond",
+  "year": "1922",
+  "rated": "N/A",
+  "released": "01 Jan 1923",
+  "runtime": "N/A",
+  "genre": "Action, Adventure, Crime",
+  "director": "Oscar Apfel",
+  "writer": "Herman C. McNeile, B.E. Doxat-Pratt",
+  "actors": "Carlyle Blackwell, Evelyn Greeley, Dorothy Fane",
+  "plot": "A captain saves a kidnapped magnate from a nursing home run by foreign agents.",
+  "language": "None",
+  "country": "United Kingdom, Netherlands",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzBiYzFiNTgtOThjMy00YjdhLWFlOTEtOWJiYzY5Y2M2Y2IyXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0013902",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:32:52.235Z"
+}

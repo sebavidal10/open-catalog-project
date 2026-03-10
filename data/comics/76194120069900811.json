@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120069900811",
+  "title": "Sandman Mystery Theatre #8",
+  "authors": [
+    "David Hornung",
+    "Gavin Wilson",
+    "John Costanza",
+    "John Watkiss",
+    "Karen Berger",
+    "Matt Wagner",
+    "Shelly Bond"
+  ],
+  "publish_date": "1993-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/04/13/b5068c50a0b440daaf48d692fb44600a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/61650/",
+  "fetched_at": "2026-03-10T13:32:47.706Z"
+}

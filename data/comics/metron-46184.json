@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Sandman #3",
+  "authors": [
+    "Art Young",
+    "Daniel Vozzo",
+    "Dave McKean",
+    "Karen Berger",
+    "Mike Dringenberg",
+    "Neil Gaiman",
+    "Sam Kieth",
+    "Todd Klein"
+  ],
+  "publish_date": "1989-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/07/the-sandman-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/46184/",
+  "fetched_at": "2026-03-10T13:27:58.417Z"
+}

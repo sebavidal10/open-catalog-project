@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120117700311",
+  "title": "Aquaman #3",
+  "authors": [
+    "Dan Nakrosis",
+    "Eddie Berganza",
+    "Gene Gonzales",
+    "Howard Shum",
+    "Kevin Dooley",
+    "Martin Egeland",
+    "Peter David",
+    "Terry Austin",
+    "Tom Grummett",
+    "Tom McCraw"
+  ],
+  "publish_date": "1994-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/01/aquaman-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1779/",
+  "fetched_at": "2026-03-10T14:56:31.664Z"
+}

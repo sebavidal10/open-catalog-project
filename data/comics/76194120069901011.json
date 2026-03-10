@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120069901011",
+  "title": "Sandman Mystery Theatre #10",
+  "authors": [
+    "David Hornung",
+    "Gavin Wilson",
+    "John Costanza",
+    "Karen Berger",
+    "Matt Wagner",
+    "R.G. Taylor",
+    "Shelly Bond"
+  ],
+  "publish_date": "1994-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/04/13/38a601d8f98047fcb0a47c4b5ccdb2de.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/61652/",
+  "fetched_at": "2026-03-10T13:32:55.367Z"
+}

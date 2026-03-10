@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Sandman Mystery Theatre #5",
+  "authors": [
+    "David Hornung",
+    "Gavin Wilson",
+    "John Costanza",
+    "John Watkiss",
+    "Karen Berger",
+    "Matt Wagner",
+    "Shelly Bond"
+  ],
+  "publish_date": "1993-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/04/13/2aeace7eb10641d091b1c0d2bfb64bc6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/61647/",
+  "fetched_at": "2026-03-10T13:32:37.163Z"
+}

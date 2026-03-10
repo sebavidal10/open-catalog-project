@@ -1,0 +1,20 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Aquaman #55",
+  "authors": [
+    "Dick Giordano",
+    "Jim Aparo",
+    "Nick Cardy",
+    "Steve Skeates"
+  ],
+  "publish_date": "1971-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/13/aquaman-v1-55.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3689/",
+  "fetched_at": "2026-03-10T14:54:34.155Z"
+}

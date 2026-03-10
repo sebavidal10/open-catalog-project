@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Sandman #30",
+  "authors": [
+    "Alisa Kwitney",
+    "Bryan Talbot",
+    "Daniel Vozzo",
+    "Dave McKean",
+    "Karen Berger",
+    "Neil Gaiman",
+    "Stan Woch",
+    "Todd Klein"
+  ],
+  "publish_date": "1991-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/07/the-sandman-30.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/46211/",
+  "fetched_at": "2026-03-10T13:29:33.617Z"
+}

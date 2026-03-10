@@ -1,0 +1,31 @@
+{
+  "title": "The Sheik",
+  "year": "1921",
+  "rated": "Passed",
+  "released": "20 Nov 1921",
+  "runtime": "86 min",
+  "genre": "Adventure, Drama, Romance",
+  "director": "George Melford",
+  "writer": "Edith Maude Hull, Monte M. Katterjohn",
+  "actors": "Rudolph Valentino, Agnes Ayres, Ruth Miller",
+  "plot": "A charming Arabian sheik becomes infatuated with an adventurous, modern-thinking Englishwoman and abducts her to his home in the Saharan desert.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWMyNDUyYTYtNjBiOC00YWY2LWFmMTktNzI4ZDUzZjdkNDM3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0012675",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:18:16.613Z"
+}

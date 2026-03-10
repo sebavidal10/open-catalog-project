@@ -1,0 +1,27 @@
+{
+  "title": "The Prisoner of Zenda",
+  "year": "1922",
+  "rated": "Passed",
+  "released": "11 Sep 1922",
+  "runtime": "125 min",
+  "genre": "Adventure, Romance",
+  "director": "Rex Ingram",
+  "writer": "Anthony Hope, Mary O'Hara, Edward E. Rose",
+  "actors": "Lewis Stone, Alice Terry, Robert Edeson",
+  "plot": "When the king is drugged and abducted by his ambitious brother, a lookalike relative must take his place to keep the evil sibling off the throne.",
+  "language": "None",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODlhODRkZDUtNDFmMS00YjNiLTk0MWUtNmUwZmQ4NzhmNjMyXkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0013515",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:32:27.574Z"
+}

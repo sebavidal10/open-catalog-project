@@ -1,0 +1,31 @@
+{
+  "title": "Salomé",
+  "year": "1922",
+  "rated": "Not Rated",
+  "released": "15 Feb 1923",
+  "runtime": "72 min",
+  "genre": "Biography, Drama, History",
+  "director": "Charles Bryant, Alla Nazimova",
+  "writer": "Oscar Wilde, Alla Nazimova, Natacha Rambova",
+  "actors": "Alla Nazimova, Nigel De Brulier, Mitchell Lewis",
+  "plot": "Salome, the daughter of Herodias, seduces her step-father/uncle Herod, governor of Judea, with a salacious dance. In return, he promises her the head of the prophet John the Baptist.",
+  "language": "None",
+  "country": "United States",
+  "awards": "2 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDIzNmQ4ZTItMDAwMC00YzhhLTgyOTktNjdkYzlkNTRjOWUzXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0013571",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:32:13.487Z"
+}

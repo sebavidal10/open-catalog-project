@@ -1,0 +1,27 @@
+{
+  "title": "Camille",
+  "year": "1921",
+  "rated": "Passed",
+  "released": "26 Sep 1921",
+  "runtime": "72 min",
+  "genre": "Drama, Romance",
+  "director": "Ray C. Smallwood",
+  "writer": "Alexandre Dumas fils, June Mathis",
+  "actors": "Alla Nazimova, Rudolph Valentino, Rex Cherryman",
+  "plot": "A courtesan and an idealistic young man fall in love, only for her to give up the relationship at his status-conscious father's request.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzcxYTcwNjctOGZiMS00NGZmLTkwNzEtZGQ1MDE0ZGFmYTQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0012027",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:17:46.137Z"
+}

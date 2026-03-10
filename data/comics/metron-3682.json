@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Aquaman #48",
+  "authors": [
+    "Dick Giordano",
+    "Jim Aparo",
+    "Nick Cardy",
+    "Ramona Fradon",
+    "Robert Bernstein",
+    "Steve Skeates"
+  ],
+  "publish_date": "1969-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/13/aquaman-v1-48.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3682/",
+  "fetched_at": "2026-03-10T14:54:07.837Z"
+}

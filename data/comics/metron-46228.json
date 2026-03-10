@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Sandman #47",
+  "authors": [
+    "Daniel Vozzo",
+    "Dave McKean",
+    "Dick Giordano",
+    "Jill Thompson",
+    "Karen Berger",
+    "Neil Gaiman",
+    "Todd Klein",
+    "Vincent Locke"
+  ],
+  "publish_date": "1993-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/07/the-sandman-47.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/46228/",
+  "fetched_at": "2026-03-10T13:30:41.117Z"
+}

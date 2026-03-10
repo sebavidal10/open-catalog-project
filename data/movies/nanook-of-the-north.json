@@ -1,0 +1,31 @@
+{
+  "title": "Nanook of the North",
+  "year": "1922",
+  "rated": "Passed",
+  "released": "11 Jun 1922",
+  "runtime": "78 min",
+  "genre": "Documentary",
+  "director": "Robert J. Flaherty",
+  "writer": "Frances H. Flaherty, Robert J. Flaherty",
+  "actors": "Allakariallak, Alice Nevalinga, Cunayou",
+  "plot": "In this silent predecessor to the modern documentary, film-maker Robert J. Flaherty spends one year following the lives of Nanook and his family, Inuits living in the Arctic Circle.",
+  "language": "English",
+  "country": "France, United States",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg4Njk3MjU5Ml5BMl5BanBnXkFtZTgwOTIyODg5MTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0013427",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:32:11.140Z"
+}

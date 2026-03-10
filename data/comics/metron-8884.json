@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "The Sandman #3",
+  "authors": [
+    "Ernie Chan",
+    "Jack Kirby",
+    "Joe Orlando",
+    "Michael Fleisher",
+    "Mike Royer"
+  ],
+  "publish_date": "1975-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/01/24/sandman-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8884/",
+  "fetched_at": "2026-03-10T13:27:36.575Z"
+}

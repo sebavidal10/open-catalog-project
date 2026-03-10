@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Sandman #21",
+  "authors": [
+    "Dave McKean",
+    "Karen Berger",
+    "Malcolm Jones III",
+    "Mike Dringenberg",
+    "Neil Gaiman",
+    "Steve Oliff",
+    "Todd Klein",
+    "Tom Peyer"
+  ],
+  "publish_date": "1990-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/07/the-sandman-21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/46202/",
+  "fetched_at": "2026-03-10T13:29:02.590Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Dr. Mabuse, the Gambler",
+  "year": "1922",
+  "rated": "Not Rated",
+  "released": "30 Sep 1922",
+  "runtime": "195 min",
+  "genre": "Crime, Mystery, Thriller",
+  "director": "Fritz Lang",
+  "writer": "Norbert Jacques, Thea von Harbou, Fritz Lang",
+  "actors": "Rudolf Klein-Rogge, Aud Egede-Nissen, Gertrude Welcker",
+  "plot": "Arch-criminal Dr. Mabuse sets out to make a fortune and run Berlin. Detective Wenk sets out to stop him.",
+  "language": "German, English, French",
+  "country": "Germany",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2FkMGNhOGUtMjE4OC00MzFlLTgxNmYtZGU0YjQ3YzMzMGM2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0013086",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:32:09.962Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Dr. Jack",
+  "year": "1922",
+  "rated": "Passed",
+  "released": "26 Nov 1922",
+  "runtime": "60 min",
+  "genre": "Comedy, Romance",
+  "director": "Fred C. Newmeyer, Sam Taylor",
+  "writer": "Hal Roach, Sam Taylor, Jean C. Havez",
+  "actors": "Harold Lloyd, Mildred Davis, John T. Prince",
+  "plot": "Country doctor Jack Jackson is called in to treat the Sick-Little-Well-Girl, who has been making Dr. Saulsbourg and his sanitarium very rich, after years of unsuccessful treatment. Dr. Jack's old-fashioned methods do the trick, an...",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTI3NzY3ODgtYzRlYy00YWE5LTlhZjEtMGQyZjg5MDIyNDJmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0013075",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:32:14.660Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Aquaman #7",
+  "authors": [
+    "Bob Dvorak",
+    "Dan Nakrosis",
+    "Joe Rubinstein",
+    "Ken Hooper",
+    "Kevin Dooley",
+    "Kevin Maguire",
+    "Shaun McLaughlin",
+    "Tom McCraw"
+  ],
+  "publish_date": "1992-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/21/aquaman-v4-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2516/",
+  "fetched_at": "2026-03-10T14:55:56.430Z"
+}

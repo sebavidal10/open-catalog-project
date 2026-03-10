@@ -1,0 +1,31 @@
+{
+  "title": "Blood and Sand",
+  "year": "1922",
+  "rated": "Not Rated",
+  "released": "05 Aug 1922",
+  "runtime": "108 min",
+  "genre": "Drama, Romance, Sport",
+  "director": "Fred Niblo, Dorothy Arzner",
+  "writer": "Vicente Blasco Ibáñez, Tom Cushing, June Mathis",
+  "actors": "Rudolph Valentino, Rosa Rosanova, Leo White",
+  "plot": "A toreador's (Rudolph Valentino) familial and social life is threatened when he has an affair.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc2ODU2MzM2MF5BMl5BanBnXkFtZTgwNTU2MjcyMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0012952",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:32:51.064Z"
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194134286302511",
+  "title": "Deathstroke #25",
+  "authors": [
+    "Alex Antone",
+    "Alex Sinclair",
+    "Brian Cunningham",
+    "Carlo Pagulayan",
+    "Christopher Priest",
+    "Dave Wielgosz",
+    "Jeromy Cox",
+    "Michael Jason Paz",
+    "Michelle Delecki",
+    "Norm Rapmund",
+    "Ryan Sook",
+    "Shane Davis",
+    "Trevor Scott",
+    "Willie Schubert"
+  ],
+  "publish_date": "2017-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/09/deathstroke-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2764/",
+  "fetched_at": "2026-03-10T13:20:31.294Z"
+}

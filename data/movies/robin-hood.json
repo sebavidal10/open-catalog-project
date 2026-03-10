@@ -1,0 +1,31 @@
+{
+  "title": "Robin Hood",
+  "year": "1922",
+  "rated": "Not Rated",
+  "released": "18 Oct 1922",
+  "runtime": "143 min",
+  "genre": "Adventure, Family, Romance",
+  "director": "Allan Dwan",
+  "writer": "Douglas Fairbanks, Kenneth Davenport, Allan Dwan",
+  "actors": "Douglas Fairbanks, Wallace Beery, Sam De Grasse",
+  "plot": "A nobleman becomes the vigilante Robin Hood who protects the oppressed English people from the tyrannical Prince John.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDhhYzc2MjAtZmY2ZC00ZGQ1LTg0MDMtZDhiODM5YTJiMzMwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0013556",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:32:19.347Z"
+}

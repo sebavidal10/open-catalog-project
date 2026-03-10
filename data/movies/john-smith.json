@@ -1,0 +1,27 @@
+{
+  "title": "John Smith",
+  "year": "1922",
+  "rated": "N/A",
+  "released": "01 Jun 1922",
+  "runtime": "60 min",
+  "genre": "Comedy",
+  "director": "Victor Heerman",
+  "writer": "Lewis Allen Browne, Victor Heerman",
+  "actors": "Eugene O'Brien, Vivia Ogden, William J. Ferguson",
+  "plot": "Upon being released from prison, Lawrence Hilliard takes the name of John Smith and looks for work, and falls in love with Irene Mason, a social secretary, but is reluctant to tell her about his past.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM0MmUyM2YtYTc0YS00OGEzLTg1YmEtNTU4YTY5NGI2ODNlXkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0013278",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:37:22.434Z"
+}

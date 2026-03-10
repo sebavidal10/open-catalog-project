@@ -1,0 +1,31 @@
+{
+  "title": "Hamlet",
+  "year": "1921",
+  "rated": "N/A",
+  "released": "27 Jan 1921",
+  "runtime": "131 min",
+  "genre": "Drama",
+  "director": "Svend Gade, Heinz Schall",
+  "writer": "Erwin Gepard, William Shakespeare, Edward P. Vining",
+  "actors": "Asta Nielsen, Paul Conradi, Mathilde Brandt",
+  "plot": "Danish silent movie-star Asta Nielsen formed her own production company to make this film, in which new elements are combined with features (and a few lines) familiar from Shakespeare's version of the legend. The most important of...",
+  "language": "None, German",
+  "country": "Germany",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmRkNmRmNzEtZTNhYy00YzYyLWFhYjEtMWQ0ZjFjMzM1ZWE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0012249",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:17:55.516Z"
+}

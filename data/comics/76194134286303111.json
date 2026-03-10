@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194134286303111",
+  "title": "Deathstroke #31",
+  "authors": [
+    "Alex Antone",
+    "Brad Anderson",
+    "Brian Cunningham",
+    "Carlo Pagulayan",
+    "Christopher Priest",
+    "Daniel Henriques",
+    "Dave Wielgosz",
+    "Dean White",
+    "Jerome Opeña",
+    "Jeromy Cox",
+    "Larry Hama",
+    "Michael Jason Paz",
+    "Roberto Viacava",
+    "Robson Rocha",
+    "Willie Schubert"
+  ],
+  "publish_date": "2018-05-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/10/deathstroke-31.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2770/",
+  "fetched_at": "2026-03-10T13:20:56.578Z"
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Sandman #53",
+  "authors": [
+    "Bryan Talbot",
+    "Daniel Vozzo",
+    "Dave McKean",
+    "Dick Giordano",
+    "Karen Berger",
+    "Mark Buckingham",
+    "Michael Zulli",
+    "Neil Gaiman",
+    "Shelly Bond",
+    "Todd Klein"
+  ],
+  "publish_date": "1993-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/07/the-sandman-53.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/46234/",
+  "fetched_at": "2026-03-10T13:31:01.956Z"
+}

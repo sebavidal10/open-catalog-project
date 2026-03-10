@@ -1,0 +1,27 @@
+{
+  "title": "Monte Cristo",
+  "year": "1922",
+  "rated": "Passed",
+  "released": "03 Sep 1922",
+  "runtime": "100 min",
+  "genre": "Drama, Romance",
+  "director": "Emmett J. Flynn",
+  "writer": "Alexandre Dumas, Bernard McConville, Sandro Salvini",
+  "actors": "John Gilbert, Estelle Taylor, Robert McKim",
+  "plot": "A film adaptation of the classic Alexandre Dumas novel. Edmond Dantes is falsely accused by those jealous of his good fortune, and is sentenced to spend the rest of his life in the notorious island prison, Chateau d'If. While impr...",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzk2MzU5M2MtM2ViMi00MmUyLWI2NDctYTMwYjQ1YzRmMjVhXkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0013402",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:32:29.926Z"
+}

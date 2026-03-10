@@ -1,0 +1,31 @@
+{
+  "title": "Nosferatu: A Symphony of Horror",
+  "year": "1922",
+  "rated": "Not Rated",
+  "released": "19 Dec 1922",
+  "runtime": "94 min",
+  "genre": "Fantasy, Horror",
+  "director": "F.W. Murnau",
+  "writer": "Bram Stoker, Henrik Galeen",
+  "actors": "Max Schreck, Alexander Granach, Gustav von Wangenheim",
+  "plot": "Vampire Count Orlok expresses interest in a new residence and real estate agent Hutter's wife.",
+  "language": "German, English",
+  "country": "Germany",
+  "awards": "3 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDg1OTI1M2MtMTVlMS00ZjFhLTgyMTAtYjIzOWUwZTkyZWE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0013442",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:32:07.628Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Sandman #49",
+  "authors": [
+    "Daniel Vozzo",
+    "Dave McKean",
+    "Jill Thompson",
+    "Karen Berger",
+    "Neil Gaiman",
+    "Shelly Bond",
+    "Todd Klein",
+    "Vincent Locke"
+  ],
+  "publish_date": "1993-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/07/the-sandman-49.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/46230/",
+  "fetched_at": "2026-03-10T13:30:48.165Z"
+}

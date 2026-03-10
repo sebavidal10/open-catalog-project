@@ -1,0 +1,31 @@
+{
+  "title": "Phantom",
+  "year": "1922",
+  "rated": "Not Rated",
+  "released": "13 Nov 1922",
+  "runtime": "125 min",
+  "genre": "Drama, Romance",
+  "director": "F.W. Murnau",
+  "writer": "Gerhart Hauptmann, Thea von Harbou, Hans Heinrich von Twardowski",
+  "actors": "Alfred Abel, Frida Richard, Aud Egede-Nissen",
+  "plot": "A shiftless young man becomes obsessed with a mysterious woman and yearns to find her again.",
+  "language": "None, German",
+  "country": "Germany",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzBiMTU3Y2UtYWMwZS00NWQxLTgxMzItNWE3NTBmMTIwYWIzXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0013496",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:32:18.176Z"
+}

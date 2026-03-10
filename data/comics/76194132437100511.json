@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194132437100511",
+  "title": "Deathstroke #5",
+  "authors": [
+    "Eddie Berganza",
+    "Jeremy Bent",
+    "Leonardo Manco",
+    "Rob Leigh",
+    "Sandu Florea",
+    "Tomeu Morey",
+    "Tony Daniel"
+  ],
+  "publish_date": "2015-02-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/21/ead1c33864a04b8aa10a46ee3403db76.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/56805/",
+  "fetched_at": "2026-03-10T13:17:40.952Z"
+}

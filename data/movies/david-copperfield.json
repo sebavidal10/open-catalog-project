@@ -1,0 +1,27 @@
+{
+  "title": "David Copperfield",
+  "year": "1922",
+  "rated": "N/A",
+  "released": "05 Dec 1922",
+  "runtime": "140 min",
+  "genre": "Drama",
+  "director": "A.W. Sandberg",
+  "writer": "Charles Dickens, Laurids Skands",
+  "actors": "Gorm Schmidt, Martin Herzberg, Margarete Schlegel",
+  "plot": "A gentle orphan discovers life and love in an indifferent adult world.",
+  "language": "None",
+  "country": "Denmark",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjVkYTU5MDktMjcwYy00ZjQxLWJlZTktMzk1NTY4ZTgzNjFlXkEyXkFqcGdeQXVyNzM2MDE3MDM@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0123032",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:33:00.439Z"
+}

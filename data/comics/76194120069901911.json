@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120069901911",
+  "title": "Sandman Mystery Theatre #19",
+  "authors": [
+    "David Hornung",
+    "Gavin Wilson",
+    "Guy Davis",
+    "John Costanza",
+    "Karen Berger",
+    "Matt Wagner",
+    "Shelly Bond",
+    "Steve Seagle"
+  ],
+  "publish_date": "1994-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/04/13/5ac2b765338542e68978d9a1be0f5058.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/61661/",
+  "fetched_at": "2026-03-10T13:33:28.495Z"
+}

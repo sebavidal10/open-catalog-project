@@ -1,0 +1,27 @@
+{
+  "title": "Oliver Twist",
+  "year": "1922",
+  "rated": "Passed",
+  "released": "30 Oct 1922",
+  "runtime": "98 min",
+  "genre": "Drama",
+  "director": "Frank Lloyd",
+  "writer": "Charles Dickens, Frank Lloyd, Harry Weil",
+  "actors": "Jackie Coogan, James A. Marcus, Aggie Herring",
+  "plot": "An orphan named Oliver Twist meets a pickpocket on the streets of London. From there, he joins a household of boys who are trained to steal for their master.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "2 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTQwODkxYjQtYjNhZi00NWIxLWEyZWItNzdlYjhiZWM3MjE1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0013450",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:32:17.002Z"
+}

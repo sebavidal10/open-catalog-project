@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Aquaman #1",
+  "authors": [
+    "Bob Lappan",
+    "Craig Hamilton",
+    "Dick Giordano",
+    "Joe Orlando",
+    "Neal Pozner",
+    "Steve Montano"
+  ],
+  "publish_date": "1986-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/19/aquaman-v2-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2471/",
+  "fetched_at": "2026-03-10T14:55:04.547Z"
+}

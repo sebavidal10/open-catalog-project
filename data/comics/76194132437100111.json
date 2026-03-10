@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194132437100111",
+  "title": "Deathstroke #1",
+  "authors": [
+    "Andrea Sorrentino",
+    "Ben Dimagmaliw",
+    "Eddie Berganza",
+    "Jeremy Bent",
+    "Kevin O'Neill",
+    "Rob Leigh",
+    "Sandu Florea",
+    "Tomeu Morey",
+    "Tony Daniel"
+  ],
+  "publish_date": "2014-10-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/21/5091f4df000342cc8feaa27c38267492.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/56801/",
+  "fetched_at": "2026-03-10T13:17:26.469Z"
+}

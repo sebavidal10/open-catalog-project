@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120068206211",
+  "title": "Sandman #62",
+  "authors": [
+    "Charles Vess",
+    "D'Israeli",
+    "Daniel Vozzo",
+    "Dave McKean",
+    "Dean Ormston",
+    "Karen Berger",
+    "Neil Gaiman",
+    "Shelly Bond",
+    "Todd Klein"
+  ],
+  "publish_date": "1994-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/07/the-sandman-62.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/46243/",
+  "fetched_at": "2026-03-10T13:31:34.312Z"
+}

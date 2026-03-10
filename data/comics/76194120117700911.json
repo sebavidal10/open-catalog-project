@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120117700911",
+  "title": "Aquaman #9",
+  "authors": [
+    "Dan Nakrosis",
+    "Eddie Berganza",
+    "Howard Shum",
+    "Joe St. Pierre",
+    "Kevin Dooley",
+    "Peter David",
+    "Rodney Ramos",
+    "Tom McCraw"
+  ],
+  "publish_date": "1995-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/02/aquaman-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1785/",
+  "fetched_at": "2026-03-10T14:56:52.965Z"
+}

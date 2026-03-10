@@ -1,0 +1,27 @@
+{
+  "title": "Black Beauty",
+  "year": "1921",
+  "rated": "Passed",
+  "released": "01 Jan 1921",
+  "runtime": "70 min",
+  "genre": "Drama",
+  "director": "David Smith",
+  "writer": "Anna Sewell, George Randolph Chester, William B. Courtney",
+  "actors": "Jean Paige, James Morrison, George Webb",
+  "plot": "Anna Sewell's \"autobiography\" of a horse named Black Beauty is here expanded to include the adventures of the humans who surround the horse.",
+  "language": "None",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1NDRkNTgtYjVkOS00ZmUwLWE4NzYtNWZjZDhmN2Q4YzZkXkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0011973",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:18:41.174Z"
+}

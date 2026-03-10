@@ -1,0 +1,31 @@
+{
+  "title": "The Phantom Carriage",
+  "year": "1921",
+  "rated": "Not Rated",
+  "released": "04 Jun 1922",
+  "runtime": "107 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Victor Sjöström",
+  "writer": "Selma Lagerlöf, Victor Sjöström",
+  "actors": "Victor Sjöström, Hilda Borgström, Tore Svennberg",
+  "plot": "On New Year's Eve, the driver of a ghostly carriage forces a drunken man to reflect on his selfish, wasted life.",
+  "language": "None, Swedish",
+  "country": "Sweden",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGVmY2EyZTktYzUwMy00YTU1LWJhZDYtNjIwYTFhMTZhOTVhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.0",
+  "imdbID": "tt0012364",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:17:37.952Z"
+}

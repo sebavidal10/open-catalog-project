@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Sandman #33",
+  "authors": [
+    "Alisa Kwitney",
+    "Daniel Vozzo",
+    "Dave McKean",
+    "Karen Berger",
+    "Neil Gaiman",
+    "Shawn McManus",
+    "Todd Klein"
+  ],
+  "publish_date": "1991-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/07/the-sandman-33.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/46214/",
+  "fetched_at": "2026-03-10T13:29:43.958Z"
+}

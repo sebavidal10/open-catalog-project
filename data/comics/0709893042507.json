@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "0709893042507",
+  "title": "Aquaman #62",
+  "authors": [
+    "Adrienne Roy",
+    "Bob McLeod",
+    "Don Newton",
+    "Jim Aparo",
+    "Paul Kupperberg",
+    "Paul Levitz",
+    "Shelly Leferman"
+  ],
+  "publish_date": "1978-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/13/aquaman-v1-62.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3696/",
+  "fetched_at": "2026-03-10T14:54:57.958Z"
+}

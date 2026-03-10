@@ -1,0 +1,31 @@
+{
+  "title": "Destiny",
+  "year": "1921",
+  "rated": "Not Rated",
+  "released": "30 Jan 1922",
+  "runtime": "114 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Fritz Lang",
+  "writer": "Fritz Lang, Thea von Harbou",
+  "actors": "Bernhard Goetzke, Lil Dagover, Walter Janssen",
+  "plot": "When a woman's fiancé disappears, Death gives her three chances to save him from his fate.",
+  "language": "None, German",
+  "country": "Germany",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGQ4NjhkMDktOTJhMC00ZTk0LTliYzEtOTAyZDcxMmZlMTE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0012494",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:17:34.433Z"
+}

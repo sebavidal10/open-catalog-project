@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120117701111",
+  "title": "Aquaman #11",
+  "authors": [
+    "Dan Nakrosis",
+    "Eddie Berganza",
+    "Howard Shum",
+    "Kevin Dooley",
+    "Martin Egeland",
+    "Peter David",
+    "Tom McCraw"
+  ],
+  "publish_date": "1995-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/05/aquaman-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1795/",
+  "fetched_at": "2026-03-10T14:57:00.234Z"
+}

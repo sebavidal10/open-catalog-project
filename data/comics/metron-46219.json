@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Sandman #38",
+  "authors": [
+    "Alisa Kwitney",
+    "Daniel Vozzo",
+    "Dave McKean",
+    "Duncan Eagleson",
+    "Karen Berger",
+    "Neil Gaiman",
+    "Todd Klein",
+    "Vincent Locke"
+  ],
+  "publish_date": "1992-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/07/the-sandman-38.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/46219/",
+  "fetched_at": "2026-03-10T13:30:01.587Z"
+}

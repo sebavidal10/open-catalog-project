@@ -1,0 +1,31 @@
+{
+  "title": "The Three Musketeers",
+  "year": "1921",
+  "rated": "N/A",
+  "released": "28 Aug 1921",
+  "runtime": "119 min",
+  "genre": "Action, Adventure, Family",
+  "director": "Fred Niblo",
+  "writer": "Alexandre Dumas, Edward Knoblock, Lotta Woods",
+  "actors": "Douglas Fairbanks, Nigel De Brulier, George Siegmann",
+  "plot": "Cardinal Richelieu, engaged in intrigue at the court of Louis XIII, attempts to rule by threatening the queen, who is secretly in love with the Duke of Buckingham. From Gascony comes D'Artagnan to join the King's Musketeers in his...",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGJkNzcxNDEtNzVlOC00YTNmLWJhZDQtNmQ0OWUwZTY2M2EzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0012752",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:18:06.079Z"
+}

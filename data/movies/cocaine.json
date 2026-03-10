@@ -1,0 +1,27 @@
+{
+  "title": "Cocaine",
+  "year": "1922",
+  "rated": "N/A",
+  "released": "01 May 1922",
+  "runtime": "80 min",
+  "genre": "Drama",
+  "director": "Graham Cutts",
+  "writer": "Frank Miller",
+  "actors": "Hilda Bayley, Flora le Breton, Ward McAllister",
+  "plot": "A drug king kills a criminal for giving cocaine to his teenage daughter.",
+  "language": "None",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGE0YjcxMDQtZDAyMC00ZTVlLWIxYmEtNDU3Y2QzNzQ3YTQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0289127",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:34:22.220Z"
+}

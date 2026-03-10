@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130502800111",
+  "title": "Deathstroke #1",
+  "authors": [
+    "Art Thibert",
+    "Jason Wright",
+    "Joe Bennett",
+    "Kyle Higgins",
+    "Rachel Gluckstern",
+    "Rickey Purdin",
+    "Simon Bisley",
+    "Travis Lanham"
+  ],
+  "publish_date": "2011-09-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/21/ed8625d5ff474b5b8de4a8ba29145f29.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/56780/",
+  "fetched_at": "2026-03-10T13:16:02.004Z"
+}

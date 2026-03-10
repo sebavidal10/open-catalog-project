@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Sandman #25",
+  "authors": [
+    "Daniel Vozzo",
+    "Dave McKean",
+    "Karen Berger",
+    "Malcolm Jones III",
+    "Matt Wagner",
+    "Neil Gaiman",
+    "Todd Klein",
+    "Tom Peyer"
+  ],
+  "publish_date": "1991-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/07/the-sandman-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/46206/",
+  "fetched_at": "2026-03-10T13:29:16.414Z"
+}

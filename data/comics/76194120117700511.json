@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120117700511",
+  "title": "Aquaman #5",
+  "authors": [
+    "Dan Nakrosis",
+    "Eddie Berganza",
+    "Howard Shum",
+    "Jim Calafiore",
+    "Kevin Dooley",
+    "Mark McKenna",
+    "Peter David",
+    "Tom McCraw"
+  ],
+  "publish_date": "1995-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/02/aquaman-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1781/",
+  "fetched_at": "2026-03-10T14:56:38.685Z"
+}

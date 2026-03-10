@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Aquaman #11",
+  "authors": [
+    "Bob Dvorak",
+    "Dan Nakrosis",
+    "Ken Hooper",
+    "Kevin Dooley",
+    "Shaun McLaughlin",
+    "Tom McCraw"
+  ],
+  "publish_date": "1992-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/21/aquaman-v4-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2520/",
+  "fetched_at": "2026-03-10T14:56:10.471Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Nero",
+  "year": "1922",
+  "rated": "Passed",
+  "released": "22 May 1922",
+  "runtime": "120 min",
+  "genre": "Biography, Drama, Romance",
+  "director": "J. Gordon Edwards",
+  "writer": "Charles Sarver, Virginia Tracy",
+  "actors": "Jacques Grétillat, Sandro Salvini, Guido Trento",
+  "plot": "Biography portraying the life of the Roman Emperor Nero.",
+  "language": "None",
+  "country": "Italy, United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmNiMTNiZWQtYWE3Yy00N2QwLWJlZWEtYzQ0ZjA4MjBmNzY4XkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.4",
+  "imdbID": "tt0013430",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:33:46.952Z"
+}

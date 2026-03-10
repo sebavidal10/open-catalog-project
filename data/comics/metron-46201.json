@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Sandman #20",
+  "authors": [
+    "Colleen Doran",
+    "Dave McKean",
+    "Karen Berger",
+    "Malcolm Jones III",
+    "Neil Gaiman",
+    "Steve Oliff",
+    "Todd Klein",
+    "Tom Peyer"
+  ],
+  "publish_date": "1990-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/07/the-sandman-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/46201/",
+  "fetched_at": "2026-03-10T13:28:58.771Z"
+}

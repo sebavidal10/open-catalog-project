@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Sandman #11",
+  "authors": [
+    "Art Young",
+    "Dave McKean",
+    "John Costanza",
+    "Karen Berger",
+    "Malcolm Jones III",
+    "Mike Dringenberg",
+    "Neil Gaiman",
+    "Robbie Busch"
+  ],
+  "publish_date": "1989-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/07/the-sandman-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/46192/",
+  "fetched_at": "2026-03-10T13:28:26.851Z"
+}

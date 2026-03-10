@@ -1,0 +1,27 @@
+{
+  "title": "Othello",
+  "year": "1922",
+  "rated": "TV-PG",
+  "released": "17 Sep 1922",
+  "runtime": "79 min",
+  "genre": "Drama, Romance",
+  "director": "Dimitri Buchowetzki",
+  "writer": "Dimitri Buchowetzki, Karl Mueller-Hagens, William Shakespeare",
+  "actors": "Emil Jannings, Werner Krauss, Ica von Lenkeffy",
+  "plot": "Based on Shakespeare's play: The treacherous Iago plans to ruin the life of Othello by provoking him to jealousy.",
+  "language": "None, German",
+  "country": "Germany",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWJlYmRiN2ItYTBmMi00MzVhLTgyMTgtYjYzOGQ0ZTZiMmU1XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0013469",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:32:35.797Z"
+}

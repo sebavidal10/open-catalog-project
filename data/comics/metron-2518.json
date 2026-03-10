@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Aquaman #9",
+  "authors": [
+    "Dan Nakrosis",
+    "Kevin Dooley",
+    "Shaun McLaughlin",
+    "Tom McCraw",
+    "Vince Giarrano"
+  ],
+  "publish_date": "1992-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/21/aquaman-v4-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2518/",
+  "fetched_at": "2026-03-10T14:56:03.491Z"
+}

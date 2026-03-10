@@ -1,0 +1,27 @@
+{
+  "title": "Adventures of Tarzan",
+  "year": "1921",
+  "rated": "Passed",
+  "released": "01 Dec 1921",
+  "runtime": "73 min",
+  "genre": "Action, Adventure",
+  "director": "Robert F. Hill, Scott Sidney",
+  "writer": "Edgar Rice Burroughs, Robert F. Hill, Lillian Valentine",
+  "actors": "Elmo Lincoln, Louise Lorraine, Scott Pembroke",
+  "plot": "When Jane is abducted by Arab slave traders, Tarzan comes to her rescue, only to see her kidnapped again by Queen La of Opar. To save Jane, Tarzan must battle both the queen's minions and William Clayton, who seeks Tarzan's family...",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAxNjA0MDczMV5BMl5BanBnXkFtZTgwNjM2ODAyMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0011908",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:17:50.837Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Sandman #24",
+  "authors": [
+    "Daniel Vozzo",
+    "Dave McKean",
+    "Karen Berger",
+    "Kelley Jones",
+    "Neil Gaiman",
+    "P. Craig Russell",
+    "Todd Klein",
+    "Tom Peyer"
+  ],
+  "publish_date": "1991-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/07/the-sandman-24.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/46205/",
+  "fetched_at": "2026-03-10T13:29:12.932Z"
+}

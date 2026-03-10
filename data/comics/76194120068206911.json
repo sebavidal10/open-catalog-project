@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120068206911",
+  "title": "Sandman #69",
+  "authors": [
+    "Daniel Vozzo",
+    "Dave McKean",
+    "Karen Berger",
+    "Marc Hempel",
+    "Neil Gaiman",
+    "Shelly Bond",
+    "Todd Klein"
+  ],
+  "publish_date": "1995-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/07/the-sandman-69.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/46250/",
+  "fetched_at": "2026-03-10T13:31:58.209Z"
+}

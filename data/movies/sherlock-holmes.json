@@ -1,0 +1,31 @@
+{
+  "title": "Sherlock Holmes",
+  "year": "1922",
+  "rated": "Not Rated",
+  "released": "07 Mar 1922",
+  "runtime": "85 min",
+  "genre": "Drama, Mystery",
+  "director": "Albert Parker",
+  "writer": "Earle Browne, Arthur Conan Doyle, Marion Fairfax",
+  "actors": "John Barrymore, Roland Young, Carol Dempster",
+  "plot": "A young Sherlock Holmes seeks to bring down the criminal mastermind Moriarty as he solves a crime involving a blackmailed prince.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NzIwMTY5MF5BMl5BanBnXkFtZTcwMDU0MDMzNA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0013597",
+  "type": "movie",
+  "fetched_at": "2026-03-10T13:32:22.876Z"
+}

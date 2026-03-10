@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Sandman #54",
+  "authors": [
+    "Bryan Talbot",
+    "Daniel Vozzo",
+    "Dave McKean",
+    "Karen Berger",
+    "Mark Buckingham",
+    "Mike Allred",
+    "Neil Gaiman",
+    "Shelly Bond",
+    "Todd Klein"
+  ],
+  "publish_date": "1993-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/07/the-sandman-54.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/46235/",
+  "fetched_at": "2026-03-10T13:31:05.436Z"
+}
