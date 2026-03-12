@@ -1,0 +1,19 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "The Amazing Spider-Man #28",
+  "authors": [
+    "Sam Rosen",
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "publish_date": "1965-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/14/asm-v1-28.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7434/",
+  "fetched_at": "2026-03-12T00:51:21.468Z"
+}

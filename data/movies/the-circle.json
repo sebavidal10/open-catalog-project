@@ -1,0 +1,27 @@
+{
+  "title": "The Circle",
+  "year": "1925",
+  "rated": "Passed",
+  "released": "22 Sep 1925",
+  "runtime": "71 min",
+  "genre": "Comedy, Drama",
+  "director": "Frank Borzage",
+  "writer": "Kenneth B. Clarke, W. Somerset Maugham",
+  "actors": "Eleanor Boardman, Malcolm McGregor, Alec B. Francis",
+  "plot": "An unhappy woman considers leaving her dull husband for another man.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0MzEwMjg1OF5BMl5BanBnXkFtZTgwMjc1NjY3NjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0015684",
+  "type": "movie",
+  "fetched_at": "2026-03-12T00:44:50.605Z"
+}

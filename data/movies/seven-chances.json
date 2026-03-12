@@ -1,0 +1,31 @@
+{
+  "title": "Seven Chances",
+  "year": "1925",
+  "rated": "Passed",
+  "released": "15 Mar 1925",
+  "runtime": "56 min",
+  "genre": "Comedy, Romance",
+  "director": "Buster Keaton",
+  "writer": "Roi Cooper Megrue, Clyde Bruckman, Jean C. Havez",
+  "actors": "Buster Keaton, Ruth Dwyer, T. Roy Barnes",
+  "plot": "A man learns that he will inherit a fortune if he marries by 7PM that evening.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTY5ZjU1MjAtZDBiYi00ZmJlLTllMzItOTkwYTZkZjc5MWNjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0016332",
+  "type": "movie",
+  "fetched_at": "2026-03-12T00:44:00.975Z"
+}

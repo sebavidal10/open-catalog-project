@@ -1,0 +1,27 @@
+{
+  "title": "Sally",
+  "year": "1925",
+  "rated": "N/A",
+  "released": "29 Mar 1925",
+  "runtime": "90 min",
+  "genre": "Comedy",
+  "director": "Alfred E. Green",
+  "writer": "Guy Bolton, Clifford Grey, June Mathis",
+  "actors": "Colleen Moore, Lloyd Hughes, Leon Errol",
+  "plot": "N/A",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmQ2ZjJkZjYtOGQwMi00MjM5LTk2NGQtYWQxOWY3MjcyM2M4XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0016307",
+  "type": "movie",
+  "fetched_at": "2026-03-12T00:46:15.630Z"
+}

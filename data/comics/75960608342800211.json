@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608342800211",
+  "title": "All-New X-Men #2",
+  "authors": [
+    "Alan Fine",
+    "Andrew Hennessy",
+    "Axel Alonso",
+    "Christina Harrington",
+    "Cory Petit",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Dennis Hopeless",
+    "Janet Lee",
+    "Joe Quesada",
+    "Mark Bagley",
+    "Mark Paniccia",
+    "Nolan Woodard"
+  ],
+  "publish_date": "2015-12-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/25/all-new-x-men-v2-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27887/",
+  "fetched_at": "2026-03-12T00:44:29.640Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Wine",
+  "year": "1924",
+  "rated": "N/A",
+  "released": "31 Aug 1924",
+  "runtime": "70 min",
+  "genre": "Drama",
+  "director": "Louis J. Gasnier",
+  "writer": "Philip Lonergan, William MacHarg, Raymond L. Schrock",
+  "actors": "Clara Bow, Forrest Stanley, Huntley Gordon",
+  "plot": "John Warriner, facing financial ruin, accepts the proposal of a bootlegger, Benedict, to underwrite the business of illegal wine-selling. His daughter, Angela, takes up with the jazz set and is caught in a raid, at a cafe owned by...",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NjM5NzMxMV5BMl5BanBnXkFtZTgwMTIwNTQ2MzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0015499",
+  "type": "movie",
+  "fetched_at": "2026-03-12T00:35:29.419Z"
+}

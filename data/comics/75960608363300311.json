@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608363300311",
+  "title": "Vision #3",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Christian Ward",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Gabriel Hernandez Walta",
+    "Joe Quesada",
+    "Jordie Bellaire",
+    "Michael Del Mundo",
+    "Tom Brevoort",
+    "Tom King",
+    "Wil Moss"
+  ],
+  "publish_date": "2016-01-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/28/ff5ec1f1c5be4bfbb46fbeb816bd41b8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/57427/",
+  "fetched_at": "2026-03-12T01:11:07.936Z"
+}

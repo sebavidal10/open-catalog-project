@@ -1,0 +1,31 @@
+{
+  "title": "Ben-Hur: A Tale of the Christ",
+  "year": "1925",
+  "rated": "Not Rated",
+  "released": "08 Oct 1927",
+  "runtime": "143 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Fred Niblo, Charles Brabin, Christy Cabanne",
+  "writer": "Lew Wallace, June Mathis, Carey Wilson",
+  "actors": "Ramon Novarro, Francis X. Bushman, May McAvoy",
+  "plot": "A Jewish prince seeks to find his family and revenge himself upon his childhood friend who had him wrongly imprisoned.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "4 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEwNzIwNDMwMl5BMl5BanBnXkFtZTgwNjExMTYxMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0016641",
+  "type": "movie",
+  "fetched_at": "2026-03-12T00:44:03.327Z"
+}

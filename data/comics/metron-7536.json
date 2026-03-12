@@ -1,0 +1,19 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "The Amazing Spider-Man #93",
+  "authors": [
+    "Artie Simek",
+    "John Romita Sr.",
+    "Stan Lee"
+  ],
+  "publish_date": "1971-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/16/asm-v1-93.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7536/",
+  "fetched_at": "2026-03-12T00:55:00.429Z"
+}

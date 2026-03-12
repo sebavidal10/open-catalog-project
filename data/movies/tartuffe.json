@@ -1,0 +1,31 @@
+{
+  "title": "Tartuffe",
+  "year": "1925",
+  "rated": "Not Rated",
+  "released": "24 Jul 1927",
+  "runtime": "70 min",
+  "genre": "Comedy, Drama",
+  "director": "F.W. Murnau",
+  "writer": "Molière, Carl Mayer",
+  "actors": "Hermann Picha, Rosa Valetti, André Mattoni",
+  "plot": "A young man shows his millionaire grandfather a film based on Molière's Tartuffe, in order to expose the old man's hypocritical governess who covets his own inheritance.",
+  "language": "None, German",
+  "country": "Germany",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWE4NmNkOTQtZGMwYy00ZTNkLTk0NTAtNjc1ZDY2YzZmYjJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0017448",
+  "type": "movie",
+  "fetched_at": "2026-03-12T00:44:15.100Z"
+}

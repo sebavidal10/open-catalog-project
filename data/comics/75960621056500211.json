@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960621056500211",
+  "title": "Doom's Division #2",
+  "authors": [
+    "Adam Del Re",
+    "C. B. Cebulski",
+    "Creees Lee",
+    "Dustin Nguyen",
+    "Lindsey Cohick",
+    "Mattia Iacono",
+    "Minkyu Jung",
+    "Peach Momoko",
+    "Sonia Oback",
+    "Stacie Zucker",
+    "Travis Lanham",
+    "Wil Moss",
+    "Yoon Lee"
+  ],
+  "publish_date": "2025-04-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/04/15/89055cd5d399428f8908f3ebba2bd930.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/143247/",
+  "fetched_at": "2026-03-12T01:08:31.031Z"
+}

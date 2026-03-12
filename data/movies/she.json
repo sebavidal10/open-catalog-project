@@ -1,0 +1,31 @@
+{
+  "title": "She",
+  "year": "1925",
+  "rated": "N/A",
+  "released": "21 Jun 1925",
+  "runtime": "69 min",
+  "genre": "Adventure, Fantasy, Sci-Fi",
+  "director": "Leander De Cordova, G.B. Samuelson",
+  "writer": "H. Rider Haggard, G.B. Samuelson, Walter Summers",
+  "actors": "Betty Blythe, Carlyle Blackwell, Mary Odette",
+  "plot": "In Africa an explorer is the reincarnated lover of the 2,000-year-old White Queen.",
+  "language": "None, English",
+  "country": "United Kingdom, Germany",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMyNDY4NzQ1MF5BMl5BanBnXkFtZTgwMDIxMTYxMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0016338",
+  "type": "movie",
+  "fetched_at": "2026-03-12T00:45:11.842Z"
+}

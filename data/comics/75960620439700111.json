@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960620439700111",
+  "title": "A.X.E.: X-Men #1",
+  "authors": [
+    "Annalise Bissa",
+    "Arthur Adams",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Edgar Delgado",
+    "Francesco Mobili",
+    "Frank Martin",
+    "Jay Bowen",
+    "Kieron Gillen",
+    "Martin Biro",
+    "Nic Klein",
+    "Salvador Larroca",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2022-10-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/09/29/axe-xmen-1-fix.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/52362/",
+  "fetched_at": "2026-03-12T00:41:11.171Z"
+}

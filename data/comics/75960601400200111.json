@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601400200111",
+  "title": "Vision #1",
+  "authors": [
+    "Al Vey",
+    "Bill Oakley",
+    "Bob Harras",
+    "Joe Andreani",
+    "Manny Clarke",
+    "Mike Machlan",
+    "Ralph Macchio",
+    "Steve Epting",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1994-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/28/7cdb4f67b7724b87ab934ca842a692ce.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/57437/",
+  "fetched_at": "2026-03-12T01:10:46.512Z"
+}

@@ -1,0 +1,19 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "The Amazing Spider-Man #21",
+  "authors": [
+    "Sam Rosen",
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "publish_date": "1965-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/14/asm-v1-21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7426/",
+  "fetched_at": "2026-03-12T00:50:56.804Z"
+}

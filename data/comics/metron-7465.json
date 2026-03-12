@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "The Amazing Spider-Man #58",
+  "authors": [
+    "Don Heck",
+    "John Romita Sr.",
+    "Mike Esposito",
+    "Sam Rosen",
+    "Stan Lee"
+  ],
+  "publish_date": "1968-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/15/asm-v1-58.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7465/",
+  "fetched_at": "2026-03-12T00:53:04.763Z"
+}

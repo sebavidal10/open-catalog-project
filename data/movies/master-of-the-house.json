@@ -1,0 +1,31 @@
+{
+  "title": "Master of the House",
+  "year": "1925",
+  "rated": "Not Rated",
+  "released": "05 Oct 1925",
+  "runtime": "111 min",
+  "genre": "Comedy, Drama",
+  "director": "Carl Theodor Dreyer",
+  "writer": "Carl Theodor Dreyer, Svend Rindom",
+  "actors": "Johannes Meyer, Astrid Holm, Karin Nellemose",
+  "plot": "When a man becomes tyrannical towards his family, the women of the house decide to teach him a lesson in gratitude.",
+  "language": "Danish",
+  "country": "Denmark",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTkyN2EzZGItZDk1OC00YjUxLWFiNzktYTA4ZDY2MzhjZGU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0015768",
+  "type": "movie",
+  "fetched_at": "2026-03-12T00:44:29.214Z"
+}

@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607957500111",
+  "title": "Amazing X-Men #1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dexter Vines",
+    "Ed McGuinness",
+    "Jason Aaron",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Kevin Nowlan",
+    "Marte Gracia",
+    "Milo Manara",
+    "Nick Lowe",
+    "Skottie Young",
+    "Xander Jarowey"
+  ],
+  "publish_date": "2013-11-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/23/amazing-x-men-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29630/",
+  "fetched_at": "2026-03-12T00:45:59.487Z"
+}

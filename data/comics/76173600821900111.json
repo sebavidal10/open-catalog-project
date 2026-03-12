@@ -1,0 +1,20 @@
+{
+  "isbn": null,
+  "upc": "76173600821900111",
+  "title": "Shelter Division #1",
+  "authors": [
+    "Bob Salley",
+    "Carli Ihde",
+    "Francesco Tomaselli",
+    "Travis McIntire"
+  ],
+  "publish_date": "2022-02-09",
+  "publisher": [
+    "Source Point Press"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/12/22/Cover_A_VfHyPGo.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/133192/",
+  "fetched_at": "2026-03-12T01:08:57.995Z"
+}

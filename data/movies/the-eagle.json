@@ -1,0 +1,31 @@
+{
+  "title": "The Eagle",
+  "year": "1925",
+  "rated": "Unrated",
+  "released": "08 Nov 1925",
+  "runtime": "73 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Clarence Brown",
+  "writer": "Alexander Pushkin, George Marion Jr., Hanns Kräly",
+  "actors": "Rudolph Valentino, Vilma Bánky, Louise Dresser",
+  "plot": "A wanted Russian lieutenant becomes a masked vigilante seeking vengeance upon the man who stole his family's land, only to fall for his charming daughter.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGI0MzFhY2UtMDNlMy00N2EwLTkwYjktZTVjNmI4MmYyZGE1XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0015772",
+  "type": "movie",
+  "fetched_at": "2026-03-12T00:44:57.669Z"
+}

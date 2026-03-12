@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607957500911",
+  "title": "Amazing X-Men #9",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Carlo Barberi",
+    "Christopher Yost",
+    "Craig Kyle",
+    "Dan Buckley",
+    "Dave Meikis",
+    "Ed McGuinness",
+    "Frankie Johnson",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marte Gracia",
+    "Mike Marts",
+    "Rachelle Rosenberg",
+    "Walden Wong"
+  ],
+  "publish_date": "2014-07-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/23/amazing-x-men-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29638/",
+  "fetched_at": "2026-03-12T00:46:26.069Z"
+}

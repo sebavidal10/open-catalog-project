@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "75960604339200411",
+  "title": "The Adventures of the X-Men #4",
+  "authors": [
+    "Bob Harras",
+    "Mark Powers",
+    "Matt Webb",
+    "Michael Higgins",
+    "Mike S. Miller",
+    "Ralph Macchio"
+  ],
+  "publish_date": "1996-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/02/10/63c5e5bf210c49ccacdb53489bb3dbaa.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/135350/",
+  "fetched_at": "2026-03-12T00:41:23.880Z"
+}

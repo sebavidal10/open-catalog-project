@@ -1,0 +1,19 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "The Amazing Spider-Man #16",
+  "authors": [
+    "Artie Simek",
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "publish_date": "1964-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/14/asm-v1-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7421/",
+  "fetched_at": "2026-03-12T00:50:39.566Z"
+}

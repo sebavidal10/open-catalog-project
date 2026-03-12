@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Vertigo Visions - The Geek #1",
+  "authors": [
+    "Clem Robins",
+    "Laura Allred",
+    "Mike Allred",
+    "Rachel Pollack",
+    "Tom Peyer"
+  ],
+  "publish_date": "1993-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/02/5cdef5643d2f483a98bbacd7b3c84760.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/120952/",
+  "fetched_at": "2026-03-12T01:10:43.181Z"
+}

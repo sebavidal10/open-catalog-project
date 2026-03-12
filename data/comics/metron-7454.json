@@ -1,0 +1,19 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "The Amazing Spider-Man #47",
+  "authors": [
+    "John Romita Sr.",
+    "Sam Rosen",
+    "Stan Lee"
+  ],
+  "publish_date": "1967-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/15/asm-v1-47.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7454/",
+  "fetched_at": "2026-03-12T00:52:27.781Z"
+}

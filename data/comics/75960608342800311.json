@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608342800311",
+  "title": "All-New X-Men #3",
+  "authors": [
+    "Alan Fine",
+    "Andrew Hennessy",
+    "Axel Alonso",
+    "Christina Harrington",
+    "Cory Petit",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Dennis Hopeless",
+    "Jason Keith",
+    "Joe Quesada",
+    "Mark Bagley",
+    "Mark Paniccia",
+    "Nolan Woodard",
+    "Pasqual Ferry",
+    "Rob Liefeld"
+  ],
+  "publish_date": "2016-01-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/25/all-new-x-men-v2-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27888/",
+  "fetched_at": "2026-03-12T00:44:32.672Z"
+}

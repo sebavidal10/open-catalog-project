@@ -1,0 +1,31 @@
+{
+  "title": "The Phantom of the Opera",
+  "year": "1925",
+  "rated": "Passed",
+  "released": "15 Nov 1925",
+  "runtime": "93 min",
+  "genre": "Horror, Music",
+  "director": "Rupert Julian, Lon Chaney, Ernst Laemmle",
+  "writer": "Gaston Leroux, Walter Anthony, Elliott J. Clawson",
+  "actors": "Lon Chaney, Mary Philbin, Norman Kerry",
+  "plot": "A mad, disfigured composer seeks love with a lovely young opera singer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjVjYWMwZDYtZTllNC00ZGY1LWEwYzktOWVmODNlMThhMzZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0016220",
+  "type": "movie",
+  "fetched_at": "2026-03-12T00:43:59.803Z"
+}

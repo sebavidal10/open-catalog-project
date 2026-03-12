@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607900100111",
+  "title": "All-New X-Men #1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Brian Michael Bendis",
+    "Cory Petit",
+    "Dan Buckley",
+    "J. Scott Campbell",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Paolo Rivera",
+    "Salvador Larroca",
+    "Skottie Young",
+    "Stuart Immonen",
+    "Wade von Grawbadger"
+  ],
+  "publish_date": "2012-11-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/24/all-new-x-men-v1-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27845/",
+  "fetched_at": "2026-03-12T00:42:12.177Z"
+}

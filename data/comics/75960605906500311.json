@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960605906500311",
+  "title": "Ultimate Vision #3",
+  "authors": [
+    "Brandon Peterson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Quesada",
+    "John Barber",
+    "Justin Ponsor",
+    "Mike Carey",
+    "Ralph Macchio"
+  ],
+  "publish_date": "2007-03-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/19/1b2bfd1d73f84edc96c7d2f125b4e8be.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151987/",
+  "fetched_at": "2026-03-12T01:10:30.399Z"
+}

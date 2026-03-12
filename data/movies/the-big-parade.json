@@ -1,0 +1,31 @@
+{
+  "title": "The Big Parade",
+  "year": "1925",
+  "rated": "Not Rated",
+  "released": "03 Dec 1925",
+  "runtime": "151 min",
+  "genre": "Drama, Romance, War",
+  "director": "King Vidor, George W. Hill",
+  "writer": "Laurence Stallings, Harry Behn, Joseph Farnham",
+  "actors": "John Gilbert, Renée Adorée, Hobart Bosworth",
+  "plot": "A young American soldier witnesses the horrors of the Great War.",
+  "language": "None, English, French",
+  "country": "United States",
+  "awards": "6 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjY2MTA1MjExNV5BMl5BanBnXkFtZTgwNzQ2ODAyMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.9",
+  "imdbID": "tt0015624",
+  "type": "movie",
+  "fetched_at": "2026-03-12T00:44:08.035Z"
+}

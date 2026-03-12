@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607957501111",
+  "title": "Amazing X-Men #11",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Carlo Barberi",
+    "Christopher Yost",
+    "Craig Kyle",
+    "Dan Buckley",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Juan Vlasco",
+    "Marc Deering",
+    "Mike Marts",
+    "Rachelle Rosenberg",
+    "Walden Wong",
+    "Xander Jarowey"
+  ],
+  "publish_date": "2014-09-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/23/amazing-x-men-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29640/",
+  "fetched_at": "2026-03-12T00:46:32.723Z"
+}

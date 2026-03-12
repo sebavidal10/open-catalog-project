@@ -1,0 +1,31 @@
+{
+  "title": "Tumbleweeds",
+  "year": "1925",
+  "rated": "Approved",
+  "released": "27 Dec 1925",
+  "runtime": "78 min",
+  "genre": "Western",
+  "director": "King Baggot, William S. Hart",
+  "writer": "Hal G. Evarts, C. Gardner Sullivan",
+  "actors": "William S. Hart, Barbara Bedford, Lucien Littlefield",
+  "plot": "The government will grant a fringe of terrain for the settlers who want to live and work there. The starting sign will be a gunshot which will iniciate the run for the best fields and claims.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA3OTEyNjExMjJeQTJeQWpwZ15BbWU4MDEyOTA4MDIx._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0016461",
+  "type": "movie",
+  "fetched_at": "2026-03-12T00:44:17.445Z"
+}

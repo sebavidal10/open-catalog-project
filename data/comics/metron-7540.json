@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "The Amazing Spider-Man #97",
+  "authors": [
+    "Frank Giacoia",
+    "Gil Kane",
+    "John Romita Sr.",
+    "Sam Rosen",
+    "Stan Lee"
+  ],
+  "publish_date": "1971-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/16/asm-v1-97.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7540/",
+  "fetched_at": "2026-03-12T00:55:17.858Z"
+}

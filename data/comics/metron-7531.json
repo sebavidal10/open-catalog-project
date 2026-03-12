@@ -1,0 +1,20 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "The Amazing Spider-Man #88",
+  "authors": [
+    "Jim Mooney",
+    "John Romita Sr.",
+    "Sam Rosen",
+    "Stan Lee"
+  ],
+  "publish_date": "1970-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/16/asm-v1-88.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7531/",
+  "fetched_at": "2026-03-12T00:54:43.261Z"
+}

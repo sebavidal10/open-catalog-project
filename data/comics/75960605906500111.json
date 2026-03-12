@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605906500111",
+  "title": "Ultimate Vision #1",
+  "authors": [
+    "Brad Johansen",
+    "Brandon Peterson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Quesada",
+    "John Barber",
+    "Justin Ponsor",
+    "Mike Carey",
+    "Ralph Macchio"
+  ],
+  "publish_date": "2006-12-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/19/814c40a685fe4f00aa4ccbe5649651f5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151985/",
+  "fetched_at": "2026-03-12T01:10:21.425Z"
+}

@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "75960604339200311",
+  "title": "The Adventures of the X-Men #3",
+  "authors": [
+    "Ben Herrera",
+    "Bob Harras",
+    "Mark Powers",
+    "Matt Webb",
+    "Mike S. Miller",
+    "Ralph Macchio"
+  ],
+  "publish_date": "1996-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/02/10/8528561680f348079ed49a24f2e8f588.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/135349/",
+  "fetched_at": "2026-03-12T00:41:20.848Z"
+}

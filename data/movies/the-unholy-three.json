@@ -1,0 +1,31 @@
+{
+  "title": "The Unholy Three",
+  "year": "1925",
+  "rated": "Passed",
+  "released": "16 Aug 1925",
+  "runtime": "86 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "Tod Browning",
+  "writer": "Clarence Aaron 'Tod' Robbins, Waldemar Young",
+  "actors": "Lon Chaney, Mae Busch, Matt Moore",
+  "plot": "A sideshow ventriloquist, a midget, and a strongman form a conspiracy known as \"The Unholy Three\" and commit a series of robberies.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "3 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTY2MzM4MTYtMjAwMy00ZWY2LWE3OWUtZDBhNDkxM2E1NTI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0016473",
+  "type": "movie",
+  "fetched_at": "2026-03-12T00:44:12.748Z"
+}

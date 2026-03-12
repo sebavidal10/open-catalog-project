@@ -1,0 +1,31 @@
+{
+  "title": "Little Annie Rooney",
+  "year": "1925",
+  "rated": "Unrated",
+  "released": "18 Oct 1925",
+  "runtime": "94 min",
+  "genre": "Drama, Comedy",
+  "director": "William Beaudine",
+  "writer": "Mary Pickford, Hope Loring, Louis D. Lighton",
+  "actors": "Mary Pickford, William Haines, Walter James",
+  "plot": "The tenements are home to an international community, including the friends and family of a tough young ragamuffin named Annie Rooney, but their neighborhood is threatened by a dangerous street gang.",
+  "language": "English, Greek",
+  "country": "United States",
+  "awards": "2 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmFmYjMxZmMtOTI2Mi00Zjk2LWIyZjUtZDY5ZDMzYTM1ZWIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0016028",
+  "type": "movie",
+  "fetched_at": "2026-03-12T00:44:23.332Z"
+}

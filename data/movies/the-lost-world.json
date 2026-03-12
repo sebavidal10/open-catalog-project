@@ -1,0 +1,31 @@
+{
+  "title": "The Lost World",
+  "year": "1925",
+  "rated": "Passed",
+  "released": "22 Jun 1925",
+  "runtime": "110 min",
+  "genre": "Adventure, Fantasy, Horror",
+  "director": "Harry O. Hoyt",
+  "writer": "Arthur Conan Doyle, Marion Fairfax",
+  "actors": "Wallace Beery, Bessie Love, Lloyd Hughes",
+  "plot": "The first film adaptation of Sir Arthur Conan Doyle's classic novel about a land where prehistoric creatures still roam.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjgzZWZhMDYtMDA2YS00MDQ5LWFiNTEtNjRkOTc1MDY5Mzg3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0016039",
+  "type": "movie",
+  "fetched_at": "2026-03-12T00:44:04.502Z"
+}

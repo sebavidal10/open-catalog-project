@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607957501211",
+  "title": "Amazing X-Men #12",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Carlo Barberi",
+    "Christopher Yost",
+    "Craig Kyle",
+    "Dan Buckley",
+    "Iban Coello",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Livesay",
+    "Marc Deering",
+    "Mike Marts",
+    "Rachelle Rosenberg",
+    "Walden Wong",
+    "Xander Jarowey"
+  ],
+  "publish_date": "2014-10-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/23/amazing-x-men-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29641/",
+  "fetched_at": "2026-03-12T00:46:35.752Z"
+}

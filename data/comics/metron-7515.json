@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "The Amazing Spider-Man #72",
+  "authors": [
+    "Jim Mooney",
+    "John Buscema",
+    "John Romita Sr.",
+    "Sam Rosen",
+    "Stan Lee"
+  ],
+  "publish_date": "1969-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/16/asm-v1-72.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7515/",
+  "fetched_at": "2026-03-12T00:53:51.024Z"
+}

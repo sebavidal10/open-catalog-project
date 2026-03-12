@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194136737800111",
+  "title": "Batman / Catwoman #1",
+  "authors": [
+    "Alex Sinclair",
+    "Bixie Mathieu",
+    "Brittany Holzherr",
+    "Clay Mann",
+    "Clayton Cowles",
+    "Jamie S. Rich",
+    "Jim Lee",
+    "Scott Williams",
+    "Tom King",
+    "Tomeu Morey",
+    "Travis Charest"
+  ],
+  "publish_date": "2020-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/18/bat-cat-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19473/",
+  "fetched_at": "2026-03-12T00:56:24.630Z"
+}

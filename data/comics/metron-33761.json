@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Suicide Squad #1",
+  "authors": [
+    "Carl Gafford",
+    "Howard Chaykin",
+    "John Ostrander",
+    "Karl Kesel",
+    "Luke McDonnell",
+    "Robert Greenberger",
+    "Todd Klein"
+  ],
+  "publish_date": "1987-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/05/suicide-squad-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33761/",
+  "fetched_at": "2026-03-12T00:34:45.227Z"
+}

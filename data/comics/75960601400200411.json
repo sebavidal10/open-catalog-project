@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601400200411",
+  "title": "Vision #4",
+  "authors": [
+    "Bill Oakley",
+    "Bob Harras",
+    "Charles Barnett III",
+    "Chris DeFellipo",
+    "Jeff Powell",
+    "Manny Clarke",
+    "Mark Gruenwald",
+    "Mike Machlan",
+    "Ralph Macchio",
+    "Steve Alexandrov",
+    "Steve Epting"
+  ],
+  "publish_date": "1995-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/28/4f7ae0d3b13243a6a70bf10166c36348.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/57440/",
+  "fetched_at": "2026-03-12T01:10:56.816Z"
+}

@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960601400200211",
+  "title": "Vision #2",
+  "authors": [
+    "Bill Oakley",
+    "Bob Harras",
+    "Manny Clarke",
+    "Mike Machlan",
+    "Ralph Macchio",
+    "Steve Epting",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1994-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/28/a9c6d1894fde493298660eac7a6b824a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/57438/",
+  "fetched_at": "2026-03-12T01:10:49.895Z"
+}

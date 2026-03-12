@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Suicide Squad #50",
+  "authors": [
+    "Dan Raspler",
+    "Geof Isherwood",
+    "Grant Miehm",
+    "John Ostrander",
+    "Karl Kesel",
+    "Kim Yale",
+    "Luke McDonnell",
+    "Todd Klein",
+    "Tom McCraw"
+  ],
+  "publish_date": "1991-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/06/suicide-squad-50.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33832/",
+  "fetched_at": "2026-03-12T00:37:27.381Z"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960607957501311",
+  "title": "Amazing X-Men #13",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "James Tynion IV",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jorge Jiménez",
+    "Mike Marts",
+    "Nick Bradshaw",
+    "Rachelle Rosenberg",
+    "Xander Jarowey"
+  ],
+  "publish_date": "2014-11-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/23/amazing-x-men-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29642/",
+  "fetched_at": "2026-03-12T00:46:39.010Z"
+}

@@ -1,0 +1,19 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "The Amazing Spider-Man #6",
+  "authors": [
+    "Artie Simek",
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "publish_date": "1963-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/14/asm-v1-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7411/",
+  "fetched_at": "2026-03-12T00:49:55.989Z"
+}

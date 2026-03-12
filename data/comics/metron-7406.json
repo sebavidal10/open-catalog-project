@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "The Amazing Spider-Man #1",
+  "authors": [
+    "Jack Kirby",
+    "John Duffy",
+    "Jon D'Agostino",
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "publish_date": "1963-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/14/asm-v1-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7406/",
+  "fetched_at": "2026-03-12T00:49:38.684Z"
+}

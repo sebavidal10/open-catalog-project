@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Suicide Squad #38",
+  "authors": [
+    "Carl Gafford",
+    "Dan Raspler",
+    "Geof Isherwood",
+    "John Ostrander",
+    "Kevin Maguire",
+    "Luke McDonnell",
+    "Robert Greenberger",
+    "Todd Klein"
+  ],
+  "publish_date": "1990-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/06/suicide-squad-38.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33820/",
+  "fetched_at": "2026-03-12T00:36:48.532Z"
+}

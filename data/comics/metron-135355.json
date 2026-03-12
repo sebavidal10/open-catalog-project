@@ -1,0 +1,18 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "The Adventures of the X-Men #8",
+  "authors": [
+    "Andy Kuhn",
+    "Ralph Macchio"
+  ],
+  "publish_date": "1996-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/02/10/e4797f8a56b5421e8359c60452552e1d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/135355/",
+  "fetched_at": "2026-03-12T00:41:37.195Z"
+}

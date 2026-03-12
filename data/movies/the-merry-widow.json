@@ -1,0 +1,31 @@
+{
+  "title": "The Merry Widow",
+  "year": "1925",
+  "rated": "Passed",
+  "released": "25 Jan 1926",
+  "runtime": "137 min",
+  "genre": "Drama, Romance",
+  "director": "Erich von Stroheim",
+  "writer": "Erich von Stroheim, Benjamin Glazer, Viktor Léon",
+  "actors": "Mae Murray, John Gilbert, Roy D'Arcy",
+  "plot": "A prince must woo the now-wealthy dancer he once abandoned, to keep her money in the country in order to keep it from crashing economically.",
+  "language": "None",
+  "country": "United States",
+  "awards": "3 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDBmODRiNzMtODAzOC00YmI0LTk4NTgtYWIwNTQyY2U0NDdkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0016104",
+  "type": "movie",
+  "fetched_at": "2026-03-12T00:44:32.736Z"
+}

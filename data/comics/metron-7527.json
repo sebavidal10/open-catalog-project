@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "The Amazing Spider-Man #84",
+  "authors": [
+    "Jim Mooney",
+    "Joe Rosen",
+    "John Buscema",
+    "John Romita Sr.",
+    "Stan Lee"
+  ],
+  "publish_date": "1970-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/16/asm-v1-84.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7527/",
+  "fetched_at": "2026-03-12T00:54:30.380Z"
+}

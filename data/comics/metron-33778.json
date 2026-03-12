@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Suicide Squad #18",
+  "authors": [
+    "Bob Lewis",
+    "Carl Gafford",
+    "Joe Brozowski",
+    "John Ostrander",
+    "Karl Kesel",
+    "Luke McDonnell",
+    "Robert Greenberger",
+    "Todd Klein"
+  ],
+  "publish_date": "1988-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/05/suicide-squad-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33778/",
+  "fetched_at": "2026-03-12T00:35:41.872Z"
+}
