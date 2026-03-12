@@ -1,0 +1,35 @@
+{
+  "title": "Downhill",
+  "year": "1927",
+  "rated": "Not Rated",
+  "released": "N/A",
+  "runtime": "110 min",
+  "genre": "Adventure, Drama, Thriller",
+  "director": "Alfred Hitchcock",
+  "writer": "Constance Collier, Ivor Novello, Eliot Stannard",
+  "actors": "Ivor Novello, Ben Webster, Norman McKinnel",
+  "plot": "Bound by honor, a successful schoolboy takes the blame for his roommate's indiscretion, and it's all downhill from there.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjM3YTZjOGUtY2VjNy00ODg2LWJhNzAtMGQ3MjNiZTk0MWQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "6.0",
+  "imdbID": "tt0017825",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:59:16.162Z"
+}

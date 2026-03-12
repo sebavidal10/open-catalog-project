@@ -1,0 +1,31 @@
+{
+  "title": "It",
+  "year": "1927",
+  "rated": "Passed",
+  "released": "15 Feb 1927",
+  "runtime": "72 min",
+  "genre": "Comedy, Romance",
+  "director": "Clarence G. Badger, Josef von Sternberg",
+  "writer": "Elinor Glyn, Hope Loring, Louis D. Lighton",
+  "actors": "Clara Bow, Antonio Moreno, William Austin",
+  "plot": "A salesgirl pursues a handsome playboy.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWUzNzVjNzctNzJiNy00NTgzLTk5NjktYTc5NDJjYmI3MGI4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0018033",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:59:35.024Z"
+}

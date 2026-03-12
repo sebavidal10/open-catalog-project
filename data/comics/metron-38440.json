@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Green Arrow #36",
+  "authors": [
+    "Bill Wray",
+    "Dick Giordano",
+    "Ed Hannigan",
+    "John Costanza",
+    "Julia Lacquement",
+    "Katie Main",
+    "Mike Gold",
+    "Mike Grell"
+  ],
+  "publish_date": "1990-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/19/green-arrow-36.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/38440/",
+  "fetched_at": "2026-03-12T13:13:12.364Z"
+}

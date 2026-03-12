@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Green Arrow #14",
+  "authors": [
+    "Brian Augustyn",
+    "Dan Jurgens",
+    "Dick Giordano",
+    "Ed Hannigan",
+    "Frank McLaughlin",
+    "John Costanza",
+    "Julia Lacquement",
+    "Mike Gold",
+    "Mike Grell"
+  ],
+  "publish_date": "1989-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/19/green-arrow-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/38418/",
+  "fetched_at": "2026-03-12T13:11:58.326Z"
+}

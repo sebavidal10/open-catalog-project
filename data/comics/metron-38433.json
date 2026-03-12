@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Green Arrow #29",
+  "authors": [
+    "Dan Jurgens",
+    "Dick Giordano",
+    "Frank McLaughlin",
+    "John Costanza",
+    "Julia Lacquement",
+    "Katie Main",
+    "Mike Gold",
+    "Mike Grell"
+  ],
+  "publish_date": "1990-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/19/green-arrow-29.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/38433/",
+  "fetched_at": "2026-03-12T13:12:48.795Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Green Arrow #31",
+  "authors": [
+    "Dick Giordano",
+    "Frank McLaughlin",
+    "Grant Miehm",
+    "John Costanza",
+    "Julia Lacquement",
+    "Katie Main",
+    "Mike Gold",
+    "Mike Grell"
+  ],
+  "publish_date": "1990-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/19/green-arrow-31.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/38435/",
+  "fetched_at": "2026-03-12T13:12:55.559Z"
+}

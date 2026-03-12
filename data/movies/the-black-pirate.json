@@ -1,0 +1,31 @@
+{
+  "title": "The Black Pirate",
+  "year": "1926",
+  "rated": "Not Rated",
+  "released": "08 Mar 1926",
+  "runtime": "88 min",
+  "genre": "Adventure, Action",
+  "director": "Albert Parker",
+  "writer": "Douglas Fairbanks, Jack Cunningham",
+  "actors": "Douglas Fairbanks, Billie Dove, Tempe Pigott",
+  "plot": "Seeking revenge, an athletic young man joins the pirate band responsible for his father's death.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzU0NDkyMjEzMV5BMl5BanBnXkFtZTgwMTcyMzEyMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0016654",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:49:33.002Z"
+}

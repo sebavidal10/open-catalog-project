@@ -1,0 +1,31 @@
+{
+  "title": "Napoleon",
+  "year": "1927",
+  "rated": "N/A",
+  "released": "17 Feb 1929",
+  "runtime": "330 min",
+  "genre": "Biography, Drama, History",
+  "director": "Abel Gance",
+  "writer": "Abel Gance",
+  "actors": "Albert Dieudonné, Nicolas Roudenko, Edmond Van Daële",
+  "plot": "A film about the French general's youth and early military career.",
+  "language": "N/A",
+  "country": "France",
+  "awards": "4 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTM4YWFmOWMtZGRhMy00NWU4LTg5MzQtMzdlMjA0OTRiMTkyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.2",
+  "imdbID": "tt0018192",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:59:07.952Z"
+}

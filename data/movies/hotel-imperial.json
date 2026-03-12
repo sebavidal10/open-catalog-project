@@ -1,0 +1,31 @@
+{
+  "title": "Hotel Imperial",
+  "year": "1927",
+  "rated": "N/A",
+  "released": "01 Jan 1927",
+  "runtime": "85 min",
+  "genre": "Drama, War",
+  "director": "Mauritz Stiller",
+  "writer": "Lajos Biró, Jules Furthman, Edwin Justus Mayer",
+  "actors": "Pola Negri, James Hall, George Siegmann",
+  "plot": "During World War I, a hotel maid and Austrian officer in hiding attempt to survive in a Russian-occupied town.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTczNjhhZmYtZmQ3OS00MDFhLWJhYzktMjU1MmIyZDk1N2UyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0018014",
+  "type": "movie",
+  "fetched_at": "2026-03-12T13:00:31.590Z"
+}

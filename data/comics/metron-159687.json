@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Green Arrow #1",
+  "authors": [
+    "Dick Giordano",
+    "John Costanza",
+    "Len Wein",
+    "Mike W. Barr",
+    "Tom Ziuko",
+    "Trevor Von Eeden"
+  ],
+  "publish_date": "1983-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/04/GA-83-01-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/159687/",
+  "fetched_at": "2026-03-12T13:11:01.691Z"
+}

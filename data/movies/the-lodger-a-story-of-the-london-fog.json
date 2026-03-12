@@ -1,0 +1,35 @@
+{
+  "title": "The Lodger: A Story of the London Fog",
+  "year": "1927",
+  "rated": "Not Rated",
+  "released": "14 Feb 1927",
+  "runtime": "92 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Alfred Hitchcock",
+  "writer": "Marie Belloc Lowndes, Eliot Stannard, Alfred Hitchcock",
+  "actors": "June Tripp, Ivor Novello, Marie Ault",
+  "plot": "A landlady suspects that her new lodger is the madman killing women in London.",
+  "language": "None",
+  "country": "United Kingdom",
+  "awards": "1 win & 2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE4OTg0ODgyNF5BMl5BanBnXkFtZTgwMDY3NTMzMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "7.3",
+  "imdbID": "tt0017075",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:59:10.300Z"
+}

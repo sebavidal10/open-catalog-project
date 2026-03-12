@@ -1,0 +1,27 @@
+{
+  "title": "Chicago",
+  "year": "1927",
+  "rated": "Passed",
+  "released": "23 Dec 1927",
+  "runtime": "105 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Frank Urson",
+  "writer": "Maurine Dallas Watkins, Lenore J. Coffee, John W. Krafft",
+  "actors": "Phyllis Haver, Victor Varconi, Virginia Bradford",
+  "plot": "A wild jazz-loving and boozing wife Roxie Hart kills her boyfriend in cold blood after he leaves her.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmI5N2M4NTQtMjVjMC00Y2JhLWIwYzktMWRkYmM1OWYzNzY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0017750",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:59:33.800Z"
+}

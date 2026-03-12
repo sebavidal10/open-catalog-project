@@ -1,0 +1,31 @@
+{
+  "title": "Faust",
+  "year": "1926",
+  "rated": "Not Rated",
+  "released": "06 Dec 1926",
+  "runtime": "107 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "F.W. Murnau",
+  "writer": "Gerhart Hauptmann, Hans Kyser, Johann Wolfgang von Goethe",
+  "actors": "Gösta Ekman, Emil Jannings, Camilla Horn",
+  "plot": "The demon Mephisto wagers with God that he can corrupt a mortal man's soul.",
+  "language": "German, English",
+  "country": "Germany",
+  "awards": "3 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDRjZDMwMGItOGY1MS00YmExLWI3N2ItNjk5MTA2N2QxMTI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.1",
+  "imdbID": "tt0016847",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:48:28.277Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Green Arrow #25",
+  "authors": [
+    "Joe Brozowski",
+    "John Costanza",
+    "Julia Lacquement",
+    "Katie Main",
+    "Michael Bair",
+    "Mike Gold",
+    "Mike Grell",
+    "Trevor Von Eeden"
+  ],
+  "publish_date": "1989-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/19/green-arrow-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/38429/",
+  "fetched_at": "2026-03-12T13:12:35.783Z"
+}

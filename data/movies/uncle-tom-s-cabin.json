@@ -1,0 +1,27 @@
+{
+  "title": "Uncle Tom's Cabin",
+  "year": "1927",
+  "rated": "Passed",
+  "released": "02 Sep 1928",
+  "runtime": "144 min",
+  "genre": "Drama, History",
+  "director": "Harry A. Pollard",
+  "writer": "Harriet Beecher Stowe, Walter Anthony, Harry A. Pollard",
+  "actors": "Margarita Fischer, James B. Lowe, Arthur Edmund Carewe",
+  "plot": "Slavery tears apart a Black family in the South before the start of the Civil War.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWQzODdjNzctNzBiMi00ODU2LWIwYTUtMTliYjIzMTUzMTBkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0018524",
+  "type": "movie",
+  "fetched_at": "2026-03-12T13:00:25.715Z"
+}

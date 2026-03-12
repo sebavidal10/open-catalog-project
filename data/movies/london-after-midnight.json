@@ -1,0 +1,31 @@
+{
+  "title": "London After Midnight",
+  "year": "1927",
+  "rated": "Passed",
+  "released": "03 Dec 1927",
+  "runtime": "69 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Tod Browning",
+  "writer": "Tod Browning, Waldemar Young, Joseph Farnham",
+  "actors": "Lon Chaney, Marceline Day, Henry B. Walthall",
+  "plot": "The abandoned home of a wealthy man who supposedly committed suicide five years earlier is taken over by ghoulish figures - could they be vampires?",
+  "language": "None",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2UwZGM1NWItMDk3Yi00MGM1LWE2ZTgtYTY5MDgxOTA1YmI5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0018097",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:59:11.473Z"
+}

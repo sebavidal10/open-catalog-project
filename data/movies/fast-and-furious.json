@@ -1,0 +1,27 @@
+{
+  "title": "Fast and Furious",
+  "year": "1927",
+  "rated": "N/A",
+  "released": "12 Jun 1927",
+  "runtime": "60 min",
+  "genre": "Comedy",
+  "director": "Melville W. Brown",
+  "writer": "Raymond Cannon, Reginald Denny, Rob Wagner",
+  "actors": "Reginald Denny, Barbara Worth, Claude Gillingwater",
+  "plot": "A man hopes to win a girl by winning a motor race.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDU0NzIxY2QtNWZkMy00NDViLWFjNzItM2Y3YTE2MTQzYzljXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.3",
+  "imdbID": "tt0017866",
+  "type": "movie",
+  "fetched_at": "2026-03-12T13:03:47.380Z"
+}

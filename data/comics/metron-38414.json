@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Green Arrow #10",
+  "authors": [
+    "Bill Wray",
+    "Brian Augustyn",
+    "Dick Giordano",
+    "Ed Hannigan",
+    "Frank McLaughlin",
+    "John Costanza",
+    "Julia Lacquement",
+    "Mike Gold",
+    "Mike Grell"
+  ],
+  "publish_date": "1988-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/19/green-arrow-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/38414/",
+  "fetched_at": "2026-03-12T13:11:44.794Z"
+}

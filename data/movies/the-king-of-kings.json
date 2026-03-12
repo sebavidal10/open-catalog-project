@@ -1,0 +1,31 @@
+{
+  "title": "The King of Kings",
+  "year": "1927",
+  "rated": "Not Rated",
+  "released": "N/A",
+  "runtime": "160 min",
+  "genre": "Biography, Drama, Family",
+  "director": "Cecil B. DeMille",
+  "writer": "Jeanie Macpherson",
+  "actors": "H.B. Warner, Dorothy Cumming, Ernest Torrence",
+  "plot": "Jesus Christ faces religious and political oppression during his ministry and in the days before his death and resurrection.",
+  "language": "English",
+  "country": "United States",
+  "awards": "5 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWIxYTE2ZGMtNTAyZC00ZDIxLWJhYmQtYzBjNzZlOTdkNTA3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0018054",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:59:12.640Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "The War Horse",
+  "year": "1927",
+  "rated": "Passed",
+  "released": "06 Feb 1927",
+  "runtime": "50 min",
+  "genre": "Adventure, Drama, Romance",
+  "director": "Lambert Hillyer",
+  "writer": "Buck Jones, Lambert Hillyer",
+  "actors": "Buck Jones, Lola Todd, Lloyd Whitlock",
+  "plot": "N/A",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmJhYmY5OTgtODM1Ny00NTA4LWE3OWUtNThkZWZkOWUwYWI5XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0018548",
+  "type": "movie",
+  "fetched_at": "2026-03-12T13:03:09.344Z"
+}

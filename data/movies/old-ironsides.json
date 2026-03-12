@@ -1,0 +1,31 @@
+{
+  "title": "Old Ironsides",
+  "year": "1926",
+  "rated": "Passed",
+  "released": "06 Dec 1926",
+  "runtime": "111 min",
+  "genre": "Drama, History",
+  "director": "James Cruze",
+  "writer": "Laurence Stallings, Harry Carr, Walter Woods",
+  "actors": "Charles Farrell, Esther Ralston, Wallace Beery",
+  "plot": "An American fighting ship battles Barbary pirates in the Mediterranean in the 18th century.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzhmOGU5MWItMzg3NS00YzRkLWFlNmMtMWY2ODJmYzU5MmUyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0017226",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:48:44.717Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Spring Fever",
+  "year": "1927",
+  "rated": "Not Rated",
+  "released": "22 Oct 1927",
+  "runtime": "78 min",
+  "genre": "Comedy",
+  "director": "Edward Sedgwick",
+  "writer": "Frank Davis, Vincent Lawrence, Albert Lewin",
+  "actors": "William Haines, Joan Crawford, George K. Arthur",
+  "plot": "To impress a wealthy young woman, a clerk pretends he is a pro-golfer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODEyMDM2OTYzN15BMl5BanBnXkFtZTgwNTA1NDIwMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0018440",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:59:52.635Z"
+}

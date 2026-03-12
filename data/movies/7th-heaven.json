@@ -1,0 +1,31 @@
+{
+  "title": "7th Heaven",
+  "year": "1927",
+  "rated": "Not Rated",
+  "released": "30 Oct 1927",
+  "runtime": "110 min",
+  "genre": "Drama, Romance",
+  "director": "Frank Borzage",
+  "writer": "Austin Strong, Benjamin Glazer, Katherine Hilliker",
+  "actors": "Janet Gaynor, Charles Farrell, Ben Bard",
+  "plot": "A street cleaner saves a young woman's life, and the pair slowly fall in love until war intervenes.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 9 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk2MjUzMzk3OV5BMl5BanBnXkFtZTcwOTk1MjQxMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0018379",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:59:20.848Z"
+}

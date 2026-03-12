@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Green Arrow #16",
+  "authors": [
+    "Brian Augustyn",
+    "Dick Giordano",
+    "Ed Hannigan",
+    "Frank McLaughlin",
+    "John Costanza",
+    "Julia Lacquement",
+    "Mike Gold",
+    "Mike Grell"
+  ],
+  "publish_date": "1989-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/19/green-arrow-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/38420/",
+  "fetched_at": "2026-03-12T13:12:05.162Z"
+}

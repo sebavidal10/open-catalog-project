@@ -1,0 +1,27 @@
+{
+  "title": "Son premier film",
+  "year": "1926",
+  "rated": "N/A",
+  "released": "10 Dec 1926",
+  "runtime": "99 min",
+  "genre": "Comedy",
+  "director": "Jean Kemm",
+  "writer": "Jean Kemm",
+  "actors": "Grock, Pierrette Lugand, Gaston Dubosc",
+  "plot": "Céleste Noménoé, a provincial actor, comes to Paris for an inheritance. He also gets a part in a movie. The managers of a music-hall notice him. He takes the stage name of Grock, becomes famous and even gets married.",
+  "language": "None, French",
+  "country": "France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYThmZmVhZmYtOGU5OS00YzUxLThjZTktNmUzYmYyNDMzYjY4XkEyXkFqcGdeQXVyOTE3NDAzMDU@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0247036",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:53:00.128Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Unknown",
+  "year": "1927",
+  "rated": "Unrated",
+  "released": "04 Jun 1927",
+  "runtime": "68 min",
+  "genre": "Drama, Horror, Romance",
+  "director": "Tod Browning",
+  "writer": "Tod Browning, Waldemar Young, Joseph Farnham",
+  "actors": "Lon Chaney, Norman Kerry, Joan Crawford",
+  "plot": "A criminal on the run hides in a circus and seeks to possess the daughter of the ringmaster at any cost.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "2 wins & 2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWQ4Mzg0NDItODEyNy00MzFlLWFjNGYtMjIyODQxNGRjNmFhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0018528",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:59:13.815Z"
+}

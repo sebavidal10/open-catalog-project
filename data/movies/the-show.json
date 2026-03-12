@@ -1,0 +1,27 @@
+{
+  "title": "The Show",
+  "year": "1927",
+  "rated": "Passed",
+  "released": "22 Jan 1927",
+  "runtime": "76 min",
+  "genre": "Crime, Drama",
+  "director": "Tod Browning",
+  "writer": "Waldemar Young, Charles Tenney Jackson, Joseph Farnham",
+  "actors": "John Gilbert, Renée Adorée, Lionel Barrymore",
+  "plot": "Performers in a Budapest sideshow encounter love, greed, and murder.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "3 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGYxODVlMDUtOGM5NS00YTUxLTlkY2ItZDAyNGMyMzczZjI5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0018397",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:59:31.452Z"
+}

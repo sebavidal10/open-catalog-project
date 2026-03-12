@@ -1,0 +1,35 @@
+{
+  "title": "The Jazz Singer",
+  "year": "1927",
+  "rated": "Passed",
+  "released": "04 Feb 1928",
+  "runtime": "88 min",
+  "genre": "Drama, Music, Musical",
+  "director": "Alan Crosland",
+  "writer": "Samson Raphaelson, Alfred A. Cohn, Jack Jarmuth",
+  "actors": "Al Jolson, May McAvoy, Warner Oland",
+  "plot": "The son of a Jewish Cantor must defy the traditions of his religious father in order to pursue his dream of becoming a jazz singer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 3 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTMxODVjM2MtYjFlYS00Y2Y1LTg1NTEtNjcwZTBhNTE3MTJmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "6.4",
+  "imdbID": "tt0018037",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:59:09.125Z"
+}

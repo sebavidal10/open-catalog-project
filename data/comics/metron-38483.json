@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Green Arrow #79",
+  "authors": [
+    "Bill Marimon",
+    "Darren Vincenzo",
+    "John Nyberg",
+    "Julia Lacquement",
+    "Mike Gold",
+    "Mike Grell",
+    "Scott Peterson",
+    "Steve Haynie"
+  ],
+  "publish_date": "1993-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/20/green-arrow-79.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/38483/",
+  "fetched_at": "2026-03-12T13:15:42.761Z"
+}

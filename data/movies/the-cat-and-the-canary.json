@@ -1,0 +1,31 @@
+{
+  "title": "The Cat and the Canary",
+  "year": "1927",
+  "rated": "Passed",
+  "released": "09 Sep 1927",
+  "runtime": "108 min",
+  "genre": "Comedy, Horror, Mystery",
+  "director": "Paul Leni",
+  "writer": "John Willard, Robert F. Hill, Alfred A. Cohn",
+  "actors": "Laura La Plante, Creighton Hale, Forrest Stanley",
+  "plot": "Relatives of an eccentric millionaire gather in his spooky mansion on the 20th anniversary of his death for the reading of his will.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjE0MTdlN2EtNzhlNS00OTRkLWI5OTctNjMxMzI1Zjc4MzY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0017739",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:59:14.992Z"
+}

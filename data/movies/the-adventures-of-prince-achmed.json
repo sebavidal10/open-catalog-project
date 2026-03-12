@@ -1,0 +1,31 @@
+{
+  "title": "The Adventures of Prince Achmed",
+  "year": "1926",
+  "rated": "Not Rated",
+  "released": "20 Jun 1929",
+  "runtime": "80 min",
+  "genre": "Animation, Adventure, Drama",
+  "director": "Lotte Reiniger, Carl Koch",
+  "writer": "Lotte Reiniger",
+  "actors": "N/A",
+  "plot": "A handsome prince rides a flying horse to faraway lands and embarks on magical adventures, which include befriending a witch, meeting Aladdin, battling demons and falling in love with a princess.",
+  "language": "None",
+  "country": "Germany",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDM5MWJhNTctNGI1OC00NTJlLTllM2MtNzk4NTE1MzRjNzY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0015532",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:48:52.994Z"
+}

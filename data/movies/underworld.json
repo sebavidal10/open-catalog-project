@@ -1,0 +1,31 @@
+{
+  "title": "Underworld",
+  "year": "1927",
+  "rated": "Not Rated",
+  "released": "29 Oct 1927",
+  "runtime": "80 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Josef von Sternberg, Arthur Rosson",
+  "writer": "Charles Furthman, Howard Hawks, Ben Hecht",
+  "actors": "George Bancroft, Clive Brook, Evelyn Brent",
+  "plot": "Boisterous gangster kingpin Bull Weed rehabilitates his former lawyer from his alcoholic haze, but complications arise when he falls for Weed's girlfriend.",
+  "language": "English, None",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 5 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjU2MTcwMTMtYzE3Yy00YzcxLTg5MjctZjI3OWFmYjA4MTA3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0018526",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:59:17.333Z"
+}

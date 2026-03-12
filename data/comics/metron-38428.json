@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Green Arrow #24",
+  "authors": [
+    "Dan Jurgens",
+    "Dick Giordano",
+    "Frank McLaughlin",
+    "Jerry Ordway",
+    "John Costanza",
+    "Julia Lacquement",
+    "Katie Main",
+    "Mike Gold",
+    "Mike Grell"
+  ],
+  "publish_date": "1989-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/19/green-arrow-24.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/38428/",
+  "fetched_at": "2026-03-12T13:12:32.605Z"
+}

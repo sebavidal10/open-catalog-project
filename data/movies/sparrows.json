@@ -1,0 +1,27 @@
+{
+  "title": "Sparrows",
+  "year": "1926",
+  "rated": "Unrated",
+  "released": "06 Sep 1926",
+  "runtime": "109 min",
+  "genre": "Drama",
+  "director": "William Beaudine, Tom McNamara",
+  "writer": "Winifred Dunn, George Marion Jr., C. Gardner Sullivan",
+  "actors": "Mary Pickford, Roy Stewart, Mary Louise Miller",
+  "plot": "Molly, the eldest child at a baby farm hidden deep in a swamp, must rescue the others when their cruel master decides that one of them will be disposed of.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY3MTkyMTc0MF5BMl5BanBnXkFtZTgwOTI5MDgwMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0017423",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:50:04.695Z"
+}

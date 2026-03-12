@@ -1,0 +1,31 @@
+{
+  "title": "College",
+  "year": "1927",
+  "rated": "Not Rated",
+  "released": "01 Nov 1927",
+  "runtime": "66 min",
+  "genre": "Comedy, Drama, Sport",
+  "director": "James W. Horne, Buster Keaton",
+  "writer": "Carl Harbaugh, Bryan Foy",
+  "actors": "Buster Keaton, Anne Cornwall, Flora Bramley",
+  "plot": "Ronald's high-school valedictory address praises books and condemns sports. His girlfriend Mary condemns his attitude. Fearing to lose her to rival Jeff, he decides to go to college and pay more attentions to sports.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzU1NmExNWItZDc1OS00NTc4LTg1NzctNGQ3NDYwYzBmMjIwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0017765",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:59:32.624Z"
+}

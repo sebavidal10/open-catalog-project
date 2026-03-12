@@ -1,0 +1,31 @@
+{
+  "title": "The Ring",
+  "year": "1927",
+  "rated": "Not Rated",
+  "released": "01 Oct 1927",
+  "runtime": "89 min",
+  "genre": "Drama, Romance, Sport",
+  "director": "Alfred Hitchcock",
+  "writer": "Alfred Hitchcock, Alma Reville",
+  "actors": "Carl Brisson, Lillian Hall-Davis, Ian Hunter",
+  "plot": "Two boxers compete for the love of a woman.",
+  "language": "None",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGE0MWQ1OGUtMjI2YS00ZTg2LTk0M2QtYTg4YWE1MTdmNmQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0018328",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:59:39.707Z"
+}

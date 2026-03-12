@@ -1,0 +1,35 @@
+{
+  "title": "Wings",
+  "year": "1927",
+  "rated": "PG-13",
+  "released": "05 Jan 1929",
+  "runtime": "144 min",
+  "genre": "Drama, Romance, War",
+  "director": "William A. Wellman, Harry d'Abbadie d'Arrast",
+  "writer": "John Monk Saunders, Hope Loring, Louis D. Lighton",
+  "actors": "Clara Bow, Charles 'Buddy' Rogers, Richard Arlen",
+  "plot": "Two young men, one rich, one middle class, who are in love with the same woman, become fighter pilots in World War I.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 9 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjNiNjhkMjEtMDhjNy00MDRhLWEwOTctYzZlN2ZjYjZlYTM4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.5",
+  "imdbID": "tt0018578",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:59:06.783Z"
+}

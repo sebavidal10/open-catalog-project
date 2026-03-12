@@ -1,0 +1,27 @@
+{
+  "title": "The Scarlet Letter",
+  "year": "1926",
+  "rated": "Passed",
+  "released": "08 Jan 1927",
+  "runtime": "115 min",
+  "genre": "Drama",
+  "director": "Victor Sjöström",
+  "writer": "Nathaniel Hawthorne, Frances Marion",
+  "actors": "Lillian Gish, Lars Hanson, Henry B. Walthall",
+  "plot": "After having a child out of wedlock, a young Puritan woman is pressured to reveal the name of her lover.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYThlNDM2MjAtZGY5Yy00MjdlLTgyMzUtYjQyYWIxNDgwNzBkXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0017350",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:48:32.978Z"
+}

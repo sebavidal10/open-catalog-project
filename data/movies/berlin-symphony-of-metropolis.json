@@ -1,0 +1,31 @@
+{
+  "title": "Berlin: Symphony of Metropolis",
+  "year": "1927",
+  "rated": "Not Rated",
+  "released": "13 May 1928",
+  "runtime": "65 min",
+  "genre": "Documentary",
+  "director": "Walter Ruttmann",
+  "writer": "Carl Mayer, Walter Ruttmann, Karl Freund",
+  "actors": "Paul von Hindenburg",
+  "plot": "This movie shows us one day in Berlin, the rhythm of that time, starting at the earliest morning and ends in the deepest night.",
+  "language": "German",
+  "country": "Germany",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzhjZmRlMDYtOGQzZS00MmJkLTlmYjAtNzlmOTY1Yjg1NDVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0017668",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:59:43.223Z"
+}

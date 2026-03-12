@@ -1,0 +1,27 @@
+{
+  "title": "La Bohème",
+  "year": "1926",
+  "rated": "Passed",
+  "released": "13 Mar 1926",
+  "runtime": "95 min",
+  "genre": "Drama, Romance",
+  "director": "King Vidor",
+  "writer": "Frédérique De Grésac, Henri Murger, William M. Conselman",
+  "actors": "Lillian Gish, John Gilbert, Renée Adorée",
+  "plot": "A group of starving artists try to survive in 1830s Paris, including a seamstress and the would-be playwright she loves.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGM5MDgxMmYtYmNiYS00ZmQ5LWI0MWUtY2QwZjVmOWZjMGM4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0016669",
+  "type": "movie",
+  "fetched_at": "2026-03-12T12:49:54.154Z"
+}

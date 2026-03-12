@@ -1,0 +1,27 @@
+{
+  "title": "The Wizard",
+  "year": "1927",
+  "rated": "Passed",
+  "released": "11 Dec 1927",
+  "runtime": "60 min",
+  "genre": "Horror, Mystery, Sci-Fi",
+  "director": "Richard Rosson",
+  "writer": "Andrew Bennison, Malcolm Stuart Boylan, Harry O. Hoyt",
+  "actors": "Edmund Lowe, Leila Hyams, Gustav von Seyffertitz",
+  "plot": "Mad doctor sews human head onto gorilla's body, Usual catastrophes ensue.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmUyNDU1ZWItY2FjMy00ZGM5LWFiYmUtZjBlMDcwMmYwMDFmXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0018584",
+  "type": "movie",
+  "fetched_at": "2026-03-12T13:01:30.706Z"
+}
