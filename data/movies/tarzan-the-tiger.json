@@ -1,0 +1,27 @@
+{
+  "title": "Tarzan the Tiger",
+  "year": "1929",
+  "rated": "Passed",
+  "released": "09 Dec 1929",
+  "runtime": "266 min",
+  "genre": "Action, Adventure",
+  "director": "Henry MacRae",
+  "writer": "Edgar Rice Burroughs, Ford Beebe",
+  "actors": "Frank Merrill, Natalie Kingston, Al Ferguson",
+  "plot": "After Tarzan's estate is destroyed by Arabs Jane is sold into slavery by a man posing as a friendly scientist.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzOTA3MzA5N15BMl5BanBnXkFtZTcwMDcxNDczMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.4",
+  "imdbID": "tt0020481",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:33:32.792Z"
+}

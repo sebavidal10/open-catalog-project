@@ -1,0 +1,27 @@
+{
+  "title": "Atlantic",
+  "year": "1929",
+  "rated": "Not Rated",
+  "released": "04 Oct 1930",
+  "runtime": "90 min",
+  "genre": "Drama",
+  "director": "Ewald André Dupont",
+  "writer": "Victor Kendall, Ernest Raymond",
+  "actors": "Franklin Dyall, Madeleine Carroll, John Stuart",
+  "plot": "On its maiden voyage in April 1912, the supposedly unsinkable RMS Titanic hits an iceberg in the Atlantic Ocean.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjc3ZWE0MTYtNmZkNi00YjUyLWEzYjQtYTllYTk2YmIwYzc1L2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0019658",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:32:20.515Z"
+}

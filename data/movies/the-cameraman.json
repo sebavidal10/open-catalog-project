@@ -1,0 +1,31 @@
+{
+  "title": "The Cameraman",
+  "year": "1928",
+  "rated": "Passed",
+  "released": "22 Sep 1928",
+  "runtime": "76 min",
+  "genre": "Comedy, Drama, Family",
+  "director": "Edward Sedgwick, Buster Keaton",
+  "writer": "Clyde Bruckman, Lew Lipton, Joseph Farnham",
+  "actors": "Buster Keaton, Marceline Day, Harold Goodwin",
+  "plot": "Hopelessly in love with a woman working at MGM Studios, a clumsy man attempts to become a motion-picture cameraman to be close to the object of his desire.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTMyYzllZjEtNDg0Ni00MDc1LTkzZTYtN2E1NzJiMWMxY2Q5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.0",
+  "imdbID": "tt0018742",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:20:10.937Z"
+}

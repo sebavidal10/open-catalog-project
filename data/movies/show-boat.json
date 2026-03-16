@@ -1,0 +1,27 @@
+{
+  "title": "Show Boat",
+  "year": "1929",
+  "rated": "Passed",
+  "released": "28 Jul 1929",
+  "runtime": "147 min",
+  "genre": "Drama, Musical, Romance",
+  "director": "Harry A. Pollard, Arch Heath",
+  "writer": "Edna Ferber, Edward J. Montaigne, Harry A. Pollard",
+  "actors": "Laura La Plante, Joseph Schildkraut, Emily Fitzroy",
+  "plot": "A mostly silent version of Edna Ferber's original novel, with some songs from the musical as a last-minute addition",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWQ1MjNjMjgtODU2NC00NDk4LTlhZTktZGE2MTRmMTdmMjEwXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0020402",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:32:18.179Z"
+}

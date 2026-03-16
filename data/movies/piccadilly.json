@@ -1,0 +1,35 @@
+{
+  "title": "Piccadilly",
+  "year": "1929",
+  "rated": "Passed",
+  "released": "01 Jun 1929",
+  "runtime": "92 min",
+  "genre": "Crime, Drama",
+  "director": "Ewald André Dupont",
+  "writer": "Arnold Bennett",
+  "actors": "Gilda Gray, Anna May Wong, Jameson Thomas",
+  "plot": "A young Chinese woman working in the kitchen at a London dance club is given the chance to become the club's main act, which leads to a plot of betrayal, forbidden love, and murder.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "2 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODYxODkyODc3MV5BMl5BanBnXkFtZTgwNjg4NzM0MjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "7.1",
+  "imdbID": "tt0020269",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:30:52.666Z"
+}

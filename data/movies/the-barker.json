@@ -1,0 +1,27 @@
+{
+  "title": "The Barker",
+  "year": "1928",
+  "rated": "Passed",
+  "released": "09 Dec 1928",
+  "runtime": "80 min",
+  "genre": "Drama",
+  "director": "George Fitzmaurice",
+  "writer": "Kenyon Nicholson, Benjamin Glazer, Herman J. Mankiewicz",
+  "actors": "Milton Sills, Dorothy Mackaill, Betty Compson",
+  "plot": "A carnival barker wants his son to become a lawyer, but his son gets side-tracked into joining the carnival too.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 4 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUzMjE2NTk3NF5BMl5BanBnXkFtZTgwNzkwMDY0MjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0018674",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:21:56.365Z"
+}

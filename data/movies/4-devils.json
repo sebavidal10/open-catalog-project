@@ -1,0 +1,31 @@
+{
+  "title": "4 Devils",
+  "year": "1928",
+  "rated": "Passed",
+  "released": "01 Aug 1929",
+  "runtime": "100 min",
+  "genre": "Drama",
+  "director": "F.W. Murnau",
+  "writer": "Berthold Viertel, Herman Bang, Carl Mayer",
+  "actors": "Janet Gaynor, Mary Duncan, Charles Morton",
+  "plot": "Four orphans, raised by an aging clown, becomes a high wire act in a circus.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzk5MzQ4NDI2M15BMl5BanBnXkFtZTgwMDM1Mzg4MjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0018907",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:20:41.601Z"
+}

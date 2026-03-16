@@ -1,0 +1,31 @@
+{
+  "title": "Coquette",
+  "year": "1929",
+  "rated": "Unrated",
+  "released": "06 Apr 1929",
+  "runtime": "76 min",
+  "genre": "Drama, Romance",
+  "director": "Sam Taylor",
+  "writer": "George Abbott, Ann Preston Bridgers, John Grey",
+  "actors": "Mary Pickford, Johnny Mack Brown, Matt Moore",
+  "plot": "A flirtatious Southern belle is compromised with one of her suitors.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA5MjJjNzQtYjAyZi00ZWY0LWEzNDktYWVhNmJiNjJmMjZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "44%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0019788",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:31:13.986Z"
+}

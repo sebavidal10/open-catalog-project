@@ -1,0 +1,35 @@
+{
+  "title": "The Cocoanuts",
+  "year": "1929",
+  "rated": "Approved",
+  "released": "03 Aug 1929",
+  "runtime": "96 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Robert Florey, Joseph Santley",
+  "writer": "George S. Kaufman, Morrie Ryskind",
+  "actors": "Groucho Marx, Harpo Marx, Chico Marx",
+  "plot": "During the Florida land boom, The Marx Brothers run a hotel, auction off some land, thwart a jewel robbery, and generally act like themselves.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTBmYjhjMmQtYzdmZC00OTk0LWJmN2ItNGYxYTM1NzU3Zjc0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "6.8",
+  "imdbID": "tt0019777",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:30:50.348Z"
+}

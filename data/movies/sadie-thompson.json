@@ -1,0 +1,31 @@
+{
+  "title": "Sadie Thompson",
+  "year": "1928",
+  "rated": "Unrated",
+  "released": "07 Jan 1928",
+  "runtime": "97 min",
+  "genre": "Drama",
+  "director": "Raoul Walsh",
+  "writer": "W. Somerset Maugham, Raoul Walsh, C. Gardner Sullivan",
+  "actors": "Lionel Barrymore, Blanche Friderici, Charles Lane",
+  "plot": "A prostitute seeking a fresh start becomes the obsession of a religious extremist.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 3 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTkyOTQ1NzU1Nl5BMl5BanBnXkFtZTgwODY1MTczMTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0019344",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:20:46.238Z"
+}

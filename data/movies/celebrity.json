@@ -1,0 +1,27 @@
+{
+  "title": "Celebrity",
+  "year": "1928",
+  "rated": "Passed",
+  "released": "07 Oct 1928",
+  "runtime": "65 min",
+  "genre": "Drama, Romance, Sport",
+  "director": "Tay Garnett",
+  "writer": "Willard Keefe, Tay Garnett, Elliott J. Clawson",
+  "actors": "Robert Armstrong, Clyde Cook, Lina Basquette",
+  "plot": "N/A",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzBjMDRiYjctMmE1YS00ZjQ1LTkxYjQtYTliNzgzYTA4ZjNhXkEyXkFqcGdeQXVyMDU0Mzg3Nw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0018753",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:27:20.773Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Broadway Melody",
+  "year": "1929",
+  "rated": "Passed",
+  "released": "06 Jun 1929",
+  "runtime": "100 min",
+  "genre": "Drama, Musical, Romance",
+  "director": "Harry Beaumont",
+  "writer": "Edmund Goulding, Norman Houston, James Gleason",
+  "actors": "Bessie Love, Anita Page, Charles King",
+  "plot": "A pair of sisters from the vaudeville circuit try to make it big time on Broadway, but matters of the heart complicate the attempt.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 5 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWFjYTA2ZWUtOGNhNC00MjQ0LWFjYmItZTU0ZTdhNDA2OWNjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "42%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "5.6",
+  "imdbID": "tt0019729",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:30:44.552Z"
+}

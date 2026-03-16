@@ -1,0 +1,31 @@
+{
+  "title": "The Wind",
+  "year": "1928",
+  "rated": "Not Rated",
+  "released": "23 Nov 1928",
+  "runtime": "95 min",
+  "genre": "Drama, Romance, Thriller",
+  "director": "Victor Sjöström",
+  "writer": "Frances Marion, Dorothy Scarborough, John Colton",
+  "actors": "Lillian Gish, Lars Hanson, Montagu Love",
+  "plot": "A frail young woman from the East moves in with her cousin in the West, where she causes tension within the family and is slowly driven mad.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "3 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzAwZWU4MWUtYzBkZS00YjFjLWE4MzMtZGM5MTAwY2ZjMmUyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.0",
+  "imdbID": "tt0019585",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:20:33.421Z"
+}

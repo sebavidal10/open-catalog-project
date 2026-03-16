@@ -1,0 +1,31 @@
+{
+  "title": "Arsenal",
+  "year": "1929",
+  "rated": "Not Rated",
+  "released": "09 Nov 1929",
+  "runtime": "70 min",
+  "genre": "Drama, War",
+  "director": "Aleksandr Dovzhenko",
+  "writer": "Aleksandr Dovzhenko",
+  "actors": "Semyon Svashenko, Georgi Khorkov, Amvrosi Buchma",
+  "plot": "A soldier returns to Kyiv after surviving a train crash and encounters clashes between nationalists and collectivists.",
+  "language": "Russian",
+  "country": "Soviet Union",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEyOTkwMzUxMl5BMl5BanBnXkFtZTgwMTI0NzkxMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0019649",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:31:59.560Z"
+}

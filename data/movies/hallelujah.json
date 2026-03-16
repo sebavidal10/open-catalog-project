@@ -1,0 +1,31 @@
+{
+  "title": "Hallelujah",
+  "year": "1929",
+  "rated": "Approved",
+  "released": "20 Aug 1929",
+  "runtime": "109 min",
+  "genre": "Drama, Musical",
+  "director": "King Vidor",
+  "writer": "Wanda Tuchock, Richard Schayer, Ransom Rideout",
+  "actors": "Daniel L. Haynes, Nina Mae McKinney, William Fountaine",
+  "plot": "A sharecropper decides to become a preacher after falling for a vamp from the city.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 3 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzgzMTNkY2MtZTdkOS00OGZlLTk4ZjgtNmUzYWNhYWJmZGZlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0019959",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:31:10.289Z"
+}

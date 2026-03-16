@@ -1,0 +1,31 @@
+{
+  "title": "Noah's Ark",
+  "year": "1928",
+  "rated": "Passed",
+  "released": "23 Aug 1929",
+  "runtime": "135 min",
+  "genre": "Drama, War",
+  "director": "Michael Curtiz, Darryl F. Zanuck",
+  "writer": "Darryl F. Zanuck, Anthony Coldeway, De Leon Anthony",
+  "actors": "Dolores Costello, George O'Brien, Noah Beery",
+  "plot": "The Biblical story of Noah and the Great Flood, with a parallel story of soldiers in the First World War.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDk3NDkxNTEtMWFhMS00ZmU1LWJmYzEtYjY2YzEwZDMxMWE1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0020223",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:20:19.051Z"
+}

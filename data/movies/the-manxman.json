@@ -1,0 +1,35 @@
+{
+  "title": "The Manxman",
+  "year": "1929",
+  "rated": "Not Rated",
+  "released": "16 Dec 1929",
+  "runtime": "110 min",
+  "genre": "Drama, Romance",
+  "director": "Alfred Hitchcock",
+  "writer": "Hall Caine, Eliot Stannard",
+  "actors": "Anny Ondra, Carl Brisson, Malcolm Keen",
+  "plot": "A fisherman and a rising young lawyer, who grew up as brothers, fall in love with the same girl.",
+  "language": "None",
+  "country": "United Kingdom, Isle of Man",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWVkMmYzMzEtMTgyOC00ZTBmLTllMjUtMmFjOWI3YzM3MzNlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "6.2",
+  "imdbID": "tt0020142",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:31:15.146Z"
+}

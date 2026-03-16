@@ -1,0 +1,27 @@
+{
+  "title": "Oh Kay!",
+  "year": "1928",
+  "rated": "Passed",
+  "released": "26 Aug 1928",
+  "runtime": "60 min",
+  "genre": "Comedy",
+  "director": "Mervyn LeRoy",
+  "writer": "Carey Wilson, P.G. Wodehouse, Guy Bolton",
+  "actors": "Colleen Moore, Lawrence Gray, Alan Hale",
+  "plot": "A silent film version of the famed Gershwin musical.",
+  "language": "None",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGE3MTliNzItMzZlYS00NTQ2LTk4NTAtNmEzMjk2ZTI0YzY5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0019226",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:22:57.456Z"
+}

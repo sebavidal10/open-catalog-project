@@ -1,0 +1,31 @@
+{
+  "title": "Champagne",
+  "year": "1928",
+  "rated": "Not Rated",
+  "released": "20 Aug 1928",
+  "runtime": "86 min",
+  "genre": "Comedy",
+  "director": "Alfred Hitchcock",
+  "writer": "Alfred Hitchcock, Walter C. Mycroft, Eliot Stannard",
+  "actors": "Betty Balfour, Jean Bradin, Ferdinand von Alten",
+  "plot": "A spoiled heiress defies her father by running off to marry her lover. However, Daddy has a few tricks up his sleeve.",
+  "language": "None, English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGVkYTIzOWMtMDcxYS00ZTY5LTg3YWYtNWY5Njc0ODY2YTk2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "63%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.4",
+  "imdbID": "tt0018756",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:21:12.163Z"
+}

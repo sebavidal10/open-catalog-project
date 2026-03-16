@@ -1,0 +1,31 @@
+{
+  "title": "The Mysterious Airman",
+  "year": "1928",
+  "rated": "Passed",
+  "released": "01 Jun 1928",
+  "runtime": "185 min",
+  "genre": "Adventure, Action",
+  "director": "Harry Revier",
+  "writer": "Arthur B. Reeve, Harry Revier",
+  "actors": "Walter Miller, Eugenia Gilbert, Robert Walker",
+  "plot": "An inventor adds new innovations to Baker Airplane Company's planes, inventions coveted by the owners of a rival company. The masked and mysterious airman, known only as Pilot X, makes plans to steal the inventions for his own pur...",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjEwOTFlZGItZmM1NC00ZDUwLTgzYzEtYjIzNDdlYjgyNDU1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0019194",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:30:30.409Z"
+}

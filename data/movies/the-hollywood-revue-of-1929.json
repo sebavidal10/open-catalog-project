@@ -1,0 +1,31 @@
+{
+  "title": "The Hollywood Revue of 1929",
+  "year": "1929",
+  "rated": "Passed",
+  "released": "23 Nov 1929",
+  "runtime": "130 min",
+  "genre": "Comedy, Music",
+  "director": "Charles Reisner, Christy Cabanne, Norman Houston",
+  "writer": "Al Boasberg, Robert E. Hopkins, Joseph Farnham",
+  "actors": "Conrad Nagel, Jack Benny, John Gilbert",
+  "plot": "An all-star revue featuring MGM contract players.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDc2MTRiMjUtNzVlMC00OGVjLWE2ZDQtMDk5ZWUyNjA4MTUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0019993",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:30:49.188Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Circus Kid",
+  "year": "1928",
+  "rated": "N/A",
+  "released": "07 Oct 1928",
+  "runtime": "68 min",
+  "genre": "Drama",
+  "director": "George B. Seitz",
+  "writer": "Melville Baker, Randolph Bartlett, James Ashmore Creelman",
+  "actors": "Frankie Darro, Poodles Hanneford, Joe E. Brown",
+  "plot": "A young waif (Frankie Darro) runs away from a harsh orphanage in order to join the circus.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTY5ZTZkYzItZDRkMy00MGZhLThhYWMtNzg2YjNhNjY3MDllXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.0",
+  "imdbID": "tt0018771",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:25:11.495Z"
+}

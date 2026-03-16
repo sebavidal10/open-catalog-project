@@ -1,0 +1,31 @@
+{
+  "title": "Pandora's Box",
+  "year": "1929",
+  "rated": "Not Rated",
+  "released": "22 Feb 1930",
+  "runtime": "109 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "Georg Wilhelm Pabst",
+  "writer": "Frank Wedekind, Ladislaus Vajda, Joseph Fleisler",
+  "actors": "Louise Brooks, Fritz Kortner, Francis Lederer",
+  "plot": "The rise and inevitable fall of an amoral but naive young woman whose insouciant eroticism inspires lust and violence in those around her.",
+  "language": "None, German",
+  "country": "Germany",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTQ2Yzc3MjUtNTdlNi00YzBmLTgxMjAtNzQ2NjEyODE3YTRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0018737",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:30:42.236Z"
+}

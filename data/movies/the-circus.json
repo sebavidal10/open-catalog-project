@@ -1,0 +1,35 @@
+{
+  "title": "The Circus",
+  "year": "1928",
+  "rated": "G",
+  "released": "29 Jan 1928",
+  "runtime": "72 min",
+  "genre": "Comedy, Family, Romance",
+  "director": "Charles Chaplin",
+  "writer": "Charles Chaplin",
+  "actors": "Charles Chaplin, Merna Kennedy, Al Ernest Garcia",
+  "plot": "The Tramp finds work and the girl of his dreams at a circus.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjNhZWY4YjgtOTI2Zi00NWZlLWIyNDItNGY0MzhhNmUxNTkyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "8.1",
+  "imdbID": "tt0018773",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:20:13.252Z"
+}

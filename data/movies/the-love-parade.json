@@ -1,0 +1,31 @@
+{
+  "title": "The Love Parade",
+  "year": "1929",
+  "rated": "Passed",
+  "released": "18 Jan 1930",
+  "runtime": "107 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Ernst Lubitsch",
+  "writer": "Ernest Vajda, Guy Bolton, Leon Xanrof",
+  "actors": "Maurice Chevalier, Jeanette MacDonald, Lupino Lane",
+  "plot": "The queen of mythical Sylvania marries a courtier, who finds his new life unsatisfying.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 6 Oscars. 1 win & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDkyNDZjYTktOGNlMC00YzNmLWJjN2UtM2VjMjBhMDQzMDBjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0020112",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:30:59.636Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Tempest",
+  "year": "1928",
+  "rated": "Not Rated",
+  "released": "27 May 1928",
+  "runtime": "102 min",
+  "genre": "Drama, Romance",
+  "director": "Sam Taylor, Lewis Milestone, Viktor Tourjansky",
+  "writer": "George Marion Jr., Lewis Milestone, Vladimir Nemirovich-Danchenko",
+  "actors": "John Barrymore, Camilla Horn, Louis Wolheim",
+  "plot": "In Czarist Russia, a peasant officer, resented by the aristocrats, falls in love with a princess.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 4 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTdhNzk0NWEtYzdhYi00OTE2LWIwOTAtN2ZlYTA4M2RhMmFmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0019451",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:20:54.541Z"
+}

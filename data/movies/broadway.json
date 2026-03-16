@@ -1,0 +1,27 @@
+{
+  "title": "Broadway",
+  "year": "1929",
+  "rated": "Approved",
+  "released": "15 Sep 1929",
+  "runtime": "104 min",
+  "genre": "Crime, Music, Romance",
+  "director": "Pál Fejös",
+  "writer": "Philip Dunning, George Abbott, Edward T. Lowe Jr.",
+  "actors": "Glenn Tryon, Evelyn Brent, Merna Kennedy",
+  "plot": "A naive young dancer in a Broadway show innocently gets involved in backstage bootlegging and murder.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc0NDI4MDUxOF5BMl5BanBnXkFtZTgwOTE5ODcyMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0019725",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:32:25.270Z"
+}

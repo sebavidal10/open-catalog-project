@@ -1,0 +1,27 @@
+{
+  "title": "Big News",
+  "year": "1929",
+  "rated": "N/A",
+  "released": "07 Sep 1929",
+  "runtime": "75 min",
+  "genre": "Comedy, Crime, Mystery",
+  "director": "Gregory La Cava",
+  "writer": "George S. Brooks, Walter DeLeon, Jack Jungmeyer",
+  "actors": "Robert Armstrong, Carole Lombard, Louis Payne",
+  "plot": "A reporter's marriage is jeopardized by his drinking and he finds himself accused of a murder he didn't commit.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2FmMjUxM2QtNzM2Ny00MGRmLTgwZTctYTgyZmIxZDdmOGE2XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.4",
+  "imdbID": "tt0019690",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:34:00.792Z"
+}

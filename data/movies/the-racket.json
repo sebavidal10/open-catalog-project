@@ -1,0 +1,31 @@
+{
+  "title": "The Racket",
+  "year": "1928",
+  "rated": "Passed",
+  "released": "01 Nov 1928",
+  "runtime": "84 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Lewis Milestone",
+  "writer": "Bartlett Cormack, Del Andrews, Tom Miranda",
+  "actors": "Thomas Meighan, Louis Wolheim, Marie Prevost",
+  "plot": "An honest police captain vows to bring down a powerful bootlegger who is protected by corrupt politicians and judges.",
+  "language": "None, English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk5Mzc0MDY2N15BMl5BanBnXkFtZTgwMTg4MjQ3NDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0019304",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:20:23.686Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Spies",
+  "year": "1928",
+  "rated": "Not Rated",
+  "released": "10 Mar 1929",
+  "runtime": "90 min",
+  "genre": "Romance, Thriller",
+  "director": "Fritz Lang",
+  "writer": "Thea von Harbou, Fritz Lang",
+  "actors": "Rudolf Klein-Rogge, Gerda Maurus, Willy Fritsch",
+  "plot": "The mastermind behind a ubiquitous spy operation learns of a dangerous romance between a Russian lady in his employ and a dashing agent from the government's secret service.",
+  "language": "None, German",
+  "country": "Germany",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWI4ZGY4NWUtNjM4YS00NWM4LWFiODAtZGFhNTJjNWFkYzU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0019415",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:20:22.529Z"
+}

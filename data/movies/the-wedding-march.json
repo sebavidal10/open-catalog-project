@@ -1,0 +1,31 @@
+{
+  "title": "The Wedding March",
+  "year": "1928",
+  "rated": "Passed",
+  "released": "06 Oct 1928",
+  "runtime": "113 min",
+  "genre": "Drama",
+  "director": "Erich von Stroheim",
+  "writer": "Harry Carr, Erich von Stroheim",
+  "actors": "Erich von Stroheim, Fay Wray, Zasu Pitts",
+  "plot": "A young impoverished aristocrat falls in love with an inn-keepers daughter, but has to marry money.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI4NTY2OTEzOV5BMl5BanBnXkFtZTgwNTE1NDU5MTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0019558",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:20:32.178Z"
+}

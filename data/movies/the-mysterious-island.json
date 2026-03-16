@@ -1,0 +1,27 @@
+{
+  "title": "The Mysterious Island",
+  "year": "1929",
+  "rated": "Passed",
+  "released": "05 Oct 1929",
+  "runtime": "95 min",
+  "genre": "Adventure, Romance, Sci-Fi",
+  "director": "Lucien Hubbard, Benjamin Christensen, Maurice Tourneur",
+  "writer": "Jules Verne, Lucien Hubbard",
+  "actors": "Lionel Barrymore, Jacqueline Gadsdon, Lloyd Hughes",
+  "plot": "On a volcanic island near the kingdom of Hetvia rules Count Dakkar, a benevolent leader and scientist who has eliminated class distinction among the island's inhabitants.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTVlNDYzNGEtYjZhNi00ZjUyLWJmZDYtZDUxOTQ5MTBjNTk0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0020198",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:31:40.946Z"
+}

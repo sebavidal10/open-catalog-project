@@ -1,0 +1,31 @@
+{
+  "title": "Applause",
+  "year": "1929",
+  "rated": "Passed",
+  "released": "04 Jan 1930",
+  "runtime": "80 min",
+  "genre": "Drama, Musical, Romance",
+  "director": "Rouben Mamoulian",
+  "writer": "Beth Brown, Garrett Fort",
+  "actors": "Helen Morgan, Joan Peers, Fuller Mellish Jr.",
+  "plot": "A burlesque star seeks to keep her convent-raised daughter away from her low-down life and abusive lover/stage manager.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjk0OWUxNDgtMDU2NS00Y2Y2LWE3YTgtZjI0MjIwM2M4YjlmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0019644",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:31:03.119Z"
+}

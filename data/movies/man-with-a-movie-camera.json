@@ -1,0 +1,35 @@
+{
+  "title": "Man with a Movie Camera",
+  "year": "1929",
+  "rated": "Not Rated",
+  "released": "12 May 1929",
+  "runtime": "68 min",
+  "genre": "Documentary",
+  "director": "Dziga Vertov",
+  "writer": "Dziga Vertov",
+  "actors": "Mikhail Kaufman, Elizaveta Svilova",
+  "plot": "A man travels around a city with a camera slung over his shoulder, documenting urban life with dazzling invention.",
+  "language": "None",
+  "country": "Soviet Union",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDkzOTYyM2MtYzBmOC00NzIxLThkOGUtNzk5NjI0OWRjZjgzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
+  "metascore": "96",
+  "imdbRating": "8.3",
+  "imdbID": "tt0019760",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:30:43.395Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Flight",
+  "year": "1929",
+  "rated": "Approved",
+  "released": "01 Nov 1929",
+  "runtime": "110 min",
+  "genre": "Action, Adventure, Romance",
+  "director": "Frank Capra",
+  "writer": "Ralph Graves, Howard J. Green, Frank Capra",
+  "actors": "Jack Holt, Lila Lee, Ralph Graves",
+  "plot": "A Marine flyer and his flight school mentor fall for the same beautiful nurse.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjk0ZDRmMTQtMGI1Yi00MTllLThkNDQtMzA2NzYzOWQzMGExXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0019884",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:31:24.673Z"
+}

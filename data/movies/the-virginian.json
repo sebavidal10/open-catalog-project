@@ -1,0 +1,31 @@
+{
+  "title": "The Virginian",
+  "year": "1929",
+  "rated": "Passed",
+  "released": "09 Nov 1929",
+  "runtime": "91 min",
+  "genre": "Romance, Western",
+  "director": "Victor Fleming",
+  "writer": "Owen Wister, Kirk La Shelle, Grover Jones",
+  "actors": "Gary Cooper, Walter Huston, Mary Brian",
+  "plot": "A good-natured cowboy who is romancing the new schoolmarm has a crisis of conscience when he discovers that his best friend is engaged in cattle rustling.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODdjNjUzYWYtMjQ1NC00ZGZmLTljZjUtY2I1MDVkMzcwYTRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0020556",
+  "type": "movie",
+  "fetched_at": "2026-03-16T15:31:05.444Z"
+}
