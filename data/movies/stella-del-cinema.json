@@ -1,0 +1,27 @@
+{
+  "title": "Stella del cinema",
+  "year": "1931",
+  "rated": "N/A",
+  "released": "20 Jun 1931",
+  "runtime": "69 min",
+  "genre": "Music, Romance",
+  "director": "Mario Almirante",
+  "writer": "Gian Bistolfi",
+  "actors": "Grazia del Rio, Elio Steiner, Giuseppe Masi",
+  "plot": "N/A",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTMyM2Y1ZmEtMzc1MS00NWY1LWEwMmYtMDc5MjQ4MzkyMzQxXkEyXkFqcGdeQXVyMTgyNTY2MzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0022431",
+  "type": "movie",
+  "fetched_at": "2026-03-30T19:08:12.818Z"
+}

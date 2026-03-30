@@ -1,0 +1,27 @@
+{
+  "title": "Taxi",
+  "year": "1931",
+  "rated": "Approved",
+  "released": "23 Jan 1932",
+  "runtime": "69 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "Roy Del Ruth",
+  "writer": "Kenyon Nicholson, Kubec Glasmon, John Bright",
+  "actors": "James Cagney, Loretta Young, George E. Stone",
+  "plot": "Independent cabbie Matt Nolan is primed to let his fists and handgun deliver payback after a big taxi firm uses intimidation and violence to squeeze out small-timers.",
+  "language": "English, Yiddish",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2EwOGI1OGQtOTRmNy00NmM0LTk1MTUtOGZmNDEzN2MyMzI2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0023556",
+  "type": "movie",
+  "fetched_at": "2026-03-30T18:59:47.280Z"
+}

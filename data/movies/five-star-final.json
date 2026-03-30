@@ -1,0 +1,31 @@
+{
+  "title": "Five Star Final",
+  "year": "1931",
+  "rated": "Not Rated",
+  "released": "26 Sep 1931",
+  "runtime": "89 min",
+  "genre": "Crime, Drama",
+  "director": "Mervyn LeRoy",
+  "writer": "Louis Weitzenkorn, Byron Morgan, Robert Lord",
+  "actors": "Edward G. Robinson, Marian Marsh, H.B. Warner",
+  "plot": "The City Editor of a sleazy tabloid goes against his own journalistic ethics to resurrect a twenty year old murder case... with tragic results.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDk2YzM3MzEtMDRiOC00ZTY0LTgwZTUtYjNhNzQ1YjlmOWU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0021873",
+  "type": "movie",
+  "fetched_at": "2026-03-30T18:59:36.754Z"
+}

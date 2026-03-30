@@ -1,0 +1,31 @@
+{
+  "title": "Street Scene",
+  "year": "1931",
+  "rated": "Approved",
+  "released": "05 Sep 1931",
+  "runtime": "80 min",
+  "genre": "Drama, Romance",
+  "director": "King Vidor",
+  "writer": "Elmer Rice",
+  "actors": "Sylvia Sidney, William Collier Jr., Estelle Taylor",
+  "plot": "Twenty-four hours elapse on the stoop of a Hell's Kitchen tenement as a microcosm of the American melting pot interconnects during a summer heatwave.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzIwNWU1ZjAtZWFhNC00MDY2LWJkYWEtYjU2Zjk0MDI4NDM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0022436",
+  "type": "movie",
+  "fetched_at": "2026-03-30T18:59:40.268Z"
+}

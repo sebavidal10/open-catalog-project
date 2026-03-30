@@ -1,0 +1,35 @@
+{
+  "title": "Monkey Business",
+  "year": "1931",
+  "rated": "Approved",
+  "released": "19 Sep 1931",
+  "runtime": "77 min",
+  "genre": "Comedy, Family, Musical",
+  "director": "Norman Z. McLeod",
+  "writer": "S.J. Perelman, Will B. Johnstone, Arthur Sheekman",
+  "actors": "Groucho Marx, Harpo Marx, The Marx Brothers",
+  "plot": "On a transatlantic crossing, The Marx Brothers get up to their usual antics and manage to annoy just about everyone on board the ship.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTEwNWQ4NTAtZmM4NS00ZDFkLWI3MzgtYWJiMDRmZjQzZmQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.4",
+  "imdbID": "tt0022158",
+  "type": "movie",
+  "fetched_at": "2026-03-30T18:59:22.699Z"
+}

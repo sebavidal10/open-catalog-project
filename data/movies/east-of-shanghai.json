@@ -1,0 +1,35 @@
+{
+  "title": "East of Shanghai",
+  "year": "1931",
+  "rated": "Not Rated",
+  "released": "13 Jun 1932",
+  "runtime": "83 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Alfred Hitchcock",
+  "writer": "Dale Collins, Alfred Hitchcock, Alma Reville",
+  "actors": "Henry Kendall, Joan Barry, Percy Marmont",
+  "plot": "Believing that an unexpected inheritance will bring them happiness, a married couple instead finds their relationship strained to the breaking point.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGI1ODk3ZjctMzljZC00OGVkLWFjY2ItOTdlNGQwNmRhYjEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "5.7",
+  "imdbID": "tt0023395",
+  "type": "movie",
+  "fetched_at": "2026-03-30T18:59:49.842Z"
+}

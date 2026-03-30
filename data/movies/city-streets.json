@@ -1,0 +1,31 @@
+{
+  "title": "City Streets",
+  "year": "1931",
+  "rated": "Passed",
+  "released": "18 Apr 1931",
+  "runtime": "83 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Rouben Mamoulian",
+  "writer": "Dashiell Hammett, Max Marcin, Oliver H.P. Garrett",
+  "actors": "Gary Cooper, Sylvia Sidney, Paul Lukas",
+  "plot": "Man joins a gang to free his girlfriend from prison.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDRkMzllNGUtNGNjNS00YzA3LTkxZTktNzRiNGY0ZDRkY2FlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0021750",
+  "type": "movie",
+  "fetched_at": "2026-03-30T18:59:30.873Z"
+}

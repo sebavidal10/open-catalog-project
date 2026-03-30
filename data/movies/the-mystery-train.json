@@ -1,0 +1,27 @@
+{
+  "title": "The Mystery Train",
+  "year": "1931",
+  "rated": "Passed",
+  "released": "01 Aug 1931",
+  "runtime": "62 min",
+  "genre": "Mystery",
+  "director": "Phil Whitman",
+  "writer": "Hampton Del Ruth, Phil Whitman",
+  "actors": "Hedda Hopper, Marceline Day, Nick Stuart",
+  "plot": "A group of passengers is trapped in a runaway Pullman car.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQzNDYwNzIyOF5BMl5BanBnXkFtZTcwMTU3MjE5Mw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.4",
+  "imdbID": "tt0022181",
+  "type": "movie",
+  "fetched_at": "2026-03-30T19:03:27.752Z"
+}

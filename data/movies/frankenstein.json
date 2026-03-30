@@ -1,0 +1,35 @@
+{
+  "title": "Frankenstein",
+  "year": "1931",
+  "rated": "Approved",
+  "released": "21 Nov 1931",
+  "runtime": "70 min",
+  "genre": "Drama, Horror, Sci-Fi",
+  "director": "James Whale",
+  "writer": "John L. Balderston, Mary Shelley, Peggy Webling",
+  "actors": "Colin Clive, Mae Clarke, John Boles",
+  "plot": "Dr Henry Frankenstein is obsessed with assembling a living being from parts of several exhumed corpses.",
+  "language": "English, Latin",
+  "country": "United States",
+  "awards": "7 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDhjNjgxN2EtZGIxZC00NDQzLThmOWMtZDgwNmYwZDQ3MzZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "metascore": "91",
+  "imdbRating": "7.7",
+  "imdbID": "tt0021884",
+  "type": "movie",
+  "fetched_at": "2026-03-30T18:59:07.448Z"
+}

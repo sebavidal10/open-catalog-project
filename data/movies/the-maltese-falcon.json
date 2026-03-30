@@ -1,0 +1,31 @@
+{
+  "title": "The Maltese Falcon",
+  "year": "1931",
+  "rated": "Passed",
+  "released": "13 Jun 1931",
+  "runtime": "80 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Roy Del Ruth",
+  "writer": "Dashiell Hammett, Maude Fulton, Brown Holmes",
+  "actors": "Bebe Daniels, Ricardo Cortez, Dudley Digges",
+  "plot": "A lovely dame with dangerous lies employs the services of a private detective, who is quickly caught up in the mystery and intrigue of a statuette known as the Maltese Falcon.",
+  "language": "English, Chinese",
+  "country": "United States",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODBjNjQ2N2MtOTFhOS00NjNlLTkyYjktYjU1ZTFmNzZkMDY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0022111",
+  "type": "movie",
+  "fetched_at": "2026-03-30T18:59:34.391Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Threepenny Opera",
+  "year": "1931",
+  "rated": "Not Rated",
+  "released": "08 Dec 1933",
+  "runtime": "104 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Georg Wilhelm Pabst",
+  "writer": "Bertolt Brecht, Léo Lania, Ladislaus Vajda",
+  "actors": "Rudolf Forster, Lotte Lenya, Carola Neher",
+  "plot": "The Gangster Macheath secretly marries the daughter of beggar king Peachum. When Peachum finds out, he instructs the police chief Brown to arrest and hang Macheath. If not, all the beggars of Soho will disturb the upcoming coronat...",
+  "language": "German, French",
+  "country": "Germany, United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmVlZDBmMWEtMzcxMi00ODU2LWE5NDMtOTI0NmRmMzMzNTFlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0021818",
+  "type": "movie",
+  "fetched_at": "2026-03-30T18:59:51.010Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Delicious",
+  "year": "1931",
+  "rated": "N/A",
+  "released": "27 Dec 1931",
+  "runtime": "106 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "David Butler",
+  "writer": "Guy Bolton, Sonya Levien",
+  "actors": "Janet Gaynor, Charles Farrell, El Brendel",
+  "plot": "A comic group of Europeans coming to the USA have romantic and immigration troubles.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTYwODc2ODYtMjZlMi00OGY5LWI4NzQtN2NkYTVlNmY4NDdkXkEyXkFqcGdeQXVyMTIxMDUyOTI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0021793",
+  "type": "movie",
+  "fetched_at": "2026-03-30T19:01:30.870Z"
+}

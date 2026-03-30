@@ -1,0 +1,31 @@
+{
+  "title": "Platinum Blonde",
+  "year": "1931",
+  "rated": "Approved",
+  "released": "31 Oct 1931",
+  "runtime": "89 min",
+  "genre": "Comedy, Romance",
+  "director": "Frank Capra",
+  "writer": "Harry Chandlee, Douglas W. Churchill, Robert Riskin",
+  "actors": "Jean Harlow, Loretta Young, Robert Williams",
+  "plot": "A young woman from a very rich family impulsively marries a reporter, but each assumes the other is the one whose lifestyle must change.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODVlYTZmNzMtNTYxZC00N2Q1LWEyZjQtY2IzNmY5MTYwOWRmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0022268",
+  "type": "movie",
+  "fetched_at": "2026-03-30T18:59:32.043Z"
+}

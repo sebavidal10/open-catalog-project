@@ -1,0 +1,31 @@
+{
+  "title": "Le Million",
+  "year": "1931",
+  "rated": "Not Rated",
+  "released": "04 Feb 1931",
+  "runtime": "91 min",
+  "genre": "Comedy, Musical",
+  "director": "René Clair",
+  "writer": "Georges Berr, Marcel Guillemaud, René Clair",
+  "actors": "Annabella, René Lefèvre, Jean-Louis Allibert",
+  "plot": "An impoverished painter and his rival engage in a race across Paris to recover a jacket concealing a winning lottery ticket.",
+  "language": "French",
+  "country": "France",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA1MTA3NjI3M15BMl5BanBnXkFtZTcwNTA3OTMyMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0022150",
+  "type": "movie",
+  "fetched_at": "2026-03-30T18:59:56.859Z"
+}

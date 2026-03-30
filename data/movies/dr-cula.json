@@ -1,0 +1,31 @@
+{
+  "title": "Drácula",
+  "year": "1931",
+  "rated": "Unrated",
+  "released": "14 Sep 1932",
+  "runtime": "104 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "George Melford",
+  "writer": "Bram Stoker, Baltasar Fernández Cué, John L. Balderston",
+  "actors": "Carlos Villarías, Lupita Tovar, Barry Norton",
+  "plot": "Centuries-old vampire Dracula preys upon the innocent Eva and her friends.",
+  "language": "Spanish, Hungarian",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDk3ZGFjZWYtYjdlMi00MTY2LWJiMWMtZWNhMjZjNjA4MTk2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0021815",
+  "type": "movie",
+  "fetched_at": "2026-03-30T19:00:10.092Z"
+}

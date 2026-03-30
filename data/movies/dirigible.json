@@ -1,0 +1,27 @@
+{
+  "title": "Dirigible",
+  "year": "1931",
+  "rated": "Approved",
+  "released": "04 Apr 1931",
+  "runtime": "100 min",
+  "genre": "Adventure",
+  "director": "Frank Capra",
+  "writer": "Frank Wead, Jo Swerling",
+  "actors": "Jack Holt, Fay Wray, Ralph Graves",
+  "plot": "Jack Bradon is tasked to reach the South Pole with a dirigible.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGQxNzgwYTctOTJjYi00MWNmLWE4NTctOWZjZWIxODZmN2MxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0021799",
+  "type": "movie",
+  "fetched_at": "2026-03-30T18:59:44.935Z"
+}

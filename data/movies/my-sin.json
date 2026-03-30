@@ -1,0 +1,27 @@
+{
+  "title": "My Sin",
+  "year": "1931",
+  "rated": "Passed",
+  "released": "03 Oct 1931",
+  "runtime": "80 min",
+  "genre": "Drama",
+  "director": "George Abbott",
+  "writer": "George Abbott, Owen Davis, Adelaide Heilbron",
+  "actors": "Tallulah Bankhead, Fredric March, Harry Davenport",
+  "plot": "Acquitted of murder charges, Carlotta moves to New York to start a new life.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWM4NzJjOTYtYzQ1MS00MzM3LWJjMGYtMmRiMWUwOTFiNGYwXkEyXkFqcGdeQXVyNTUyNzA5ODE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0022178",
+  "type": "movie",
+  "fetched_at": "2026-03-30T19:01:56.443Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Arrowsmith",
+  "year": "1931",
+  "rated": "Approved",
+  "released": "26 Dec 1931",
+  "runtime": "108 min",
+  "genre": "Drama",
+  "director": "John Ford",
+  "writer": "Sinclair Lewis, Sidney Howard",
+  "actors": "Ronald Colman, Helen Hayes, Richard Bennett",
+  "plot": "A medical researcher is sent to a plague outbreak, where he has to decide priorities for the use of a vaccine.",
+  "language": "English, Italian, Swedish",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWJhNDg3MGEtYjM3Zi00NzEwLWIxZmQtMjc3MjI4MjU2ODVmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0021622",
+  "type": "movie",
+  "fetched_at": "2026-03-30T18:59:55.691Z"
+}

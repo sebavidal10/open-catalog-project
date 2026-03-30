@@ -1,0 +1,27 @@
+{
+  "title": "Corsair",
+  "year": "1931",
+  "rated": "Passed",
+  "released": "28 Nov 1931",
+  "runtime": "75 min",
+  "genre": "Adventure, Crime, Romance",
+  "director": "Roland West",
+  "writer": "Walton Green, Roland West, Josephine Lovett",
+  "actors": "Chester Morris, Thelma Todd, Fred Kohler",
+  "plot": "A stockbroker plans to liven up his boring life by taking up piracy on the high seas.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODhlZGU2ODUtZjkwOC00YWE5LTgyNjktYmNiMGVmMWQzMzcyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0021764",
+  "type": "movie",
+  "fetched_at": "2026-03-30T19:00:50.126Z"
+}

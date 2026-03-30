@@ -1,0 +1,31 @@
+{
+  "title": "The Smiling Lieutenant",
+  "year": "1931",
+  "rated": "Passed",
+  "released": "01 Aug 1931",
+  "runtime": "93 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Ernst Lubitsch",
+  "writer": "Ernest Vajda, Samson Raphaelson, Leopold Jacobson",
+  "actors": "Maurice Chevalier, Claudette Colbert, Miriam Hopkins",
+  "plot": "An amorous lieutenant is forced to marry a socially awkward princess, though he tries to keep his violin-playing girlfriend on the side.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2UwMzFmZjktODY0Zi00ZTNjLWE0NTctM2ZhMmIxYzM1NTBlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0022074",
+  "type": "movie",
+  "fetched_at": "2026-03-30T18:59:52.191Z"
+}

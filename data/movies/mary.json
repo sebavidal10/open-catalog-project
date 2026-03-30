@@ -1,0 +1,27 @@
+{
+  "title": "Mary",
+  "year": "1931",
+  "rated": "N/A",
+  "released": "02 Mar 1931",
+  "runtime": "78 min",
+  "genre": "Mystery, Thriller",
+  "director": "Alfred Hitchcock",
+  "writer": "Clemence Dane, Herbert Juttke, Georg C. Klaren",
+  "actors": "Alfred Abel, Olga Tschechowa, Paul Graetz",
+  "plot": "A juror in a murder trial, after voting to convict, has second thoughts and begins to investigate on his own before the execution.",
+  "language": "German",
+  "country": "Germany, United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGZhODZmYmEtMDkzNS00MDc2LWJmZGQtZjlhNWVkYWFhNzE0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0021128",
+  "type": "movie",
+  "fetched_at": "2026-03-30T19:00:27.648Z"
+}

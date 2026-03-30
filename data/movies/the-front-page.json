@@ -1,0 +1,35 @@
+{
+  "title": "The Front Page",
+  "year": "1931",
+  "rated": "Approved",
+  "released": "04 Apr 1931",
+  "runtime": "101 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Lewis Milestone",
+  "writer": "Ben Hecht, Charles MacArthur, Bartlett Cormack",
+  "actors": "Adolphe Menjou, Pat O'Brien, Mary Brian",
+  "plot": "A crusading newspaper editor tricks his retiring star reporter into covering one last case.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 2 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTRkNzMyZTQtMzlhZS00YzQ1LTg1NmYtNWRlNWY1M2Y0NThmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "6.7",
+  "imdbID": "tt0021890",
+  "type": "movie",
+  "fetched_at": "2026-03-30T18:59:35.577Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Little Caesar",
+  "year": "1931",
+  "rated": "Not Rated",
+  "released": "25 Jan 1931",
+  "runtime": "79 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Mervyn LeRoy",
+  "writer": "W.R. Burnett, Francis Edward Faragoh, Robert N. Lee",
+  "actors": "Edward G. Robinson, Douglas Fairbanks Jr., Glenda Farrell",
+  "plot": "A small-time criminal moves to a big city to seek bigger fortune.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGE3YTI5MzUtZDVhZS00Y2NkLTgwNjYtNjg1YzE3MGE5NDhmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0021079",
+  "type": "movie",
+  "fetched_at": "2026-03-30T18:59:14.471Z"
+}

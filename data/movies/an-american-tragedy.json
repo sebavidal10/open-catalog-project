@@ -1,0 +1,27 @@
+{
+  "title": "An American Tragedy",
+  "year": "1931",
+  "rated": "Approved",
+  "released": "22 Aug 1931",
+  "runtime": "96 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "Josef von Sternberg",
+  "writer": "Theodore Dreiser, Samuel Hoffenstein, Josef von Sternberg",
+  "actors": "Phillips Holmes, Sylvia Sidney, Frances Dee",
+  "plot": "A poor factory worker employed by a wealthy uncle falls in love with a beautiful heiress, but his happiness and promising future are jeopardized by a previous affair with a coworker he impregnated.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjY4Yzc5YzYtNDgzOS00ZGE2LWE1ZDQtM2E0M2JhYWU4ODQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0021607",
+  "type": "movie",
+  "fetched_at": "2026-03-30T18:59:29.707Z"
+}

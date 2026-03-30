@@ -1,0 +1,27 @@
+{
+  "title": "The Phantom",
+  "year": "1931",
+  "rated": "Approved",
+  "released": "01 Nov 1931",
+  "runtime": "62 min",
+  "genre": "Horror, Thriller",
+  "director": "Alan James",
+  "writer": "Alan James",
+  "actors": "Guinn 'Big Boy' Williams, Allene Ray, Niles Welch",
+  "plot": "A group of people are stalked by a masked killer in an old mansion.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmQwNzlmNTUtZjJlYS00NjAxLTg4MTMtYTc4NTA1YTZjMDFlXkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.3",
+  "imdbID": "tt0022265",
+  "type": "movie",
+  "fetched_at": "2026-03-30T19:01:09.952Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Skippy",
+  "year": "1931",
+  "rated": "Passed",
+  "released": "25 Apr 1931",
+  "runtime": "85 min",
+  "genre": "Comedy, Drama, Family",
+  "director": "Norman Taurog",
+  "writer": "Sam Mintz, Percy Crosby, Joseph L. Mankiewicz",
+  "actors": "Jackie Cooper, Robert Coogan, Mitzi Green",
+  "plot": "Skippy, the mischievous son of a wealthy doctor, meets Sooky in poverty-ridden Shantytown, and together they try to save Sooky's pet from a cruel dogcatcher.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg0Mzc1OTg4NF5BMl5BanBnXkFtZTcwMDM1MjQxMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0022397",
+  "type": "movie",
+  "fetched_at": "2026-03-30T19:00:12.425Z"
+}

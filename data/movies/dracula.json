@@ -1,0 +1,35 @@
+{
+  "title": "Dracula",
+  "year": "1931",
+  "rated": "Passed",
+  "released": "14 Feb 1931",
+  "runtime": "75 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Tod Browning, Karl Freund",
+  "writer": "Bram Stoker, Hamilton Deane, John L. Balderston",
+  "actors": "Bela Lugosi, Helen Chandler, David Manners",
+  "plot": "Transylvanian vampire Count Dracula bends a naive real estate agent to his will, then takes up residence at a London estate where he sleeps in his coffin by day and searches for potential victims by night.",
+  "language": "English, Hungarian, Latin",
+  "country": "United States",
+  "awards": "5 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzFmYWU1OTUtODIwOS00NmJjLWEwMjQtOGNhZTMwMGI2MTRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.3",
+  "imdbID": "tt0021814",
+  "type": "movie",
+  "fetched_at": "2026-03-30T18:59:08.619Z"
+}

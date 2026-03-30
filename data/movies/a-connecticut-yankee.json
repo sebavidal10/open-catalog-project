@@ -1,0 +1,27 @@
+{
+  "title": "A Connecticut Yankee",
+  "year": "1931",
+  "rated": "Passed",
+  "released": "06 Apr 1931",
+  "runtime": "95 min",
+  "genre": "Comedy, Family, Fantasy",
+  "director": "David Butler",
+  "writer": "William M. Conselman, Owen Davis, Jack Moffitt",
+  "actors": "Will Rogers, William Farnum, Frank Albertson",
+  "plot": "A radio salesman finds himself transported back in time to King Arthur's court.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmYyZjY2MTUtYTllOS00YmI5LWJlMDUtNTgyNGRhMzA5NzBkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0021759",
+  "type": "movie",
+  "fetched_at": "2026-03-30T19:00:32.338Z"
+}

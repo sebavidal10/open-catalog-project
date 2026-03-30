@@ -1,0 +1,27 @@
+{
+  "title": "Smart Woman",
+  "year": "1931",
+  "rated": "Passed",
+  "released": "12 Sep 1931",
+  "runtime": "68 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Gregory La Cava",
+  "writer": "Myron C. Fagan, Salisbury Field",
+  "actors": "Mary Astor, Robert Ames, John Halliday",
+  "plot": "A wife turns the tables on her cheating husband.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM2NjRjMDItOTQ0Yy00ZGY0LTlkYWUtZmZlZTE0NWY1NzRjXkEyXkFqcGdeQXVyNTUyNzA5ODE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0022404",
+  "type": "movie",
+  "fetched_at": "2026-03-30T19:02:10.367Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Champ",
+  "year": "1931",
+  "rated": "Approved",
+  "released": "21 Nov 1931",
+  "runtime": "86 min",
+  "genre": "Drama, Family, Sport",
+  "director": "King Vidor",
+  "writer": "Wanda Tuchock, Don Marquis",
+  "actors": "Wallace Beery, Jackie Cooper, Irene Rich",
+  "plot": "An alcoholic ex-boxer struggles to provide a good living for his son.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 5 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTY0Y2YyZWEtNGJlZC00NmY0LTkxM2ItNzc2OTQzMzI4MjEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0021730",
+  "type": "movie",
+  "fetched_at": "2026-03-30T18:59:41.437Z"
+}

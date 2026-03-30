@@ -1,0 +1,31 @@
+{
+  "title": "The Struggle",
+  "year": "1931",
+  "rated": "Passed",
+  "released": "10 Dec 1931",
+  "runtime": "87 min",
+  "genre": "Drama",
+  "director": "D.W. Griffith",
+  "writer": "Anita Loos, John Emerson, D.W. Griffith",
+  "actors": "Hal Skelly, Zita Johann, Charlotte Wynters",
+  "plot": "A young couple's marriage is jeopardized by the husband's descent into alcoholism.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU2MzM0MTg3M15BMl5BanBnXkFtZTgwMjAzODgwMzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "29%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0022440",
+  "type": "movie",
+  "fetched_at": "2026-03-30T19:02:21.045Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Marius",
+  "year": "1931",
+  "rated": "Not Rated",
+  "released": "13 Apr 1933",
+  "runtime": "130 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Alexander Korda",
+  "writer": "Marcel Pagnol",
+  "actors": "Raimu, Pierre Fresnay, Fernand Charpin",
+  "plot": "Marius is faced with a choice whether to fulfill his passion by sailing the seas or stay and marry the woman he loves.",
+  "language": "French",
+  "country": "France",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmY4YzY4MGYtMmY2Yi00NDBlLTkxOGMtMDVmYzJhOGJlM2QwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0022125",
+  "type": "movie",
+  "fetched_at": "2026-03-30T18:59:06.277Z"
+}

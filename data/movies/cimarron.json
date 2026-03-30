@@ -1,0 +1,35 @@
+{
+  "title": "Cimarron",
+  "year": "1931",
+  "rated": "Approved",
+  "released": "09 Feb 1931",
+  "runtime": "123 min",
+  "genre": "Drama, Western",
+  "director": "Wesley Ruggles",
+  "writer": "Edna Ferber, Howard Estabrook, Louis Sarecky",
+  "actors": "Richard Dix, Irene Dunne, Estelle Taylor",
+  "plot": "A newspaper editor settles in an Oklahoma boom town with his reluctant wife at the end of the nineteenth century.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 5 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWIwYzQ2OGYtZjM3Yy00MTQ4LTk1YzYtNzE3YWVhZmYzMGNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "52%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "5.8",
+  "imdbID": "tt0021746",
+  "type": "movie",
+  "fetched_at": "2026-03-30T18:59:19.186Z"
+}
