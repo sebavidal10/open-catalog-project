@@ -1,0 +1,31 @@
+{
+  "title": "Law and Order",
+  "year": "1932",
+  "rated": "Approved",
+  "released": "01 Mar 1932",
+  "runtime": "75 min",
+  "genre": "Western",
+  "director": "Edward L. Cahn",
+  "writer": "W.R. Burnett, Tom Reed, John Huston",
+  "actors": "Walter Huston, Harry Carey, Raymond Hatton",
+  "plot": "A lawman sets out to tame Tombstone, Arizona.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDdjYzE5MmYtODZhZC00YTYyLWE3YTktZjc3YmU1YWRjODAxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0023121",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:42:12.228Z"
+}

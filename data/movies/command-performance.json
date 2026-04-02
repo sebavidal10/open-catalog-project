@@ -1,0 +1,27 @@
+{
+  "title": "Command Performance",
+  "year": "1931",
+  "rated": "Passed",
+  "released": "19 Jan 1931",
+  "runtime": "60 min",
+  "genre": "Drama, Romance",
+  "director": "Walter Lang",
+  "writer": "Stafford Dickens, Maude Fulton, Gordon Rigby",
+  "actors": "Neil Hamilton, Una Merkel, Helen Ware",
+  "plot": "An actor who is the lookalike for a prince travels to a neighbouring country to woo its princess and save his own country through a strategic alliance.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjYwOTMxYTctOTllYi00MWFkLWE3ZjctYzFiMWMxYjZkMmQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0020780",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:37:32.256Z"
+}

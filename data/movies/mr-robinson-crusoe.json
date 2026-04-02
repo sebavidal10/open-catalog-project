@@ -1,0 +1,27 @@
+{
+  "title": "Mr. Robinson Crusoe",
+  "year": "1932",
+  "rated": "Passed",
+  "released": "19 Aug 1932",
+  "runtime": "76 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "A. Edward Sutherland",
+  "writer": "Douglas Fairbanks, Thomas J. Geraghty",
+  "actors": "Douglas Fairbanks, William Farnum, Earle Browne",
+  "plot": "After making a bet, Steve strands himself on uninhabited island.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGMyM2M2YjctNjBjZC00MGE4LTliZGQtNzgzOTA4ZmNhNTA2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0023243",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:40:08.095Z"
+}

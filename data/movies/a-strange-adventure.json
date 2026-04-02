@@ -1,0 +1,27 @@
+{
+  "title": "A Strange Adventure",
+  "year": "1932",
+  "rated": "Passed",
+  "released": "20 Nov 1932",
+  "runtime": "60 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Phil Whitman, Hampton Del Ruth",
+  "writer": "Arthur Hoerl, Hampton Del Ruth",
+  "actors": "Regis Toomey, June Clyde, Lucille La Verne",
+  "plot": "A police lieutenant and a female reporter investigate a series of murders comitted by a hooded killer in an old dark house.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM1YWQwMDUtNzY0MS00ODMwLTg1NTktMDcwMTA2NTdkNWYyXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.1",
+  "imdbID": "tt0023520",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:41:12.535Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "The Animal Kingdom",
+  "year": "1932",
+  "rated": "Approved",
+  "released": "28 Dec 1932",
+  "runtime": "85 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Edward H. Griffith, George Cukor",
+  "writer": "Horace Jackson, Philip Barry, Edward H. Griffith",
+  "actors": "Ann Harding, Leslie Howard, Myrna Loy",
+  "plot": "Based on a play by Philip Barry, this sophisticated comedy is about a man trying to justify his love for both his wife and his mistress.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTk5MDVkMmItNWIwYi00OWVjLTk0OTEtYjE4NWJjNzJhMWNkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0022628",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:39:06.308Z"
+}

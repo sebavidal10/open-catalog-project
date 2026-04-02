@@ -1,0 +1,31 @@
+{
+  "title": "One Hour with You",
+  "year": "1932",
+  "rated": "Passed",
+  "released": "25 Mar 1932",
+  "runtime": "78 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "George Cukor, Ernst Lubitsch",
+  "writer": "Lothar Schmidt, Samson Raphaelson, Léopold Marchand",
+  "actors": "Maurice Chevalier, Jeanette MacDonald, Genevieve Tobin",
+  "plot": "An unhappily married couple try to come between a happy one.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzBhYWEyMzktMWJjYi00Y2JkLWE2MTktOTljMzlkOTNiOTEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0023303",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:39:40.307Z"
+}

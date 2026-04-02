@@ -1,0 +1,35 @@
+{
+  "title": "I Was Born, But...",
+  "year": "1932",
+  "rated": "Not Rated",
+  "released": "03 Jun 1932",
+  "runtime": "90 min",
+  "genre": "Comedy, Drama",
+  "director": "Yasujirô Ozu",
+  "writer": "Akira Fushimi, Geibei Ibushiya, Yasujirô Ozu",
+  "actors": "Tatsuo Saitô, Tomio Aoki, Mitsuko Yoshikawa",
+  "plot": "Two young brothers throw a tantrum when they discover that their father isn't the most important man in his workplace.",
+  "language": "None, Japanese",
+  "country": "Japan",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTViMjVjOTQtMjE0MC00ODcxLWEzZTAtZDNkOGMxZTkzNWI1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "metascore": "91",
+  "imdbRating": "7.9",
+  "imdbID": "tt0023634",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:39:34.444Z"
+}

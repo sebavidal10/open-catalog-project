@@ -1,0 +1,27 @@
+{
+  "title": "Movie Crazy",
+  "year": "1932",
+  "rated": "Passed",
+  "released": "23 Sep 1932",
+  "runtime": "84 min",
+  "genre": "Comedy, Family, Romance",
+  "director": "Clyde Bruckman, Harold Lloyd",
+  "writer": "Vincent Lawrence, Agnes Christine Johnston, John Grey",
+  "actors": "Harold Lloyd, Constance Cummings, Kenneth Thomson",
+  "plot": "After a mix-up with his application photograph, an aspiring actor is invited to a test screening and goes off to Hollywood.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2U0NjllNTktM2YzMi00MzBkLTlhZWYtMDUzYzQ1MzgyZmY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0023241",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:38:21.759Z"
+}

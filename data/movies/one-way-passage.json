@@ -1,0 +1,31 @@
+{
+  "title": "One Way Passage",
+  "year": "1932",
+  "rated": "Approved",
+  "released": "22 Oct 1932",
+  "runtime": "67 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Tay Garnett",
+  "writer": "Wilson Mizner, Joseph Jackson, Robert Lord",
+  "actors": "William Powell, Kay Francis, Frank McHugh",
+  "plot": "A terminally ill woman and a debonair murderer facing execution meet and fall in love on a trans-Pacific crossing, each without knowing the other's secret.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTBlZTZjZGQtOGVmZi00N2RhLWE5ZGQtYTlhNTQ4ZmIxYWRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0023305",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:39:05.134Z"
+}

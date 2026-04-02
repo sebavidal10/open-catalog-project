@@ -1,0 +1,31 @@
+{
+  "title": "If I Had a Million",
+  "year": "1932",
+  "rated": "Passed",
+  "released": "22 Feb 1933",
+  "runtime": "88 min",
+  "genre": "Comedy, Drama",
+  "director": "James Cruze, H. Bruce Humberstone, Ernst Lubitsch",
+  "writer": "Robert Hardy Andrews, Claude Binyon, Whitney Bolton",
+  "actors": "Gary Cooper, Charles Laughton, W.C. Fields",
+  "plot": "A dying tycoon gives million-dollar windfalls to eight people picked from the city directory.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmY4MTZiMDAtMWUyYS00OWM5LTljZDAtYzdiYTIyZjEzMTJjXkEyXkFqcGdeQXVyNTcwNjUwNzk@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0023049",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:39:13.327Z"
+}

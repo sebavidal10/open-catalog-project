@@ -1,0 +1,35 @@
+{
+  "title": "Grand Hotel",
+  "year": "1932",
+  "rated": "Approved",
+  "released": "11 Sep 1932",
+  "runtime": "112 min",
+  "genre": "Drama, Romance",
+  "director": "Edmund Goulding",
+  "writer": "Vicki Baum, William Absalom Drake, Béla Balázs",
+  "actors": "Greta Garbo, John Barrymore, Joan Crawford",
+  "plot": "A group of very different individuals staying at a luxurious hotel in Berlin deal with each of their respective dramas.",
+  "language": "English, Russian",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 9 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQxNDc4MDcwNF5BMl5BanBnXkFtZTgwNzY0MjUzMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.3",
+  "imdbID": "tt0022958",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:38:33.486Z"
+}

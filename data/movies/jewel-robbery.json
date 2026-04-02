@@ -1,0 +1,31 @@
+{
+  "title": "Jewel Robbery",
+  "year": "1932",
+  "rated": "Passed",
+  "released": "13 Aug 1932",
+  "runtime": "68 min",
+  "genre": "Comedy, Crime, Romance",
+  "director": "William Dieterle",
+  "writer": "Erwin Gelsey, Ladislas Fodor, Bertram Bloch",
+  "actors": "William Powell, Kay Francis, Helen Vinson",
+  "plot": "A gentleman thief charms a Viennese baron's wife and also conducts a daring daylight robbery of a jewellers.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY3OTQzMTk1Nl5BMl5BanBnXkFtZTgwMTk4NTM3MTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0023074",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:39:44.988Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Vanity Fair",
+  "year": "1932",
+  "rated": "Passed",
+  "released": "15 Mar 1932",
+  "runtime": "78 min",
+  "genre": "Drama, Romance",
+  "director": "Chester M. Franklin",
+  "writer": "William Makepeace Thackeray, F. Hugh Herbert",
+  "actors": "Myrna Loy, Conway Tearle, Barbara Kent",
+  "plot": "This cinematic adaptation of William Makepeace Thackeray's novel stars Myrna Loy in her first starring role.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY4MDY1NzQxNV5BMl5BanBnXkFtZTcwMTA4NTM1NQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0023652",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:40:19.808Z"
+}

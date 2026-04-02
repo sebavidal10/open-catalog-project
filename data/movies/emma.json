@@ -1,0 +1,27 @@
+{
+  "title": "Emma",
+  "year": "1932",
+  "rated": "Passed",
+  "released": "02 Jan 1932",
+  "runtime": "72 min",
+  "genre": "Drama",
+  "director": "Clarence Brown",
+  "writer": "Frances Marion, Leonard Praskins, Zelda Sears",
+  "actors": "Marie Dressler, Richard Cromwell, Jean Hersholt",
+  "plot": "After decades of raising the motherless Smith children, housekeeper Emma Thatcher is faced with resentment when she marries their father.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWYwMzBlMDItYzY5OC00NGVjLWIzNGMtMmM5N2FjM2ZmYTc2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0022854",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:40:06.928Z"
+}

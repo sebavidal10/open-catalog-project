@@ -1,0 +1,31 @@
+{
+  "title": "Murders in the Rue Morgue",
+  "year": "1932",
+  "rated": "Passed",
+  "released": "21 Feb 1932",
+  "runtime": "61 min",
+  "genre": "Crime, Horror, Mystery",
+  "director": "Robert Florey",
+  "writer": "Edgar Allan Poe, Robert Florey, Tom Reed",
+  "actors": "Bela Lugosi, Sidney Fox, Leon Ames",
+  "plot": "A mad scientist seeks to mingle human blood with that of an ape, and resorts to kidnapping women for his experiments.",
+  "language": "English, Danish, German, Italian",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5MTExNDQ3MV5BMl5BanBnXkFtZTgwNTk0NDIwMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0023249",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:38:44.023Z"
+}

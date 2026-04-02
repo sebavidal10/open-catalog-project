@@ -1,0 +1,31 @@
+{
+  "title": "Fanny",
+  "year": "1932",
+  "rated": "Not Rated",
+  "released": "12 Feb 1948",
+  "runtime": "125 min",
+  "genre": "Comedy, Drama",
+  "director": "Marc Allégret",
+  "writer": "Marcel Pagnol",
+  "actors": "Raimu, Pierre Fresnay, Fernand Charpin",
+  "plot": "After Fanny's boyfriend leaves her and sails away, she finds out she's pregnant.",
+  "language": "French",
+  "country": "France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3OTQzOTc4NF5BMl5BanBnXkFtZTgwMDQyMDM3MjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0022877",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:38:18.045Z"
+}

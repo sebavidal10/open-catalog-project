@@ -1,0 +1,27 @@
+{
+  "title": "Man Wanted",
+  "year": "1932",
+  "rated": "Passed",
+  "released": "23 Apr 1932",
+  "runtime": "62 min",
+  "genre": "Romance, Comedy, Drama",
+  "director": "William Dieterle",
+  "writer": "Robert Lord, Charles Kenyon",
+  "actors": "Kay Francis, David Manners, Una Merkel",
+  "plot": "A female editor of a magazine falls in love with her male secretary.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc0MzQxMzUwM15BMl5BanBnXkFtZTgwMzk4NTM3MTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0023180",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:41:33.587Z"
+}

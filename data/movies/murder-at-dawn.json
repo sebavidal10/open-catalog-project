@@ -1,0 +1,27 @@
+{
+  "title": "Murder at Dawn",
+  "year": "1932",
+  "rated": "Passed",
+  "released": "15 Feb 1932",
+  "runtime": "62 min",
+  "genre": "Crime, Drama, Horror",
+  "director": "Richard Thorpe",
+  "writer": "Barry Barringer",
+  "actors": "Josephine Dunn, Jack Mulhall, Eddie Boland",
+  "plot": "Mad scientist works on a death ray in his mountain hideaway.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU3NTk2MDc0Ml5BMl5BanBnXkFtZTcwODE1MzcyMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.3",
+  "imdbID": "tt0023247",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:44:23.885Z"
+}

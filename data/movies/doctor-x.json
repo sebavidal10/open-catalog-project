@@ -1,0 +1,31 @@
+{
+  "title": "Doctor X",
+  "year": "1932",
+  "rated": "Unrated",
+  "released": "27 Aug 1932",
+  "runtime": "76 min",
+  "genre": "Comedy, Crime, Horror",
+  "director": "Michael Curtiz",
+  "writer": "Robert Tasker, Earl Baldwin, Howard Warren Comstock",
+  "actors": "Lionel Atwill, Fay Wray, Lee Tracy",
+  "plot": "A wisecracking New York reporter intrudes on a research scientist's quest to unmask The Moon Killer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzEzZDY0YzQtMTlmMS00ODkyLTkwOGMtNGYzMjAxNDk4Mzg3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0022827",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:38:47.534Z"
+}

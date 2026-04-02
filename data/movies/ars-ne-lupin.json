@@ -1,0 +1,27 @@
+{
+  "title": "Arsène Lupin",
+  "year": "1932",
+  "rated": "Approved",
+  "released": "05 Mar 1932",
+  "runtime": "84 min",
+  "genre": "Crime, Mystery, Romance",
+  "director": "Jack Conway",
+  "writer": "Maurice Leblanc, Francis de Croisset, Lenore J. Coffee",
+  "actors": "John Barrymore, Lionel Barrymore, Karen Morley",
+  "plot": "A detective is tasked to capture an elusive thief called Arsene Lupin.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTllNjczYzgtYWE2OS00NDc1LWEzNGMtN2I5NjJmYmI5MTNiXkEyXkFqcGdeQXVyNDY1NzU5NjY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0022639",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:40:43.227Z"
+}

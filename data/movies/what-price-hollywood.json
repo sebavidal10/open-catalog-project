@@ -1,0 +1,31 @@
+{
+  "title": "What Price Hollywood?",
+  "year": "1932",
+  "rated": "Passed",
+  "released": "24 Jun 1932",
+  "runtime": "88 min",
+  "genre": "Drama, Romance",
+  "director": "George Cukor",
+  "writer": "Gene Fowler, Rowland Brown, Adela Rogers St. Johns",
+  "actors": "Constance Bennett, Lowell Sherman, Neil Hamilton",
+  "plot": "The career of a waitress takes off when she meets an amiable drunken Hollywood director.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDBhMTUxNGEtODExMy00ODdjLTgxNjMtYjFmODI5ZjI0NWQ5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0023686",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:38:22.930Z"
+}

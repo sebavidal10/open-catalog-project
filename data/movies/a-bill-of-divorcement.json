@@ -1,0 +1,31 @@
+{
+  "title": "A Bill of Divorcement",
+  "year": "1932",
+  "rated": "Approved",
+  "released": "30 Sep 1932",
+  "runtime": "70 min",
+  "genre": "Drama",
+  "director": "George Cukor",
+  "writer": "Howard Estabrook, Harry Wagstaff Gribble, Clemence Dane",
+  "actors": "John Barrymore, Katharine Hepburn, Billie Burke",
+  "plot": "A man, Hilary Fairfield returns home after fifteen years in a mental asylum. However, he finds things are not the way they were when he left.",
+  "language": "English",
+  "country": "United States",
+  "awards": "5 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjkxMTU3NjYtMzhkZS00YmMxLWE1MDItM2RiODA1NWIyNDQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0022685",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:39:35.615Z"
+}

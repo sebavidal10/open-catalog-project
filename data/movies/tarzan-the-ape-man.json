@@ -1,0 +1,31 @@
+{
+  "title": "Tarzan the Ape Man",
+  "year": "1932",
+  "rated": "Passed",
+  "released": "02 Apr 1932",
+  "runtime": "100 min",
+  "genre": "Action, Adventure, Romance",
+  "director": "W.S. Van Dyke",
+  "writer": "Edgar Rice Burroughs, Cyril Hume, Ivor Novello",
+  "actors": "Johnny Weissmuller, Neil Hamilton, C. Aubrey Smith",
+  "plot": "A trader and his daughter set off in search of the fabled graveyard of the elephants in deepest Africa, only to encounter a wild man raised by apes.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2ZlZjU0MWYtZmJjYy00MzliLTg0ZjEtNDYzNWU4MjlkZTViXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0023551",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:38:29.968Z"
+}

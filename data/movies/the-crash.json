@@ -1,0 +1,27 @@
+{
+  "title": "The Crash",
+  "year": "1932",
+  "rated": "Passed",
+  "released": "09 Oct 1932",
+  "runtime": "58 min",
+  "genre": "Drama, Romance",
+  "director": "William Dieterle",
+  "writer": "Earl Baldwin, Larry Barretto",
+  "actors": "Ruth Chatterton, George Brent, Lois Wilson",
+  "plot": "Rich couple loses their fortune in stock market crash.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM5ODUzMzU0OV5BMl5BanBnXkFtZTgwMzU3Njk1MDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0022784",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:42:04.039Z"
+}

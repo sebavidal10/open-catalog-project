@@ -1,0 +1,31 @@
+{
+  "title": "A Farewell to Arms",
+  "year": "1932",
+  "rated": "Approved",
+  "released": "08 Dec 1932",
+  "runtime": "80 min",
+  "genre": "Drama, Romance, War",
+  "director": "Frank Borzage",
+  "writer": "Benjamin Glazer, Oliver H.P. Garrett, Ernest Hemingway",
+  "actors": "Gary Cooper, Helen Hayes, Adolphe Menjou",
+  "plot": "An American ambulance driver and an English nurse fall in love in Italy during World War I.",
+  "language": "English, Italian, Latin, French",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 7 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzM2ODc0NTY3OF5BMl5BanBnXkFtZTgwMjQwNzkzMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0022879",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:38:42.849Z"
+}

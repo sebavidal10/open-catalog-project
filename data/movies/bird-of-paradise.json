@@ -1,0 +1,31 @@
+{
+  "title": "Bird of Paradise",
+  "year": "1932",
+  "rated": "Passed",
+  "released": "12 Aug 1932",
+  "runtime": "80 min",
+  "genre": "Adventure, Drama, Romance",
+  "director": "King Vidor",
+  "writer": "Richard Walton Tully, Wells Root, Wanda Tuchock",
+  "actors": "Dolores Del Río, Joel McCrea, John Halliday",
+  "plot": "A native girl falls for a visitor to her island, but she's chosen to be sacrificed to the volcano god.",
+  "language": "English, Hawaiian",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAzOTg4NDUyNDdeQTJeQWpwZ15BbWU4MDc5NDk3NjIx._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0022689",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:39:09.819Z"
+}

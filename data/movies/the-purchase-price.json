@@ -1,0 +1,27 @@
+{
+  "title": "The Purchase Price",
+  "year": "1932",
+  "rated": "TV-PG",
+  "released": "23 Jul 1932",
+  "runtime": "68 min",
+  "genre": "Comedy, Drama",
+  "director": "William A. Wellman",
+  "writer": "Arthur Stringer, Robert Lord",
+  "actors": "Barbara Stanwyck, George Brent, Lyle Talbot",
+  "plot": "A torch singer becomes a farmer's mail-order bride.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmFiZjczM2UtNzg5YS00NDQ1LTk5NmQtOTcxYjljMGI2MzE0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0023362",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:38:41.680Z"
+}

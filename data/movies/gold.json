@@ -1,0 +1,27 @@
+{
+  "title": "Gold",
+  "year": "1932",
+  "rated": "Passed",
+  "released": "05 Oct 1932",
+  "runtime": "58 min",
+  "genre": "Drama, Western",
+  "director": "Otto Brower",
+  "writer": "Jack Natteford",
+  "actors": "Jack Hoxie, Alice Day, Hooper Atchley",
+  "plot": "A cowboy turned gold miner fights a gang that buys miner's claims and then murders them.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzc3M2IzZGUtMDE5OC00MzcyLThiYjMtMTAzZDVkYmJjMjI5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0022951",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:46:17.211Z"
+}

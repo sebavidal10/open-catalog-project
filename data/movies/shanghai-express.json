@@ -1,0 +1,35 @@
+{
+  "title": "Shanghai Express",
+  "year": "1932",
+  "rated": "Approved",
+  "released": "12 Feb 1932",
+  "runtime": "82 min",
+  "genre": "Adventure, Drama, Film-Noir",
+  "director": "Josef von Sternberg",
+  "writer": "Jules Furthman, Harry Hervey",
+  "actors": "Marlene Dietrich, Clive Brook, Anna May Wong",
+  "plot": "A notorious woman rides a train through a dangerous situation with a British captain she loved.",
+  "language": "English, French, Cantonese, German",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzk1ZGVlZGItZTc5ZS00NzM4LTg5MWQtMmQ2Njc5Mjc0NDU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.3",
+  "imdbID": "tt0023458",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:38:37.008Z"
+}

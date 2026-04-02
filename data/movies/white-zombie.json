@@ -1,0 +1,31 @@
+{
+  "title": "White Zombie",
+  "year": "1932",
+  "rated": "Passed",
+  "released": "04 Aug 1932",
+  "runtime": "69 min",
+  "genre": "Horror",
+  "director": "Victor Halperin",
+  "writer": "Garnett Weston, William B. Seabrook",
+  "actors": "Bela Lugosi, Madge Bellamy, Joseph Cawthorn",
+  "plot": "A young man turns to a witch doctor to lure the woman he loves away from her fiancé, but instead turns her into a zombie slave.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTBjZTBiZDgtYmNkYy00OGQ4LTkzMTItOTQ0OWUwZTYwODQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0023694",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:38:46.362Z"
+}

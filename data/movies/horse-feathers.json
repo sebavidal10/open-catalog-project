@@ -1,0 +1,35 @@
+{
+  "title": "Horse Feathers",
+  "year": "1932",
+  "rated": "Approved",
+  "released": "19 Aug 1932",
+  "runtime": "68 min",
+  "genre": "Comedy, Family, Musical",
+  "director": "Norman Z. McLeod",
+  "writer": "Bert Kalmar, Harry Ruby, S.J. Perelman",
+  "actors": "Groucho Marx, Chico Marx, Harpo Marx",
+  "plot": "Quincy Adams Wagstaff, Huxley University's new president, accidentally hires bumblers Baravelli and Pinky to help his school win the big football game against their rival, Darwin University.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWM3YjExODMtM2U0Mi00Y2Q5LTk0MjMtMjYzNmIxODUyNDA2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.5",
+  "imdbID": "tt0023027",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:39:01.617Z"
+}

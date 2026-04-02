@@ -1,0 +1,31 @@
+{
+  "title": "Rain",
+  "year": "1932",
+  "rated": "Approved",
+  "released": "12 Oct 1932",
+  "runtime": "94 min",
+  "genre": "Drama",
+  "director": "Lewis Milestone",
+  "writer": "John Colton, Clemence Randolph, W. Somerset Maugham",
+  "actors": "Joan Crawford, Walter Huston, Fred Howard",
+  "plot": "A prostitute newly arrived in the South Pacific finds herself at odds with a stern missionary determined to save her soul.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg1ODk3NDE0MF5BMl5BanBnXkFtZTgwMTc0MjUzMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0023369",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:39:00.445Z"
+}

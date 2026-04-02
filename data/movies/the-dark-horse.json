@@ -1,0 +1,27 @@
+{
+  "title": "The Dark Horse",
+  "year": "1932",
+  "rated": "Passed",
+  "released": "16 Jun 1932",
+  "runtime": "75 min",
+  "genre": "Comedy, Romance",
+  "director": "Alfred E. Green",
+  "writer": "Joseph Jackson, Wilson Mizner, Courtney Terrett",
+  "actors": "Warren William, Bette Davis, Guy Kibbee",
+  "plot": "Jailbird is hired to lead a dimwitted candidate's campaign for governor.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTIyZWI5MDEtZTZhNC00ZmZlLWIyMDQtODcyYTA0NjYwZDZkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0022802",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:42:01.687Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Freaks",
+  "year": "1932",
+  "rated": "Not Rated",
+  "released": "20 Feb 1932",
+  "runtime": "64 min",
+  "genre": "Drama, Horror",
+  "director": "Tod Browning",
+  "writer": "Clarence Aaron 'Tod' Robbins, Willis Goldbeck, Leon Gordon",
+  "actors": "Wallace Ford, Leila Hyams, Olga Baclanova",
+  "plot": "A circus' beautiful trapeze artist Cleopatra agrees to marry Hans the leader of side-show performers, but Hans' deformed friends discover that she is only marrying him for his inheritance. So they seek revenge.",
+  "language": "English, German, French",
+  "country": "United States",
+  "awards": "2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA5Njk4ODY2MjFeQTJeQWpwZ15BbWU4MDc5MDU5MDAx._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "7.8",
+  "imdbID": "tt0022913",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:38:20.587Z"
+}

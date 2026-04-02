@@ -1,0 +1,31 @@
+{
+  "title": "I Am a Fugitive from a Chain Gang",
+  "year": "1932",
+  "rated": "Approved",
+  "released": "19 Nov 1932",
+  "runtime": "92 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Mervyn LeRoy",
+  "writer": "Robert E. Burns, Howard J. Green, Brown Holmes",
+  "actors": "Paul Muni, Glenda Farrell, Helen Vinson",
+  "plot": "A World War I veteran and aspiring engineer tries to re-enter civilian life. After being unwillingly caught up in a robbery, he suffers the intolerable conditions of a Southern chain gang, struggling to clear his name and prove hi...",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 6 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2M2MTE4NTMtYTM3Mi00ODMwLTg2MjctMjNiMmQ0ZTA4N2M3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.2",
+  "imdbID": "tt0023042",
+  "type": "movie",
+  "fetched_at": "2026-04-02T18:38:32.308Z"
+}
