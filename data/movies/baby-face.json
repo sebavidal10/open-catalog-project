@@ -1,0 +1,31 @@
+{
+  "title": "Baby Face",
+  "year": "1933",
+  "rated": "Approved",
+  "released": "17 Nov 1933",
+  "runtime": "71 min",
+  "genre": "Drama, Romance",
+  "director": "Alfred E. Green",
+  "writer": "Gene Markey, Kathryn Scola, Darryl F. Zanuck",
+  "actors": "Barbara Stanwyck, George Brent, Donald Cook",
+  "plot": "A young woman, sexually exploited all her life, decides to turn the tables and exploit the hapless men at a big city bank by gleefully seducing her way to the top.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc1MDQ4MDkzNl5BMl5BanBnXkFtZTgwODY0NTgyMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0023775",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:22:07.931Z"
+}

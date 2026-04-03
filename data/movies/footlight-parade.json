@@ -1,0 +1,35 @@
+{
+  "title": "Footlight Parade",
+  "year": "1933",
+  "rated": "G",
+  "released": "21 Oct 1933",
+  "runtime": "104 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Lloyd Bacon",
+  "writer": "Manuel Seff, James Seymour, Robert Lord",
+  "actors": "James Cagney, Joan Blondell, Ruby Keeler",
+  "plot": "Chester Kent struggles against time, romance, and a rival's spy to produce spectacular live \"prologues\" for movie houses.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGVmYThkZWQtZjMzMS00NWJmLTkwZGUtNTBiOGY5N2UxZDcyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "7.5",
+  "imdbID": "tt0024028",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:22:26.817Z"
+}

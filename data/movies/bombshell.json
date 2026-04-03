@@ -1,0 +1,35 @@
+{
+  "title": "Bombshell",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "13 Oct 1933",
+  "runtime": "96 min",
+  "genre": "Comedy, Drama, Mystery",
+  "director": "Victor Fleming",
+  "writer": "John Lee Mahin, Jules Furthman, Caroline Francke",
+  "actors": "Jean Harlow, Lee Tracy, Frank Morgan",
+  "plot": "A glamorous film star rebels against the studio, her pushy press agent and a family of hangers-on.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTFiMWUzMmYtMzQ1YS00OTljLTk2OGItM2E1MWU5OTZlMGIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.1",
+  "imdbID": "tt0023825",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:22:44.161Z"
+}

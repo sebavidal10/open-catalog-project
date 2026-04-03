@@ -1,0 +1,31 @@
+{
+  "title": "Female",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "11 Nov 1933",
+  "runtime": "60 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Michael Curtiz, William Dieterle, William A. Wellman",
+  "writer": "Gene Markey, Kathryn Scola, Donald Henderson Clarke",
+  "actors": "Ruth Chatterton, George Brent, Lois Wilson",
+  "plot": "Alison Drake, the tough-minded executive of an automobile factory, succeeds in the man's world of business until she meets an independent design engineer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTk3ODg3MDMtY2Y1YS00N2NiLTg0NTItYjk5OThmMDk4YTRmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0024008",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:22:35.666Z"
+}

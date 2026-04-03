@@ -1,0 +1,35 @@
+{
+  "title": "The Thin Man",
+  "year": "1934",
+  "rated": "TV-PG",
+  "released": "25 May 1934",
+  "runtime": "91 min",
+  "genre": "Comedy, Crime, Mystery",
+  "director": "W.S. Van Dyke",
+  "writer": "Albert Hackett, Frances Goodrich, Dashiell Hammett",
+  "actors": "William Powell, Myrna Loy, Maureen O'Sullivan",
+  "plot": "Former detective Nick Charles and his wealthy wife Nora investigate a murder case, mostly for the fun of it.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 6 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWNhZmQxMzUtZDMxYS00OWFhLWI1MjgtOTYxNmM0NWQ3M2FhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.9",
+  "imdbID": "tt0025878",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:32:01.838Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Here Comes the Navy",
+  "year": "1934",
+  "rated": "Approved",
+  "released": "21 Jul 1934",
+  "runtime": "87 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Lloyd Bacon",
+  "writer": "Earl Baldwin, Ben Markson, Alfred A. Cohn",
+  "actors": "James Cagney, Pat O'Brien, Gloria Stuart",
+  "plot": "A cocky guy joins the Navy for the wrong reason but finds romance and twice is cited for heroism.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGY0NTJhMGUtYTcxYi00MmVkLTg2ZDAtYWM4NWEzMTVjOTk4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0025238",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:33:46.602Z"
+}

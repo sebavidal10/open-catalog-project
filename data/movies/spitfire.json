@@ -1,0 +1,27 @@
+{
+  "title": "Spitfire",
+  "year": "1934",
+  "rated": "Approved",
+  "released": "30 Mar 1934",
+  "runtime": "87 min",
+  "genre": "Drama",
+  "director": "John Cromwell",
+  "writer": "Lula Vollmer, Jane Murfin",
+  "actors": "Katharine Hepburn, Robert Young, Ralph Bellamy",
+  "plot": "A story about a savage girl in an American outback who is suspected of witchcraft.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYwMzQwNjU3OF5BMl5BanBnXkFtZTgwNTU5NjQ0MjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.3",
+  "imdbID": "tt0025822",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:34:32.428Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Java Head",
+  "year": "1934",
+  "rated": "N/A",
+  "released": "15 Oct 1934",
+  "runtime": "68 min",
+  "genre": "Drama, Romance",
+  "director": "J. Walter Ruben",
+  "writer": "Martin Brown, Joseph Hergesheimer, Gordon Wellesley",
+  "actors": "Anna May Wong, Elizabeth Allan, John Loder",
+  "plot": "The port city of Bristol, England, in the 1800s is home to Java Head, a sailing ship line company. The owner has two sons. One, a handsome seafarer, is in love with a local girl, but cannot marry her due to a long-running feud bet...",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjljMjQ5YWMtYjIwNC00MmZhLWExYjktZjJjYmRmZjNmZmNhXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0025326",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:38:59.460Z"
+}

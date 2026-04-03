@@ -1,0 +1,27 @@
+{
+  "title": "What-No Beer?",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "10 Feb 1933",
+  "runtime": "65 min",
+  "genre": "Comedy",
+  "director": "Edward Sedgwick",
+  "writer": "Robert E. Hopkins, Carey Wilson, Jack Cluett",
+  "actors": "Buster Keaton, Jimmy Durante, Roscoe Ates",
+  "plot": "Two men decide to cash in on the end of Prohibition by selling watered down beer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE1NzM0ODQzM15BMl5BanBnXkFtZTgwMzU3NTMzMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0024762",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:26:26.608Z"
+}

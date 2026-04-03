@@ -1,0 +1,31 @@
+{
+  "title": "Heroes for Sale",
+  "year": "1933",
+  "rated": "Approved",
+  "released": "17 Jun 1933",
+  "runtime": "76 min",
+  "genre": "Drama, Romance, War",
+  "director": "William A. Wellman",
+  "writer": "Robert Lord, Wilson Mizner",
+  "actors": "Loretta Young, Richard Barthelmess, Aline MacMahon",
+  "plot": "A veteran fights drug addiction to make his way in the business world.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGY0N2UxZGUtN2ZmOC00MTQ3LWI0ZWQtMDI3YzQ5YmZlZDA2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0024115",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:24:44.292Z"
+}

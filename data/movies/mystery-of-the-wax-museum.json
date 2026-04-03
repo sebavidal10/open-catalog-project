@@ -1,0 +1,31 @@
+{
+  "title": "Mystery of the Wax Museum",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "18 Feb 1933",
+  "runtime": "77 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Michael Curtiz",
+  "writer": "Don Mullaly, Carl Erickson, Charles Belden",
+  "actors": "Lionel Atwill, Fay Wray, Glenda Farrell",
+  "plot": "The disappearance of people and corpses leads a reporter to a wax museum and a sinister sculptor.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmY5Nzk5OTEtYTJhOS00MTE2LTliYWEtNGMzOTNlZmM2Yjc3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0024368",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:21:59.683Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Hoopla",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "30 Nov 1933",
+  "runtime": "85 min",
+  "genre": "Drama",
+  "director": "Frank Lloyd",
+  "writer": "Kenyon Nicholson, Bradley King, Joseph Moncure March",
+  "actors": "Clara Bow, Preston Foster, Richard Cromwell",
+  "plot": "A hula dancer at a carnival sets out to seduce the son of the show's manager.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM2MDY1NDA2MV5BMl5BanBnXkFtZTcwOTQ1NzQ4NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0024139",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:23:18.274Z"
+}

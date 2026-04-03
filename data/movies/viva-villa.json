@@ -1,0 +1,31 @@
+{
+  "title": "Viva Villa!",
+  "year": "1934",
+  "rated": "Passed",
+  "released": "27 Apr 1934",
+  "runtime": "115 min",
+  "genre": "Biography, Western",
+  "director": "Jack Conway, Howard Hawks, William A. Wellman",
+  "writer": "Ben Hecht, Edgecumb Pinchon, O.B. Stade",
+  "actors": "Wallace Beery, Fay Wray, Leo Carrillo",
+  "plot": "After enacting revenge on the overseer who murdered his father, Pancho Villa becomes a bandit, earning the respect of the poor by brutally attacking the wealthy.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 4 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2NlMzM3MjUtZjA1OC00OTA1LWJjM2QtMjM1ODMyM2YyNDI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0025948",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:32:54.807Z"
+}

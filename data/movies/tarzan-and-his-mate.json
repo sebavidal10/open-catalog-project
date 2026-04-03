@@ -1,0 +1,31 @@
+{
+  "title": "Tarzan and His Mate",
+  "year": "1934",
+  "rated": "Passed",
+  "released": "20 Apr 1934",
+  "runtime": "104 min",
+  "genre": "Action, Adventure, Romance",
+  "director": "Cedric Gibbons, James C. McKay, Jack Conway",
+  "writer": "Edgar Rice Burroughs, James Kevin McGuinness, Howard Emmett Rogers",
+  "actors": "Johnny Weissmuller, Maureen O'Sullivan, Neil Hamilton",
+  "plot": "The idyllic life of Tarzan and Jane is challenged by men on safari who come seeking ivory, and come seeking Jane as well.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWU4ODlkNTAtZjI2ZC00ODBmLTlkNjctMDIyMzg5M2VlOWQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0025862",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:32:10.076Z"
+}

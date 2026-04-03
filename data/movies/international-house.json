@@ -1,0 +1,31 @@
+{
+  "title": "International House",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "27 May 1933",
+  "runtime": "68 min",
+  "genre": "Comedy",
+  "director": "A. Edward Sutherland",
+  "writer": "Francis Martin, Walter DeLeon, Neil Brant",
+  "actors": "W.C. Fields, Peggy Hopkins Joyce, Rudy Vallee",
+  "plot": "Assorted wacky characters converge on a Chinese hotel to bid on a new invention: television.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDBmYjg0NjAtNTQ4OC00MGExLWEzMmMtZTA4MDQyYTE5ODZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0024183",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:24:05.397Z"
+}

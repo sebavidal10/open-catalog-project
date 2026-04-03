@@ -1,0 +1,31 @@
+{
+  "title": "Zoo in Budapest",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "28 Apr 1933",
+  "runtime": "94 min",
+  "genre": "Drama, Romance",
+  "director": "Rowland V. Lee",
+  "writer": "Melville Baker, Jack Kirkland, Dan Totheroh",
+  "actors": "Loretta Young, Gene Raymond, O.P. Heggie",
+  "plot": "An orphan girl escapes her caregivers to be with a young man raised at the zoo whose only previous friends are the animals.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWExMTZlYzctNDdkOS00ZDFkLTg0MDctNGU2OGEwNDdhNGU4XkEyXkFqcGdeQXVyNTY4NjI2OTA@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0024800",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:25:03.093Z"
+}

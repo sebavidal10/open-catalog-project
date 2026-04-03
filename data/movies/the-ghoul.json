@@ -1,0 +1,27 @@
+{
+  "title": "The Ghoul",
+  "year": "1933",
+  "rated": "Approved",
+  "released": "25 Nov 1933",
+  "runtime": "77 min",
+  "genre": "Action, Drama, Horror",
+  "director": "T. Hayes Hunter",
+  "writer": "Frank King, Leonard Hines, Roland Pertwee",
+  "actors": "Boris Karloff, Cedric Hardwicke, Ernest Thesiger",
+  "plot": "An Egyptologist returns from the dead to take revenge on those who have violated his tomb.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTA0MzRjOWYtZDhmNi00NWM4LTg2YWUtN2ZkYWVhNTJmNTVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0024055",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:22:48.860Z"
+}

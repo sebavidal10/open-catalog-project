@@ -1,0 +1,31 @@
+{
+  "title": "The Vampire Bat",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "10 Jan 1933",
+  "runtime": "65 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Frank R. Strayer",
+  "writer": "Edward T. Lowe Jr.",
+  "actors": "Lionel Atwill, Fay Wray, Melvyn Douglas",
+  "plot": "When corpses drained of blood begin to show up in a European village, vampirism is suspected to be responsible.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjlkMDA0NjUtYWE0OC00NjJmLWE0OGMtYjg2ODhkNjQ4MDM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0024727",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:22:46.507Z"
+}

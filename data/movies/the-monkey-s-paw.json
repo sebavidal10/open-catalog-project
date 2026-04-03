@@ -1,0 +1,27 @@
+{
+  "title": "The Monkey's Paw",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "13 Jan 1933",
+  "runtime": "58 min",
+  "genre": "Horror",
+  "director": "Wesley Ruggles, Ernest B. Schoedsack",
+  "writer": "W.W. Jacobs, Graham John, Louis N. Parker",
+  "actors": "Ivan F. Simpson, Louise Carter, C. Aubrey Smith",
+  "plot": "A mother wishes for the return of her dead son--a wish that is granted by the severed paw of a dead monkey.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjNkOTk2NzEtZjU1Yi00NTk5LWI1ZDktZmNlZDZiMDFkY2ZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0023235",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:26:03.075Z"
+}

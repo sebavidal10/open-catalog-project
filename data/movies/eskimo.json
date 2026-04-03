@@ -1,0 +1,27 @@
+{
+  "title": "Eskimo",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "10 Jan 1934",
+  "runtime": "117 min",
+  "genre": "Drama",
+  "director": "W.S. Van Dyke",
+  "writer": "John Lee Mahin, Peter Freuchen",
+  "actors": "Edgar Dearing, Peter Freuchen, Edward Hearn",
+  "plot": "The happy life of an Eskimo is disastrously changed when he mingles with an unscrupulous white trader.",
+  "language": "English, Inuktitut",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmU3ZDQzNzctMzNkNi00MjM2LTljMGItMjQ5N2U5YzYxOGVmXkEyXkFqcGdeQXVyODQ2NzAzMjY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0023990",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:23:31.210Z"
+}

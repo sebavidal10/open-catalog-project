@@ -1,0 +1,35 @@
+{
+  "title": "Imitation of Life",
+  "year": "1934",
+  "rated": "Approved",
+  "released": "26 Nov 1934",
+  "runtime": "111 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "John M. Stahl",
+  "writer": "Fannie Hurst, William Hurlbut, Preston Sturges",
+  "actors": "Claudette Colbert, Warren William, Rochelle Hudson",
+  "plot": "A struggling widow and her daughter take in a Black housekeeper and her fair-skinned daughter; the two women start a successful business but face familial, identity, and racial issues along the way.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 4 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzEwYWY4OWMtMmFlZi00YTk4LWEwMWEtMzM0ODQ2ZDU5MDVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "metascore": "72",
+  "imdbRating": "7.5",
+  "imdbID": "tt0025301",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:32:07.725Z"
+}

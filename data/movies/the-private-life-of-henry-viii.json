@@ -1,0 +1,31 @@
+{
+  "title": "The Private Life of Henry VIII",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "21 Sep 1933",
+  "runtime": "97 min",
+  "genre": "Biography, Drama, History",
+  "director": "Alexander Korda",
+  "writer": "Lajos Biró, Arthur Wimperis",
+  "actors": "Charles Laughton, Robert Donat, Franklin Dyall",
+  "plot": "King Henry VIII marries five more times after his divorce from his first wife Catherine of Aragon.",
+  "language": "English, German",
+  "country": "United Kingdom",
+  "awards": "Won 1 Oscar. 4 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGY4ZWFjMTQtZTY2NS00NjcyLWI4NmMtZTkzNzk2MTdiN2ZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0024473",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:22:13.840Z"
+}

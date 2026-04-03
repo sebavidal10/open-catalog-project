@@ -1,0 +1,31 @@
+{
+  "title": "The Countess of Monte Cristo",
+  "year": "1934",
+  "rated": "Passed",
+  "released": "19 Mar 1934",
+  "runtime": "78 min",
+  "genre": "Comedy, Crime, Romance",
+  "director": "Karl Freund",
+  "writer": "Karen DeWolf, Gene Lewis, Walter Reisch",
+  "actors": "Fay Wray, Paul Lukas, Reginald Owen",
+  "plot": "A light-hearted comedy when a bit player in a musical tries to convince her friends that she is a countess.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODdjYTRiZDYtYTM3Yi00Y2EwLTg0NzEtZTdiNDFiODk1Y2VlXkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0025005",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:34:11.269Z"
+}

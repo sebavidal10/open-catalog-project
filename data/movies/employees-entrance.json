@@ -1,0 +1,31 @@
+{
+  "title": "Employees' Entrance",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "11 Feb 1933",
+  "runtime": "75 min",
+  "genre": "Drama, Romance",
+  "director": "Roy Del Ruth",
+  "writer": "Robert Presnell Sr., David Boehm",
+  "actors": "Warren William, Loretta Young, Wallace Ford",
+  "plot": "A working girl is menaced by her tyrannical employer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzY1OGZhNmItZjA0NS00NTg0LWI1NmMtOGJhOGFmYjJkNTQ3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0023986",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:22:42.982Z"
+}

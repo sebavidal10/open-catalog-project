@@ -1,0 +1,31 @@
+{
+  "title": "Design for Living",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "29 Dec 1933",
+  "runtime": "91 min",
+  "genre": "Comedy, Mystery, Romance",
+  "director": "Ernst Lubitsch",
+  "writer": "Noël Coward, Ben Hecht, Samuel Hoffenstein",
+  "actors": "Fredric March, Gary Cooper, Miriam Hopkins",
+  "plot": "A woman cannot decide between two men who love her, and the trio agree to try living together in a platonic friendly relationship.",
+  "language": "English, French, Latin",
+  "country": "United States",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWVjYzFkYjItMWNkMy00M2UyLWIwYTItZmNjMDc5NjAzYzQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0023940",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:22:05.565Z"
+}

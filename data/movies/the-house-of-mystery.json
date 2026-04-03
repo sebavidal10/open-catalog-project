@@ -1,0 +1,27 @@
+{
+  "title": "The House of Mystery",
+  "year": "1934",
+  "rated": "Passed",
+  "released": "30 Mar 1934",
+  "runtime": "62 min",
+  "genre": "Mystery",
+  "director": "William Nigh",
+  "writer": "Albert DeMond, Adam Shirk",
+  "actors": "Ed Lowry, Verna Hillie, John Sheehan",
+  "plot": "An ancient curse and a killer ape are contained inside an old dark mansion.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA5OTg5MTg0NV5BMl5BanBnXkFtZTcwMjMwMzgyMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.8",
+  "imdbID": "tt0025271",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:35:11.199Z"
+}

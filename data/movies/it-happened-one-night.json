@@ -1,0 +1,35 @@
+{
+  "title": "It Happened One Night",
+  "year": "1934",
+  "rated": "Approved",
+  "released": "22 Feb 1934",
+  "runtime": "105 min",
+  "genre": "Comedy, Romance",
+  "director": "Frank Capra",
+  "writer": "Robert Riskin, Samuel Hopkins Adams",
+  "actors": "Clark Gable, Claudette Colbert, Walter Connolly",
+  "plot": "A rogue reporter trailing a runaway heiress for a big story joins her on a bus heading from Florida to New York and they end up stuck with each other when the bus leaves them behind at one of the stops along the way.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 5 Oscars. 14 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjg2ZmQ3ZGQtMTlhYS00NTcwLWI2NDAtNmM5OThjNDUwOTJlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "8.1",
+  "imdbID": "tt0025316",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:31:59.484Z"
+}

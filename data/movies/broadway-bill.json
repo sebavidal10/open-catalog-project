@@ -1,0 +1,31 @@
+{
+  "title": "Broadway Bill",
+  "year": "1934",
+  "rated": "G",
+  "released": "27 Dec 1934",
+  "runtime": "104 min",
+  "genre": "Comedy, Drama",
+  "director": "Frank Capra",
+  "writer": "Robert Riskin, Mark Hellinger, Sidney Buchman",
+  "actors": "Warner Baxter, Myrna Loy, Walter Connolly",
+  "plot": "A runaway heiress and her sister's husband join forces to race the latter's fast horse, Broadway Bill.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTRiMzc5ZGItODYyZi00ZDUyLTgzNTYtN2VhNGJlMTUxYjE4XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0024916",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:34:38.316Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Lost Patrol",
+  "year": "1934",
+  "rated": "Approved",
+  "released": "16 Feb 1934",
+  "runtime": "73 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "John Ford",
+  "writer": "Dudley Nichols, Garrett Fort, Philip MacDonald",
+  "actors": "Victor McLaglen, Boris Karloff, Wallace Ford",
+  "plot": "A dozen British soldiers, lost in a Mesopotamian desert during World War I, are menaced by unseen Arab enemies.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 3 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2I3YzI3YzgtNzViOC00ZWU1LTg3NTctNGUwMmIxMGQ5M2Q3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0025423",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:32:18.319Z"
+}

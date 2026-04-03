@@ -1,0 +1,35 @@
+{
+  "title": "Death Takes a Holiday",
+  "year": "1934",
+  "rated": "Approved",
+  "released": "30 Mar 1934",
+  "runtime": "79 min",
+  "genre": "Drama, Fantasy, Romance",
+  "director": "Mitchell Leisen",
+  "writer": "Maxwell Anderson, Gladys Lehman, Alberto Casella",
+  "actors": "Fredric March, Evelyn Venable, Guy Standing",
+  "plot": "The Grim Reaper takes the form of a Prince in an attempt to relate to humans and, along the way, also learns what it is to love.",
+  "language": "English, French, Italian",
+  "country": "United States",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAwNzAxOTMxOF5BMl5BanBnXkFtZTgwMzMzNzY2MjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "metascore": "53",
+  "imdbRating": "6.9",
+  "imdbID": "tt0025037",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:32:25.389Z"
+}

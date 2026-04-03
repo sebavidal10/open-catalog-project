@@ -1,0 +1,27 @@
+{
+  "title": "Anne of Green Gables",
+  "year": "1934",
+  "rated": "Approved",
+  "released": "23 Nov 1934",
+  "runtime": "78 min",
+  "genre": "Comedy, Drama, Family",
+  "director": "George Nicholls Jr.",
+  "writer": "Sam Mintz, Lucy Maud Montgomery",
+  "actors": "Anne Shirley, Tom Brown, O.P. Heggie",
+  "plot": "A romantic teenage girl is adopted by a pair of elderly siblings in turn-of-the-century Canada.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODFkOWI4MzAtZmFhYy00OTkxLWI5OWMtMjA0MTlkOWNiNGExXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0024831",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:32:33.621Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Ace of Aces",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "20 Oct 1933",
+  "runtime": "76 min",
+  "genre": "Drama, War",
+  "director": "J. Walter Ruben",
+  "writer": "John Monk Saunders, H.W. Hanemann",
+  "actors": "Richard Dix, Elizabeth Allan, Ralph Bellamy",
+  "plot": "A sculptor who doesn't want to have any part of World War I is shamed by his girlfriend into joining the army. He becomes a fighter pilot, and undergoes a complete personality change.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTU3MDM0NjM3NV5BMl5BanBnXkFtZTgwOTc3Njk1MDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0023737",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:27:07.741Z"
+}

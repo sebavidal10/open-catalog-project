@@ -1,0 +1,35 @@
+{
+  "title": "King Kong",
+  "year": "1933",
+  "rated": "Approved",
+  "released": "07 Apr 1933",
+  "runtime": "100 min",
+  "genre": "Adventure, Horror",
+  "director": "Merian C. Cooper, Ernest B. Schoedsack",
+  "writer": "James Ashmore Creelman, Ruth Rose, Merian C. Cooper",
+  "actors": "Fay Wray, Robert Armstrong, Bruce Cabot",
+  "plot": "A film crew goes to a tropical island for a location shoot, where they capture a colossal ape who takes a shine to their blonde starlet, and bring him back to New York City.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmJmMzc0OWEtNTUxMC00ZjY1LTg2ZDctYjVkNTc1NjMxMWQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "metascore": "92",
+  "imdbRating": "7.9",
+  "imdbID": "tt0024216",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:21:57.315Z"
+}

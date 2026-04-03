@@ -1,0 +1,35 @@
+{
+  "title": "Son of Kong",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "22 Dec 1933",
+  "runtime": "70 min",
+  "genre": "Adventure, Family, Sci-Fi",
+  "director": "Ernest B. Schoedsack",
+  "writer": "Ruth Rose",
+  "actors": "Robert Armstrong, Helen Mack, Frank Reicher",
+  "plot": "The showman who brought Kong to New York returns to Skull Island and finds Kong's son, a spunky 12-footer with a winning personality and his dad's awesome strength.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGNiYmI5MDItOTQxMy00MzliLWFkZDAtNTc5MDg5MGE2ZmE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "42%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "metascore": "50",
+  "imdbRating": "5.6",
+  "imdbID": "tt0024593",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:22:51.200Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Cavalcade",
+  "year": "1933",
+  "rated": "Approved",
+  "released": "15 Apr 1933",
+  "runtime": "112 min",
+  "genre": "Drama, Romance, War",
+  "director": "Frank Lloyd",
+  "writer": "Noël Coward, Reginald Berkeley",
+  "actors": "Diana Wynyard, Clive Brook, Una O'Connor",
+  "plot": "A portrayal of the triumphs and tragedies of two English families, the upper-crust Marryots and the working-class Bridgeses, from 1899 to 1933.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 9 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTVlNzZiZmEtYmIzMC00OGJiLWJkMzAtNjQ2NzY4OGFjZmE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "5.8",
+  "imdbID": "tt0023876",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:22:22.090Z"
+}

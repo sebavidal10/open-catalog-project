@@ -1,0 +1,27 @@
+{
+  "title": "The Man from Monterey",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "15 Jul 1933",
+  "runtime": "57 min",
+  "genre": "Adventure, Music, Romance",
+  "director": "Mack V. Wright",
+  "writer": "Leslie Mason",
+  "actors": "John Wayne, Duke, Ruth Hall",
+  "plot": "A cavalry officer helps save a family's ranch from land grabbers.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWM2NjRkY2YtNTFlMy00N2I3LTg4MDEtZmEyMjgzNzk3ZWZkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.3",
+  "imdbID": "tt0024293",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:25:32.403Z"
+}

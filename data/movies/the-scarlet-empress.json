@@ -1,0 +1,31 @@
+{
+  "title": "The Scarlet Empress",
+  "year": "1934",
+  "rated": "Approved",
+  "released": "07 Sep 1934",
+  "runtime": "104 min",
+  "genre": "Drama, History, Romance",
+  "director": "Josef von Sternberg",
+  "writer": "Manuel Komroff, Eleanor McGeary",
+  "actors": "Marlene Dietrich, John Lodge, Sam Jaffe",
+  "plot": "A German noblewoman enters into a loveless marriage with the dim-witted, unstable heir to the Russian throne, then plots to oust him from power.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWRkZWRkNjAtYTkxNi00OGMwLWI4ZDItOTJmMzg4NjlmN2JkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0025746",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:32:19.498Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "A Study in Scarlet",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "14 May 1933",
+  "runtime": "72 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Edwin L. Marin",
+  "writer": "Arthur Conan Doyle, Robert Florey, Reginald Owen",
+  "actors": "Reginald Owen, Anna May Wong, June Clyde",
+  "plot": "Holmes and Watson investigate a secret society with members who keep dying.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWIwNDZhNGUtODQxNC00ZWNkLWE1ZDQtNmViN2I1YmZjYjU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0024625",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:23:15.923Z"
+}

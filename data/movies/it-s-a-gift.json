@@ -1,0 +1,31 @@
+{
+  "title": "It's a Gift",
+  "year": "1934",
+  "rated": "Approved",
+  "released": "30 Nov 1934",
+  "runtime": "68 min",
+  "genre": "Comedy",
+  "director": "Norman Z. McLeod",
+  "writer": "Jack Cunningham, J.P. McEvoy, W.C. Fields",
+  "actors": "W.C. Fields, Kathleen Howard, Jean Rouverol",
+  "plot": "A henpecked New Jersey grocer makes plans to move to California to grow oranges, despite the resistance of his overbearing wife.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTRhMjI3ODAtM2M2ZC00NDdkLWE0ZmMtYmIwZTMwMDhlMTk0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0025318",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:32:34.803Z"
+}

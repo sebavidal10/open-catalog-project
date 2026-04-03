@@ -1,0 +1,35 @@
+{
+  "title": "The Invisible Man",
+  "year": "1933",
+  "rated": "Approved",
+  "released": "13 Nov 1933",
+  "runtime": "71 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "James Whale",
+  "writer": "H.G. Wells, R.C. Sherriff, Preston Sturges",
+  "actors": "Claude Rains, Gloria Stuart, William Harrigan",
+  "plot": "A scientist finds a way of becoming invisible, but in doing so, he becomes murderously insane.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjczZWMwYmItMzM1Ny00NTUxLWEwOGUtYzZkODUwMDI3ZjQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.6",
+  "imdbID": "tt0024184",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:21:58.501Z"
+}

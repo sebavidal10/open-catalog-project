@@ -1,0 +1,31 @@
+{
+  "title": "Going Hollywood",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "22 Dec 1933",
+  "runtime": "78 min",
+  "genre": "Musical, Romance",
+  "director": "Raoul Walsh",
+  "writer": "Donald Ogden Stewart, Frances Marion",
+  "actors": "Marion Davies, Bing Crosby, Fifi D'Orsay",
+  "plot": "A love-struck teacher pursues a radio singer to Hollywood.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQ0MGM2NmQtNTU1MS00NDVhLWJkNjMtZTE1M2Y2MjYwMTMyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0024067",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:23:14.751Z"
+}

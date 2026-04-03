@@ -1,0 +1,31 @@
+{
+  "title": "Only Yesterday",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "01 Nov 1933",
+  "runtime": "105 min",
+  "genre": "Drama, Romance",
+  "director": "John M. Stahl",
+  "writer": "Frederick Lewis Allen, William Hurlbut, Arthur Richman",
+  "actors": "Margaret Sullavan, John Boles, Edna May Oliver",
+  "plot": "A one-night fling during World War I results in a young girl getting pregnant. Years later, she meets him again. Now a successful businessman, he doesn't even remember her, but tries to seduce her.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTFkNWI0MDktOTgzNi00ZTQzLWE5NmQtNTE5YjE5ZjM0ZmY1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0024418",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:23:47.711Z"
+}

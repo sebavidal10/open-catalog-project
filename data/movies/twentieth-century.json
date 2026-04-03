@@ -1,0 +1,31 @@
+{
+  "title": "Twentieth Century",
+  "year": "1934",
+  "rated": "Approved",
+  "released": "11 May 1934",
+  "runtime": "91 min",
+  "genre": "Comedy, Romance",
+  "director": "Howard Hawks",
+  "writer": "Charles Bruce Millholland, Ben Hecht, Charles MacArthur",
+  "actors": "John Barrymore, Carole Lombard, Walter Connolly",
+  "plot": "A flamboyant Broadway impresario who has fallen on hard times tries to get his former lover, now a Hollywood diva, to return and resurrect his failing career.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODFlNTVhOWMtMWNlNC00ZmVkLTlkZGQtNWVjYWE5NWNiOTZkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0025919",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:32:28.916Z"
+}

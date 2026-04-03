@@ -1,0 +1,31 @@
+{
+  "title": "The Scarlet Pimpernel",
+  "year": "1934",
+  "rated": "Approved",
+  "released": "07 Feb 1935",
+  "runtime": "97 min",
+  "genre": "Adventure, Drama",
+  "director": "Harold Young",
+  "writer": "Baroness Emmuska Orczy, Alexander Korda, Montagu Barstow",
+  "actors": "Leslie Howard, Merle Oberon, Raymond Massey",
+  "plot": "A noblewoman discovers her husband is The Scarlet Pimpernel, a vigilante who rescues aristocrats from the blade of the guillotine.",
+  "language": "English, French",
+  "country": "United Kingdom",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODY3Nzk1ZDUtNTlhOC00YWI1LTkwYjQtN2M1YjJhMWM3ZmQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0025748",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:32:17.140Z"
+}

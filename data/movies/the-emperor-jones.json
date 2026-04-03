@@ -1,0 +1,31 @@
+{
+  "title": "The Emperor Jones",
+  "year": "1933",
+  "rated": "Approved",
+  "released": "29 Sep 1933",
+  "runtime": "72 min",
+  "genre": "Drama, Music",
+  "director": "Dudley Murphy, William C. de Mille",
+  "writer": "Eugene O'Neill, DuBose Heyward",
+  "actors": "Paul Robeson, Dudley Digges, Frank H. Wilson",
+  "plot": "Unscrupulously ambitious Brutus Jones escapes from jail after killing a guard and through bluff and bravado finds himself the emperor of a Caribbean island.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NzQ2ODY3Nl5BMl5BanBnXkFtZTgwNzIyMzQwMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0023985",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:23:04.128Z"
+}

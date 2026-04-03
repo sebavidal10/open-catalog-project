@@ -1,0 +1,31 @@
+{
+  "title": "Christopher Strong",
+  "year": "1933",
+  "rated": "Approved",
+  "released": "31 Mar 1933",
+  "runtime": "78 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Dorothy Arzner",
+  "writer": "Zoe Akins, Gilbert Frankau",
+  "actors": "Katharine Hepburn, Colin Clive, Billie Burke",
+  "plot": "A famous female flier and a member of Parliament drift into a potentially disastrous affair.",
+  "language": "English, French, German, Russian, Japanese, Latin",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2I4NTUwZWUtZWY0OS00ZWQ0LWI0MjQtZTZiMDkzNWNmYzJjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0023891",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:22:45.338Z"
+}

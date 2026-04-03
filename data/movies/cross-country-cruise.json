@@ -1,0 +1,27 @@
+{
+  "title": "Cross Country Cruise",
+  "year": "1934",
+  "rated": "Passed",
+  "released": "15 Jan 1934",
+  "runtime": "72 min",
+  "genre": "Adventure, Comedy, Drama",
+  "director": "Edward Buzzell",
+  "writer": "Elmer Harris, Stanley Rauh",
+  "actors": "Lew Ayres, June Knight, Alice White",
+  "plot": "Story of several passengers, including an escaped killer, on a cross-country bus trip.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjE3MWUxN2UtZmEyYS00NzcyLWI2M2UtYTU0OGE3MGFjMzliXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0025015",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:39:22.918Z"
+}

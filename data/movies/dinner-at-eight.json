@@ -1,0 +1,31 @@
+{
+  "title": "Dinner at Eight",
+  "year": "1933",
+  "rated": "Approved",
+  "released": "12 Jan 1934",
+  "runtime": "111 min",
+  "genre": "Drama",
+  "director": "George Cukor",
+  "writer": "Frances Marion, Herman J. Mankiewicz, George S. Kaufman",
+  "actors": "Marie Dressler, John Barrymore, Wallace Beery",
+  "plot": "As an aspiring New York socialite prepares for a lavish dinner party, her guests find themselves consumed by a tangle of business, romantic, and personal crises - all of which come to a head on the big night.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDc0MjBlYzctMGNiMS00YmY4LThhMzQtZmZhZDk5YzczOTlkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0023948",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:22:23.261Z"
+}

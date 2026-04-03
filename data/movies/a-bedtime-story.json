@@ -1,0 +1,27 @@
+{
+  "title": "A Bedtime Story",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "22 Apr 1933",
+  "runtime": "87 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Norman Taurog",
+  "writer": "Roy Horniman, Benjamin Glazer, Nunnally Johnson",
+  "actors": "Maurice Chevalier, Helen Twelvetrees, Edward Everett Horton",
+  "plot": "Parisian playboy plays father to an abandoned baby who interferes with his womanizing.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzhlMzFiOWEtZjMwYy00MjM0LWJkNzQtOTI5OTMxZjUyY2EwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0023787",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:24:17.109Z"
+}

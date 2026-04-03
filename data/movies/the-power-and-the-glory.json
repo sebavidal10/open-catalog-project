@@ -1,0 +1,31 @@
+{
+  "title": "The Power and the Glory",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "06 Oct 1933",
+  "runtime": "76 min",
+  "genre": "Drama",
+  "director": "William K. Howard",
+  "writer": "Preston Sturges",
+  "actors": "Spencer Tracy, Colleen Moore, Ralph Morgan",
+  "plot": "The tragic life story of a power-hungry industrialist is recounted in the aftermath of his death.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODgxNTZiZGMtMWE1Yy00MTNiLTkxYmItMmUxNjYwNTU4MzhiXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0024465",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:23:54.779Z"
+}

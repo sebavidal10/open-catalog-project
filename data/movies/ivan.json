@@ -1,0 +1,27 @@
+{
+  "title": "Ivan",
+  "year": "1932",
+  "rated": "N/A",
+  "released": "06 Nov 1932",
+  "runtime": "83 min",
+  "genre": "Drama",
+  "director": "Aleksandr Dovzhenko",
+  "writer": "Aleksandr Dovzhenko",
+  "actors": "K. Bondarevsky, Dmitri Golubinsky, Elena Golki",
+  "plot": "A young farmer and his lazy father try to help with the construction of the Dniprohes, but he learns that strength is not enough for a worker and joins the Communist party.",
+  "language": "Ukrainian",
+  "country": "Soviet Union",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzIxYzAxYzYtMzQ1Yy00NTljLWE4MWUtMGE2NDhiYjI1MTQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0023071",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:18:34.375Z"
+}

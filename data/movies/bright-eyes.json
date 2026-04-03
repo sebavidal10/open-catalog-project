@@ -1,0 +1,31 @@
+{
+  "title": "Bright Eyes",
+  "year": "1934",
+  "rated": "PG",
+  "released": "28 Dec 1934",
+  "runtime": "85 min",
+  "genre": "Comedy, Drama, Family",
+  "director": "David Butler",
+  "writer": "William M. Conselman, David Butler, Edwin J. Burke",
+  "actors": "Shirley Temple, James Dunn, Jane Darwell",
+  "plot": "An orphaned girl is taken in by a snobbish family at the insistence of their rich, crotchety uncle, even as her devoted aviator godfather fights for custody.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2NlZjhkYTQtODg4Yy00NTU2LTkwM2YtZWY0OTBkNWQ3MjZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0024914",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:32:48.929Z"
+}

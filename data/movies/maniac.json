@@ -1,0 +1,31 @@
+{
+  "title": "Maniac",
+  "year": "1934",
+  "rated": "Not Rated",
+  "released": "11 Sep 1934",
+  "runtime": "51 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Dwain Esper",
+  "writer": "Hildegarde Stadie",
+  "actors": "Bill Woods, Horace B. Carpenter, Ted Edwards",
+  "plot": "A former vaudevillian gifted at impersonation assists a mad scientist in reanimating corpses and soon goes mad himself.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDFiNmJhYTQtYWQ0MS00OTEwLWJkNjQtMDIzNWQ3NjExMTg4XkEyXkFqcGdeQXVyOTI2MjI5MQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "3.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "3.7",
+  "imdbID": "tt0025465",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:32:32.444Z"
+}

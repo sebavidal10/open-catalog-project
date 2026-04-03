@@ -1,0 +1,31 @@
+{
+  "title": "The Barretts of Wimpole Street",
+  "year": "1934",
+  "rated": "Passed",
+  "released": "21 Sep 1934",
+  "runtime": "109 min",
+  "genre": "Biography, Drama, Romance",
+  "director": "Sidney Franklin",
+  "writer": "Rudolph Besier, Ernest Vajda, Claudine West",
+  "actors": "Norma Shearer, Fredric March, Charles Laughton",
+  "plot": "Elizabeth Barrett's tyrannical father has forbidden any of his family to marry. Nevertheless, Elizabeth falls in love with the poet Robert Browning.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 6 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmYyMDM0ZWEtN2Q2My00NjliLWEwNTAtYjBkMTUyNDU0M2Q4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0024865",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:32:30.096Z"
+}

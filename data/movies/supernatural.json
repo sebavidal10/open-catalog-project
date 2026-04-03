@@ -1,0 +1,31 @@
+{
+  "title": "Supernatural",
+  "year": "1933",
+  "rated": "Approved",
+  "released": "12 May 1933",
+  "runtime": "65 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Victor Halperin",
+  "writer": "Garnett Weston, Harvey F. Thew, Brian Marlow",
+  "actors": "Carole Lombard, Randolph Scott, Alan Dinehart",
+  "plot": "A serial black widow murderess returns to life in the body of a young woman to exact revenge on a former lover, a phony spiritualist who betrayed her.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmFhZDVmZTctNmNjNC00MWRmLTgzM2MtYzAxM2E0OWQxODM3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0024631",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:22:57.072Z"
+}

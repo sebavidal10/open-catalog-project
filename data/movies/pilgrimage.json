@@ -1,0 +1,31 @@
+{
+  "title": "Pilgrimage",
+  "year": "1933",
+  "rated": "Approved",
+  "released": "18 Aug 1933",
+  "runtime": "96 min",
+  "genre": "Drama",
+  "director": "John Ford",
+  "writer": "Barry Conners, Henry Johnson, Philip Klein",
+  "actors": "Henrietta Crosman, Heather Angel, Norman Foster",
+  "plot": "A possessive mother pushes her son into World War I service rather than see him get married.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGIzYjgwZWUtMmNhYy00ZTc1LWEyMDktN2M5ZmViNWI3NTk2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0024453",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:23:59.500Z"
+}

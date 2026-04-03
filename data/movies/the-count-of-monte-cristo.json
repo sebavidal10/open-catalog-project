@@ -1,0 +1,31 @@
+{
+  "title": "The Count of Monte Cristo",
+  "year": "1934",
+  "rated": "Approved",
+  "released": "07 Sep 1934",
+  "runtime": "113 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Rowland V. Lee",
+  "writer": "Alexandre Dumas, Philip Dunne, Dan Totheroh",
+  "actors": "Robert Donat, Elissa Landi, Louis Calhern",
+  "plot": "After greedy men have Edmond Dantes unjustly imprisoned for 20 years for innocently delivering a letter entrusted to him, he escapes to get his revenge on them.",
+  "language": "English, American Sign ",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmY1MzRlNzgtZWU5Zi00Mjc3LTkxNzctN2IxZjJlM2Y1NzcxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0025004",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:32:06.543Z"
+}

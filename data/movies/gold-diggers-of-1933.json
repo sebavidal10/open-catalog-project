@@ -1,0 +1,31 @@
+{
+  "title": "Gold Diggers of 1933",
+  "year": "1933",
+  "rated": "Passed",
+  "released": "27 May 1933",
+  "runtime": "97 min",
+  "genre": "Comedy, Drama, Musical",
+  "director": "Mervyn LeRoy",
+  "writer": "Erwin Gelsey, James Seymour, David Boehm",
+  "actors": "Warren William, Joan Blondell, Aline MacMahon",
+  "plot": "A wealthy composer rescues unemployed Broadway performers with a new play, but insists on remaining anonymous.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 4 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyMTQ4MzQwOF5BMl5BanBnXkFtZTgwMzA4NDE1MjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0024069",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:22:11.473Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "42nd Street",
+  "year": "1933",
+  "rated": "Approved",
+  "released": "11 Mar 1933",
+  "runtime": "89 min",
+  "genre": "Comedy, Drama, Musical",
+  "director": "Lloyd Bacon",
+  "writer": "Rian James, James Seymour, Bradford Ropes",
+  "actors": "Warner Baxter, Bebe Daniels, George Brent",
+  "plot": "When the leading lady of a Broadway musical breaks her ankle, she is replaced by a young unknown actress, who becomes the star of the show.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjY2NDYwNGEtOThiZS00ZWQyLWE5OTAtMTUwMjZlOTQ4ZWFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.3",
+  "imdbID": "tt0024034",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:22:09.110Z"
+}

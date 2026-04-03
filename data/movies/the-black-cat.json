@@ -1,0 +1,31 @@
+{
+  "title": "The Black Cat",
+  "year": "1934",
+  "rated": "Not Rated",
+  "released": "07 May 1934",
+  "runtime": "65 min",
+  "genre": "Crime, Horror, Romance",
+  "director": "Edgar G. Ulmer",
+  "writer": "Edgar Allan Poe, Peter Ruric, Edgar G. Ulmer",
+  "actors": "Boris Karloff, Bela Lugosi, David Manners",
+  "plot": "Stranded honeymooners follow mad doctor to manor.",
+  "language": "English, Latin, Hungarian",
+  "country": "United States",
+  "awards": "2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzRlNjUzMGQtMGM2MS00ODY0LWI1NjktMjNmY2EyYjdmNmFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0024894",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:32:11.253Z"
+}

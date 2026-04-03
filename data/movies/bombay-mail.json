@@ -1,0 +1,27 @@
+{
+  "title": "Bombay Mail",
+  "year": "1934",
+  "rated": "Passed",
+  "released": "06 Jan 1934",
+  "runtime": "70 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Edwin L. Marin",
+  "writer": "Lawrence G. Blochman, Tom Reed",
+  "actors": "Edmund Lowe, Shirley Grey, Onslow Stevens",
+  "plot": "In India, a police inspector investigates a murder that took place on a train between Calcutta and Bombay.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGZjZDdiNWUtMmEwYy00M2U2LThkY2YtYWRkY2MxMmQ2NjNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0024904",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:37:45.305Z"
+}

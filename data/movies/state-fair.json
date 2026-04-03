@@ -1,0 +1,31 @@
+{
+  "title": "State Fair",
+  "year": "1933",
+  "rated": "Approved",
+  "released": "10 Feb 1933",
+  "runtime": "99 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Henry King",
+  "writer": "Sonya Levien, Paul Green, Philip Stong",
+  "actors": "Janet Gaynor, Will Rogers, Lew Ayres",
+  "plot": "An Iowa family finds adventure, love, and heartbreak when they spend a week at the state fair.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWEwOWI5M2YtNmQwYi00MzI5LTllYjgtNTFiZDcwNGIwOGM3XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0024610",
+  "type": "movie",
+  "fetched_at": "2026-04-03T23:22:59.428Z"
+}
