@@ -1,0 +1,31 @@
+{
+  "title": "Peter Ibbetson",
+  "year": "1935",
+  "rated": "Approved",
+  "released": "07 Nov 1935",
+  "runtime": "85 min",
+  "genre": "Drama, Fantasy, Romance",
+  "director": "Henry Hathaway",
+  "writer": "Vincent Lawrence, Waldemar Young, John Meehan",
+  "actors": "Gary Cooper, Ann Harding, John Halliday",
+  "plot": "A Victorian-era architect commissioned by the Duke of Towers to design his stables falls in love with the Duchess.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2VjMTY5MTgtMGEwMy00YTUxLWE1YjktZWZiM2IzYzM1M2EzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0026866",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:53:13.077Z"
+}

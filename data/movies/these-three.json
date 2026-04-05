@@ -1,0 +1,31 @@
+{
+  "title": "These Three",
+  "year": "1936",
+  "rated": "Approved",
+  "released": "18 Mar 1936",
+  "runtime": "93 min",
+  "genre": "Drama, Romance",
+  "director": "William Wyler",
+  "writer": "Lillian Hellman",
+  "actors": "Miriam Hopkins, Merle Oberon, Joel McCrea",
+  "plot": "Two schoolteachers and the man they both love face ruin when a malicious student cooks up a lie.",
+  "language": "English, German, French, Latin",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 3 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjc0OGQyYmMtZmVmNS00NzU4LTg5MGEtYWViMTIzMjBlOWU1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0028356",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:45:54.831Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Fury",
+  "year": "1936",
+  "rated": "Approved",
+  "released": "05 Jun 1936",
+  "runtime": "92 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Fritz Lang",
+  "writer": "Bartlett Cormack, Fritz Lang, Norman Krasna",
+  "actors": "Sylvia Sidney, Spencer Tracy, Walter Abel",
+  "plot": "When a wrongly-accused prisoner barely survives a lynch-mob attack and is presumed dead, he vindictively decides to fake his death and frame the mob for his supposed murder.",
+  "language": "English, Latin",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2I2NjMxNTYtZmI3ZS00ZmZiLWFiNzctNmIwZjQ1MWE3YzUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0027652",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:45:45.426Z"
+}

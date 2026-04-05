@@ -1,0 +1,31 @@
+{
+  "title": "Tarzan Escapes",
+  "year": "1936",
+  "rated": "Approved",
+  "released": "06 Nov 1936",
+  "runtime": "89 min",
+  "genre": "Action, Adventure, Family",
+  "director": "Richard Thorpe, John Farrow, James C. McKay",
+  "writer": "Cyril Hume, Edgar Rice Burroughs, Jack Cummings",
+  "actors": "Johnny Weissmuller, Maureen O'Sullivan, John Buckler",
+  "plot": "An expedition seeking to bring Jane back to civilization, and Tarzan into captivity, gets more than it's bargained for.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWExOWVjZTMtYmFjNS00YTc1LWI2OTktNWQ3MWE0MzVlODJiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0028345",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:46:17.169Z"
+}

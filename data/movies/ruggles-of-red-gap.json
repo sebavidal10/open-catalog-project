@@ -1,0 +1,31 @@
+{
+  "title": "Ruggles of Red Gap",
+  "year": "1935",
+  "rated": "Approved",
+  "released": "08 Mar 1935",
+  "runtime": "90 min",
+  "genre": "Comedy, Mystery, Romance",
+  "director": "Leo McCarey",
+  "writer": "Harry Leon Wilson, Walter DeLeon, Harlan Thompson",
+  "actors": "Charles Laughton, Mary Boland, Charles Ruggles",
+  "plot": "An English valet brought to the American west assimilates into the American way of life.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 5 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTAwNTUwZTUtN2EwMi00YjJlLTg1NTAtZGJlYWUzMGYwN2MwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0026955",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:53:14.250Z"
+}

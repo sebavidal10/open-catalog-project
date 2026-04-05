@@ -1,0 +1,35 @@
+{
+  "title": "Top Hat",
+  "year": "1935",
+  "rated": "Approved",
+  "released": "06 Sep 1935",
+  "runtime": "101 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Mark Sandrich",
+  "writer": "Dwight Taylor, Allan Scott, Sándor Faragó",
+  "actors": "Fred Astaire, Ginger Rogers, Edward Everett Horton",
+  "plot": "An American dancer comes to Britain and falls for a model whom he initially annoyed, but she mistakes him for his goofy producer.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 7 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzUzZWE4NzctYzlkYS00NDkwLTljYjMtNWQwMDY4NGExZmJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "93/100"
+    }
+  ],
+  "metascore": "93",
+  "imdbRating": "7.7",
+  "imdbID": "tt0027125",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:52:35.443Z"
+}

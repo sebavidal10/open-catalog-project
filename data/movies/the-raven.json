@@ -1,0 +1,35 @@
+{
+  "title": "The Raven",
+  "year": "1935",
+  "rated": "Approved",
+  "released": "08 Jul 1935",
+  "runtime": "61 min",
+  "genre": "Crime, Horror",
+  "director": "Lew Landers",
+  "writer": "Edgar Allan Poe, David Boehm, Guy Endore",
+  "actors": "Boris Karloff, Bela Lugosi, Lester Matthews",
+  "plot": "A brilliant surgeon with a morbid obsession for instruments of torture grows dangerously obsessed with a young socialite whose life he's saved.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGU1MjI3ZmItN2E2NC00MmEwLTg0M2YtMDVlMzVjNTZhZTZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "44/100"
+    }
+  ],
+  "metascore": "44",
+  "imdbRating": "6.8",
+  "imdbID": "tt0026912",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:53:21.315Z"
+}

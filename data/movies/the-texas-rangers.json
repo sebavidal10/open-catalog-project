@@ -1,0 +1,31 @@
+{
+  "title": "The Texas Rangers",
+  "year": "1936",
+  "rated": "Approved",
+  "released": "28 Aug 1936",
+  "runtime": "98 min",
+  "genre": "Drama, Western",
+  "director": "King Vidor",
+  "writer": "King Vidor, Elizabeth Hill, Louis Stevens",
+  "actors": "Fred MacMurray, Jack Oakie, Jean Parker",
+  "plot": "Two down-on-their-luck former outlaws volunteer to be Texas Rangers and find themselves assigned to bring in an old friend, now a notorious outlaw.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmY2ODljMDgtNTA5Ni00NDdlLTg4N2ItZmMyMjNkNGQ3NWE1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0028352",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:47:21.614Z"
+}

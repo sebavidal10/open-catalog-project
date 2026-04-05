@@ -1,0 +1,27 @@
+{
+  "title": "Hi, Gaucho!",
+  "year": "1935",
+  "rated": "Passed",
+  "released": "11 Oct 1935",
+  "runtime": "59 min",
+  "genre": "Comedy, Drama, Musical",
+  "director": "Thomas Atkins",
+  "writer": "Thomas Atkins, Adele Buffington",
+  "actors": "John Carroll, Steffi Duna, Rod La Rocque",
+  "plot": "The setting is Argentina. When an outlaw band holds up a stage, their leader finds an old man from Spain who has just arrived to marry into a very rich family. So he assumes his identity while his men detain the old man. Although ...",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzg1Zjg3YjYtN2ZkZC00YWNjLWI2YjMtOTExODA2OWY1ZGZlXkEyXkFqcGdeQXVyMjQ0NzgwNzY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.3",
+  "imdbID": "tt0027739",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:59:27.857Z"
+}

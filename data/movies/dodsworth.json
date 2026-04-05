@@ -1,0 +1,31 @@
+{
+  "title": "Dodsworth",
+  "year": "1936",
+  "rated": "Approved",
+  "released": "23 Sep 1936",
+  "runtime": "101 min",
+  "genre": "Drama, Romance",
+  "director": "William Wyler",
+  "writer": "Sinclair Lewis, Sidney Howard, Robert Wyler",
+  "actors": "Walter Huston, Ruth Chatterton, Paul Lukas",
+  "plot": "A retired auto manufacturer and his wife take a long-planned European vacation only to find that they want very different things from life.",
+  "language": "English, French, German, Italian",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 6 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOThmMGMyZWUtODFkMS00ZDMyLTg1OTYtYWI5NmI3YTI4NDgwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0027532",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:45:53.657Z"
+}

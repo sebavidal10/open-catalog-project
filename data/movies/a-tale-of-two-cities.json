@@ -1,0 +1,35 @@
+{
+  "title": "A Tale of Two Cities",
+  "year": "1935",
+  "rated": "Approved",
+  "released": "25 Dec 1935",
+  "runtime": "128 min",
+  "genre": "Drama, History, Romance",
+  "director": "Jack Conway, Robert Z. Leonard",
+  "writer": "Charles Dickens, W.P. Lipscomb, S.N. Behrman",
+  "actors": "Ronald Colman, Elizabeth Allan, Edna May Oliver",
+  "plot": "A pair of lookalikes, one a former French aristocrat and the other an alcoholic English lawyer, fall in love with the same woman amidst the turmoil of the French Revolution.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcxODdmNmYtNGNlNi00MDMxLWIyM2ItYThkNjdkYmQwZjBkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.8",
+  "imdbID": "tt0027075",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:52:41.320Z"
+}

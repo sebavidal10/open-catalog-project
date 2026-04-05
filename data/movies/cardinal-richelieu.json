@@ -1,0 +1,31 @@
+{
+  "title": "Cardinal Richelieu",
+  "year": "1935",
+  "rated": "Approved",
+  "released": "28 Apr 1935",
+  "runtime": "82 min",
+  "genre": "Drama, History, Romance",
+  "director": "Rowland V. Lee",
+  "writer": "Edward George Bulwer-Lytton, Cameron Rogers, Maude T. Howell",
+  "actors": "George Arliss, Maureen O'Sullivan, Edward Arnold",
+  "plot": "The cunning Cardinal Richelieu must save King Louis XIII from treachery within his inner circle.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjExOGQyNDUtNmM5MC00MjhkLTkwMzYtYjEwYThjMTY5ZTU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0026180",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:56:34.185Z"
+}

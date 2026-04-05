@@ -1,0 +1,35 @@
+{
+  "title": "Roberta",
+  "year": "1935",
+  "rated": "Approved",
+  "released": "08 Mar 1935",
+  "runtime": "106 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "William A. Seiter",
+  "writer": "Jerome Kern, Otto A. Harbach, Alice Duer Miller",
+  "actors": "Irene Dunne, Fred Astaire, Ginger Rogers",
+  "plot": "An American jazzman and his buddy woo a Russian princess and a fake countess in Paris.",
+  "language": "English, French, Russian",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWU3N2MxNDEtNjI1ZS00NDgxLTg5OTgtMzlhYTZmOWU5MmJlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "7.0",
+  "imdbID": "tt0026942",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:53:09.547Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "The Walking Dead",
+  "year": "1936",
+  "rated": "Approved",
+  "released": "14 Mar 1936",
+  "runtime": "66 min",
+  "genre": "Crime, Drama, Horror",
+  "director": "Michael Curtiz",
+  "writer": "Ewart Adamson, Peter Milne, Robert Hardy Andrews",
+  "actors": "Boris Karloff, Ricardo Cortez, Edmund Gwenn",
+  "plot": "After hapless pianist and ex-con John Elman is framed for murder, he is resurrected by a scientist after his execution.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDM0NWE2OGYtNDdjMC00YjdjLThmOTYtM2IwNTY5ZGU0YTQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0028478",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:46:44.737Z"
+}

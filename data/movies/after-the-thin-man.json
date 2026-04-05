@@ -1,0 +1,35 @@
+{
+  "title": "After the Thin Man",
+  "year": "1936",
+  "rated": "Approved",
+  "released": "25 Dec 1936",
+  "runtime": "112 min",
+  "genre": "Comedy, Crime, Mystery",
+  "director": "W.S. Van Dyke",
+  "writer": "Frances Goodrich, Albert Hackett, Dashiell Hammett",
+  "actors": "William Powell, Myrna Loy, James Stewart",
+  "plot": "Private detective Nick Charles and his wealthy wife Nora are back home at last and hoping for a quiet New Year when there is a murder. The obvious suspect is his wife, Nora's cousin, Selma.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 4 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjM4NzM3MjA1OV5BMl5BanBnXkFtZTgwMzExODgwMzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.6",
+  "imdbID": "tt0027260",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:45:50.127Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "A Midsummer Night's Dream",
+  "year": "1935",
+  "rated": "Approved",
+  "released": "30 Oct 1935",
+  "runtime": "133 min",
+  "genre": "Comedy, Fantasy, Romance",
+  "director": "William Dieterle, Max Reinhardt",
+  "writer": "William Shakespeare, Charles Kenyon, Mary C. McCall Jr.",
+  "actors": "James Cagney, Dick Powell, Ian Hunter",
+  "plot": "Two couples and a troupe of actors have an encounter with some mischievous fairies in the forest.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjVkZjg1MjItNmRjNS00NWE4LWJlMGEtYTczMTU5ZWJiYmZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0026714",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:52:44.848Z"
+}

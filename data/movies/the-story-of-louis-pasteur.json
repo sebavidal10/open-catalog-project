@@ -1,0 +1,31 @@
+{
+  "title": "The Story of Louis Pasteur",
+  "year": "1936",
+  "rated": "Approved",
+  "released": "01 Feb 1936",
+  "runtime": "86 min",
+  "genre": "Biography, Drama, History",
+  "director": "William Dieterle",
+  "writer": "Sheridan Gibney, Pierre Collings, Edward Chodorov",
+  "actors": "Paul Muni, Josephine Hutchinson, Anita Louise",
+  "plot": "The biography of the pioneering French microbiologist who helped revolutionize agriculture and medicine.",
+  "language": "English, French, Russian",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 5 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDUxZDcxYmItMjUzNi00MDUwLTg1MzEtMzQ4OWE3ZmI2MWEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0028313",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:46:01.876Z"
+}

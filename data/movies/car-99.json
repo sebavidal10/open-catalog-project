@@ -1,0 +1,27 @@
+{
+  "title": "Car 99",
+  "year": "1935",
+  "rated": "Passed",
+  "released": "02 Mar 1935",
+  "runtime": "67 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Charles Barton",
+  "writer": "Karl Detzer, C. Gardner Sullivan",
+  "actors": "Fred MacMurray, Guy Standing, Ann Sheridan",
+  "plot": "A story of the Michigan State Police and the strong sense of loyalty and duty it instills in its men. It follows the career of a newly-inducted rookie, Ross Martin, who has joined the force at the urging of his sweetheart, Mary Ad...",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjBlODYxZWUtMjc3Yy00OTU0LWEwYmUtZjlkMTFjNDVjNTExXkEyXkFqcGdeQXVyNjUzNzcwMjc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0026178",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:56:29.496Z"
+}

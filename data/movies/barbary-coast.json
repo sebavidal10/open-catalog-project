@@ -1,0 +1,31 @@
+{
+  "title": "Barbary Coast",
+  "year": "1935",
+  "rated": "Approved",
+  "released": "27 Dec 1935",
+  "runtime": "91 min",
+  "genre": "Adventure, Drama, Romance",
+  "director": "Howard Hawks",
+  "writer": "Ben Hecht, Charles MacArthur, Edward Chodorov",
+  "actors": "Miriam Hopkins, Edward G. Robinson, Joel McCrea",
+  "plot": "Mary Rutledge arrives from the East, finds her fiance dead, and goes to work at the roulette wheel of Louis Charnalis' Bella Donna, a rowdy gambling house in 1850s San Francisco.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTQ0YjlmMDMtM2QyMC00NWQzLWFmNWUtMjU4Zjk3NzAxYTQ2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0026097",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:53:30.698Z"
+}

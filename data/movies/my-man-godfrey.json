@@ -1,0 +1,35 @@
+{
+  "title": "My Man Godfrey",
+  "year": "1936",
+  "rated": "Approved",
+  "released": "06 Sep 1936",
+  "runtime": "94 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Gregory La Cava",
+  "writer": "Morrie Ryskind, Eric Hatch, Zoe Akins",
+  "actors": "William Powell, Carole Lombard, Alice Brady",
+  "plot": "A scatterbrained socialite hires a vagrant as a family butler - but there's more to Godfrey than meets the eye.",
+  "language": "English, Russian",
+  "country": "United States",
+  "awards": "Nominated for 6 Oscars. 2 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTVlOTFjMzQtNGJmNy00ZTUwLTgwNWUtZWUyMzY2MGU3MjU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "7.9",
+  "imdbID": "tt0028010",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:45:36.027Z"
+}

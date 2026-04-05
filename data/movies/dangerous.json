@@ -1,0 +1,31 @@
+{
+  "title": "Dangerous",
+  "year": "1935",
+  "rated": "Approved",
+  "released": "25 Dec 1935",
+  "runtime": "79 min",
+  "genre": "Drama, Romance",
+  "director": "Alfred E. Green",
+  "writer": "Laird Doyle",
+  "actors": "Bette Davis, Franchot Tone, Margaret Lindsay",
+  "plot": "An alcoholic actress who is considered a dangerous jinx is rehabilitated, but she then shows that she's as dangerous as ever.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmZiNzZhMzYtMTAwOC00MTgwLWJhZDYtOTNlZGExMmY0MzZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0026261",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:53:15.430Z"
+}

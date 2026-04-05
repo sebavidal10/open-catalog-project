@@ -1,0 +1,31 @@
+{
+  "title": "Mark of the Vampire",
+  "year": "1935",
+  "rated": "Approved",
+  "released": "26 Apr 1935",
+  "runtime": "60 min",
+  "genre": "Horror, Mystery",
+  "director": "Tod Browning",
+  "writer": "Guy Endore, Bernard Schubert, John L. Balderston",
+  "actors": "Lionel Barrymore, Elizabeth Allan, Bela Lugosi",
+  "plot": "When a nobleman is murdered, a professor of the occult blames vampires, but not all is what it seems.",
+  "language": "English, Czech",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY4MTkxOTk1Nl5BMl5BanBnXkFtZTgwNjAyODgwMzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0026685",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:53:00.130Z"
+}

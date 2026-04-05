@@ -1,0 +1,31 @@
+{
+  "title": "Hands Across the Table",
+  "year": "1935",
+  "rated": "Approved",
+  "released": "18 Oct 1935",
+  "runtime": "80 min",
+  "genre": "Comedy, Romance",
+  "director": "Mitchell Leisen",
+  "writer": "Norman Krasna, Vincent Lawrence, Herbert Fields",
+  "actors": "Carole Lombard, Fred MacMurray, Ralph Bellamy",
+  "plot": "A loafer and a manicurist, both planning to marry money, meet and form an uneasy alliance.",
+  "language": "English, French, Norwegian",
+  "country": "United States",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmNmMjZhMjMtZGRlYS00ZWRiLThiODgtMmFiYzY1ODBhNDljXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0026452",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:53:44.807Z"
+}

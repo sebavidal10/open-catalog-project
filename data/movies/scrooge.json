@@ -1,0 +1,27 @@
+{
+  "title": "Scrooge",
+  "year": "1935",
+  "rated": "Approved",
+  "released": "30 Nov 1935",
+  "runtime": "78 min",
+  "genre": "Drama, Family, Fantasy",
+  "director": "Henry Edwards",
+  "writer": "Charles Dickens, H. Fowler Mear",
+  "actors": "Seymour Hicks, Donald Calthrop, Robert Cochran",
+  "plot": "Ebenezer Scrooge is a mean old miser who wants nothing to do with Christmas. The Ghosts of Christmas Past, Present and Yet to Come visit Scrooge on Christmas Eve, taking him on a journey into the very spirit and magic of Christmas...",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzE0ZDUxOGUtNWQ0Ni00ZTIxLWIxMDItZDFlZGRiOTA4MTA5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0026972",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:53:57.744Z"
+}

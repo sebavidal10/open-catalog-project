@@ -1,0 +1,35 @@
+{
+  "title": "Reefer Madness",
+  "year": "1936",
+  "rated": "PG",
+  "released": "01 Dec 1938",
+  "runtime": "66 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Louis J. Gasnier",
+  "writer": "Lawrence Meade, Arthur Hoerl, Paul Franklin",
+  "actors": "Dorothy Short, Kenneth Craig, Lillian Miles",
+  "plot": "Cautionary tale that features a fictionalized take on marijuana use. A trio of drug dealers lead innocent teenagers to become addicted to \"reefer\" cigarettes by holding wild parties with jazz music.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjhmYjVkN2QtODE0MS00MjlkLThjM2ItNWRiNjcxZDg5YmVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "3.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "39%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "3.7",
+  "imdbID": "tt0028346",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:45:39.549Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Crime and Punishment",
+  "year": "1935",
+  "rated": "Approved",
+  "released": "11 Jan 1936",
+  "runtime": "88 min",
+  "genre": "Crime, Drama",
+  "director": "Josef von Sternberg",
+  "writer": "S.K. Lauren, Joseph Anthony, Fyodor Dostoevsky",
+  "actors": "Edward Arnold, Peter Lorre, Marian Marsh",
+  "plot": "A young man is haunted by the murder of a neighborhood pawn broker and hounded by the local police inspector who suspects that he is guilty.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2YwZmZjNTctZDc2NS00MWVhLWJiNGItZjMzZTIxM2ZkMGUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0026246",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:53:16.601Z"
+}

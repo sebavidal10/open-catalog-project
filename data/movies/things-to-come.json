@@ -1,0 +1,31 @@
+{
+  "title": "Things to Come",
+  "year": "1936",
+  "rated": "Not Rated",
+  "released": "14 Sep 1936",
+  "runtime": "100 min",
+  "genre": "Drama, Sci-Fi, War",
+  "director": "William Cameron Menzies",
+  "writer": "H.G. Wells",
+  "actors": "Raymond Massey, Edward Chapman, Ralph Richardson",
+  "plot": "The story of a century: a decades-long second World War leaves plague and anarchy, then a rational state rebuilds civilization and attempts space travel.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTM5YzcwYzAtZDgxNS00ZDhjLWEzNDQtYjBjYjFmMmM3N2QzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0028358",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:45:38.376Z"
+}

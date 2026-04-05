@@ -1,0 +1,35 @@
+{
+  "title": "The Green Pastures",
+  "year": "1936",
+  "rated": "Approved",
+  "released": "01 Aug 1936",
+  "runtime": "93 min",
+  "genre": "Drama",
+  "director": "Marc Connelly, William Keighley",
+  "writer": "Roark Bradford, Marc Connelly, Sheridan Gibney",
+  "actors": "Rex Ingram, Oscar Polk, Eddie 'Rochester' Anderson",
+  "plot": "God, heaven, and several Old Testament stories, including the Creation and Noah's Ark, are described supposedly using the perspective of rural, black Americans.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmQ0YzkwZmUtZGNiNi00MjA0LWJmNGYtY2VmOWZmMjZlNGE0XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.0",
+  "imdbID": "tt0027700",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:46:13.640Z"
+}

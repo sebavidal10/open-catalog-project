@@ -1,0 +1,31 @@
+{
+  "title": "Go West Young Man",
+  "year": "1936",
+  "rated": "Approved",
+  "released": "18 Nov 1936",
+  "runtime": "80 min",
+  "genre": "Comedy",
+  "director": "Henry Hathaway",
+  "writer": "Lawrence Riley, Mae West",
+  "actors": "Mae West, Warren William, Randolph Scott",
+  "plot": "A movie star, stranded in the country, trifles with a young man's affections.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWFlNDNhMjctNWVmMS00MzZmLThkMjktNWU5M2E1YjRkMTdiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0027684",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:47:50.927Z"
+}

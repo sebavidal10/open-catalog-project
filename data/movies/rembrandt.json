@@ -1,0 +1,31 @@
+{
+  "title": "Rembrandt",
+  "year": "1936",
+  "rated": "Not Rated",
+  "released": "25 Dec 1936",
+  "runtime": "85 min",
+  "genre": "Biography, Drama",
+  "director": "Alexander Korda",
+  "writer": "Carl Zuckmayer, June Head, Lajos Biró",
+  "actors": "Charles Laughton, Gertrude Lawrence, Elsa Lanchester",
+  "plot": "The respected painter takes to drink and faces down scandal after his wife dies.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTNkZDc2ZmEtOTJjYy00NTFkLTk2NGYtMWNiMTRlOGZiYzFmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0028167",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:47:00.467Z"
+}

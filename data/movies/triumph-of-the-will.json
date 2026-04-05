@@ -1,0 +1,31 @@
+{
+  "title": "Triumph of the Will",
+  "year": "1935",
+  "rated": "Approved",
+  "released": "28 Mar 1935",
+  "runtime": "110 min",
+  "genre": "Documentary, History",
+  "director": "Leni Riefenstahl",
+  "writer": "Leni Riefenstahl, Walter Ruttmann, Eberhard Taubert",
+  "actors": "Adolf Hitler, Hermann Göring, Max Amann",
+  "plot": "The infamous propaganda film of the 1934 Nazi Party rally in Nuremberg, Germany.",
+  "language": "German",
+  "country": "Germany",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDU3MTQyMDY4Nl5BMl5BanBnXkFtZTgwMDYzOTA2MjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0025913",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:52:30.752Z"
+}

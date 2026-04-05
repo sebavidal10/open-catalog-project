@@ -1,0 +1,31 @@
+{
+  "title": "Romeo and Juliet",
+  "year": "1936",
+  "rated": "Approved",
+  "released": "03 Sep 1936",
+  "runtime": "125 min",
+  "genre": "Drama, Romance",
+  "director": "George Cukor",
+  "writer": "William Shakespeare, Talbot Jennings",
+  "actors": "Norma Shearer, Leslie Howard, John Barrymore",
+  "plot": "Young love is poisoned by a generations long feud between two noble families.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 1 win & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzA3ODU4MzYtYzA1YS00OWE1LTg1NzgtMTNhY2EwODc1OTVhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0028203",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:45:58.345Z"
+}

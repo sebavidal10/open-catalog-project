@@ -1,0 +1,35 @@
+{
+  "title": "The Great Ziegfeld",
+  "year": "1936",
+  "rated": "Approved",
+  "released": "23 Sep 1936",
+  "runtime": "176 min",
+  "genre": "Drama, Musical",
+  "director": "Robert Z. Leonard",
+  "writer": "William Anthony McGuire",
+  "actors": "William Powell, Myrna Loy, Luise Rainer",
+  "plot": "The ups and downs of Florenz Ziegfeld Jr., famed producer of extravagant stage revues, are portrayed.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 4 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTU3ODQzYzMtOWRhYS00NTY2LWE4YmYtOGM2ZjhiNThjOWQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "6.6",
+  "imdbID": "tt0027698",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:45:46.596Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Great Guy",
+  "year": "1936",
+  "rated": "Passed",
+  "released": "01 Dec 1936",
+  "runtime": "66 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "John G. Blystone",
+  "writer": "James Edward Grant, Henry McCarty, Henry Johnson",
+  "actors": "James Cagney, Mae Clarke, James Burke",
+  "plot": "The adventures of an investigator (Cagney) for the Bureau of Weights and Measures.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTY5OWM0OGYtZThjNC00NTAyLTgzYWEtMjNjZGZlM2Y0ODA1XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0027697",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:48:03.814Z"
+}

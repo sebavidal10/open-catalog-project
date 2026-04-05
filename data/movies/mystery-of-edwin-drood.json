@@ -1,0 +1,31 @@
+{
+  "title": "Mystery of Edwin Drood",
+  "year": "1935",
+  "rated": "Approved",
+  "released": "04 Feb 1935",
+  "runtime": "87 min",
+  "genre": "Crime, Drama, Horror",
+  "director": "Stuart Walker",
+  "writer": "Leopold Atlas, John L. Balderston, Charles Dickens",
+  "actors": "Claude Rains, Douglass Montgomery, Heather Angel",
+  "plot": "An opium-addicted choirmaster develops an obsession for a beautiful young girl and will not stop short of murder in order to have her.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM1NjEwODM3MF5BMl5BanBnXkFtZTgwNjU2NzcyMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "63%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0026758",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:54:27.079Z"
+}

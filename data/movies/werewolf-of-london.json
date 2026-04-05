@@ -1,0 +1,31 @@
+{
+  "title": "Werewolf of London",
+  "year": "1935",
+  "rated": "Approved",
+  "released": "13 May 1935",
+  "runtime": "75 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Stuart Walker",
+  "writer": "John Colton, Robert Harris, Harvey Gates",
+  "actors": "Henry Hull, Warner Oland, Valerie Hobson",
+  "plot": "After botanist Wilfred Glendon travels to Tibet in search of a rare flower, the Mariphasa, he returns to a London haunted by murders that can only be the work of bloodthirsty werewolves.",
+  "language": "English, Cantonese, Latin",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzI1ZmEyMGEtODQ1Ni00M2U0LWJlYzktNDUxZWRmOTI1YTJjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0027194",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:52:51.891Z"
+}

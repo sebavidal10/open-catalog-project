@@ -1,0 +1,31 @@
+{
+  "title": "Broadway Melody of 1936",
+  "year": "1935",
+  "rated": "Approved",
+  "released": "20 Sep 1935",
+  "runtime": "101 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Roy Del Ruth, W.S. Van Dyke",
+  "writer": "Jack McGowan, Sid Silvers, Moss Hart",
+  "actors": "Jack Benny, Eleanor Powell, Robert Taylor",
+  "plot": "A Broadway producer is reluctant to hire his high school sweetheart for the leading role in a new show, so she decides to take advantage of a rumor started by a gossip columnist.",
+  "language": "English, French, Spanish",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjQ1ZmVmODMtY2QxMy00Y2EwLWJlNDEtMzljN2Q4OTRiNjkxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0026144",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:53:35.400Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Sabotage",
+  "year": "1936",
+  "rated": "Approved",
+  "released": "11 Jan 1937",
+  "runtime": "76 min",
+  "genre": "Crime, Thriller",
+  "director": "Alfred Hitchcock",
+  "writer": "Joseph Conrad, Charles Bennett, Ian Hay",
+  "actors": "Sylvia Sidney, Oscar Homolka, Desmond Tester",
+  "plot": "A Scotland Yard undercover detective is on the trail of a saboteur who is part of a plot to set off a bomb in London. But when the detective's cover is blown, the plot begins to unravel.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTFmNDQ4MWYtN2Q5YS00ZWQyLThkMTItYzQyNDcyM2E4ZDdmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "7.0",
+  "imdbID": "tt0028212",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:45:47.770Z"
+}

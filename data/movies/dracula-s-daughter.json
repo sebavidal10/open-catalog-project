@@ -1,0 +1,31 @@
+{
+  "title": "Dracula's Daughter",
+  "year": "1936",
+  "rated": "Approved",
+  "released": "11 May 1936",
+  "runtime": "71 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Lambert Hillyer",
+  "writer": "Garrett Fort, John L. Balderston, Bram Stoker",
+  "actors": "Otto Kruger, Gloria Holden, Marguerite Churchill",
+  "plot": "When Countess Marya Zaleska appears in London, mysterious events occur that lead Dr. Von Helsing to believe that the Countess must be a vampire.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTY1ZDY0N2ItODI3MC00MTA2LWI1NGUtMjhlYzdmZjA5YzdmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0027545",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:45:43.076Z"
+}

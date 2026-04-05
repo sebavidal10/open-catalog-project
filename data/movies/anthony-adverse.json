@@ -1,0 +1,31 @@
+{
+  "title": "Anthony Adverse",
+  "year": "1936",
+  "rated": "Approved",
+  "released": "29 Aug 1936",
+  "runtime": "141 min",
+  "genre": "Adventure, Drama, Romance",
+  "director": "Mervyn LeRoy, Michael Curtiz",
+  "writer": "Hervey Allen, Sheridan Gibney, Milton Krims",
+  "actors": "Fredric March, Olivia de Havilland, Donald Woods",
+  "plot": "In 18th-century Italy, an orphan's debt to the man who raised him threatens to separate him forever from the woman he loves.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "Won 4 Oscars. 8 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWY1NWEwY2UtOTg1ZS00MjVkLWJhZGMtZDc4YjQ2OGI2Yzc5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "18%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0027300",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:46:10.117Z"
+}

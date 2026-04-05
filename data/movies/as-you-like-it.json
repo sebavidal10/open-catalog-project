@@ -1,0 +1,31 @@
+{
+  "title": "As You Like It",
+  "year": "1936",
+  "rated": "Not Rated",
+  "released": "08 Jan 1937",
+  "runtime": "96 min",
+  "genre": "Drama, Comedy, Romance",
+  "director": "Paul Czinner",
+  "writer": "J.M. Barrie, Robert Cullen, Carl Mayer",
+  "actors": "Elisabeth Bergner, Laurence Olivier, Sophie Stewart",
+  "plot": "A Duke usurps his brother's land and power, banishing him and his entourage into the forest of Arden. The banished Duke's daughter, Rosalind, remains with her cousin Celia. She has fallen in love with Orlando, but he has his own t...",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzcxMjUyZDUtN2VmOS00YjM5LTkzNTMtODg5OThkODc3NTg0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "20%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0027311",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:47:20.441Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Public Hero Number 1",
+  "year": "1935",
+  "rated": "Approved",
+  "released": "31 May 1935",
+  "runtime": "89 min",
+  "genre": "Crime, Drama",
+  "director": "J. Walter Ruben",
+  "writer": "Wells Root, J. Walter Ruben",
+  "actors": "Lionel Barrymore, Jean Arthur, Chester Morris",
+  "plot": "A G-man goes undercover to infiltrate a gang, helping the group's leader escape from prison to gain his trust.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTk4NTBkZjYtZGMwNS00OTRjLTg4NTktZjNjMTlmMTYyODQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0026895",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:57:09.442Z"
+}

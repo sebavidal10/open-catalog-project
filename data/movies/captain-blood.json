@@ -1,0 +1,35 @@
+{
+  "title": "Captain Blood",
+  "year": "1935",
+  "rated": "Approved",
+  "released": "28 Dec 1935",
+  "runtime": "119 min",
+  "genre": "Action, Adventure, History",
+  "director": "Michael Curtiz",
+  "writer": "Rafael Sabatini, Casey Robinson",
+  "actors": "Errol Flynn, Olivia de Havilland, Lionel Atwill",
+  "plot": "After treating a Monmouth rebel against King James II in 1680s England, a young Irish doctor is exiled as a slave to Jamaica where he captures a Spanish galleon and becomes the most feared pirate of the Caribbean.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 5 Oscars. 3 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMwNDc1MzMyNV5BMl5BanBnXkFtZTgwODUzMjU1MzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "7.7",
+  "imdbID": "tt0026174",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:52:42.498Z"
+}

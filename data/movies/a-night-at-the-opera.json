@@ -1,0 +1,31 @@
+{
+  "title": "A Night at the Opera",
+  "year": "1935",
+  "rated": "Approved",
+  "released": "15 Nov 1935",
+  "runtime": "96 min",
+  "genre": "Comedy, Music, Musical",
+  "director": "Sam Wood, Edmund Goulding",
+  "writer": "George S. Kaufman, Morrie Ryskind, James Kevin McGuinness",
+  "actors": "Groucho Marx, Chico Marx, Harpo Marx",
+  "plot": "A sly business manager and the wacky friends of two opera singers in Italy help them achieve success in America while humiliating their stuffy and snobbish enemies.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYyNjgwMDg4NF5BMl5BanBnXkFtZTgwNTQ5MTM4MTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0026778",
+  "type": "movie",
+  "fetched_at": "2026-04-05T16:52:40.144Z"
+}

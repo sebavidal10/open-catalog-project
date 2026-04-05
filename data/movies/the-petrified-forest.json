@@ -1,0 +1,31 @@
+{
+  "title": "The Petrified Forest",
+  "year": "1936",
+  "rated": "Approved",
+  "released": "08 Feb 1936",
+  "runtime": "82 min",
+  "genre": "Drama, Thriller",
+  "director": "Archie Mayo",
+  "writer": "Charles Kenyon, Delmer Daves, Robert E. Sherwood",
+  "actors": "Leslie Howard, Humphrey Bogart, Bette Davis",
+  "plot": "A waitress, a hobo and a bank robber get mixed up at a lonely diner in the desert.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDc4MGQzYjEtODNmYi00ZWIzLTliYzEtNjBiNjlmNzlhYjcyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0028096",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:45:56.000Z"
+}

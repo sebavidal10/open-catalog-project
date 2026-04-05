@@ -1,0 +1,31 @@
+{
+  "title": "The Big Broadcast of 1937",
+  "year": "1936",
+  "rated": "Approved",
+  "released": "06 Oct 1936",
+  "runtime": "100 min",
+  "genre": "Comedy, Musical",
+  "director": "Mitchell Leisen",
+  "writer": "Walter DeLeon, Francis Martin, Erwin Gelsey",
+  "actors": "Jack Benny, George Burns, Gracie Allen",
+  "plot": "The employees of a failing radio station must put on a huge ratings winner to have any chance of continued operation.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjNlZjgzYTUtZTI0Yi00NWM1LTkxYzgtY2U0ZjlkMmE1MTMwXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0027356",
+  "type": "movie",
+  "fetched_at": "2026-04-05T17:50:23.802Z"
+}
