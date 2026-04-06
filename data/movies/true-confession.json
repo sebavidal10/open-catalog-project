@@ -1,0 +1,35 @@
+{
+  "title": "True Confession",
+  "year": "1937",
+  "rated": "Approved",
+  "released": "24 Dec 1937",
+  "runtime": "85 min",
+  "genre": "Comedy, Crime",
+  "director": "Wesley Ruggles",
+  "writer": "Claude Binyon, Louis Verneuil, Georges Berr",
+  "actors": "Carole Lombard, Fred MacMurray, John Barrymore",
+  "plot": "A lawyer defends his wife, a pathological liar, in a murder trial.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmUwZWEwYTQtYjBmNi00MWU4LWFlZWUtN2ZlMDg5NDI2NDg5XkEyXkFqcGdeQXVyNTEwNDcxNDc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "6.6",
+  "imdbID": "tt0029695",
+  "type": "movie",
+  "fetched_at": "2026-04-06T20:51:13.637Z"
+}

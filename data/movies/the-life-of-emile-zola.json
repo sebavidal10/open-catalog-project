@@ -1,0 +1,31 @@
+{
+  "title": "The Life of Emile Zola",
+  "year": "1937",
+  "rated": "Approved",
+  "released": "02 Oct 1937",
+  "runtime": "116 min",
+  "genre": "Biography, Drama",
+  "director": "William Dieterle",
+  "writer": "Norman Reilly Raine, Heinz Herald, Geza Herczeg",
+  "actors": "Paul Muni, Gale Sondergaard, Joseph Schildkraut",
+  "plot": "The biopic of the famous French muckraking writer and his involvement in fighting the injustice of the Dreyfus Affair, a Jewish army officer who is accused of treason.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 11 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYyMTI1MjQ0MV5BMl5BanBnXkFtZTgwMDk1NjM5MjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0029146",
+  "type": "movie",
+  "fetched_at": "2026-04-06T20:50:04.394Z"
+}

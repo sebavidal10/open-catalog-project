@@ -1,0 +1,31 @@
+{
+  "title": "Carefree",
+  "year": "1938",
+  "rated": "Approved",
+  "released": "02 Sep 1938",
+  "runtime": "83 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Mark Sandrich",
+  "writer": "Allan Scott, Ernest Pagano, Dudley Nichols",
+  "actors": "Fred Astaire, Ginger Rogers, Ralph Bellamy",
+  "plot": "A psychiatrist falls in love with the woman he's supposed to be nudging into marriage with someone else.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWZlNjVlMTYtZjBjNy00YmQwLWIwOWQtMTE4ZWUzODdlNGVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0029971",
+  "type": "movie",
+  "fetched_at": "2026-04-06T21:02:05.016Z"
+}

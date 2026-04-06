@@ -1,0 +1,31 @@
+{
+  "title": "Lost Horizon",
+  "year": "1937",
+  "rated": "Approved",
+  "released": "01 Sep 1937",
+  "runtime": "132 min",
+  "genre": "Adventure, Drama, Fantasy",
+  "director": "Frank Capra",
+  "writer": "Robert Riskin, James Hilton, Sidney Buchman",
+  "actors": "Ronald Colman, Jane Wyatt, Edward Everett Horton",
+  "plot": "When a revered diplomat's plane is diverted and crashes in the peaks of Tibet, he and the other survivors are guided to an isolated monastery at Shangri-La, where they wrestle with the invitation to stay.",
+  "language": "English, Mandarin",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 3 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzY5MzY5YjAtMmMzNS00YTZkLWJiMjctMTM5M2I3YzdkNzg1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0029162",
+  "type": "movie",
+  "fetched_at": "2026-04-06T20:49:46.845Z"
+}

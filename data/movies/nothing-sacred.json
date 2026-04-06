@@ -1,0 +1,35 @@
+{
+  "title": "Nothing Sacred",
+  "year": "1937",
+  "rated": "Approved",
+  "released": "26 Nov 1937",
+  "runtime": "77 min",
+  "genre": "Comedy, Drama, Fantasy",
+  "director": "William A. Wellman",
+  "writer": "Ben Hecht, James Street, David O. Selznick",
+  "actors": "Carole Lombard, Fredric March, Charles Winninger",
+  "plot": "An eccentric woman learns she is not dying of radium poisoning as earlier assumed, but when she meets a reporter looking for a story, she feigns sickness again for her own profit.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjg5NTA4OWYtYzY0YS00ZjM1LWI3NmQtYWVkM2FkNzljZGRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "6.8",
+  "imdbID": "tt0029322",
+  "type": "movie",
+  "fetched_at": "2026-04-06T20:50:09.070Z"
+}

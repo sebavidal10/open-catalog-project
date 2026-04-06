@@ -1,0 +1,31 @@
+{
+  "title": "Easy Living",
+  "year": "1937",
+  "rated": "Approved",
+  "released": "16 Jul 1937",
+  "runtime": "88 min",
+  "genre": "Comedy, Romance",
+  "director": "Mitchell Leisen",
+  "writer": "Preston Sturges, Vera Caspary",
+  "actors": "Jean Arthur, Edward Arnold, Ray Milland",
+  "plot": "When a wealthy banker throws his wife's expensive fur coat off a roof and it lands on the head of a stenographer, everyone assumes she is his mistress and has access to his millions.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjhhOTc0ZTctYTZmYy00OGQ2LTg0NDYtYmRjNWRjZWQxNzI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0028816",
+  "type": "movie",
+  "fetched_at": "2026-04-06T20:50:25.495Z"
+}

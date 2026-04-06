@@ -1,0 +1,35 @@
+{
+  "title": "Young and Innocent",
+  "year": "1937",
+  "rated": "Not Rated",
+  "released": "17 Feb 1937",
+  "runtime": "83 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Alfred Hitchcock",
+  "writer": "Josephine Tey, Charles Bennett, Edwin Greenwood",
+  "actors": "Nova Pilbeam, Derrick De Marney, Percy Marmont",
+  "plot": "A man on the run from a murder charge enlists the help of a beautiful stranger who must put herself at risk for his cause.",
+  "language": "English, Latin",
+  "country": "United Kingdom",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjg2Y2I5YTctNGY0Mi00MDExLWIwY2QtZWI3NGM5MDhlNzEzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "6.8",
+  "imdbID": "tt0029811",
+  "type": "movie",
+  "fetched_at": "2026-04-06T20:50:00.869Z"
+}

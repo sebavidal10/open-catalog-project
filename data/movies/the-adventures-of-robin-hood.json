@@ -1,0 +1,35 @@
+{
+  "title": "The Adventures of Robin Hood",
+  "year": "1938",
+  "rated": "PG",
+  "released": "14 May 1938",
+  "runtime": "102 min",
+  "genre": "Action, Adventure, Romance",
+  "director": "Michael Curtiz, William Keighley",
+  "writer": "Norman Reilly Raine, Seton I. Miller, Rowland Leigh",
+  "actors": "Errol Flynn, Olivia de Havilland, Basil Rathbone",
+  "plot": "When Prince John and the Norman Lords begin oppressing the Saxon masses in King Richard's absence in 1190s England, a Saxon lord fights back as the outlaw leader of a resistance movement.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 11 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjA3NzFjNmItYTkwZi00NmMyLWFiMDgtMzY4NjY1ODE0NTg1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "97/100"
+    }
+  ],
+  "metascore": "97",
+  "imdbRating": "7.9",
+  "imdbID": "tt0029843",
+  "type": "movie",
+  "fetched_at": "2026-04-06T21:01:26.186Z"
+}

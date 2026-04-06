@@ -1,0 +1,27 @@
+{
+  "title": "Wells Fargo",
+  "year": "1937",
+  "rated": "Approved",
+  "released": "31 Dec 1937",
+  "runtime": "97 min",
+  "genre": "Drama, History, Western",
+  "director": "Frank Lloyd",
+  "writer": "Paul Schofield, Gerald Geraghty, Frederick J. Jackson",
+  "actors": "Joel McCrea, Bob Burns, Frances Dee",
+  "plot": "The life and career of a Wells Fargo official frames this fictionalized account of the express company's formation.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 3 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjdhOGFhYmYtMTNlOC00NTVhLWFmNWYtZTEyZDBlNzkwNzhiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0029752",
+  "type": "movie",
+  "fetched_at": "2026-04-06T20:51:08.953Z"
+}

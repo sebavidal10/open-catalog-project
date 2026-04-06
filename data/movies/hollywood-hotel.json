@@ -1,0 +1,27 @@
+{
+  "title": "Hollywood Hotel",
+  "year": "1937",
+  "rated": "Approved",
+  "released": "15 Jan 1938",
+  "runtime": "109 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Busby Berkeley",
+  "writer": "Jerry Wald, Maurice Leo, Richard Macaulay",
+  "actors": "Dick Powell, Rosemary Lane, Lola Lane",
+  "plot": "Ronny Bowers, a saxophonist in Benny Goodman's band, has won a talent contest and a ten week contract with a film studio. On his first evening he is supposed to go with the studio's star Mona Marshall to a movie premiere. But she ...",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDU5YTA5NDktZWZkMC00ODI2LTgwNTEtNDNkN2M0YWMxNGMyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0029010",
+  "type": "movie",
+  "fetched_at": "2026-04-06T20:50:50.136Z"
+}

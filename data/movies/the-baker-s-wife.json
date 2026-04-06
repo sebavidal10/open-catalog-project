@@ -1,0 +1,31 @@
+{
+  "title": "The Baker's Wife",
+  "year": "1938",
+  "rated": "Not Rated",
+  "released": "26 Feb 1940",
+  "runtime": "133 min",
+  "genre": "Comedy, Drama",
+  "director": "Marcel Pagnol",
+  "writer": "Jean Giono, Marcel Pagnol",
+  "actors": "Raimu, Ginette Leclerc, Fernand Charpin",
+  "plot": "A small village rejoices at the arrival of a new baker. But when his young wife runs off with another man, he is unable to keep baking and the village is thrown into disarray.",
+  "language": "French",
+  "country": "France",
+  "awards": "5 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDdkZWE5ZGEtNzBkNi00MWViLThlYzEtM2UxZGM4YWZmM2FkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0030127",
+  "type": "movie",
+  "fetched_at": "2026-04-06T21:02:02.666Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Heidi",
+  "year": "1937",
+  "rated": "G",
+  "released": "15 Oct 1937",
+  "runtime": "88 min",
+  "genre": "Drama, Family, Musical",
+  "director": "Allan Dwan",
+  "writer": "Johanna Spyri, Walter Ferris, Julien Josephson",
+  "actors": "Shirley Temple, Jean Hersholt, Arthur Treacher",
+  "plot": "A plucky little orphan girl gets dumped abruptly into her gruff, hermit grandfather's care, then later gets retaken and delivered as a companion for an injured girl.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTY0MzFiMjAtNzY0Yi00NmM4LTkyYmMtMTc1MTNjY2I2Njg0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0028988",
+  "type": "movie",
+  "fetched_at": "2026-04-06T20:49:59.697Z"
+}

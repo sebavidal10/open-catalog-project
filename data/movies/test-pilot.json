@@ -1,0 +1,31 @@
+{
+  "title": "Test Pilot",
+  "year": "1938",
+  "rated": "Approved",
+  "released": "22 Apr 1938",
+  "runtime": "119 min",
+  "genre": "Drama, Romance",
+  "director": "Victor Fleming",
+  "writer": "Vincent Lawrence, Waldemar Young, Frank Wead",
+  "actors": "Clark Gable, Myrna Loy, Spencer Tracy",
+  "plot": "Jim is a test pilot. His wife Ann and best friend Gunner try their best to keep him sober. But the life of a test pilot is anything but safe.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjllOWNkMWUtODVmYi00YzdkLWI4OWYtMGYyOTYzYTM4NzdhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0030848",
+  "type": "movie",
+  "fetched_at": "2026-04-06T21:02:35.641Z"
+}

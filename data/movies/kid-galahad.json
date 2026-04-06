@@ -1,0 +1,31 @@
+{
+  "title": "Kid Galahad",
+  "year": "1937",
+  "rated": "Approved",
+  "released": "29 May 1937",
+  "runtime": "102 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Michael Curtiz",
+  "writer": "Seton I. Miller, Francis Wallace",
+  "actors": "Edward G. Robinson, Bette Davis, Humphrey Bogart",
+  "plot": "Fight promoter Nick Donati grooms a bellhop as a future champ, but has second thoughts after the now-named Kid Galahad falls for his sister.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmU5ODgzMzEtOTAxYy00NGUxLWFhZTUtYmIxOTdiNjFhNmE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0029080",
+  "type": "movie",
+  "fetched_at": "2026-04-06T20:50:32.531Z"
+}

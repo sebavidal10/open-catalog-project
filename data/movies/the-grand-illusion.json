@@ -1,0 +1,31 @@
+{
+  "title": "The Grand Illusion",
+  "year": "1937",
+  "rated": "Not Rated",
+  "released": "12 Sep 1938",
+  "runtime": "113 min",
+  "genre": "Drama, War",
+  "director": "Jean Renoir",
+  "writer": "Charles Spaak, Jean Renoir",
+  "actors": "Jean Gabin, Dita Parlo, Pierre Fresnay",
+  "plot": "During WWI, two French soldiers are captured and imprisoned in a German P.O.W. camp. Several escape attempts follow until they are eventually sent to a seemingly inescapable fortress.",
+  "language": "French, German, English, Russian",
+  "country": "France",
+  "awards": "Nominated for 1 Oscar. 7 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg3MTI5NTk0N15BMl5BanBnXkFtZTgwMjU1MDM5MTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.1",
+  "imdbID": "tt0028950",
+  "type": "movie",
+  "fetched_at": "2026-04-06T20:49:52.695Z"
+}

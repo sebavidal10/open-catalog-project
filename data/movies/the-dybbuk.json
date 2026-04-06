@@ -1,0 +1,31 @@
+{
+  "title": "The Dybbuk",
+  "year": "1937",
+  "rated": "Unrated",
+  "released": "27 Jan 1938",
+  "runtime": "108 min",
+  "genre": "Drama, Fantasy, Musical",
+  "director": "Michal Waszynski",
+  "writer": "S. Ansky, S.A. Kacyzna, Andrzej Marek",
+  "actors": "Avrom Morewski, Ajzyk Samberg, Mojzesz Lipman",
+  "plot": "The mystical love story between Chonen, a poor Talmud student, and Lea, a girl from a wealthy family, depicts the traditional folk culture of Polish Jews before WW2.",
+  "language": "Yiddish",
+  "country": "Poland",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWNiYzc5ZTAtMDVkYS00NDIyLWFlZTQtY2IxZjg4ZjZiY2Q5XkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0030092",
+  "type": "movie",
+  "fetched_at": "2026-04-06T20:50:51.309Z"
+}

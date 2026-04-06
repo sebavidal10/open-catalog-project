@@ -1,0 +1,31 @@
+{
+  "title": "The Spanish Earth",
+  "year": "1937",
+  "rated": "Unrated",
+  "released": "20 Aug 1937",
+  "runtime": "52 min",
+  "genre": "Documentary, War",
+  "director": "Joris Ivens",
+  "writer": "John Dos Passos, Lillian Hellman, Ernest Hemingway",
+  "actors": "Enrique Lister, Carlos Romero Giménez, José Díaz",
+  "plot": "A documentary showing the struggle of the Spanish Republican government against a rebellion by ultra-right-wing forces led by Gen. Francisco Franco and backed by Nazi Germany and Fascist Italy.",
+  "language": "English, Spanish, German",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWUyMzZmY2MtOWRkMy00Y2Y3LWI5MzUtOGRmYmNhNGE3N2IyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0029594",
+  "type": "movie",
+  "fetched_at": "2026-04-06T20:53:35.936Z"
+}

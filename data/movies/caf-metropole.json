@@ -1,0 +1,27 @@
+{
+  "title": "Café Metropole",
+  "year": "1937",
+  "rated": "Approved",
+  "released": "07 May 1937",
+  "runtime": "83 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Edward H. Griffith",
+  "writer": "Jacques Deval, Gregory Ratoff",
+  "actors": "Loretta Young, Tyrone Power, Adolphe Menjou",
+  "plot": "In Paris, a young American is in debt to a nightclub owner who forces him to woo an heiress in hopes of reaping her fortune.",
+  "language": "English, French, Russian",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmQ0MmQ1ODgtZTViNi00MDNiLWI3YjEtNzEwZjliZjJlZGQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0028676",
+  "type": "movie",
+  "fetched_at": "2026-04-06T20:50:39.566Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Fast Company",
+  "year": "1938",
+  "rated": "Approved",
+  "released": "08 Jul 1938",
+  "runtime": "75 min",
+  "genre": "Romance, Comedy, Mystery",
+  "director": "Edward Buzzell",
+  "writer": "Harry Kurnitz, Harold Tarshis",
+  "actors": "Melvyn Douglas, Florence Rice, Claire Dodd",
+  "plot": "Amateur sleuth and Wife review Bard foul play.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjBiZmRkYjktZDNiYS00MWEyLWJiZjUtOTA5ZjdhZDNjNTUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0030120",
+  "type": "movie",
+  "fetched_at": "2026-04-06T21:03:43.940Z"
+}

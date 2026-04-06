@@ -1,0 +1,31 @@
+{
+  "title": "The Citadel",
+  "year": "1938",
+  "rated": "Passed",
+  "released": "29 Oct 1938",
+  "runtime": "110 min",
+  "genre": "Drama",
+  "director": "King Vidor",
+  "writer": "Ian Dalrymple, Frank Wead, Elizabeth Hill",
+  "actors": "Robert Donat, Rosalind Russell, Ralph Richardson",
+  "plot": "An enthusiastic young doctor happily embarks on his career, but it isn't long before he finds out what being a doctor really entails.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 4 Oscars. 5 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTkwZmFlODQtM2FlNS00ZmI4LWE1M2YtMzg0ZTFhNmYxNDVhXkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0029995",
+  "type": "movie",
+  "fetched_at": "2026-04-06T21:02:07.418Z"
+}

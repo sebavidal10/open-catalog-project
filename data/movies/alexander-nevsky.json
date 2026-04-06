@@ -1,0 +1,31 @@
+{
+  "title": "Alexander Nevsky",
+  "year": "1938",
+  "rated": "Not Rated",
+  "released": "22 Mar 1939",
+  "runtime": "112 min",
+  "genre": "Action, Biography, Drama",
+  "director": "Sergei Eisenstein, Dmitriy Vasilev",
+  "writer": "Sergei Eisenstein, Pyotr Pavlenko",
+  "actors": "Nikolay Cherkasov, Nikolai Okhlopkov, Andrei Abrikosov",
+  "plot": "The story of how a great Russian prince led a ragtag army to battle an invading force of Teutonic Knights.",
+  "language": "Russian",
+  "country": "Soviet Union",
+  "awards": "2 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjI4YWY4MGEtMGM3OS00YTI0LTk2N2UtMmFkZDMwZDBjNDEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0029850",
+  "type": "movie",
+  "fetched_at": "2026-04-06T21:01:36.763Z"
+}

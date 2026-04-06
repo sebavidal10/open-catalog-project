@@ -1,0 +1,31 @@
+{
+  "title": "Dead End",
+  "year": "1937",
+  "rated": "Approved",
+  "released": "27 Aug 1937",
+  "runtime": "93 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "William Wyler",
+  "writer": "Lillian Hellman, Sidney Kingsley",
+  "actors": "Sylvia Sidney, Joel McCrea, Humphrey Bogart",
+  "plot": "The lives of a young man, a young woman, a notorious gangster, and a group of street kids converge one day in a volatile New York City slum.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 1 win & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjc5ZTVkNWMtZGEzOS00NzJjLTliNjctMGJjOWZiNzAxNWI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0028773",
+  "type": "movie",
+  "fetched_at": "2026-04-06T20:49:58.529Z"
+}

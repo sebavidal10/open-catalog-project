@@ -1,0 +1,35 @@
+{
+  "title": "Bringing Up Baby",
+  "year": "1938",
+  "rated": "Approved",
+  "released": "18 Feb 1938",
+  "runtime": "102 min",
+  "genre": "Comedy",
+  "director": "Howard Hawks",
+  "writer": "Dudley Nichols, Hagar Wilde",
+  "actors": "Katharine Hepburn, Cary Grant, Charles Ruggles",
+  "plot": "While trying to secure a $1 million donation for his museum, a befuddled paleontologist is pursued by a flighty and often irritating heiress and her pet leopard, Baby.",
+  "language": "English",
+  "country": "United States",
+  "awards": "5 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDA5M2NlYjAtYzQ3OC00ZWM0LWJjYWYtMTU5N2NhNGY3ZmZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "metascore": "91",
+  "imdbRating": "7.8",
+  "imdbID": "tt0029947",
+  "type": "movie",
+  "fetched_at": "2026-04-06T21:01:30.880Z"
+}

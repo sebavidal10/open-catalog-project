@@ -1,0 +1,31 @@
+{
+  "title": "The Human Beast",
+  "year": "1938",
+  "rated": "Not Rated",
+  "released": "19 Feb 1940",
+  "runtime": "100 min",
+  "genre": "Crime, Drama",
+  "director": "Jean Renoir",
+  "writer": "Émile Zola, Jean Renoir, Denise Leblond",
+  "actors": "Jean Gabin, Julien Carette, Simone Simon",
+  "plot": "In this classic adaptation of Emile Zola's novel, a tortured train engineer falls in love with a troubled married woman who has helped her husband commit a murder.",
+  "language": "French",
+  "country": "France",
+  "awards": "2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcyNzUxMTYwNl5BMl5BanBnXkFtZTgwMzIxNjQ0MjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0029957",
+  "type": "movie",
+  "fetched_at": "2026-04-06T21:01:37.952Z"
+}

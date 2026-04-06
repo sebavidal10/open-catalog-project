@@ -1,0 +1,31 @@
+{
+  "title": "La Marseillaise",
+  "year": "1938",
+  "rated": "Not Rated",
+  "released": "17 Apr 1938",
+  "runtime": "130 min",
+  "genre": "Drama, History, Music",
+  "director": "Jean Renoir",
+  "writer": "Jean Renoir, Carl Koch, Noelle Gillmor",
+  "actors": "Pierre Renoir, Lise Delamare, Louis Jouvet",
+  "plot": "A news-reel like movie about early part of the French Revolution, shown from the eyes of individual people, citizens of Marseille, counts in German exile and, of course the king Louis XVI, showing their own small problems.",
+  "language": "French, German",
+  "country": "France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzcyYWM1MzktZDI2OS00MDQwLWEzZDQtMTkyZTFkYjA4ODdiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0030424",
+  "type": "movie",
+  "fetched_at": "2026-04-06T21:02:56.828Z"
+}

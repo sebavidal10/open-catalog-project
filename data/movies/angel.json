@@ -1,0 +1,31 @@
+{
+  "title": "Angel",
+  "year": "1937",
+  "rated": "Approved",
+  "released": "27 Oct 1937",
+  "runtime": "91 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Ernst Lubitsch",
+  "writer": "Melchior Lengyel, Guy Bolton, Russell G. Medcraft",
+  "actors": "Marlene Dietrich, Herbert Marshall, Melvyn Douglas",
+  "plot": "A woman and her husband take separate vacations, and she falls in love with another man.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg2NDgxMzM5Nl5BMl5BanBnXkFtZTgwNzQ5Njc0MjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0028575",
+  "type": "movie",
+  "fetched_at": "2026-04-06T20:50:29.025Z"
+}

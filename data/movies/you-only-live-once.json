@@ -1,0 +1,31 @@
+{
+  "title": "You Only Live Once",
+  "year": "1937",
+  "rated": "Approved",
+  "released": "29 Jan 1937",
+  "runtime": "86 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Fritz Lang",
+  "writer": "Gene Towne, C. Graham Baker",
+  "actors": "Sylvia Sidney, Henry Fonda, Barton MacLane",
+  "plot": "The public defender's secretary and an ex-convict get married and try to make a life together, but a series of disasters sends their lives spiraling out of control.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGM4ZTA5MzgtNTI4Mi00MWViLTlkNDUtZTI2YzRkNDhiODVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0029808",
+  "type": "movie",
+  "fetched_at": "2026-04-06T20:50:17.287Z"
+}

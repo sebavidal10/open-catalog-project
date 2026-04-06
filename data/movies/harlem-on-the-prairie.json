@@ -1,0 +1,31 @@
+{
+  "title": "Harlem on the Prairie",
+  "year": "1937",
+  "rated": "Approved",
+  "released": "09 Dec 1937",
+  "runtime": "57 min",
+  "genre": "Drama, Music, Western",
+  "director": "Sam Newfield",
+  "writer": "Fred Myton, F.E. Miller",
+  "actors": "Herb Jeffries, F.E. Miller, Mantan Moreland",
+  "plot": "A cowboy helps a pretty young woman find lost gold.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2ZjOGNlNDAtM2U0Zi00NmZlLWIwNGYtMGRhMTIwNzg0YzU2XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0028978",
+  "type": "movie",
+  "fetched_at": "2026-04-06T20:54:57.062Z"
+}

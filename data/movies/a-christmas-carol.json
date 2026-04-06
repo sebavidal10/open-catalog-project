@@ -1,0 +1,35 @@
+{
+  "title": "A Christmas Carol",
+  "year": "1938",
+  "rated": "Approved",
+  "released": "16 Dec 1938",
+  "runtime": "69 min",
+  "genre": "Drama, Family, Fantasy",
+  "director": "Edwin L. Marin",
+  "writer": "Charles Dickens, Hugo Butler",
+  "actors": "Reginald Owen, Gene Lockhart, Kathleen Lockhart",
+  "plot": "An elderly miser learns the error of his ways on Christmas Eve.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjUyY2Y3NjMtNjIwNC00OTAxLThkOGYtNDc4OGMyODY1NGJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "metascore": "72",
+  "imdbRating": "7.5",
+  "imdbID": "tt0029992",
+  "type": "movie",
+  "fetched_at": "2026-04-06T21:01:48.502Z"
+}

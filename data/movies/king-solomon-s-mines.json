@@ -1,0 +1,31 @@
+{
+  "title": "King Solomon's Mines",
+  "year": "1937",
+  "rated": "Not Rated",
+  "released": "26 Jul 1937",
+  "runtime": "77 min",
+  "genre": "Action, Adventure, Family",
+  "director": "Robert Stevenson, Geoffrey Barkas",
+  "writer": "H. Rider Haggard, Michael Hogan, Roland Pertwee",
+  "actors": "Paul Robeson, Cedric Hardwicke, Roland Young",
+  "plot": "White hunter Allan Quartermain and his enigmatic guide help a young Irish woman locate her missing father in unexplored Darkest Africa.",
+  "language": "Spanish, English, Portuguese",
+  "country": "United Kingdom",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjc2YWYzYjgtNmI4NC00MDk4LTk5MTYtM2I1YzUyYjA3NjhjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0029081",
+  "type": "movie",
+  "fetched_at": "2026-04-06T20:50:37.224Z"
+}

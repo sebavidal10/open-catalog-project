@@ -1,0 +1,35 @@
+{
+  "title": "Jezebel",
+  "year": "1938",
+  "rated": "Approved",
+  "released": "26 Mar 1938",
+  "runtime": "104 min",
+  "genre": "Drama, Romance",
+  "director": "William Wyler",
+  "writer": "Clements Ripley, Abem Finkel, John Huston",
+  "actors": "Bette Davis, Henry Fonda, George Brent",
+  "plot": "In 1850s Louisiana, a free-spirited Southern belle loses her fiancé due to her stubborn vanity and pride, and vows to win him back.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 9 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGUxZDFiNmUtM2I4Ni00Yjk5LWE3ZmUtZjQ5ZGUyY2JkMmY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "7.4",
+  "imdbID": "tt0030287",
+  "type": "movie",
+  "fetched_at": "2026-04-06T21:01:32.058Z"
+}

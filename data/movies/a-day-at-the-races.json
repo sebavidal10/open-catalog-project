@@ -1,0 +1,31 @@
+{
+  "title": "A Day at the Races",
+  "year": "1937",
+  "rated": "Approved",
+  "released": "11 Jun 1937",
+  "runtime": "111 min",
+  "genre": "Comedy, Family, Musical",
+  "director": "Sam Wood",
+  "writer": "Robert Pirosh, George Seaton, George Oppenheimer",
+  "actors": "Groucho Marx, Chico Marx, Harpo Marx",
+  "plot": "A veterinarian posing as a doctor teams with a singer and his friends as they struggle to save an upstate New York sanitarium with the help of a misfit racehorse.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkxMzVhNDktOGJhOS00YjEyLThlNjctYjIwODQ1M2UyNzNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0028772",
+  "type": "movie",
+  "fetched_at": "2026-04-06T20:49:50.353Z"
+}
