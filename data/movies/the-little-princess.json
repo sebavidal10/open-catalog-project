@@ -1,0 +1,31 @@
+{
+  "title": "The Little Princess",
+  "year": "1939",
+  "rated": "G",
+  "released": "17 Mar 1939",
+  "runtime": "93 min",
+  "genre": "Comedy, Drama, Family",
+  "director": "Walter Lang, William A. Seiter",
+  "writer": "Ethel Hill, Walter Ferris, Frances Hodgson Burnett",
+  "actors": "Shirley Temple, Richard Greene, Anita Louise",
+  "plot": "A little girl is left by her father in an exclusive seminary for girls while he fights in the Second Boer War. Later, after he is presumed dead, she is forced to become a servant.",
+  "language": "English, Hindi",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWM1NWQ2OTAtMGE1Ny00YzQwLWFhM2ItNTg2NjNkMWMzOTIwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0031580",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:43:11.747Z"
+}

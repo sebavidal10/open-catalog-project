@@ -1,0 +1,27 @@
+{
+  "title": "Zaza",
+  "year": "1938",
+  "rated": "Approved",
+  "released": "14 Jan 1939",
+  "runtime": "83 min",
+  "genre": "Drama, Romance",
+  "director": "George Cukor",
+  "writer": "Zoe Akins, Pierre Berton, Charles Simon",
+  "actors": "Claudette Colbert, Herbert Marshall, Bert Lahr",
+  "plot": "A sexy singer in a French music hall falls in love with a handsome, but married, aristocrat.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTEzNzczNjc1MjleQTJeQWpwZ15BbWU4MDIxOTA4MDIx._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0032157",
+  "type": "movie",
+  "fetched_at": "2026-04-07T04:05:44.963Z"
+}

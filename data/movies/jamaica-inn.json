@@ -1,0 +1,35 @@
+{
+  "title": "Jamaica Inn",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "13 Oct 1939",
+  "runtime": "98 min",
+  "genre": "Adventure, Crime, Drama",
+  "director": "Alfred Hitchcock",
+  "writer": "Daphne Du Maurier, Sidney Gilliat, Joan Harrison",
+  "actors": "Maureen O'Hara, Robert Newton, Charles Laughton",
+  "plot": "In Cornwall, 1819, a young woman discovers she's living near a gang of criminals who arrange shipwrecks for profit.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzQxZjdjNjYtNzk5Yy00MjhjLTkxNzItNDBjMmVkOWIyNDAzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "54%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "6.3",
+  "imdbID": "tt0031505",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:43:07.036Z"
+}

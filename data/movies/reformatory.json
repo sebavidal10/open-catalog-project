@@ -1,0 +1,27 @@
+{
+  "title": "Reformatory",
+  "year": "1938",
+  "rated": "Approved",
+  "released": "20 Jun 1938",
+  "runtime": "61 min",
+  "genre": "Action, Adventure, Crime",
+  "director": "Lewis D. Collins",
+  "writer": "Gordon Rigby",
+  "actors": "Jack Holt, Bobby Jordan, Charlotte Wynters",
+  "plot": "A new inmate at a juvenile reformatory tries to organize a mass breakout.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NDI2OTM4OF5BMl5BanBnXkFtZTYwNzkzOTg5._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0030664",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:40:10.840Z"
+}

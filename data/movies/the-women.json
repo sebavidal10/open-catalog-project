@@ -1,0 +1,31 @@
+{
+  "title": "The Women",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "01 Sep 1939",
+  "runtime": "133 min",
+  "genre": "Comedy, Drama",
+  "director": "George Cukor",
+  "writer": "Clare Boothe Luce, Anita Loos, Jane Murfin",
+  "actors": "Norma Shearer, Joan Crawford, Rosalind Russell",
+  "plot": "A study of the lives and romantic entanglements of various interconnected women.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "6 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2U5NDc3MzYtNDM4Ni00NDA5LWI5OGEtN2ExMDA0YjhmMGQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0032143",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:42:54.088Z"
+}

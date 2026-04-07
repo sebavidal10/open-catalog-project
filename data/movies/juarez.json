@@ -1,0 +1,31 @@
+{
+  "title": "Juarez",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "10 Jun 1939",
+  "runtime": "125 min",
+  "genre": "Biography, Drama, History",
+  "director": "William Dieterle",
+  "writer": "John Huston, Æneas MacKenzie, Wolfgang Reinhardt",
+  "actors": "Paul Muni, Bette Davis, Brian Aherne",
+  "plot": "Louis Napoleon III (Claude Rains) takes advantage of the American Civil War to circumvent the Monroe Doctrine and expand his power by helping Emperor Maximilian von Habsburg (Brian Aherne) to add Mexico to his empire.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjUwNzZlYTEtN2M1NS00OTViLWIyNzEtODg2NDFhODZiYjYxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0031516",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:43:33.189Z"
+}

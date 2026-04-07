@@ -1,0 +1,35 @@
+{
+  "title": "Young Mr. Lincoln",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "09 Jun 1939",
+  "runtime": "100 min",
+  "genre": "Biography, Drama",
+  "director": "John Ford",
+  "writer": "Lamar Trotti, Rosemary Benét",
+  "actors": "Henry Fonda, Alice Brady, Marjorie Weaver",
+  "plot": "A fictionalized account of the early life of the American president as a young lawyer facing his greatest court case.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 3 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGRjNTgxMTUtOGUwMy00OWMxLTk3ZWEtMGViOGFhNDcxMzg4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "metascore": "91",
+  "imdbRating": "7.5",
+  "imdbID": "tt0032155",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:42:56.433Z"
+}

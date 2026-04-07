@@ -1,0 +1,31 @@
+{
+  "title": "In Name Only",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "18 Aug 1939",
+  "runtime": "94 min",
+  "genre": "Drama, Romance",
+  "director": "John Cromwell",
+  "writer": "Richard Sherman, Bessie Breuer, André Rigaud",
+  "actors": "Cary Grant, Carole Lombard, Kay Francis",
+  "plot": "After a wealthy man finds out his wife is a gold digger, he meets and falls for a widowed mother, and complications ensue.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNGI5OGEtM2Q5Yi00MzRlLWFlYTItZGNhOGFjYjg1MzI5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0031477",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:43:18.796Z"
+}

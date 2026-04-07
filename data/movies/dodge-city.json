@@ -1,0 +1,31 @@
+{
+  "title": "Dodge City",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "08 Apr 1939",
+  "runtime": "104 min",
+  "genre": "Western",
+  "director": "Michael Curtiz",
+  "writer": "Robert Buckner",
+  "actors": "Errol Flynn, Olivia de Havilland, Ann Sheridan",
+  "plot": "A Texas cattle agent witnesses first hand, the brutal lawlessness of Dodge City and takes the job of sheriff to clean the town up.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDI1NmQxNjYtYjcwMi00MWM2LThkZGMtM2NjMzZmOGQxODg4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0031235",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:43:01.149Z"
+}

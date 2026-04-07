@@ -1,0 +1,27 @@
+{
+  "title": "I'm from the City",
+  "year": "1938",
+  "rated": "Approved",
+  "released": "05 Aug 1938",
+  "runtime": "66 min",
+  "genre": "Comedy, Romance, Western",
+  "director": "Ben Holmes",
+  "writer": "Ben Holmes, Nicholas T. Barrows, Robert St. Claire",
+  "actors": "Joe Penner, Richard Lane, Lorraine Krueger",
+  "plot": "Shy circus performer Pete Pepper fears horses but rides like a pro when hypnotized. Against his will, he competes in a cross-country obstacle race, struggling to overcome his fear.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTliOTQ2ZWQtMDVlMC00OTJmLWFhNjYtOGE4NGRkZTFjY2I2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0030262",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:38:01.130Z"
+}

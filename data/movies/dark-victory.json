@@ -1,0 +1,31 @@
+{
+  "title": "Dark Victory",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "22 Apr 1939",
+  "runtime": "104 min",
+  "genre": "Drama, Romance",
+  "director": "Edmund Goulding",
+  "writer": "Casey Robinson, George Emerson Brewer Jr., Bertram Bloch",
+  "actors": "Bette Davis, George Brent, Humphrey Bogart",
+  "plot": "A young socialite is diagnosed with an inoperable brain tumor, and must decide whether or not she'll meet her final days with dignity.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 2 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWI1ZGMzN2UtNGRiZS00MTllLTk3ODYtNmNiYzhhZGI1NjE0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0031210",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:42:50.533Z"
+}

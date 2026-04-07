@@ -1,0 +1,35 @@
+{
+  "title": "The Roaring Twenties",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "28 Oct 1939",
+  "runtime": "106 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Raoul Walsh",
+  "writer": "Jerry Wald, Richard Macaulay, Robert Rossen",
+  "actors": "James Cagney, Humphrey Bogart, Priscilla Lane",
+  "plot": "Three men attempt to make a living in Prohibitionist America after returning home from fighting together in World War I.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTNhYzY5MjQtMTQwYi00NTBhLTg3ZTQtYTE1NjFmNzgwYWIwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "7.9",
+  "imdbID": "tt0031867",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:43:05.857Z"
+}

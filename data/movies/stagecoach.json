@@ -1,0 +1,35 @@
+{
+  "title": "Stagecoach",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "03 Mar 1939",
+  "runtime": "96 min",
+  "genre": "Adventure, Drama, Western",
+  "director": "John Ford",
+  "writer": "Ernest Haycox, Dudley Nichols, Ben Hecht",
+  "actors": "Claire Trevor, John Wayne, Andy Devine",
+  "plot": "A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo and learn something about each other in the process.",
+  "language": "English, Spanish, French",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 10 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmQ5ZGIyMjYtMjczYy00N2EzLWE3ZjMtNmI4ZDc3MDVmOWEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "93/100"
+    }
+  ],
+  "metascore": "93",
+  "imdbRating": "7.8",
+  "imdbID": "tt0031971",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:42:51.717Z"
+}

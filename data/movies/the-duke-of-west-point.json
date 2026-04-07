@@ -1,0 +1,27 @@
+{
+  "title": "The Duke of West Point",
+  "year": "1938",
+  "rated": "Approved",
+  "released": "29 Dec 1938",
+  "runtime": "96 min",
+  "genre": "Action, Drama, Romance",
+  "director": "Alfred E. Green",
+  "writer": "George Bruce",
+  "actors": "Louis Hayward, Joan Fontaine, Tom Brown",
+  "plot": "An arrogant Cambridge student emigrates to America and enrolls at West Point.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc3MDA2MTc0Ml5BMl5BanBnXkFtZTgwMjk3ODgwMzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0030090",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:38:20.027Z"
+}

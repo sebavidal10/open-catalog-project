@@ -1,0 +1,27 @@
+{
+  "title": "Red Barry",
+  "year": "1938",
+  "rated": "Approved",
+  "released": "18 Oct 1938",
+  "runtime": "256 min",
+  "genre": "Drama",
+  "director": "Ford Beebe, Alan James",
+  "writer": "Norman S. Hall, Ray Trampe, Will Gould",
+  "actors": "Buster Crabbe, Frances Robinson, Edna Sedgewick",
+  "plot": "A famous detective sets out to discover who stole $2 million in bonds.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODNiZGM1ZjMtYjg4My00MDdjLTk2MjctMmNkZTRlMGU4MGFkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0030662",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:37:38.711Z"
+}

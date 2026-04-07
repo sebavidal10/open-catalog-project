@@ -1,0 +1,27 @@
+{
+  "title": "Broadway Musketeers",
+  "year": "1938",
+  "rated": "Approved",
+  "released": "08 Oct 1938",
+  "runtime": "63 min",
+  "genre": "Drama, Music",
+  "director": "John Farrow",
+  "writer": "Don Ryan, Kenneth Gamet",
+  "actors": "Margaret Lindsay, Ann Sheridan, Marie Wilson",
+  "plot": "Drama about three girl graduates of an orphanage whose paths cross.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGExZGI0ZjMtZWY3Ny00ODFmLWIyNzMtNmI5NjczN2QzMTExXkEyXkFqcGdeQXVyNTY4NjI2OTA@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0029948",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:36:13.790Z"
+}

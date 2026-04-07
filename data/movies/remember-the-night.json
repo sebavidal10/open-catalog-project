@@ -1,0 +1,35 @@
+{
+  "title": "Remember the Night",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "19 Jan 1940",
+  "runtime": "94 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Mitchell Leisen",
+  "writer": "Preston Sturges",
+  "actors": "Barbara Stanwyck, Fred MacMurray, Beulah Bondi",
+  "plot": "Love blooms between a sympathetic attorney and the comely shoplifter he has taken home for the Christmas holiday.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzE1MjU1MDgtNzU2NC00YThiLTlmNmItNzA5NjAwNThkMWJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.5",
+  "imdbID": "tt0032981",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:43:10.570Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Jesse James",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "27 Jan 1939",
+  "runtime": "106 min",
+  "genre": "Western",
+  "director": "Henry King, Irving Cummings",
+  "writer": "Nunnally Johnson, Gene Fowler, Curtis Kenyon",
+  "actors": "Tyrone Power, Henry Fonda, Nancy Kelly",
+  "plot": "After railroad agents forcibly evict the James family from their family farm, Jesse and Frank turn to banditry for revenge.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmY3ZjZkOWMtZjdmMS00OWQ3LTgwMGEtMTczYWM2NzQxOGQwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0031507",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:43:30.845Z"
+}

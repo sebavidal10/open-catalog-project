@@ -1,0 +1,31 @@
+{
+  "title": "Ninotchka",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "23 Nov 1939",
+  "runtime": "110 min",
+  "genre": "Comedy, Romance",
+  "director": "Ernst Lubitsch",
+  "writer": "Charles Brackett, Billy Wilder, Walter Reisch",
+  "actors": "Greta Garbo, Melvyn Douglas, Ina Claire",
+  "plot": "A stern Soviet woman sent to Paris to supervise the sale of jewels seized from Russian nobles finds herself attracted to a man who represents everything she is supposed to detest.",
+  "language": "English, Russian, French",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 5 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTllODg3NmItOTY2Yi00NDhkLWE2OWYtNmE0ZWU4NTZiYjljXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0031725",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:42:58.777Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Rules of the Game",
+  "year": "1939",
+  "rated": "Not Rated",
+  "released": "08 Apr 1950",
+  "runtime": "110 min",
+  "genre": "Comedy, Drama",
+  "director": "Jean Renoir",
+  "writer": "Jean Renoir, Carl Koch, Beaumarchais",
+  "actors": "Marcel Dalio, Nora Gregor, Paulette Dubost",
+  "plot": "A bourgeois life in France at the onset of World War II, as the rich and their poor servants meet up at a French chateau.",
+  "language": "French, German, English",
+  "country": "France",
+  "awards": "2 wins & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzlmNmM0MGMtNzlkYS00OTMzLTgwMTktZTA3ZWMyYWFlYmQ3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "99/100"
+    }
+  ],
+  "metascore": "99",
+  "imdbRating": "7.9",
+  "imdbID": "tt0031885",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:42:46.989Z"
+}

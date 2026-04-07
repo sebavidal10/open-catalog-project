@@ -1,0 +1,31 @@
+{
+  "title": "U-Boat 29",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "07 Oct 1939",
+  "runtime": "77 min",
+  "genre": "Thriller, War",
+  "director": "Michael Powell",
+  "writer": "J. Storer Clouston, Emeric Pressburger, Roland Pertwee",
+  "actors": "Conrad Veidt, Valerie Hobson, Sebastian Shaw",
+  "plot": "A German submarine is sent to the Orkney Isles in 1917 to sink the British fleet.",
+  "language": "English, German",
+  "country": "United Kingdom",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTJhMDZmNmQtN2E5Ny00MGQ1LTgwZDYtOGM1MjMyYzg0MjhkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0031968",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:43:29.670Z"
+}

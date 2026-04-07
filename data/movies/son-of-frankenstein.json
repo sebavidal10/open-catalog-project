@@ -1,0 +1,31 @@
+{
+  "title": "Son of Frankenstein",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "13 Jan 1939",
+  "runtime": "99 min",
+  "genre": "Drama, Horror, Sci-Fi",
+  "director": "Rowland V. Lee",
+  "writer": "Wyllis Cooper, Mary Shelley",
+  "actors": "Basil Rathbone, Boris Karloff, Bela Lugosi",
+  "plot": "Returning to the ancestral castle long after the death of the monster, the son of Dr. Frankenstein meets a mad shepherd who is hiding the comatose creature. To clear the family name, he revives the creature and tries to rehabilita...",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWRhNDMzNmYtZjhkZS00ZTk3LWI5ODktZTY2NGUxOTM5MjgyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0031951",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:42:59.957Z"
+}

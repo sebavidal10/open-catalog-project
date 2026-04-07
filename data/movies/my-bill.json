@@ -1,0 +1,27 @@
+{
+  "title": "My Bill",
+  "year": "1938",
+  "rated": "Approved",
+  "released": "09 Jul 1938",
+  "runtime": "64 min",
+  "genre": "Drama, Romance",
+  "director": "John Farrow",
+  "writer": "Vincent Sherman, Robertson White, Tom Barry",
+  "actors": "Kay Francis, Bonita Granville, John Litel",
+  "plot": "The town of Colbrook, Massachusetts was founded by the family of the same name, and as such they are its leading family. Widowed Mrs. Reginald Colbrook - Mary - has had to manage the family money following her husband's death, som...",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWQ1ZGIzZDItOTcyMS00ZDRiLThhNWUtYjJkMzkxNzc5OTI4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0030479",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:37:22.238Z"
+}

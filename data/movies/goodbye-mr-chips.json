@@ -1,0 +1,31 @@
+{
+  "title": "Goodbye, Mr. Chips",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "28 Jul 1939",
+  "runtime": "114 min",
+  "genre": "Drama, Romance",
+  "director": "Sam Wood, Sidney Franklin",
+  "writer": "R.C. Sherriff, Claudine West, Eric Maschwitz",
+  "actors": "Robert Donat, Greer Garson, Terry Kilburn",
+  "plot": "An aged teacher and former headmaster of a boarding school recalls his career and his personal life over the decades.",
+  "language": "English, Latin, German",
+  "country": "United Kingdom, United States",
+  "awards": "Won 1 Oscar. 3 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDVlMDM4M2QtNzZhZS00NWYwLTk1OTctYTUxZTgxNDkxMWI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.9",
+  "imdbID": "tt0031385",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:42:52.897Z"
+}

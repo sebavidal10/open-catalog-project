@@ -1,0 +1,31 @@
+{
+  "title": "The Rains Came",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "15 Sep 1939",
+  "runtime": "103 min",
+  "genre": "Drama",
+  "director": "Clarence Brown",
+  "writer": "Philip Dunne, Julien Josephson, Louis Bromfield",
+  "actors": "Myrna Loy, Tyrone Power, George Brent",
+  "plot": "In India, a married British aristocrat is reunited with an old flame, but she truly has her sights set on a handsome surgeon.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 5 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGRiYTRkMzAtMDZlMS00NWM3LTg4MzgtZGJjMzU1OWJiZDVhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0031835",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:43:51.016Z"
+}

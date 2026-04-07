@@ -1,0 +1,31 @@
+{
+  "title": "Golden Boy",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "05 Sep 1939",
+  "runtime": "99 min",
+  "genre": "Drama, Romance, Sport",
+  "director": "Rouben Mamoulian",
+  "writer": "Lewis Meltzer, Daniel Taradash, Sarah Y. Mason",
+  "actors": "Barbara Stanwyck, Adolphe Menjou, William Holden",
+  "plot": "A poor young Italian man, who is a virtuoso on the violin, wishes to become a champion boxer to make a fortune for his family. But what is the road to success and happiness, and what is the price?",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTgyYTU2YjAtZmM3NS00NzNkLThmZGYtYzI3NWFiYTE3OWM1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0031377",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:43:26.088Z"
+}

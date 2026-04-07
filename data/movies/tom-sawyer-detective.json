@@ -1,0 +1,27 @@
+{
+  "title": "Tom Sawyer, Detective",
+  "year": "1938",
+  "rated": "Approved",
+  "released": "23 Dec 1938",
+  "runtime": "68 min",
+  "genre": "Comedy, Mystery",
+  "director": "Louis King",
+  "writer": "Mark Twain, Robert Yost, Stuart Anthony",
+  "actors": "Billy Cook, Donald O'Connor, Porter Hall",
+  "plot": "Tom Sawyer and Huckleberry Finn help an Arkansas preacher falsely accused of murder.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmFjNjZjMzMtMzM4NC00NWVlLTg5NmEtNTY1N2UzYWYwYjdlXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0030878",
+  "type": "movie",
+  "fetched_at": "2026-04-07T13:36:42.127Z"
+}
