@@ -1,0 +1,31 @@
+{
+  "title": "The Devil and Miss Jones",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "11 Apr 1941",
+  "runtime": "92 min",
+  "genre": "Comedy, Romance",
+  "director": "Sam Wood",
+  "writer": "Norman Krasna",
+  "actors": "Jean Arthur, Robert Cummings, Charles Coburn",
+  "plot": "A tycoon goes undercover to ferret out agitators at a department store, but gets involved in their lives instead.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 3 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWE0N2QzYmMtZjA2MS00MzQ2LWJhZjYtODI0NjJhNGI4YjBiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0033533",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:45:23.247Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Abe Lincoln in Illinois",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "19 Apr 1940",
+  "runtime": "110 min",
+  "genre": "Biography, Drama, History",
+  "director": "John Cromwell",
+  "writer": "Robert E. Sherwood, Grover Jones",
+  "actors": "Raymond Massey, Gene Lockhart, Ruth Gordon",
+  "plot": "Humble Abraham Lincoln gains the respect of his Illinois neighbors, growing in stature and respect until he is elected President in 1860 and departs for Washington.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDdiMmUyODAtMDU2Yi00OTZjLWI3OWQtY2Q3ZmRiYTE2M2E4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0032181",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:15:30.544Z"
+}

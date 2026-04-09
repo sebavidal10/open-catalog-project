@@ -1,0 +1,35 @@
+{
+  "title": "Kitty Foyle",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "27 Dec 1940",
+  "runtime": "108 min",
+  "genre": "Drama, Romance",
+  "director": "Sam Wood",
+  "writer": "Christopher Morley, Dalton Trumbo, Donald Ogden Stewart",
+  "actors": "Ginger Rogers, Dennis Morgan, James Craig",
+  "plot": "A hard-working white-collar girl from a middle-class family meets and falls in love with a young socialite, but she soon clashes with his family.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 4 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWRmMDQ2MDQtYjljZS00ODJmLTk5NTEtZDJiZDljYzYzOWQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "6.9",
+  "imdbID": "tt0032671",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:15:01.956Z"
+}

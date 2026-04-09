@@ -1,0 +1,31 @@
+{
+  "title": "Night Train to Munich",
+  "year": "1940",
+  "rated": "Not Rated",
+  "released": "29 Dec 1940",
+  "runtime": "90 min",
+  "genre": "Drama, Romance, Thriller",
+  "director": "Carol Reed",
+  "writer": "Gordon Wellesley, Sidney Gilliat, Frank Launder",
+  "actors": "Margaret Lockwood, Rex Harrison, Paul Henreid",
+  "plot": "After Germany invades Czechia, the German and the British intelligence services try to capture Czech scientist Dr. Axel Bomasch (James Harcourt), inventor of a new type of armor-plating.",
+  "language": "English, German",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 1 Oscar. 4 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTQ4ZmRmNTUtMjI5OS00MDc3LWI3YjEtZWZhYjcyM2FmMGY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0032842",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:15:11.394Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "High Sierra",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "25 Jan 1941",
+  "runtime": "100 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Raoul Walsh",
+  "writer": "John Huston, W.R. Burnett",
+  "actors": "Ida Lupino, Humphrey Bogart, Alan Curtis",
+  "plot": "After being released from prison, notorious thief Roy Earle is hired by his old boss to help a group of inexperienced criminals plan and carry out the robbery of a California resort.",
+  "language": "English",
+  "country": "United States",
+  "awards": "6 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2ZhZmY2MzctYjRlNy00ZTNjLTkxZWYtMmI3M2UzZjdjNmI5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0033717",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:44:57.121Z"
+}

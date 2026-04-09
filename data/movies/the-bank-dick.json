@@ -1,0 +1,31 @@
+{
+  "title": "The Bank Dick",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "29 Nov 1940",
+  "runtime": "72 min",
+  "genre": "Comedy",
+  "director": "Edward F. Cline",
+  "writer": "W.C. Fields, Richard Carroll",
+  "actors": "W.C. Fields, Cora Witherspoon, Una Merkel",
+  "plot": "Henpecked Egbert Sousé has comic adventures as a substitute film director and unlikely bank guard.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTY4NmJjZjctMzllZS00NGY4LTg0MWEtNjllYjQ0YjU5ODI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0032234",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:15:27.941Z"
+}

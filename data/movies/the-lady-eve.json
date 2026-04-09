@@ -1,0 +1,35 @@
+{
+  "title": "The Lady Eve",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "21 Mar 1941",
+  "runtime": "94 min",
+  "genre": "Comedy, Romance",
+  "director": "Preston Sturges",
+  "writer": "Monckton Hoffe, Preston Sturges",
+  "actors": "Barbara Stanwyck, Henry Fonda, Charles Coburn",
+  "plot": "A trio of classy card sharks targets a socially awkward brewery heir, until one of them falls in love with him.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 5 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGVmYmZkNjgtNDA5Ny00YzFlLTk5MDctYjUyM2RjZWYxNTMwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
+  "metascore": "96",
+  "imdbRating": "7.7",
+  "imdbID": "tt0033804",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:44:45.368Z"
+}

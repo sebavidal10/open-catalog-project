@@ -1,0 +1,35 @@
+{
+  "title": "The House of the Seven Gables",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "12 Apr 1940",
+  "runtime": "89 min",
+  "genre": "Drama, Thriller",
+  "director": "Joe May",
+  "writer": "Lester Cole, Harold Greene, Nathaniel Hawthorne",
+  "actors": "George Sanders, Margaret Lindsay, Vincent Price",
+  "plot": "Based on the novel by Nathaniel Hawthorne, this classic film follows a family feud between two brothers and an ancient curse that haunts them.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTRhMGU3MzQtMDZlNi00MjgxLWJlMTYtMTJiYTRjYzkyZjM1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "metascore": "54",
+  "imdbRating": "7.0",
+  "imdbID": "tt0032610",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:16:03.503Z"
+}

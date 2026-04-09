@@ -1,0 +1,27 @@
+{
+  "title": "Li'l Abner",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "09 Nov 1940",
+  "runtime": "78 min",
+  "genre": "Comedy, Romance",
+  "director": "Albert S. Rogell",
+  "writer": "Charles Kerr, Tyler Johnson, Al Capp",
+  "actors": "Jeff York, Martha O'Driscoll, Mona Ray",
+  "plot": "The goings-on in the rural Southern community of Dogpatch, USA.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzFiNzNiMjItODcwNy00NTcxLTlkYTktZTY1NzZiMWNiYmIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.9",
+  "imdbID": "tt0032703",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:35:16.225Z"
+}

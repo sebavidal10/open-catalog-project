@@ -1,0 +1,31 @@
+{
+  "title": "Blackout",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "29 Nov 1940",
+  "runtime": "80 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "Michael Powell",
+  "writer": "Emeric Pressburger, Michael Powell, Brock Williams",
+  "actors": "Conrad Veidt, Valerie Hobson, Hay Petrie",
+  "plot": "Early in World War II, Danish sea captain Andersen, delayed in a British port, tangles with German spies.",
+  "language": "English, Danish",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2ZmYzE2M2UtYzg1YS00OGEyLWIwZDEtNjU4MGQzMmQ2MmI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0032356",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:35:10.360Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Wolf of New York",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "23 Jan 1940",
+  "runtime": "67 min",
+  "genre": "Crime, Drama",
+  "director": "William C. McGann",
+  "writer": "Gordon Kahn, Lionel Houser, Leslie T. White",
+  "actors": "Edmund Lowe, Rose Hobart, James Stephenson",
+  "plot": "A district attorney tackles the \"Wolf of New York\" who is the mastermind behind a multitude of murders and robberies plaguing the city.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDM0NmZkZWItZTQyNS00M2Y0LWEwZTYtNWU5MjBhYzdmZTY1XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0033270",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:43:48.973Z"
+}

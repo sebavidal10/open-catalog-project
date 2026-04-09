@@ -1,0 +1,31 @@
+{
+  "title": "Santa Fe Trail",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "28 Dec 1940",
+  "runtime": "110 min",
+  "genre": "Drama, War, Western",
+  "director": "Michael Curtiz",
+  "writer": "Robert Buckner",
+  "actors": "Errol Flynn, Olivia de Havilland, Raymond Massey",
+  "plot": "In 1854, Jeb Stuart, George Custer and other graduates from West Point are posted to Kansas to help pacify the territory before railroad construction to Santa Fe can resume.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWUyMTJmM2EtOTkzOC00MWFmLThmZDktM2EzYmZjNWUxZTM4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "56%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0033021",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:15:22.090Z"
+}

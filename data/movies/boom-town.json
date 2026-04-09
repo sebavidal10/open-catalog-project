@@ -1,0 +1,27 @@
+{
+  "title": "Boom Town",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "30 Aug 1940",
+  "runtime": "119 min",
+  "genre": "Drama, Romance, Western",
+  "director": "Jack Conway",
+  "writer": "John Lee Mahin, James Edward Grant",
+  "actors": "Clark Gable, Spencer Tracy, Claudette Colbert",
+  "plot": "Two buddies who rise from fly-by-night wildcatters to oil tycoons over a ten-year period, are in love with the same woman.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzE2MzFkMmYtODBkNC00ZDg3LWExNDctY2ZmYmNjNTNkZTM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0032273",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:15:56.480Z"
+}

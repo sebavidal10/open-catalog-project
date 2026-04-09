@@ -1,0 +1,31 @@
+{
+  "title": "Strange Cargo",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "01 Mar 1940",
+  "runtime": "113 min",
+  "genre": "Adventure, Drama, Romance",
+  "director": "Frank Borzage",
+  "writer": "Lawrence Hazard, Richard Sale, Anita Loos",
+  "actors": "Clark Gable, Joan Crawford, Ian Hunter",
+  "plot": "Convicts escaping from Devil's Island come under the influence of a strange Christ-like figure (Ian Hunter).",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzc2MTVkYjEtNDIwOS00YTljLWJhN2ItNzliYjg3YTc0MmIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0033105",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:16:14.329Z"
+}

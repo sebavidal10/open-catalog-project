@@ -1,0 +1,31 @@
+{
+  "title": "Nice Girl?",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "21 Feb 1941",
+  "runtime": "91 min",
+  "genre": "Comedy, Drama, Musical",
+  "director": "William A. Seiter",
+  "writer": "Richard Connell, Gladys Lehman, Phyllis Duganne",
+  "actors": "Deanna Durbin, Franchot Tone, Walter Brennan",
+  "plot": "A young girl finds herself attracted to one of her father's business partners.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2M1NDcxOGEtYzQ2Ny00Yjk1LThhYjAtYzBiZmVkMjNjOTQ3XkEyXkFqcGdeQXVyMzc5ODc1MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0033950",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:44:59.735Z"
+}

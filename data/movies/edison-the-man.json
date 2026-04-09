@@ -1,0 +1,31 @@
+{
+  "title": "Edison, the Man",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "10 May 1940",
+  "runtime": "107 min",
+  "genre": "Biography, Drama",
+  "director": "Clarence Brown",
+  "writer": "Talbot Jennings, Bradbury Foote, Dore Schary",
+  "actors": "Spencer Tracy, Rita Johnson, Lynne Overman",
+  "plot": "82-year-old inventor and entrepreneur Thomas Alva Edison is honored in 1929 and he reflects back on his sixty-year career of scientific achievement.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTUyZmEzNzYtN2M2MS00MTU4LThhZWQtYTk3OWQzNDViNzA1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0032432",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:35:36.184Z"
+}

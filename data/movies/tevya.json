@@ -1,0 +1,31 @@
+{
+  "title": "Tevya",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "21 Dec 1939",
+  "runtime": "93 min",
+  "genre": "Drama",
+  "director": "Maurice Schwartz",
+  "writer": "Sholom Aleichem, Maurice Schwartz, Marcy Klauber",
+  "actors": "Maurice Schwartz, Miriam Riselle, Rebecca Weintraub",
+  "plot": "The original, non-musical film version of the book which inspired \"Fiddler on the Roof\".",
+  "language": "Yiddish, Ukrainian",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWNkNzY1ZDctNGUxNS00NWU2LTk3NjItZGY0YzRkMTk1Zjk3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0032012",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:08:32.274Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Maisie",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "22 Jun 1939",
+  "runtime": "75 min",
+  "genre": "Comedy, Drama",
+  "director": "Edwin L. Marin",
+  "writer": "Mary C. McCall Jr., Wilson Collison",
+  "actors": "Robert Young, Ann Sothern, Ruth Hussey",
+  "plot": "A showgirl stranded in a Wyoming town ends up being hired as a maid at a ranch.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDQzNDYxZmMtZGU2YS00OTY5LWFlMmEtZDcxNmRlOWQ3NWE0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0031608",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:05:35.167Z"
+}

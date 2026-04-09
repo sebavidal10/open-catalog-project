@@ -1,0 +1,35 @@
+{
+  "title": "Rebecca",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "12 Apr 1940",
+  "runtime": "130 min",
+  "genre": "Drama, Mystery, Romance",
+  "director": "Alfred Hitchcock",
+  "writer": "Daphne Du Maurier, Robert E. Sherwood, Joan Harrison",
+  "actors": "Laurence Olivier, Joan Fontaine, George Sanders",
+  "plot": "A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 10 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTI0MjUyODAtZTBkNC00MmIwLWFlNmYtMWE3ZmJlOWJjM2QyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "8.1",
+  "imdbID": "tt0032976",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:14:43.153Z"
+}

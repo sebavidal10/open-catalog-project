@@ -1,0 +1,31 @@
+{
+  "title": "Flash Gordon Conquers the Universe",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "03 Mar 1940",
+  "runtime": "195 min",
+  "genre": "Action, Adventure, Family",
+  "director": "Ford Beebe, Ray Taylor",
+  "writer": "Alex Raymond, Basil Dickey, George H. Plympton",
+  "actors": "Buster Crabbe, Carol Hughes, Charles Middleton",
+  "plot": "A ravaging plague has struck the Earth threatening no less than global extinction. This alien disease is believed to be the evil spawn of Ming, the merciless Emperor of Planet Mongo. The world's only hope now rests with Flash Gordon.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTMyMWM3ZGYtOTU2NS00NDkzLTkxODgtOTRmODc5MzU0MGNjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0032475",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:15:19.697Z"
+}

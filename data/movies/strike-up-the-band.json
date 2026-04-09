@@ -1,0 +1,31 @@
+{
+  "title": "Strike Up the Band",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "27 Sep 1940",
+  "runtime": "120 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Busby Berkeley",
+  "writer": "John Monks Jr., Fred F. Finklehoffe, Herbert Fields",
+  "actors": "Mickey Rooney, Judy Garland, Paul Whiteman",
+  "plot": "A high school boy wants to become a professional musician, and his gal pal wants to become his best girl. They work together staging big band shows with fellow classmates in the hopes of hitting it big.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjJkMTEwYWEtM2YxZi00ZGMzLWJkNTctZGZkZWU3N2M3ZWRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "metascore": "59",
+  "imdbRating": "6.8",
+  "imdbID": "tt0033110",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:34:45.583Z"
+}

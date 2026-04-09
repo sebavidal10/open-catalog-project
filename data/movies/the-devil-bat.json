@@ -1,0 +1,31 @@
+{
+  "title": "The Devil Bat",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "13 Dec 1940",
+  "runtime": "68 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Jean Yarbrough",
+  "writer": "John T. Neville, George Bricker",
+  "actors": "Bela Lugosi, Suzanne Kaaren, Dave O'Brien",
+  "plot": "A mad scientist develops an aftershave lotion that causes his gigantic bats to kill anyone who wears it.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2Y5MDM5ZWYtYmNjYS00MjUyLWE2NTQtN2RlMTNjM2VlM2YyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.4",
+  "imdbID": "tt0032390",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:35:11.541Z"
+}

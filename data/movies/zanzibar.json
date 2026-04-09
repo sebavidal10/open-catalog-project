@@ -1,0 +1,31 @@
+{
+  "title": "Zanzibar",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "08 Mar 1940",
+  "runtime": "70 min",
+  "genre": "Adventure",
+  "director": "Harold D. Schuster",
+  "writer": "Maurice Tombragel, Maurice Wright",
+  "actors": "Lola Lane, James Craig, Eduardo Ciannelli",
+  "plot": "A beautiful young woman organizes an expedition to Africa to search for a sacred skull that is worshiped by the locals.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmFlOGQzNjUtNWJkMy00ZDc0LWFhNmQtZmM4MjliMmIxYzViXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0033294",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:40:41.040Z"
+}

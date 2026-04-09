@@ -1,0 +1,35 @@
+{
+  "title": "Fantasia",
+  "year": "1940",
+  "rated": "G",
+  "released": "19 Sep 1941",
+  "runtime": "124 min",
+  "genre": "Animation, Family, Fantasy",
+  "director": "James Algar, Samuel Armstrong, Ford Beebe Jr.",
+  "writer": "Joe Grant, Dick Huemer, Lee Blair",
+  "actors": "Leopold Stokowski, Deems Taylor, The Philadelphia Orchestra",
+  "plot": "A series of eight famous pieces of classical music, conducted by Leopold Stokowski and interpreted in animation by Walt Disney's team of artists.",
+  "language": "English",
+  "country": "United States",
+  "awards": "9 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmM1NGNjZWUtZTk2Zi00ZjdmLTk3Y2QtMDQyNjJjMWI1ZDFlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
+  "metascore": "96",
+  "imdbRating": "7.7",
+  "imdbID": "tt0032455",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:14:39.614Z"
+}

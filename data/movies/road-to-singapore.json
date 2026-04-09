@@ -1,0 +1,35 @@
+{
+  "title": "Road to Singapore",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "22 Mar 1940",
+  "runtime": "85 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Victor Schertzinger",
+  "writer": "Don Hartman, Frank Butler, Harry Hervey",
+  "actors": "Bing Crosby, Bob Hope, Dorothy Lamour",
+  "plot": "Two playboys try to forget previous romances in Singapore - until they meet a beautiful dancer.",
+  "language": "English, Esperanto",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWQ0YjM3NGYtZWNlNC00YTk0LWI0ZWEtMWM5YzRlMWUxYmI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "6.6",
+  "imdbID": "tt0032993",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:16:11.981Z"
+}

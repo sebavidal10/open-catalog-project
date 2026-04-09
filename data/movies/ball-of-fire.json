@@ -1,0 +1,35 @@
+{
+  "title": "Ball of Fire",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "09 Jan 1942",
+  "runtime": "111 min",
+  "genre": "Comedy, Romance",
+  "director": "Howard Hawks",
+  "writer": "Charles Brackett, Billy Wilder, Thomas Monroe",
+  "actors": "Gary Cooper, Barbara Stanwyck, Oscar Homolka",
+  "plot": "A group of professors working on a new encyclopedia while living in a Manhattan mansion take in a mouthy nightclub singer who is wanted by the police to help bring down her mob boss lover.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 4 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWQ4YmE5NWItODc0Ni00NGVlLTlhYjAtZTAwY2M3YmViMjc5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.7",
+  "imdbID": "tt0033373",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:44:50.077Z"
+}

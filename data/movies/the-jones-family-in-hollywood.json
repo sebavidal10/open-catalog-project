@@ -1,0 +1,27 @@
+{
+  "title": "The Jones Family in Hollywood",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "02 Jun 1939",
+  "runtime": "60 min",
+  "genre": "Adventure, Comedy, Romance",
+  "director": "Malcolm St. Clair",
+  "writer": "Harold Tarshis, Joseph Hoffman, Buster Keaton",
+  "actors": "Jed Prouty, Spring Byington, Kenneth Howell",
+  "plot": "Father goes to an American Legion convention in Hollywood and the family goes along, visiting a studio a causing havoc on the set.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTA5ZGQ4MDMtYmRjMi00ODg5LWE1ODQtYWEzYTE1ZjAzOWE0XkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0031512",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:13:53.820Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Tower of London",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "17 Nov 1939",
+  "runtime": "92 min",
+  "genre": "Drama, History",
+  "director": "Rowland V. Lee",
+  "writer": "Robert N. Lee",
+  "actors": "Basil Rathbone, Boris Karloff, Barbara O'Neil",
+  "plot": "In the 15th century Richard Duke of Gloucester, aided by his club-footed executioner Mord, eliminates those ahead of him in succession to the throne, then occupied by his brother King Edward IV of England. As each murder is accomp...",
+  "language": "English, Latin, French",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWE4MmM5ZGUtZmY0NS00NmZkLTk0YzgtYWI5MGIyZWJkZDljXkEyXkFqcGdeQXVyMjM0ODM0NDk@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0032049",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:04:10.449Z"
+}

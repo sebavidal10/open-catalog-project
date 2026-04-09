@@ -1,0 +1,31 @@
+{
+  "title": "Sergeant York",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "27 Sep 1941",
+  "runtime": "134 min",
+  "genre": "Biography, Drama, History",
+  "director": "Howard Hawks",
+  "writer": "Abem Finkel, Harry Chandlee, Howard Koch",
+  "actors": "Gary Cooper, Walter Brennan, Joan Leslie",
+  "plot": "A Tennessee farmer and marksman is drafted in World War I, and struggles with his pacifist inclinations before becoming one of the most celebrated war heroes.",
+  "language": "English, French, German",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 5 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzYxMTYzMTMtNjk0Yy00NjMyLWIyMjUtNjk4ZDUwMzFkNDZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0034167",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:44:39.497Z"
+}

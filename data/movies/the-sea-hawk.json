@@ -1,0 +1,31 @@
+{
+  "title": "The Sea Hawk",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "31 Aug 1940",
+  "runtime": "127 min",
+  "genre": "Action, Adventure, History",
+  "director": "Michael Curtiz",
+  "writer": "Howard Koch, Seton I. Miller",
+  "actors": "Errol Flynn, Brenda Marshall, Claude Rains",
+  "plot": "Geoffrey Thorpe, a buccaneer, is hired by Queen Elizabeth I to nag the Spanish Armada. The Armada is waiting for an attack on England and Thorpe surprises them with attacks on their galleons where he shows his skills with the sword.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 3 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjY2ZTc5ZDYtZjE4Yy00MDZjLWI4NGQtZmU5ZWVhZDczODVhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0033028",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:15:00.785Z"
+}

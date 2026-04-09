@@ -1,0 +1,31 @@
+{
+  "title": "Here Comes Mr. Jordan",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "21 Aug 1941",
+  "runtime": "94 min",
+  "genre": "Comedy, Fantasy, Romance",
+  "director": "Alexander Hall",
+  "writer": "Sidney Buchman, Seton I. Miller, Harry Segall",
+  "actors": "Robert Montgomery, Claude Rains, Evelyn Keyes",
+  "plot": "Boxer Joe Pendleton dies 50 years too soon due to a heavenly mistake, and is given a new life as a millionaire playboy.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 5 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjUzMjI4OWMtZTY4Ny00MjljLWEzNWMtZGMwY2VjYjIyYWMyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0033712",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:45:13.847Z"
+}

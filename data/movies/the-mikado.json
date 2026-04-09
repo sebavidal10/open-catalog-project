@@ -1,0 +1,27 @@
+{
+  "title": "The Mikado",
+  "year": "1939",
+  "rated": "Not Rated",
+  "released": "01 May 1939",
+  "runtime": "90 min",
+  "genre": "Comedy, Musical",
+  "director": "Victor Schertzinger",
+  "writer": "W.S. Gilbert, Geoffrey Toye",
+  "actors": "Kenny Baker, John Barclay, Martyn Green",
+  "plot": "The son of the Mikado of Japan, a wandering minstrel, falls for a girl who is engaged to her guardian.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWUyNmM4ZmEtMWM3Yy00N2U4LWI3MDgtNjc1NDVkMTNkMTJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0031650",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:04:35.182Z"
+}

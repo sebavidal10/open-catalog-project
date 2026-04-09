@@ -1,0 +1,31 @@
+{
+  "title": "Topper Returns",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "21 Mar 1941",
+  "runtime": "88 min",
+  "genre": "Comedy, Fantasy, Mystery",
+  "director": "Roy Del Ruth",
+  "writer": "Thorne Smith, Jonathan Latimer, Gordon Douglas",
+  "actors": "Joan Blondell, Roland Young, Carole Landis",
+  "plot": "A fun-loving young woman is murdered after trading bedrooms with her wealthy friend. Her ghost seeks aid from Topper to find the murderer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDI3YWMzYzItNDk1Zi00MDdiLTk0MTMtMTA5N2JmOGVkNjc1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0034303",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:45:22.069Z"
+}

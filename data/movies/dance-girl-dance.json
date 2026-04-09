@@ -1,0 +1,31 @@
+{
+  "title": "Dance, Girl, Dance",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "30 Aug 1940",
+  "runtime": "90 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "Dorothy Arzner, Roy Del Ruth",
+  "writer": "Tess Slesinger, Frank Davis, Vicki Baum",
+  "actors": "Maureen O'Hara, Louis Hayward, Lucille Ball",
+  "plot": "After a troupe of danseuses becomes unemployed, one of them takes up burlesque dancing while another dreams of performing ballet.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzYxZDFkN2YtMDZjYy00NWNhLWJiZmMtNzM3MzljNzc4MjBlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0032376",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:15:14.909Z"
+}

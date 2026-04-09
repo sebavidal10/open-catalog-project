@@ -1,0 +1,31 @@
+{
+  "title": "The Ape",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "30 Sep 1940",
+  "runtime": "62 min",
+  "genre": "Horror",
+  "director": "William Nigh",
+  "writer": "Adam Shirk, Curt Siodmak, Richard Carroll",
+  "actors": "Boris Karloff, Maris Wrixon, Gene O'Donnell",
+  "plot": "Dr. Bernard Adrian is a kindly mad scientist who seeks to cure a young woman's polio. He needs spinal fluid from a human to complete the formula for his experimental serum.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTkyNDIwZWUtNjI4OS00YjAyLWIyMmYtZDQ5MWQxMmY2ZmU2XkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.6",
+  "imdbID": "tt0032215",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:34:46.776Z"
+}

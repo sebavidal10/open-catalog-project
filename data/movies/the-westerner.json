@@ -1,0 +1,35 @@
+{
+  "title": "The Westerner",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "20 Sep 1940",
+  "runtime": "100 min",
+  "genre": "Drama, Western",
+  "director": "William Wyler",
+  "writer": "Jo Swerling, Niven Busch, Stuart N. Lake",
+  "actors": "Gary Cooper, Walter Brennan, Doris Davenport",
+  "plot": "Judge Roy Bean, a self-appointed hanging judge in Vinegarroon, Texas, befriends saddle tramp Cole Harden, who opposes Bean's policy against homesteaders.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODc5ZjJjMmUtMjlkMS00MjczLWFhZWEtN2ZiMDRmYjVmYjk1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.3",
+  "imdbID": "tt0033253",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:15:04.337Z"
+}

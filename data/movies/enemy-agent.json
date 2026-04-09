@@ -1,0 +1,27 @@
+{
+  "title": "Enemy Agent",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "19 Apr 1940",
+  "runtime": "64 min",
+  "genre": "Adventure, Mystery",
+  "director": "Lew Landers",
+  "writer": "Edmund L. Hartmann, Sam Robins",
+  "actors": "Richard Cromwell, Helen Vinson, Robert Armstrong",
+  "plot": "A man is framed for being a spy. After he is released, he sets out to find who the real spies are.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1YWVjODctZjE2OC00ZjNkLWE5ZDMtNjY4Y2M4ZjVjODMwXkEyXkFqcGdeQXVyMzI2MDEwNA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0032443",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:42:08.829Z"
+}

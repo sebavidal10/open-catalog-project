@@ -1,0 +1,35 @@
+{
+  "title": "Pride and Prejudice",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "26 Jul 1940",
+  "runtime": "118 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Robert Z. Leonard",
+  "writer": "Aldous Huxley, Jane Murfin, Jane Austen",
+  "actors": "Greer Garson, Laurence Olivier, Mary Boland",
+  "plot": "The arrival of wealthy bachelors in town causes an uproar when families with single daughters aggressively seek engagements, including the Bennet family, with five eligible daughters.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 4 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzc4Y2YzMjQtM2YwMS00NzU2LThkNmItZGZmMDMyZTVkYjdmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.4",
+  "imdbID": "tt0032943",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:14:44.332Z"
+}

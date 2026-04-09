@@ -1,0 +1,31 @@
+{
+  "title": "Gaslight",
+  "year": "1940",
+  "rated": "Not Rated",
+  "released": "10 Nov 1952",
+  "runtime": "84 min",
+  "genre": "Drama, Mystery, Romance",
+  "director": "Thorold Dickinson",
+  "writer": "Patrick Hamilton, A.R. Rawlinson, Bridget Boland",
+  "actors": "Anton Walbrook, Diana Wynyard, Frank Pettingell",
+  "plot": "Twenty years after the murder of Alice Barlow, her house is finally occupied again. However, the husband from the couple who have moved in has a secret which he will do anything to keep hidden.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmRmNGVhMTYtYWIwZS00Yzg3LWJmNDctNzJjYTI1YTVmNTc4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0031359",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:15:09.038Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Our Town",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "24 May 1940",
+  "runtime": "90 min",
+  "genre": "Drama, Family, Romance",
+  "director": "Sam Wood",
+  "writer": "Thornton Wilder, Frank Craven, Harry Chandlee",
+  "actors": "William Holden, Martha Scott, Fay Bainter",
+  "plot": "Change comes slowly to a small New Hampshire town in the early 20th century.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 6 Oscars. 3 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGM1OWMxNzMtMzYwMC00MzhlLTgyMTktN2ZlZWU4NzQzYTc3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0032881",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:15:23.261Z"
+}

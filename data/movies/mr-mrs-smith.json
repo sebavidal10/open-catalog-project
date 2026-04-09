@@ -1,0 +1,35 @@
+{
+  "title": "Mr. & Mrs. Smith",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "12 Apr 1941",
+  "runtime": "95 min",
+  "genre": "Comedy, Romance",
+  "director": "Alfred Hitchcock",
+  "writer": "Norman Krasna",
+  "actors": "Carole Lombard, Robert Montgomery, Gene Raymond",
+  "plot": "A couple who have been married for three years are shocked to learn that their marriage is not legally valid.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTg4ZGZlMzYtNDU1My00M2FlLWIwNzctMzExYzI0ODY1M2I3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "65%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "6.3",
+  "imdbID": "tt0033922",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:44:54.779Z"
+}

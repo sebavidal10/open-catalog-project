@@ -1,0 +1,31 @@
+{
+  "title": "The Flame of New Orleans",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "25 Apr 1941",
+  "runtime": "79 min",
+  "genre": "Adventure, Comedy, Music",
+  "director": "René Clair",
+  "writer": "Norman Krasna, René Clair",
+  "actors": "Marlene Dietrich, Bruce Cabot, Roland Young",
+  "plot": "In old New Orleans, a beautiful adventuress juggles the attentions of a rich banker and a dashing sea captain.",
+  "language": "French, English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODhhMzA5NzYtM2I2ZC00NmI5LTlmOGQtYTg3NDhlMDgxNzQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "29%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0033606",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:45:35.010Z"
+}

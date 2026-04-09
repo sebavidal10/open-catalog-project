@@ -1,0 +1,35 @@
+{
+  "title": "Road to Zanzibar",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "11 Apr 1941",
+  "runtime": "91 min",
+  "genre": "Adventure, Comedy, Musical",
+  "director": "Victor Schertzinger",
+  "writer": "Frank Butler, Don Hartman, Sy Bartlett",
+  "actors": "Bing Crosby, Bob Hope, Dorothy Lamour",
+  "plot": "Stranded in Africa, Chuck and his pal Fearless have comic versions of jungle adventures, featuring two attractive con women.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "2 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzE3NzhkNTctMTFiNS00Y2Y5LTljMWMtYjg0MzVkNzA0ZTI4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "6.7",
+  "imdbID": "tt0034116",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:46:41.222Z"
+}

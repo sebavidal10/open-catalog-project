@@ -1,0 +1,31 @@
+{
+  "title": "Mr. Bug Goes to Town",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "05 Dec 1941",
+  "runtime": "78 min",
+  "genre": "Animation, Comedy, Family",
+  "director": "Dave Fleischer",
+  "writer": "Dave Fleischer, Dan Gordon, Tedd Pierce",
+  "actors": "Kenny Gardner, Jack Mercer, Tedd Pierce",
+  "plot": "The happy tranquility of Buggsville is shattered when the populace learns that a colossal skyscraper is to be built over their tiny town.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjQwMDJjODQtMjNlYi00ZDk5LThiZTEtNGNkM2FmNzk0OTg1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0033727",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:46:09.495Z"
+}

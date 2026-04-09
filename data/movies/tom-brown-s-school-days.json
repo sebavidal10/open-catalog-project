@@ -1,0 +1,27 @@
+{
+  "title": "Tom Brown's School Days",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "19 Jul 1940",
+  "runtime": "86 min",
+  "genre": "Drama",
+  "director": "Robert Stevenson",
+  "writer": "Thomas Hughes, Walter Ferris, Frank Cavett",
+  "actors": "Cedric Hardwicke, Freddie Bartholomew, Jimmy Lydon",
+  "plot": "A young boy starts at Rugby boarding school. He is tormented by Flashman, the school bully.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjk0M2M0NWEtNmI1MS00YjQzLTkxNTMtNjhkYmFkODgwMGUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0033169",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:35:45.574Z"
+}

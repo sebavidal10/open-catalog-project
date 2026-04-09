@@ -1,0 +1,31 @@
+{
+  "title": "The Invisible Woman",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "27 Dec 1940",
+  "runtime": "72 min",
+  "genre": "Comedy, Horror, Romance",
+  "director": "A. Edward Sutherland",
+  "writer": "Curt Siodmak, Joe May, Robert Lees",
+  "actors": "Virginia Bruce, John Barrymore, John Howard",
+  "plot": "An attractive model with an ulterior motive volunteers as guinea pig for an invisibility machine.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmI4YjMxZDQtNTdiMy00NTc4LWJiZDktYjFlMGE4NTQ2YTRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0032637",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:15:18.528Z"
+}

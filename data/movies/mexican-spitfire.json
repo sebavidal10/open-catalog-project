@@ -1,0 +1,31 @@
+{
+  "title": "Mexican Spitfire",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "12 Jan 1940",
+  "runtime": "67 min",
+  "genre": "Comedy",
+  "director": "Leslie Goodwins",
+  "writer": "Joseph Fields, Charles E. Roberts",
+  "actors": "Lupe Velez, Leon Errol, Donald Woods",
+  "plot": "Newlyweds Dennis and Carmelita have several obstacles to deal with in their new marriage: Carmelita's fiery Latin temper, a meddling aunt and a conniving ex-fiancee who's determined to break up their marriage.",
+  "language": "Spanish, English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDg5YmJjNmUtYjExMi00ZDY5LWFkZTItZTM5MTUyYTc3YmRjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0031641",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:08:00.444Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Shanghai Gesture",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "15 Jan 1942",
+  "runtime": "95 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Josef von Sternberg",
+  "writer": "Josef von Sternberg, Geza Herczeg, Jules Furthman",
+  "actors": "Gene Tierney, Walter Huston, Victor Mature",
+  "plot": "In Shanghai, dragon lady 'Mother' Gin Sling operates a gambling house for wealthy patrons but she clashes with influential land developer Sir Guy Charteris who wants to put her out of business.",
+  "language": "English, French, Chinese, Russian, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2E2Y2YxYjItNmE4Ni00N2YwLWJhZWQtYzVjMzZjZDdkNjhjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0034175",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:45:12.671Z"
+}

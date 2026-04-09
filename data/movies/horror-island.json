@@ -1,0 +1,27 @@
+{
+  "title": "Horror Island",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "28 Mar 1941",
+  "runtime": "60 min",
+  "genre": "Comedy, Crime, Horror",
+  "director": "George Waggner",
+  "writer": "Maurice Tombragel, Victor McLeod, Alex Gottlieb",
+  "actors": "Dick Foran, Leo Carrillo, Peggy Moran",
+  "plot": "A down-on-his-luck businessman organizes an excursion to Sir Henry Morgan's Island for a treasure hunt only to encounter a mysterious phantom and murder.",
+  "language": "Spanish, English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNThiMTZjNWQtZjlmOS00YWQ1LThiOTktYWZlNjY3ZDM0ZjdkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0033728",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:46:42.391Z"
+}

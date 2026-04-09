@@ -1,0 +1,31 @@
+{
+  "title": "The Invisible Man Returns",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "12 Jan 1940",
+  "runtime": "81 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Joe May",
+  "writer": "H.G. Wells, Joe May, Curt Siodmak",
+  "actors": "Cedric Hardwicke, Vincent Price, Nan Grey",
+  "plot": "The owner of a coal mining operation, falsely imprisoned for fratricide, takes a drug to make him invisible, despite its side effect: gradual madness.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjljYzNmODYtMGQ1Ny00NDY4LThmMTUtNTIzOTVmZjdiODUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0032635",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:15:26.774Z"
+}

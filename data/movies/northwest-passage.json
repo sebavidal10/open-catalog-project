@@ -1,0 +1,31 @@
+{
+  "title": "Northwest Passage",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "23 Feb 1940",
+  "runtime": "126 min",
+  "genre": "Adventure, Drama, History",
+  "director": "King Vidor, Jack Conway, W.S. Van Dyke",
+  "writer": "Laurence Stallings, Talbot Jennings, Kenneth Roberts",
+  "actors": "Spencer Tracy, Robert Young, Walter Brennan",
+  "plot": "Langdon Towne and Hunk Marriner join Major Rogers' Rangers as they wipe out an Indian village. They set out for Fort Wentworth, but when they arrive they find no soldiers and none of the supplies they expected.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 3 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGNmZjQ1Y2ItMGVkOS00MGMzLTg1YjgtZDYxOTk4ZWZmMDYxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0032851",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:15:03.131Z"
+}

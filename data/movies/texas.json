@@ -1,0 +1,27 @@
+{
+  "title": "Texas",
+  "year": "1941",
+  "rated": "Passed",
+  "released": "09 Oct 1941",
+  "runtime": "93 min",
+  "genre": "Western",
+  "director": "George Marshall",
+  "writer": "Horace McCoy, Lewis Meltzer, Michael Blankfort",
+  "actors": "William Holden, Glenn Ford, Claire Trevor",
+  "plot": "Two young men head west in search of fortune and adventure.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjA1NGU2YjEtMjU5Zi00Y2E1LTllNGUtYTk1MTMxNjZjOWM5XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0034269",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:47:05.913Z"
+}

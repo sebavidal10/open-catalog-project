@@ -1,0 +1,31 @@
+{
+  "title": "Angels Over Broadway",
+  "year": "1940",
+  "rated": "Passed",
+  "released": "02 Oct 1940",
+  "runtime": "79 min",
+  "genre": "Adventure, Comedy, Crime",
+  "director": "Ben Hecht, Lee Garmes",
+  "writer": "Ben Hecht",
+  "actors": "Douglas Fairbanks Jr., Rita Hayworth, Thomas Mitchell",
+  "plot": "A cuckolded embezzler on the verge of suicide is helped by a tout, an alcoholic playwright, and a pick-up girl to reimburse the money with a gambling sting.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDVkYmI4Y2EtZjY1NC00NjE4LTkyMzgtZDY3ZTQ0MWI3NTYzXkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0032209",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:35:29.137Z"
+}

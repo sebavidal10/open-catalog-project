@@ -1,0 +1,31 @@
+{
+  "title": "Christmas in July",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "25 Oct 1940",
+  "runtime": "67 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Preston Sturges",
+  "writer": "Preston Sturges",
+  "actors": "Dick Powell, Ellen Drew, Raymond Walburn",
+  "plot": "After the co-workers of an ambitious clerk trick him into thinking he has won $25,000 in a slogan contest, he begins to use the money to fulfill his dreams. What will happen when the ruse is discovered?",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzE1ZGYxMGItNTRkZS00YjEwLWFkOGYtZDQzMzY3ZjBmNjFkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0032338",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:34:44.410Z"
+}

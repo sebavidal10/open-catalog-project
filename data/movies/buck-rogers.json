@@ -1,0 +1,27 @@
+{
+  "title": "Buck Rogers",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "11 Apr 1939",
+  "runtime": "237 min",
+  "genre": "Adventure, Family, Sci-Fi",
+  "director": "Ford Beebe, Saul A. Goodkind",
+  "writer": "Norman S. Hall, Ray Trampe, Dick Calkins",
+  "actors": "Buster Crabbe, Constance Moore, Jackie Moran",
+  "plot": "A 20th Century pilot named Buck Rogers and his young friend Buddy Wade awake from 500 years in suspended animation to find that the world has been taken over by the outlaw army of Killer Kane.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjI1NGFmZjMtY2NlNS00Mzk3LWI2ZjUtNzhiYWJiNTQxMTE1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0032290",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:04:55.180Z"
+}

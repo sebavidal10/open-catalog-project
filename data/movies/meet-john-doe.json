@@ -1,0 +1,35 @@
+{
+  "title": "Meet John Doe",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "03 May 1941",
+  "runtime": "122 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Frank Capra",
+  "writer": "Richard Connell, Robert Presnell Sr., Robert Riskin",
+  "actors": "Gary Cooper, Barbara Stanwyck, Edward Arnold",
+  "plot": "A penniless drifter is recruited by an ambitious columnist to impersonate a non-existent person who said he'd be committing suicide as a protest, and a social movement begins.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 4 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDYxM2Q0MmMtZTY4MS00YmMzLTljMzItYWQ5OWRiY2ZmN2IzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "7.6",
+  "imdbID": "tt0033891",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:44:52.431Z"
+}

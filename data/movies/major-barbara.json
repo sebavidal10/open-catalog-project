@@ -1,0 +1,31 @@
+{
+  "title": "Major Barbara",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "22 Sep 1941",
+  "runtime": "121 min",
+  "genre": "Comedy",
+  "director": "Gabriel Pascal, Harold French",
+  "writer": "George Bernard Shaw, Marjorie Deans, Anatole de Grunwald",
+  "actors": "Wendy Hiller, Rex Harrison, Robert Morley",
+  "plot": "A young and idealistic woman, who has adopted the Salvation Army and whose father is an armament industrialist, will save more souls directing her father's business. A comedy with social commentary.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk5YWJlODMtYjM2Ni00MjExLTk3NTgtZWU4ZjYyOWM5NzJmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0033868",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:46:18.946Z"
+}

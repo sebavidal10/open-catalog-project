@@ -1,0 +1,27 @@
+{
+  "title": "The Adventures of Jane Arden",
+  "year": "1939",
+  "rated": "Passed",
+  "released": "18 Mar 1939",
+  "runtime": "58 min",
+  "genre": "Crime, Drama",
+  "director": "Terry O. Morse",
+  "writer": "Vincent Sherman, Lawrence Kimble, Charles W. Curran",
+  "actors": "Rosella Towne, William Gargan, James Stephenson",
+  "plot": "Reporter Jane Arden goes undercover to try to expose a gang of jewel thieves and smugglers. Her mission becomes more dangerous when her identity is discovered early on by one of the gang leaders.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTYyZTdmZDMtMWMzOC00MmM1LWIyYWEtMDJmYTJkNDQ5ZWJjXkEyXkFqcGdeQXVyMjU4NzU2OTA@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0031021",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:11:48.411Z"
+}

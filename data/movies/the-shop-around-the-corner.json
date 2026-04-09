@@ -1,0 +1,35 @@
+{
+  "title": "The Shop Around the Corner",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "12 Jan 1940",
+  "runtime": "99 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Ernst Lubitsch",
+  "writer": "Samson Raphaelson, Miklós László, Ben Hecht",
+  "actors": "Margaret Sullavan, James Stewart, Frank Morgan",
+  "plot": "Two employees at a gift shop can barely stand each other, without realizing that they are falling in love through the post as each other's anonymous pen pal.",
+  "language": "English",
+  "country": "United States",
+  "awards": "7 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGU3Y2RmMTAtY2EzNC00MjUzLWIyMDUtZWJmYTE2MTU5ZDY5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
+  "metascore": "96",
+  "imdbRating": "8.0",
+  "imdbID": "tt0033045",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:14:52.564Z"
+}

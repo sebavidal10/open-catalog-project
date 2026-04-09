@@ -1,0 +1,31 @@
+{
+  "title": "Nancy Drew... Reporter",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "18 Feb 1939",
+  "runtime": "68 min",
+  "genre": "Comedy, Crime, Family",
+  "director": "William Clemens",
+  "writer": "Kenneth Gamet, Carolyn Keene",
+  "actors": "Bonita Granville, John Litel, Frankie Thomas",
+  "plot": "Nancy Drew, contest-reporter for the local newspaper, clears a young woman of murder charges.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTE1NzExZWUtYTJkYy00OTE0LTk5MzMtN2U2MzAwOTQ2ZDMyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0031709",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:05:09.326Z"
+}

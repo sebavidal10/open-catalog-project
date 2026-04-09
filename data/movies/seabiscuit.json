@@ -1,0 +1,27 @@
+{
+  "title": "Seabiscuit",
+  "year": "1939",
+  "rated": "Unrated",
+  "released": "11 Nov 2003",
+  "runtime": "50 min",
+  "genre": "Documentary",
+  "director": "Manny Nathan",
+  "writer": "Hazel Merry Hawkins, Manny Nathan",
+  "actors": "Martin Mason, Doc Bond, Charles Howard",
+  "plot": "Original Documentary of the horse Seabiscuit, made in 1939 by the horse's owner Charles Howard.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc1NDg3MTI3Nl5BMl5BanBnXkFtZTcwNDIyNzQyMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0384511",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:08:49.903Z"
+}

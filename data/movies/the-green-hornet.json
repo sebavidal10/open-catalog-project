@@ -1,0 +1,27 @@
+{
+  "title": "The Green Hornet",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "09 Jan 1940",
+  "runtime": "258 min",
+  "genre": "Adventure, Crime, Family",
+  "director": "Ford Beebe, Ray Taylor",
+  "writer": "George H. Plympton, Basil Dickey, Morrison Wood",
+  "actors": "Gordon Jones, Wade Boteler, Keye Luke",
+  "plot": "A newspaper publisher and his Korean servant fight crime as vigilantes who pose as a notorious masked gangster and his aide.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTE3YzIwZTQtNWEwZi00YzA4LTk2OTMtYmEwYzRmYWQ3ZTMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0031394",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:15:49.418Z"
+}

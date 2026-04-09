@@ -1,0 +1,31 @@
+{
+  "title": "Escape",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "01 Nov 1940",
+  "runtime": "104 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Mervyn LeRoy",
+  "writer": "Arch Oboler, Marguerite Roberts, Grace Zaring Stone",
+  "actors": "Norma Shearer, Robert Taylor, Conrad Veidt",
+  "plot": "In 1936, a young man arrives in Hitler's Germany, frantically seeking information about his missing German mother, and finds she is pending execution at a concentration camp.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzI4ZmYxYTEtMTVhYS00ZmYxLWFiOTItZDBmMzAyMTUxY2VkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0032447",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:35:31.484Z"
+}

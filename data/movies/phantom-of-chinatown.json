@@ -1,0 +1,31 @@
+{
+  "title": "Phantom of Chinatown",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "18 Nov 1940",
+  "runtime": "62 min",
+  "genre": "Mystery",
+  "director": "Phil Rosen",
+  "writer": "George Waggner, Ralph Gilbert Bettison, Hugh Wiley",
+  "actors": "Keye Luke, Lotus Long, Grant Withers",
+  "plot": "Detective James Lee Wong is on the scene as archaeologist Dr. John Benton, recently returned from an expedition in China where a valuable ancient scroll was recovered, is murdered while giving a lecture on the expedition.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmY2MzRhZjAtYTg1Mi00MmY2LThmOGEtNWI4MmYxMTY1NTZiXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0032903",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:34:53.861Z"
+}

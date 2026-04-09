@@ -1,0 +1,35 @@
+{
+  "title": "Sullivan's Travels",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "06 Feb 1942",
+  "runtime": "90 min",
+  "genre": "Adventure, Comedy, Drama",
+  "director": "Preston Sturges",
+  "writer": "Preston Sturges",
+  "actors": "Joel McCrea, Veronica Lake, Robert Warwick",
+  "plot": "Hollywood director John L. Sullivan sets out to experience life as a homeless person in order to gain relevant life experience for his next movie.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmMyYjBmMzAtOWUzOC00YjU2LThmYTgtY2ZhMjM0MWM5MWI5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "7.9",
+  "imdbID": "tt0034240",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:44:55.952Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Reform School",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "27 Apr 1939",
+  "runtime": "58 min",
+  "genre": "Drama",
+  "director": "Leo C. Popkin",
+  "writer": "Zelda Young, Joseph O'Donnell, Hazel Jamieson",
+  "actors": "Louise Beavers, Reginald Fenderson, Eugene Jackson",
+  "plot": "A female warden takes over at a state reform school and attempts to bring about needed changes.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYyYzkzOGQtMmFjMS00MTg0LThkYTgtZWU4ZDkwYWRjYTEzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0031843",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:09:33.502Z"
+}

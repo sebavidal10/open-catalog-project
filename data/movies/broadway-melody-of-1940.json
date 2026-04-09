@@ -1,0 +1,31 @@
+{
+  "title": "Broadway Melody of 1940",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "09 Feb 1940",
+  "runtime": "102 min",
+  "genre": "Musical",
+  "director": "Norman Taurog",
+  "writer": "Leon Gordon, George Oppenheimer, Jack McGowan",
+  "actors": "Fred Astaire, Eleanor Powell, George Murphy",
+  "plot": "Johnny Brett and King Shaw are an unsuccessful dance team in New York. A producer discovers Brett as the new partner for Clare Bennett but Brett, who thinks he is one of the people they lent money to, gives him the name of his par...",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzEzMTZjOTgtMTViZC00MjNjLWFmNTgtMzM3ODc0ODdhODVmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0032284",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:34:50.318Z"
+}

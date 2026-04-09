@@ -1,0 +1,31 @@
+{
+  "title": "Black Friday",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "12 Apr 1940",
+  "runtime": "70 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Arthur Lubin",
+  "writer": "Curt Siodmak, Eric Taylor, Edmund L. Hartmann",
+  "actors": "Boris Karloff, Bela Lugosi, Stanley Ridges",
+  "plot": "Dr. Sovac transplants the brain of a gangster into his professor friend's body to save his life, but there is a side effect that causes a dangerous split personality.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGM3YTUzZTItYjQzMi00YTc0LWIwOWYtZjA1ZGI2ODE2MzE1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0032258",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:15:54.133Z"
+}

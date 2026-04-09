@@ -1,0 +1,31 @@
+{
+  "title": "The Great Lie",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "12 Apr 1941",
+  "runtime": "108 min",
+  "genre": "Drama",
+  "director": "Edmund Goulding",
+  "writer": "Lenore J. Coffee, Polan Banks",
+  "actors": "Bette Davis, George Brent, Mary Astor",
+  "plot": "After a newlywed's husband apparently dies in a plane crash, she discovers that her rival for his affections is pregnant with his child.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTU0Zjc0ZDYtNWE2ZS00NDg2LWE5NTQtMGI1YWU2NGFlMWY1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0033677",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:45:30.305Z"
+}

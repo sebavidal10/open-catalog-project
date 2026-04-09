@@ -1,0 +1,31 @@
+{
+  "title": "Dr. Cyclops",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "12 Apr 1940",
+  "runtime": "77 min",
+  "genre": "Adventure, Drama, Horror",
+  "director": "Ernest B. Schoedsack",
+  "writer": "Tom Kilpatrick, Malcolm Stuart Boylan",
+  "actors": "Albert Dekker, Thomas Coley, Janice Logan",
+  "plot": "A mad scientist working in the South American jungle miniaturizes his colleagues when he feels his megalomania is threatened.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjA1OGE2YzQtNWU4Yi00MzRlLWJlODktMWQ2YzAzNmExY2UwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0032412",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:15:38.843Z"
+}

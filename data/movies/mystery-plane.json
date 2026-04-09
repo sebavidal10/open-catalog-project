@@ -1,0 +1,27 @@
+{
+  "title": "Mystery Plane",
+  "year": "1939",
+  "rated": "Passed",
+  "released": "08 Mar 1939",
+  "runtime": "60 min",
+  "genre": "Action, Adventure, Crime",
+  "director": "George Waggner",
+  "writer": "Paul Schofield, George Waggner, Hal Forrest",
+  "actors": "John Trent, Marjorie Reynolds, Milburn Stone",
+  "plot": "A famed war pilot (nicknamed \"Tailspin Tommy\") is held hostage for his bomb targeting invention.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGU5YTQ2OTItZTEwYS00ZmI2LWE2NzMtN2U1NWQyNDZmZjYyXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.1",
+  "imdbID": "tt0031703",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:10:02.957Z"
+}

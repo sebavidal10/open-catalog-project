@@ -1,0 +1,27 @@
+{
+  "title": "Spring Parade",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "27 Sep 1940",
+  "runtime": "89 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Henry Koster",
+  "writer": "Bruce Manning, Felix Jackson, Ernst Marischka",
+  "actors": "Deanna Durbin, Robert Cummings, Mischa Auer",
+  "plot": "A young Hungarian woman whose fortune card predicts that she will marry, may find it coming true after she meets an army drummer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzk1ZTBjOGYtNzEzZi00MTI3LTkzMDktNGZkMmJjMGE4YWE1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0033095",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:36:18.943Z"
+}

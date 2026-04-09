@@ -1,0 +1,27 @@
+{
+  "title": "Billy the Kid",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "30 May 1941",
+  "runtime": "94 min",
+  "genre": "Western",
+  "director": "David Miller, Frank Borzage",
+  "writer": "Gene Fowler, Howard Emmett Rogers, Bradbury Foote",
+  "actors": "Robert Taylor, Brian Donlevy, Ian Hunter",
+  "plot": "In 1880 New Mexico, during a feud between cattle growers, former childhood friends Billy the Kid and Jim Sherwood end up working for opposite sides.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTNiOTBlM2ItNTZkYy00Y2M2LTlmNmYtOGNmZTBmZjE0ZjMwXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0033389",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:46:10.727Z"
+}

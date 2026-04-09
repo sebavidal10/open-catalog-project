@@ -1,0 +1,31 @@
+{
+  "title": "The Stars Look Down",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "16 Sep 1940",
+  "runtime": "110 min",
+  "genre": "Drama",
+  "director": "Carol Reed",
+  "writer": "A.J. Cronin, J.B. Williams, A. Coppel",
+  "actors": "Michael Redgrave, Margaret Lockwood, Edward Rigby",
+  "plot": "In a small coal-mining village Bob Fenwick leads a strike over safety standards at the local colliery. Meanwhile his son, David, goes off to university with the hope one day to return to help the miners with their working conditions.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDEwZDkyZDUtMTkzZS00NjEzLWJkN2ItMmZjOTY3ZWU2OTQ1XkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0031976",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:35:02.130Z"
+}

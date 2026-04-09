@@ -1,0 +1,31 @@
+{
+  "title": "Adventures of Captain Marvel",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "28 Mar 1941",
+  "runtime": "216 min",
+  "genre": "Action, Adventure, Family",
+  "director": "John English, William Witney",
+  "writer": "Ronald Davidson, Norman S. Hall, Arch Heath",
+  "actors": "Tom Tyler, Frank Coghlan Jr., William 'Billy' Benedict",
+  "plot": "To protect a magic talisman from being used for evil, a teenage boy named Billy Batson is given the power to become an adult superhero, Captain Marvel, with a single magic word: \"Shazam!\"",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjBhMzQ5NWUtMDQ3Yi00N2JiLWIxMjQtYmZkMjFhYTQ4MDExXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0033317",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:45:36.187Z"
+}

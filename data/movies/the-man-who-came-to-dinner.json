@@ -1,0 +1,35 @@
+{
+  "title": "The Man Who Came to Dinner",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "24 Jan 1942",
+  "runtime": "112 min",
+  "genre": "Comedy, Romance",
+  "director": "William Keighley",
+  "writer": "Julius J. Epstein, George S. Kaufman, Moss Hart",
+  "actors": "Bette Davis, Ann Sheridan, Monty Woolley",
+  "plot": "An acerbic critic wreaks havoc when a hip injury forces him to move in with a Midwestern family.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2JkZWQ0NzctMTAxYi00MGU5LTkxNWQtNjU5MDFiNTAzMmJlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.5",
+  "imdbID": "tt0033874",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:45:18.533Z"
+}

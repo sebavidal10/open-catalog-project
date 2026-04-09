@@ -1,0 +1,31 @@
+{
+  "title": "The Mummy's Hand",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "20 Sep 1940",
+  "runtime": "67 min",
+  "genre": "Adventure, Fantasy, Horror",
+  "director": "Christy Cabanne",
+  "writer": "Griffin Jay, Maxwell Shane, John L. Balderston",
+  "actors": "Dick Foran, Peggy Moran, Wallace Ford",
+  "plot": "Archaeologists defile the tomb of mummified Kharis, who was buried alive for falling in love with an Egyptian princess.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmZkYTBlNzMtZWZmMy00YmE5LTljYzMtZGNlMjQwM2RhNmJlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0032818",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:15:24.428Z"
+}

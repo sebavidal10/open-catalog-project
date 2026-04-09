@@ -1,0 +1,35 @@
+{
+  "title": "The Philadelphia Story",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "17 Jan 1941",
+  "runtime": "112 min",
+  "genre": "Comedy, Romance",
+  "director": "George Cukor",
+  "writer": "Donald Ogden Stewart, Philip Barry, Waldo Salt",
+  "actors": "Cary Grant, Katharine Hepburn, James Stewart",
+  "plot": "After a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 9 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmMwZTQ5OGUtMjQ4Ni00ZTIwLTk1ZWMtNzhlMGQxYjIxMTU1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
+  "metascore": "96",
+  "imdbRating": "7.8",
+  "imdbID": "tt0032904",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:14:40.794Z"
+}

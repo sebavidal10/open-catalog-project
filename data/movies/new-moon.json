@@ -1,0 +1,27 @@
+{
+  "title": "New Moon",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "28 Jun 1940",
+  "runtime": "105 min",
+  "genre": "Adventure, Musical, Romance",
+  "director": "Robert Z. Leonard, W.S. Van Dyke",
+  "writer": "Oscar Hammerstein II, Frank Mandel, Laurence Schwab",
+  "actors": "Jeanette MacDonald, Nelson Eddy, Mary Boland",
+  "plot": "On a Louisiana-bound ship, a nobleman planning a campaign for liberty encounters an heiress.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzNjcwNDQ5M15BMl5BanBnXkFtZTgwMjY5NTY3MzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0032840",
+  "type": "movie",
+  "fetched_at": "2026-04-09T17:36:28.356Z"
+}

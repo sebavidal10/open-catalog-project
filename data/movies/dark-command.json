@@ -1,0 +1,31 @@
+{
+  "title": "Dark Command",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "15 Apr 1940",
+  "runtime": "94 min",
+  "genre": "Drama, Romance, War",
+  "director": "Raoul Walsh",
+  "writer": "Grover Jones, Lionel Houser, F. Hugh Herbert",
+  "actors": "Claire Trevor, John Wayne, Walter Pidgeon",
+  "plot": "In Kansas during the Civil War, opposing pro-Union and pro-Confederate camps clash and visiting Texan Bob Seton runs afoul of William Cantrell's Raiders.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjIwNDdmNTctMTJhMy00MGY4LTg4Y2UtMWIyOWY3ZGYzMGFhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0032383",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:15:48.244Z"
+}

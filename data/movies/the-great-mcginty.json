@@ -1,0 +1,31 @@
+{
+  "title": "The Great McGinty",
+  "year": "1940",
+  "rated": "Approved",
+  "released": "23 Aug 1940",
+  "runtime": "82 min",
+  "genre": "Comedy",
+  "director": "Preston Sturges",
+  "writer": "Preston Sturges",
+  "actors": "Brian Donlevy, Muriel Angelus, Akim Tamiroff",
+  "plot": "Dan McGinty has great success in his chosen field of crooked politics, but he endangers it all in one crazy moment of honesty.",
+  "language": "English, Russian",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTUzMWM3ZjgtN2M3Yi00YzBmLWE1ZDktZWMxMmNjNmY0NTYzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0032554",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:15:45.894Z"
+}

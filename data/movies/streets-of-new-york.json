@@ -1,0 +1,27 @@
+{
+  "title": "Streets of New York",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "12 Apr 1939",
+  "runtime": "73 min",
+  "genre": "Action, Crime, Drama",
+  "director": "William Nigh",
+  "writer": "Robert Hardy Andrews",
+  "actors": "Jackie Cooper, Martin Spellman, Marjorie Reynolds",
+  "plot": "Jimmy, an idealistic and hard-working young man, has just arrived in New York City with dreams of making his fortune.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmU0ZDA4OWEtNDliOC00ZTMxLWFiZDItYjM3Nzc0MDFjYzFhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0031987",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:07:43.970Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Geronimo",
+  "year": "1939",
+  "rated": "Approved",
+  "released": "13 Apr 1940",
+  "runtime": "89 min",
+  "genre": "Western",
+  "director": "Paul Sloane",
+  "writer": "Paul Sloane",
+  "actors": "Preston Foster, Ellen Drew, Andy Devine",
+  "plot": "The army's effort to capture Apache chief Geronimo, who is leading a band of warriors on a rampage of raiding and murder, is hampered by a feud between two officers--who are father and son.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTJhODZkYjQtOThmZS00OWMyLWI3NmUtZjNkYmM0NzY2Yzg3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0031365",
+  "type": "movie",
+  "fetched_at": "2026-04-08T22:05:01.080Z"
+}
