@@ -1,0 +1,35 @@
+{
+  "title": "Now, Voyager",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "31 Oct 1942",
+  "runtime": "117 min",
+  "genre": "Drama, Romance",
+  "director": "Irving Rapper",
+  "writer": "Casey Robinson, Olive Higgins Prouty",
+  "actors": "Bette Davis, Paul Henreid, Claude Rains",
+  "plot": "A frumpy spinster blossoms under therapy and becomes an elegant, independent woman.",
+  "language": "English, Portuguese",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 6 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTIwOGNiMDgtODgxNi00NTAxLTk2ZGEtOTliYWY5ZGRmNzU1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "7.9",
+  "imdbID": "tt0035140",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:42:48.560Z"
+}

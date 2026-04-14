@@ -1,0 +1,31 @@
+{
+  "title": "The Palm Beach Story",
+  "year": "1942",
+  "rated": "Passed",
+  "released": "01 Jan 1943",
+  "runtime": "88 min",
+  "genre": "Comedy, Romance",
+  "director": "Preston Sturges",
+  "writer": "Preston Sturges, Ernst Laemmle",
+  "actors": "Claudette Colbert, Joel McCrea, Mary Astor",
+  "plot": "A New York inventor needs cash to develop his big idea, so his adoring wife decides to raise it by divorcing him and marrying an eccentric Florida millionaire with a capricious high-society sister.",
+  "language": "English",
+  "country": "USA",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjU3MTlmNmUtZmMxZS00YTNmLTlkZWQtOTBhYjNkYjkyMWUxXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0035169",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:43:08.729Z"
+}

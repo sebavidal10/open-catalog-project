@@ -1,0 +1,31 @@
+{
+  "title": "Keeper of the Flame",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "01 Dec 1942",
+  "runtime": "100 min",
+  "genre": "Drama, Mystery",
+  "director": "George Cukor",
+  "writer": "I.A.R. Wylie, Donald Ogden Stewart",
+  "actors": "Spencer Tracy, Katharine Hepburn, Richard Whorf",
+  "plot": "Journalist Steve O'Malley (Spencer Tracy) wants to write a biography of a national hero who died when his car ran off a bridge. Steve receives conflicting reports and tales that make him question what the truth about the hero is.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzMzM2EwMjMtYjhhYi00ZmRiLTg2OGQtZDA2MTI3MThkMmY3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "6.7",
+  "imdbID": "tt0034936",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:43:07.564Z"
+}

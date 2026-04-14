@@ -1,0 +1,35 @@
+{
+  "title": "Mrs. Miniver",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "29 Jul 1942",
+  "runtime": "134 min",
+  "genre": "Drama, Romance, War",
+  "director": "William Wyler",
+  "writer": "Arthur Wimperis, George Froeschel, James Hilton",
+  "actors": "Greer Garson, Walter Pidgeon, Teresa Wright",
+  "plot": "A British family struggles to survive the first months of World War II.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "Won 6 Oscars. 15 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjVjNzE1ODAtYWViYi00MjhjLThhNWEtZjcyZDVjOThlNWVmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.6",
+  "imdbID": "tt0035093",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:42:49.727Z"
+}

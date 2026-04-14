@@ -1,0 +1,35 @@
+{
+  "title": "To Be or Not to Be",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "06 Mar 1942",
+  "runtime": "99 min",
+  "genre": "Comedy, Romance, War",
+  "director": "Ernst Lubitsch",
+  "writer": "Melchior Lengyel, Edwin Justus Mayer, Ernst Lubitsch",
+  "actors": "Carole Lombard, Jack Benny, Robert Stack",
+  "plot": "During the German occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+  "language": "English, German, French",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 5 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA5OTRkZGUtNDhhOS00OThmLTgwZWYtZGZkM2M4YjZhNzc5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "8.1",
+  "imdbID": "tt0035446",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:42:46.212Z"
+}

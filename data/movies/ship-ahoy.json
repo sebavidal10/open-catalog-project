@@ -1,0 +1,27 @@
+{
+  "title": "Ship Ahoy",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "01 May 1942",
+  "runtime": "95 min",
+  "genre": "Comedy, Musical, Mystery",
+  "director": "Edward Buzzell",
+  "writer": "Matt Brooks, Bradford Ropes, Bert Kalmar",
+  "actors": "Eleanor Powell, Red Skelton, Bert Lahr",
+  "plot": "Miss Winters is a dancer with the Tommy Dorsey Orchestra and is asked to secretly transport a prototype magnetic mine to Puerto Rico. She thinks that she is working for the US Government, but fails to see why she would be involved.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjhhNmQ3OTUtODJhMC00YjE4LWJkMjUtNDBmM2RjNGM2MzM3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0035320",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:43:56.803Z"
+}

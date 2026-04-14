@@ -1,0 +1,35 @@
+{
+  "title": "Bambi",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "21 Aug 1942",
+  "runtime": "69 min",
+  "genre": "Animation, Adventure, Drama",
+  "director": "James Algar, Samuel Armstrong, David Hand",
+  "writer": "Felix Salten, Perce Pearce, Larry Morey",
+  "actors": "Hardie Albright, Stan Alexander, Bobette Audrey",
+  "plot": "The story of a young deer growing up in the forest.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 7 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIyZDk5NDItZmU5Yy00N2Y5LWI2ZDItMzEyZDhiYjI3MDdmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "metascore": "91",
+  "imdbRating": "7.3",
+  "imdbID": "tt0034492",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:42:42.693Z"
+}

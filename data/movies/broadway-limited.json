@@ -1,0 +1,27 @@
+{
+  "title": "Broadway Limited",
+  "year": "1941",
+  "rated": "Approved",
+  "released": "13 Jun 1941",
+  "runtime": "75 min",
+  "genre": "Comedy, Romance",
+  "director": "Gordon Douglas",
+  "writer": "Rian James",
+  "actors": "Victor McLaglen, Marjorie Woodworth, Dennis O'Keefe",
+  "plot": "A publicity stunt staged on a train known as the Broadway Limited creates problems because of an unknown baby that was part of the stunt.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGYzOTc0OTYtZDIyZC00YTdiLWFhYzAtZGY4ZjBmMDRhODc3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0033435",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:33:50.150Z"
+}

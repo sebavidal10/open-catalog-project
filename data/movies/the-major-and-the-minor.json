@@ -1,0 +1,35 @@
+{
+  "title": "The Major and the Minor",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "24 Dec 1942",
+  "runtime": "100 min",
+  "genre": "Comedy, Romance",
+  "director": "Billy Wilder",
+  "writer": "Charles Brackett, Billy Wilder, Edward Childs Carpenter",
+  "actors": "Ginger Rogers, Ray Milland, Rita Johnson",
+  "plot": "A frustrated city girl disguises herself as a youngster in order to get a cheaper train ticket home. But little \"Sue Sue\" finds herself in a whole heap of grown-up trouble when she hides out in a compartment with a handsome Major.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGVhMGM2MjctOTZmMC00ZDU4LWE4Y2QtNWYzYjg2Yjg5MTc2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.4",
+  "imdbID": "tt0035019",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:43:02.861Z"
+}

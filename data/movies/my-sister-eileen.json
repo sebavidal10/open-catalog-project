@@ -1,0 +1,31 @@
+{
+  "title": "My Sister Eileen",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "24 Sep 1942",
+  "runtime": "96 min",
+  "genre": "Comedy",
+  "director": "Alexander Hall",
+  "writer": "Joseph Fields, Jerome Chodorov, Ruth McKenney",
+  "actors": "Rosalind Russell, Brian Aherne, Janet Blair",
+  "plot": "Two sisters move from Ohio to New York with hopes of stardom.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2FhMzJhNzktZTBhNC00NDE2LTljOTQtMjc3MzMxY2NkYTc0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0035105",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:43:34.532Z"
+}

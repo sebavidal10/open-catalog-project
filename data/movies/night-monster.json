@@ -1,0 +1,31 @@
+{
+  "title": "Night Monster",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "20 Oct 1942",
+  "runtime": "73 min",
+  "genre": "Adventure, Crime, Drama",
+  "director": "Ford Beebe",
+  "writer": "Clarence Upson Young",
+  "actors": "Bela Lugosi, Lionel Atwill, Leif Erickson",
+  "plot": "Kurt Ingston, a rich recluse, invites the doctors who left him a hopeless cripple to his desolate mansion in the swamps as one by one they meet horrible deaths.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2YyNzBmMjYtNzA4MS00N2FiLWE3NDktNzZiOGVjNjA4YjhjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0035124",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:43:27.492Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Pride of the Yankees",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "05 Mar 1943",
+  "runtime": "128 min",
+  "genre": "Biography, Drama, Romance",
+  "director": "Sam Wood",
+  "writer": "Jo Swerling, Herman J. Mankiewicz, Paul Gallico",
+  "actors": "Gary Cooper, Teresa Wright, Babe Ruth",
+  "plot": "The story of the life and career of famed baseball player Lou Gehrig.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 2 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWE1OWM4MTgtNjk5MS00ZGVjLWE2N2MtYjM0ZDFhMzM0MWZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0035211",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:42:55.587Z"
+}

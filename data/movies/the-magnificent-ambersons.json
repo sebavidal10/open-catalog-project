@@ -1,0 +1,35 @@
+{
+  "title": "The Magnificent Ambersons",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "10 Jul 1942",
+  "runtime": "88 min",
+  "genre": "Drama, Romance",
+  "director": "Orson Welles, Fred Fleck, Robert Wise",
+  "writer": "Booth Tarkington, Orson Welles, Joseph Cotten",
+  "actors": "Tim Holt, Joseph Cotten, Dolores Costello",
+  "plot": "The spoiled young heir to the decaying Amberson fortune comes between his widowed mother and the man she has always loved.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 8 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTk5OTYxNTEtYTU5MS00NTBkLThhZWEtYTBiYzlkOTFhY2MzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "93/100"
+    }
+  ],
+  "metascore": "93",
+  "imdbRating": "7.6",
+  "imdbID": "tt0035015",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:42:59.333Z"
+}

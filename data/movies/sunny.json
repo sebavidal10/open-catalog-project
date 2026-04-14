@@ -1,0 +1,27 @@
+{
+  "title": "Sunny",
+  "year": "1941",
+  "rated": "Passed",
+  "released": "30 May 1941",
+  "runtime": "98 min",
+  "genre": "Musical, Romance",
+  "director": "Herbert Wilcox",
+  "writer": "Oscar Hammerstein II, Otto A. Harbach, Sig Herzig",
+  "actors": "Anna Neagle, Ray Bolger, John Carroll",
+  "plot": "The beautiful Anna Neagle stars as a circus performer who falls in love with a rich car dealer's son, against her family's wishes. Features some spirited dance numbers with Ray Bolger.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTJkNjY1ZjQtOWRmYy00YTQzLTlkOTktNjRjYWEzMjA2NzVlXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.4",
+  "imdbID": "tt0034243",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:34:26.975Z"
+}

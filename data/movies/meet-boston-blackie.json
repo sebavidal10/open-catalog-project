@@ -1,0 +1,27 @@
+{
+  "title": "Meet Boston Blackie",
+  "year": "1941",
+  "rated": "Passed",
+  "released": "20 Feb 1941",
+  "runtime": "60 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Robert Florey",
+  "writer": "Jay Dratler, Jack Boyle",
+  "actors": "Chester Morris, Rochelle Hudson, Richard Lane",
+  "plot": "When a murder occurs on an ocean liner docked in New York, the trail leads to Coney Island and a spy ring.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmQxMThmMjktMDNiNy00ZTllLWFmNzctMWNiOTczMGZiZTk4XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0033890",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:33:44.020Z"
+}

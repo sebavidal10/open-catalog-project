@@ -1,0 +1,31 @@
+{
+  "title": "Bedtime Story",
+  "year": "1941",
+  "rated": "Passed",
+  "released": "25 Dec 1941",
+  "runtime": "85 min",
+  "genre": "Comedy, Romance",
+  "director": "Alexander Hall",
+  "writer": "Richard Flournoy, Horace Jackson, Grant Garett",
+  "actors": "Fredric March, Loretta Young, Robert Benchley",
+  "plot": "A playwright attempts to stop his wife from retiring so she can star in his next play.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTYxNjQyYjItMGVlNi00YTU1LWE2MjQtODZiNTdhODIzZTRmXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0033382",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:34:46.926Z"
+}

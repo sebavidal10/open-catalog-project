@@ -1,0 +1,27 @@
+{
+  "title": "Arabian Nights",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "08 Jan 1943",
+  "runtime": "86 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "John Rawlins",
+  "writer": "Michael Hogan, True Boardman",
+  "actors": "Sabu, Jon Hall, Maria Montez",
+  "plot": "The caliph of Baghdad must go into hiding with a group of traveling performers when his brother usurps the throne. Both brothers desire a beautiful dancing girl, who is torn between power and true love.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGQ1NjRiYzUtYzliYi00Y2QzLWI5ZjItYmY1ODEzZmM4ZjEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0034465",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:43:45.093Z"
+}

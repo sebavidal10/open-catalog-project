@@ -1,0 +1,31 @@
+{
+  "title": "Gentleman Jim",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "14 Nov 1942",
+  "runtime": "104 min",
+  "genre": "Biography, Drama, Romance",
+  "director": "Raoul Walsh",
+  "writer": "Vincent Lawrence, Horace McCoy, James J. Corbett",
+  "actors": "Errol Flynn, Alexis Smith, Jack Carson",
+  "plot": "As bare-knuckled boxing enters the modern era, brash extrovert, Jim Corbett, uses new rules and dazzlingly innovative footwork to rise to the top of the top of the boxing world.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2Q2OTZmZGMtNDU2Yy00MWNhLTg5OGQtYWIxMjcxYmRmZTBkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0034778",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:43:25.151Z"
+}

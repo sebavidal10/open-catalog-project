@@ -1,0 +1,31 @@
+{
+  "title": "Wake Island",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "11 Aug 1942",
+  "runtime": "88 min",
+  "genre": "Action, Drama, War",
+  "director": "John Farrow",
+  "writer": "W.R. Burnett, Frank Butler, Lawrence Hazard",
+  "actors": "Brian Donlevy, Robert Preston, Macdonald Carey",
+  "plot": "December, 1941. With no hope of relief or re-supply, a small band of United States Marines tries to keep the Japanese Navy from capturing their island base.",
+  "language": "English, Japanese",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 2 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWU1OTBkMDYtOTNhYS00ZDBiLWJiMDgtNDg3NjhkZDRhYjMyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0035530",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:45:00.086Z"
+}

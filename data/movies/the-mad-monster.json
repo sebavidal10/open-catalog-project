@@ -1,0 +1,27 @@
+{
+  "title": "The Mad Monster",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "15 May 1942",
+  "runtime": "77 min",
+  "genre": "Drama, Horror, Romance",
+  "director": "Sam Newfield",
+  "writer": "Fred Myton",
+  "actors": "Johnny Downs, George Zucco, Anne Nagel",
+  "plot": "A mad scientist changes his simple-minded handyman into a werewolf in order to prove his supposedly crazy scientific theories - and exact revenge.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTUyYTAxMTEtMDE5MC00NjM5LWJkYWEtNmVkOTc3YWE4ZGNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "3.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "3.5",
+  "imdbID": "tt0035009",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:44:20.240Z"
+}

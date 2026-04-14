@@ -1,0 +1,31 @@
+{
+  "title": "The Black Swan",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "04 Dec 1942",
+  "runtime": "87 min",
+  "genre": "Adventure, Drama",
+  "director": "Henry King",
+  "writer": "Ben Hecht, Seton I. Miller, Rafael Sabatini",
+  "actors": "Tyrone Power, Maureen O'Hara, Laird Cregar",
+  "plot": "An ex-pirate contends with rowdy buccaneers and a love/hate relationship with an aristocratic woman who's tougher than she seems.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 3 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmQ2N2UyZDctZTYzNS00NGEzLTgyZGYtNjBjZjFiMmVjY2ZkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0034522",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:42:47.390Z"
+}

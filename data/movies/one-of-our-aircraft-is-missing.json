@@ -1,0 +1,35 @@
+{
+  "title": "One of Our Aircraft Is Missing",
+  "year": "1942",
+  "rated": "Not Rated",
+  "released": "18 Feb 1943",
+  "runtime": "82 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Michael Powell, Emeric Pressburger",
+  "writer": "Emeric Pressburger, Michael Powell",
+  "actors": "Godfrey Tearle, Eric Portman, Hugh Burden",
+  "plot": "During a raid on Germany a British bomber crew is forced to bail out after their plane is damaged. They land in Holland and are aided by Dutch civilians.",
+  "language": "English, Dutch, German, Latin, French",
+  "country": "United Kingdom",
+  "awards": "Nominated for 2 Oscars. 2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTQzMGE0MGMtYWQwNS00Y2ZlLTg2Y2ItMTI1ZDdhMGM1NzRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.0",
+  "imdbID": "tt0035153",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:43:13.417Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Talk of the Town",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "20 Aug 1942",
+  "runtime": "118 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "George Stevens",
+  "writer": "Irwin Shaw, Sidney Buchman, Dale Van Every",
+  "actors": "Cary Grant, Jean Arthur, Ronald Colman",
+  "plot": "An escaped prisoner must prove his innocence to a stuffy law professor with help from a spirited schoolteacher.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 7 Oscars. 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWY2NmUyNTctYmE2OC00NTcxLTg4ZmEtOTA4NDNiY2UxZmU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0035417",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:43:05.206Z"
+}

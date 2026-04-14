@@ -1,0 +1,27 @@
+{
+  "title": "Hello, Sucker",
+  "year": "1941",
+  "rated": "Passed",
+  "released": "01 Jun 1941",
+  "runtime": "60 min",
+  "genre": "Action, Comedy",
+  "director": "Edward F. Cline",
+  "writer": "Maurice Leo, Paul Gerard Smith, Arthur T. Horman",
+  "actors": "Hugh Herbert, Tom Brown, Peggy Moran",
+  "plot": "A young couple buy a bankrupt vaudeville booking agency, and try to make it a success.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzdjMzYxMzMtOTU5Mi00OTBlLWJiN2UtNzc4ODVhOTkzNWRhXkEyXkFqcGdeQXVyMzc5ODc1MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0033703",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:40:59.414Z"
+}

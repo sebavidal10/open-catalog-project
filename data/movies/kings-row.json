@@ -1,0 +1,31 @@
+{
+  "title": "Kings Row",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "18 Apr 1942",
+  "runtime": "127 min",
+  "genre": "Drama",
+  "director": "Sam Wood",
+  "writer": "Casey Robinson, Henry Bellamann",
+  "actors": "Ann Sheridan, Robert Cummings, Ronald Reagan",
+  "plot": "The dark side and hypocrisy of provincial American life is seen through the eyes of five children as they grow to adulthood at the turn of the century.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 3 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgzMTU2NzM4MF5BMl5BanBnXkFtZTgwMzgzNzYxMTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0034946",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:43:01.685Z"
+}

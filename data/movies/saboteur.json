@@ -1,0 +1,35 @@
+{
+  "title": "Saboteur",
+  "year": "1942",
+  "rated": "PG",
+  "released": "24 Apr 1942",
+  "runtime": "109 min",
+  "genre": "Drama, Thriller, War",
+  "director": "Alfred Hitchcock",
+  "writer": "Peter Viertel, Joan Harrison, Dorothy Parker",
+  "actors": "Priscilla Lane, Robert Cummings, Otto Kruger",
+  "plot": "A young man accused of sabotage goes on the run to prove his innocence.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzk0YTdjMmMtNjM5NC00ZGE3LWE4NGYtZmRjNDg2NzkzNTE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "7.1",
+  "imdbID": "tt0035279",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:42:54.414Z"
+}

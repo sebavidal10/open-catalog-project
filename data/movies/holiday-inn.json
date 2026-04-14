@@ -1,0 +1,35 @@
+{
+  "title": "Holiday Inn",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "04 Sep 1942",
+  "runtime": "100 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "Mark Sandrich, Robert Allen",
+  "writer": "Claude Binyon, Elmer Rice, Irving Berlin",
+  "actors": "Bing Crosby, Fred Astaire, Marjorie Reynolds",
+  "plot": "At an inn which is open only on holidays, a crooner and a hoofer vie for the affections of a beautiful up-and-coming performer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 3 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUyODU0OTUwMF5BMl5BanBnXkFtZTgwMTE4NTQzMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "7.3",
+  "imdbID": "tt0034862",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:43:09.896Z"
+}

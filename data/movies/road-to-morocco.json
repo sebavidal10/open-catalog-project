@@ -1,0 +1,35 @@
+{
+  "title": "Road to Morocco",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "08 Apr 1943",
+  "runtime": "82 min",
+  "genre": "Adventure, Comedy, Family",
+  "director": "David Butler",
+  "writer": "Frank Butler, Don Hartman, Erik Charell",
+  "actors": "Bing Crosby, Bob Hope, Dorothy Lamour",
+  "plot": "Two carefree castaways on a desert shore find an Arabian Nights city, where they compete for the luscious Princess Shalmar.",
+  "language": "Russian, Tagalog, Cantonese, Arabic, English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDUyZGVhZDEtMTJlMS00N2NhLTk5NmMtZDIzY2E0MDg0YmQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "7.0",
+  "imdbID": "tt0035262",
+  "type": "movie",
+  "fetched_at": "2026-04-14T12:43:22.803Z"
+}
