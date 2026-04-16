@@ -1,0 +1,27 @@
+{
+  "title": "Great Day",
+  "year": "1945",
+  "rated": "N/A",
+  "released": "30 Oct 1946",
+  "runtime": "62 min",
+  "genre": "Drama",
+  "director": "Lance Comfort",
+  "writer": "Lesley Storm, John Davenport, Wolfgang Wilhelm",
+  "actors": "Eric Portman, Flora Robson, Sheila Sim",
+  "plot": "An impending Eleanor Roosevelt visit causes bustle in an English village, while the Ellis family struggles with private problems.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjM4YzM5MzktNDFhZi00OTZlLWEwMTctZTQ1NTQzMGI5NDI1XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0037748",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:46:36.449Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "National Velvet",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "26 Jan 1945",
+  "runtime": "123 min",
+  "genre": "Drama, Family, Sport",
+  "director": "Clarence Brown",
+  "writer": "Enid Bagnold, Theodore Reeves, Helen Deutsch",
+  "actors": "Mickey Rooney, Elizabeth Taylor, Donald Crisp",
+  "plot": "A jaded former jockey helps a young girl prepare a wild but gifted horse for England's Grand National Sweepstakes.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 6 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWY0MGFkMzItNjc5MS00ZjhmLThlY2UtMWRiNjkxZTJjNjA2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.3",
+  "imdbID": "tt0037120",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:32:35.221Z"
+}

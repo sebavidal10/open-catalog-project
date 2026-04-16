@@ -1,0 +1,31 @@
+{
+  "title": "Cover Girl",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "06 Apr 1944",
+  "runtime": "107 min",
+  "genre": "Comedy, Music, Musical",
+  "director": "Charles Vidor",
+  "writer": "Virginia Van Upp, Marion Parsonnet, Paul Gangelin",
+  "actors": "Rita Hayworth, Gene Kelly, Lee Bowman",
+  "plot": "Rusty Parker wins a contest and becomes a celebrated cover girl; this endangers her romance with dancing mentor Danny.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 3 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTgzODZjYWEtY2M3YS00NTJmLWEzYjctNDU2NjBkODE0ZDBlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0036723",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:33:08.199Z"
+}

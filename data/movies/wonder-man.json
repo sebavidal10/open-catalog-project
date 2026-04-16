@@ -1,0 +1,31 @@
+{
+  "title": "Wonder Man",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "09 Oct 1945",
+  "runtime": "98 min",
+  "genre": "Comedy, Fantasy, Musical",
+  "director": "H. Bruce Humberstone",
+  "writer": "Don Hartman, Melville Shavelson, Philip Rapp",
+  "actors": "Danny Kaye, Virginia Mayo, Vera-Ellen",
+  "plot": "After being murdered by gangsters, an exuberant nightclub entertainer returns as a ghost to persuade his meek twin brother to help bring his killers to justice.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 1 win & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODJkODVjYmEtNjMyYy00OGU3LTgzZjctOTkyODliY2Y4NTNmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0038260",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:45:08.500Z"
+}

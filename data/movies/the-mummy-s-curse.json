@@ -1,0 +1,31 @@
+{
+  "title": "The Mummy's Curse",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "22 Dec 1944",
+  "runtime": "60 min",
+  "genre": "Action, Drama, Fantasy",
+  "director": "Leslie Goodwins",
+  "writer": "Bernard Schubert, Leon Abrams, Dwight V. Babcock",
+  "actors": "Lon Chaney Jr., Peter Coe, Virginia Christine",
+  "plot": "Shipped to Louisiana, the mummy Kharis from Egypt roams the bayou, tormented by his forbidden love for Princess Ananka.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTM4Yzk4ZjQtODg5ZC00NjZmLThhMTAtNWNlYmI0Mzc3YjJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.4",
+  "imdbID": "tt0037098",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:33:19.969Z"
+}

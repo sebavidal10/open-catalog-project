@@ -1,0 +1,27 @@
+{
+  "title": "Kitty",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "25 Jan 1946",
+  "runtime": "103 min",
+  "genre": "Drama, History, Romance",
+  "director": "Mitchell Leisen",
+  "writer": "Rosamond Marshall, Karl Tunberg, Darrell Ware",
+  "actors": "Paulette Goddard, Ray Milland, Patric Knowles",
+  "plot": "An 18th-century London wench gets involved with the nobility.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2M4YzJmNmMtN2VhNy00YzU1LTk5ZmQtMzkzZmMwNjY2YTQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0037849",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:46:35.274Z"
+}

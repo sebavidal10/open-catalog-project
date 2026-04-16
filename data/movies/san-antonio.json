@@ -1,0 +1,27 @@
+{
+  "title": "San Antonio",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "29 Dec 1945",
+  "runtime": "109 min",
+  "genre": "Western",
+  "director": "David Butler, Robert Florey, Raoul Walsh",
+  "writer": "Alan Le May, W.R. Burnett",
+  "actors": "Errol Flynn, Alexis Smith, S.Z. Sakall",
+  "plot": "Tough dance hall girl working for the local villain falls for a cowboy trying to clean up the town.",
+  "language": "Spanish, English, German",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2Y1YjA0NWQtOGVmMC00ZjM2LTg0ZmEtZDgyYWU1YzFhNDQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0038048",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:45:56.598Z"
+}

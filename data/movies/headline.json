@@ -1,0 +1,27 @@
+{
+  "title": "Headline",
+  "year": "1943",
+  "rated": "N/A",
+  "released": "24 Jan 1944",
+  "runtime": "75 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "John Harlow",
+  "writer": "Ken Attiwill, Ralph Gilbert Bettison, Maisie Sharman",
+  "actors": "David Farrar, Anne Crawford, John Stuart",
+  "plot": "A crime reporter begins to investigate the disappearance of his bosses wife who had witnessed a murder.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzI2M2QyNTItOTIzZC00YWI1LWE1YjYtMzg2ODIwOGUwNDc0XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0035977",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:30:36.432Z"
+}

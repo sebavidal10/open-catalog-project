@@ -1,0 +1,27 @@
+{
+  "title": "Crime, Inc.",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "15 Apr 1945",
+  "runtime": "75 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Lew Landers",
+  "writer": "Raymond L. Schrock, Martin Mooney",
+  "actors": "Leo Carrillo, Tom Neal, Martha Tilton",
+  "plot": "A crusading reporter uses his friendship with a mobster to expose the machinations of organized crime in his city.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2NjNGRjZTMtYWU4Ny00NDhiLTk1NDktZGI2NmE0OWRjNDI5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.4",
+  "imdbID": "tt0037622",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:46:39.968Z"
+}

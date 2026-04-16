@@ -1,0 +1,31 @@
+{
+  "title": "Captain Kidd",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "25 Dec 1945",
+  "runtime": "90 min",
+  "genre": "Adventure, Biography, Drama",
+  "director": "Rowland V. Lee",
+  "writer": "Norman Reilly Raine, Robert N. Lee",
+  "actors": "Charles Laughton, Randolph Scott, Barbara Britton",
+  "plot": "The unhistorical adventures of pirate Captain Kidd revolve around treasure and treachery.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGM0NDJmMzYtNTUyNy00M2U0LTk1YTAtMWYyYjIxMWIwZTM4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0037576",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:45:37.821Z"
+}

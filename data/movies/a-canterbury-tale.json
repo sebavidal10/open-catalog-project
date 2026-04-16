@@ -1,0 +1,35 @@
+{
+  "title": "A Canterbury Tale",
+  "year": "1944",
+  "rated": "Not Rated",
+  "released": "21 Jan 1949",
+  "runtime": "124 min",
+  "genre": "Comedy, Drama, Mystery",
+  "director": "Michael Powell, Emeric Pressburger",
+  "writer": "Michael Powell, Emeric Pressburger",
+  "actors": "Eric Portman, Sheila Sim, Dennis Price",
+  "plot": "Three modern-day pilgrims investigate a bizarre crime in a small town while on their way to Canterbury.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWQzNzJkZGMtNmFlMy00MmQ0LWE3YjYtYTVlZGM4NTE5YjRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "7.3",
+  "imdbID": "tt0036695",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:32:52.908Z"
+}

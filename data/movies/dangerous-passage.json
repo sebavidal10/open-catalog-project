@@ -1,0 +1,27 @@
+{
+  "title": "Dangerous Passage",
+  "year": "1944",
+  "rated": "Passed",
+  "released": "18 Dec 1944",
+  "runtime": "60 min",
+  "genre": "Drama, Film-Noir",
+  "director": "William Berke",
+  "writer": "Daniel Mainwaring",
+  "actors": "Robert Lowery, Phyllis Brooks, Charles Arnt",
+  "plot": "Joe Beck leaves Central America so that he can return to Texas and collect a large inheritance, but he picks a dangerous ship on which to travel.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTQ3MDM2YjktMDAyMC00ZWUyLWIwMTYtODNiYWU2MWM1NGM2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.4",
+  "imdbID": "tt0036741",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:36:23.688Z"
+}

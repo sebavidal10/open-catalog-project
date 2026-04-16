@@ -1,0 +1,31 @@
+{
+  "title": "An American Romance",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "16 Apr 1945",
+  "runtime": "151 min",
+  "genre": "Drama",
+  "director": "King Vidor",
+  "writer": "Herbert Dalmas, William Ludwig, King Vidor",
+  "actors": "Brian Donlevy, Ann Richards, Walter Abel",
+  "plot": "Stefan Dangos, an immigrant, starts working in iron mines and steel mills. Through hard work, he rises through the ranks, eventually becoming a successful American industrialist.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2EzNGY2ZWYtNDliZi00ODEwLTk1YWYtYzY1M2YzNThmNzcxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0036596",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:35:47.243Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "A Royal Scandal",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "01 Oct 1945",
+  "runtime": "94 min",
+  "genre": "Comedy, Drama, History",
+  "director": "Otto Preminger, Ernst Lubitsch",
+  "writer": "Edwin Justus Mayer, Bruno Frank, Lajos Biró",
+  "actors": "Tallulah Bankhead, Charles Coburn, Anne Baxter",
+  "plot": "In 18th century Russia, the naive and idealistic lieutenant Chernov meets Empress Catherine the Great who becomes infatuated with him and appoints him Chief of the Imperial Guard.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2UzM2NhOGEtM2JkMy00YjZmLWEyOWUtNWNmZDM2OWYzMTU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0038040",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:45:27.280Z"
+}

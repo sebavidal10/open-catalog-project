@@ -1,0 +1,31 @@
+{
+  "title": "Henry V",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "28 Oct 1945",
+  "runtime": "137 min",
+  "genre": "Biography, Drama, History",
+  "director": "Laurence Olivier",
+  "writer": "William Shakespeare, Laurence Olivier, Dallas Bower",
+  "actors": "Laurence Olivier, Robert Newton, Leslie Banks",
+  "plot": "In the midst of the Hundred Years' War, the young King Henry V of England embarks on the conquest of France in 1415.",
+  "language": "English, French",
+  "country": "United Kingdom",
+  "awards": "Nominated for 4 Oscars. 9 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDNlY2ViOTQtMTVjOC00ODljLWE3MjEtYzNkMDg1MDJhN2Q4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0036910",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:32:41.123Z"
+}

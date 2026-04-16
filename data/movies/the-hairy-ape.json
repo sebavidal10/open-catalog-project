@@ -1,0 +1,31 @@
+{
+  "title": "The Hairy Ape",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "02 Jul 1944",
+  "runtime": "92 min",
+  "genre": "Drama, Film-Noir",
+  "director": "Alfred Santell",
+  "writer": "Eugene O'Neill, Robert Hardy Andrews, Decla Dunning",
+  "actors": "William Bendix, Susan Hayward, John Loder",
+  "plot": "During the 1940s, social class conflict is depicted when a spoiled socialite, traveling on a freighter, calls the ship's head stoker a hairy ape, provoking him into stalking the rich woman once ashore in New York.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjQ0ODk1MzAzOF5BMl5BanBnXkFtZTgwMDU1ODgwMzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0036892",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:35:56.665Z"
+}

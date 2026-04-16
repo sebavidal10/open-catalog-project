@@ -1,0 +1,31 @@
+{
+  "title": "Detour",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "25 Jan 1946",
+  "runtime": "66 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Edgar G. Ulmer",
+  "writer": "Martin Goldsmith, Martin Mooney",
+  "actors": "Tom Neal, Ann Savage, Claudia Drake",
+  "plot": "The life of Al Roberts, a pianist in a New York nightclub, turns into a nightmare when he decides to hitchhike to Los Angeles to visit his girlfriend.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGQyMWJmZTQtMzYwZC00ZjA1LThmMDQtYzU0OTUwZWFiYzk1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0037638",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:44:21.624Z"
+}

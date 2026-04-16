@@ -1,0 +1,31 @@
+{
+  "title": "Lady from Chungking",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "01 Nov 1943",
+  "runtime": "66 min",
+  "genre": "Drama, War",
+  "director": "William Nigh",
+  "writer": "Sam Robins, Milton Raison",
+  "actors": "Anna May Wong, Harold Huber, Mae Clarke",
+  "plot": "After the Japanese invade China in WW 2, a young woman leads a band of partisans against the occupying troops.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjdjMTA0MDctZTBhOC00NjZiLWJmZWItZGM0NGM5MTIwY2RjXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0036093",
+  "type": "movie",
+  "fetched_at": "2026-04-14T22:12:24.230Z"
+}

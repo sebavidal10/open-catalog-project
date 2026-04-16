@@ -1,0 +1,35 @@
+{
+  "title": "The Horn Blows at Midnight",
+  "year": "1945",
+  "rated": "Passed",
+  "released": "28 Apr 1945",
+  "runtime": "78 min",
+  "genre": "Comedy, Fantasy, Music",
+  "director": "Raoul Walsh",
+  "writer": "Sam Hellman, James V. Kern, Aubrey Wisberg",
+  "actors": "Jack Benny, Alexis Smith, Dolores Moran",
+  "plot": "A trumpet player in a radio orchestra falls asleep during a commercial and dreams he's Athanael, an angel deputized to blow the Last Trumpet at exactly midnight on Earth, thus marking the end of the world.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWFkY2Q0YjgtYjQ0OC00NGFiLWE1NGYtYjAyMDQ1YTQzNzhlXkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "6.6",
+  "imdbID": "tt0037790",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:46:44.652Z"
+}

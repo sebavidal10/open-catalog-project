@@ -1,0 +1,27 @@
+{
+  "title": "The Adventures of Martin Eden",
+  "year": "1942",
+  "rated": "Passed",
+  "released": "26 Feb 1942",
+  "runtime": "87 min",
+  "genre": "Action, Adventure, Crime",
+  "director": "Sidney Salkow",
+  "writer": "Jack London, W.L. River",
+  "actors": "Glenn Ford, Claire Trevor, Evelyn Keyes",
+  "plot": "Author writes about his experiences sailing at sea, struggles to get his work published.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjI3ZGYyM2EtNDc2Yy00OTMzLWI3MTctZWMwNzUxY2FkZjFjXkEyXkFqcGdeQXVyNTUyNzA5ODE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0034431",
+  "type": "movie",
+  "fetched_at": "2026-04-14T22:14:16.023Z"
+}

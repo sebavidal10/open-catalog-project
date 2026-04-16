@@ -1,0 +1,31 @@
+{
+  "title": "Wilson",
+  "year": "1944",
+  "rated": "Passed",
+  "released": "01 Aug 1945",
+  "runtime": "154 min",
+  "genre": "Biography, Drama, History",
+  "director": "Henry King",
+  "writer": "Lamar Trotti",
+  "actors": "Alexander Knox, Charles Coburn, Geraldine Fitzgerald",
+  "plot": "A chronicle of the political career of US President Woodrow Wilson.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 5 Oscars. 7 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTBiNjI3NTMtNzdmOC00OGU2LTk1YjYtZWM1ZjdlMDlmZTY1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0037465",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:33:30.569Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Christmas Holiday",
+  "year": "1944",
+  "rated": "Not Rated",
+  "released": "31 Jul 1944",
+  "runtime": "93 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Robert Siodmak",
+  "writer": "W. Somerset Maugham, Herman J. Mankiewicz",
+  "actors": "Deanna Durbin, Gene Kelly, Richard Whorf",
+  "plot": "A young femme-fatale realizes that the man she married is an incorrigible wastrel.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDlmZTQ5NDYtMDFkNC00MGU2LWEwMGMtMmMyNDczZWY5MWNjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0036711",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:33:39.979Z"
+}

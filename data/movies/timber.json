@@ -1,0 +1,27 @@
+{
+  "title": "Timber!",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "01 Aug 1942",
+  "runtime": "60 min",
+  "genre": "Drama, Romance",
+  "director": "Christy Cabanne",
+  "writer": "Larry Rhine, Ben Chapman, Griffin Jay",
+  "actors": "Leo Carrillo, Andy Devine, Dan Dailey",
+  "plot": "Two FBI agents are sent to investigate sabotage at a lumber camp.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODMwZjQzMTItYjcyOS00NzUzLWJhYzQtMzM3YzliZDkwOGNjXkEyXkFqcGdeQXVyMzc5ODc1MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.4",
+  "imdbID": "tt0035442",
+  "type": "movie",
+  "fetched_at": "2026-04-14T22:16:55.825Z"
+}

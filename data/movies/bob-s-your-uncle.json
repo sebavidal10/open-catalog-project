@@ -1,0 +1,27 @@
+{
+  "title": "Bob's Your Uncle",
+  "year": "1942",
+  "rated": "N/A",
+  "released": "02 Mar 1942",
+  "runtime": "75 min",
+  "genre": "Comedy",
+  "director": "Oswald Mitchell",
+  "writer": "Vera Allinson, Jack North, Oswald Mitchell",
+  "actors": "Albert Modley, Jean Colin, George Bolton",
+  "plot": "Comedy that follows the adventures of enthusiastic members of the Home Guard.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjBiOTE2NjMtNzUyNy00NjRjLTk2NTQtYmEzNDhmMjUyMTVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.4",
+  "imdbID": "tt0033411",
+  "type": "movie",
+  "fetched_at": "2026-04-14T22:18:45.179Z"
+}

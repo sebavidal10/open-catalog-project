@@ -1,0 +1,27 @@
+{
+  "title": "The Lodger",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "19 Jan 1944",
+  "runtime": "84 min",
+  "genre": "Crime, Horror, Mystery",
+  "director": "John Brahm",
+  "writer": "Barré Lyndon, Marie Belloc Lowndes",
+  "actors": "Laird Cregar, Merle Oberon, George Sanders",
+  "plot": "A landlady suspects that her new lodger is Jack the Ripper.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGEzNDE2MTgtNGM0Ny00MmU4LWI4OGYtOTMzNmQ1MmNjNzJlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0037024",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:33:01.119Z"
+}

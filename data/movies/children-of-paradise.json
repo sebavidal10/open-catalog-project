@@ -1,0 +1,35 @@
+{
+  "title": "Children of Paradise",
+  "year": "1945",
+  "rated": "Not Rated",
+  "released": "15 Nov 1946",
+  "runtime": "189 min",
+  "genre": "Drama, Romance",
+  "director": "Marcel Carné",
+  "writer": "Jacques Prévert",
+  "actors": "Arletty, Jean-Louis Barrault, Pierre Brasseur",
+  "plot": "The theatrical life of a beautiful courtesan in 1830s Paris and the four men who love her.",
+  "language": "French",
+  "country": "France",
+  "awards": "Nominated for 1 Oscar. 2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjlmOWYxMzUtMzMwNy00ODg1LWFiYjEtMTA2ZmFkZDM4NWJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
+  "metascore": "96",
+  "imdbRating": "8.3",
+  "imdbID": "tt0037674",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:44:20.451Z"
+}

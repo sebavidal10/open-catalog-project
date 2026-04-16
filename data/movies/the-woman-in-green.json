@@ -1,0 +1,31 @@
+{
+  "title": "The Woman in Green",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "27 Jul 1945",
+  "runtime": "68 min",
+  "genre": "Crime, Drama, Horror",
+  "director": "Roy William Neill",
+  "writer": "Bertram Millhauser, Arthur Conan Doyle",
+  "actors": "Basil Rathbone, Nigel Bruce, Hillary Brooke",
+  "plot": "Sherlock Holmes investigates when young women around London turn up murdered, each with a finger severed. Scotland Yard suspects a madman, but Holmes believes the killings to be part of a diabolical plot.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAwN2UyMGQtNzk3Zi00Y2Q2LWEwZTMtYTNkZjkyMWE1N2JiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0038259",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:44:57.938Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Brief Encounter",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "24 Aug 1946",
+  "runtime": "86 min",
+  "genre": "Drama, Romance",
+  "director": "David Lean",
+  "writer": "Noël Coward, Anthony Havelock-Allan, David Lean",
+  "actors": "Celia Johnson, Trevor Howard, Stanley Holloway",
+  "plot": "Meeting a stranger in a railway station, a woman is tempted to cheat on her husband.",
+  "language": "English, French",
+  "country": "United Kingdom",
+  "awards": "Nominated for 3 Oscars. 4 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWViMGRhMTEtN2FlOC00MDVkLTllYmMtNDQyNDgzZmE0YzIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "metascore": "92",
+  "imdbRating": "8.0",
+  "imdbID": "tt0037558",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:44:26.300Z"
+}

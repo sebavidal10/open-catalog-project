@@ -1,0 +1,31 @@
+{
+  "title": "Isle of the Dead",
+  "year": "1945",
+  "rated": "Not Rated",
+  "released": "01 Sep 1945",
+  "runtime": "71 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Mark Robson",
+  "writer": "Ardel Wray, Val Lewton, Josef Mischel",
+  "actors": "Boris Karloff, Ellen Drew, Marc Cramer",
+  "plot": "A Greek general in the 1912 Balkans finds his Wife's grave robbed and fights a plague.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTI1Y2RjMTQtOTkxNi00ZDMxLTk0YzctYjljMWY1MDIyM2ZkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0037820",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:44:59.110Z"
+}

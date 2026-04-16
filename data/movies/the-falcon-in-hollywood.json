@@ -1,0 +1,27 @@
+{
+  "title": "The Falcon in Hollywood",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "08 Dec 1944",
+  "runtime": "67 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Gordon Douglas",
+  "writer": "Gerald Geraghty, Michael Arlen",
+  "actors": "Tom Conway, Barbara Hale, Veda Ann Borg",
+  "plot": "The Falcon investigates the murder of an actor on a Hollywood backlot.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDc2Y2MyNGYtMjgyNC00YjMwLTkwZTktY2ZhZGMwYTczODgzXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0036810",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:33:44.907Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Meet the Stewarts",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "30 Oct 1942",
+  "runtime": "73 min",
+  "genre": "Comedy",
+  "director": "Alfred E. Green",
+  "writer": "Karen DeWolf, Elizabeth Dunn",
+  "actors": "William Holden, Frances Dee, Grant Mitchell",
+  "plot": "A young newlywed couple learns to make their new marriage work; trying to impress family, stay on budget, and remain as diplomatic towards each other as possible.",
+  "language": "English, Cantonese",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWMzNjA3ZDAtOWNmYS00MWZmLTg3MjItMWNlMTAyMGZiZDdjXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0035052",
+  "type": "movie",
+  "fetched_at": "2026-04-14T22:12:00.768Z"
+}

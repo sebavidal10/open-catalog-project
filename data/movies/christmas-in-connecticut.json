@@ -1,0 +1,35 @@
+{
+  "title": "Christmas in Connecticut",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "11 Aug 1945",
+  "runtime": "101 min",
+  "genre": "Comedy, Romance",
+  "director": "Peter Godfrey",
+  "writer": "Lionel Houser, Adele Comandini, Aileen Hamilton",
+  "actors": "Barbara Stanwyck, Dennis Morgan, Sydney Greenstreet",
+  "plot": "A food writer who has lied about being the perfect housewife must try to cover her deception when her boss and a returning war hero invite themselves to her home for a traditional family Christmas.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWQ4MjYwMmQtNTUzZC00YmU4LWE2YmEtNTMwMjc4YWI4YjMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "7.3",
+  "imdbID": "tt0037595",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:44:40.360Z"
+}

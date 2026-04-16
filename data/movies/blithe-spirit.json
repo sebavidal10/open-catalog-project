@@ -1,0 +1,31 @@
+{
+  "title": "Blithe Spirit",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "03 Oct 1945",
+  "runtime": "96 min",
+  "genre": "Comedy, Fantasy",
+  "director": "David Lean",
+  "writer": "David Lean, Ronald Neame, Anthony Havelock-Allan",
+  "actors": "Rex Harrison, Constance Cummings, Kay Hammond",
+  "plot": "A man and his second wife are haunted by the ghost of his first wife.",
+  "language": "English, Spanish",
+  "country": "United Kingdom",
+  "awards": "Won 1 Oscar. 1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODZhNDNhNGEtMTA0NS00ZWQzLTk4Y2YtYWM0ZWRkYzhiMTEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0038363",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:44:36.852Z"
+}

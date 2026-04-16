@@ -1,0 +1,31 @@
+{
+  "title": "The Mummy's Ghost",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "07 Jul 1944",
+  "runtime": "61 min",
+  "genre": "Fantasy, Horror",
+  "director": "Reginald Le Borg",
+  "writer": "Griffin Jay, Henry Sucher, Brenda Weisberg",
+  "actors": "Lon Chaney Jr., John Carradine, Robert Lowery",
+  "plot": "Kharis the mummy is given a sacred potion that grants him eternal life to search for his lost love, Princess Ananka, despite the unending curse that haunts them.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjQ4NjdmMGYtNWE3NS00NjBiLWJmMGMtODRiNmM4MmZiODk5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0037099",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:33:10.553Z"
+}

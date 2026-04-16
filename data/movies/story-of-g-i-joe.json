@@ -1,0 +1,31 @@
+{
+  "title": "Story of G.I. Joe",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "13 Jul 1945",
+  "runtime": "108 min",
+  "genre": "Biography, Drama, War",
+  "director": "William A. Wellman",
+  "writer": "Leopold Atlas, Guy Endore, Philip Stevenson",
+  "actors": "Burgess Meredith, Robert Mitchum, Freddie Steele",
+  "plot": "At the close of WWII, Pulitzer Prize-winning war correspondent Ernie Pyle travels with, and reports on, the U.S. Army's 77th Infantry Division during their liberation of Italy.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 5 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjc1NDZhMGUtYjU5Zi00NjM1LTkwMzgtODUzOTgwNjBmN2JkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0038120",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:44:43.867Z"
+}

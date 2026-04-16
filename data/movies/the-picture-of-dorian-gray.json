@@ -1,0 +1,35 @@
+{
+  "title": "The Picture of Dorian Gray",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "03 Mar 1945",
+  "runtime": "110 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Albert Lewin",
+  "writer": "Albert Lewin, Oscar Wilde",
+  "actors": "George Sanders, Hurd Hatfield, Donna Reed",
+  "plot": "Londoner Dorian Gray stays young, but his portrait ages.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 3 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjE0NjNhODQtNTc5OS00NzVhLWI4NDUtOTdiYzY0ZTIyNzg2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "7.5",
+  "imdbID": "tt0037988",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:44:22.800Z"
+}

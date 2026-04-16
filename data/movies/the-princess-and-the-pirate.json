@@ -1,0 +1,27 @@
+{
+  "title": "The Princess and the Pirate",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "20 Apr 1945",
+  "runtime": "94 min",
+  "genre": "Adventure, Comedy, Romance",
+  "director": "David Butler, Sidney Lanfield",
+  "writer": "Don Hartman, Melville Shavelson, Everett Freeman",
+  "actors": "Bob Hope, Virginia Mayo, Walter Brennan",
+  "plot": "A cowardly actor and a runaway princess are voyaging on a ship that is captured by a notorious pirate who recently buried his treasure on a secretly mapped island.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTIwZTJjYzQtMjU3OS00MzQwLTgyOTEtYjE1YjQ0YWY3NjVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0037193",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:33:35.283Z"
+}

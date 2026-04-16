@@ -1,0 +1,27 @@
+{
+  "title": "Enter Arsene Lupin",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "24 Nov 1944",
+  "runtime": "72 min",
+  "genre": "Drama, Film-Noir",
+  "director": "Ford Beebe",
+  "writer": "Bertram Millhauser, Maurice Leblanc",
+  "actors": "Charles Korvin, Ella Raines, J. Carrol Naish",
+  "plot": "A rich but naive young woman is in possession of some priceless jewels. She doesn't realize it, but a gang of jewel thieves does.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDdkZjBjZjctZmU5Yi00MWM3LWEyZDktY2M4MTZiYzgxMGU3XkEyXkFqcGdeQXVyNDY1NzU5NjY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0036794",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:33:51.926Z"
+}

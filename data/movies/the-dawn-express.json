@@ -1,0 +1,27 @@
+{
+  "title": "The Dawn Express",
+  "year": "1942",
+  "rated": "Passed",
+  "released": "27 Mar 1942",
+  "runtime": "62 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Albert Herman",
+  "writer": "Arthur St. Claire",
+  "actors": "Michael Whalen, Anne Nagel, William Bakewell",
+  "plot": "Nazi spies in the USA try to rob the formula of synthetic oil and ship it to Germany by means of a night plane called the Dawn Express.",
+  "language": "German, English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc0OTc3NzUxN15BMl5BanBnXkFtZTgwMjMxNzk1MDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.5",
+  "imdbID": "tt0034637",
+  "type": "movie",
+  "fetched_at": "2026-04-14T22:14:38.450Z"
+}

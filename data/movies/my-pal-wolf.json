@@ -1,0 +1,27 @@
+{
+  "title": "My Pal Wolf",
+  "year": "1944",
+  "rated": "Passed",
+  "released": "25 Sep 1944",
+  "runtime": "75 min",
+  "genre": "Adventure, Drama, Family",
+  "director": "Alfred L. Werker",
+  "writer": "Leonard Praskins, John Paxton, Lillie Hayward",
+  "actors": "Sharyn Moffett, Jill Esmond, Una O'Connor",
+  "plot": "A girl with a strict governess heads to Washington to purchase her dog from the Secretary of War.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODNjMTlmMGYtYzMyZi00NzA0LWE3MjMtNzA1MWNmNDVmMWJjXkEyXkFqcGdeQXVyMTIxOTk5MzY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0037111",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:41:35.976Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "My Name Is Julia Ross",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "27 Nov 1945",
+  "runtime": "65 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Joseph H. Lewis",
+  "writer": "Muriel Roy Bolton, Anthony Gilbert",
+  "actors": "Nina Foch, May Whitty, George Macready",
+  "plot": "Julia Ross secures employment through a rather nosy employment agency with a wealthy widow, Mrs. Hughes, and goes to live at her house. 2 days later, she awakens - in a different house, in different clothes and with a new identity...",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTQyMzkxMGYtNTU1OC00NzRjLWExNDktYjBiNjEyNmYzMTVmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0037932",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:45:17.900Z"
+}

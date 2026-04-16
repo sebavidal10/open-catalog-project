@@ -1,0 +1,31 @@
+{
+  "title": "Days of Glory",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "16 Jun 1944",
+  "runtime": "86 min",
+  "genre": "Drama, Romance, War",
+  "director": "Jacques Tourneur",
+  "writer": "Casey Robinson, Melchior Lengyel",
+  "actors": "Gregory Peck, Tamara Toumanova, Alan Reed",
+  "plot": "A heroic guerrilla group fights back against impossible odds during the 1941 German invasion of the Soviet Union.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 3 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWE4YTM2OTctYWQwMS00YTQwLWJlZGQtNjJmMjM4NDA0ZTA0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "53%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0036748",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:34:33.159Z"
+}

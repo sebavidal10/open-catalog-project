@@ -1,0 +1,31 @@
+{
+  "title": "The Clock",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "25 May 1945",
+  "runtime": "90 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Vincente Minnelli, Fred Zinnemann",
+  "writer": "Robert Nathan, Joseph Schrank, Paul Gallico",
+  "actors": "Judy Garland, Robert Walker, James Gleason",
+  "plot": "In 1945, during a 48-hour leave, a soldier accidentally meets a girl at Pennsylvania Station and spends his leave with her, eventually falling in love with the lovely New Yorker.",
+  "language": "English, Italian, Spanish",
+  "country": "United States",
+  "awards": "2 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmI5NDM0NTEtNzdjMS00MTZlLWJkNmEtMGFlYjc5NzRlMWNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0037604",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:45:13.216Z"
+}

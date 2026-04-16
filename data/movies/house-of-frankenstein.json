@@ -1,0 +1,31 @@
+{
+  "title": "House of Frankenstein",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "01 Dec 1944",
+  "runtime": "71 min",
+  "genre": "Fantasy, Horror, Sci-Fi",
+  "director": "Erle C. Kenton",
+  "writer": "Edward T. Lowe Jr., Curt Siodmak",
+  "actors": "Boris Karloff, Lon Chaney Jr., J. Carrol Naish",
+  "plot": "A deranged scientist escapes from prison and recruits Dracula, Frankenstein's Monster and the Wolf Man to get revenge on his behalf.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGI2NTA2OWYtNjRlNy00NDk2LTk4Y2ItZDkzYTViNmYzMWU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "55%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0036931",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:32:54.079Z"
+}

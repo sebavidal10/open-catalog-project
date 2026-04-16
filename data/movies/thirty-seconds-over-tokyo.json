@@ -1,0 +1,35 @@
+{
+  "title": "Thirty Seconds Over Tokyo",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "01 Nov 1944",
+  "runtime": "138 min",
+  "genre": "Drama, History, War",
+  "director": "Mervyn LeRoy",
+  "writer": "Dalton Trumbo, Ted W. Lawson, Bob Considine",
+  "actors": "Spencer Tracy, Van Johnson, Robert Walker",
+  "plot": "In the wake of Pearl Harbor, a young lieutenant leaves his expectant wife to volunteer for a secret bombing mission which will take the war to the Japanese homeland.",
+  "language": "English, Mandarin",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 5 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWI0Yjc1N2QtN2UyNy00ZTcxLTgyYTUtYmY4MzlmMjMxNWQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.2",
+  "imdbID": "tt0037366",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:32:48.177Z"
+}

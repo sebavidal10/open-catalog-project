@@ -1,0 +1,31 @@
+{
+  "title": "Ministry of Fear",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "04 Jan 1945",
+  "runtime": "86 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Fritz Lang",
+  "writer": "Seton I. Miller, Graham Greene",
+  "actors": "Ray Milland, Marjorie Reynolds, Carl Esmond",
+  "plot": "Stephen Neale has just been released from an asylum during World War II in England when he accidentally stumbles onto a deadly Nazi spy plot and tries to stop it.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc4NWMyODItOTllNy00OTUzLWIzNDItY2IyYTljNjg2YzFmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0037075",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:32:57.604Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Fallen Angel",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "13 Dec 1945",
+  "runtime": "98 min",
+  "genre": "Crime, Film-Noir, Mystery",
+  "director": "Otto Preminger",
+  "writer": "Harry Kleiner, Marty Holland",
+  "actors": "Alice Faye, Dana Andrews, Linda Darnell",
+  "plot": "A slick con man arrives in a small town looking to make some money, but soon gets more than he bargained for.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDBiMjZjMjEtYjllOC00NWFmLTkwNTktZGU3MjY3NDE0YTdkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0037691",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:44:55.589Z"
+}

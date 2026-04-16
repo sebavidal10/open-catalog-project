@@ -1,0 +1,27 @@
+{
+  "title": "Champagne Charlie",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "06 Aug 1948",
+  "runtime": "72 min",
+  "genre": "Comedy, Drama, Musical",
+  "director": "Alberto Cavalcanti",
+  "writer": "Austin Melford, John Dighton, Angus MacPhail",
+  "actors": "Tommy Trinder, Stanley Holloway, Betty Warren",
+  "plot": "The story of a 19th century English music hall (vaudeville) performer and life behind the scenes.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0OTk2MTY3Ml5BMl5BanBnXkFtZTgwNjM2ODgwMzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0036704",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:37:48.720Z"
+}

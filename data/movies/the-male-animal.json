@@ -1,0 +1,27 @@
+{
+  "title": "The Male Animal",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "04 Apr 1942",
+  "runtime": "101 min",
+  "genre": "Comedy, Romance",
+  "director": "Elliott Nugent",
+  "writer": "Julius J. Epstein, Stephen Morehouse Avery, James Thurber",
+  "actors": "Henry Fonda, Olivia de Havilland, Joan Leslie",
+  "plot": "A college English teacher suddenly finds himself the center of a free-speech debate on campus.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2I0OGI3MmUtYmRhNy00OTc1LWFmMTUtZjliMDk2NDMyMDFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0035020",
+  "type": "movie",
+  "fetched_at": "2026-04-14T22:13:25.026Z"
+}

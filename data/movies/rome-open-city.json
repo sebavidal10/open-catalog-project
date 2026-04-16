@@ -1,0 +1,31 @@
+{
+  "title": "Rome, Open City",
+  "year": "1945",
+  "rated": "Not Rated",
+  "released": "08 Oct 1945",
+  "runtime": "103 min",
+  "genre": "Drama, Thriller, War",
+  "director": "Roberto Rossellini",
+  "writer": "Sergio Amidei, Federico Fellini, Roberto Rossellini",
+  "actors": "Anna Magnani, Aldo Fabrizi, Marcello Pagliero",
+  "plot": "During the Nazi occupation of Rome in 1944, the Resistance leader, Giorgio Manfredi, is chased by the Nazis as he seeks refuge and a way to escape.",
+  "language": "Italian, German, Latin",
+  "country": "Italy",
+  "awards": "Nominated for 1 Oscar. 6 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWU1NzJlYjAtZWJlMi00NzdkLWJmMjktYTY2M2E0NGQyNjEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.0",
+  "imdbID": "tt0038890",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:44:28.644Z"
+}

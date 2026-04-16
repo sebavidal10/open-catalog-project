@@ -1,0 +1,31 @@
+{
+  "title": "The Great Moment",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "06 Sep 1944",
+  "runtime": "83 min",
+  "genre": "Biography, Drama",
+  "director": "Preston Sturges",
+  "writer": "René Fülöp-Miller, Preston Sturges, Charles Brackett",
+  "actors": "Joel McCrea, Betty Field, Harry Carey",
+  "plot": "The biography of Dr. W. T. Morgan, a 19th century Boston dentist, during his quest to have anesthesia, in the form of ether, accepted by the public and the medical and dental establishment.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTcxYzg2OGUtNWI1ZC00NjU0LTg3ZDUtMDk1ODU3NjU3OTMyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0036880",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:35:14.292Z"
+}

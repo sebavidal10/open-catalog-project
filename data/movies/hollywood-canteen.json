@@ -1,0 +1,27 @@
+{
+  "title": "Hollywood Canteen",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "31 Dec 1944",
+  "runtime": "124 min",
+  "genre": "Comedy, Music, Romance",
+  "director": "Delmer Daves",
+  "writer": "Delmer Daves",
+  "actors": "Bette Davis, John Garfield, The Andrews Sisters",
+  "plot": "Two soldiers on leave spend three nights at a club offering free of charge food, dancing, and entertainment for servicemen on their way overseas. Club founders Bette Davis and John Garfield give talks on the history of the place.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2ZiZTE3ZTYtNDY2Zi00MDg4LWE5MDItN2YxMTAwNjRhOGNkXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0036922",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:33:12.908Z"
+}

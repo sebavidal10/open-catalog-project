@@ -1,0 +1,31 @@
+{
+  "title": "Scarlet Street",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "28 Dec 1945",
+  "runtime": "102 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Fritz Lang",
+  "writer": "Georges de La Fouchardière, André Mouëzy-Éon, Dudley Nichols",
+  "actors": "Edward G. Robinson, Joan Bennett, Dan Duryea",
+  "plot": "A man in mid-life crisis befriends a young woman, though her fiancé persuades her to con him out of the fortune they mistakenly assume he possesses.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODg1Y2Y2YjQtM2NjNS00NWIwLWE0ZTUtMzM2M2M1YWJjYTdlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0038057",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:44:33.334Z"
+}

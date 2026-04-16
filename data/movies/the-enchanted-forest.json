@@ -1,0 +1,27 @@
+{
+  "title": "The Enchanted Forest",
+  "year": "1945",
+  "rated": "Passed",
+  "released": "08 Dec 1945",
+  "runtime": "78 min",
+  "genre": "Drama, Family",
+  "director": "Lew Landers",
+  "writer": "Robert Lee Johnson, John Lebar, Lou Brock",
+  "actors": "Edmund Lowe, Brenda Joyce, William Severn",
+  "plot": "A little boy lost in the woods is found and raised by Old John, a hermit, who teaches the boy about life in general and nature in particular.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTdkMzQ5MGYtNzFjNS00YjQ1LTg2ZWUtY2IyYTc2YzljZDFjXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0037672",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:48:09.194Z"
+}

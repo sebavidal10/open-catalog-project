@@ -1,0 +1,27 @@
+{
+  "title": "Buffalo Bill",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "01 Apr 1944",
+  "runtime": "90 min",
+  "genre": "Drama, Western",
+  "director": "William A. Wellman",
+  "writer": "Æneas MacKenzie, Clements Ripley, Cecile Kramer",
+  "actors": "Joel McCrea, Maureen O'Hara, Linda Darnell",
+  "plot": "The story of William \"Buffalo Bill\" Cody, legendary westerner, from his days as an army scout to his later activities as owner of a Wild West show.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzg1N2JlOWEtODNhNC00ZmI2LTkyNDktNjYxMjE4MjAxYWQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0036677",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:35:06.050Z"
+}

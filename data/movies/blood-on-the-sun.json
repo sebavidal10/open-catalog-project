@@ -1,0 +1,31 @@
+{
+  "title": "Blood on the Sun",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "20 Jul 1945",
+  "runtime": "94 min",
+  "genre": "Drama, Romance, Thriller",
+  "director": "Frank Lloyd",
+  "writer": "Lester Cole, Nathaniel Curtis, Garrett Fort",
+  "actors": "James Cagney, Sylvia Sidney, Porter Hall",
+  "plot": "A dedicated American reporter in 1930s Japan is determined to expose that government's plan for world domination.",
+  "language": "English, Japanese",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODg5OTQ2YjAtODRlZC00YTRmLTk0M2EtZmQyMmRjMjY0OTRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0037547",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:45:23.765Z"
+}

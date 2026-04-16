@@ -1,0 +1,31 @@
+{
+  "title": "Dead of Night",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "15 Feb 1946",
+  "runtime": "77 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Alberto Cavalcanti, Charles Crichton, Basil Dearden",
+  "writer": "John Baines, Angus MacPhail, T.E.B. Clarke",
+  "actors": "Mervyn Johns, Michael Redgrave, Roland Culver",
+  "plot": "Guests at an English estate recall nightmares.",
+  "language": "English, French",
+  "country": "United Kingdom",
+  "awards": "2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWVkNGM3ODktNzFmMS00NzA5LTkyNWItZTVhZDQxZjNmZDVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0037635",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:44:34.505Z"
+}

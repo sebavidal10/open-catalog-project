@@ -1,0 +1,31 @@
+{
+  "title": "A Tree Grows in Brooklyn",
+  "year": "1945",
+  "rated": "PG",
+  "released": "01 Mar 1945",
+  "runtime": "129 min",
+  "genre": "Drama, Family, Romance",
+  "director": "Elia Kazan",
+  "writer": "Tess Slesinger, Frank Davis, Betty Smith",
+  "actors": "Dorothy McGuire, Peggy Ann Garner, Joan Blondell",
+  "plot": "Encouraged by her idealistic if luckless father, a bright and imaginative young woman comes of age in a Brooklyn tenement during the early 1900s.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 9 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzlhYWFhZmMtODNkZi00YmE5LTk2MjctNWQzODg3OTQ4MjMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.0",
+  "imdbID": "tt0038190",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:44:42.701Z"
+}

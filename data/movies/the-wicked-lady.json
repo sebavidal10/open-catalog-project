@@ -1,0 +1,31 @@
+{
+  "title": "The Wicked Lady",
+  "year": "1945",
+  "rated": "Not Rated",
+  "released": "21 Dec 1946",
+  "runtime": "97 min",
+  "genre": "Adventure, Drama",
+  "director": "Leslie Arliss",
+  "writer": "Magdalen King-Hall, Leslie Arliss, Gordon Glennon",
+  "actors": "Margaret Lockwood, James Mason, Patricia Roc",
+  "plot": "A noblewoman begins to lead a dangerous double life in order to alleviate her boredom.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDE2ZTA2NjUtZDJkNS00ZmQ1LWE1NGYtZjFkYThhN2RjYTYzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "38%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0038250",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:45:02.640Z"
+}

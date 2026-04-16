@@ -1,0 +1,31 @@
+{
+  "title": "The Woman in the Window",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "03 Nov 1944",
+  "runtime": "107 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Fritz Lang",
+  "writer": "Nunnally Johnson, J.H. Wallis",
+  "actors": "Edward G. Robinson, Joan Bennett, Raymond Massey",
+  "plot": "A reserved professor meets a model and gets mixed up in murder.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzhhM2Y5YmItMGE3YS00N2Q1LTk2ZGMtNGNjOWIyNTUyMGI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0037469",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:32:38.761Z"
+}

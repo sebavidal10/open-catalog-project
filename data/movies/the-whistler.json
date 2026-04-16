@@ -1,0 +1,27 @@
+{
+  "title": "The Whistler",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "30 Mar 1944",
+  "runtime": "59 min",
+  "genre": "Film-Noir, Mystery",
+  "director": "William Castle",
+  "writer": "J. Donald Wilson, Eric Taylor",
+  "actors": "Richard Dix, Gloria Stuart, J. Carrol Naish",
+  "plot": "A depressed man hires an assassin to kill him when he least expects it, but when his life takes an upward turn, he finds he now wishes to live.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzg4NDIyYjYtMjc5Yy00Y2U5LWEzMGMtYTk0NGY1YTc2Y2U3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0037461",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:34:46.122Z"
+}

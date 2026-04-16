@@ -1,0 +1,35 @@
+{
+  "title": "Lifeboat",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "28 Jan 1944",
+  "runtime": "97 min",
+  "genre": "Drama, War",
+  "director": "Alfred Hitchcock",
+  "writer": "John Steinbeck, Jo Swerling, Alfred Hitchcock",
+  "actors": "Tallulah Bankhead, John Hodiak, Walter Slezak",
+  "plot": "Several survivors of a torpedoed merchant ship in World War II find themselves in the same lifeboat with one of the crew members of the U-boat that sank their ship.",
+  "language": "English, German, French",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 5 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzliZGI1NmMtN2NjOC00MzA0LTg2YmUtZjNmMGEzMzFlYTUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.6",
+  "imdbID": "tt0037017",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:32:31.691Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Query",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "22 Oct 1945",
+  "runtime": "87 min",
+  "genre": "Thriller",
+  "director": "Montgomery Tully",
+  "writer": "Austin Small, Montgomery Tully",
+  "actors": "William Hartnell, Jimmy Hanley, Chili Bouchier",
+  "plot": "Dock worker Tom Masterick is wrongfully convicted of a murder charge. His death sentence is commuted to a long prison term. When released as an old man, he vows to show that his alleged victim is still alive.",
+  "language": "Chinese, English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTQwNzYxNGMtZDkxOC00Yjk4LWE2OTUtNmIxNjdkYTRiNGM0XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0039642",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:47:31.650Z"
+}

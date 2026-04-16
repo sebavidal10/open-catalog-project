@@ -1,0 +1,35 @@
+{
+  "title": "Without Love",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "01 May 1945",
+  "runtime": "111 min",
+  "genre": "Comedy, Romance",
+  "director": "Harold S. Bucquet",
+  "writer": "Philip Barry, Donald Ogden Stewart, Frances Marion",
+  "actors": "Spencer Tracy, Katharine Hepburn, Lucille Ball",
+  "plot": "In Washington, D.C. during World War II, Jamie Rowan enters into a loveless marriage with scientist Pat Jamieson and becomes his assistant. Struggles bring them closer together.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzUyNWQzYjAtMGFjMC00ZDE0LTk2NTAtZWYyYmRkMGU2NTY5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "43/100"
+    }
+  ],
+  "metascore": "43",
+  "imdbRating": "6.6",
+  "imdbID": "tt0038256",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:45:53.089Z"
+}

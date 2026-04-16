@@ -1,0 +1,27 @@
+{
+  "title": "Apache Trail",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "01 Sep 1942",
+  "runtime": "66 min",
+  "genre": "Western",
+  "director": "Richard Thorpe, Richard Rosson",
+  "writer": "Ernest Haycox, Maurice Geraghty, Gordon Kahn",
+  "actors": "Lloyd Nolan, Donna Reed, William Lundigan",
+  "plot": "Stagecoach station manager and his outlaw brother defend station, passengers and cargo from Apache attack in dangerous territory, forcing unlikely allies to band together against the rampaging indigenous warriors.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWY3ZjBhNDItZGNiNy00NmQ1LTk5NTItZTdiZWNlNmFlOTgwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0035639",
+  "type": "movie",
+  "fetched_at": "2026-04-14T22:13:35.656Z"
+}

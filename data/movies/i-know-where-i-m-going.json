@@ -1,0 +1,31 @@
+{
+  "title": "I Know Where I'm Going!",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "27 Sep 1946",
+  "runtime": "92 min",
+  "genre": "Drama, Romance",
+  "director": "Michael Powell, Emeric Pressburger",
+  "writer": "Michael Powell, Emeric Pressburger",
+  "actors": "Wendy Hiller, Roger Livesey, Pamela Brown",
+  "plot": "A young Englishwoman goes to the Hebrides to marry her older, wealthier fiancé. When the weather keeps them separated on different islands, she begins to have second thoughts.",
+  "language": "English, Gaelic",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmRiZjBjOGYtNjNhNy00YmVjLWFmYTktYzdmNjVkYmViNDU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0037800",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:44:35.676Z"
+}

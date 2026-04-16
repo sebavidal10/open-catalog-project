@@ -1,0 +1,27 @@
+{
+  "title": "Fashion Model",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "02 Mar 1945",
+  "runtime": "61 min",
+  "genre": "Adventure, Comedy, Crime",
+  "director": "William Beaudine",
+  "writer": "Tim Ryan, Victor Hammond",
+  "actors": "Robert Lowery, Marjorie Weaver, Tim Ryan",
+  "plot": "When a top fashion model is murdered, a stockboy is suspected of the crime. He and another model set out to clear his name and find the real killer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA5OTliZTEtZDc3MS00MWJlLWJmNTgtOWYwZGEyZWYxOGU4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0037692",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:51:01.093Z"
+}

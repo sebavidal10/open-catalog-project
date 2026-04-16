@@ -1,0 +1,31 @@
+{
+  "title": "Mademoiselle Fifi",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "20 Mar 1946",
+  "runtime": "69 min",
+  "genre": "Drama, War",
+  "director": "Robert Wise",
+  "writer": "Guy de Maupassant, Josef Mischel, Peter Ruric",
+  "actors": "Simone Simon, John Emery, Kurt Kreuger",
+  "plot": "During Franco-Prussian War, a French laundress shares coach with arrogant passengers. When Prussian officer stops them, social hierarchies crumble as character integrity faces scrutiny amidst adversity.",
+  "language": "English, French, German",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGMwZmQxMDItNzkzMi00YjUyLWE1ZWItZTg5NTJkM2RhYWE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0037034",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:35:03.700Z"
+}

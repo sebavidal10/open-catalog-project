@@ -1,0 +1,31 @@
+{
+  "title": "Laura",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "01 Nov 1944",
+  "runtime": "88 min",
+  "genre": "Drama, Film-Noir, Mystery",
+  "director": "Otto Preminger, Rouben Mamoulian",
+  "writer": "Vera Caspary, Jay Dratler, Samuel Hoffenstein",
+  "actors": "Gene Tierney, Dana Andrews, Clifton Webb",
+  "plot": "A police detective falls in love with the woman whose murder he is investigating.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 5 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWUyNDNhZGQtZjJkMS00OTM1LWEzNTktMjlkYjM3OGVmODhiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.9",
+  "imdbID": "tt0037008",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:32:26.977Z"
+}

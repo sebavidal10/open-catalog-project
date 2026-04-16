@@ -1,0 +1,31 @@
+{
+  "title": "The Thin Man Goes Home",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "01 Jan 1945",
+  "runtime": "100 min",
+  "genre": "Comedy, Crime, Film-Noir",
+  "director": "Richard Thorpe",
+  "writer": "Robert Riskin, Dwight Taylor, Harry Kurnitz",
+  "actors": "William Powell, Myrna Loy, Lucile Watson",
+  "plot": "Nick, a private detective, visits his hometown with wife Nora. Locals believe he's investigating a case. When someone is murdered on his doorstep, Nick gets embroiled in solving the crime despite intending a vacation.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjkzOWEzYTgtYzIxNC00OTA0LWI2YzQtOWNmMTM1ZmQ5N2YwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0037365",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:33:11.734Z"
+}

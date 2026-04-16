@@ -1,0 +1,31 @@
+{
+  "title": "Ivan the Terrible, Part I",
+  "year": "1944",
+  "rated": "Not Rated",
+  "released": "08 Mar 1947",
+  "runtime": "95 min",
+  "genre": "Biography, Drama, History",
+  "director": "Sergei Eisenstein",
+  "writer": "Sergei Eisenstein",
+  "actors": "Nikolay Cherkasov, Lyudmila Tselikovskaya, Serafima Birman",
+  "plot": "During the early part of his reign, Ivan the Terrible faces betrayal from the aristocracy and even his closest friends as he seeks to unite the Russian people.",
+  "language": "Russian",
+  "country": "Soviet Union",
+  "awards": "2 wins & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTNlYzI5OWEtYzI1NC00YjEzLWE5MzQtMzI1YjFmZDMwMzczXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0037824",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:32:46.994Z"
+}

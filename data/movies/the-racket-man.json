@@ -1,0 +1,27 @@
+{
+  "title": "The Racket Man",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "18 Jan 1944",
+  "runtime": "65 min",
+  "genre": "Crime, Drama",
+  "director": "D. Ross Lederman",
+  "writer": "Paul Yawitz, Howard J. Green, Casey Robinson",
+  "actors": "Tom Neal, Hugh Beaumont, Jeanne Bates",
+  "plot": "A gangster is drafted into the Army. He soon realizes how wrong his previous life was, and decides to help break up a black market ring he has discovered.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmQ1ZDUwNzUtODRhNi00YzNjLWI3NmYtNGU0ZTEyYzJlMDQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0036287",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:41:34.576Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Bluebeard",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "11 Nov 1944",
+  "runtime": "72 min",
+  "genre": "Crime, Horror, Thriller",
+  "director": "Edgar G. Ulmer",
+  "writer": "Arnold Lipp, Werner H. Furst, Pierre Gendron",
+  "actors": "John Carradine, Jean Parker, Nils Asther",
+  "plot": "In Paris, an artist hires portrait models, and after he finishes their portraits, he strangles them.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzZhYmVmMzgtMmMwYS00NDU0LWJiZDUtM2Q5YzkwODRiYmZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0036653",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:33:05.847Z"
+}

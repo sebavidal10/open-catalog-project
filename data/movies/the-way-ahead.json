@@ -1,0 +1,31 @@
+{
+  "title": "The Way Ahead",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "03 Jun 1945",
+  "runtime": "91 min",
+  "genre": "Drama, War",
+  "director": "Carol Reed",
+  "writer": "Eric Ambler, Peter Ustinov, David Niven",
+  "actors": "David Niven, Stanley Holloway, James Donald",
+  "plot": "World War II drama that follows a group of British draftees, starting with their rigorous basic training, and ending with their deployment in North Africa.",
+  "language": "English, French, German",
+  "country": "United Kingdom",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWE0ZDhlYjAtZTI3Zi00ZDg3LWI5YWEtMDk2OGIxZGRmMjhjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0037449",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:33:23.507Z"
+}

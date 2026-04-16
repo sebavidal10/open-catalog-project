@@ -1,0 +1,31 @@
+{
+  "title": "The Southerner",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "22 Dec 1945",
+  "runtime": "92 min",
+  "genre": "Drama, Western",
+  "director": "Jean Renoir",
+  "writer": "Hugo Butler, George Sessions Perry, Jean Renoir",
+  "actors": "Zachary Scott, Betty Field, J. Carrol Naish",
+  "plot": "The life of the poor Tucker family who worked as cotton pluggers and decided to get their own ground, but nature was against them.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 3 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTVjMTBlZTctYmE5NS00YzljLWJkN2QtY2ZkOGZhZTI2M2IwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0038107",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:44:38.023Z"
+}

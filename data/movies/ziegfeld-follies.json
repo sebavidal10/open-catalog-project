@@ -1,0 +1,31 @@
+{
+  "title": "Ziegfeld Follies",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "08 Apr 1946",
+  "runtime": "110 min",
+  "genre": "Comedy, Musical",
+  "director": "Lemuel Ayers, Roy Del Ruth, Robert Lewis",
+  "writer": "David Freedman, Hugh Martin, Ralph Blane",
+  "actors": "William Powell, Judy Garland, Lucille Ball",
+  "plot": "The late, great impresario Florenz Ziegfeld Jr. looks down from Heaven and ordains a new revue in his grand old style.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGNlMmFkODgtMzA3Ny00YzIwLWFmNmQtYTE2YTk1OTY0MGQwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0039116",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:44:52.066Z"
+}

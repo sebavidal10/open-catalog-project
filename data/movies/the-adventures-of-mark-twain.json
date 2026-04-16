@@ -1,0 +1,27 @@
+{
+  "title": "The Adventures of Mark Twain",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "22 Jul 1944",
+  "runtime": "130 min",
+  "genre": "Adventure, Biography, Drama",
+  "director": "Irving Rapper",
+  "writer": "Alan Le May, Harold M. Sherman, Harry Chandlee",
+  "actors": "Fredric March, Alexis Smith, Donald Crisp",
+  "plot": "The dramatized life of immortal humorist Samuel Langhorne Clemens, better known as Mark Twain, from his days as a riverboat pilot on the Mississippi River until his death in 1910 shortly after Halley's Comet returned.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODQzOWI0NjMtYzdjMi00ZDUwLThjNTgtOTFlMDQzZTc5MTBjXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0036582",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:33:02.302Z"
+}

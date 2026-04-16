@@ -1,0 +1,27 @@
+{
+  "title": "Hotel Berlin",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "02 Mar 1945",
+  "runtime": "98 min",
+  "genre": "Drama, War",
+  "director": "Peter Godfrey",
+  "writer": "Vicki Baum, Jo Pagano, Alvah Bessie",
+  "actors": "Faye Emerson, Helmut Dantine, Raymond Massey",
+  "plot": "In 1945, a strange mix of Germans, military personnel and civilians, pro-Nazi and anti-Nazi, celebrities and escaped prisoners, converges at a lavish hotel in heavily-bombed Berlin.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmU1ODQ0NjMtM2EzYy00MDgwLWExMWYtMGU5ZmE3ZTVmNTg3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0037791",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:46:23.577Z"
+}

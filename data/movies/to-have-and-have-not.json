@@ -1,0 +1,35 @@
+{
+  "title": "To Have and Have Not",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "20 Jan 1945",
+  "runtime": "100 min",
+  "genre": "Adventure, Comedy, Drama",
+  "director": "Howard Hawks",
+  "writer": "Ernest Hemingway, Jules Furthman, William Faulkner",
+  "actors": "Humphrey Bogart, Walter Brennan, Lauren Bacall",
+  "plot": "During World War II, an American expatriate helps transport a French Resistance leader and his wife to Martinique while romancing a lounge singer.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "4 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmJmNmI2NzctNDMzZi00NDI0LTkyZWQtNzczMGM5MGQ2MWEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "7.8",
+  "imdbID": "tt0037382",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:32:30.509Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Wing and a Prayer",
+  "year": "1944",
+  "rated": "Passed",
+  "released": "11 Jan 1945",
+  "runtime": "97 min",
+  "genre": "Action, Drama, War",
+  "director": "Henry Hathaway",
+  "writer": "Jerome Cady, Mortimer Braus, Jo Swerling",
+  "actors": "Don Ameche, Dana Andrews, William Eythe",
+  "plot": "In WW2, an American aircraft carrier sails around the Pacific on a decoy mission until it joins the battle of Midway against the Japanese forces.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGJkNjQyY2ItMzIyMy00N2I0LWE2ZDEtNDUwOGU5YzgwMDg3XkEyXkFqcGdeQXVyNDcxNDkxMjA@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0037466",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:32:39.940Z"
+}

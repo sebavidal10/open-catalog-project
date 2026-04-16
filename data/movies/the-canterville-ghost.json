@@ -1,0 +1,31 @@
+{
+  "title": "The Canterville Ghost",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "01 Aug 1944",
+  "runtime": "95 min",
+  "genre": "Comedy, Family, Fantasy",
+  "director": "Jules Dassin, Norman Z. McLeod",
+  "writer": "Oscar Wilde, Edwin Blum",
+  "actors": "Charles Laughton, Robert Young, Margaret O'Brien",
+  "plot": "The descendent of a ghost imprisoned for cowardice hopes to free the spirit by displaying courage when under duress.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA3MWNjNjItMWEzNi00NGYyLWJlYzUtZjJjMTYxMzhmMTVmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0036696",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:33:29.388Z"
+}

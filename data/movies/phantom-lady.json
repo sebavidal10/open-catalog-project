@@ -1,0 +1,31 @@
+{
+  "title": "Phantom Lady",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "28 Jan 1944",
+  "runtime": "87 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Robert Siodmak",
+  "writer": "Bernard C. Schoenfeld, Cornell Woolrich",
+  "actors": "Franchot Tone, Ella Raines, Alan Curtis",
+  "plot": "A devoted secretary risks her life to try to find the elusive woman who may prove her boss didn't murder his selfish wife.",
+  "language": "English, Portuguese",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzkyMDM1ODc4OF5BMl5BanBnXkFtZTgwNTEzODc5MTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0036260",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:32:51.725Z"
+}

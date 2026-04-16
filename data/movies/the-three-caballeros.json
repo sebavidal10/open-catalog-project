@@ -1,0 +1,35 @@
+{
+  "title": "The Three Caballeros",
+  "year": "1944",
+  "rated": "G",
+  "released": "22 Feb 1945",
+  "runtime": "71 min",
+  "genre": "Animation, Comedy, Family",
+  "director": "Norman Ferguson, Clyde Geronimi, Jack Kinney",
+  "writer": "Homer Brightman, Ernest Terrazas, Ted Sears",
+  "actors": "Aurora Miranda, Carmen Molina, Dora Luz",
+  "plot": "Donald receives his birthday gifts, which include traditional gifts and information about Brazil (hosted by Zé Carioca) and Mexico (by Panchito, a Mexican Charro Rooster).",
+  "language": "English, Spanish, Portuguese",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDg4MWM1Y2EtYzE2OC00YzJjLWE5YWYtZThkMDllMWM1MjllXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "6.3",
+  "imdbID": "tt0038166",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:32:32.866Z"
+}

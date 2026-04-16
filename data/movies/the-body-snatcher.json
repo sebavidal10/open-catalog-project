@@ -1,0 +1,35 @@
+{
+  "title": "The Body Snatcher",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "25 Jun 1945",
+  "runtime": "78 min",
+  "genre": "Horror, Thriller",
+  "director": "Robert Wise",
+  "writer": "Robert Louis Stevenson, Philip MacDonald, Val Lewton",
+  "actors": "Boris Karloff, Bela Lugosi, Henry Daniell",
+  "plot": "A ruthless doctor and his young prize student find themselves continually harassed by their murderous supplier of illegal cadavers.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDJkMWM5ZTEtNDJiZi00OWU2LWEwYzAtZGMzMzc1N2YzMGJjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.3",
+  "imdbID": "tt0037549",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:45:04.985Z"
+}

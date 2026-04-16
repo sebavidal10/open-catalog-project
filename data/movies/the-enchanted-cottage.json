@@ -1,0 +1,31 @@
+{
+  "title": "The Enchanted Cottage",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "29 Jun 1945",
+  "runtime": "91 min",
+  "genre": "Drama, Fantasy, Romance",
+  "director": "John Cromwell",
+  "writer": "DeWitt Bodeen, Herman J. Mankiewicz, Arthur Wing Pinero",
+  "actors": "Dorothy McGuire, Robert Young, Herbert Marshall",
+  "plot": "A plain maid and a wounded war veteran are transformed by their love for each other while residing in an enchanted honeymoon cottage.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 3 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWEwOTU3Y2YtZDczZi00MmFjLTk3M2EtNGIzMzY4OTZhY2QyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0037671",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:45:06.154Z"
+}

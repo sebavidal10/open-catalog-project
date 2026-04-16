@@ -1,0 +1,35 @@
+{
+  "title": "Meet Me in St. Louis",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "01 Jan 1945",
+  "runtime": "113 min",
+  "genre": "Comedy, Drama, Family",
+  "director": "Vincente Minnelli",
+  "writer": "Irving Brecher, Fred F. Finklehoffe, Sally Benson",
+  "actors": "Judy Garland, Margaret O'Brien, Mary Astor",
+  "plot": "Young love and childish fears highlight a year in the life of a turn-of-the-century family.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 9 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWQ3MGM3ODYtYTJhYS00MjVlLWJkMDUtYmQ4YmExYWYxOTA0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "7.5",
+  "imdbID": "tt0037059",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:32:23.453Z"
+}

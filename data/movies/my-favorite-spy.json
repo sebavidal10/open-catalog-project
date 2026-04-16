@@ -1,0 +1,27 @@
+{
+  "title": "My Favorite Spy",
+  "year": "1942",
+  "rated": "Approved",
+  "released": "12 Jun 1942",
+  "runtime": "86 min",
+  "genre": "Comedy, Musical",
+  "director": "Tay Garnett",
+  "writer": "M. Coates Webster, Sig Herzig, William Bowers",
+  "actors": "Kay Kyser, Ellen Drew, Jane Wyman",
+  "plot": "Complications arise for newlywed Kay Kyser and his bride when he gets involved in espionage at the request of the Army.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDE1ZWJiNDctOWJiNS00MmU2LWJjMDUtY2U5YWNkOGIzNzE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0035102",
+  "type": "movie",
+  "fetched_at": "2026-04-14T22:13:07.660Z"
+}

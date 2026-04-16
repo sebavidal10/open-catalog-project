@@ -1,0 +1,35 @@
+{
+  "title": "Anchors Aweigh",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "13 Aug 1945",
+  "runtime": "140 min",
+  "genre": "Comedy, Fantasy, Musical",
+  "director": "George Sidney, Joseph Barbera, William Hanna",
+  "writer": "Isobel Lennart, Natalie Marcin",
+  "actors": "Frank Sinatra, Kathryn Grayson, Gene Kelly",
+  "plot": "A pair of sailors on leave try to help a movie extra become a singing star.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 5 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzFiYzI3NzUtZmJhNy00N2JlLTk4NGEtNGRlMGI5MDdjNzUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "56%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "7.0",
+  "imdbID": "tt0037514",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:44:41.534Z"
+}

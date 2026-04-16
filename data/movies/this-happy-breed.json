@@ -1,0 +1,31 @@
+{
+  "title": "This Happy Breed",
+  "year": "1944",
+  "rated": "Not Rated",
+  "released": "12 Apr 1947",
+  "runtime": "115 min",
+  "genre": "Comedy, Drama",
+  "director": "David Lean",
+  "writer": "David Lean, Ronald Neame, Anthony Havelock-Allan",
+  "actors": "Robert Newton, Celia Johnson, John Mills",
+  "plot": "Just after World War I, the Gibbons family moves to a nice house in the suburbs. They live an ordinary life throughout the years, but everything changes when World War II breaks out.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGJkODRhMjQtZDQ0Ny00N2QxLTljZjktNjAwZjA0MzEzODE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0037367",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:32:49.373Z"
+}

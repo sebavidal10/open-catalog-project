@@ -1,0 +1,27 @@
+{
+  "title": "The Corn Is Green",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "14 Jul 1945",
+  "runtime": "115 min",
+  "genre": "Drama",
+  "director": "Irving Rapper",
+  "writer": "Casey Robinson, Frank Cavett, Emlyn Williams",
+  "actors": "Bette Davis, John Dall, Nigel Bruce",
+  "plot": "A schoolteacher becomes the mentor of a talented young miner and seeks to get him into a university.",
+  "language": "English, Welsh, Latin, French",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjYxYTMyYjUtYTVhYi00M2E3LWIwNzgtZDJlOGRiMzM4MGIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0037614",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:45:07.327Z"
+}

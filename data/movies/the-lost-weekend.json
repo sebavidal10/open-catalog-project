@@ -1,0 +1,31 @@
+{
+  "title": "The Lost Weekend",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "01 Jan 1946",
+  "runtime": "101 min",
+  "genre": "Drama, Film-Noir",
+  "director": "Billy Wilder",
+  "writer": "Charles R. Jackson, Charles Brackett, Billy Wilder",
+  "actors": "Ray Milland, Jane Wyman, Phillip Terry",
+  "plot": "The desperate life of a chronic alcoholic is followed through a four-day drinking bout.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 4 Oscars. 18 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk4NDQ0NjgyNF5BMl5BanBnXkFtZTgwMTE3NTkxMTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.9",
+  "imdbID": "tt0037884",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:44:27.472Z"
+}

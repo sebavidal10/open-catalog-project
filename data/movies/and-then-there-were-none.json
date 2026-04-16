@@ -1,0 +1,31 @@
+{
+  "title": "And Then There Were None",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "31 Oct 1945",
+  "runtime": "97 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "René Clair",
+  "writer": "Agatha Christie, Dudley Nichols",
+  "actors": "Barry Fitzgerald, Walter Huston, Louis Hayward",
+  "plot": "Seven guests, a newly hired secretary and two staff are gathered at a manor house on an isolated island by an unknown absentee host and are killed off one-by-one. They work together to determine who the killer is before it's too l...",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGMzNWQ0NDMtYzkyMy00YjY5LWE3YTgtZDU3Yzk2NWRjYmRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0037515",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:44:29.824Z"
+}

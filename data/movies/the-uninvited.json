@@ -1,0 +1,31 @@
+{
+  "title": "The Uninvited",
+  "year": "1944",
+  "rated": "Approved",
+  "released": "01 Sep 1944",
+  "runtime": "99 min",
+  "genre": "Fantasy, Horror, Mystery",
+  "director": "Lewis Allen",
+  "writer": "Dodie Smith, Frank Partos, Dorothy Macardle",
+  "actors": "Ray Milland, Ruth Hussey, Donald Crisp",
+  "plot": "A composer and his sister discover that the reason they are able to purchase a beautiful gothic seacoast mansion very cheaply is the house's unsavory past.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2I3NzRlMzItMzRiZC00YTZlLTgyYjEtMzdjMDQwZDE5YzQ5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0037415",
+  "type": "movie",
+  "fetched_at": "2026-04-15T14:32:37.578Z"
+}

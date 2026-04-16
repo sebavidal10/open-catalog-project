@@ -1,0 +1,27 @@
+{
+  "title": "Strange Holiday",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "02 Sep 1946",
+  "runtime": "61 min",
+  "genre": "Drama, Thriller",
+  "director": "Arch Oboler",
+  "writer": "Arch Oboler",
+  "actors": "Claude Rains, Bob Stebbins, Barbara Bate",
+  "plot": "A man returns from a trip to find fascists have taken over the U.S. government.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzBmNjVkN2YtYWI5Zi00MTA3LTkwZjEtNDczMDJkNzU2MmJjXkEyXkFqcGdeQXVyNTY4NjI2OTA@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.4",
+  "imdbID": "tt0038125",
+  "type": "movie",
+  "fetched_at": "2026-04-16T15:48:25.632Z"
+}
