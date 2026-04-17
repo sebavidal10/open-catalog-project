@@ -1,0 +1,31 @@
+{
+  "title": "Terror by Night",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "01 Feb 1946",
+  "runtime": "60 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Roy William Neill",
+  "writer": "Frank Gruber, Arthur Conan Doyle",
+  "actors": "Basil Rathbone, Nigel Bruce, Alan Mowbray",
+  "plot": "When the fabled Star of Rhodesia diamond is stolen on a London to Edinburgh train and the son of its owner is murdered, Sherlock Holmes must discover which of his suspicious fellow passengers is responsible.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTEzMGFmNjYtYjIxYS00Mzg5LWFhOTAtNWE5Y2I2Nzg3YzhjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0039017",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:04:28.061Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Hollywood and Vine",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "25 Apr 1945",
+  "runtime": "58 min",
+  "genre": "Comedy, Drama",
+  "director": "Alexis Thurn-Taxis",
+  "writer": "Edith Watkins, Charles Williams, Robert Wohlmuth",
+  "actors": "James Ellison, Wanda McKay, Franklin Pangborn",
+  "plot": "A young girl arrives in Hollywood determined to become a star in the movies, but finds that attaining stardom is a lot more difficult than she counted on. However, she does become a star of sorts--as the owner of a dog who DOES be...",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NDU1NDM4N15BMl5BanBnXkFtZTgwNTUyNzk1MDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0037786",
+  "type": "movie",
+  "fetched_at": "2026-04-17T17:59:04.795Z"
+}

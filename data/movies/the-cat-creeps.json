@@ -1,0 +1,31 @@
+{
+  "title": "The Cat Creeps",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "17 May 1946",
+  "runtime": "58 min",
+  "genre": "Comedy, Drama, Horror",
+  "director": "Erle C. Kenton",
+  "writer": "Edward Dein, Jerry Warner, Gerald Geraghty",
+  "actors": "Noah Beery Jr., Lois Collier, Paul Kelly",
+  "plot": "A black cat is suspected of being possessed by the spirit of a elderly murdered woman.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTEzYTBmOTgtZDdjOC00YTI2LWJmYTktMjM2ZTJlMmE2NmFkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0038401",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:06:10.366Z"
+}

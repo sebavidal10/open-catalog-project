@@ -1,0 +1,31 @@
+{
+  "title": "The Razor's Edge",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "25 Dec 1946",
+  "runtime": "145 min",
+  "genre": "Drama, Romance",
+  "director": "Edmund Goulding",
+  "writer": "Lamar Trotti, W. Somerset Maugham, Darryl F. Zanuck",
+  "actors": "Tyrone Power, Gene Tierney, John Payne",
+  "plot": "An adventuresome young man goes off to find himself and loses his socialite fiancée in the process. But when he returns ten years later, she will stop at nothing to get him back, even though she is already married.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 6 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTJlNTAyMWQtOTkwMS00NjI2LWE5NDgtOGVhYTViMmM2ZDBlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "56%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0038873",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:04:11.605Z"
+}

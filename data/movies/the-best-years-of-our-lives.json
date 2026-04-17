@@ -1,0 +1,35 @@
+{
+  "title": "The Best Years of Our Lives",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "29 May 1947",
+  "runtime": "170 min",
+  "genre": "Drama, Romance, War",
+  "director": "William Wyler",
+  "writer": "Robert E. Sherwood, MacKinlay Kantor",
+  "actors": "Myrna Loy, Dana Andrews, Fredric March",
+  "plot": "Three traumatized or physically disabled World War II veterans return home to the American Midwest to discover that they and their families have been irreparably changed making readjustment difficult.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 7 Oscars. 25 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTgxMzUyODQtMDJmZC00ZGMyLWI3MzAtZTYwYjBjZjFmMzIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "93/100"
+    }
+  ],
+  "metascore": "93",
+  "imdbRating": "8.1",
+  "imdbID": "tt0036868",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:03:48.162Z"
+}

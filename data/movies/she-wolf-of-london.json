@@ -1,0 +1,31 @@
+{
+  "title": "She-Wolf of London",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "17 May 1946",
+  "runtime": "61 min",
+  "genre": "Crime, Horror, Mystery",
+  "director": "Jean Yarbrough",
+  "writer": "George Bricker, Dwight V. Babcock",
+  "actors": "Don Porter, June Lockhart, Sara Haden",
+  "plot": "A young heiress finds evidence suggesting that at night she acts under the influence of a family curse and has begun committing ghastly murders in a nearby park.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA5NzgzNTI2OTheQTJeQWpwZ15BbWU4MDk4NDU0MzIx._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "17%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0038934",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:05:05.737Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Mr. Ace",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "02 Aug 1946",
+  "runtime": "84 min",
+  "genre": "Action, Drama, Romance",
+  "director": "Edwin L. Marin",
+  "writer": "Fred F. Finklehoffe",
+  "actors": "George Raft, Sylvia Sidney, Stanley Ridges",
+  "plot": "A rich society woman uses a gangster to win a congressional election.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTM0ZGY1MWItNDgxOC00Nzk3LTgxOGMtMTJjZDU2YWY3MjBlXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0038752",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:10:21.038Z"
+}

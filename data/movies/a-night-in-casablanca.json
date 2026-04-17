@@ -1,0 +1,31 @@
+{
+  "title": "A Night in Casablanca",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "12 Oct 1946",
+  "runtime": "85 min",
+  "genre": "Comedy, Family",
+  "director": "Archie Mayo",
+  "writer": "Joseph Fields, Roland Kibbee, Frank Tashlin",
+  "actors": "Groucho Marx, Harpo Marx, Chico Marx",
+  "plot": "The Marx Brothers are employed at a hotel in postwar Casablanca, where a ring of Nazis is trying to recover a cache of stolen treasure.",
+  "language": "English, French, German",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmE3MjA3ZWMtYjk3OS00YjE5LTgwMTYtMTRhNTUwY2VhNzBkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "63%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0038777",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:04:31.612Z"
+}

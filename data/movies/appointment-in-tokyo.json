@@ -1,0 +1,27 @@
+{
+  "title": "Appointment in Tokyo",
+  "year": "1945",
+  "rated": "Approved",
+  "released": "07 Dec 1945",
+  "runtime": "56 min",
+  "genre": "Documentary, War",
+  "director": "Jack Hively",
+  "writer": "N/A",
+  "actors": "Douglas MacArthur, Chester W. Nimitz, James Craig",
+  "plot": "Military documentary about the four years of Pacific war detailing the history of the defeat of Japan.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2IzYjYyZmUtZjJkYi00OGE1LWE5OWYtNDBjZjhiODJkYjNlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0214483",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:01:40.818Z"
+}

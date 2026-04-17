@@ -1,0 +1,31 @@
+{
+  "title": "Paisan",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "29 Mar 1948",
+  "runtime": "120 min",
+  "genre": "Drama, War",
+  "director": "Roberto Rossellini",
+  "writer": "Sergio Amidei, Federico Fellini, Klaus Mann",
+  "actors": "Carmela Sazio, Gar Moore, William Tubbs",
+  "plot": "American military personnel interact warily with a variety of Italian locals over a year and a half in the push north during the Italian Campaign of WWII as German forces make their retreat.",
+  "language": "Italian, English, German, Sicilian, Latin",
+  "country": "Italy",
+  "awards": "Nominated for 1 Oscar. 10 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjQ2YmE2YmYtMGM0YS00NGM5LWJmNDctNDJiZjI5Y2IyM2FmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0038823",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:04:26.892Z"
+}

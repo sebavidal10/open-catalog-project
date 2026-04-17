@@ -1,0 +1,35 @@
+{
+  "title": "Song of the South",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "20 Nov 1946",
+  "runtime": "94 min",
+  "genre": "Animation, Comedy, Family",
+  "director": "Harve Foster, Wilfred Jackson",
+  "writer": "Dalton S. Reymond, Morton Grant, Maurice Rapf",
+  "actors": "Ruth Warrick, Bobby Driscoll, James Baskett",
+  "plot": "The kindly story-teller Uncle Remus tells a young boy stories about trickster Br'er Rabbit, who outwits Br'er Fox and slow-witted Br'er Bear.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2ZhNTczOWYtZWQ0NS00NDRjLWI0MDItOTYwYWI2NTM3NjdjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "metascore": "54",
+  "imdbRating": "6.9",
+  "imdbID": "tt0038969",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:03:46.987Z"
+}

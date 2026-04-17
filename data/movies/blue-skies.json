@@ -1,0 +1,31 @@
+{
+  "title": "Blue Skies",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "16 Oct 1946",
+  "runtime": "99 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Stuart Heisler, Mark Sandrich",
+  "writer": "Arthur Sheekman, Allan Scott, Irving Berlin",
+  "actors": "Fred Astaire, Bing Crosby, Joan Caulfield",
+  "plot": "An ex-dancer and New York radio star narrates his love story for a band singer who loved a self-centered man who was unable to commit to his nightclub business or his family.",
+  "language": "English, French, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzE1NzIyMWItNjMxZS00NTViLWE0MTAtNGQzM2MzMzU0NmU5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDQzMDg4Nzk@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0038370",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:05:46.806Z"
+}

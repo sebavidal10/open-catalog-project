@@ -1,0 +1,31 @@
+{
+  "title": "Panique",
+  "year": "1946",
+  "rated": "Not Rated",
+  "released": "26 Nov 1947",
+  "runtime": "99 min",
+  "genre": "Crime, Drama",
+  "director": "Julien Duvivier",
+  "writer": "Charles Spaak, Julien Duvivier, Georges Simenon",
+  "actors": "Viviane Romance, Michel Simon, Max Dalban",
+  "plot": "After an elderly maid is murdered, opinions are manipulated, evidence is planted, violence erupts, and panic ensues.",
+  "language": "French",
+  "country": "France",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyODE0MTI0MV5BMl5BanBnXkFtZTgwMjg0NTI5MDI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.9",
+  "imdbID": "tt0038824",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:03:54.010Z"
+}

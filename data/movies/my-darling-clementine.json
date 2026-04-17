@@ -1,0 +1,31 @@
+{
+  "title": "My Darling Clementine",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "02 Dec 1946",
+  "runtime": "97 min",
+  "genre": "Drama, Romance, Western",
+  "director": "John Ford, Lloyd Bacon",
+  "writer": "Samuel G. Engel, Winston Miller, Sam Hellman",
+  "actors": "Henry Fonda, Linda Darnell, Victor Mature",
+  "plot": "After their cattle are stolen and their brother murdered, the Earp brothers have a score to settle with the Clanton family.",
+  "language": "English, Spanish, French",
+  "country": "United States",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGRmNGZhNDktMmNhYi00ZjlmLWIwMDItNWNhYjA4MDA2YmJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0038762",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:04:04.561Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "A Scandal in Paris",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "19 Jul 1946",
+  "runtime": "100 min",
+  "genre": "Adventure, Crime, Romance",
+  "director": "Douglas Sirk",
+  "writer": "Eugène-François Vidocq, Ellis St. Joseph",
+  "actors": "George Sanders, Signe Hasso, Carole Landis",
+  "plot": "Born in a French prison in 1775, François Eugène Vidocq becomes a professional thief and is later appointed chief of Parisian police.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2YzMmEyMzUtNmFiZC00ZmJhLWE0MWEtOGYyNDUyYmI4YmY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0038908",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:03:58.692Z"
+}

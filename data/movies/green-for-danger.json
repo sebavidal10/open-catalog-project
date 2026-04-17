@@ -1,0 +1,31 @@
+{
+  "title": "Green for Danger",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "07 Dec 1946",
+  "runtime": "91 min",
+  "genre": "Comedy, Crime, Mystery",
+  "director": "Sidney Gilliat",
+  "writer": "Christianna Brand, Sidney Gilliat, Claud Gurney",
+  "actors": "Alastair Sim, Sally Gray, Trevor Howard",
+  "plot": "A Scotland Yard Inspector investigates odd hospital deaths during the London Blitz.",
+  "language": "English, German",
+  "country": "United Kingdom",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGVlNWE0MmYtZWQ2Mi00ZGVjLTk0YzMtNmUyY2M1OGQyMGQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0038577",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:04:37.488Z"
+}

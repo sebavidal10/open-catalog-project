@@ -1,0 +1,27 @@
+{
+  "title": "Abilene Town",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "11 Jan 1946",
+  "runtime": "89 min",
+  "genre": "Western",
+  "director": "Edwin L. Marin",
+  "writer": "Ernest Haycox, Harold Shumate",
+  "actors": "Randolph Scott, Ann Dvorak, Edgar Buchanan",
+  "plot": "A sheriff tries to stop homesteader conflicts in the West after the Civil War.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzhiYzJmOGQtZmM3Yi00ZDIzLTgwYWItYzg3NWE2ZjIyNmFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0038284",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:05:08.095Z"
+}

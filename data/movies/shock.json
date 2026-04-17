@@ -1,0 +1,27 @@
+{
+  "title": "Shock",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "01 Feb 1946",
+  "runtime": "70 min",
+  "genre": "Drama, Film-Noir, Thriller",
+  "director": "Alfred L. Werker",
+  "writer": "Eugene Ling, Albert DeMond, Martin Berkeley",
+  "actors": "Vincent Price, Lynn Bari, Frank Latimore",
+  "plot": "A psychologically distraught woman is committed to a private sanitarium by the man she witnessed commit a murder.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGRjNWM0MDgtY2ViZi00OGRhLTkxNmUtMWI4YzZiYjRhMTJjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0038937",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:04:48.104Z"
+}

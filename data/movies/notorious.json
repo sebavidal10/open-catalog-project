@@ -1,0 +1,35 @@
+{
+  "title": "Notorious",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "06 Sep 1946",
+  "runtime": "102 min",
+  "genre": "Drama, Film-Noir, Mystery",
+  "director": "Alfred Hitchcock",
+  "writer": "Ben Hecht, John Taintor Foote, Alfred Hitchcock",
+  "actors": "Cary Grant, Ingrid Bergman, Claude Rains",
+  "plot": "The daughter of a convicted German spy is asked by American agents to gather information on a ring of German scientists in South America. How far will she have to go to ingratiate herself with them?",
+  "language": "English, Portuguese, French",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 4 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGU5ZjdmNzUtMGY0Ny00NjMyLWJiMDEtMmMzYmMyOTNjNzlmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "100/100"
+    }
+  ],
+  "metascore": "100",
+  "imdbRating": "7.9",
+  "imdbID": "tt0038787",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:03:57.512Z"
+}

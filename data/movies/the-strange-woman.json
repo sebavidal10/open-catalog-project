@@ -1,0 +1,31 @@
+{
+  "title": "The Strange Woman",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "25 Oct 1946",
+  "runtime": "100 min",
+  "genre": "Drama, Romance, Thriller",
+  "director": "Edgar G. Ulmer, Douglas Sirk",
+  "writer": "Herb Meadow, Ben Ames Williams, Hunt Stromberg",
+  "actors": "Hedy Lamarr, George Sanders, Louis Hayward",
+  "plot": "In 1820s New England beautiful but poor and manipulative Jenny Hager marries rich old man Isaiah Poster but also seduces his son and his company foreman.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGY4OGE4NGYtNTZhYi00MjRmLWFlZjktM2UxMmNmM2Y2NGE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0038990",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:04:19.814Z"
+}

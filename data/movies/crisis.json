@@ -1,0 +1,31 @@
+{
+  "title": "Crisis",
+  "year": "1946",
+  "rated": "Not Rated",
+  "released": "25 Feb 1946",
+  "runtime": "93 min",
+  "genre": "Drama, Romance",
+  "director": "Ingmar Bergman",
+  "writer": "Ingmar Bergman, Leck Fischer",
+  "actors": "Inga Landgré, Stig Olin, Marianne Löfgren",
+  "plot": "A small-town piano teacher is shocked by the arrival of her foster daughter's real mother, whose young lover soon follows and causes further disruption.",
+  "language": "Swedish",
+  "country": "Sweden",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODVjZjQ0OTUtNGJiNC00N2QyLWFmYmUtNDAxOTVmMDg4MTkzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0038675",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:06:04.478Z"
+}

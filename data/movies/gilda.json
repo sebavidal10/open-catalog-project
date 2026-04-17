@@ -1,0 +1,31 @@
+{
+  "title": "Gilda",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "25 Apr 1946",
+  "runtime": "110 min",
+  "genre": "Drama, Film-Noir, Romance",
+  "director": "Charles Vidor",
+  "writer": "E.A. Ellington, Jo Eisinger, Marion Parsonnet",
+  "actors": "Rita Hayworth, Glenn Ford, George Macready",
+  "plot": "A small-time gambler hired to work in a Buenos Aires casino discovers his employer's new wife is his former lover.",
+  "language": "English, Spanish, French, German",
+  "country": "United States",
+  "awards": "4 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGI5Nzk3M2YtOGRkZi00NTU1LTgxM2EtNjBmNjk0YTgxZjU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0038559",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:04:03.383Z"
+}

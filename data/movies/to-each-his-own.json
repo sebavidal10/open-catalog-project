@@ -1,0 +1,35 @@
+{
+  "title": "To Each His Own",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "12 Mar 1946",
+  "runtime": "122 min",
+  "genre": "Drama, Romance",
+  "director": "Mitchell Leisen",
+  "writer": "Charles Brackett, Jacques Théry, Dodie Smith",
+  "actors": "Olivia de Havilland, John Lund, Mary Anderson",
+  "plot": "An unwed mother, forced to give up her child to avoid scandal, follows her son's life from afar even as she prospers in business.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjA4YTRiMjAtYzM2My00MzQ2LWI0NTEtMGI0Yjc0ZjZlYjg3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "7.6",
+  "imdbID": "tt0039040",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:04:42.203Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "La vie de bohème",
+  "year": "1945",
+  "rated": "N/A",
+  "released": "17 Jan 1945",
+  "runtime": "92 min",
+  "genre": "Drama",
+  "director": "Marcel L'Herbier",
+  "writer": "Robert Boissy, Nino Frank, Henri Murger",
+  "actors": "Maria Denis, Louis Jourdan, Gisèle Pascal",
+  "plot": "All are artists (painters,musicians,poets...) ,all are bound for glory .",
+  "language": "French",
+  "country": "France, Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM0ZDQ3ODUtZjRhYS00NGE5LTg1OGEtMDdkNTViNjM3N2Q3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0035515",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:00:15.848Z"
+}

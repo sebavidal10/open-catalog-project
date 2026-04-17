@@ -1,0 +1,27 @@
+{
+  "title": "The Locket",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "20 Dec 1946",
+  "runtime": "85 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "John Brahm",
+  "writer": "Sheridan Gibney, Norma Barzman",
+  "actors": "Laraine Day, Robert Mitchum, Brian Aherne",
+  "plot": "Just before a wedding, the bridegroom hears a complex tale painting his lovely bride as devilish and unbalanced.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTYzMjIzNGMtMmU2Yy00YmVkLWI4ZTAtNjVkNDhlMGU3ZWM2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0038700",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:05:16.318Z"
+}

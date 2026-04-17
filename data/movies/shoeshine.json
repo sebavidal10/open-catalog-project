@@ -1,0 +1,31 @@
+{
+  "title": "Shoeshine",
+  "year": "1946",
+  "rated": "Not Rated",
+  "released": "26 Aug 1947",
+  "runtime": "91 min",
+  "genre": "Drama",
+  "director": "Vittorio De Sica",
+  "writer": "Sergio Amidei, Adolfo Franci, Cesare Giulio Viola",
+  "actors": "Rinaldo Smordoni, Franco Interlenghi, Annielo Mele",
+  "plot": "Two shoeshine boys in postwar Rome, Italy save up to buy a horse, but their involvement as dupes in a burglary lands them in juvenile prison; the experience take a devastating toll on their friendship.",
+  "language": "Italian, English",
+  "country": "Italy",
+  "awards": "Nominated for 1 Oscar. 3 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTdhYjNmYzgtNDc0My00NjQxLWJlYmYtNWYwOGQ0YTlmMGUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.0",
+  "imdbID": "tt0038913",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:03:55.179Z"
+}

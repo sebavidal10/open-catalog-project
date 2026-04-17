@@ -1,0 +1,35 @@
+{
+  "title": "Dead Reckoning",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "29 Jan 1947",
+  "runtime": "100 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "John Cromwell",
+  "writer": "Oliver H.P. Garrett, Steve Fisher, Allen Rivkin",
+  "actors": "Humphrey Bogart, Lizabeth Scott, Morris Carnovsky",
+  "plot": "A soldier runs away to avoid receiving the Medal of Honor, so his buddy gets permission to investigate. Romance and death soon follow.",
+  "language": "English, Latin",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNjQ5MjItN2VjZS00OGRjLWIyZGYtMGMxMjcyN2RlYjE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "7.0",
+  "imdbID": "tt0039305",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:04:17.459Z"
+}

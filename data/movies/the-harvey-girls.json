@@ -1,0 +1,35 @@
+{
+  "title": "The Harvey Girls",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "29 Apr 1946",
+  "runtime": "102 min",
+  "genre": "Comedy, Drama, History",
+  "director": "George Sidney",
+  "writer": "Edmund Beloin, Nathaniel Curtis, Harry Crane",
+  "actors": "Judy Garland, Ray Bolger, John Hodiak",
+  "plot": "On a train trip West to become a mail-order bride, Susan Bradley meets a cheery crew of young women travelling out to open a \"Harvey House\" restaurant at a remote whistle-stop.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTQ4MWFjOWUtMDlkMy00OWM0LTg5N2QtMzFlOGE0NDM0NjE0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "7.0",
+  "imdbID": "tt0038589",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:04:20.987Z"
+}

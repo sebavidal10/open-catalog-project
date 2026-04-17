@@ -1,0 +1,31 @@
+{
+  "title": "Lady in the Lake",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "19 Jan 1947",
+  "runtime": "105 min",
+  "genre": "Crime, Film-Noir, Mystery",
+  "director": "Robert Montgomery",
+  "writer": "Steve Fisher, Raymond Chandler",
+  "actors": "Robert Montgomery, Audrey Totter, Lloyd Nolan",
+  "plot": "The female editor of a crime magazine hires Phillip Marlowe to find the wife of her boss. The private detective soon finds himself involved in murder.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2NiZjczMWQtODUxOS00YzUwLTkzZWYtMjFhNDg5ZmExZTU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0039545",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:04:33.964Z"
+}

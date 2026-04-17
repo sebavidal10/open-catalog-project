@@ -1,0 +1,31 @@
+{
+  "title": "The Chase",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "10 Mar 1947",
+  "runtime": "86 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Arthur Ripley",
+  "writer": "Philip Yordan, Cornell Woolrich, Jacqueline Duffie",
+  "actors": "Robert Cummings, Michèle Morgan, Steve Cochran",
+  "plot": "Chuck Scott gets a job as chauffeur to tough guy Eddie Roman; but Chuck's involvement with Eddie's fearful wife becomes a nightmare.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgzMzM0MjUtNGMzMy00YTJlLTg5MGMtYWRhZDA0ZmE2YmNkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0038409",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:04:16.290Z"
+}

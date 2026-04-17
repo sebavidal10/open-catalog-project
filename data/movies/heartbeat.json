@@ -1,0 +1,27 @@
+{
+  "title": "Heartbeat",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "01 May 1946",
+  "runtime": "102 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Sam Wood",
+  "writer": "Morrie Ryskind, Hans Wilhelm, Max Kolpé",
+  "actors": "Ginger Rogers, Jean-Pierre Aumont, Adolphe Menjou",
+  "plot": "In Paris, a young woman runs away from a reform school, joins a pickpocket academy, and finds herself falling for the handsome diplomat she's been blackmailed into stealing from.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDAwMTViNjQtNjBhNC00YjgwLWFmMTktOWNlMWE0Mjk1ZGU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0038592",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:06:02.130Z"
+}

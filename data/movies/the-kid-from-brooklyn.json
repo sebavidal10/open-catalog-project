@@ -1,0 +1,31 @@
+{
+  "title": "The Kid from Brooklyn",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "21 Mar 1946",
+  "runtime": "113 min",
+  "genre": "Comedy, Sport",
+  "director": "Norman Z. McLeod",
+  "writer": "Don Hartman, Melville Shavelson, Grover Jones",
+  "actors": "Danny Kaye, Virginia Mayo, Vera-Ellen",
+  "plot": "After a timid milkman knocks unconscious a boxing champion who was accosting his sister, he decides to take up boxing himself in order to impress a beautiful nightclub singer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzc4NDY5OTItZThlNS00NjA0LThiN2ItZTg4ODI4YWQyNzY0XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0038668",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:05:31.535Z"
+}

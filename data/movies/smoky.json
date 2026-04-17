@@ -1,0 +1,27 @@
+{
+  "title": "Smoky",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "26 Jun 1946",
+  "runtime": "87 min",
+  "genre": "Drama, Family, Music",
+  "director": "Louis King",
+  "writer": "Lillie Hayward, Dwight Cummins, Dorothy Yost",
+  "actors": "Fred MacMurray, Anne Baxter, Burl Ives",
+  "plot": "Drama about the strong bond between a cowpoke and a wild bronco set during the 1940s.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmFjMGU0OWEtNTA0YS00MjY5LThlMDMtMDU0OGZiNDliZGM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0038955",
+  "type": "movie",
+  "fetched_at": "2026-04-17T18:07:35.416Z"
+}
