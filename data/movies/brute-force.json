@@ -1,0 +1,35 @@
+{
+  "title": "Brute Force",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "01 Aug 1947",
+  "runtime": "98 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Jules Dassin",
+  "writer": "Richard Brooks, Robert Patterson",
+  "actors": "Burt Lancaster, Hume Cronyn, Charles Bickford",
+  "plot": "At a tough penitentiary, prisoner Joe Collins plans to rebel against Captain Munsey, the power-mad chief guard.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzhlMjE3OTctYWNjZi00MDE0LWE2MGMtNTI5MGUyNzY3NDlkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "7.5",
+  "imdbID": "tt0039224",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:49:23.621Z"
+}

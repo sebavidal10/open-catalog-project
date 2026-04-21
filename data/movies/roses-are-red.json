@@ -1,0 +1,27 @@
+{
+  "title": "Roses Are Red",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "10 Nov 1947",
+  "runtime": "67 min",
+  "genre": "Action, Crime, Drama",
+  "director": "James Tinling",
+  "writer": "Irving Elman",
+  "actors": "Don Castle, Peggy Knudsen, Patricia Knight",
+  "plot": "A paroled convict who bears a striking resemblance to the local District Attorney is hired by the mob to impersonate him, while the real District Attorney is kidnapped and held captive at a secret location.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTVkZGUyNjgtY2QyMy00MTAyLTk4NGMtOGJmOWMzYWE1ZDg2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0039787",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:54:02.999Z"
+}

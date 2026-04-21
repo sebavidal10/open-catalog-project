@@ -1,0 +1,35 @@
+{
+  "title": "Odd Man Out",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "23 Apr 1947",
+  "runtime": "116 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Carol Reed",
+  "writer": "F.L. Green, R.C. Sherriff",
+  "actors": "James Mason, Robert Newton, Cyril Cusack",
+  "plot": "A wounded Irish nationalist leader attempts to evade police following a failed robbery in Belfast.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 Oscar. 4 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWI5M2NiYmMtNDljYy00YjgxLWJlYzgtOGJhYTY1OTBkOTYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.6",
+  "imdbID": "tt0039677",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:48:57.683Z"
+}

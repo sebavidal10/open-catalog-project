@@ -1,0 +1,27 @@
+{
+  "title": "Aquí está Juan Colorado",
+  "year": "1946",
+  "rated": "N/A",
+  "released": "N/A",
+  "runtime": "N/A",
+  "genre": "Drama, War, Western",
+  "director": "Rolando Aguilar",
+  "writer": "Rolando Aguilar, Carlos Gaytán, Raúl de Anda",
+  "actors": "Raúl de Anda, Yadira Jiménez, Luis Aguilar",
+  "plot": "In the aftermath of a revolution, military forces face scattered rebel groups while soldiers navigate personal relationships and love interests amid the conflict.",
+  "language": "Spanish",
+  "country": "Mexico",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDVkZWJiNzMtOGU3MC00YzAyLThkNmQtYzU0MTBlOWI3ZjgxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.3",
+  "imdbID": "tt0124283",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:48:44.641Z"
+}

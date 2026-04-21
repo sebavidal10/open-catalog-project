@@ -1,0 +1,31 @@
+{
+  "title": "I Walk Alone",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "16 Jan 1948",
+  "runtime": "97 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Byron Haskin",
+  "writer": "Charles Schnee, Robert Smith, John Bright",
+  "actors": "Burt Lancaster, Lizabeth Scott, Kirk Douglas",
+  "plot": "Frankie Madison leaves prison expecting a share from his ex-partner. But Prohibition bootlegging didn't prepare Frankie for Big Business.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzE1YmU0OTAtNGYxMi00YTJmLTg0ZGYtNDRmNTJkMDk2NDFmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "7.0",
+  "imdbID": "tt0039482",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:49:38.965Z"
+}

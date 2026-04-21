@@ -1,0 +1,27 @@
+{
+  "title": "Banjo",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "15 May 1947",
+  "runtime": "68 min",
+  "genre": "Drama, Family",
+  "director": "Richard Fleischer",
+  "writer": "Lillie Hayward",
+  "actors": "Sharyn Moffett, Jacqueline White, Walter Reed",
+  "plot": "9-year-old Georgia girl and her dog are sent to live with her aunt in Boston.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzk3M2I2ZDYtZDU0ZC00YTA3LWFmZDYtYzc1NjJjY2Y0MTUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0039174",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:55:39.697Z"
+}

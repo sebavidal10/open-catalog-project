@@ -1,0 +1,27 @@
+{
+  "title": "Hi De Ho",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "09 May 1947",
+  "runtime": "72 min",
+  "genre": "Musical",
+  "director": "Josh Binney",
+  "writer": "Hal Seeger",
+  "actors": "Cab Calloway, Ida James, Jeni Le Gon",
+  "plot": "Cab Calloway plays himself in a plot about jealousy, night clubs, and gangsters. Ends with a series of musical numbers.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTAzMzA3MTctMjNkZS00Y2UwLWFiODUtOWRhYWUwMTYzZWQ4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0039460",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:52:22.448Z"
+}

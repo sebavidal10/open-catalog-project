@@ -1,0 +1,31 @@
+{
+  "title": "Daisy Kenyon",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "25 Dec 1947",
+  "runtime": "99 min",
+  "genre": "Drama, Romance",
+  "director": "Otto Preminger",
+  "writer": "David Hertz, Elizabeth Janeway",
+  "actors": "Joan Crawford, Dana Andrews, Henry Fonda",
+  "plot": "A commercial artist having an affair with a married attorney becomes involved with a returning soldier and must choose between the two.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmY0MzM4OTQtZTY3MS00ODVkLTg2MTYtZTYwN2Y1ZjkxYzZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0039294",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:49:57.887Z"
+}

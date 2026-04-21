@@ -1,0 +1,35 @@
+{
+  "title": "Miracle on 34th Street",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "04 Jul 1947",
+  "runtime": "96 min",
+  "genre": "Comedy, Drama, Family",
+  "director": "George Seaton",
+  "writer": "George Seaton, Valentine Davies",
+  "actors": "Edmund Gwenn, Maureen O'Hara, John Payne",
+  "plot": "After a divorced New York mother hires a nice old man to play Santa Claus at Macy's, she is startled by his claim to be the genuine article. When his sanity is questioned, a lawyer defends him in court by arguing that he's not mis...",
+  "language": "English, Dutch",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 10 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZThmOTU4MzktNzg4Yy00NGRhLThlZjQtYjA1MjY2Zjg0N2RiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "7.9",
+  "imdbID": "tt0039628",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:49:07.108Z"
+}

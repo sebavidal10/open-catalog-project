@@ -1,0 +1,27 @@
+{
+  "title": "Mr. Hex",
+  "year": "1946",
+  "rated": "Approved",
+  "released": "07 Dec 1946",
+  "runtime": "63 min",
+  "genre": "Comedy",
+  "director": "William Beaudine",
+  "writer": "Jan Grippo, Cy Endfield",
+  "actors": "Leo Gorcey, Huntz Hall, Bobby Jordan",
+  "plot": "Sach is given a post-hypnotic suggestion that turns him into a championship prizefighter.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWZhNjhjYjktY2JlYy00YTdmLWFkMjItYWRlZTVmMzMxNDU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0038753",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:46:51.173Z"
+}

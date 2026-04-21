@@ -1,0 +1,35 @@
+{
+  "title": "The Bachelor and the Bobby-Soxer",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "01 Sep 1947",
+  "runtime": "95 min",
+  "genre": "Comedy, Romance",
+  "director": "Irving Reis",
+  "writer": "Sidney Sheldon, Louis Sauvat",
+  "actors": "Cary Grant, Myrna Loy, Shirley Temple",
+  "plot": "A high school girl falls for a playboy artist, with screwball results.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQ5ZDkxZTktNTZiNC00NzMyLWJkM2QtZjYwMDg4MWM4OTZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "metascore": "59",
+  "imdbRating": "7.2",
+  "imdbID": "tt0039169",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:49:35.424Z"
+}

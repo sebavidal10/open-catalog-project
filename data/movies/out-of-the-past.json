@@ -1,0 +1,35 @@
+{
+  "title": "Out of the Past",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "01 Dec 1947",
+  "runtime": "97 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Jacques Tourneur",
+  "writer": "Daniel Mainwaring, James M. Cain, Frank Fenton",
+  "actors": "Robert Mitchum, Jane Greer, Kirk Douglas",
+  "plot": "A private eye escapes his past to run a gas station in a small town, but his past catches up with him. Now he must return to the big city world of danger, corruption, double crosses, and duplicitous dames.",
+  "language": "English, American Sign ",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWM3MjAzN2MtOTE0OS00ZTIxLWFkZTAtZTVmNmMyNGZjNDA4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "8.0",
+  "imdbID": "tt0039689",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:49:03.571Z"
+}

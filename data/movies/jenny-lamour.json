@@ -1,0 +1,35 @@
+{
+  "title": "Jenny Lamour",
+  "year": "1947",
+  "rated": "Not Rated",
+  "released": "05 Mar 1948",
+  "runtime": "106 min",
+  "genre": "Crime, Drama",
+  "director": "Henri-Georges Clouzot",
+  "writer": "Stanislas-André Steeman, Henri-Georges Clouzot, Jean Ferry",
+  "actors": "Louis Jouvet, Simone Renant, Bernard Blier",
+  "plot": "A jealous husband intends to kill the man his wife is meeting for business, but arrives to find the deed already done.",
+  "language": "French",
+  "country": "France",
+  "awards": "2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzg5ZmFjYWUtOTk2Mi00NDg4LWExMTUtNjMwNDJiMzExYWVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "7.7",
+  "imdbID": "tt0039739",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:48:52.960Z"
+}

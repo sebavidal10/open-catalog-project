@@ -1,0 +1,27 @@
+{
+  "title": "Big Town",
+  "year": "1946",
+  "rated": "Passed",
+  "released": "23 May 1947",
+  "runtime": "60 min",
+  "genre": "Crime, Drama",
+  "director": "William C. Thomas",
+  "writer": "Daniel Mainwaring, Maxwell Shane",
+  "actors": "Phillip Reed, Hillary Brooke, Robert Lowery",
+  "plot": "A newspaper editor goes on an anti-crime crusade, but gets carried away.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2ZjYzQ0ZWItNGU5ZC00ZGE2LWJlN2MtMGIwZTVkNTFjMjJmXkEyXkFqcGdeQXVyNzQzNDEyOQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.1",
+  "imdbID": "tt0039186",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:45:20.544Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Crossfire",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "15 Aug 1947",
+  "runtime": "86 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Edward Dmytryk",
+  "writer": "John Paxton, Richard Brooks",
+  "actors": "Robert Young, Robert Mitchum, Robert Ryan",
+  "plot": "A man is murdered, apparently by one of a group of demobilized soldiers he met in a bar. But which one? And why?",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 5 Oscars. 7 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmI4NTk3NDMtZjBjMC00ZmE5LWFjYjctM2RlMjI2NDRiNTI5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0039286",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:49:27.163Z"
+}

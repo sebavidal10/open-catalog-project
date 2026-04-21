@@ -1,0 +1,31 @@
+{
+  "title": "13 Rue Madeleine",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "03 Mar 1947",
+  "runtime": "95 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Henry Hathaway",
+  "writer": "John Monks Jr., Sy Bartlett",
+  "actors": "James Cagney, Annabella, Richard Conte",
+  "plot": "When spy chief Bob Sharkey finds out one of his agents-in-training is actually a Nazi double agent, his strategic decision not to arrest him results in tragedy.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjE4ZDMxNzctMTljMy00NGE4LTljNGMtN2RmZmMyYTU1ZWJhXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0038279",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:50:27.352Z"
+}

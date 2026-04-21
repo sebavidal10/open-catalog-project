@@ -1,0 +1,27 @@
+{
+  "title": "Hungry Hill",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "05 Oct 1947",
+  "runtime": "92 min",
+  "genre": "Drama",
+  "director": "Brian Desmond Hurst",
+  "writer": "Daphne Du Maurier, Terence Young, Francis Crowdy",
+  "actors": "Margaret Lockwood, Dennis Price, Cecil Parker",
+  "plot": "Story of a feud that has gone on between two Irish families for more than 50 years.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzY2NDFhM2ItNGRiMS00NTk2LTlmNGQtMjI5NWM4MzJkZDljXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0039479",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:53:41.761Z"
+}

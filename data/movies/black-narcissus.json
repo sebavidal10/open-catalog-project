@@ -1,0 +1,35 @@
+{
+  "title": "Black Narcissus",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "01 Dec 1947",
+  "runtime": "101 min",
+  "genre": "Drama",
+  "director": "Michael Powell, Emeric Pressburger",
+  "writer": "Rumer Godden, Michael Powell, Emeric Pressburger",
+  "actors": "Deborah Kerr, David Farrar, Flora Robson",
+  "plot": "A group of nuns struggle to establish a convent in the Himalayas, while isolation, extreme weather, altitude, and culture clashes all conspire to drive the well-intentioned missionaries mad.",
+  "language": "English, French, Nepali",
+  "country": "United Kingdom",
+  "awards": "Won 2 Oscars. 6 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjRmMTQyNDEtNWM4Zi00ZTMwLTlkOGUtZTdmZDU0NTNiZTQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.7",
+  "imdbID": "tt0039192",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:49:00.031Z"
+}

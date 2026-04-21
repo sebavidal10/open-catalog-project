@@ -1,0 +1,35 @@
+{
+  "title": "Nightmare Alley",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "28 Oct 1947",
+  "runtime": "110 min",
+  "genre": "Drama, Film-Noir",
+  "director": "Edmund Goulding",
+  "writer": "Jules Furthman, William Lindsay Gresham",
+  "actors": "Tyrone Power, Joan Blondell, Coleen Gray",
+  "plot": "The rise and fall of Stanton Carlisle, a mentalist whose lies and deceit prove to be his downfall.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmQ1NGI4ZjMtNTk3MC00MWQwLTliMzQtMTk3MjQxYzllZDU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "7.7",
+  "imdbID": "tt0039661",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:49:14.197Z"
+}

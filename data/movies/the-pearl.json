@@ -1,0 +1,31 @@
+{
+  "title": "The Pearl",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "12 Sep 1947",
+  "runtime": "85 min",
+  "genre": "Adventure, Drama, Romance",
+  "director": "Emilio Fernández",
+  "writer": "John Steinbeck, Emilio Fernández, Jack Wagner",
+  "actors": "Pedro Armendáriz, María Elena Marqués, Fernando Wagner",
+  "plot": "The discovery of a perfect pearl forever changes the lives of a poor Mexican fisherman and his family.",
+  "language": "Spanish, English",
+  "country": "Mexico, United States",
+  "awards": "9 wins & 6 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODMyNWE2YjctNTRlOS00ODdkLWE1NWYtMTA5ZDdiYTFhYjk1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0037981",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:51:20.458Z"
+}

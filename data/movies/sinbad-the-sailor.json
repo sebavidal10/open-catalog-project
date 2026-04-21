@@ -1,0 +1,31 @@
+{
+  "title": "Sinbad, the Sailor",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "13 Jan 1947",
+  "runtime": "116 min",
+  "genre": "Adventure, Family, Fantasy",
+  "director": "Richard Wallace",
+  "writer": "John Twist, George Worthing Yates",
+  "actors": "Douglas Fairbanks Jr., Maureen O'Hara, Walter Slezak",
+  "plot": "In medieval Persia, during the rule of Caliph Harun-Al-Rashid, Sinbad the Sailor boasts about his latest adventures to his friends.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzBjNjFhZTUtMWQzNi00MDIxLTgyODAtODEyODFjMjUwYmMwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0039826",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:49:49.620Z"
+}

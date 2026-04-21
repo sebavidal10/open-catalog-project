@@ -1,0 +1,31 @@
+{
+  "title": "Ride the Pink Horse",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "02 Feb 1948",
+  "runtime": "101 min",
+  "genre": "Drama, Film-Noir, Mystery",
+  "director": "Robert Montgomery",
+  "writer": "Ben Hecht, Charles Lederer, Dorothy B. Hughes",
+  "actors": "Robert Montgomery, Thomas Gomez, Wanda Hendrix",
+  "plot": "WW2 veteran Lucky Gagin arrives in a New Mexico border-town intent on revenging against mobster Frank Hugo but FBI agent Bill Retz, who also wants Hugo, tries to keep Gagin out of trouble.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGI0YWRkZTYtZThiMy00NWY0LWI0OWUtN2M2MWM1ODczZDEzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0039768",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:50:01.417Z"
+}

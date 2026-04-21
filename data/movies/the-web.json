@@ -1,0 +1,31 @@
+{
+  "title": "The Web",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "25 May 1947",
+  "runtime": "87 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Michael Gordon",
+  "writer": "William Bowers, Bertram Millhauser, Harry Kurnitz",
+  "actors": "Ella Raines, Edmond O'Brien, William Bendix",
+  "plot": "An attorney acting as a body guard, apparently kills a man in defense of his employer's life, and later believes the victim was set up to be murdered.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDY5MWM5YTctZGYxNS00ZmRjLWJmN2ItOTRjOGJiNDliOTZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0039973",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:51:00.349Z"
+}

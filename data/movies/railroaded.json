@@ -1,0 +1,31 @@
+{
+  "title": "Railroaded!",
+  "year": "1947",
+  "rated": "Passed",
+  "released": "25 Sep 1947",
+  "runtime": "72 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Anthony Mann",
+  "writer": "John C. Higgins, Gertrude Walker",
+  "actors": "John Ireland, Sheila Ryan, Hugh Beaumont",
+  "plot": "A beautician and her crooked boyfriend attempt to rob the bookie operation located in the back room, but when the plan goes wrong, they frame an innocent man.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzNjOTI3OWItOGRhOC00OTJjLTk2NzYtMTZlYjFmNzg0NmM2XkEyXkFqcGdeQXVyNTk1MTk0MDI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0039748",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:51:29.888Z"
+}

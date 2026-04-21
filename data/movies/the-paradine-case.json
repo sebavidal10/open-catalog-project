@@ -1,0 +1,31 @@
+{
+  "title": "The Paradine Case",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "13 Jul 1948",
+  "runtime": "125 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "Alfred Hitchcock",
+  "writer": "Robert Hichens, Alma Reville, David O. Selznick",
+  "actors": "Gregory Peck, Ann Todd, Charles Laughton",
+  "plot": "A happily married London barrister falls in love with the accused poisoner he is defending.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzhmNTg5OTUtYmE5My00ZjNiLTkzNzctYmI4YzdjZmFkNjFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0039694",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:49:20.109Z"
+}

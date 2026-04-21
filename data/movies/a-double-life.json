@@ -1,0 +1,31 @@
+{
+  "title": "A Double Life",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "01 Apr 1948",
+  "runtime": "104 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "George Cukor",
+  "writer": "Ruth Gordon, Garson Kanin, William Shakespeare",
+  "actors": "Ronald Colman, Edmond O'Brien, Signe Hasso",
+  "plot": "A celebrated actor struggles to distinguish his own life from that of his most recent stage role, Othello.",
+  "language": "English, Italian, Swedish",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 5 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDVhYmY5ZGYtODFlMS00OWJhLTk5YWQtZDIxNThiZjQzMjU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0039335",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:49:37.782Z"
+}

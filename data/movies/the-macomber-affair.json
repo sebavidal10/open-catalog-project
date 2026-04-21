@@ -1,0 +1,31 @@
+{
+  "title": "The Macomber Affair",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "29 Aug 1947",
+  "runtime": "89 min",
+  "genre": "Adventure, Drama",
+  "director": "Zoltan Korda",
+  "writer": "Ernest Hemingway, Seymour Bennett, Frank Arnold",
+  "actors": "Gregory Peck, Joan Bennett, Robert Preston",
+  "plot": "In British East Africa, a fatal triangle develops involving a frustrated wife, a weak and cowardly husband, and an English big-game hunter who comes between the couple.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDA0ZTJmNGQtYTVjOC00MmM2LWEwZDQtYTE5NTBiYWFkZmM3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0039591",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:51:07.453Z"
+}

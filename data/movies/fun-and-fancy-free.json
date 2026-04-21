@@ -1,0 +1,35 @@
+{
+  "title": "Fun and Fancy Free",
+  "year": "1947",
+  "rated": "G",
+  "released": "12 Mar 1948",
+  "runtime": "73 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Jack Kinney, Hamilton Luske, William Morgan",
+  "writer": "Homer Brightman, Harry Reeves, Ted Sears",
+  "actors": "Edgar Bergen, Dinah Shore, Luana Patten",
+  "plot": "Jiminy Cricket hosts two Disney animated shorts: \"Bongo,\" about a circus bear escaping to the wild, and \"Mickey and the Beanstalk,\" a take on the famous fairy tale.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGU3NDU5YTYtYWI1NC00YmM2LWE5NDItNGNmMjAwYjEwZTdiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "6.3",
+  "imdbID": "tt0039404",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:49:21.278Z"
+}

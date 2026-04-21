@@ -1,0 +1,27 @@
+{
+  "title": "Bush Christmas",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "28 Jul 1947",
+  "runtime": "80 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Ralph Smart",
+  "writer": "Ralph Smart",
+  "actors": "Chips Rafferty, John Fernside, Stan Tolhurst",
+  "plot": "In Australia, five children pursue horse thieves through the mountains.",
+  "language": "English",
+  "country": "United Kingdom, Australia",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU4NzM4NTA0MV5BMl5BanBnXkFtZTcwNTk2MzEzMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0039231",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:57:01.059Z"
+}

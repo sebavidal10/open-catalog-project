@@ -1,0 +1,27 @@
+{
+  "title": "Apache Rose",
+  "year": "1947",
+  "rated": "Passed",
+  "released": "15 Feb 1947",
+  "runtime": "75 min",
+  "genre": "Drama, Music, Western",
+  "director": "William Witney",
+  "writer": "Gerald Geraghty",
+  "actors": "Roy Rogers, Trigger, Dale Evans",
+  "plot": "Roy is an oil prospector. His efforts to get drilling rights on an old Spanish land grant are countered by gamblers from an off-shore gambling boat determined to control the land (and oil) themselves.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM5NDA0MDU5NF5BMl5BanBnXkFtZTcwODIwMDc1NQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0039157",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:58:22.797Z"
+}

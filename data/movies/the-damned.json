@@ -1,0 +1,31 @@
+{
+  "title": "The Damned",
+  "year": "1947",
+  "rated": "Not Rated",
+  "released": "19 Sep 1947",
+  "runtime": "105 min",
+  "genre": "Adventure, Drama, Thriller",
+  "director": "René Clément",
+  "writer": "Victor Alexandrov, René Clément, Jacques Companéez",
+  "actors": "Marcel Dalio, Henri Vidal, Florence Marly",
+  "plot": "In the last days of World War II, a group of Nazis and their sympathizers try to escape from reckoning using a submarine.",
+  "language": "French, English, German, Italian",
+  "country": "France",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjg1MDY3YzItZjE5Zi00ODhlLTg2N2YtZDVhNjM5OGU5YjI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0039615",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:52:02.920Z"
+}

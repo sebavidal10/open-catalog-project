@@ -1,0 +1,31 @@
+{
+  "title": "Desperate",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "20 Jun 1947",
+  "runtime": "73 min",
+  "genre": "Crime, Film-Noir, Thriller",
+  "director": "Anthony Mann",
+  "writer": "Harry Essex, Martin Rackin, Dorothy Atlas",
+  "actors": "Steve Brodie, Audrey Long, Raymond Burr",
+  "plot": "A young married couple flee both the police and a gangster out for revenge.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTJmNGI5OTktNmU1Zi00YmY1LTg3YjEtMDQxMTdjMTExODhjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0039313",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:50:47.360Z"
+}

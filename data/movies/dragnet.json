@@ -1,0 +1,27 @@
+{
+  "title": "Dragnet",
+  "year": "1947",
+  "rated": "Passed",
+  "released": "16 Aug 1947",
+  "runtime": "71 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Leslie Goodwins",
+  "writer": "Maurice Conn, Barbara Worth, Harry Essex",
+  "actors": "Henry Wilcoxon, Mary Brian, Douglass Dumbrille",
+  "plot": "Wilcoxon, a Scotland Yard inspector, travels to New York to investigate the activities of an international band of jewel thieves.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzE2ZjdjMmMtYTM1Zi00MmQ1LWEzNTEtOGU4OGQ0OThlODU3XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0039339",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:57:15.176Z"
+}

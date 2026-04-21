@@ -1,0 +1,31 @@
+{
+  "title": "Sepia Cinderella",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "25 Jul 1947",
+  "runtime": "70 min",
+  "genre": "Comedy, Musical",
+  "director": "Arthur H. Leonard",
+  "writer": "Vincent Valentini",
+  "actors": "Billy Daniels, Sheila Guyse, Tondaleyo",
+  "plot": "A struggling songwriter (Billy Daniels) abandons his girlfriend (Sheila Guyse) for a flashy woman (Tondeleyo) after landing a hit.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODY2MzRiMmItMTMwNS00YWE1LWI0YTAtNTc5MGI2YWU4YWY5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.4",
+  "imdbID": "tt0039812",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:54:52.524Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Magic Town",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "07 Oct 1947",
+  "runtime": "103 min",
+  "genre": "Comedy, Romance",
+  "director": "William A. Wellman",
+  "writer": "Robert Riskin, Joseph Krumgold",
+  "actors": "James Stewart, Jane Wyman, Kent Smith",
+  "plot": "An opinion pollster finds a town which is a perfect mirror of U.S. opinions.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzA1MGEyYzAtZTVhYS00YzlmLTkyMjQtODc4MzU4Y2Y4NTU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0039595",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:50:57.974Z"
+}

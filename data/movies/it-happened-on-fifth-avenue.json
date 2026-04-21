@@ -1,0 +1,31 @@
+{
+  "title": "It Happened on Fifth Avenue",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "19 Apr 1947",
+  "runtime": "116 min",
+  "genre": "Comedy, Music, Romance",
+  "director": "Roy Del Ruth",
+  "writer": "Everett Freeman, Vick Knight, Herbert Clyde Lewis",
+  "actors": "Don DeFore, Ann Harding, Charles Ruggles",
+  "plot": "Two homeless men move into a mansion while its owners are wintering in the South.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2E2ODAzZjQtYTUxZS00YzI0LThiZGQtM2NkYzVmMWFjZWNmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "7.6",
+  "imdbID": "tt0039502",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:49:30.719Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Jack Armstrong",
+  "year": "1947",
+  "rated": "Passed",
+  "released": "06 Feb 1947",
+  "runtime": "279 min",
+  "genre": "Drama",
+  "director": "Wallace Fox",
+  "writer": "George H. Plympton, Arthur Hoerl, Lewis Clay",
+  "actors": "John Hart, Rosemary La Planche, Claire James",
+  "plot": "Jack Armstrong, the All-American Boy, battles the evil Dr. Grood, who has placed a death ray aboard his spaceship orbiting Earth.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NTc4NDkzMl5BMl5BanBnXkFtZTcwNTE4MzUyMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0039505",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:58:25.144Z"
+}

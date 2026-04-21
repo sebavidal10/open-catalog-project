@@ -1,0 +1,31 @@
+{
+  "title": "The Hucksters",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "27 Aug 1947",
+  "runtime": "115 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Jack Conway",
+  "writer": "Frederic Wakeman, Luther Davis, Edward Chodorov",
+  "actors": "Clark Gable, Deborah Kerr, Sydney Greenstreet",
+  "plot": "A World War II veteran wants to return to advertising on his own terms, but finds it difficult to be successful and maintain his integrity.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjJlZWIxZmEtOGY0Ny00Yzk2LWFhOGUtNDQ3YzYxZmQ3ZjBjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0039477",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:50:50.895Z"
+}

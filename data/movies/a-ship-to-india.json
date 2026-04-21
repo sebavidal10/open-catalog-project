@@ -1,0 +1,27 @@
+{
+  "title": "A Ship to India",
+  "year": "1947",
+  "rated": "Not Rated",
+  "released": "26 Aug 1949",
+  "runtime": "98 min",
+  "genre": "Drama",
+  "director": "Ingmar Bergman",
+  "writer": "Ingmar Bergman, Martin Söderhjelm",
+  "actors": "Holger Löwenadler, Anna Lindahl, Birger Malmsten",
+  "plot": "A sailor returns to his hometown after 7 years and remembers the dark and the light moments of his past.",
+  "language": "Swedish",
+  "country": "Sweden",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2E0MWEwM2UtZGQ2MS00YjIxLTk2YmMtNmI0YmYzNTU4MDI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0039834",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:51:06.271Z"
+}

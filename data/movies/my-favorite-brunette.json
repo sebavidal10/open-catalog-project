@@ -1,0 +1,31 @@
+{
+  "title": "My Favorite Brunette",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "04 Apr 1947",
+  "runtime": "87 min",
+  "genre": "Comedy, Crime, Mystery",
+  "director": "Elliott Nugent",
+  "writer": "Edmund Beloin, Jack Rose, Bob Hope",
+  "actors": "Bob Hope, Dorothy Lamour, Peter Lorre",
+  "plot": "Shortly before his execution on the death row in San Quentin, amateur sleuth and baby photographer Ronnie Jackson tells reporters how he got there.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDk1ZjY1M2UtM2Y5NC00OGFkLWE1NGQtZDE3ZTNjYzE3MTM2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0039645",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:49:59.061Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "T-Men",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "01 Feb 1948",
+  "runtime": "92 min",
+  "genre": "Crime, Film-Noir, Thriller",
+  "director": "Anthony Mann",
+  "writer": "John C. Higgins, Virginia Kellogg",
+  "actors": "Dennis O'Keefe, Wallace Ford, Alfred Ryder",
+  "plot": "Two U.S. Treasury agents hunt a successful counterfeiting ring.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODBkZWI2YzEtOTU5MS00NzY5LWFiOGQtNTQ5N2M5MmUyMzY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0039881",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:50:08.474Z"
+}

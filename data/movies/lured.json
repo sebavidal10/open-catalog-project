@@ -1,0 +1,31 @@
+{
+  "title": "Lured",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "05 Sep 1947",
+  "runtime": "102 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Douglas Sirk",
+  "writer": "Leo Rosten, Jacques Companéez, Ernst Neubach",
+  "actors": "George Sanders, Lucille Ball, Charles Coburn",
+  "plot": "British police are after a serial killer who lures his female victims through newspaper personal ads and sends cryptic poem clues to the cops.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzJiOWYwNmEtZWY1Zi00ZTYyLTkzZDQtZjM0OTM5NzFkZTU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0039589",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:49:11.828Z"
+}

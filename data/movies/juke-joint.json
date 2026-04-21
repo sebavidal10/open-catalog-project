@@ -1,0 +1,27 @@
+{
+  "title": "Juke Joint",
+  "year": "1947",
+  "rated": "Not Rated",
+  "released": "N/A",
+  "runtime": "68 min",
+  "genre": "Comedy, Drama",
+  "director": "Spencer Williams",
+  "writer": "True T. Thompson",
+  "actors": "Spencer Williams, July Jones, Inez Newell",
+  "plot": "Two insolvent con men get involved in a small town beauty contest.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAzNDE0MDExNl5BMl5BanBnXkFtZTcwNTU0OTgyMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0039521",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:55:59.728Z"
+}

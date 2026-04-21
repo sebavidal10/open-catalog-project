@@ -1,0 +1,31 @@
+{
+  "title": "Monsieur Verdoux",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "23 Oct 1947",
+  "runtime": "124 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Charles Chaplin",
+  "writer": "Charles Chaplin, Orson Welles, Max Morise",
+  "actors": "Charles Chaplin, Mady Correll, Allison Roddan",
+  "plot": "A suave but cynical man supports his family by marrying and murdering rich women for their money, but the job has some occupational hazards.",
+  "language": "English, French, Latin",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 5 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzI2MGY4YmQtYTRjZS00MGQ4LWIzNTMtYjUyM2YyZTA4OWVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0039631",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:48:54.138Z"
+}

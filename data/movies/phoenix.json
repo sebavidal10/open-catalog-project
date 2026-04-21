@@ -1,0 +1,27 @@
+{
+  "title": "Phoenix",
+  "year": "1947",
+  "rated": "Unrated",
+  "released": "11 Dec 1947",
+  "runtime": "82 min",
+  "genre": "Drama, Romance",
+  "director": "Keisuke Kinoshita",
+  "writer": "Yoshirô Kawazu, Keisuke Kinoshita",
+  "actors": "Kinuyo Tanaka, Keiji Sada, Isamu Kosugi",
+  "plot": "A young war widow remembers her short time with her husband.",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTI3ODE3NmYtODlhNy00YzA1LWIyMGUtZjA4NjRjODMxOThhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0039406",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:57:48.569Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Jericho",
+  "year": "1946",
+  "rated": "Passed",
+  "released": "14 Dec 1946",
+  "runtime": "139 min",
+  "genre": "Drama, War",
+  "director": "Henri Calef",
+  "writer": "Claude Heymann, Charles Spaak",
+  "actors": "Nadine Alari, Roland Armontel, Jean Brochard",
+  "plot": "Jericho is the code name of an operation set up by the British Royal Air Force and the French Resistance to free French hostages held by German soldiers in the jail of Amiens in Northern France.",
+  "language": "French, German, English",
+  "country": "France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTdmN2JhMDctNGM5Ni00YTA5LThkNmMtMjEyMmRmNjA3MWNmXkEyXkFqcGdeQXVyNTA1NDY3NzY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0037830",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:45:04.137Z"
+}

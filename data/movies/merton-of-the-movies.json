@@ -1,0 +1,27 @@
+{
+  "title": "Merton of the Movies",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "11 Oct 1947",
+  "runtime": "82 min",
+  "genre": "Comedy, Romance",
+  "director": "Robert Alton",
+  "writer": "Lou Breslow, Marc Connelly, George S. Kaufman",
+  "actors": "Red Skelton, Virginia O'Brien, Gloria Grahame",
+  "plot": "A Kansas bumpkin goes to Hollywood to become a movie star and gets a job burlesquing his favorite actor - only he thinks the role is serious.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzM0NGFkZTEtNjY2Yy00NjJhLTllMzMtNjA1MTFlMDIzMWQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0039619",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:49:05.926Z"
+}

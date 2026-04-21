@@ -1,0 +1,35 @@
+{
+  "title": "Song of the Thin Man",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "01 Sep 1947",
+  "runtime": "86 min",
+  "genre": "Comedy, Crime, Musical",
+  "director": "Edward Buzzell",
+  "writer": "Steve Fisher, Nat Perrin, James O'Hanlon",
+  "actors": "William Powell, Myrna Loy, Keenan Wynn",
+  "plot": "Nick and Nora Charles are on a gambling boat when someone is murdered. The two main suspects are at large and come to Nick for help. Nick turns them in to the police but then sets out to figure out the mystery.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzFkZjNkNDMtNWY4YS00OTQyLTk0NGUtZWM1ZWQwMmU0NmU1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "6.9",
+  "imdbID": "tt0039853",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:49:43.700Z"
+}

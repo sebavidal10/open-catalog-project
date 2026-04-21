@@ -1,0 +1,27 @@
+{
+  "title": "Adventure Island",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "13 Aug 1947",
+  "runtime": "66 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Sam Newfield",
+  "writer": "Robert Louis Stevenson, Lloyd Osbourne, Maxwell Shane",
+  "actors": "Rory Calhoun, Rhonda Fleming, Paul Kelly",
+  "plot": "Travelers find themselves marooned on an island with a maniacal self-made ruler.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzlkMzdlZmItZWZmMy00ZTI0LTkyNmUtY2UyOGIxM2Y4Zjc2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.7",
+  "imdbID": "tt0039133",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:53:34.673Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Blind Spot",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "06 Feb 1947",
+  "runtime": "73 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Robert Gordon",
+  "writer": "Barry Perowne, Martin Goldsmith",
+  "actors": "Chester Morris, Constance Dowling, Steven Geray",
+  "plot": "A mystery writer accused of murdering his publisher sets out to discover the real killer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmQyYTc0NTctNDUyYy00Njc3LThhMDEtNmNhZTJlMzA3MmU5XkEyXkFqcGdeQXVyNDcxNDkxMjA@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0039197",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:53:47.656Z"
+}

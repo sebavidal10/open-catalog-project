@@ -1,0 +1,31 @@
+{
+  "title": "The Gangster",
+  "year": "1947",
+  "rated": "Approved",
+  "released": "25 Nov 1947",
+  "runtime": "84 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Gordon Wiles",
+  "writer": "Daniel Fuchs, Dalton Trumbo",
+  "actors": "Barry Sullivan, Belita, Joan Lorring",
+  "plot": "Shubunka (Barry Sulivan) is a cynical gangster who controls the Neptune Beach waterfront. He runs a numbers racket with the local soda shop owner. The police are in his pocket and the local hoods are on his payroll.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzIxY2QyMzUtOTE4ZC00Y2I5LTg5NTMtMTNlODczNGQ1MDkzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "38%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0039410",
+  "type": "movie",
+  "fetched_at": "2026-04-21T13:52:43.935Z"
+}
