@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960608936904511",
+  "title": "The Amazing Spider-Man #45",
+  "authors": [
+    "Andy Owens",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "David Curiel",
+    "Joe Caramagna",
+    "John Dell",
+    "Josemaria Casanovas",
+    "Kathleen Wisneski",
+    "Mark Bagley",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Nick Spencer"
+  ],
+  "publish_date": "2020-07-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/23/asm-45.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15394/",
+  "fetched_at": "2026-04-21T16:24:06.009Z"
+}

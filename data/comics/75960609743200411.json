@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960609743200411",
+  "title": "Spider-Man Noir #4",
+  "authors": [
+    "C. B. Cebulski",
+    "Danny Khazem",
+    "Dave Rapoza",
+    "Declan Shalvey",
+    "Devin Lewis",
+    "Juan Ferreyra",
+    "Margaret Stohl",
+    "Nick Lowe",
+    "Travis Lanham"
+  ],
+  "publish_date": "2020-09-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/17/sm-noir-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17201/",
+  "fetched_at": "2026-04-21T16:26:07.565Z"
+}

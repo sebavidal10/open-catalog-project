@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608936904711",
+  "title": "The Amazing Spider-Man #47",
+  "authors": [
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "David Curiel",
+    "Jason Keith",
+    "Joe Caramagna",
+    "John Dell",
+    "Josemaria Casanovas",
+    "Kathleen Wisneski",
+    "Marcelo Ferreira",
+    "Mark Bagley",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Roberto Poggi",
+    "Tom Groneman"
+  ],
+  "publish_date": "2020-08-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/08/20/asm-47.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16491/",
+  "fetched_at": "2026-04-21T16:24:11.704Z"
+}

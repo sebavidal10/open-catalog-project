@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960608936904011",
+  "title": "The Amazing Spider-Man #40",
+  "authors": [
+    "Anthony Gambino",
+    "Brian Reber",
+    "C. B. Cebulski",
+    "Elizabeth Torque",
+    "Iban Coello",
+    "Joe Caramagna",
+    "Kathleen Wisneski",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Peter Pantazis",
+    "Ryan Ottley",
+    "Zé Carlos"
+  ],
+  "publish_date": "2020-02-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/02/21/asm-40.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9802/",
+  "fetched_at": "2026-04-21T16:23:51.513Z"
+}

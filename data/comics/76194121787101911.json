@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194121787101911",
+  "title": "100 Bullets #19",
+  "authors": [
+    "Axel Alonso",
+    "Brian Azzarello",
+    "Clem Robins",
+    "Dave Johnson",
+    "Digital Chameleon",
+    "Eduardo Risso",
+    "Jennifer Lee",
+    "Trish Mulvihill"
+  ],
+  "publish_date": "2000-12-06",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/19/100-bullets-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/32674/",
+  "fetched_at": "2026-04-21T15:12:59.185Z"
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608936908411",
+  "title": "The Amazing Spider-Man #84",
+  "authors": [
+    "Alejandro Sánchez",
+    "Arthur Adams",
+    "C. B. Cebulski",
+    "Cody Ziglar",
+    "Cory Smith",
+    "David Lafuente",
+    "Espen Grundetjern",
+    "Joe Caramagna",
+    "Kaeden McGahey",
+    "Lindsey Cohick",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Paco Medina",
+    "Rachelle Rosenberg"
+  ],
+  "publish_date": "2022-01-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/22/asm-84.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42322/",
+  "fetched_at": "2026-04-21T15:22:03.223Z"
+}

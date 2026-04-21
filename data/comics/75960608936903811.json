@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960608936903811",
+  "title": "The Amazing Spider-Man #38",
+  "authors": [
+    "Anthony Gambino",
+    "Brian Reber",
+    "C. B. Cebulski",
+    "Iban Coello",
+    "Joe Caramagna",
+    "Kathleen Wisneski",
+    "Nathan Fairbairn",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Phil Noto",
+    "Ryan Ottley"
+  ],
+  "publish_date": "2020-01-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/01/16/asm-38.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8717/",
+  "fetched_at": "2026-04-21T16:23:45.711Z"
+}

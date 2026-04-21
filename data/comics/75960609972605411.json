@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960609972605411",
+  "title": "The Amazing Spider-Man #54.LR",
+  "authors": [
+    "Anthony Gambino",
+    "Ariana Maher",
+    "C. B. Cebulski",
+    "David Curiel",
+    "Erick Arciniega",
+    "Federico Vicentini",
+    "Jason Keith",
+    "John Dell",
+    "Kathleen Wisneski",
+    "Lindsey Cohick",
+    "Marcelo Ferreira",
+    "Mark Bagley",
+    "Matthew Rosenberg",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Scott Hanna",
+    "Takeshi Miyazawa"
+  ],
+  "publish_date": "2020-12-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/18/asm-54lr.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21223/",
+  "fetched_at": "2026-04-21T15:51:17.065Z"
+}

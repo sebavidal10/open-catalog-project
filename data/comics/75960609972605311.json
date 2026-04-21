@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960609972605311",
+  "title": "The Amazing Spider-Man #53.LR",
+  "authors": [
+    "Anthony Gambino",
+    "Ariana Maher",
+    "C. B. Cebulski",
+    "David Curiel",
+    "Erick Arciniega",
+    "Federico Vicentini",
+    "Jason Hickey",
+    "Kathleen Wisneski",
+    "Khoi Pham",
+    "Lindsey Cohick",
+    "Marcelo Ferreira",
+    "Marcio Menyz",
+    "Matthew Rosenberg",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Scott Hanna",
+    "Takeshi Miyazawa",
+    "Tom Groneman"
+  ],
+  "publish_date": "2020-11-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/18/asm-53lr.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19454/",
+  "fetched_at": "2026-04-21T15:51:11.182Z"
+}

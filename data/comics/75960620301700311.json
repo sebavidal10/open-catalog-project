@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960620301700311",
+  "title": "Savage Spider-Man #3",
+  "authors": [
+    "Brian Reber",
+    "C. B. Cebulski",
+    "Chris Sotomayor",
+    "Erick Arciniega",
+    "Gerardo Sandoval",
+    "Jay Bowen",
+    "Joe Kelly",
+    "Kaeden McGahey",
+    "Lindsey Cohick",
+    "Mark Bagley",
+    "Michele Bandini",
+    "Mike Bowden",
+    "Nick Bradshaw",
+    "Nick Lowe",
+    "Rachelle Rosenberg",
+    "Travis Lanham",
+    "Victor Nava",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2022-05-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/09/savage-sm-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/45314/",
+  "fetched_at": "2026-04-21T15:24:50.840Z"
+}

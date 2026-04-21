@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608936906711",
+  "title": "The Amazing Spider-Man #67",
+  "authors": [
+    "Andrew Crossley",
+    "Anthony Gambino",
+    "Brian Reber",
+    "Carlos Gómez",
+    "C. B. Cebulski",
+    "David Curiel",
+    "Javier Garrón",
+    "Joe Caramagna",
+    "John Dell",
+    "Lindsey Cohick",
+    "Marcelo Ferreira",
+    "Mark Bagley",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2021-06-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/27/609ece2899b26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/31279/",
+  "fetched_at": "2026-04-21T15:52:00.801Z"
+}

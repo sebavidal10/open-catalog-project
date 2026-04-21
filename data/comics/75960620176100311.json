@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960620176100311",
+  "title": "Ben Reilly: Spider-Man #3",
+  "authors": [
+    "Alex Sinclair",
+    "Anthony Gambino",
+    "Brett Breeding",
+    "C. B. Cebulski",
+    "Dan Jurgens",
+    "Danny Khazem",
+    "Dave Stewart",
+    "David Baldeón",
+    "Declan Shalvey",
+    "Israel Silva",
+    "J.M. DeMatteis",
+    "Joe Caramagna",
+    "Nick Lowe",
+    "Steve Skroce"
+  ],
+  "publish_date": "2022-03-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/03/09/ben-reilly-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/44449/",
+  "fetched_at": "2026-04-21T15:23:28.882Z"
+}

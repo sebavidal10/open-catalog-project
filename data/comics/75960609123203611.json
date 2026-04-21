@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960609123203611",
+  "title": "Miles Morales: Spider-Man #36",
+  "authors": [
+    "Ariana Maher",
+    "C. B. Cebulski",
+    "Chris Allen",
+    "Cory Petit",
+    "David Curiel",
+    "Guile Sharp",
+    "Jason Keith",
+    "Nick Lowe",
+    "Saladin Ahmed",
+    "Scott Hanna",
+    "Taurin Clarke",
+    "Tom Groneman",
+    "Tyler Kirkham",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2022-03-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/03/18/mm-sm-36.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/44471/",
+  "fetched_at": "2026-04-21T15:24:12.972Z"
+}

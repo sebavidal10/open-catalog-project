@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960620327700511",
+  "title": "Spider-Man #5",
+  "authors": [
+    "C. B. Cebulski",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Guru-eFX",
+    "Humberto Ramos",
+    "Jay Bowen",
+    "Jesus Aburtov",
+    "Joe Caramagna",
+    "John Dell",
+    "Julian Shaw",
+    "Justin A. Reynolds",
+    "Karen S. Darboe",
+    "Lindsey Cohick",
+    "Mark Bagley",
+    "Nick Lowe",
+    "Paco Medina",
+    "Rachelle Rosenberg"
+  ],
+  "publish_date": "2023-02-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/05/sm-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/55001/",
+  "fetched_at": "2026-04-21T15:18:09.744Z"
+}

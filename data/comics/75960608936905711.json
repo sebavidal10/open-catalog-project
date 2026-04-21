@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608936905711",
+  "title": "The Amazing Spider-Man #57",
+  "authors": [
+    "Andrew Hennessy",
+    "Andy Owens",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Edgar Delgado",
+    "Joe Caramagna",
+    "John Dell",
+    "Lindsey Cohick",
+    "Marco Mastrazzo",
+    "Mark Bagley",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Rachelle Rosenberg"
+  ],
+  "publish_date": "2021-01-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/05/asm-57.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22535/",
+  "fetched_at": "2026-04-21T15:51:25.777Z"
+}

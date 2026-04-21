@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960608936908711",
+  "title": "The Amazing Spider-Man #87",
+  "authors": [
+    "Alejandro Sánchez",
+    "Arthur Adams",
+    "Bryan Valenza",
+    "Carlos Gómez",
+    "C. B. Cebulski",
+    "Cory Smith",
+    "Joe Caramagna",
+    "Kaeden McGahey",
+    "Lindsey Cohick",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Zeb Wells"
+  ],
+  "publish_date": "2022-01-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/11/asm-87.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42930/",
+  "fetched_at": "2026-04-21T15:22:12.082Z"
+}

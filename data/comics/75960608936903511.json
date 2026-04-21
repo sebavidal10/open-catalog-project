@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608936903511",
+  "title": "The Amazing Spider-Man #35",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "Arthur Adams",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Dave Johnson",
+    "Edgar Delgado",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Kathleen Wisneski",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Oscar Bazaldua",
+    "Steve Firchow",
+    "Tony Daniel"
+  ],
+  "publish_date": "2019-12-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/29/asm-35.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7766/",
+  "fetched_at": "2026-04-21T16:23:37.113Z"
+}

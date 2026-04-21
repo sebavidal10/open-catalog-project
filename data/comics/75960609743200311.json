@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960609743200311",
+  "title": "Spider-Man Noir #3",
+  "authors": [
+    "C. B. Cebulski",
+    "Danny Khazem",
+    "Dave Rapoza",
+    "Devin Lewis",
+    "Juan Ferreyra",
+    "Margaret Stohl",
+    "Nick Lowe",
+    "Patrick O'Keefe",
+    "Travis Lanham"
+  ],
+  "publish_date": "2020-08-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/08/20/sm-noir-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16497/",
+  "fetched_at": "2026-04-21T16:26:04.644Z"
+}

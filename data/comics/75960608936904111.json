@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960608936904111",
+  "title": "The Amazing Spider-Man #41",
+  "authors": [
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Cliff Rathburn",
+    "Joe Caramagna",
+    "Kathleen Wisneski",
+    "Nathan Fairbairn",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Ryan Browne",
+    "Ryan Ottley"
+  ],
+  "publish_date": "2020-03-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/03/05/asm-41.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/10100/",
+  "fetched_at": "2026-04-21T16:23:54.393Z"
+}

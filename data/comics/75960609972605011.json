@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960609972605011",
+  "title": "The Amazing Spider-Man #50.LR",
+  "authors": [
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Federico Vicentini",
+    "Joe Caramagna",
+    "Kathleen Wisneski",
+    "Lindsey Cohick",
+    "Marcio Menyz",
+    "Matthew Rosenberg",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Rachelle Rosenberg",
+    "Sara Pichelli",
+    "Tom Groneman"
+  ],
+  "publish_date": "2020-10-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/10/14/asm-50lr.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18030/",
+  "fetched_at": "2026-04-21T16:24:23.617Z"
+}

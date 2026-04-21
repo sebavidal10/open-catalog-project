@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608936908111",
+  "title": "The Amazing Spider-Man #81",
+  "authors": [
+    "Arist Deyn",
+    "Arthur Adams",
+    "Bryan Valenza",
+    "Carlos Gómez",
+    "C. B. Cebulski",
+    "Joe Caramagna",
+    "Kaeden McGahey",
+    "Lindsey Cohick",
+    "Mahmud A. Asrar",
+    "Matthew Wilson",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Romulo Fajardo Jr.",
+    "Saladin Ahmed",
+    "Sean Parsons",
+    "Sergio Fernandez Davila"
+  ],
+  "publish_date": "2021-12-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/02/amazing-spider-man-81.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41327/",
+  "fetched_at": "2026-04-21T15:21:54.226Z"
+}

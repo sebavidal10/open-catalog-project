@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960620662900011",
+  "title": "Spine-Tingling Spider-Man #0",
+  "authors": [
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Frank D'Armata",
+    "Greg Land",
+    "Joe Caramagna",
+    "Joe Sabino",
+    "Juan Ferreyra",
+    "Kaeden McGahey",
+    "Nick Lowe",
+    "Peach Momoko",
+    "Saladin Ahmed"
+  ],
+  "publish_date": "2023-09-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/09/02/spine-sm-0.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/74607/",
+  "fetched_at": "2026-04-21T15:20:31.722Z"
+}

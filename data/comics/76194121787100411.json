@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194121787100411",
+  "title": "100 Bullets #4",
+  "authors": [
+    "Axel Alonso",
+    "Brian Azzarello",
+    "Clem Robins",
+    "Cliff Chiang",
+    "Dave Johnson",
+    "Digital Chameleon",
+    "Eduardo Risso",
+    "Grant Goleash"
+  ],
+  "publish_date": "1999-09-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/19/100-bullets-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/32659/",
+  "fetched_at": "2026-04-21T15:11:56.544Z"
+}

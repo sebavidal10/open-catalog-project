@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608936903911",
+  "title": "The Amazing Spider-Man #39",
+  "authors": [
+    "Anthony Gambino",
+    "Brian Reber",
+    "C. B. Cebulski",
+    "Erick Arciniega",
+    "Francesco Mobili",
+    "Iban Coello",
+    "Jie Yuan",
+    "Joe Caramagna",
+    "Kathleen Wisneski",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Patrick Gleason",
+    "Pepe Larraz"
+  ],
+  "publish_date": "2020-02-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/02/07/asm-39.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9401/",
+  "fetched_at": "2026-04-21T16:23:48.635Z"
+}

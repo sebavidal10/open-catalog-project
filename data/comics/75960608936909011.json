@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960608936909011",
+  "title": "The Amazing Spider-Man #90",
+  "authors": [
+    "Alejandro Sánchez",
+    "Andrew Crossley",
+    "Andrew Hennessy",
+    "Andy Owens",
+    "Arthur Adams",
+    "Bryan Valenza",
+    "C. B. Cebulski",
+    "Dijjo Lima",
+    "Joe Caramagna",
+    "John Dell",
+    "Kaeden McGahey",
+    "Lindsey Cohick",
+    "Mark Bagley",
+    "Marte Gracia",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Patrick Gleason",
+    "Rogê Antônio",
+    "Victor Olazaba",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2022-02-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/02/06/asm-90.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43654/",
+  "fetched_at": "2026-04-21T15:22:24.169Z"
+}

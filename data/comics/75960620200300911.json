@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960620200300911",
+  "title": "The Amazing Spider-Man #9",
+  "authors": [
+    "Alex Saviuk",
+    "C. B. Cebulski",
+    "Chris Sotomayor",
+    "Joe Caramagna",
+    "John Romita Jr.",
+    "Kaeden McGahey",
+    "Leonardo Romero",
+    "Lindsey Cohick",
+    "Marcio Menyz",
+    "Nick Lowe",
+    "Patrick Gleason",
+    "Scott Hanna",
+    "Zeb Wells"
+  ],
+  "publish_date": "2022-09-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/09/05/asm-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/51641/",
+  "fetched_at": "2026-04-21T15:23:08.609Z"
+}

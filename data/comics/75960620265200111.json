@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960620265200111",
+  "title": "The Amazing Spider-Man #80.BEY",
+  "authors": [
+    "Brian Reber",
+    "Carlos Gómez",
+    "C. B. Cebulski",
+    "Cody Ziglar",
+    "Ivan Fiorelli",
+    "Joe Caramagna",
+    "John Dell",
+    "Kaeden McGahey",
+    "Lindsey Cohick",
+    "Mark Bagley",
+    "Mike Dowling",
+    "Nick Lowe",
+    "Paco Medina",
+    "Rachelle Rosenberg"
+  ],
+  "publish_date": "2021-12-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/01/asm-80bey.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41317/",
+  "fetched_at": "2026-04-21T15:21:51.304Z"
+}

@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Marvel's Spider-Man 2 #1",
+  "authors": [
+    "Christos N. Gage",
+    "Ig Guara Barros",
+    "Joe Sabino",
+    "Rachelle Rosenberg",
+    "Todd Nauck"
+  ],
+  "publish_date": "2023-05-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/25/Marvels-Spider-Man-2-01-00.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/134028/",
+  "fetched_at": "2026-04-21T15:17:11.331Z"
+}

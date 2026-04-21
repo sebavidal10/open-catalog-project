@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960609743200211",
+  "title": "Spider-Man Noir #2",
+  "authors": [
+    "C. B. Cebulski",
+    "Danny Khazem",
+    "Dan Panosian",
+    "Dave Rapoza",
+    "Devin Lewis",
+    "Juan Ferreyra",
+    "Margaret Stohl",
+    "Nick Lowe",
+    "Travis Lanham"
+  ],
+  "publish_date": "2020-07-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/23/sm-noir-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15398/",
+  "fetched_at": "2026-04-21T16:26:01.745Z"
+}

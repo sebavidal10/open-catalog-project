@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608936908311",
+  "title": "The Amazing Spider-Man #83",
+  "authors": [
+    "Arthur Adams",
+    "C. B. Cebulski",
+    "Chris Eliopoulos",
+    "David Baldeón",
+    "Israel Silva",
+    "Joe Caramagna",
+    "Kaeden McGahey",
+    "Lindsey Cohick",
+    "Morry Hollowell",
+    "Nathan Fairbairn",
+    "Nick Lowe",
+    "Patrick Gleason",
+    "Romulo Fajardo Jr."
+  ],
+  "publish_date": "2021-12-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/11/asm-83.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41704/",
+  "fetched_at": "2026-04-21T15:21:59.998Z"
+}

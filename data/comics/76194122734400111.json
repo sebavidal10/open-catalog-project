@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194122734400111",
+  "title": "100% #1",
+  "authors": [
+    "John Workman",
+    "Karen Berger",
+    "Lee Loughridge",
+    "Mariah Huehner",
+    "Paul Pope",
+    "Shelly Bond"
+  ],
+  "publish_date": "2002-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/11/28/a620206689bd4f74997b560882fd1415.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/88608/",
+  "fetched_at": "2026-04-21T15:11:36.598Z"
+}

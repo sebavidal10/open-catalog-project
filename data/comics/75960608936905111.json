@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960608936905111",
+  "title": "The Amazing Spider-Man #51",
+  "authors": [
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Edgar Delgado",
+    "InHyuk Lee",
+    "Joe Caramagna",
+    "Lindsey Cohick",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Patrick Gleason",
+    "Tom Groneman"
+  ],
+  "publish_date": "2020-10-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/10/21/asm-51.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18301/",
+  "fetched_at": "2026-04-21T16:24:33.323Z"
+}

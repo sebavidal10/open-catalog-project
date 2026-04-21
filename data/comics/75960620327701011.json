@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960620327701011",
+  "title": "Spider-Man #10",
+  "authors": [
+    "Andrew Hennessy",
+    "C. B. Cebulski",
+    "Christos N. Gage",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "John Dell",
+    "Lindsey Cohick",
+    "Mark Bagley",
+    "Nick Lowe",
+    "Stephanie Hans",
+    "Tom Groneman"
+  ],
+  "publish_date": "2023-07-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/06/21/5d8bbf1ea3f247d695fb834ace109a2a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/68097/",
+  "fetched_at": "2026-04-21T15:18:28.391Z"
+}

@@ -1,0 +1,39 @@
+{
+  "isbn": null,
+  "upc": "75960620327700111",
+  "title": "Spider-Man #1",
+  "authors": [
+    "Alejandro Sánchez",
+    "Alex Sinclair",
+    "Arthur Adams",
+    "Bengal",
+    "C. B. Cebulski",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Federico Blee",
+    "Frank Miller",
+    "Humberto Ramos",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "John Dell",
+    "John Tyler Christopher",
+    "J. P. Mayer",
+    "Lindsey Cohick",
+    "Mark Bagley",
+    "Marte Gracia",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Ryan Stegman",
+    "Skottie Young",
+    "Steve Ditko"
+  ],
+  "publish_date": "2022-10-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/09/29/spider-man-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/52372/",
+  "fetched_at": "2026-04-21T15:24:59.468Z"
+}

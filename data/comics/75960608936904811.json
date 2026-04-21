@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608936904811",
+  "title": "The Amazing Spider-Man #48",
+  "authors": [
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Chris Sotomayor",
+    "David Curiel",
+    "Jason Keith",
+    "Joe Caramagna",
+    "John Dell",
+    "Kathleen Wisneski",
+    "Marcelo Ferreira",
+    "Mark Bagley",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Roberto Poggi",
+    "Tom Groneman"
+  ],
+  "publish_date": "2020-09-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/04/asm-48.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16889/",
+  "fetched_at": "2026-04-21T16:24:14.668Z"
+}

@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608936908811",
+  "title": "The Amazing Spider-Man #88",
+  "authors": [
+    "Alejandro Sánchez",
+    "Arthur Adams",
+    "Brian Reber",
+    "Bryan Valenza",
+    "C. B. Cebulski",
+    "Flavio Dispenza",
+    "Francesco Manna",
+    "Joe Caramagna",
+    "John Dell",
+    "Kaeden McGahey",
+    "Lindsey Cohick",
+    "Mark Bagley",
+    "Mike Dowling",
+    "Nick Lowe",
+    "Patrick Gleason",
+    "Zeb Wells"
+  ],
+  "publish_date": "2022-02-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/16/asm-88.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43081/",
+  "fetched_at": "2026-04-21T15:22:14.969Z"
+}

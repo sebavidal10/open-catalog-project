@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960609743200511",
+  "title": "Spider-Man Noir #5",
+  "authors": [
+    "C. B. Cebulski",
+    "Danny Khazem",
+    "Dave Rapoza",
+    "Devin Lewis",
+    "Juan Ferreyra",
+    "Margaret Stohl",
+    "Nick Lowe",
+    "Travis Lanham"
+  ],
+  "publish_date": "2020-10-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/10/21/sm-noir-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18306/",
+  "fetched_at": "2026-04-21T16:26:10.617Z"
+}

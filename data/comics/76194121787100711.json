@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194121787100711",
+  "title": "100 Bullets #7",
+  "authors": [
+    "Axel Alonso",
+    "Brian Azzarello",
+    "Clem Robins",
+    "Cliff Chiang",
+    "Dave Johnson",
+    "Digital Chameleon",
+    "Eduardo Risso",
+    "Grant Goleash"
+  ],
+  "publish_date": "1999-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/19/100-bullets-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/32662/",
+  "fetched_at": "2026-04-21T15:12:05.462Z"
+}

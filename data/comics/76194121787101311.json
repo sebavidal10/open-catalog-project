@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194121787101311",
+  "title": "100 Bullets #13",
+  "authors": [
+    "Axel Alonso",
+    "Brian Azzarello",
+    "Clem Robins",
+    "Dave Johnson",
+    "Digital Chameleon",
+    "Eduardo Risso",
+    "Grant Goleash",
+    "Jennifer Lee"
+  ],
+  "publish_date": "2000-06-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/19/100-bullets-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/32668/",
+  "fetched_at": "2026-04-21T15:12:41.830Z"
+}

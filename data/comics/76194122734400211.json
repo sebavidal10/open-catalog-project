@@ -1,0 +1,19 @@
+{
+  "isbn": null,
+  "upc": "76194122734400211",
+  "title": "100% #2",
+  "authors": [
+    "John Workman",
+    "Lee Loughridge",
+    "Paul Pope"
+  ],
+  "publish_date": "2002-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/11/28/84f5099f327c4c648e77f0ee4d86c7e8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/88609/",
+  "fetched_at": "2026-04-21T15:11:39.747Z"
+}

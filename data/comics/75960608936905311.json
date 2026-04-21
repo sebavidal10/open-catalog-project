@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960608936905311",
+  "title": "The Amazing Spider-Man #53",
+  "authors": [
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Edgar Delgado",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "John Dell",
+    "Lindsey Cohick",
+    "Mark Bagley",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Patrick Gleason",
+    "Tom Groneman"
+  ],
+  "publish_date": "2020-11-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/05/asm-53.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18873/",
+  "fetched_at": "2026-04-21T15:51:08.302Z"
+}

@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960609941200211",
+  "title": "Non-Stop Spider-Man #2",
+  "authors": [
+    "Al Vey",
+    "C. B. Cebulski",
+    "Chris Bachalo",
+    "David Finch",
+    "Frank D'Armata",
+    "Jay Bowen",
+    "Joe Kelly",
+    "Lindsey Cohick",
+    "Marcio Menyz",
+    "Nick Lowe",
+    "Rico Renzi",
+    "Takashi Okazaki",
+    "Tim Townsend",
+    "Travis Lanham",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2021-04-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/08/nonstop-sm-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28828/",
+  "fetched_at": "2026-04-21T15:53:45.043Z"
+}

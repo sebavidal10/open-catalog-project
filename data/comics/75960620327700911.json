@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960620327700911",
+  "title": "Spider-Man #9",
+  "authors": [
+    "Andrés Genolet",
+    "C. B. Cebulski",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "John Dell",
+    "Lindsey Cohick",
+    "Mark Bagley",
+    "Neeraj Menon",
+    "Nick Lowe",
+    "Tom Groneman"
+  ],
+  "publish_date": "2023-06-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/05/24/6caa36d1fa8145448e4843434074e467.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/65846/",
+  "fetched_at": "2026-04-21T15:18:25.350Z"
+}

@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960609972605211",
+  "title": "The Amazing Spider-Man #52.LR",
+  "authors": [
+    "Anthony Gambino",
+    "Ariana Maher",
+    "C. B. Cebulski",
+    "David Curiel",
+    "Erick Arciniega",
+    "Federico Vicentini",
+    "Kathleen Wisneski",
+    "Lindsey Cohick",
+    "Marcelo Ferreira",
+    "Marcio Menyz",
+    "Marco Checchetto",
+    "Matthew Rosenberg",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Tom Groneman"
+  ],
+  "publish_date": "2020-11-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/04/asm-52-lr.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18853/",
+  "fetched_at": "2026-04-21T15:51:05.400Z"
+}

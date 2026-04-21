@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960620200302611",
+  "title": "The Amazing Spider-Man #26",
+  "authors": [
+    "Brad Anderson",
+    "C. B. Cebulski",
+    "David Talaski",
+    "Erick Arciniega",
+    "Gary Frank",
+    "Joe Caramagna",
+    "John Romita Jr.",
+    "Kaeden McGahey",
+    "Marcio Menyz",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Olivier Coipel",
+    "Pepe Larraz",
+    "Scott Hanna",
+    "Simone Bianchi",
+    "Zeb Wells"
+  ],
+  "publish_date": "2023-05-31",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/05/20/c76785f9f29e461c98377f024441de7d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/65688/",
+  "fetched_at": "2026-04-21T15:16:08.213Z"
+}

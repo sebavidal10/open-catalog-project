@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960620200302511",
+  "title": "The Amazing Spider-Man #25",
+  "authors": [
+    "Álvaro López",
+    "Andrew Crossley",
+    "C. B. Cebulski",
+    "Donald Soffritti",
+    "Ed McGuinness",
+    "Frank D'Armata",
+    "Greg Land",
+    "Joe Caramagna",
+    "John Cassaday",
+    "John Romita Jr.",
+    "Kaare Andrews",
+    "Kaeden McGahey",
+    "Laura Martin",
+    "Marcio Menyz",
+    "Nick Lowe",
+    "Rainbow Rowell",
+    "Scott Hanna",
+    "Skottie Young",
+    "Zeb Wells"
+  ],
+  "publish_date": "2023-05-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/04/25/7b37c5e591c34ad38e8fa28b5b9619d3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/63118/",
+  "fetched_at": "2026-04-21T15:16:05.360Z"
+}

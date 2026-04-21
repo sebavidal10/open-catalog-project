@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608936906411",
+  "title": "The Amazing Spider-Man #64",
+  "authors": [
+    "Alex Sinclair",
+    "Anthony Gambino",
+    "Carlos Pacheco",
+    "C. B. Cebulski",
+    "Edgar Delgado",
+    "Federico Vicentini",
+    "Joe Caramagna",
+    "John Dell",
+    "Lindsey Cohick",
+    "Mark Bagley",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Rachelle Rosenberg",
+    "Rafael Fonteriz"
+  ],
+  "publish_date": "2021-04-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/15/asm-64.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29230/",
+  "fetched_at": "2026-04-21T15:51:46.052Z"
+}

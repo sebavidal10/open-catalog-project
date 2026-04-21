@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194121787102211",
+  "title": "100 Bullets #22",
+  "authors": [
+    "Brian Azzarello",
+    "Clem Robins",
+    "Dave Johnson",
+    "Digital Chameleon",
+    "Eduardo Risso",
+    "Trish Mulvihill",
+    "Will Dennis"
+  ],
+  "publish_date": "2001-03-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/19/100-bullets-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/32677/",
+  "fetched_at": "2026-04-21T15:13:08.708Z"
+}

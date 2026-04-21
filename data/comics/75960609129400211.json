@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960609129400211",
+  "title": "Amazing Spider-Man Annual #2",
+  "authors": [
+    "Alejandro Sánchez",
+    "Carlos Lao",
+    "Carmen Nunez Carnero",
+    "C. B. Cebulski",
+    "Eleonora Carlini",
+    "Erick Arciniega",
+    "Israel Silva",
+    "Jed MacKay",
+    "Joe Caramagna",
+    "Juan Ferreyra",
+    "Karla Pacheco",
+    "Ron Lim",
+    "Sarah Brunstad",
+    "Sean Parsons",
+    "Sergio Fernandez Davila"
+  ],
+  "publish_date": "2021-07-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/03/asm-annual-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33679/",
+  "fetched_at": "2026-04-21T15:52:33.089Z"
+}

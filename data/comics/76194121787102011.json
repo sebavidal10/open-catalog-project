@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194121787102011",
+  "title": "100 Bullets #20",
+  "authors": [
+    "Brian Azzarello",
+    "Clem Robins",
+    "Dave Johnson",
+    "Digital Chameleon",
+    "Eduardo Risso",
+    "Trish Mulvihill",
+    "Will Dennis"
+  ],
+  "publish_date": "2001-01-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/19/100-bullets-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/32675/",
+  "fetched_at": "2026-04-21T15:13:02.908Z"
+}

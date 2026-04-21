@@ -1,0 +1,38 @@
+{
+  "isbn": null,
+  "upc": "75960608936907311",
+  "title": "The Amazing Spider-Man #73",
+  "authors": [
+    "Alex Sinclair",
+    "Annalise Bissa",
+    "Anthony Gambino",
+    "Brian Reber",
+    "Carlos Gómez",
+    "C. B. Cebulski",
+    "David Baldeón",
+    "Federico Vicentini",
+    "Israel Silva",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Dell",
+    "John Romita Jr.",
+    "Lindsey Cohick",
+    "Marcelo Ferreira",
+    "Mark Bagley",
+    "Martin Biro",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Scott Hanna",
+    "Tom Brevoort",
+    "Zé Carlos"
+  ],
+  "publish_date": "2021-09-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/asm-73.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37338/",
+  "fetched_at": "2026-04-21T15:52:18.339Z"
+}

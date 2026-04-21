@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960620200300811",
+  "title": "The Amazing Spider-Man #8",
+  "authors": [
+    "C. B. Cebulski",
+    "Gabriele Dell'Otto",
+    "Iban Coello",
+    "Jesus Aburtov",
+    "Joe Caramagna",
+    "John Romita Jr.",
+    "Kaeden McGahey",
+    "Lindsey Cohick",
+    "Marcio Menyz",
+    "Nick Lowe",
+    "Patrick Gleason",
+    "Scott Hanna",
+    "Zeb Wells"
+  ],
+  "publish_date": "2022-08-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/08/08/asm-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/51385/",
+  "fetched_at": "2026-04-21T15:23:05.747Z"
+}

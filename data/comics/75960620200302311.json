@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960620200302311",
+  "title": "The Amazing Spider-Man #23",
+  "authors": [
+    "Alex Ross",
+    "C. B. Cebulski",
+    "Chris Bachalo",
+    "Joe Caramagna",
+    "John Romita Jr.",
+    "Kaeden McGahey",
+    "Marcio Menyz",
+    "Nick Lowe",
+    "Scott Hanna",
+    "Zeb Wells"
+  ],
+  "publish_date": "2023-04-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/03/23/asm-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/59637/",
+  "fetched_at": "2026-04-21T15:15:59.232Z"
+}

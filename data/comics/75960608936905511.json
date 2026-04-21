@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960608936905511",
+  "title": "The Amazing Spider-Man #55",
+  "authors": [
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Edgar Delgado",
+    "Gabriele Dell'Otto",
+    "Joe Caramagna",
+    "Lindsey Cohick",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Patrick Gleason",
+    "Rachelle Rosenberg",
+    "Ron Lim",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2020-12-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/28/asm-55.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21910/",
+  "fetched_at": "2026-04-21T15:51:19.912Z"
+}

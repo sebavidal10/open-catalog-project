@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608936905411",
+  "title": "The Amazing Spider-Man #54",
+  "authors": [
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "David Curiel",
+    "Edgar Delgado",
+    "Gavin Goulden",
+    "Iban Coello",
+    "Joe Caramagna",
+    "John Dell",
+    "Lindsey Cohick",
+    "Mark Bagley",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Patrick Gleason",
+    "Paulo Siqueira",
+    "Rachelle Rosenberg",
+    "Tom Groneman"
+  ],
+  "publish_date": "2020-12-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/02/asm-54.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19950/",
+  "fetched_at": "2026-04-21T15:51:14.206Z"
+}

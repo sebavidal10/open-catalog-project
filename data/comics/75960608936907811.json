@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608936907811",
+  "title": "The Amazing Spider-Man #78",
+  "authors": [
+    "Alejandro Sánchez",
+    "Arthur Adams",
+    "C. B. Cebulski",
+    "Declan Shalvey",
+    "Jim Towe",
+    "Joe Caramagna",
+    "Kaeden McGahey",
+    "Kelly Thompson",
+    "Lindsey Cohick",
+    "Nick Lowe",
+    "Nolan Woodard",
+    "Rachelle Rosenberg",
+    "Rob Liefeld",
+    "Sara Pichelli"
+  ],
+  "publish_date": "2021-11-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/24/asm-78.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39801/",
+  "fetched_at": "2026-04-21T15:21:39.277Z"
+}

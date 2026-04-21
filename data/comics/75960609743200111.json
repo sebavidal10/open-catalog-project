@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960609743200111",
+  "title": "Spider-Man Noir #1",
+  "authors": [
+    "C. B. Cebulski",
+    "Danny Khazem",
+    "Dave Rapoza",
+    "Devin Lewis",
+    "Israel Silva",
+    "Javier Garrón",
+    "Juan Ferreyra",
+    "Margaret Stohl",
+    "Mark Bagley",
+    "Nick Lowe",
+    "Richard Isanove",
+    "Ron Lim",
+    "Travis Lanham"
+  ],
+  "publish_date": "2020-03-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/02/27/sm-noir-v2-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9946/",
+  "fetched_at": "2026-04-21T16:25:58.314Z"
+}

@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608936908011",
+  "title": "The Amazing Spider-Man #80",
+  "authors": [
+    "Alejandro Sánchez",
+    "Arthur Adams",
+    "C. B. Cebulski",
+    "Cody Ziglar",
+    "Erick Arciniega",
+    "Jesus Aburtov",
+    "Joe Caramagna",
+    "Kaeden McGahey",
+    "Lindsey Cohick",
+    "Mike Dowling",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "R. B. Silva",
+    "Sean Parsons",
+    "Sergio Fernandez Davila"
+  ],
+  "publish_date": "2021-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/11/10/asm-80.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/40636/",
+  "fetched_at": "2026-04-21T15:21:48.419Z"
+}

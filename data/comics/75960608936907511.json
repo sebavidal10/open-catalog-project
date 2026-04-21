@@ -1,0 +1,42 @@
+{
+  "isbn": null,
+  "upc": "75960608936907511",
+  "title": "The Amazing Spider-Man #75",
+  "authors": [
+    "Alejandro Sánchez",
+    "Alex Ogle",
+    "Arthur Adams",
+    "Brett Breeding",
+    "C. B. Cebulski",
+    "Edgar Delgado",
+    "Iban Coello",
+    "InHyuk Lee",
+    "Israel Silva",
+    "Ivan Fiorelli",
+    "Jim Campbell",
+    "Joe Caramagna",
+    "Joe Jusko",
+    "Kelly Thompson",
+    "Lindsey Cohick",
+    "Marcio Menyz",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Nolan Woodard",
+    "Patrick Gleason",
+    "Ron Frenz",
+    "Ron Lim",
+    "Skottie Young",
+    "Steve Ditko",
+    "Travel Foreman",
+    "Zeb Wells"
+  ],
+  "publish_date": "2021-10-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/30/asm-75.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/38878/",
+  "fetched_at": "2026-04-21T15:52:24.228Z"
+}

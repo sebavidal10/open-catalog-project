@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960609123203011",
+  "title": "Miles Morales: Spider-Man #30",
+  "authors": [
+    "Anthony Piper",
+    "Carmen Nunez Carnero",
+    "C. B. Cebulski",
+    "Christopher Miller",
+    "Cody Ziglar",
+    "Cory Petit",
+    "Erick Arciniega",
+    "Javier Garrón",
+    "Jeff Loveness",
+    "Kemp Power",
+    "Matthew Wilson",
+    "Nick Lowe",
+    "Phil Lord",
+    "Rachelle Rosenberg",
+    "Saladin Ahmed",
+    "Sara Pichelli",
+    "Shannon Andrews Ballesteros",
+    "Taurin Clarke",
+    "Tom Groneman"
+  ],
+  "publish_date": "2021-09-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/22/mm-sm-30.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/38585/",
+  "fetched_at": "2026-04-21T15:53:33.091Z"
+}

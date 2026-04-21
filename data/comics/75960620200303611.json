@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960620200303611",
+  "title": "The Amazing Spider-Man #36",
+  "authors": [
+    "Alejandro Sánchez",
+    "Arthur Adams",
+    "C. B. Cebulski",
+    "Ed McGuinness",
+    "Joe Caramagna",
+    "John Romita Jr.",
+    "John Romita Sr.",
+    "Kaeden McGahey",
+    "Kris Anka",
+    "Marcio Menyz",
+    "Mark Farmer",
+    "Nick Lowe",
+    "Tom Groneman",
+    "Zeb Wells"
+  ],
+  "publish_date": "2023-10-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/10/21/c995731b33054f33a2309edb251fbe80.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/77308/",
+  "fetched_at": "2026-04-21T15:16:43.320Z"
+}

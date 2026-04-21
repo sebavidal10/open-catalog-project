@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960620259100111",
+  "title": "Spider-Man: India #1",
+  "authors": [
+    "Abhishek Malsuny",
+    "Adam Kubert",
+    "Brad Anderson",
+    "C. B. Cebulski",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "Kaeden McGahey",
+    "Mahmud A. Asrar",
+    "Matthew Wilson",
+    "Neeraj Menon",
+    "Nick Lowe",
+    "Nikesh Shukla",
+    "Peach Momoko",
+    "Rachelle Rosenberg",
+    "Scott Hanna",
+    "Sumit Kumar",
+    "Todd Nauck",
+    "Tom Groneman",
+    "Tom Reilly"
+  ],
+  "publish_date": "2023-06-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/06/02/320acc936ea244478943d6920bfb64fe.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/66028/",
+  "fetched_at": "2026-04-21T15:18:55.916Z"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960620200300511",
+  "title": "The Amazing Spider-Man #5",
+  "authors": [
+    "C. B. Cebulski",
+    "Joe Caramagna",
+    "John Romita Jr.",
+    "Kaeden McGahey",
+    "Lindsey Cohick",
+    "Marcio Menyz",
+    "Miguel Mercado",
+    "Nick Lowe",
+    "Russell Dauterman",
+    "Scott Hanna",
+    "Zeb Wells"
+  ],
+  "publish_date": "2022-07-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/06/29/asm-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/50034/",
+  "fetched_at": "2026-04-21T15:22:56.789Z"
+}

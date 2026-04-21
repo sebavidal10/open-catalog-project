@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960608936906011",
+  "title": "The Amazing Spider-Man #60",
+  "authors": [
+    "Andrew Hennessy",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Joe Caramagna",
+    "John Dell",
+    "Lindsey Cohick",
+    "Mark Bagley",
+    "Nathan Fairbairn",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Rachelle Rosenberg"
+  ],
+  "publish_date": "2021-02-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/15/asm-60.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25388/",
+  "fetched_at": "2026-04-21T15:51:34.557Z"
+}

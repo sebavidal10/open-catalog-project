@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620176100111",
+  "title": "Ben Reilly: Spider-Man #1",
+  "authors": [
+    "Alex Maleev",
+    "Alex Sinclair",
+    "Anthony Gambino",
+    "Brett Breeding",
+    "C. B. Cebulski",
+    "Dan Jurgens",
+    "Danny Khazem",
+    "Dave Stewart",
+    "David Baldeón",
+    "Israel Silva",
+    "J.M. DeMatteis",
+    "Joe Caramagna",
+    "Nick Lowe",
+    "Skottie Young",
+    "Steve Skroce"
+  ],
+  "publish_date": "2022-01-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/03/ben-reilly-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42702/",
+  "fetched_at": "2026-04-21T15:23:23.036Z"
+}
