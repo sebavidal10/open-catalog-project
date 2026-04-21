@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "76194138050601811",
+  "title": "Batman and Robin #18",
+  "authors": [
+    "Aaron Bartling",
+    "Ariel Olivetti",
+    "Ben Meares",
+    "Carmine Di Giandomenico",
+    "Dave McCaig",
+    "James Reid",
+    "Javier Fernandez",
+    "Jim Lee",
+    "John McCrea",
+    "Marcelo Maiolo",
+    "Marie Javins",
+    "Michael Spicer",
+    "Miguel Mendonça",
+    "Phillip Kennedy Johnson",
+    "Rob Levin",
+    "Steve Wands"
+  ],
+  "publish_date": "2025-02-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/17/f45e0ee306db4ae8a66f70dde283f8fe.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/133823/",
+  "fetched_at": "2026-04-21T19:43:11.343Z"
+}

@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194138868700111",
+  "title": "Batman / Static: Beyond #1",
+  "authors": [
+    "Dustin Nguyen",
+    "Evan Narcisse",
+    "Jim Lee",
+    "Marie Javins",
+    "Nikolas Draper-Ivey",
+    "Wes Abbott",
+    "Wil Quintana"
+  ],
+  "publish_date": "2025-11-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/17/8e7bf781fd4c445db323878213b1f44a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156292/",
+  "fetched_at": "2026-04-21T18:39:36.865Z"
+}

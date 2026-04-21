@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194134182816211",
+  "title": "Batman #162",
+  "authors": [
+    "Alex Sinclair",
+    "Chris Bachalo",
+    "David Finch",
+    "Gabriele Dell'Otto",
+    "Gerald Parel",
+    "Hayden Sherman",
+    "James Reid",
+    "Jeph Loeb",
+    "Jessica Berbey",
+    "Jim Lee",
+    "Marie Javins",
+    "Richard Starkings",
+    "Rob Levin",
+    "Scott Williams",
+    "Tyler Smith"
+  ],
+  "publish_date": "2025-11-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/17/d33b38ddd2b54ddfabc313beb496bc1b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156291/",
+  "fetched_at": "2026-04-21T18:38:34.119Z"
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194139163200711",
+  "title": "Batman #7",
+  "authors": [
+    "Clayton Cowles",
+    "David Aja",
+    "Dustin Nguyen",
+    "Jessica Berbey",
+    "Jim Lee",
+    "Jorge Jiménez",
+    "Jorge Molina",
+    "Leirix Li",
+    "Marie Javins",
+    "Matt Fraction",
+    "Rob Levin",
+    "Ryan Sook",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2026-03-04",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/02/06/4bc41352e45448c6b5f5661bd76f0316.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/162240/",
+  "fetched_at": "2026-04-21T18:38:45.976Z"
+}

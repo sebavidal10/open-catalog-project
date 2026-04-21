@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194134182815511",
+  "title": "Batman #155",
+  "authors": [
+    "Björn Barends",
+    "Chip Zdarsky",
+    "Clayton Cowles",
+    "Jeremy Clark",
+    "Jessica Berbey",
+    "Jim Lee",
+    "Jonboy Meyers",
+    "Jorge Fornés",
+    "Jorge Jiménez",
+    "Marie Javins",
+    "Nimit Malavia",
+    "Rob Levin",
+    "Tomeu Morey",
+    "Tony Harris"
+  ],
+  "publish_date": "2024-12-04",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/15/batman-155.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/128424/",
+  "fetched_at": "2026-04-21T19:41:56.661Z"
+}

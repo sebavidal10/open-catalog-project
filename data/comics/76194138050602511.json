@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "76194138050602511",
+  "title": "Batman and Robin #25",
+  "authors": [
+    "Ashley Wood",
+    "Ben Meares",
+    "Fico Ossio",
+    "Gabriele Dell'Otto",
+    "Guillem March",
+    "James Reid",
+    "Javier Fernandez",
+    "Jim Lee",
+    "Leonardo Romero",
+    "Marcelo Maiolo",
+    "Marie Javins",
+    "Miguel Mercado",
+    "Phillip Kennedy Johnson",
+    "Rob Levin",
+    "Steve Wands",
+    "Ulises Arreola"
+  ],
+  "publish_date": "2025-09-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/15/3b6eaebe72ea43d38f039264b9211110.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151671/",
+  "fetched_at": "2026-04-21T19:43:31.870Z"
+}

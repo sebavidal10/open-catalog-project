@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194138050601911",
+  "title": "Batman and Robin #19",
+  "authors": [
+    "Alejandro Sánchez",
+    "Ben Meares",
+    "Carmine Di Giandomenico",
+    "Dave McCaig",
+    "James Reid",
+    "Javier Fernandez",
+    "Jim Lee",
+    "John McCrea",
+    "Juan Ferreyra",
+    "Marcelo Maiolo",
+    "Marie Javins",
+    "Michael Spicer",
+    "Miguel Mendonça",
+    "Phillip Kennedy Johnson",
+    "Steve Wands"
+  ],
+  "publish_date": "2025-03-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/02/28/33e15216b23b4e1fabc94c5000da8ed7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/137078/",
+  "fetched_at": "2026-04-21T19:43:14.340Z"
+}

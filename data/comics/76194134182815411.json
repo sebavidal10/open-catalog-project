@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194134182815411",
+  "title": "Batman #154",
+  "authors": [
+    "Annette Kwok",
+    "Carmine Di Giandomenico",
+    "Chip Zdarsky",
+    "Clayton Cowles",
+    "Gabriele Dell'Otto",
+    "James Harren",
+    "Jeremy Clark",
+    "Jessica Berbey",
+    "Jim Lee",
+    "Jorge Jiménez",
+    "Marie Javins",
+    "Nicola Scott",
+    "Rob Levin",
+    "Tomeu Morey",
+    "Tony Harris"
+  ],
+  "publish_date": "2024-11-06",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/10/02/batman-154.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/128423/",
+  "fetched_at": "2026-04-21T19:41:53.736Z"
+}
