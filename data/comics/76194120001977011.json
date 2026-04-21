@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120001977011",
+  "title": "Action Comics #770",
+  "authors": [
+    "Comicraft",
+    "Eddie Berganza",
+    "Joe Kelly",
+    "Kano",
+    "Marlo Alquiza",
+    "Maureen McTigue",
+    "Moose Baumann",
+    "Richard Horie",
+    "Richard Starkings",
+    "Tanya Horie"
+  ],
+  "publish_date": "2000-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/30/action-comics-770.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/35720/",
+  "fetched_at": "2026-04-21T16:29:44.014Z"
+}

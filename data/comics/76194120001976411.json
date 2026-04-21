@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120001976411",
+  "title": "Action Comics #764",
+  "authors": [
+    "Germán García",
+    "Glenn Whitmore",
+    "Ian Hannin",
+    "Joe Kelly",
+    "Joe Rubinstein",
+    "John Costanza",
+    "John Dell",
+    "Kano",
+    "Maureen McTigue",
+    "Wildstorm FX"
+  ],
+  "publish_date": "2000-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/30/action-comics-764.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/35714/",
+  "fetched_at": "2026-04-21T16:29:26.300Z"
+}

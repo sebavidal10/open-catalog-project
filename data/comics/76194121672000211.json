@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121672000211",
+  "title": "Accelerate #2",
+  "authors": [
+    "Arnold Pander",
+    "Jacob Pander",
+    "Jamison",
+    "John Workman",
+    "Lee Loughridge",
+    "Richard Kadrey",
+    "Shelly Bond",
+    "Sherilyn Van Valkenburgh",
+    "Will Dennis"
+  ],
+  "publish_date": "2000-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/11/28/8300a97aa2eb4640ab5fa18544d9ee62.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/88614/",
+  "fetched_at": "2026-04-21T16:28:36.939Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960604716102311",
+  "title": "The Amazing Spider-Man #23",
+  "authors": [
+    "Bob Harras",
+    "Gregory Wright",
+    "Howard Mackie",
+    "John Romita Jr.",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Scott Hanna",
+    "Troy Peteri"
+  ],
+  "publish_date": "2000-09-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/10/asm-v2-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17011/",
+  "fetched_at": "2026-04-21T16:31:59.593Z"
+}

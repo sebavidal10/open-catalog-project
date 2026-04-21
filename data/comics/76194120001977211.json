@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194120001977211",
+  "title": "Action Comics #772",
+  "authors": [
+    "Comicraft",
+    "Eddie Berganza",
+    "Joe Kelly",
+    "Kano",
+    "Marlo Alquiza",
+    "Matt Haley",
+    "Moose Baumann",
+    "Richard Horie",
+    "Tanya Horie",
+    "Tom Palmer Jr.",
+    "Wade von Grawbadger"
+  ],
+  "publish_date": "2000-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/30/action-comics-772.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/35722/",
+  "fetched_at": "2026-04-21T16:29:50.274Z"
+}

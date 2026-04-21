@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194120477205611",
+  "title": "Animaniacs #56",
+  "authors": [
+    "Bob LeRose",
+    "Chuck Kim",
+    "Harvey Richards",
+    "Heidi MacDonald",
+    "Horacio Ottolini",
+    "Jennifer Keating Moore",
+    "Jim Amash",
+    "Joe Edkin",
+    "John Costanza",
+    "Leo Batic",
+    "Phil Hugh Felix",
+    "Sean Carolan",
+    "Todd Klein",
+    "Walter Carzon"
+  ],
+  "publish_date": "2000-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/09/22/fc4eae6a5bfa4ec88e1dc22da42d59bb.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/155135/",
+  "fetched_at": "2026-04-21T16:32:52.635Z"
+}

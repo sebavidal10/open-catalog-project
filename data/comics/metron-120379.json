@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Angel #5",
+  "authors": [
+    "Andy Owens",
+    "Christian Zanier",
+    "Christopher Golden",
+    "Clem Robins",
+    "Guy Major",
+    "Marvin S. Mariano",
+    "Scott Allie"
+  ],
+  "publish_date": "2000-03-01",
+  "publisher": [
+    "Dark Horse Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/28/5b5efec0420742bb9f067b84ff37569a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/120379/",
+  "fetched_at": "2026-04-21T16:32:17.442Z"
+}

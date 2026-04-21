@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "70985355010500111",
+  "title": "10th Muse #1",
+  "authors": [
+    "Brent Braun",
+    "Dreamer Design",
+    "Jeromy Cox",
+    "John Stangeland",
+    "Ken Lashley",
+    "Marvin S. Mariano",
+    "Marv Wolfman"
+  ],
+  "publish_date": "2000-11-01",
+  "publisher": [
+    "Image Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/12/02/32708048373748a88a062d71fd6bd8d2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/89130/",
+  "fetched_at": "2026-04-21T16:28:31.008Z"
+}

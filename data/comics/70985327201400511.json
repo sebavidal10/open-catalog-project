@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": "70985327201400511",
+  "title": "Alley Cat #5",
+  "authors": [
+    "Albert Deschesne",
+    "Bob Napton",
+    "Brett Evans",
+    "Jon Bosco",
+    "Matt Hawkins"
+  ],
+  "publish_date": "2000-02-01",
+  "publisher": [
+    "Image Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/07/25/d11d41247d1e45a5b23977766653195b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/72293/",
+  "fetched_at": "2026-04-21T16:31:18.157Z"
+}

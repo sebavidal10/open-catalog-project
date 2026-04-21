@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120001976311",
+  "title": "Action Comics #763",
+  "authors": [
+    "Comicraft",
+    "Eddie Berganza",
+    "Germán García",
+    "Glenn Whitmore",
+    "Jaime Mendoza",
+    "Joe Kelly",
+    "Kano",
+    "Marlo Alquiza",
+    "Maureen McTigue",
+    "Richard Starkings"
+  ],
+  "publish_date": "2000-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/30/action-comics-763.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/35713/",
+  "fetched_at": "2026-04-21T16:29:23.227Z"
+}

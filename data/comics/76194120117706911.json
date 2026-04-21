@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120117706911",
+  "title": "Aquaman #69",
+  "authors": [
+    "Dan Jurgens",
+    "John Workman",
+    "Michael Kaluta",
+    "Noelle Giddings",
+    "Norm Rapmund",
+    "Steve Epting",
+    "Tony Bedard"
+  ],
+  "publish_date": "2000-05-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/15/aquaman-69.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2421/",
+  "fetched_at": "2026-04-21T16:33:31.268Z"
+}

@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960604716102011",
+  "title": "The Amazing Spider-Man #20",
+  "authors": [
+    "Bob Harras",
+    "Don Heck",
+    "Erik Larsen",
+    "Gregory Wright",
+    "Howard Mackie",
+    "Jim Mooney",
+    "John Beatty",
+    "John Romita Sr.",
+    "Keith Pollard",
+    "Marv Wolfman",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Stan Lee",
+    "Steve Ditko",
+    "Troy Peteri"
+  ],
+  "publish_date": "2000-06-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/10/asm-v2-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17008/",
+  "fetched_at": "2026-04-21T16:31:50.690Z"
+}

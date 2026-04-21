@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960604848900111",
+  "title": "Amazing Spider-Man 2000 #1",
+  "authors": [
+    "Andy Kuhn",
+    "Bob Harras",
+    "Dave Sharpe",
+    "Gregory Wright",
+    "Harry Candelario",
+    "Howard Mackie",
+    "Klaus Janson",
+    "Ralph Macchio",
+    "Steve Buccellato"
+  ],
+  "publish_date": "2000-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/02/11/Amazing_Spider-Man_001_-_Annual_2000-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/135423/",
+  "fetched_at": "2026-04-21T16:32:05.722Z"
+}

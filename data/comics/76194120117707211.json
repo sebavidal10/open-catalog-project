@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120117707211",
+  "title": "Aquaman #72",
+  "authors": [
+    "Dan Jurgens",
+    "John Workman",
+    "Michael Kaluta",
+    "Noelle Giddings",
+    "Norm Rapmund",
+    "Steve Epting",
+    "Tony Bedard"
+  ],
+  "publish_date": "2000-08-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/15/aquaman-72.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2424/",
+  "fetched_at": "2026-04-21T16:33:40.125Z"
+}

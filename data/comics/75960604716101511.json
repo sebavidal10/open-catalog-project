@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960604716101511",
+  "title": "The Amazing Spider-Man #15",
+  "authors": [
+    "Bob Harras",
+    "Dan Green",
+    "Howard Mackie",
+    "Joe Rosas",
+    "John Byrne",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Troy Peteri"
+  ],
+  "publish_date": "2000-01-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/08/asm-v2-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16983/",
+  "fetched_at": "2026-04-21T16:31:29.988Z"
+}

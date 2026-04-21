@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194120001976111",
+  "title": "Action Comics #761",
+  "authors": [
+    "Danny Miki",
+    "Dwayne Turner",
+    "Eddie Berganza",
+    "Germán García",
+    "Glenn Whitmore",
+    "Joe Kelly",
+    "Joe Rubinstein",
+    "John Costanza",
+    "Liquid!",
+    "Maureen McTigue",
+    "Wildstorm FX"
+  ],
+  "publish_date": "2000-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/30/action-comics-761.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/35711/",
+  "fetched_at": "2026-04-21T16:28:45.648Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76156899138300811",
+  "title": "Angel #8",
+  "authors": [
+    "Christopher Golden",
+    "Eric Powell",
+    "Jeff Matsuda",
+    "Jonathan Sibal",
+    "Lee Loughridge",
+    "Pat Brosseau",
+    "Scott Allie",
+    "Tom Sniegoski"
+  ],
+  "publish_date": "2000-06-01",
+  "publisher": [
+    "Dark Horse Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/28/5fa56851cbf1440e973660e46140f0c6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/120382/",
+  "fetched_at": "2026-04-21T16:32:26.217Z"
+}

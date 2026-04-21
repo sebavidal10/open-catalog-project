@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120001977111",
+  "title": "Action Comics #771",
+  "authors": [
+    "Álvaro López",
+    "Chuck Dixon",
+    "Comicraft",
+    "Eddie Berganza",
+    "Maureen McTigue",
+    "Moose Baumann",
+    "Pasqual Ferry",
+    "Richard Horie",
+    "Scott McDaniel",
+    "Tanya Horie"
+  ],
+  "publish_date": "2000-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/30/action-comics-771.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/35721/",
+  "fetched_at": "2026-04-21T16:29:47.399Z"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121672000411",
+  "title": "Accelerate #4",
+  "authors": [
+    "Arnold Pander",
+    "Jacob Pander",
+    "Jamison",
+    "John Workman",
+    "Lee Loughridge",
+    "Richard Kadrey",
+    "Shelly Bond",
+    "Sherilyn Van Valkenburgh",
+    "Will Dennis"
+  ],
+  "publish_date": "2000-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/11/28/8f1800bc8282425a9bd15d4f17cea942.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/88616/",
+  "fetched_at": "2026-04-21T16:28:42.709Z"
+}
