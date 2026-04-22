@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194138050600511",
+  "title": "Batman and Robin #5",
+  "authors": [
+    "Ben Abernathy",
+    "Jim Lee",
+    "Jorge Molina",
+    "Joshua Williamson",
+    "Kael Ngu",
+    "Marie Javins",
+    "Nikola Čižmešija",
+    "Pete Woods",
+    "Rex Lokus",
+    "Simone Di Meo",
+    "Steve Wands"
+  ],
+  "publish_date": "2024-01-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/12/08/3c38eb8ba039427db1ad61b3f4d1f787.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/90811/",
+  "fetched_at": "2026-04-22T15:29:52.056Z"
+}

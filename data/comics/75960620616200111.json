@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960620616200111",
+  "title": "Dark X-Men #1",
+  "authors": [
+    "Adam Hughes",
+    "Alex Ross",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Frank Martin",
+    "Jay Bowen",
+    "Jonas Scharf",
+    "Jordan D. White",
+    "Lauren Amaro",
+    "Nelson Dániel",
+    "Stephen Segovia",
+    "Steve Foxe",
+    "Tom Muller"
+  ],
+  "publish_date": "2023-08-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/08/03/dark-xmen-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/72559/",
+  "fetched_at": "2026-04-22T15:51:14.958Z"
+}

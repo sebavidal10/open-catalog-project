@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620812800311",
+  "title": "Dead X-Men #3",
+  "authors": [
+    "Bernard Chang",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "David Baldeón",
+    "Frank Martin",
+    "Javier Pina",
+    "Jay Bowen",
+    "Jordan D. White",
+    "Lauren Amaro",
+    "Lucas Werneck",
+    "Lynne Yoshii",
+    "Mark Brooks",
+    "Rian Gonzales",
+    "Steve Foxe",
+    "Tom Muller"
+  ],
+  "publish_date": "2024-03-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/07/d05f90585ee84a36901520dd07141ff7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/113757/",
+  "fetched_at": "2026-04-22T15:53:50.463Z"
+}

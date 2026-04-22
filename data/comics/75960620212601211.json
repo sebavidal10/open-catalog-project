@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960620212601211",
+  "title": "X-Men: Red #12",
+  "authors": [
+    "Al Ewing",
+    "Ariana Maher",
+    "C. B. Cebulski",
+    "David Talaski",
+    "Federico Blee",
+    "Jacopo Camagni",
+    "Jordan D. White",
+    "Lauren Amaro",
+    "Matthew Wilson",
+    "Rian Gonzales",
+    "Russell Dauterman",
+    "Tom Muller"
+  ],
+  "publish_date": "2023-06-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/06/02/a6ae475cc3814ee29dd118c44390faec.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/66035/",
+  "fetched_at": "2026-04-22T15:50:37.678Z"
+}

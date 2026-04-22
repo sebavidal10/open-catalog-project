@@ -26,12 +26,14 @@ if (!fs.existsSync(DATA_DIR)) {
 }
 
 function parseArgs(args) {
-  const result = { searchName: '', year: null };
+  const result = { searchName: '', year: null, month: null };
 
   for (let i = 0; i < args.length; i++) {
     const arg = args[i];
     if (arg === '--year' || arg === '-y') {
       result.year = parseInt(args[++i], 10);
+    } else if (arg === '--month' || arg === '-m') {
+      result.month = parseInt(args[++i], 10);
     } else if (!arg.startsWith('--')) {
       result.searchName = result.searchName
         ? `${result.searchName} ${arg}`
@@ -44,7 +46,7 @@ function parseArgs(args) {
 
 async function fetchRecentComics() {
   const args = process.argv.slice(2);
-  const { searchName, year } = parseArgs(args);
+  const { searchName, year, month } = parseArgs(args);
 
   const params = new URLSearchParams();
   if (searchName) {
@@ -53,16 +55,25 @@ async function fetchRecentComics() {
   if (year) {
     params.set('cover_year', year.toString());
   }
+  if (month) {
+    params.set('cover_month', month.toString());
+  }
 
   const queryString = params.toString();
   const endpoint = queryString ? `/issue/?${queryString}` : '/issue/';
 
-  if (searchName && year) {
+  if (searchName && year && month) {
+    console.log(
+      `Fetching comics for series: '${searchName}' (${month}/${year}) from Metron API...`,
+    );
+  } else if (searchName && year) {
     console.log(
       `Fetching comics for series: '${searchName}' (cover year: ${year}) from Metron API...`,
     );
   } else if (searchName) {
     console.log(`Fetching comics for series: '${searchName}' from Metron API...`);
+  } else if (year && month) {
+    console.log(`Fetching comics from ${month}/${year} from Metron API...`);
   } else if (year) {
     console.log(`Fetching comics from cover year: ${year} from Metron API...`);
   } else {

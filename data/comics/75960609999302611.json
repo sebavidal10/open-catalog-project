@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960609999302611",
+  "title": "X-Men #26",
+  "authors": [
+    "Alex Ross",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Edgar Delgado",
+    "Gerry Duggan",
+    "Javier Garrón",
+    "Javier Pina",
+    "Jay Bowen",
+    "Jim Towe",
+    "Jordan D. White",
+    "Jorge Molina",
+    "Lauren Amaro",
+    "Lucas Werneck",
+    "Mark Brooks",
+    "Marte Gracia",
+    "Matthew Wilson",
+    "Russell Dauterman",
+    "Tom Muller"
+  ],
+  "publish_date": "2023-09-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/08/22/xmen-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/73850/",
+  "fetched_at": "2026-04-22T15:51:52.023Z"
+}

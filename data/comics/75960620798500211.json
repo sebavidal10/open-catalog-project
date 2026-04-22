@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960620798500211",
+  "title": "Ultimate X-Men #2",
+  "authors": [
+    "Betsy Cola",
+    "C. B. Cebulski",
+    "Jay Bowen",
+    "Michelle Marchese",
+    "Mike Choi",
+    "Peach Momoko",
+    "Phil Noto",
+    "Travis Lanham",
+    "Wil Moss"
+  ],
+  "publish_date": "2024-04-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/29/7ed5952ed9354284bb58109a59601332.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/115260/",
+  "fetched_at": "2026-04-22T15:54:23.267Z"
+}

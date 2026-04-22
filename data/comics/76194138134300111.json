@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194138134300111",
+  "title": "The Batman & Scooby-Doo Mysteries #1",
+  "authors": [
+    "Dario Brizuela",
+    "Franco Riesco",
+    "Jim Lee",
+    "Kristy Quinn",
+    "Marie Javins",
+    "Saida Temofonte",
+    "Sholly Fisch"
+  ],
+  "publish_date": "2024-01-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/01/01/cbd5bd680ffc44a099331800412a5d67.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/100031/",
+  "fetched_at": "2026-04-22T15:30:02.327Z"
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960620212601411",
+  "title": "X-Men: Red #14",
+  "authors": [
+    "Al Ewing",
+    "Ariana Maher",
+    "C. B. Cebulski",
+    "Edgar Delgado",
+    "Federico Blee",
+    "Javier Garrón",
+    "Jay Bowen",
+    "Jesus Aburtov",
+    "Jordan D. White",
+    "Lauren Amaro",
+    "Stefano Caselli",
+    "Tom Muller",
+    "Yıldıray Çınar"
+  ],
+  "publish_date": "2023-08-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/08/03/xmen-red-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/72571/",
+  "fetched_at": "2026-04-22T15:51:35.640Z"
+}

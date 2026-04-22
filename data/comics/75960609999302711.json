@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960609999302711",
+  "title": "X-Men #27",
+  "authors": [
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Frank D'Armata",
+    "George Pérez",
+    "Gerry Duggan",
+    "Guru-eFX",
+    "Jay Bowen",
+    "Jesus Aburtov",
+    "Jordan D. White",
+    "Joshua Cassara",
+    "Lauren Amaro",
+    "Martín Cóccolo",
+    "Paolo Rivera",
+    "Peach Momoko",
+    "Phil Noto",
+    "Tom Muller"
+  ],
+  "publish_date": "2023-10-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/09/20/9f8c64ed757d42bc98ad1d953889d83f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/75752/",
+  "fetched_at": "2026-04-22T15:52:20.448Z"
+}

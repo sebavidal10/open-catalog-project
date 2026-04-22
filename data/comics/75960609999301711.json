@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960609999301711",
+  "title": "X-Men #17",
+  "authors": [
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Gerry Duggan",
+    "Guru-eFX",
+    "Jay Bowen",
+    "Jesus Aburtov",
+    "Jordan D. White",
+    "Joshua Cassara",
+    "Lauren Amaro",
+    "Martín Cóccolo",
+    "Matthew Wilson",
+    "Neeraj Menon",
+    "Russell Dauterman",
+    "Tom Muller"
+  ],
+  "publish_date": "2022-11-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/10/23/xmen-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/52963/",
+  "fetched_at": "2026-04-22T15:47:50.369Z"
+}

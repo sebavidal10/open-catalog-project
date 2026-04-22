@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960620736700111",
+  "title": "X-Men Annual #1",
+  "authors": [
+    "Alanna Smith",
+    "Alessandro Miracolo",
+    "Anita Okoye",
+    "Annalisa Leoni",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Dean White",
+    "Drew Baumgartner",
+    "Gabriel Mata",
+    "Jordan D. White",
+    "Joshua Cassara",
+    "Kaitlyn Lindtvedt",
+    "Larry Houston",
+    "Laura Martin",
+    "Paul Allor",
+    "Raúl Angulo",
+    "Stefano Landini",
+    "Stephanie Phillips"
+  ],
+  "publish_date": "2023-09-20",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/09/05/xmen-annual-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/74883/",
+  "fetched_at": "2026-04-22T15:51:55.878Z"
+}

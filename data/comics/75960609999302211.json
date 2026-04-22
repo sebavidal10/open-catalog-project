@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960609999302211",
+  "title": "X-Men #22",
+  "authors": [
+    "Ario Anindito",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Derrick Chew",
+    "Edgar Delgado",
+    "Gerald Parel",
+    "Gerry Duggan",
+    "Giuseppe Camuncoli",
+    "Java Tartaglia",
+    "Jay Bowen",
+    "Jordan D. White",
+    "Joshua Cassara",
+    "Lauren Amaro",
+    "Mark Brooks",
+    "Marte Gracia",
+    "Matt Milla",
+    "Nick Bradshaw",
+    "Rachelle Rosenberg",
+    "Stefano Caselli",
+    "Tom Muller"
+  ],
+  "publish_date": "2023-05-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/05/05/39b8a5c688e24151829170e4ccd4bda2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/64472/",
+  "fetched_at": "2026-04-22T15:50:00.406Z"
+}

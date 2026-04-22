@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960620336900111",
+  "title": "X-Treme X-Men #1",
+  "authors": [
+    "Carlos Gómez",
+    "C. B. Cebulski",
+    "Chris Claremont",
+    "Chrissie Zullo",
+    "Clayton Cowles",
+    "Drew Baumgartner",
+    "Guru-eFX",
+    "Jesus Aburtov",
+    "Jordan D. White",
+    "Liquid!",
+    "Mark Basso",
+    "Phil Noto",
+    "Salvador Larroca"
+  ],
+  "publish_date": "2022-12-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/11/21/xtreme-xmen-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/53096/",
+  "fetched_at": "2026-04-22T15:48:23.650Z"
+}

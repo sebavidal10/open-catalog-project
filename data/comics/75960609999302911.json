@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960609999302911",
+  "title": "X-Men #29",
+  "authors": [
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Francesco Mobili",
+    "Gerry Duggan",
+    "Guru-eFX",
+    "Jacob Edgar",
+    "Jay Bowen",
+    "Jordan D. White",
+    "Joshua Cassara",
+    "Lauren Amaro",
+    "Marte Gracia",
+    "Matthew Wilson",
+    "Peach Momoko",
+    "Romulo Fajardo Jr.",
+    "Russell Dauterman",
+    "Tom Muller"
+  ],
+  "publish_date": "2023-12-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/12/01/89807da83e034f459f9aa50bb3f7258e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/88814/",
+  "fetched_at": "2026-04-22T15:53:13.686Z"
+}

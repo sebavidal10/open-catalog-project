@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960609999301911",
+  "title": "X-Men #19",
+  "authors": [
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "David Curiel",
+    "Federico Blee",
+    "Gerry Duggan",
+    "Giuseppe Camuncoli",
+    "Jay Bowen",
+    "Jordan D. White",
+    "Juan Frigeri",
+    "Lauren Amaro",
+    "Matt Milla",
+    "Rachel Dodson",
+    "Rachelle Rosenberg",
+    "Stefano Caselli",
+    "Terry Dodson",
+    "Tom Muller",
+    "Will Sliney"
+  ],
+  "publish_date": "2023-02-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/05/xmen-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/55006/",
+  "fetched_at": "2026-04-22T15:49:01.894Z"
+}

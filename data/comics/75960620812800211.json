@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960620812800211",
+  "title": "Dead X-Men #2",
+  "authors": [
+    "Bernard Chang",
+    "Carmen Nunez Carnero",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Erick Arciniega",
+    "Frank Martin",
+    "Guillermo Sanna",
+    "Jay Bowen",
+    "Jordan D. White",
+    "Lauren Amaro",
+    "Lucas Werneck",
+    "Michele Bandini",
+    "Nolan Woodard",
+    "Peter Nguyen",
+    "Steve Foxe",
+    "Tom Muller"
+  ],
+  "publish_date": "2024-02-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/02/15/865f745b49134745a33df75fdbc28a78.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/110050/",
+  "fetched_at": "2026-04-22T15:53:38.416Z"
+}

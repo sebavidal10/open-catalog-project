@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620212601111",
+  "title": "X-Men: Red #11",
+  "authors": [
+    "Al Ewing",
+    "Ariana Maher",
+    "C. B. Cebulski",
+    "Edgar Delgado",
+    "Ejiwa Ebenebe",
+    "Federico Blee",
+    "Jacopo Camagni",
+    "Jay Bowen",
+    "Jordan D. White",
+    "Lauren Amaro",
+    "Luciano Vecchio",
+    "Matthew Wilson",
+    "Russell Dauterman",
+    "Stefano Caselli",
+    "Tom Muller"
+  ],
+  "publish_date": "2023-05-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/04/25/897827f62d7446a4a6a1969adc8579e3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/63130/",
+  "fetched_at": "2026-04-22T15:50:11.088Z"
+}

@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620812800111",
+  "title": "Dead X-Men #1",
+  "authors": [
+    "Bernard Chang",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Frank Martin",
+    "Jay Bowen",
+    "Jonas Scharf",
+    "Jordan D. White",
+    "Kevin Eastman",
+    "Lauren Amaro",
+    "Leirix Li",
+    "Lucas Werneck",
+    "Paul Mounts",
+    "Steve Foxe",
+    "Tom Muller",
+    "Vincenzo Carratú"
+  ],
+  "publish_date": "2024-01-31",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/01/26/5f4cbc4f687f4ea6b434baa7baa359a8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/107204/",
+  "fetched_at": "2026-04-22T15:53:26.232Z"
+}

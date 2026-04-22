@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960609999301811",
+  "title": "X-Men #18",
+  "authors": [
+    "Carlos Villa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Dean White",
+    "Elena Casagrande",
+    "Gerry Duggan",
+    "Jay Bowen",
+    "Jesus Aburtov",
+    "Jordan D. White",
+    "Jordie Bellaire",
+    "Joshua Cassara",
+    "Lauren Amaro",
+    "Martín Cóccolo",
+    "Matthew Wilson",
+    "Matt Milla",
+    "Russell Dauterman",
+    "Tom Muller"
+  ],
+  "publish_date": "2023-01-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/01/07/xmen-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/54057/",
+  "fetched_at": "2026-04-22T15:48:44.669Z"
+}

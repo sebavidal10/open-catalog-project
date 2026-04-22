@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960609999301511",
+  "title": "X-Men #15",
+  "authors": [
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Gerry Duggan",
+    "Guru-eFX",
+    "Jay Bowen",
+    "Jesus Aburtov",
+    "Jordan D. White",
+    "Joshua Cassara",
+    "Lauren Amaro",
+    "Martín Cóccolo",
+    "Matthew Wilson",
+    "Rachel Dodson",
+    "Russell Dauterman",
+    "Terry Dodson",
+    "Tom Muller"
+  ],
+  "publish_date": "2022-09-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/09/15/x-men-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/51686/",
+  "fetched_at": "2026-04-22T15:47:04.546Z"
+}

@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960609999303011",
+  "title": "X-Men #30",
+  "authors": [
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Ethan Young",
+    "Federico Blee",
+    "Gerry Duggan",
+    "Jay Bowen",
+    "Jordan D. White",
+    "Joshua Cassara",
+    "Justin Mason",
+    "Lauren Amaro",
+    "Marte Gracia",
+    "Matthew Wilson",
+    "Peach Momoko",
+    "Phil Noto",
+    "Russell Dauterman",
+    "Simone Bianchi",
+    "Tom Muller"
+  ],
+  "publish_date": "2024-01-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/01/11/6269aa2a75d94e8aa6b22cd2b3f4d117.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/104103/",
+  "fetched_at": "2026-04-22T15:53:30.155Z"
+}

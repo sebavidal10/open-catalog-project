@@ -1,0 +1,38 @@
+{
+  "isbn": null,
+  "upc": "76194137895400911",
+  "title": "Batman: The Brave and the Bold #9",
+  "authors": [
+    "Ben Abernathy",
+    "Bruno Redondo",
+    "Chris Rosa",
+    "Fernando Pasarin",
+    "Francesco Mattina",
+    "Gabriel Hardman",
+    "Jessica Berbey",
+    "Jessica Chen",
+    "Jim Lee",
+    "Kyle Starks",
+    "Marie Javins",
+    "Matt Herms",
+    "Matt Hollingsworth",
+    "Oclair Albert",
+    "Randy Mayor",
+    "Rob Leigh",
+    "Sandy Alonzo",
+    "Simon Bowland",
+    "Simone Di Meo",
+    "Taurin Clarke",
+    "Wade von Grawbadger",
+    "Wes Abbott"
+  ],
+  "publish_date": "2024-01-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/12/20/d62e9657cc9547d5b693787a0ad4a640.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/95076/",
+  "fetched_at": "2026-04-22T15:30:13.943Z"
+}
