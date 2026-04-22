@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194137950002911",
+  "title": "Superman #29",
+  "authors": [
+    "Alejandro Sánchez",
+    "Ariana Maher",
+    "Ariel Olivetti",
+    "Bruno Redondo",
+    "Dan Mora",
+    "David Aja",
+    "Eber Ferreira",
+    "Eddy Barrows",
+    "Jillian Grant",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Marie Javins",
+    "Paul Kaminski",
+    "Tula Lotay"
+  ],
+  "publish_date": "2025-08-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/01/d5dd5daf72074c80a04fdcd375701fff.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151007/",
+  "fetched_at": "2026-04-22T15:18:42.190Z"
+}

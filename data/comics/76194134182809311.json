@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134182809311",
+  "title": "Batman #93",
+  "authors": [
+    "Ben Abernathy",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "David Baron",
+    "Francesco Mattina",
+    "Guillem March",
+    "James Tynion IV",
+    "Javier Fernandez",
+    "Tomeu Morey",
+    "Tony Daniel"
+  ],
+  "publish_date": "2020-06-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/06/18/batman-93.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/14138/",
+  "fetched_at": "2026-04-22T14:12:02.619Z"
+}

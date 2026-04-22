@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194137950001011",
+  "title": "Superman #10",
+  "authors": [
+    "Adriano Lucas",
+    "Ariana Maher",
+    "Bruno Redondo",
+    "Caio Filipe",
+    "Jamal Campbell",
+    "Jillian Grant",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Lee Bermejo",
+    "Leirix Li",
+    "Marie Javins",
+    "Mirko Colak",
+    "Paul Kaminski"
+  ],
+  "publish_date": "2024-01-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/12/19/f2ef907fef074105b38af5d284cfca22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/94797/",
+  "fetched_at": "2026-04-22T15:24:31.565Z"
+}

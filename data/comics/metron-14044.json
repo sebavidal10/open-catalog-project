@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Batman: Gotham Nights #9",
+  "authors": [
+    "Brian Miller",
+    "Chris Mooneyham",
+    "David Baron",
+    "Ferran Delgado",
+    "Frank Tieri",
+    "Katie Kubert",
+    "Liz Erickson",
+    "Mark Russell",
+    "Scot Eaton",
+    "Troy Peteri",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2020-06-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/06/16/batman-gotham-nights-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/14044/",
+  "fetched_at": "2026-04-22T14:13:50.555Z"
+}

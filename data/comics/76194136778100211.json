@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194136778100211",
+  "title": "Batman: The Adventures Continue #2",
+  "authors": [
+    "Alan Burnett",
+    "Dustin Nguyen",
+    "Joshua Reed",
+    "Monica Kubina",
+    "Paul Dini",
+    "Sean Murphy",
+    "Ty Templeton"
+  ],
+  "publish_date": "2020-07-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/10/03/203f87a6a8bc4fdc9ee478d71b99c719.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/76462/",
+  "fetched_at": "2026-04-22T14:16:31.868Z"
+}

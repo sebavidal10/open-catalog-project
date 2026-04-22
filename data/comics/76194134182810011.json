@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134182810011",
+  "title": "Batman #100",
+  "authors": [
+    "Ben Abernathy",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "Francesco Mattina",
+    "Guillem March",
+    "James Tynion IV",
+    "Jorge Jiménez",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2020-10-06",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/10/01/batman-100.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17414/",
+  "fetched_at": "2026-04-22T14:12:32.415Z"
+}

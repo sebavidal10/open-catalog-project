@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Superman #2",
+  "authors": [
+    "Adriano Lucas",
+    "Alejandro Sánchez",
+    "Ariana Maher",
+    "Bruno Redondo",
+    "Caio Filipe",
+    "Dan Jurgens",
+    "Dave Sharpe",
+    "David Baldeón",
+    "Edwin Galmon",
+    "Gleb Melnikov",
+    "Ivan Cohen",
+    "Jamal Campbell",
+    "Jillian Grant",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Marie Javins",
+    "Megen Bellersen",
+    "Norm Rapmund",
+    "Paul Kaminski",
+    "Rex Lokus"
+  ],
+  "publish_date": "2024-05-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/15/71798b3f44b341d2802e2fc5bdbd7aa5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160453/",
+  "fetched_at": "2026-04-22T15:24:43.174Z"
+}

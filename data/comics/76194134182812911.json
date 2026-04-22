@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194134182812911",
+  "title": "Batman #129",
+  "authors": [
+    "Ben Abernathy",
+    "Chip Zdarsky",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "Francesco Mattina",
+    "Gabriele Dell'Otto",
+    "Jim Lee",
+    "Jock",
+    "Jordie Bellaire",
+    "Jorge Jiménez",
+    "Leonardo Romero",
+    "Marie Javins",
+    "Ryan Benjamin",
+    "Simone Di Meo",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2022-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/10/10/batman-129.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/52812/",
+  "fetched_at": "2026-04-22T13:36:47.762Z"
+}

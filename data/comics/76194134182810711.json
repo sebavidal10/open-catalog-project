@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134182810711",
+  "title": "Batman #107",
+  "authors": [
+    "Ben Abernathy",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "Francesco Mattina",
+    "James Tynion IV",
+    "Jim Lee",
+    "Jorge Jiménez",
+    "Marie Javins",
+    "Ricardo López Ortiz",
+    "Riccardo Federici",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2021-04-06",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/01/batman-107.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28315/",
+  "fetched_at": "2026-04-22T13:49:10.633Z"
+}

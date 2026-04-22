@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134182804711",
+  "title": "Batman #47",
+  "authors": [
+    "Amanda Conner",
+    "Brittany Holzherr",
+    "Clayton Cowles",
+    "Danny Miki",
+    "Jamie S. Rich",
+    "Paul Mounts",
+    "Sandu Florea",
+    "Tomeu Morey",
+    "Tom King",
+    "Tony Daniel"
+  ],
+  "publish_date": "2018-05-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/09/batman-47.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/907/",
+  "fetched_at": "2026-04-22T14:49:50.559Z"
+}

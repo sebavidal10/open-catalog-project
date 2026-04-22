@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Superman #4",
+  "authors": [
+    "Alejandro Sánchez",
+    "Ariana Maher",
+    "Dan Mora",
+    "Dave Sharpe",
+    "Edwin Galmon",
+    "Jillian Grant",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Laura Braga",
+    "Marie Javins",
+    "Megen Bellersen",
+    "Nikola Čižmešija",
+    "Paul Kaminski",
+    "Rex Lokus",
+    "Ryane Hill"
+  ],
+  "publish_date": "2025-05-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/15/41f4a9e6469145c7b7bd2ce83d855db2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160455/",
+  "fetched_at": "2026-04-22T15:18:17.825Z"
+}

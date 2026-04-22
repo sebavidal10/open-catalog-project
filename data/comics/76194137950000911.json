@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194137950000911",
+  "title": "Superman #9",
+  "authors": [
+    "Adriano Lucas",
+    "Ariana Maher",
+    "Bruno Redondo",
+    "Jamal Campbell",
+    "Jão Canola",
+    "Jillian Grant",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Lee Bermejo",
+    "Marie Javins",
+    "Michael Walsh",
+    "Mike Deodato",
+    "Mikel Janín",
+    "Nathan Szerdy",
+    "Paul Kaminski"
+  ],
+  "publish_date": "2023-12-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/11/19/26dcd922cb2645ebaa5c7ea6ac832404.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/86613/",
+  "fetched_at": "2026-04-22T15:24:28.697Z"
+}

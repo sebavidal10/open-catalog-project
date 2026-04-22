@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "76194137950001411",
+  "title": "Superman #14",
+  "authors": [
+    "Alejandro Sánchez",
+    "Ariana Maher",
+    "Brittany Holzherr",
+    "Carla Cohen",
+    "Chuma Hill",
+    "Dave Johnson",
+    "Janice Chiang",
+    "Jillian Grant",
+    "Jim Lee",
+    "Joshua Williamson",
+    "June Brigman",
+    "Marie Javins",
+    "Matt Herms",
+    "Miguel Mendonça",
+    "Paul Kaminski",
+    "Rafa Sandoval",
+    "Roy Richardson",
+    "Salvador Larroca",
+    "Trish Mulvihill"
+  ],
+  "publish_date": "2024-05-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/04/e24e412fd17e42978d8d1e8f8c51f069.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/117938/",
+  "fetched_at": "2026-04-22T15:24:46.032Z"
+}

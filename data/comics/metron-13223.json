@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Batman: Gotham Nights #6",
+  "authors": [
+    "Ivan Plascencia",
+    "Jonathan Glapion",
+    "Katie Kubert",
+    "Liz Erickson",
+    "Marie Javins",
+    "Mark Russell",
+    "Riley Rossmo",
+    "Tom Napolitano",
+    "Viktor Bogdanovic"
+  ],
+  "publish_date": "2020-05-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/05/27/batman-gotham-nights-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/13223/",
+  "fetched_at": "2026-04-22T14:13:41.782Z"
+}

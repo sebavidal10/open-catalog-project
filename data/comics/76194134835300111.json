@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "76194134835300111",
+  "title": "Batman Annual #1",
+  "authors": [
+    "Bilquis Evely",
+    "Brad Anderson",
+    "David Finch",
+    "Declan Shalvey",
+    "Deron Bennett",
+    "Gabe Eltaeb",
+    "Ivan Plascencia",
+    "Jordie Bellaire",
+    "Mark Doyle",
+    "Mat Lopes",
+    "Neal Adams",
+    "Paul Dini",
+    "Ray Fawkes",
+    "Rebecca Taylor",
+    "Riley Rossmo",
+    "Scott Bryan Wilson",
+    "Scott Snyder",
+    "Steve Orlando",
+    "Tom King"
+  ],
+  "publish_date": "2016-11-30",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/02/batman-annual-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/26420/",
+  "fetched_at": "2026-04-22T15:10:04.453Z"
+}

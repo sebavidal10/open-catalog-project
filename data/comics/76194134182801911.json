@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134182801911",
+  "title": "Batman #19",
+  "authors": [
+    "Brennan Wagner",
+    "Danny Miki",
+    "David Finch",
+    "Deron Bennett",
+    "Jim Lee",
+    "Jordie Bellaire",
+    "Mark Doyle",
+    "Rebecca Taylor",
+    "Sandra Hope",
+    "Tim Sale",
+    "Tom King",
+    "Trevor Scott"
+  ],
+  "publish_date": "2017-03-15",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/07/batman-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/861/",
+  "fetched_at": "2026-04-22T15:08:00.527Z"
+}

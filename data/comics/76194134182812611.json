@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "76194134182812611",
+  "title": "Batman #126",
+  "authors": [
+    "Alex Garner",
+    "Arif Prianto",
+    "Belén Ortega",
+    "Ben Abernathy",
+    "Brian Miller",
+    "Brittany Holzherr",
+    "Chip Zdarsky",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "Guillem March",
+    "InHyuk Lee",
+    "Jim Lee",
+    "Jock",
+    "Jorge Jiménez",
+    "Josh Adams",
+    "Luis Guerrero",
+    "Marie Javins",
+    "Tomeu Morey",
+    "Tom King"
+  ],
+  "publish_date": "2022-08-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/07/18/batman-126.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/50739/",
+  "fetched_at": "2026-04-22T13:43:06.835Z"
+}

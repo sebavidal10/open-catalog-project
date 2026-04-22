@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194137726100811",
+  "title": "Batman Incorporated #8",
+  "authors": [
+    "Alan Quah",
+    "Ben Abernathy",
+    "Clayton Cowles",
+    "Ed Brisson",
+    "Jim Lee",
+    "John Timms",
+    "Marie Javins",
+    "Rex Lokus"
+  ],
+  "publish_date": "2023-05-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/04/14/aa69b4b2ed934284ad1d4c9bac004a55.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/61866/",
+  "fetched_at": "2026-04-22T13:39:05.086Z"
+}

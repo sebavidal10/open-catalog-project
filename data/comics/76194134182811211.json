@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194134182811211",
+  "title": "Batman #112",
+  "authors": [
+    "Ben Abernathy",
+    "Brandon Thomas",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "James Tynion IV",
+    "Jason Howard",
+    "Jim Lee",
+    "Jorge Jiménez",
+    "Jorge Molina",
+    "Kael Ngu",
+    "Lucio Parrillo",
+    "Marie Javins",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2021-09-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/25/batman-112.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37060/",
+  "fetched_at": "2026-04-22T13:49:31.308Z"
+}

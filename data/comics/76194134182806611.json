@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134182806611",
+  "title": "Batman #66",
+  "authors": [
+    "Brittany Holzherr",
+    "Clayton Cowles",
+    "Dave Stewart",
+    "Evan Shaner",
+    "Jamie S. Rich",
+    "Jorge Fornés",
+    "Mikel Janín",
+    "Tom King"
+  ],
+  "publish_date": "2019-03-06",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/03/03/batman-66.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1445/",
+  "fetched_at": "2026-04-22T14:24:48.916Z"
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134182807711",
+  "title": "Batman #77",
+  "authors": [
+    "Clayton Cowles",
+    "Clayton Crain",
+    "Jamie S. Rich",
+    "Jordie Bellaire",
+    "Mikel Janín",
+    "Norm Rapmund",
+    "Rob Levin",
+    "Tomeu Morey",
+    "Tom King",
+    "Tony Daniel"
+  ],
+  "publish_date": "2019-08-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/18/batman-77.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4673/",
+  "fetched_at": "2026-04-22T14:25:33.158Z"
+}

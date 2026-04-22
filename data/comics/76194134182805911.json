@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194134182805911",
+  "title": "Batman #59",
+  "authors": [
+    "Brittany Holzherr",
+    "Clayton Cowles",
+    "Francesco Mattina",
+    "Jamie S. Rich",
+    "Jordie Bellaire",
+    "Mikel Janín",
+    "Tom King"
+  ],
+  "publish_date": "2018-11-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/10/batman-59.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/919/",
+  "fetched_at": "2026-04-22T14:24:25.037Z"
+}

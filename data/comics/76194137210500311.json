@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194137210500311",
+  "title": "Batman '89 #3",
+  "authors": [
+    "Andrew Marino",
+    "Clayton Cowles",
+    "Jim Lee",
+    "Joe Quinones",
+    "Leonardo Ito",
+    "Marie Javins",
+    "Mitch Gerads",
+    "Sam Hamm"
+  ],
+  "publish_date": "2021-10-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/04/batman-89-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39176/",
+  "fetched_at": "2026-04-22T13:49:54.707Z"
+}

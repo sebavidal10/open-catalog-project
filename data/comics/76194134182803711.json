@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134182803711",
+  "title": "Batman #37",
+  "authors": [
+    "Clay Mann",
+    "Clayton Cowles",
+    "Dave Stewart",
+    "Jamie S. Rich",
+    "Jordie Bellaire",
+    "Maggie Howell",
+    "Mikel Janín",
+    "Olivier Coipel",
+    "Tom King"
+  ],
+  "publish_date": "2017-12-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/08/batman-37.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/879/",
+  "fetched_at": "2026-04-22T14:49:17.142Z"
+}

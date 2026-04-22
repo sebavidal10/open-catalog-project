@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194135298500111",
+  "title": "Batman: The Red Death #1",
+  "authors": [
+    "Andrew Marino",
+    "Carmine Di Giandomenico",
+    "Dean White",
+    "Eddie Berganza",
+    "Ivan Plascencia",
+    "Jason Fabok",
+    "Joshua Williamson",
+    "Riccardo Federici",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2017-09-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/02/09/batman-red-death-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9534/",
+  "fetched_at": "2026-04-22T15:11:33.357Z"
+}

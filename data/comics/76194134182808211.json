@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134182808211",
+  "title": "Batman #82",
+  "authors": [
+    "Alex Sinclair",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "David Finch",
+    "Jamie S. Rich",
+    "Jordie Bellaire",
+    "Mikel Janín",
+    "Rob Levin",
+    "Tom King",
+    "Travis Charest"
+  ],
+  "publish_date": "2019-11-06",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/02/batman-82.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7093/",
+  "fetched_at": "2026-04-22T14:11:23.906Z"
+}

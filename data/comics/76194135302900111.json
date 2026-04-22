@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194135302900111",
+  "title": "Batman: The Drowned #1",
+  "authors": [
+    "Arif Prianto",
+    "Brad Anderson",
+    "Dan Abnett",
+    "Dean White",
+    "Eddie Berganza",
+    "Jason Fabok",
+    "Jessica Chen",
+    "Paul Kaminski",
+    "Philip Tan",
+    "Tom Napolitano",
+    "Tyler Kirkham"
+  ],
+  "publish_date": "2017-10-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/03/03/batman-drowned-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/10063/",
+  "fetched_at": "2026-04-22T15:11:24.393Z"
+}

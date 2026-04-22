@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "76194137950002411",
+  "title": "Superman #24",
+  "authors": [
+    "Alejandro Sánchez",
+    "Ariana Maher",
+    "Dan Mora",
+    "David Nakayama",
+    "Eber Ferreira",
+    "Eddy Barrows",
+    "Fernando Pasarin",
+    "Guillem March",
+    "Jillian Grant",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Leonardo Romero",
+    "Luis Guerrero",
+    "Marie Javins",
+    "Oclair Albert",
+    "Paul Kaminski",
+    "Rafael Grassetti"
+  ],
+  "publish_date": "2025-03-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/01/838ed50073264758867b08bba2049db9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/137117/",
+  "fetched_at": "2026-04-22T15:18:11.964Z"
+}

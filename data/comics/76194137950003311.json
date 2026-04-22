@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194137950003311",
+  "title": "Superman #33",
+  "authors": [
+    "Alejandro Sánchez",
+    "Ariana Maher",
+    "David Aja",
+    "Hayden Sherman",
+    "Jillian Grant",
+    "Jim Lee",
+    "Jorge Fornés",
+    "Joshua Williamson",
+    "Marie Javins",
+    "Michael Spicer",
+    "Paul Kaminski",
+    "Sebastián Fiumara",
+    "Tula Lotay"
+  ],
+  "publish_date": "2025-12-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/11/30/b7366076d74d4952bd76bcad3601b404.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/157807/",
+  "fetched_at": "2026-04-22T15:15:34.782Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194135479800111",
+  "title": "The Batman's Grave #1",
+  "authors": [
+    "Alex Sinclair",
+    "Bryan Hitch",
+    "Jee-Hyung Lee",
+    "Kevin Nowlan",
+    "Marie Javins",
+    "Richard Starkings",
+    "Rob Levin",
+    "Warren Ellis"
+  ],
+  "publish_date": "2019-10-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/09/batmans-grave-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6307/",
+  "fetched_at": "2026-04-22T14:27:18.611Z"
+}

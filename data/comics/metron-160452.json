@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Superman #1",
+  "authors": [
+    "Alex Guimarães",
+    "Ariana Maher",
+    "Caitlin Yarsky",
+    "Damian Ryland",
+    "Dave McCaig",
+    "Edwin Galmon",
+    "Erin Vanover",
+    "Frank Martin",
+    "Jackson Herbert",
+    "Jamal Campbell",
+    "Jillian Grant",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Mahmud A. Asrar",
+    "Marie Javins",
+    "Max Raynor",
+    "Nick Dragotta",
+    "Paul Kaminski"
+  ],
+  "publish_date": "2024-11-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/15/1933ab127199404da58c0ee99a4b9b57.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160452/",
+  "fetched_at": "2026-04-22T15:17:53.518Z"
+}

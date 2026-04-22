@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "76194136980800211",
+  "title": "Batman Black & White #2",
+  "authors": [
+    "Andy Khouri",
+    "Ben Abernathy",
+    "Clayton Cowles",
+    "Corinna Bechko",
+    "Dave Wielgosz",
+    "David Aja",
+    "Doug Braithwaite",
+    "Dustin Weaver",
+    "Gabriel Hardman",
+    "Jim Lee",
+    "Jock",
+    "Kamome Shirahama",
+    "Marie Javins",
+    "Mitch Gerads",
+    "Ramon Villalobos",
+    "Sophie Campbell",
+    "Stjepan Šejić",
+    "Todd Klein",
+    "Tom King",
+    "Troy Peteri"
+  ],
+  "publish_date": "2021-01-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/26/batman-black-white-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23942/",
+  "fetched_at": "2026-04-22T13:50:22.409Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134182808811",
+  "title": "Batman #88",
+  "authors": [
+    "Ben Abernathy",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "Francesco Mattina",
+    "Guillem March",
+    "James Tynion IV",
+    "Tomeu Morey",
+    "Tony Daniel"
+  ],
+  "publish_date": "2020-02-05",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/01/30/batman-88.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9102/",
+  "fetched_at": "2026-04-22T14:11:41.539Z"
+}

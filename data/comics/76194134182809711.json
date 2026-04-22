@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134182809711",
+  "title": "Batman #97",
+  "authors": [
+    "Ben Abernathy",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "Francesco Mattina",
+    "Guillem March",
+    "James Tynion IV",
+    "Jorge Jiménez",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2020-08-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/08/14/batman-97.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16247/",
+  "fetched_at": "2026-04-22T14:12:14.362Z"
+}

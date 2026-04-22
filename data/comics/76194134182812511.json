@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "76194134182812511",
+  "title": "Batman #125",
+  "authors": [
+    "Alex Garner",
+    "Alex Sinclair",
+    "Belén Ortega",
+    "Ben Abernathy",
+    "Chip Zdarsky",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "Francesco Mattina",
+    "Gabriele Dell'Otto",
+    "InHyuk Lee",
+    "Jim Lee",
+    "Jock",
+    "Jorge Jiménez",
+    "Luis Guerrero",
+    "Marie Javins",
+    "Scott Williams",
+    "Simone Di Meo",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2022-07-05",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/06/26/batman-125.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/49935/",
+  "fetched_at": "2026-04-22T13:43:03.677Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134182806011",
+  "title": "Batman #60",
+  "authors": [
+    "Brittany Holzherr",
+    "Clayton Cowles",
+    "Francesco Mattina",
+    "Jamie S. Rich",
+    "Jordie Bellaire",
+    "Jorge Fornés",
+    "Mikel Janín",
+    "Tom King"
+  ],
+  "publish_date": "2018-12-05",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/10/batman-60.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/920/",
+  "fetched_at": "2026-04-22T14:24:27.927Z"
+}

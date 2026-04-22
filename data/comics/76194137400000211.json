@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194137400000211",
+  "title": "Batman: Knightwatch #2",
+  "authors": [
+    "Carrie Strachan",
+    "Jim Lee",
+    "J. Torres",
+    "Marcelo DiChiara",
+    "Marie Javins",
+    "Michael McCalister",
+    "Saida Temofonte"
+  ],
+  "publish_date": "2022-10-04",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/09/13/batman-knightwatch-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/52375/",
+  "fetched_at": "2026-04-22T13:45:42.703Z"
+}

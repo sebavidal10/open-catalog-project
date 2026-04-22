@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134645800111",
+  "title": "Batman / Shadow #1",
+  "authors": [
+    "Brennan Wagner",
+    "Clem Robins",
+    "Cliff Chiang",
+    "Dave Wielgosz",
+    "Ivan Plascencia",
+    "Mark Doyle",
+    "Matt Idelson",
+    "Riley Rossmo",
+    "Scott Snyder",
+    "Steve Orlando",
+    "Tim Sale"
+  ],
+  "publish_date": "2017-04-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/11/921004bebd8d44f7a7a0e04a708052fa.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145957/",
+  "fetched_at": "2026-04-22T15:10:55.585Z"
+}

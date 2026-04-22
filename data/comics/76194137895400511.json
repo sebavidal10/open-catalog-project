@@ -1,0 +1,38 @@
+{
+  "isbn": null,
+  "upc": "76194137895400511",
+  "title": "Batman: The Brave and the Bold #5",
+  "authors": [
+    "Antonio Fabela",
+    "Ben Abernathy",
+    "Ben Oliver",
+    "Clayton Cowles",
+    "Clem Robins",
+    "Dave Wielgosz",
+    "Ed Brisson",
+    "Goñi Montes",
+    "Jeff Spokes",
+    "Jim Lee",
+    "Jorge Fornés",
+    "Marie Javins",
+    "Mitch Gerads",
+    "Randy Mayor",
+    "Rob Williams",
+    "Saida Temofonte",
+    "Sandy Alonzo",
+    "Saren Stone",
+    "Simon Bowland",
+    "Simone Di Meo",
+    "Stefano Landini",
+    "Tom King"
+  ],
+  "publish_date": "2023-09-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/09/02/batman-brave-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/74610/",
+  "fetched_at": "2026-04-22T13:41:48.914Z"
+}

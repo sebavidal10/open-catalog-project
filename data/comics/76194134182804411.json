@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134182804411",
+  "title": "Batman #44",
+  "authors": [
+    "Brittany Holzherr",
+    "Clayton Cowles",
+    "Jamie S. Rich",
+    "Joëlle Jones",
+    "Jordie Bellaire",
+    "June Chung",
+    "Mikel Janín",
+    "Tom King"
+  ],
+  "publish_date": "2018-04-04",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/08/batman-44.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/886/",
+  "fetched_at": "2026-04-22T14:49:41.141Z"
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194137950001611",
+  "title": "Superman #16",
+  "authors": [
+    "Ariana Maher",
+    "Frank Cho",
+    "Jamal Campbell",
+    "Jillian Grant",
+    "Jim Lee",
+    "José Luis García-López",
+    "Joshua Williamson",
+    "Marie Javins",
+    "Nathan Szerdy",
+    "Pablo Villalobos",
+    "Paul Kaminski",
+    "Sabine Rich",
+    "Stevan Subić"
+  ],
+  "publish_date": "2024-07-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/23/121f738a9c8e406ea9a9c49fc5cdd9f3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/123353/",
+  "fetched_at": "2026-04-22T15:24:51.861Z"
+}

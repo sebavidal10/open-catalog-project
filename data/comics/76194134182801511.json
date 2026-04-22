@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134182801511",
+  "title": "Batman #15",
+  "authors": [
+    "Brennan Wagner",
+    "Clayton Cowles",
+    "Mark Doyle",
+    "Mitch Gerads",
+    "Rebecca Taylor",
+    "Stephanie Hans",
+    "Tim Sale",
+    "Tom King"
+  ],
+  "publish_date": "2017-01-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/07/batman-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/857/",
+  "fetched_at": "2026-04-22T15:07:17.678Z"
+}

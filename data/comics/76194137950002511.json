@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "76194137950002511",
+  "title": "Superman #25",
+  "authors": [
+    "Alejandro Sánchez",
+    "Brad Walker",
+    "Dan Hipp",
+    "Dan Mora",
+    "Dave Johnson",
+    "Dave Sharpe",
+    "Eber Ferreira",
+    "Eddy Barrows",
+    "Fico Ossio",
+    "Guillem March",
+    "Jamal Campbell",
+    "Jeff Dekal",
+    "Jillian Grant",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Laura Braga",
+    "Marie Javins",
+    "Paul Kaminski",
+    "Rafael Grassetti",
+    "Trish Mulvihill"
+  ],
+  "publish_date": "2025-04-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/04/08/0e78391ebbdf4319ac8352b8f2a4b3f2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/142562/",
+  "fetched_at": "2026-04-22T15:18:14.963Z"
+}

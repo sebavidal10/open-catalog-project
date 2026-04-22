@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134182808711",
+  "title": "Batman #87",
+  "authors": [
+    "Ben Abernathy",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "Francesco Mattina",
+    "Guillem March",
+    "James Tynion IV",
+    "Tomeu Morey",
+    "Tony Daniel"
+  ],
+  "publish_date": "2020-01-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/01/16/batman-87.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8704/",
+  "fetched_at": "2026-04-22T14:11:38.656Z"
+}

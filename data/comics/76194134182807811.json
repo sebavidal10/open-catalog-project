@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194134182807811",
+  "title": "Batman #78",
+  "authors": [
+    "Clay Mann",
+    "Clayton Cowles",
+    "Jamie S. Rich",
+    "Rob Levin",
+    "Tomeu Morey",
+    "Tom King",
+    "Tony Daniel"
+  ],
+  "publish_date": "2019-09-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/31/batman-78.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/5060/",
+  "fetched_at": "2026-04-22T14:25:36.028Z"
+}

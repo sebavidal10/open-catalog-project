@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134182801311",
+  "title": "Batman #13",
+  "authors": [
+    "Brennan Wagner",
+    "Clayton Cowles",
+    "June Chung",
+    "Mark Doyle",
+    "Mikel Janín",
+    "Rebecca Taylor",
+    "Tim Sale",
+    "Tom King"
+  ],
+  "publish_date": "2017-12-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/07/batman-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/855/",
+  "fetched_at": "2026-04-22T15:07:11.826Z"
+}

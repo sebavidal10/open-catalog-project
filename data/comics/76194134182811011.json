@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134182811011",
+  "title": "Batman #110",
+  "authors": [
+    "Ben Abernathy",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "James Tynion IV",
+    "Jim Lee",
+    "Jock",
+    "Jorge Jiménez",
+    "Marie Javins",
+    "Ricardo López Ortiz",
+    "Riccardo Federici",
+    "Romulo Fajardo Jr.",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2021-07-06",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/21/batman-110.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/32832/",
+  "fetched_at": "2026-04-22T13:49:22.671Z"
+}

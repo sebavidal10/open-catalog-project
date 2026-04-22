@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134182805711",
+  "title": "Batman #57",
+  "authors": [
+    "Andrew Pepoy",
+    "Brittany Holzherr",
+    "Clayton Cowles",
+    "Francesco Mattina",
+    "Jamie S. Rich",
+    "Mark Buckingham",
+    "Tomeu Morey",
+    "Tom King",
+    "Tony Daniel"
+  ],
+  "publish_date": "2018-10-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/10/batman-57.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/917/",
+  "fetched_at": "2026-04-22T14:50:42.492Z"
+}

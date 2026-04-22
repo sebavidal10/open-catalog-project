@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194137726100911",
+  "title": "Batman Incorporated #9",
+  "authors": [
+    "Ben Abernathy",
+    "Clayton Cowles",
+    "Ed Brisson",
+    "James Stokoe",
+    "Jim Lee",
+    "John Timms",
+    "Marie Javins",
+    "Rex Lokus"
+  ],
+  "publish_date": "2023-06-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/05/25/1fde828774e74e849b44eca550a26bf3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/65853/",
+  "fetched_at": "2026-04-22T13:39:08.060Z"
+}

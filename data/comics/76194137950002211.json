@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194137950002211",
+  "title": "Superman #22",
+  "authors": [
+    "Alejandro Sánchez",
+    "Ariana Maher",
+    "Dan Mora",
+    "David Lapham",
+    "David Talaski",
+    "Jillian Grant",
+    "Jim Lee",
+    "Jonboy Meyers",
+    "Joshua Williamson",
+    "Lee Loughridge",
+    "Marguerite Sauvage",
+    "Marie Javins",
+    "Mico Suayan",
+    "Paul Kaminski",
+    "Romulo Fajardo Jr."
+  ],
+  "publish_date": "2025-01-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/03/12938d4614c1446eb029327c759b9008.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/133405/",
+  "fetched_at": "2026-04-22T15:18:05.585Z"
+}

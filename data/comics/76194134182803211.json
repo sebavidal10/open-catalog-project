@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134182803211",
+  "title": "Batman #32",
+  "authors": [
+    "Clayton Cowles",
+    "Dave Stewart",
+    "Jamie S. Rich",
+    "June Chung",
+    "Maggie Howell",
+    "Mikel Janín",
+    "Olivier Coipel",
+    "Tom King"
+  ],
+  "publish_date": "2017-10-04",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/07/batman-32.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/874/",
+  "fetched_at": "2026-04-22T15:08:41.926Z"
+}

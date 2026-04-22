@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194135971700211",
+  "title": "The Batman Who Laughs #2",
+  "authors": [
+    "Ben Oliver",
+    "Dave Wielgosz",
+    "David Baron",
+    "Jamie S. Rich",
+    "Jock",
+    "Katie Kubert",
+    "Sal Cipriano",
+    "Scott Snyder"
+  ],
+  "publish_date": "2019-01-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/15/laughs-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1011/",
+  "fetched_at": "2026-04-22T14:28:33.781Z"
+}

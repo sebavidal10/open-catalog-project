@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134182802311",
+  "title": "Batman #23",
+  "authors": [
+    "Brennan Wagner",
+    "Clayton Cowles",
+    "Jamie S. Rich",
+    "Maggie Howell",
+    "Mark Doyle",
+    "Mitch Gerads",
+    "Molly Mahan",
+    "Rebecca Taylor",
+    "Tim Sale",
+    "Tom King"
+  ],
+  "publish_date": "2017-05-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/07/batman-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/865/",
+  "fetched_at": "2026-04-22T15:08:12.424Z"
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194137726101111",
+  "title": "Batman Incorporated #11",
+  "authors": [
+    "Ben Abernathy",
+    "Clayton Cowles",
+    "Ed Brisson",
+    "Jim Lee",
+    "John Timms",
+    "Marie Javins",
+    "Michele Bandini",
+    "Nikola Čižmešija",
+    "Rex Lokus",
+    "Romulo Fajardo Jr.",
+    "Salvador Larroca",
+    "Serg Acuña"
+  ],
+  "publish_date": "2023-08-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/07/15/b2e2159e01ef470abbd375b0ef6f94cb.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/71384/",
+  "fetched_at": "2026-04-22T13:39:14.342Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134182804111",
+  "title": "Batman #41",
+  "authors": [
+    "Brittany Holzherr",
+    "Clayton Cowles",
+    "Dave Stewart",
+    "Jamie S. Rich",
+    "June Chung",
+    "Mikel Janín",
+    "Olivier Coipel",
+    "Tom King"
+  ],
+  "publish_date": "2018-02-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/08/batman-41.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/883/",
+  "fetched_at": "2026-04-22T14:49:28.915Z"
+}

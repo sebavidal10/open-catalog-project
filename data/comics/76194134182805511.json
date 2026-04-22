@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134182805511",
+  "title": "Batman #55",
+  "authors": [
+    "Brittany Holzherr",
+    "Clayton Cowles",
+    "Danny Miki",
+    "Francesco Mattina",
+    "Jamie S. Rich",
+    "Tomeu Morey",
+    "Tom King",
+    "Tony Daniel"
+  ],
+  "publish_date": "2018-09-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/10/batman-55.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/915/",
+  "fetched_at": "2026-04-22T14:50:36.288Z"
+}

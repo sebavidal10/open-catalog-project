@@ -1,0 +1,43 @@
+{
+  "isbn": null,
+  "upc": "76194137236500131",
+  "title": "Batman: Urban Legends #1",
+  "authors": [
+    "Adriano Lucas",
+    "Antonio Fabela",
+    "Becca Carey",
+    "Ben Abernathy",
+    "Brandon Thomas",
+    "Chip Zdarsky",
+    "Dave Wielgosz",
+    "David Finch",
+    "Deron Bennett",
+    "Eber Ferreira",
+    "Eddy Barrows",
+    "Hicham Habchi",
+    "Ivan Plascencia",
+    "Jessica Chen",
+    "Jim Lee",
+    "Kael Ngu",
+    "Laura Braga",
+    "Luis Guerrero",
+    "Marcus To",
+    "Marie Javins",
+    "Matthew Rosenberg",
+    "Max Dunbar",
+    "Ryan Benjamin",
+    "Saida Temofonte",
+    "Stephanie Phillips",
+    "Steve Wands",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2021-03-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/04/batman-urban-legends-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/26576/",
+  "fetched_at": "2026-04-22T13:54:04.069Z"
+}

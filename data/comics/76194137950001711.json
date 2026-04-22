@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "76194137950001711",
+  "title": "Superman #17",
+  "authors": [
+    "Alex Saviuk",
+    "Ariana Maher",
+    "Chris Bachalo",
+    "Chuma Hill",
+    "Elizabeth Torque",
+    "Guillem March",
+    "Jamal Campbell",
+    "Jason Geyer",
+    "Jillian Grant",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Marie Javins",
+    "Mikel Janín",
+    "Paul Kaminski",
+    "Stjepan Šejić",
+    "Tomeu Morey",
+    "Tony Daniel"
+  ],
+  "publish_date": "2024-08-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/07/29/81c52ced972043408543108ee757269b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/125539/",
+  "fetched_at": "2026-04-22T15:24:55.208Z"
+}

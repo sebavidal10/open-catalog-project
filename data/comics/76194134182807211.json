@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134182807211",
+  "title": "Batman #72",
+  "authors": [
+    "Clayton Cowles",
+    "David Finch",
+    "Jamie S. Rich",
+    "Jordie Bellaire",
+    "Jorge Fornés",
+    "Michael Golden",
+    "Mikel Janín",
+    "Rob Levin",
+    "Tom King"
+  ],
+  "publish_date": "2019-06-05",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/02/batman-72.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2659/",
+  "fetched_at": "2026-04-22T14:25:08.499Z"
+}

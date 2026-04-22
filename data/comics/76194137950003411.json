@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "76194137950003411",
+  "title": "Superman #34",
+  "authors": [
+    "Alejandro Sánchez",
+    "Ariana Maher",
+    "Ariel Olivetti",
+    "Dan Mora",
+    "Dave Johnson",
+    "Eber Ferreira",
+    "Eddy Barrows",
+    "Jillian Grant",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Kyuyong Eom",
+    "Marie Javins",
+    "Mario Foccillo",
+    "Paul Kaminski",
+    "Prasad Rao",
+    "Rod Reis"
+  ],
+  "publish_date": "2026-01-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/06/af87b6aa68c946b3adbceaeadb119bb7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/159932/",
+  "fetched_at": "2026-04-22T15:15:37.946Z"
+}

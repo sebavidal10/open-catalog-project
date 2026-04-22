@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194134182802411",
+  "title": "Batman #24",
+  "authors": [
+    "Brennan Wagner",
+    "Clay Mann",
+    "Danny Miki",
+    "David Finch",
+    "Deron Bennett",
+    "Jamie S. Rich",
+    "Jordie Bellaire",
+    "Maggie Howell",
+    "Mark Doyle",
+    "Molly Mahan",
+    "Rebecca Taylor",
+    "Tim Sale",
+    "Tom King"
+  ],
+  "publish_date": "2017-06-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/07/batman-24.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/866/",
+  "fetched_at": "2026-04-22T15:08:15.428Z"
+}

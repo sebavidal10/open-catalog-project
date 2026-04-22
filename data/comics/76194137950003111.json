@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194137950003111",
+  "title": "Superman #31",
+  "authors": [
+    "Alejandro Sánchez",
+    "Ariana Maher",
+    "Ariel Olivetti",
+    "Dan Mora",
+    "David Aja",
+    "Eber Ferreira",
+    "Eddy Barrows",
+    "Jillian Grant",
+    "Jim Lee",
+    "Jorge Fornés",
+    "Joshua Williamson",
+    "Marie Javins",
+    "Paul Kaminski",
+    "Sebastián Fiumara"
+  ],
+  "publish_date": "2025-10-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/09/29/09f38199e6c74e208e5c4f29b799960c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/155707/",
+  "fetched_at": "2026-04-22T15:18:48.392Z"
+}

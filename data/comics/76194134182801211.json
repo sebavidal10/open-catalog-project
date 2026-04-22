@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134182801211",
+  "title": "Batman #12",
+  "authors": [
+    "Brennan Wagner",
+    "Clayton Cowles",
+    "Hugo Petrus",
+    "June Chung",
+    "Mark Doyle",
+    "Mikel Janín",
+    "Rebecca Taylor",
+    "Tim Sale",
+    "Tom King"
+  ],
+  "publish_date": "2016-12-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/07/batman-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/854/",
+  "fetched_at": "2026-04-22T15:07:06.076Z"
+}

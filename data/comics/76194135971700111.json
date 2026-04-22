@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194135971700111",
+  "title": "The Batman Who Laughs #1",
+  "authors": [
+    "Dave Wielgosz",
+    "David Baron",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "Jamie S. Rich",
+    "Jock",
+    "Katie Kubert",
+    "Sal Cipriano",
+    "Scott Snyder"
+  ],
+  "publish_date": "2018-12-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2018/12/13/batman-laughs-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/430/",
+  "fetched_at": "2026-04-22T14:28:30.872Z"
+}

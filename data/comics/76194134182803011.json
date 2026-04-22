@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134182803011",
+  "title": "Batman #30",
+  "authors": [
+    "Brennan Wagner",
+    "Clay Mann",
+    "Clayton Cowles",
+    "Jamie S. Rich",
+    "Jordie Bellaire",
+    "Maggie Howell",
+    "Mikel Janín",
+    "Seth Mann",
+    "Tim Sale",
+    "Tom King"
+  ],
+  "publish_date": "2017-09-06",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/07/batman-30.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/872/",
+  "fetched_at": "2026-04-22T15:08:35.901Z"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194137726100511",
+  "title": "Batman Incorporated #5",
+  "authors": [
+    "Ben Abernathy",
+    "Clayton Cowles",
+    "Ed Brisson",
+    "Ejikure",
+    "InHyuk Lee",
+    "Jim Lee",
+    "John Timms",
+    "Marie Javins",
+    "Rex Lokus"
+  ],
+  "publish_date": "2023-02-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/01/21/batman-inc-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/54959/",
+  "fetched_at": "2026-04-22T13:38:48.697Z"
+}

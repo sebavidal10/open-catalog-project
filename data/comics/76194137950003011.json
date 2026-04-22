@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194137950003011",
+  "title": "Superman #30",
+  "authors": [
+    "Alejandro Sánchez",
+    "Ariana Maher",
+    "Ariel Olivetti",
+    "Clarice Menguito",
+    "Claudio Castellini",
+    "Dan Mora",
+    "David Aja",
+    "Jillian Grant",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Marie Javins",
+    "Paul Kaminski",
+    "Tom Reilly"
+  ],
+  "publish_date": "2025-09-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/30/5bce7b5c59584055b96c3afc2b5b92d2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152776/",
+  "fetched_at": "2026-04-22T15:18:45.179Z"
+}

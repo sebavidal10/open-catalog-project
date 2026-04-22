@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194134182804811",
+  "title": "Batman #48",
+  "authors": [
+    "Brittany Holzherr",
+    "Clayton Cowles",
+    "Frank Cho",
+    "Jamie S. Rich",
+    "June Chung",
+    "Mikel Janín",
+    "Tom King"
+  ],
+  "publish_date": "2018-06-06",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/09/batman-48.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/908/",
+  "fetched_at": "2026-04-22T14:50:10.737Z"
+}

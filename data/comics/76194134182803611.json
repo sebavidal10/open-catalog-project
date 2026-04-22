@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134182803611",
+  "title": "Batman #36",
+  "authors": [
+    "Clay Mann",
+    "Clayton Cowles",
+    "Dave Stewart",
+    "Jamie S. Rich",
+    "Jordie Bellaire",
+    "Maggie Howell",
+    "Olivier Coipel",
+    "Seth Mann",
+    "Tom King"
+  ],
+  "publish_date": "2017-12-06",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/08/batman-36.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/878/",
+  "fetched_at": "2026-04-22T14:49:14.034Z"
+}

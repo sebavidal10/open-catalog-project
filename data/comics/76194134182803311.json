@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134182803311",
+  "title": "Batman #33",
+  "authors": [
+    "Clayton Cowles",
+    "Dave Stewart",
+    "Jamie S. Rich",
+    "Joëlle Jones",
+    "Jordie Bellaire",
+    "Maggie Howell",
+    "Olivier Coipel",
+    "Tom King"
+  ],
+  "publish_date": "2017-10-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/08/batman-33.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/875/",
+  "fetched_at": "2026-04-22T15:08:51.096Z"
+}

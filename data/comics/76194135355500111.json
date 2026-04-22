@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194135355500111",
+  "title": "Batman & the Signal #1",
+  "authors": [
+    "Brian Cunningham",
+    "Brittany Holzherr",
+    "Cully Hamner",
+    "Declan Shalvey",
+    "Deron Bennett",
+    "Jordie Bellaire",
+    "Laura Martin",
+    "Scott Snyder",
+    "Tony Patrick"
+  ],
+  "publish_date": "2018-01-03",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/21/def9c2f4517c44768190de065d7cca02.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/56851/",
+  "fetched_at": "2026-04-22T14:52:45.465Z"
+}

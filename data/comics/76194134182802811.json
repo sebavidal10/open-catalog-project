@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134182802811",
+  "title": "Batman #28",
+  "authors": [
+    "Brian Miller",
+    "Clayton Cowles",
+    "Jamie S. Rich",
+    "June Chung",
+    "Maggie Howell",
+    "Mikel Janín",
+    "Molly Mahan",
+    "Neal Adams",
+    "Tom King"
+  ],
+  "publish_date": "2017-08-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/07/batman-28.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/870/",
+  "fetched_at": "2026-04-22T15:08:30.150Z"
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194137950003211",
+  "title": "Superman #32",
+  "authors": [
+    "Alejandro Sánchez",
+    "Ariana Maher",
+    "Dan Mora",
+    "David Aja",
+    "Eber Ferreira",
+    "Eddy Barrows",
+    "Jillian Grant",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Kyuyong Eom",
+    "Marie Javins",
+    "Paul Kaminski",
+    "Sebastián Fiumara"
+  ],
+  "publish_date": "2025-11-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/11/01/051c91a221ce4c1fa271e1b23a1352d3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156824/",
+  "fetched_at": "2026-04-22T15:15:28.630Z"
+}

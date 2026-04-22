@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194134182812311",
+  "title": "Batman #123",
+  "authors": [
+    "Ben Abernathy",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "Gabriele Dell'Otto",
+    "Howard Porter",
+    "Jay Anacleto",
+    "Jim Lee",
+    "Jock",
+    "Joshua Williamson",
+    "Marie Javins",
+    "Rain Beredo",
+    "Rex Lokus",
+    "Tomeu Morey",
+    "Trevor Hairsine",
+    "Willie Schubert"
+  ],
+  "publish_date": "2022-05-03",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/11/batman-123.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/46419/",
+  "fetched_at": "2026-04-22T13:42:54.693Z"
+}

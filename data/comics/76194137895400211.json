@@ -1,0 +1,40 @@
+{
+  "isbn": null,
+  "upc": "76194137895400211",
+  "title": "Batman: The Brave and the Bold #2",
+  "authors": [
+    "Andrew Dalhouse",
+    "Ben Abernathy",
+    "Brett Booth",
+    "Chris Rosa",
+    "Christopher Cantwell",
+    "Clayton Cowles",
+    "Danny Miki",
+    "Dave Wielgosz",
+    "Derrick Chew",
+    "Ed Brisson",
+    "Javier Rodríguez",
+    "Jim Lee",
+    "Joëlle Jones",
+    "John Stokes",
+    "Marie Javins",
+    "Mitch Gerads",
+    "Otto Schmidt",
+    "Randy Mayor",
+    "Saida Temofonte",
+    "Sandy Alonzo",
+    "Simon Bowland",
+    "Simone Di Meo",
+    "Steve Wands",
+    "Tom King"
+  ],
+  "publish_date": "2023-06-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/06/26/8281645d46de4e76b70d6853dc01a1a8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/68523/",
+  "fetched_at": "2026-04-22T13:41:40.230Z"
+}

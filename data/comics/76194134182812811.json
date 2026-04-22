@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194134182812811",
+  "title": "Batman #128",
+  "authors": [
+    "Ben Abernathy",
+    "Chip Zdarsky",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "Francesco Mattina",
+    "Gabriele Dell'Otto",
+    "Jim Lee",
+    "Jock",
+    "Jordie Bellaire",
+    "Jorge Jiménez",
+    "Leonardo Romero",
+    "Marie Javins",
+    "Ryan Sook",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2022-10-04",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/09/13/batman-128.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/52350/",
+  "fetched_at": "2026-04-22T13:43:12.701Z"
+}

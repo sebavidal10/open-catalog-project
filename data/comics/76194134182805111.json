@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194134182805111",
+  "title": "Batman #51",
+  "authors": [
+    "Brittany Holzherr",
+    "Clayton Cowles",
+    "Elizabeth Breitweiser",
+    "Jamie S. Rich",
+    "Kaare Andrews",
+    "Lee Weeks",
+    "Tom King"
+  ],
+  "publish_date": "2018-07-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/10/batman-51.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/911/",
+  "fetched_at": "2026-04-22T14:50:21.077Z"
+}

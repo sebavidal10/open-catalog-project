@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "76194135305000111",
+  "title": "Batman: Lost #1",
+  "authors": [
+    "Alejandro Sánchez",
+    "Andrew Marino",
+    "Dave Stewart",
+    "Doug Mahnke",
+    "Eddie Berganza",
+    "Jaime Mendoza",
+    "James Tynion IV",
+    "Jorge Jiménez",
+    "Joshua Williamson",
+    "Nathan Fairbairn",
+    "Olivier Coipel",
+    "Rebecca Taylor",
+    "Scott Snyder",
+    "Tom Napolitano",
+    "Wil Quintana",
+    "Yanick Paquette"
+  ],
+  "publish_date": "2018-11-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/02/01/batman-lost-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9183/",
+  "fetched_at": "2026-04-22T14:51:51.911Z"
+}

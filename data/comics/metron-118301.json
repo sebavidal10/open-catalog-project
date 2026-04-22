@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Batman: The Adventures Continue #5",
+  "authors": [
+    "Alan Burnett",
+    "Andrew Marino",
+    "Joe Quinones",
+    "Joshua Reed",
+    "Monica Kubina",
+    "Paul Dini",
+    "Ty Templeton"
+  ],
+  "publish_date": "2020-06-04",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/06/a82b60f501fc49e88b17409e12c3be8c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118301/",
+  "fetched_at": "2026-04-22T14:16:08.027Z"
+}

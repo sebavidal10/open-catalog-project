@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194137950003611",
+  "title": "Superman #36",
+  "authors": [
+    "ACO",
+    "Alejandro Sánchez",
+    "Ariana Maher",
+    "Dan Mora",
+    "Jillian Grant",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Juan Ferreyra",
+    "Marie Javins",
+    "Paul Kaminski",
+    "Rod Reis",
+    "Skylar Patridge",
+    "Taurin Clarke"
+  ],
+  "publish_date": "2026-03-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/02/27/02f45eb7d8b245f69a0ec1a322677589.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/163036/",
+  "fetched_at": "2026-04-22T15:15:43.799Z"
+}

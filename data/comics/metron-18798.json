@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "Batman: Gotham Nights #20",
+  "authors": [
+    "Inaki Miranda",
+    "Katie Kubert",
+    "Liz Erickson",
+    "Marc Guggenheim",
+    "Nick Filardi",
+    "Priscilla Petraites",
+    "Troy Peteri"
+  ],
+  "publish_date": "2020-11-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/03/batman-nights-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18798/",
+  "fetched_at": "2026-04-22T14:14:29.410Z"
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194137950002811",
+  "title": "Superman #28",
+  "authors": [
+    "Alejandro Sánchez",
+    "Ariana Maher",
+    "Dan Mora",
+    "Guillem March",
+    "Jillian Grant",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Marie Javins",
+    "Nathan Szerdy",
+    "Pasquale Ferrara",
+    "Paul Kaminski",
+    "Salvador Larroca",
+    "Tula Lotay"
+  ],
+  "publish_date": "2025-07-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/06/27/66080f215bdf4f879da4a7312e7c5a57.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/149796/",
+  "fetched_at": "2026-04-22T15:18:39.154Z"
+}

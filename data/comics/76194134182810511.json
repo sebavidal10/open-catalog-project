@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134182810511",
+  "title": "Batman #105",
+  "authors": [
+    "Álvaro Martínez Bueno",
+    "Ben Abernathy",
+    "Carlo Pagulayan",
+    "Christian Duce",
+    "Clayton Cowles",
+    "Danny Miki",
+    "Dave Wielgosz",
+    "David Baron",
+    "Francesco Mattina",
+    "James Tynion IV",
+    "Jorge Jiménez",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2020-12-15",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/02/batman-105.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19986/",
+  "fetched_at": "2026-04-22T13:49:01.268Z"
+}

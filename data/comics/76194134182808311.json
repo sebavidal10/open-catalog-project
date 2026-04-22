@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134182808311",
+  "title": "Batman #83",
+  "authors": [
+    "Ben Meares",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "Francesco Mattina",
+    "Jamie S. Rich",
+    "Jordie Bellaire",
+    "Mikel Janín",
+    "Tom King"
+  ],
+  "publish_date": "2019-11-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/15/batman-83.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7476/",
+  "fetched_at": "2026-04-22T14:11:26.882Z"
+}

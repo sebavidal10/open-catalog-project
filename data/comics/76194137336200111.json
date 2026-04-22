@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194137336200111",
+  "title": "Batman: The Knight #1",
+  "authors": [
+    "Ben Abernathy",
+    "Carmine Di Giandomenico",
+    "Chip Zdarsky",
+    "Gerald Parel",
+    "Greg Capullo",
+    "Ivan Plascencia",
+    "Jim Lee",
+    "Jonathan Glapion",
+    "Marie Javins",
+    "Pat Brosseau"
+  ],
+  "publish_date": "2022-01-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/07/batman-knight-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42809/",
+  "fetched_at": "2026-04-22T13:47:23.879Z"
+}

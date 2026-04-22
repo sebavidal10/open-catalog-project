@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194134182809511",
+  "title": "Batman #95",
+  "authors": [
+    "Ben Abernathy",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "Francesco Mattina",
+    "James Tynion IV",
+    "Jorge Jiménez",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2020-07-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/17/batman-95.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15218/",
+  "fetched_at": "2026-04-22T14:12:08.454Z"
+}

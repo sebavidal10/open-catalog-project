@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "76194134182812211",
+  "title": "Batman #122",
+  "authors": [
+    "Ben Abernathy",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "Gabriele Dell'Otto",
+    "Howard Porter",
+    "Jim Lee",
+    "Jock",
+    "Joshua Williamson",
+    "Luis Guerrero",
+    "Marie Javins",
+    "Rain Beredo",
+    "Roger Cruz",
+    "Tomeu Morey",
+    "Trevor Hairsine",
+    "Victor Olazaba",
+    "Willie Schubert"
+  ],
+  "publish_date": "2022-04-05",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/03/07/batman-122.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/44684/",
+  "fetched_at": "2026-04-22T13:42:51.287Z"
+}

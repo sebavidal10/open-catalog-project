@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "76194137895400611",
+  "title": "Batman: The Brave and the Bold #6",
+  "authors": [
+    "Antonio Fabela",
+    "Arif Prianto",
+    "Carlos M. Mangual",
+    "Christian Ward",
+    "Ed Brisson",
+    "Guillem March",
+    "Javier Fernandez",
+    "Jeff Spokes",
+    "Jim Lee",
+    "Marguerite Sauvage",
+    "Marie Javins",
+    "Rob Williams",
+    "Saida Temofonte",
+    "Sean Lewis",
+    "Simon Bowland",
+    "Simone Di Meo",
+    "Stefano Landini"
+  ],
+  "publish_date": "2023-10-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/09/29/869725260fb64548ad0e2adec6479c94.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/76255/",
+  "fetched_at": "2026-04-22T13:41:51.803Z"
+}

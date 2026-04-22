@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194134182806211",
+  "title": "Batman #62",
+  "authors": [
+    "Alex Sinclair",
+    "Brittany Holzherr",
+    "Clayton Cowles",
+    "Frank Miller",
+    "Jamie S. Rich",
+    "Mitch Gerads",
+    "Tom King"
+  ],
+  "publish_date": "2019-01-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/10/batman-62.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/922/",
+  "fetched_at": "2026-04-22T14:24:33.859Z"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194137726101211",
+  "title": "Batman Incorporated #12",
+  "authors": [
+    "Ben Abernathy",
+    "Clayton Cowles",
+    "Ed Brisson",
+    "Jim Lee",
+    "John Timms",
+    "Marie Javins",
+    "Michele Bandini",
+    "Rex Lokus",
+    "Stephen Segovia"
+  ],
+  "publish_date": "2023-09-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/08/17/batman-inc-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/73586/",
+  "fetched_at": "2026-04-22T13:39:17.248Z"
+}
