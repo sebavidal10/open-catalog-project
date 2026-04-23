@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960601772020111",
+  "title": "X-Men #201",
+  "authors": [
+    "Andrew Hennessy",
+    "Andy Schmidt",
+    "Axel Alonso",
+    "Carlos Cuevas",
+    "Christopher Yost",
+    "Cory Petit",
+    "Dan Buckley",
+    "Edgar Delgado",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Mike Carey",
+    "Nick Lowe",
+    "Raúl Treviño",
+    "Scot Eaton",
+    "Will Panzo"
+  ],
+  "publish_date": "2007-07-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-v2-201.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27318/",
+  "fetched_at": "2026-04-23T18:47:47.365Z",
+  "reviewed_at": null
+}

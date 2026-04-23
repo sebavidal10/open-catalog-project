@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960601772003711",
+  "title": "X-Men #37",
+  "authors": [
+    "Andy Kubert",
+    "Ben Raab",
+    "Bill Oakley",
+    "Bob Harras",
+    "Fabian Nicieza",
+    "Kevin Somers",
+    "Matt Ryan",
+    "Mike Sellers",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1994-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-37.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23513/",
+  "fetched_at": "2026-04-23T17:38:15.060Z",
+  "reviewed_at": "1994-10-01"
+}

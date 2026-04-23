@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960605544902011",
+  "title": "New X-Men #20",
+  "authors": [
+    "Billy Tan",
+    "Brian Reber",
+    "Christopher Yost",
+    "Craig Kyle",
+    "Dan Buckley",
+    "Dave Meikis",
+    "Dave Sharpe",
+    "Jaime Mendoza",
+    "Joe Quesada",
+    "Justin Ponsor",
+    "Leinil Francis Yu",
+    "Mark Brooks",
+    "Mike Marts",
+    "Nick Lowe",
+    "Sean Ryan"
+  ],
+  "publish_date": "2005-11-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47663/",
+  "fetched_at": "2026-04-23T18:34:39.273Z",
+  "reviewed_at": null
+}

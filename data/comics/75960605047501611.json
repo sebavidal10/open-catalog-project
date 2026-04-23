@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960605047501611",
+  "title": "Ultimate X-Men #16",
+  "authors": [
+    "Adam Kubert",
+    "Bill Jemas",
+    "Brian Smith",
+    "Chris Eliopoulos",
+    "Danny Miki",
+    "Dave Stewart",
+    "Joe Quesada",
+    "Mark Millar",
+    "Ralph Macchio"
+  ],
+  "publish_date": "2002-03-20",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/08/28/b3d43296d92e41e2932dad5dc6376e32.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/74243/",
+  "fetched_at": "2026-04-23T18:11:39.905Z",
+  "reviewed_at": null
+}

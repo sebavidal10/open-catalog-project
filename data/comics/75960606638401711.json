@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960606638401711",
+  "title": "X-Men Forever #17",
+  "authors": [
+    "Alan Fine",
+    "Charlie Beckerman",
+    "Chris Claremont",
+    "Chris Garcia",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Graham Nolan",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Michael Avon Oeming",
+    "Michael Horwitz",
+    "Moose Baumann",
+    "Terry Austin",
+    "Tom Grummett",
+    "Tom Orzechowski",
+    "Vicente Cifuentes"
+  ],
+  "publish_date": "2010-02-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/17/0210f8578a284b6ba656695e90875733.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151770/",
+  "fetched_at": "2026-04-23T19:06:19.114Z",
+  "reviewed_at": null
+}

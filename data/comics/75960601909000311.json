@@ -1,0 +1,43 @@
+{
+  "isbn": null,
+  "upc": "75960601909000311",
+  "title": "The X-Men Annual #3",
+  "authors": [
+    "Amanda Conner",
+    "Andrew Pepoy",
+    "Bob Harras",
+    "Bob Wiacek",
+    "Bryan Hitch",
+    "Cam Smith",
+    "Dana Moreshead",
+    "Dan Green",
+    "Dave Sharpe",
+    "Gene Ha",
+    "Ian Edginton",
+    "James Callahan",
+    "Jim Krueger",
+    "Joe Rosas",
+    "Joe Rubinstein",
+    "John Lowe",
+    "Kevin Conrad Hanna",
+    "Lisa Patrick",
+    "Mark Pacella",
+    "Mike Sellers",
+    "Pat Brosseau",
+    "Philip Moy",
+    "Scott McDaniel",
+    "Steve Yeowell",
+    "Tom DeFalco",
+    "Tom Palmer"
+  ],
+  "publish_date": "1994-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/22/xmen-annual-v2-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23597/",
+  "fetched_at": "2026-04-23T17:39:05.389Z",
+  "reviewed_at": "1994-12-01"
+}

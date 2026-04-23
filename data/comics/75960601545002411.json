@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960601545002411",
+  "title": "X-Men 2099 #24",
+  "authors": [
+    "Bobbie Chase",
+    "Harry Candelario",
+    "Jimmy Palmiotti",
+    "Joey Cavalieri",
+    "John Francis Moore",
+    "Ken Lopez",
+    "Lia Pelosi",
+    "Ron Lim",
+    "Tom Smith"
+  ],
+  "publish_date": "1995-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/04/X-Men_2099_-_240001.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130764/",
+  "fetched_at": "2026-04-23T17:42:46.960Z",
+  "reviewed_at": "1995-09-01"
+}

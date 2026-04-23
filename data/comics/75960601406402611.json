@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960601406402611",
+  "title": "X-Men Unlimited #26",
+  "authors": [
+    "Bob Harras",
+    "Brett Booth",
+    "Chris Dickey",
+    "Glenn Herdling",
+    "Gregg Schigiel",
+    "Jessica Ruffner-Booth",
+    "Joe Pruett",
+    "Joe Rosen",
+    "Matt Hicks",
+    "Matt Nixon",
+    "Michael Stewart",
+    "Paul Mounts",
+    "Paul Tutrone",
+    "Richard Case",
+    "Rick Ketcham",
+    "Sal Regla",
+    "Scott Koblish",
+    "Steve Behling",
+    "Toby Cypress"
+  ],
+  "publish_date": "2000-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/03/X-Men_Unlimited_026-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130499/",
+  "fetched_at": "2026-04-23T18:00:23.409Z",
+  "reviewed_at": "2000-03-01"
+}

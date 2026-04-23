@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960602461239911",
+  "title": "The Uncanny X-Men #399",
+  "authors": [
+    "Bill Jemas",
+    "Brian Miller",
+    "Comicraft",
+    "Dan Buckley",
+    "Joe Casey",
+    "Joe Quesada",
+    "Mark Powers",
+    "Pete Franco",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Sandu Florea",
+    "Scott Hanna",
+    "Tom Derenick",
+    "Tom Raney"
+  ],
+  "publish_date": "2001-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/18/uncanny-xmen-v1-399.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21141/",
+  "fetched_at": "2026-04-23T18:08:55.045Z",
+  "reviewed_at": "2001-11-01"
+}

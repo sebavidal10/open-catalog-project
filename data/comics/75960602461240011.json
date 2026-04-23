@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960602461240011",
+  "title": "The Uncanny X-Men #400",
+  "authors": [
+    "Ashley Wood",
+    "Brian Miller",
+    "Comicraft",
+    "Cully Hamner",
+    "Dan Buckley",
+    "Eddie Campbell",
+    "Javier Pulido",
+    "Joe Casey",
+    "Joe Quesada",
+    "Mark Powers",
+    "Matthew Dow Smith",
+    "Pete Franco",
+    "Sean Phillips"
+  ],
+  "publish_date": "2001-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/18/uncanny-xmen-v1-400.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21142/",
+  "fetched_at": "2026-04-23T18:09:24.142Z",
+  "reviewed_at": "2001-12-01"
+}

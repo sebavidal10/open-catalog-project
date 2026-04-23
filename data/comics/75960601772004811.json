@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960601772004811",
+  "title": "X-Men #48",
+  "authors": [
+    "Andy Kubert",
+    "Andy Lanning",
+    "Ben Raab",
+    "Bob Harras",
+    "Cam Smith",
+    "Luke Ross",
+    "Richard Starkings",
+    "Scott Lobdell",
+    "Steve Buccellato"
+  ],
+  "publish_date": "1996-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-48.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23524/",
+  "fetched_at": "2026-04-23T17:44:29.468Z",
+  "reviewed_at": "1996-01-01"
+}

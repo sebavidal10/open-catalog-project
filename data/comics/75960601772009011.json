@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960601772009011",
+  "title": "X-Men #90",
+  "authors": [
+    "Alan Davis",
+    "Bob Harras",
+    "Comicraft",
+    "Gloria Vasquez",
+    "Marie Javins",
+    "Mark Farmer",
+    "Mark Powers",
+    "Richard Starkings",
+    "Terry Kavanagh"
+  ],
+  "publish_date": "1999-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-90.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23571/",
+  "fetched_at": "2026-04-23T17:57:29.126Z",
+  "reviewed_at": "1999-07-01"
+}

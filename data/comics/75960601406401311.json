@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960601406401311",
+  "title": "X-Men Unlimited #13",
+  "authors": [
+    "Al Milgrom",
+    "Brad Vancata",
+    "Darick Robertson",
+    "Duncan Rouleau",
+    "George Pérez",
+    "Greg Land",
+    "Jim Calafiore",
+    "Jorge González",
+    "Kelly Corvese",
+    "Mark McKenna",
+    "Matt Idelson",
+    "Richard Starkings",
+    "Rob Hunter",
+    "Tom Smith"
+  ],
+  "publish_date": "1996-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/03/X-Men_Unlimited_013-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130486/",
+  "fetched_at": "2026-04-23T17:48:59.489Z",
+  "reviewed_at": "1996-12-01"
+}

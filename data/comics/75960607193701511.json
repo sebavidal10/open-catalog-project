@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960607193701511",
+  "title": "X-Men #15",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Christopher Yost",
+    "Dalibor Talajić",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Dexter Vines",
+    "Ed McGuinness",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Juan Vlasco",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Paco Medina",
+    "Wil Quintana"
+  ],
+  "publish_date": "2011-07-20",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v3-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28032/",
+  "fetched_at": "2026-04-23T19:16:33.090Z",
+  "reviewed_at": null
+}

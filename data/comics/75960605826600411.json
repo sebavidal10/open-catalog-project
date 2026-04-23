@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605826600411",
+  "title": "X-Men: The 198 #4",
+  "authors": [
+    "David Hine",
+    "Jim Muñiz",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jonathan Glapion",
+    "Juan Doe",
+    "Kevin Conrad Hanna",
+    "Matt Milla",
+    "Sean Ryan",
+    "Tom Valente"
+  ],
+  "publish_date": "2006-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/10/X-Men_-_The_198_004-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131416/",
+  "fetched_at": "2026-04-23T18:39:01.472Z",
+  "reviewed_at": "2006-06-01"
+}

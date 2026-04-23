@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960605507400311",
+  "title": "X-Men Unlimited #3",
+  "authors": [
+    "Cory Sedlmeier",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Don Hillsman",
+    "Georges Jeanty",
+    "Joe Quesada",
+    "John Livesay",
+    "Kanila Tripp",
+    "Mike Marts",
+    "Mike Raicht",
+    "Pat Lee",
+    "Staz Johnson",
+    "Stephanie Moore",
+    "Tom Chu"
+  ],
+  "publish_date": "2004-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/11/507578._HD_TTD_.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131420/",
+  "fetched_at": "2026-04-23T18:25:21.578Z",
+  "reviewed_at": "2004-08-01"
+}

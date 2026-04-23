@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601406402511",
+  "title": "X-Men Unlimited #25",
+  "authors": [
+    "Bob Harras",
+    "Brett Booth",
+    "Jason Liebig",
+    "Jessica Ruffner-Booth",
+    "Joe Pruett",
+    "Marie Javins",
+    "Mark Texeira",
+    "Sal Regla"
+  ],
+  "publish_date": "1999-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/03/X-Men_Unlimted_025-00.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130498/",
+  "fetched_at": "2026-04-23T17:59:07.426Z",
+  "reviewed_at": "1999-12-01"
+}

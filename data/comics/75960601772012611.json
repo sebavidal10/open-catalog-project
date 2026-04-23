@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960601772012611",
+  "title": "New X-Men #126",
+  "authors": [
+    "Bill Jemas",
+    "Brian Haberlin",
+    "Frank Quitely",
+    "Grant Morrison",
+    "Joe Quesada",
+    "Mark Powers",
+    "Mike Marts",
+    "Mike Raicht",
+    "Pete Franco",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Tim Townsend"
+  ],
+  "publish_date": "2002-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/22/new-x-men-126.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27701/",
+  "fetched_at": "2026-04-23T18:12:24.244Z",
+  "reviewed_at": "2002-07-01"
+}

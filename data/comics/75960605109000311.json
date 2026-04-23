@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605109000311",
+  "title": "X-Treme X-Men #3",
+  "authors": [
+    "Bill Jemas",
+    "Chris Claremont",
+    "Frank Dunkerley",
+    "Joe Quesada",
+    "Liquid!",
+    "Matt Hicks",
+    "Salvador Larroca",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "2001-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/11/x-treme-x-men-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39418/",
+  "fetched_at": "2026-04-23T18:08:11.776Z",
+  "reviewed_at": "2001-09-01"
+}

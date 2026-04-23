@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960601406402811",
+  "title": "X-Men Unlimited #28",
+  "authors": [
+    "Brett Booth",
+    "Derek Mei",
+    "Jason Liebig",
+    "Jimmy Palmiotti",
+    "Joe Pruett",
+    "Liam Sharp",
+    "Marie Javins",
+    "Ron Lim",
+    "Sal Regla"
+  ],
+  "publish_date": "2000-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/03/X-Men_Unlimited_028-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130501/",
+  "fetched_at": "2026-04-23T18:02:44.098Z",
+  "reviewed_at": "2000-09-01"
+}

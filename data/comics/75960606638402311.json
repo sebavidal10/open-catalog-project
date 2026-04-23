@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960606638402311",
+  "title": "X-Men Forever #23",
+  "authors": [
+    "Chris Claremont",
+    "Cory Hamscher",
+    "Fernando Blanco",
+    "Greg Adams",
+    "Rodney Buchemi",
+    "Tom Grummett",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "2010-05-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/17/5b70cf43bb3540658a546b90a56b41d0.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151776/",
+  "fetched_at": "2026-04-23T19:08:14.921Z",
+  "reviewed_at": null
+}

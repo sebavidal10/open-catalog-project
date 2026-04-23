@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "0714860246110",
+  "title": "The X-Men #101",
+  "authors": [
+    "Archie Goodwin",
+    "Bonnie Wilford",
+    "Chris Claremont",
+    "Dave Cockrum",
+    "Frank Chiaramonte",
+    "John Costanza"
+  ],
+  "publish_date": "1976-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/10/10/xmen-v1-101.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17859/",
+  "fetched_at": "2026-04-23T17:01:08.253Z",
+  "reviewed_at": "1976-10-01"
+}

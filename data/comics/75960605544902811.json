@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605544902811",
+  "title": "New X-Men #28",
+  "authors": [
+    "Brian Reber",
+    "Christopher Yost",
+    "Craig Kyle",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Juan Vlasco",
+    "Marte Gracia",
+    "Mike Marts",
+    "Nick Lowe",
+    "Paco Medina",
+    "Sean Ryan"
+  ],
+  "publish_date": "2006-07-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-28.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47671/",
+  "fetched_at": "2026-04-23T18:40:29.515Z",
+  "reviewed_at": null
+}

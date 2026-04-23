@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601772008311",
+  "title": "X-Men #83",
+  "authors": [
+    "Adam Kubert",
+    "Bob Harras",
+    "Bob Wiacek",
+    "Comicraft",
+    "Joe Kelly",
+    "John Livesay",
+    "Mark Powers",
+    "Richard Isanove",
+    "Richard Starkings",
+    "Victor Llamas"
+  ],
+  "publish_date": "1998-11-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-83.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23564/",
+  "fetched_at": "2026-04-23T17:55:49.364Z",
+  "reviewed_at": null
+}

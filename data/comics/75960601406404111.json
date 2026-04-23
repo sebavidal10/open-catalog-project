@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960601406404111",
+  "title": "X-Men Unlimited #41",
+  "authors": [
+    "Adrian Alphona",
+    "Brian Reber",
+    "Chris Bachalo",
+    "Chuck Austen",
+    "Jamie Delano",
+    "Laura Allred",
+    "Mike Allred",
+    "Neil Googe",
+    "Skottie Young"
+  ],
+  "publish_date": "2003-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/04/X-Men_Unlimited_1993-2003_041-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130514/",
+  "fetched_at": "2026-04-23T18:16:04.948Z",
+  "reviewed_at": "2003-03-01"
+}

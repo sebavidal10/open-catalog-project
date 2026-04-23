@@ -5,6 +5,10 @@ export function cleanComicData(data) {
     throw new Error('Invalid comic data received from Metron');
   }
 
+  if (!issue.isbn && !issue.upc) {
+    return null;
+  }
+
   // Legacy structure requirements:
   // title, authors (array), publish_date, publisher (array), pages (number),
   // cover (string), subjects (array), url (string), fetched_at (ISO string)
@@ -22,5 +26,6 @@ export function cleanComicData(data) {
     subjects: issue.genres?.map((g) => g.name) || [],
     url: `https://metron.cloud/issue/${issue.id}/`,
     fetched_at: new Date().toISOString(),
+    reviewed_at: null,
   };
 }

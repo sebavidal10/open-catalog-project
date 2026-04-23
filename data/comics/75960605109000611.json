@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960605109000611",
+  "title": "X-Treme X-Men #6",
+  "authors": [
+    "Andrew Lis",
+    "Bill Jemas",
+    "Chris Claremont",
+    "Joe Quesada",
+    "Liquid!",
+    "Mark Powers",
+    "Matt Hicks",
+    "Salvador Larroca",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "2001-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/11/x-treme-x-men-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39421/",
+  "fetched_at": "2026-04-23T18:09:32.227Z",
+  "reviewed_at": "2001-12-01"
+}

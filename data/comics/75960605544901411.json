@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605544901411",
+  "title": "New X-Men #14",
+  "authors": [
+    "Christina Weir",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Juan Vlasco",
+    "Michael Ryan",
+    "Mike Marts",
+    "Nick Lowe",
+    "Nunzio DeFilippis",
+    "Paco Medina",
+    "Peter Pantazis",
+    "Sean Ryan"
+  ],
+  "publish_date": "2005-05-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47657/",
+  "fetched_at": "2026-04-23T18:31:15.091Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960607437200111",
+  "title": "Ultimate Comics X-Men #1",
+  "authors": [
+    "Alan Fine",
+    "Andy Lanning",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Jason Keith",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Juan Vlasco",
+    "Kaare Andrews",
+    "Mark Bagley",
+    "Mark Paniccia",
+    "Marte Gracia",
+    "Nick Spencer",
+    "Paco Medina",
+    "Sana Amanat"
+  ],
+  "publish_date": "2011-09-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/18/ed5ac6ff7e9c4b2ca51f60b7491c7546.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151902/",
+  "fetched_at": "2026-04-23T19:17:26.355Z",
+  "reviewed_at": null
+}

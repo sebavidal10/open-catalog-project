@@ -3,5 +3,7 @@
   { "id": "batman", "search": "batman" },
   { "id": "superman", "search": "superman" },
   { "id": "spider-man", "search": "spider-man" },
-  { "id": "justice-league", "search": "justice league" }
+  { "id": "aquaman", "search": "aquaman" },
+  { "id": "flash", "search": "flash" },
+  { "id": "hulk", "search": "hulk" }
 ]

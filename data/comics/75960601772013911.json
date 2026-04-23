@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601772013911",
+  "title": "New X-Men #139",
+  "authors": [
+    "Andy Lanning",
+    "Bill Jemas",
+    "Chris Eliopoulos",
+    "Dave McCaig",
+    "Grant Morrison",
+    "Joe Quesada",
+    "Mike Marts",
+    "Mike Raicht",
+    "Nova Ren Suma",
+    "Phil Jimenez"
+  ],
+  "publish_date": "2003-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/22/new-x-men-139.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27714/",
+  "fetched_at": "2026-04-23T18:17:22.638Z",
+  "reviewed_at": "2003-06-01"
+}

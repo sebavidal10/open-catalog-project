@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960602461236311",
+  "title": "The Uncanny X-Men #363",
+  "authors": [
+    "Art Thibert",
+    "Bob Harras",
+    "Chris Bachalo",
+    "Comicraft",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Liquid!",
+    "Mark Powers",
+    "Richard Starkings",
+    "Steve Seagle",
+    "Tim Townsend"
+  ],
+  "publish_date": "1999-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/16/uncanny-xmen-v1-363.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21096/",
+  "fetched_at": "2026-04-23T17:55:41.195Z",
+  "reviewed_at": "1999-01-01"
+}

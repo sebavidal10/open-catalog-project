@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960601772005111",
+  "title": "X-Men #51",
+  "authors": [
+    "Andy Kubert",
+    "Ben Raab",
+    "Bob Harras",
+    "Cam Smith",
+    "John Dell",
+    "Marie Javins",
+    "Mark Morales",
+    "Mark Waid",
+    "Pasqual Ferry",
+    "Richard Starkings",
+    "Vince Russell"
+  ],
+  "publish_date": "1996-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-51.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23527/",
+  "fetched_at": "2026-04-23T17:45:41.234Z",
+  "reviewed_at": "1996-04-01"
+}

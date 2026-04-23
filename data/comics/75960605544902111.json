@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605544902111",
+  "title": "New X-Men #21",
+  "authors": [
+    "Brian Reber",
+    "Christopher Yost",
+    "Craig Kyle",
+    "Dan Buckley",
+    "Jaime Mendoza",
+    "Jay Leisten",
+    "Joe Quesada",
+    "Mark Brooks",
+    "Mike Marts",
+    "Nick Lowe",
+    "Sean Ryan"
+  ],
+  "publish_date": "2005-12-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47664/",
+  "fetched_at": "2026-04-23T18:35:15.607Z",
+  "reviewed_at": null
+}

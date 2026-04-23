@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960604272200311",
+  "title": "Professor Xavier and the X-Men #3",
+  "authors": [
+    "Fabian Nicieza",
+    "Jan Duursema",
+    "Kelly Corvese",
+    "Matt Idelson",
+    "Matt Webb",
+    "Mike Sellers",
+    "Pat Brosseau"
+  ],
+  "publish_date": "1996-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/15/prof-x-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/122679/",
+  "fetched_at": "2026-04-23T17:44:20.911Z",
+  "reviewed_at": "1996-01-01"
+}

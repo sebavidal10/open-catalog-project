@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960604696600111",
+  "title": "X-Men: Liberators #1",
+  "authors": [
+    "Bob Harras",
+    "Emerson Miranda",
+    "Frank Pittarese",
+    "Joe Harris",
+    "Keith Aiken",
+    "Phil Jimenez",
+    "Richard Starkings",
+    "Shannon Blanchard"
+  ],
+  "publish_date": "1998-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/01/x-men-liberators-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30062/",
+  "fetched_at": "2026-04-23T17:55:10.880Z",
+  "reviewed_at": "1998-11-01"
+}

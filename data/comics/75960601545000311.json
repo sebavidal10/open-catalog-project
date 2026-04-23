@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960601545000311",
+  "title": "X-Men 2099 #3",
+  "authors": [
+    "Adam Kubert",
+    "Cam Smith",
+    "Christopher Ivy",
+    "Gary Martin",
+    "Joey Cavalieri",
+    "John Francis Moore",
+    "Jon Babcock",
+    "Ken Lopez",
+    "Ron Lim",
+    "Tom DeFalco",
+    "Tom Smith"
+  ],
+  "publish_date": "1993-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/04/X-Men_2099_003-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130738/",
+  "fetched_at": "2026-04-23T17:34:25.062Z",
+  "reviewed_at": "1993-12-01"
+}

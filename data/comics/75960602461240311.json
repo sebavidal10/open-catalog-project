@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960602461240311",
+  "title": "The Uncanny X-Men #403",
+  "authors": [
+    "Aaron Lopresti",
+    "Ariel Olivetti",
+    "Bill Jemas",
+    "Brian Miller",
+    "Dan Buckley",
+    "Joe Casey",
+    "Joe Quesada",
+    "Mark Morales",
+    "Mark Powers",
+    "Pete Franco",
+    "Richard Starkings"
+  ],
+  "publish_date": "2002-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/18/uncanny-xmen-v1-403.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21145/",
+  "fetched_at": "2026-04-23T18:10:47.890Z",
+  "reviewed_at": "2002-03-01"
+}

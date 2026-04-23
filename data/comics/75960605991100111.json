@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605991100111",
+  "title": "Uncanny X-Men Annual #1",
+  "authors": [
+    "Chris Claremont",
+    "Christina Strain",
+    "Clayton Henry",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Leinil Francis Yu",
+    "Mark Morales",
+    "Mike Marts",
+    "Nick Lowe",
+    "Sean Ryan",
+    "Tony Bedard"
+  ],
+  "publish_date": "2006-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/02/uncanny-x-men-annual-v2-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30092/",
+  "fetched_at": "2026-04-23T18:40:02.193Z",
+  "reviewed_at": "2006-08-01"
+}

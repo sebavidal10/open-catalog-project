@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960601772012211",
+  "title": "New X-Men #122",
+  "authors": [
+    "Bill Jemas",
+    "Brian Miller",
+    "Frank Quitely",
+    "Grant Morrison",
+    "Joe Quesada",
+    "Mark Powers",
+    "Pete Franco",
+    "Richard Starkings",
+    "Rich Perrotta",
+    "Saida Temofonte",
+    "Sandu Florea",
+    "Tim Townsend"
+  ],
+  "publish_date": "2002-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/21/new-x-men-122.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27697/",
+  "fetched_at": "2026-04-23T18:10:39.797Z",
+  "reviewed_at": "2002-03-01"
+}

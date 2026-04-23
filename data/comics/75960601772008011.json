@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960601772008011",
+  "title": "X-Men #80",
+  "authors": [
+    "Art Thibert",
+    "Bob Harras",
+    "Brandon Peterson",
+    "Carlos Pacheco",
+    "Comicraft",
+    "Dan Panosian",
+    "Jimmy Palmiotti",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Liquid!",
+    "Mark Powers",
+    "Richard Starkings"
+  ],
+  "publish_date": "1998-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-80.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23560/",
+  "fetched_at": "2026-04-23T17:54:53.062Z",
+  "reviewed_at": "1998-10-01"
+}

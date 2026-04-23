@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960602461238311",
+  "title": "The Uncanny X-Men #383",
+  "authors": [
+    "Adam Kubert",
+    "Bob Harras",
+    "Chris Claremont",
+    "Dan Buckley",
+    "Dan Panosian",
+    "Joe Quesada",
+    "Mark Powers",
+    "Richard Isanove",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Tim Townsend"
+  ],
+  "publish_date": "2000-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/17/uncanny-xmen-v1-383.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21125/",
+  "fetched_at": "2026-04-23T18:02:06.930Z",
+  "reviewed_at": "2000-08-01"
+}

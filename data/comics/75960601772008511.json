@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601772008511",
+  "title": "X-Men #85",
+  "authors": [
+    "Alan Davis",
+    "Bob Harras",
+    "Emerson Miranda",
+    "Joe Kelly",
+    "Liquid!",
+    "Mark Farmer",
+    "Mark Powers",
+    "Richard Starkings"
+  ],
+  "publish_date": "1999-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-85.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23566/",
+  "fetched_at": "2026-04-23T17:56:22.764Z",
+  "reviewed_at": "1999-03-01"
+}

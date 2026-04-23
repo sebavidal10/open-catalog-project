@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960606638400111",
+  "title": "X-Men Forever #1",
+  "authors": [
+    "Charlie Beckerman",
+    "Chris Claremont",
+    "Cory Hamscher",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Mark Paniccia",
+    "Tom Grummett",
+    "Tom Orzechowski",
+    "Wil Quintana"
+  ],
+  "publish_date": "2009-06-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/17/ae7c9481749a4d1a90bbe96d04055747.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151754/",
+  "fetched_at": "2026-04-23T19:01:20.966Z",
+  "reviewed_at": null
+}

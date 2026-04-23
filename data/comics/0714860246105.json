@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "0714860246105",
+  "title": "The X-Men #121",
+  "authors": [
+    "Chris Claremont",
+    "Dave Cockrum",
+    "Diana Albers",
+    "Glynis Oliver",
+    "Jim Shooter",
+    "John Byrne",
+    "Roger Stern",
+    "Terry Austin"
+  ],
+  "publish_date": "1979-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/10/11/xmen-v1-121.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17879/",
+  "fetched_at": "2026-04-23T17:04:14.900Z",
+  "reviewed_at": "1979-05-01"
+}

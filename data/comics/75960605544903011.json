@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605544903011",
+  "title": "New X-Men #30",
+  "authors": [
+    "Brian Reber",
+    "Christopher Yost",
+    "Craig Kyle",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Juan Vlasco",
+    "Marte Gracia",
+    "Mike Marts",
+    "Nick Lowe",
+    "Paco Medina",
+    "Sean Ryan"
+  ],
+  "publish_date": "2006-09-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-30.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47673/",
+  "fetched_at": "2026-04-23T18:41:51.949Z",
+  "reviewed_at": null
+}

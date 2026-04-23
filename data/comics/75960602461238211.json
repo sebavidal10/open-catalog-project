@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960602461238211",
+  "title": "The Uncanny X-Men #382",
+  "authors": [
+    "Bob Harras",
+    "Brian Haberlin",
+    "Chris Claremont",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Mark Powers",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Scott Hanna",
+    "Tom Raney"
+  ],
+  "publish_date": "2000-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/17/uncanny-xmen-v1-382.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21124/",
+  "fetched_at": "2026-04-23T18:01:41.328Z",
+  "reviewed_at": "2000-07-01"
+}

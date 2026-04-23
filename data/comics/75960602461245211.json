@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960602461245211",
+  "title": "The Uncanny X-Men #452",
+  "authors": [
+    "Andy Park",
+    "Chris Claremont",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Jonathan Sibal",
+    "Justin Ponsor",
+    "Mike Marts",
+    "Paul Smith",
+    "Sean Ryan",
+    "Stephanie Moore"
+  ],
+  "publish_date": "2005-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/18/uncanny-xmen-v1-452.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21194/",
+  "fetched_at": "2026-04-23T18:27:46.795Z",
+  "reviewed_at": "2005-01-01"
+}

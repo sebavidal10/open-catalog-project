@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "0714860246102",
+  "title": "The X-Men #103",
+  "authors": [
+    "Archie Goodwin",
+    "Chris Claremont",
+    "Dave Cockrum",
+    "Janice Cohen",
+    "John Costanza",
+    "Sam Grainger"
+  ],
+  "publish_date": "1977-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/10/10/xmen-v1-103.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17861/",
+  "fetched_at": "2026-04-23T17:01:35.422Z",
+  "reviewed_at": "1977-02-01"
+}

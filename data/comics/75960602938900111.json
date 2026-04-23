@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960602938900111",
+  "title": "Uncanny X-Men '95 #1",
+  "authors": [
+    "Bob Harras",
+    "Bob McLeod",
+    "Bryan Hitch",
+    "Ed McGuinness",
+    "Gary Frank",
+    "Glynis Oliver",
+    "John Dell",
+    "Kelly Corvese",
+    "Richard Starkings",
+    "Robert Piotrowski",
+    "Terry Kavanagh"
+  ],
+  "publish_date": "1995-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/18/84db0c20210646ccb8cb18aeac86b86b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/119411/",
+  "fetched_at": "2026-04-23T17:43:37.038Z",
+  "reviewed_at": "1995-11-01"
+}

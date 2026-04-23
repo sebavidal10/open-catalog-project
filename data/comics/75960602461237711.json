@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960602461237711",
+  "title": "The Uncanny X-Men #377",
+  "authors": [
+    "Adam Kubert",
+    "Alan Davis",
+    "Bob Harras",
+    "Brian Haberlin",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Mark Powers",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Scott Hanna",
+    "Terry Kavanagh",
+    "Tim Townsend",
+    "Tom Raney"
+  ],
+  "publish_date": "2000-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/17/uncanny-xmen-v1-377.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21119/",
+  "fetched_at": "2026-04-23T17:59:38.661Z",
+  "reviewed_at": "2000-02-01"
+}

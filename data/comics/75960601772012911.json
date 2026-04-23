@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960601772012911",
+  "title": "New X-Men #129",
+  "authors": [
+    "Bill Jemas",
+    "Dave McCaig",
+    "Grant Morrison",
+    "Igor Kordey",
+    "Joe Quesada",
+    "Mike Marts",
+    "Mike Raicht",
+    "Richard Starkings",
+    "Saida Temofonte"
+  ],
+  "publish_date": "2002-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/22/new-x-men-129.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27704/",
+  "fetched_at": "2026-04-23T18:13:06.250Z",
+  "reviewed_at": "2002-09-01"
+}

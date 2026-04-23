@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960602430809911",
+  "title": "X-Men Classic #99",
+  "authors": [
+    "Ann Nocenti",
+    "Chris Claremont",
+    "Dan Green",
+    "Glynis Oliver",
+    "Jaye Gardner",
+    "John Romita Jr.",
+    "Terry Austin",
+    "Tom Grummett",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "1994-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/09/02/03a31c5548574a688fede2d94df68a9e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/127075/",
+  "fetched_at": "2026-04-23T17:37:58.135Z",
+  "reviewed_at": "1994-09-01"
+}

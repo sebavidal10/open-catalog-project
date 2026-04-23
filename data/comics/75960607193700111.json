@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607193700111",
+  "title": "X-Men #1",
+  "authors": [
+    "Adi Granov",
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Romita Jr.",
+    "Juan Vlasco",
+    "Marko Djurdjević",
+    "Marte Gracia",
+    "Olivier Coipel",
+    "Paco Medina",
+    "Victor Gischler"
+  ],
+  "publish_date": "2010-07-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v3-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28018/",
+  "fetched_at": "2026-04-23T19:09:34.106Z",
+  "reviewed_at": null
+}

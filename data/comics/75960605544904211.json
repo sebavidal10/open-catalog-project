@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960605544904211",
+  "title": "New X-Men #42",
+  "authors": [
+    "Andrew Hennessy",
+    "Axel Alonso",
+    "Brad Johansen",
+    "Christopher Yost",
+    "Craig Kyle",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Dave Sharpe",
+    "Jean-Francois Beaulieu",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Mike Carey",
+    "Mike Perkins",
+    "Nick Lowe",
+    "Raúl Treviño",
+    "Skottie Young",
+    "Will Panzo"
+  ],
+  "publish_date": "2007-09-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-42.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47685/",
+  "fetched_at": "2026-04-23T18:48:33.145Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960605109000811",
+  "title": "X-Treme X-Men #8",
+  "authors": [
+    "Andrew Lis",
+    "Bill Jemas",
+    "Chris Claremont",
+    "Joe Quesada",
+    "Joe Weems",
+    "Liquid!",
+    "Mark Powers",
+    "Salvador Larroca",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "2002-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/11/x-treme-x-men-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39423/",
+  "fetched_at": "2026-04-23T18:10:26.590Z",
+  "reviewed_at": "2002-02-01"
+}

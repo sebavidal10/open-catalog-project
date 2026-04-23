@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605544902211",
+  "title": "New X-Men #22",
+  "authors": [
+    "Brian Reber",
+    "Christopher Yost",
+    "Craig Kyle",
+    "Dan Buckley",
+    "Dave McCaig",
+    "Dave Sharpe",
+    "Jaime Mendoza",
+    "Jay Leisten",
+    "Joe Quesada",
+    "Mark Brooks",
+    "Mike Marts",
+    "Nick Lowe",
+    "Sean Ryan"
+  ],
+  "publish_date": "2006-01-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47665/",
+  "fetched_at": "2026-04-23T18:35:56.372Z",
+  "reviewed_at": null
+}

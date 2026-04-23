@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960601772013011",
+  "title": "New X-Men #130",
+  "authors": [
+    "Bill Jemas",
+    "Chris Chuckry",
+    "Dave McCaig",
+    "Ethan Van Sciver",
+    "Grant Morrison",
+    "Igor Kordey",
+    "Joe Quesada",
+    "Mike Marts",
+    "Mike Raicht",
+    "Richard Starkings",
+    "Saida Temofonte"
+  ],
+  "publish_date": "2002-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/22/new-x-men-130.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27705/",
+  "fetched_at": "2026-04-23T18:13:35.719Z",
+  "reviewed_at": "2002-10-01"
+}

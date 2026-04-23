@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960607437200211",
+  "title": "Ultimate Comics X-Men #2",
+  "authors": [
+    "Axel Alonso",
+    "Joe Sabino",
+    "Jon Moisan",
+    "Juan Vlasco",
+    "Kaare Andrews",
+    "Mark Paniccia",
+    "Marte Gracia",
+    "Nick Spencer",
+    "Paco Medina",
+    "Sana Amanat"
+  ],
+  "publish_date": "2011-10-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/18/a416fcbb0b9a47ceaca46b0993c0b4b4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151903/",
+  "fetched_at": "2026-04-23T19:17:56.843Z",
+  "reviewed_at": null
+}

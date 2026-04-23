@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960602461245711",
+  "title": "The Uncanny X-Men #457",
+  "authors": [
+    "Alan Davis",
+    "Chris Claremont",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Dean White",
+    "Joe Quesada",
+    "Mark Farmer",
+    "Mike Marts",
+    "Nick Lowe",
+    "Sean Ryan"
+  ],
+  "publish_date": "2005-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/18/uncanny-xmen-v1-457.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21199/",
+  "fetched_at": "2026-04-23T18:29:51.830Z",
+  "reviewed_at": "2005-05-01"
+}

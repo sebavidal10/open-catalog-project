@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601772007911",
+  "title": "X-Men #79",
+  "authors": [
+    "Albert Deschesne",
+    "Bob Harras",
+    "Chris Sotomayor",
+    "Germán García",
+    "Jaime Mendoza",
+    "Joe Kelly",
+    "Jon Holdredge",
+    "Liquid!",
+    "Mark Powers",
+    "Marlo Alquiza"
+  ],
+  "publish_date": "1998-07-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-79.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23559/",
+  "fetched_at": "2026-04-23T17:54:36.724Z",
+  "reviewed_at": null
+}

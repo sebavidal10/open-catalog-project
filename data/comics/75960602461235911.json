@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960602461235911",
+  "title": "The Uncanny X-Men #359",
+  "authors": [
+    "Bob Harras",
+    "Chris Bachalo",
+    "Comicraft",
+    "Dan Buckley",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Jon Holdredge",
+    "Mark Powers",
+    "Richard Starkings",
+    "Ryan Benjamin",
+    "Scott Hanna",
+    "Shannon Blanchard",
+    "Steve Seagle",
+    "Tim Townsend"
+  ],
+  "publish_date": "1998-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/16/uncanny-xmen-v1-359.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21092/",
+  "fetched_at": "2026-04-23T17:54:28.871Z",
+  "reviewed_at": "1998-09-01"
+}

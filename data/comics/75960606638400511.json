@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960606638400511",
+  "title": "X-Men Forever #5",
+  "authors": [
+    "Alan Fine",
+    "Anthony Dial",
+    "Charlie Beckerman",
+    "Chris Claremont",
+    "Christina Strain",
+    "Cory Hamscher",
+    "Dan Buckley",
+    "Dave Cockrum",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Mark Paniccia",
+    "Moose Baumann",
+    "Terry Austin",
+    "Tom Grummett",
+    "Tom Orzechowski",
+    "Wil Quintana"
+  ],
+  "publish_date": "2009-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/17/4245cffd2e444cd09b9a94c5045ef71f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151758/",
+  "fetched_at": "2026-04-23T19:02:39.089Z",
+  "reviewed_at": "2009-10-01"
+}

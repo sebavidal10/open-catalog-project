@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "596060633801211",
+  "title": "Young X-Men #12",
+  "authors": [
+    "Alan Fine",
+    "Brian Reber",
+    "Dan Buckley",
+    "Daniel Acuña",
+    "Daniel Ketchum",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Marc Guggenheim",
+    "Nick Lowe",
+    "Pasqual Ferry",
+    "Rafa Sandoval",
+    "Roger Bonet",
+    "Tom Van Cise",
+    "Ulises Arreola"
+  ],
+  "publish_date": "2009-03-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/26/young-x-men-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27986/",
+  "fetched_at": "2026-04-23T18:59:50.005Z",
+  "reviewed_at": null
+}

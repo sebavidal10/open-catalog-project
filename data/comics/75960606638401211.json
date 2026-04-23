@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960606638401211",
+  "title": "X-Men Forever #12",
+  "authors": [
+    "Alan Fine",
+    "Charlie Beckerman",
+    "Chris Claremont",
+    "Cory Hamscher",
+    "Damien Lucchese",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Michael Horwitz",
+    "Terry Austin",
+    "Tom Grummett",
+    "Tom Orzechowski",
+    "Wil Quintana"
+  ],
+  "publish_date": "2009-11-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/17/3cca1057472f44d199b3055b8f23d713.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151765/",
+  "fetched_at": "2026-04-23T19:04:23.465Z",
+  "reviewed_at": null
+}

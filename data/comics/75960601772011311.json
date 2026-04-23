@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960601772011311",
+  "title": "X-Men #113",
+  "authors": [
+    "Bill Jemas",
+    "Dexter Vines",
+    "Edgar Tadeo",
+    "Gerry Alanguilan",
+    "Joe Quesada",
+    "Leinil Francis Yu",
+    "Liquid!",
+    "Mark Powers",
+    "Pete Franco",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Scott Lobdell"
+  ],
+  "publish_date": "2001-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-113.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23594/",
+  "fetched_at": "2026-04-23T18:06:39.301Z",
+  "reviewed_at": "2001-06-01"
+}

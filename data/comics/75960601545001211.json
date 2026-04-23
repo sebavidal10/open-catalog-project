@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601545001211",
+  "title": "X-Men 2099 #12",
+  "authors": [
+    "Harry Candelario",
+    "Joey Cavalieri",
+    "John Francis Moore",
+    "Ken Lopez",
+    "Lia Pelosi",
+    "Ron Lim",
+    "Tom DeFalco",
+    "Tom Smith"
+  ],
+  "publish_date": "1994-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/04/X-Men_2099_-_120001.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130752/",
+  "fetched_at": "2026-04-23T17:37:54.184Z",
+  "reviewed_at": "1994-09-01"
+}

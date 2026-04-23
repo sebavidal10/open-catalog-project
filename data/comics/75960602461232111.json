@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960602461232111",
+  "title": "The Uncanny X-Men #321",
+  "authors": [
+    "Ben Raab",
+    "Bob Harras",
+    "Chris Eliopoulos",
+    "Dan Green",
+    "Dan Panosian",
+    "Ian Churchill",
+    "Joe Rubinstein",
+    "Mark Waid",
+    "Roger Cruz",
+    "Ron Garney",
+    "Scott Lobdell",
+    "Steve Buccellato",
+    "Tim Townsend"
+  ],
+  "publish_date": "1995-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/16/uncanny-xmen-v1-321.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21054/",
+  "fetched_at": "2026-04-23T17:39:44.668Z",
+  "reviewed_at": "1995-02-01"
+}

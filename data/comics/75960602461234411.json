@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960602461234411",
+  "title": "The Uncanny X-Men #344",
+  "authors": [
+    "Bob Harras",
+    "Harry Candelario",
+    "Jason Liebig",
+    "Joe Madureira",
+    "Joe Weems",
+    "Mark Powers",
+    "Marlo Alquiza",
+    "Mel Rubi",
+    "Richard Starkings",
+    "Scott Hanna",
+    "Scott Lobdell",
+    "Steve Buccellato",
+    "Tim Townsend"
+  ],
+  "publish_date": "1997-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/16/uncanny-xmen-v1-344.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21077/",
+  "fetched_at": "2026-04-23T17:50:26.811Z",
+  "reviewed_at": "1997-05-01"
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605544900611",
+  "title": "New X-Men #6",
+  "authors": [
+    "Christina Weir",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Michael Ryan",
+    "Mike Marts",
+    "Nunzio DeFilippis",
+    "Peter Pantazis",
+    "Randy Green",
+    "Rick Ketcham",
+    "Sean Ryan",
+    "Stephanie Moore"
+  ],
+  "publish_date": "2004-10-20",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47649/",
+  "fetched_at": "2026-04-23T18:27:04.022Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960602461237011",
+  "title": "The Uncanny X-Men #370",
+  "authors": [
+    "Adam Kubert",
+    "Alan Davis",
+    "Albert Deschesne",
+    "Bob Harras",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Liquid!",
+    "Mark Powers",
+    "Richard Starkings",
+    "Terry Kavanagh",
+    "Tim Townsend"
+  ],
+  "publish_date": "1999-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/17/uncanny-xmen-v1-370.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21112/",
+  "fetched_at": "2026-04-23T17:57:25.096Z",
+  "reviewed_at": "1999-07-01"
+}

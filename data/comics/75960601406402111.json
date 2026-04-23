@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601406402111",
+  "title": "X-Men Unlimited #21",
+  "authors": [
+    "Andrew Hennessy",
+    "Andy Smith",
+    "Bob Harras",
+    "Comicraft",
+    "Felix Serrano",
+    "Frank Pittarese",
+    "Richard Starkings",
+    "Todd Dezago"
+  ],
+  "publish_date": "1998-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/03/X-Men_Unlimited_21_000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130494/",
+  "fetched_at": "2026-04-23T17:55:31.629Z",
+  "reviewed_at": "1998-12-01"
+}

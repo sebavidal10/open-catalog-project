@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960601772020411",
+  "title": "X-Men #204",
+  "authors": [
+    "Andrew Hennessy",
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Mike Carey",
+    "Mike Choi",
+    "Nick Lowe",
+    "Raúl Treviño",
+    "Scot Eaton",
+    "Sonia Oback",
+    "Will Panzo"
+  ],
+  "publish_date": "2007-10-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-v2-204.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27321/",
+  "fetched_at": "2026-04-23T18:49:17.117Z",
+  "reviewed_at": null
+}

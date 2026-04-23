@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960602461239611",
+  "title": "The Uncanny X-Men #396",
+  "authors": [
+    "Bill Jemas",
+    "Brian Miller",
+    "Dan Buckley",
+    "Ian Churchill",
+    "Joe Casey",
+    "Joe Quesada",
+    "Lary Stucker",
+    "Mark Powers",
+    "Norm Rapmund",
+    "Pete Franco",
+    "Richard Starkings",
+    "Saida Temofonte"
+  ],
+  "publish_date": "2001-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/17/uncanny-xmen-v1-396.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21138/",
+  "fetched_at": "2026-04-23T18:07:55.245Z",
+  "reviewed_at": "2001-09-01"
+}

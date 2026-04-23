@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960601772019011",
+  "title": "X-Men #190",
+  "authors": [
+    "Al Vey",
+    "Antonio Fabela",
+    "Chris Bachalo",
+    "Cory Petit",
+    "Dan Buckley",
+    "Jaime Mendoza",
+    "Joe Quesada",
+    "Jonathan Sibal",
+    "Mike Carey",
+    "Mike Marts",
+    "Nick Lowe",
+    "Sean Ryan",
+    "Tim Townsend",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2006-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-v2-190.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27307/",
+  "fetched_at": "2026-04-23T18:41:34.023Z",
+  "reviewed_at": "2006-10-01"
+}

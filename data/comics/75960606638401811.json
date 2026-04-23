@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960606638401811",
+  "title": "X-Men Forever #18",
+  "authors": [
+    "Alan Fine",
+    "Charlie Beckerman",
+    "Chris Claremont",
+    "Cory Hamscher",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Michael Horwitz",
+    "Morry Hollowell",
+    "Taylor Esposito",
+    "Terry Austin",
+    "Tom Grummett",
+    "Tom Orzechowski",
+    "Wil Quintana"
+  ],
+  "publish_date": "2010-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/17/af746b48c1b2457697d6ed9f54ac16af.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151771/",
+  "fetched_at": "2026-04-23T19:06:23.927Z",
+  "reviewed_at": "2010-04-01"
+}

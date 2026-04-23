@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960602461231711",
+  "title": "The Uncanny X-Men #317",
+  "authors": [
+    "Ben Raab",
+    "Bob Harras",
+    "Chris Eliopoulos",
+    "Dan Green",
+    "Joe Madureira",
+    "Scott Lobdell",
+    "Steve Buccellato",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1994-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/16/uncanny-xmen-v1-317.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21050/",
+  "fetched_at": "2026-04-23T17:38:10.993Z",
+  "reviewed_at": "1994-10-01"
+}

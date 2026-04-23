@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605544902611",
+  "title": "New X-Men #26",
+  "authors": [
+    "Brian Reber",
+    "Christopher Yost",
+    "Craig Kyle",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Juan Vlasco",
+    "Mike Marts",
+    "Nick Lowe",
+    "Paco Medina",
+    "Sean Ryan"
+  ],
+  "publish_date": "2006-05-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47669/",
+  "fetched_at": "2026-04-23T18:39:14.526Z",
+  "reviewed_at": null
+}

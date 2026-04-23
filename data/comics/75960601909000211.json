@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960601909000211",
+  "title": "The X-Men Annual #2",
+  "authors": [
+    "Al Milgrom",
+    "Aron Wiesenfeld",
+    "Bob Harras",
+    "Bob Wiacek",
+    "Dana Moreshead",
+    "Dave Sharpe",
+    "Fabian Nicieza",
+    "George Roussos",
+    "Ian Churchill",
+    "Keith Williams",
+    "Kevin Conrad Hanna",
+    "Mike Thomas",
+    "Scott Lobdell",
+    "Steve Dutro",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1993-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/22/xmen-annual-v2-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23596/",
+  "fetched_at": "2026-04-23T17:33:40.105Z",
+  "reviewed_at": "1993-10-01"
+}

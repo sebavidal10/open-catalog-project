@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605780100211",
+  "title": "X-Men: Phoenix - Warsong #2",
+  "authors": [
+    "Andy Schmidt",
+    "Dan Buckley",
+    "Greg Pak",
+    "Joe Quesada",
+    "John Starr",
+    "Marc Silvestri",
+    "Mike Marts",
+    "Rob Levin",
+    "Sal Regla",
+    "Sean Ryan",
+    "Troy Peteri",
+    "Tyler Kirkham"
+  ],
+  "publish_date": "2006-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/02/x-men-phoenix-warsong-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30082/",
+  "fetched_at": "2026-04-23T18:42:56.357Z",
+  "reviewed_at": "2006-12-01"
+}

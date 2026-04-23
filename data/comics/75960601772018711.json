@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960601772018711",
+  "title": "X-Men #187",
+  "authors": [
+    "Cory Petit",
+    "Dan Buckley",
+    "David Hahn",
+    "Jason Keith",
+    "Joe Quesada",
+    "Karl Kesel",
+    "Mike Marts",
+    "Nick Lowe",
+    "Nicole Wiley Boose",
+    "Peter Milligan",
+    "Peter Pantazis",
+    "Rus Wooton",
+    "Salvador Larroca",
+    "Sean Ryan"
+  ],
+  "publish_date": "2006-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-v2-187.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27304/",
+  "fetched_at": "2026-04-23T18:40:11.923Z",
+  "reviewed_at": "2006-08-01"
+}

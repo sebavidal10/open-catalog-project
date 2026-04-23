@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "75960604799400311",
+  "title": "X-Men The Hidden Years #3",
+  "authors": [
+    "Bob Harras",
+    "Gregory Wright",
+    "Jason Liebig",
+    "John Byrne",
+    "Tom Palmer"
+  ],
+  "publish_date": "2000-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/04/x-men-the-hidden-years-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/31689/",
+  "fetched_at": "2026-04-23T17:59:51.015Z",
+  "reviewed_at": "2000-02-01"
+}

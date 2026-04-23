@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960604799401511",
+  "title": "X-Men The Hidden Years #15",
+  "authors": [
+    "Gregory Wright",
+    "Jason Liebig",
+    "Joe Quesada",
+    "John Byrne",
+    "Lysa Hawkins",
+    "Tom Palmer"
+  ],
+  "publish_date": "2001-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/04/x-men-the-hidden-years-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/31701/",
+  "fetched_at": "2026-04-23T18:04:47.317Z",
+  "reviewed_at": "2001-02-01"
+}

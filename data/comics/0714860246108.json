@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "0714860246108",
+  "title": "The X-Men #100",
+  "authors": [
+    "Annette Kawecki",
+    "Bonnie Wilford",
+    "Chris Claremont",
+    "Dave Cockrum",
+    "Marv Wolfman"
+  ],
+  "publish_date": "1976-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/10/10/xmen-v1-100.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17858/",
+  "fetched_at": "2026-04-23T17:00:53.170Z",
+  "reviewed_at": "1976-08-01"
+}

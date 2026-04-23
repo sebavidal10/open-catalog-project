@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960602430809511",
+  "title": "X-Men Classic #95",
+  "authors": [
+    "Ann Nocenti",
+    "Chris Claremont",
+    "Dan Green",
+    "Glynis Oliver",
+    "Hilary Barta",
+    "Jaye Gardner",
+    "John Romita Jr.",
+    "Tom Orzechowski",
+    "Tom Raney"
+  ],
+  "publish_date": "1994-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/09/02/aada3d17f4a5498d8452cd8868f57bb9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/127071/",
+  "fetched_at": "2026-04-23T17:36:29.310Z",
+  "reviewed_at": "1994-05-01"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601772016111",
+  "title": "X-Men #161",
+  "authors": [
+    "Chuck Austen",
+    "Dan Buckley",
+    "Danny Miki",
+    "Joe Quesada",
+    "Liquid!",
+    "Mike Marts",
+    "Rus Wooton",
+    "Salvador Larroca",
+    "Sean Ryan",
+    "Stephanie Moore"
+  ],
+  "publish_date": "2004-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-2-161.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27278/",
+  "fetched_at": "2026-04-23T18:26:47.347Z",
+  "reviewed_at": "2004-11-01"
+}

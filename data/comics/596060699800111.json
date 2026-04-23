@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "596060699800111",
+  "title": "Dark X-Men #1",
+  "authors": [
+    "Alan Fine",
+    "Anthony Dial",
+    "Axel Alonso",
+    "Brian Reber",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Duane Swierczynski",
+    "Jay Leisten",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Leonard Kirk",
+    "Matt Hollingsworth",
+    "Nick Lowe",
+    "Paul Cornell",
+    "Rob Steen",
+    "Sebastian Girner",
+    "Simone Bianchi",
+    "Simone Peruzzi",
+    "Steve Dillon"
+  ],
+  "publish_date": "2009-11-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/22/dark-x-men-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27732/",
+  "fetched_at": "2026-04-23T19:04:07.335Z",
+  "reviewed_at": null
+}

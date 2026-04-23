@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604763500111",
+  "title": "X-Men 1999 #1",
+  "authors": [
+    "Adam Kubert",
+    "Alan Davis",
+    "Bob Harras",
+    "Bob Wiacek",
+    "Joe Rosas",
+    "Mark Powers",
+    "Rick Leonardi",
+    "Terry Kavanagh",
+    "Tim Townsend"
+  ],
+  "publish_date": "1999-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/22/xmen-1999-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23599/",
+  "fetched_at": "2026-04-23T17:57:45.231Z",
+  "reviewed_at": "1999-08-01"
+}

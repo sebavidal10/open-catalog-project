@@ -30,6 +30,36 @@ if (!fs.existsSync(LOGS_DIR)) {
   fs.mkdirSync(LOGS_DIR, { recursive: true });
 }
 
+function updateReviewedAtForRange(searchTerm, year, month) {
+  const files = fs.readdirSync(DATA_DIR).filter((f) => f.endsWith('.json'));
+  const searchLower = searchTerm.toLowerCase();
+  const targetDate = `${year}-${month.toString().padStart(2, '0')}`;
+
+  for (const file of files) {
+    try {
+      const filePath = path.join(DATA_DIR, file);
+      const content = fs.readFileSync(filePath, 'utf-8');
+      const comic = JSON.parse(content);
+
+      const titleMatch =
+        comic.title && comic.title.toLowerCase().includes(searchLower);
+      const subjectsMatch =
+        comic.subjects &&
+        comic.subjects.some((s) => s.toLowerCase().includes(searchLower));
+
+      if ((titleMatch || subjectsMatch) && !comic.reviewed_at) {
+        const publishDate = comic.publish_date;
+        if (publishDate && publishDate.startsWith(targetDate.substring(0, 7))) {
+          comic.reviewed_at = targetDate + '-01';
+          fs.writeFileSync(filePath, JSON.stringify(comic, null, 2));
+        }
+      }
+    } catch (e) {
+      // Skip invalid files
+    }
+  }
+}
+
 function getLastProcessedForCharacter(searchTerm) {
   const files = fs.readdirSync(DATA_DIR).filter((f) => f.endsWith('.json'));
 
@@ -49,11 +79,12 @@ function getLastProcessedForCharacter(searchTerm) {
         comic.subjects &&
         comic.subjects.some((s) => s.toLowerCase().includes(searchLower));
 
-      if (titleMatch || subjectsMatch) {
-        const date = comic.publish_date;
-        if (date && date.length >= 7) {
-          const year = parseInt(date.substring(0, 4), 10);
-          const month = parseInt(date.substring(5, 7), 10);
+      if ((titleMatch || subjectsMatch)) {
+        const reviewedAt = comic.reviewed_at;
+        
+        if (reviewedAt && reviewedAt.length >= 7) {
+          const year = parseInt(reviewedAt.substring(0, 4), 10);
+          const month = parseInt(reviewedAt.substring(5, 7), 10);
 
           if (year > lastYear || (year === lastYear && month > lastMonth)) {
             lastYear = year;
@@ -69,77 +100,112 @@ function getLastProcessedForCharacter(searchTerm) {
   return { year: lastYear, month: lastMonth };
 }
 
-async function fetchForCharacter(searchTerm, fromYear, fromMonth, toYear, toMonth) {
-  console.log(`\n▶ Processing: "${searchTerm}" (from ${fromYear}/${fromMonth})`);
+async function fetchForCharacter(
+  searchTerm,
+  fromYear,
+  fromMonth,
+  toYear,
+  toMonth,
+) {
+  console.log(
+    `\n▶ Processing: "${searchTerm}" (from ${fromYear}/${fromMonth})`,
+  );
 
   let totalSaved = 0;
   let currentYear = fromYear;
-  let currentMonth = fromMonth;
 
-  while (
-    currentYear < toYear ||
-    (currentYear === toYear && currentMonth <= toMonth)
-  ) {
-    if (currentMonth > 12) {
-      currentMonth = 1;
+  while (currentYear <= toYear) {
+    const lastMonthForYear = currentYear === toYear ? toMonth : 12;
+    const startMonthForYear = currentYear === fromYear ? fromMonth : 1;
+
+    const paramsCheck = new URLSearchParams();
+    paramsCheck.set('series_name', searchTerm);
+    paramsCheck.set('cover_year', currentYear.toString());
+    const endpointCheck = `/issue/?${paramsCheck.toString()}`;
+
+    let hasAnyInYear = false;
+    try {
+      const responseCheck = await fetchMetronData(endpointCheck);
+      hasAnyInYear = (responseCheck.results || []).length > 0;
+    } catch (e) {}
+
+    if (!hasAnyInYear) {
+      console.log(`  ${currentYear}: no comics, skipping year`);
       currentYear++;
+      continue;
     }
 
-    if (currentYear > toYear) break;
+    console.log(`  ${currentYear}: processing...`);
 
-    const params = new URLSearchParams();
-    params.set('series_name', searchTerm);
-    params.set('cover_year', currentYear.toString());
-    params.set('cover_month', currentMonth.toString());
+    let currentMonth = startMonthForYear;
+    while (currentMonth <= lastMonthForYear) {
+      const params = new URLSearchParams();
+      params.set('series_name', searchTerm);
+      params.set('cover_year', currentYear.toString());
+      params.set('cover_month', currentMonth.toString());
 
-    const endpoint = `/issue/?${params.toString()}`;
+      const endpoint = `/issue/?${params.toString()}`;
 
-    try {
-      const response = await fetchMetronData(endpoint);
-      const issues = response.results || [];
+      try {
+        const response = await fetchMetronData(endpoint);
+        const issues = response.results || [];
 
-      console.log(
-        `  ${currentYear}-${currentMonth.toString().padStart(2, '0')}: ${issues.length} found`,
-      );
+        if (issues.length === 0) {
+          currentMonth++;
+          await new Promise((resolve) => setTimeout(resolve, RATE_LIMIT_MS));
+          continue;
+        }
 
-      let saved = 0;
-      for (const issueSummary of issues) {
-        const apiId = issueSummary.id;
+        console.log(
+          `    ${currentYear}-${currentMonth.toString().padStart(2, '0')}: ${issues.length} found`,
+        );
 
-        try {
-          const fullData = await fetchMetronData(`/issue/${apiId}/`);
-          const identifier =
-            fullData.upc || fullData.isbn || `metron-${apiId}`;
-          const filePath = path.join(DATA_DIR, `${identifier}.json`);
+        let saved = 0;
+        for (const issueSummary of issues) {
+          const apiId = issueSummary.id;
 
-          if (fs.existsSync(filePath)) {
+          try {
+            const fullData = await fetchMetronData(`/issue/${apiId}/`);
+            const identifier = fullData.upc || fullData.isbn || `metron-${apiId}`;
+            const filePath = path.join(DATA_DIR, `${identifier}.json`);
+
+            if (fs.existsSync(filePath)) {
+              continue;
+            }
+
+const cleanedData = cleanComicData(fullData);
+          
+          if (!cleanedData) {
             continue;
           }
 
-          const cleanedData = cleanComicData(fullData);
           fs.writeFileSync(filePath, JSON.stringify(cleanedData, null, 2));
-          saved++;
-          totalSaved++;
+            saved++;
+            totalSaved++;
 
-          await new Promise((resolve) => setTimeout(resolve, RATE_LIMIT_MS));
-        } catch (error) {
-          if (error.message.includes('429')) {
-            console.log('  Rate limited, waiting 5s...');
-            await new Promise((resolve) => setTimeout(resolve, 5000));
+            await new Promise((resolve) => setTimeout(resolve, RATE_LIMIT_MS));
+          } catch (error) {
+            if (error.message.includes('429')) {
+              console.log('      Rate limited, waiting 5s...');
+              await new Promise((resolve) => setTimeout(resolve, 5000));
+            }
           }
         }
+
+        console.log(`      → ${saved} new comics saved`);
+
+        if (saved > 0) {
+          updateReviewedAtForRange(searchTerm, currentYear, currentMonth);
+        }
+      } catch (error) {
+        console.log(`    ${currentYear}-${currentMonth}: ERROR - ${error.message}`);
       }
 
-      console.log(`    → ${saved} new comics saved`);
-    } catch (error) {
-      console.log(
-        `  ${currentYear}-${currentMonth}: ERROR - ${error.message}`,
-      );
+      currentMonth++;
+      await new Promise((resolve) => setTimeout(resolve, RATE_LIMIT_MS));
     }
 
-    currentMonth++;
-
-    await new Promise((resolve) => setTimeout(resolve, RATE_LIMIT_MS));
+    currentYear++;
   }
 
   console.log(`✓ Done: "${searchTerm}" - ${totalSaved} total new comics`);
@@ -184,7 +250,13 @@ async function main() {
     console.log(`Starting from: ${fromYear}/${fromMonth}`);
     console.log(`Target: ${endYear}/${endMonth}`);
 
-    await fetchForCharacter(char.search, fromYear, fromMonth, endYear, endMonth);
+    await fetchForCharacter(
+      char.search,
+      fromYear,
+      fromMonth,
+      endYear,
+      endMonth,
+    );
   }
 
   console.log('\n' + '='.repeat(50));

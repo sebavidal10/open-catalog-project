@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605507400411",
+  "title": "X-Men Unlimited #4",
+  "authors": [
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Don Hillsman",
+    "Greg Tocchini",
+    "Joe Quesada",
+    "Mike Marts",
+    "Pat Lee",
+    "Stephanie Moore",
+    "Ted Naifeh",
+    "Tim Townsend",
+    "Travel Foreman"
+  ],
+  "publish_date": "2004-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/11/X-Men_Unlimited_004-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131421/",
+  "fetched_at": "2026-04-23T18:26:17.807Z",
+  "reviewed_at": "2004-10-01"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601545000211",
+  "title": "X-Men 2099 #2",
+  "authors": [
+    "Adam Kubert",
+    "Joey Cavalieri",
+    "John Francis Moore",
+    "Ken Lopez",
+    "Mike Sellers",
+    "Ron Lim",
+    "Tom DeFalco",
+    "Tom Smith"
+  ],
+  "publish_date": "1993-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/04/X-Men_2099_002-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130737/",
+  "fetched_at": "2026-04-23T17:34:02.844Z",
+  "reviewed_at": "1993-11-01"
+}

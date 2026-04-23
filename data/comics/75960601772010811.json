@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960601772010811",
+  "title": "X-Men #108",
+  "authors": [
+    "Brett Booth",
+    "Chris Claremont",
+    "Comicraft",
+    "Joe Quesada",
+    "Leinil Francis Yu",
+    "Liquid!",
+    "Mark Morales",
+    "Mark Powers",
+    "Pete Franco",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Scott Elmer"
+  ],
+  "publish_date": "2001-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-108.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23589/",
+  "fetched_at": "2026-04-23T18:04:05.821Z",
+  "reviewed_at": "2001-01-01"
+}

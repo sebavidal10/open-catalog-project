@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960602461234811",
+  "title": "The Uncanny X-Men #348",
+  "authors": [
+    "Al Vey",
+    "Bob Harras",
+    "Digital Chameleon",
+    "Joe Madureira",
+    "Jon Holdredge",
+    "Kolja Fuchs",
+    "Mark Powers",
+    "Richard Starkings",
+    "Scott Lobdell",
+    "Tim Townsend"
+  ],
+  "publish_date": "1997-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/16/uncanny-xmen-v1-348.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21081/",
+  "fetched_at": "2026-04-23T17:51:38.079Z",
+  "reviewed_at": "1997-10-01"
+}

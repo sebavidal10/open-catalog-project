@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060633800111",
+  "title": "Young X-Men #1",
+  "authors": [
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Marc Guggenheim",
+    "Nick Lowe",
+    "Rachel Dodson",
+    "Ray Snyder",
+    "Rob Schwager",
+    "Terry Dodson",
+    "Yanick Paquette"
+  ],
+  "publish_date": "2008-04-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/26/young-x-men-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27975/",
+  "fetched_at": "2026-04-23T18:51:55.070Z",
+  "reviewed_at": "2008-04-01"
+}

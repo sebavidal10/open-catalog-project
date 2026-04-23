@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960605047508311",
+  "title": "Ultimate X-Men #83",
+  "authors": [
+    "Allen Martinez",
+    "Dan Buckley",
+    "Danny Miki",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Barber",
+    "José Villarrubia",
+    "Pascal Alixe",
+    "Ralph Macchio",
+    "Robert Kirkman",
+    "Serge LaPointe",
+    "Stephane Peru",
+    "Victor Olazaba",
+    "Yanick Paquette"
+  ],
+  "publish_date": "2007-06-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/08/28/ec3ef61ec1e4444d876ae399f4b1b649.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/74309/",
+  "fetched_at": "2026-04-23T18:46:57.445Z",
+  "reviewed_at": null
+}

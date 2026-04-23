@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960602461238611",
+  "title": "The Uncanny X-Men #386",
+  "authors": [
+    "Adam Kubert",
+    "Bob Harras",
+    "Chris Claremont",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Mark Powers",
+    "Norm Rapmund",
+    "Richard Isanove",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Tom Derenick"
+  ],
+  "publish_date": "2000-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/17/uncanny-xmen-v1-386.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21128/",
+  "fetched_at": "2026-04-23T18:03:17.791Z",
+  "reviewed_at": "2000-11-01"
+}

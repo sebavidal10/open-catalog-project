@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960606041200211",
+  "title": "X-Men: First Class #2",
+  "authors": [
+    "Dan Buckley",
+    "Jeff Parker",
+    "Joe Quesada",
+    "Marko Djurdjević",
+    "Mark Paniccia",
+    "Nate Piekos",
+    "Nathan Cosby",
+    "Rich Ginter",
+    "Roger Cruz",
+    "Val Staples",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2006-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/10/21/X-Men_-_First_Class_002-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/129607/",
+  "fetched_at": "2026-04-23T18:42:49.390Z",
+  "reviewed_at": "2006-12-01"
+}

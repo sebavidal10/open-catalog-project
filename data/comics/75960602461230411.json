@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960602461230411",
+  "title": "The Uncanny X-Men #304",
+  "authors": [
+    "Bob Harras",
+    "Brandon Peterson",
+    "Chris Eliopoulos",
+    "Chris Sprouse",
+    "Dan Green",
+    "Dan Panosian",
+    "Jae Lee",
+    "John Romita Jr.",
+    "Keith Williams",
+    "Lisa Patrick",
+    "Mike Thomas",
+    "Paul Smith",
+    "Scott Lobdell",
+    "Terry Austin",
+    "Tom DeFalco",
+    "Tom Palmer"
+  ],
+  "publish_date": "1993-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/15/uncanny-xmen-v1-304.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21037/",
+  "fetched_at": "2026-04-23T17:33:03.253Z",
+  "reviewed_at": "1993-09-01"
+}

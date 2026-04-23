@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605109004511",
+  "title": "X-Treme X-Men #45",
+  "authors": [
+    "Andrew Pepoy",
+    "Chris Claremont",
+    "Cory Sedlmeier",
+    "Dan Buckley",
+    "Igor Kordey",
+    "Joe Quesada",
+    "Liquid!",
+    "Mike Marts",
+    "Norm Rapmund",
+    "Rus Wooton",
+    "Salvador Larroca",
+    "Stephanie Moore"
+  ],
+  "publish_date": "2004-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/12/x-treme-x-men-45.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39460/",
+  "fetched_at": "2026-04-23T18:24:10.829Z",
+  "reviewed_at": "2004-06-01"
+}

@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960601772018111",
+  "title": "X-Men #181",
+  "authors": [
+    "Chris Eliopoulos",
+    "Chris Sotomayor",
+    "Cory Petit",
+    "Dan Buckley",
+    "Don Hillsman",
+    "Gurihiru",
+    "Joe Quesada",
+    "MacKenzie Cadenhead",
+    "Marc Sumerak",
+    "Mark Paniccia",
+    "Mike Marts",
+    "Nathan Cosby",
+    "Nick Lowe",
+    "Peter Milligan",
+    "Roger Cruz",
+    "Salvador Larroca",
+    "Sean Ryan",
+    "Tom Valente",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2006-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-v2-181.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27298/",
+  "fetched_at": "2026-04-23T18:37:02.530Z",
+  "reviewed_at": "2006-03-01"
+}

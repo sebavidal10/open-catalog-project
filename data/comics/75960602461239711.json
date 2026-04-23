@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960602461239711",
+  "title": "The Uncanny X-Men #397",
+  "authors": [
+    "Bill Jemas",
+    "Brian Miller",
+    "Dan Buckley",
+    "Danny Miki",
+    "Ian Churchill",
+    "Joe Casey",
+    "Joe Quesada",
+    "Mark Powers",
+    "Mel Rubi",
+    "Pete Franco",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Sean Phillips"
+  ],
+  "publish_date": "2001-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/17/uncanny-xmen-v1-397.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21139/",
+  "fetched_at": "2026-04-23T18:08:29.013Z",
+  "reviewed_at": "2001-10-01"
+}

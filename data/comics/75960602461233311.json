@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960602461233311",
+  "title": "The Uncanny X-Men #333",
+  "authors": [
+    "Ben Raab",
+    "Bob Harras",
+    "Chad Hunt",
+    "Lee Weeks",
+    "Mark Morales",
+    "Pasqual Ferry",
+    "Richard Starkings",
+    "Rob Hunter",
+    "Scott Lobdell",
+    "Steve Buccellato",
+    "Tim Townsend"
+  ],
+  "publish_date": "1996-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/16/uncanny-xmen-v1-333.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21066/",
+  "fetched_at": "2026-04-23T17:46:26.275Z",
+  "reviewed_at": "1996-06-01"
+}

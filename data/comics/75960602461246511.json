@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960602461246511",
+  "title": "The Uncanny X-Men #465",
+  "authors": [
+    "Al Vey",
+    "Chris Bachalo",
+    "Chris Claremont",
+    "Dan Buckley",
+    "Jaime Mendoza",
+    "Joe Quesada",
+    "Jon Holdredge",
+    "Mark Irwin",
+    "Mike Marts",
+    "Nick Lowe",
+    "Norm Rapmund",
+    "Sandu Florea",
+    "Sean Parsons",
+    "Sean Ryan",
+    "Studio F",
+    "Tim Townsend",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2005-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/18/uncanny-xmen-v1-465.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21207/",
+  "fetched_at": "2026-04-23T18:34:11.410Z",
+  "reviewed_at": "2005-12-01"
+}

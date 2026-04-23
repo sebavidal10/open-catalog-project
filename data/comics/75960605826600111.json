@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960605826600111",
+  "title": "X-Men: The 198 #1",
+  "authors": [
+    "David Hine",
+    "Jim Muñiz",
+    "Joe Quesada",
+    "Juan Doe",
+    "Kevin Conrad Hanna",
+    "Matt Milla",
+    "Mike Marts",
+    "Nick Lowe",
+    "Sean Ryan"
+  ],
+  "publish_date": "2006-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/10/X-Men_-_The_198_001-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131413/",
+  "fetched_at": "2026-04-23T18:37:15.760Z",
+  "reviewed_at": "2006-03-01"
+}

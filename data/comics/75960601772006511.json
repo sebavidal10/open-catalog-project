@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960601772006511",
+  "title": "X-Men #65",
+  "authors": [
+    "Aron Lusen",
+    "Art Thibert",
+    "Bob Harras",
+    "Carlos Pacheco",
+    "Chris Lichtner",
+    "Liquid!",
+    "Mark Powers",
+    "Richard Starkings",
+    "Scott Lobdell"
+  ],
+  "publish_date": "1997-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-65.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23544/",
+  "fetched_at": "2026-04-23T17:50:43.358Z",
+  "reviewed_at": "1997-06-01"
+}

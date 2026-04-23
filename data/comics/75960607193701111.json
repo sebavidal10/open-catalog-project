@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607193701111",
+  "title": "X-Men #11",
+  "authors": [
+    "Alan Fine",
+    "Al Barrionuevo",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "David López",
+    "David Yardin",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Michel Lacombe",
+    "Nick Lowe",
+    "Rain Beredo",
+    "Victor Gischler"
+  ],
+  "publish_date": "2011-05-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v3-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28028/",
+  "fetched_at": "2026-04-23T19:15:06.316Z",
+  "reviewed_at": null
+}

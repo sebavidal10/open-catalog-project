@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605826600311",
+  "title": "X-Men: The 198 #3",
+  "authors": [
+    "Dan Buckley",
+    "David Hine",
+    "Jim Muñiz",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Juan Doe",
+    "Kate Levin",
+    "Kevin Conrad Hanna",
+    "Matt Milla",
+    "Nick Lowe",
+    "Sean Ryan"
+  ],
+  "publish_date": "2006-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/10/X-Men_-_The_198_003-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131415/",
+  "fetched_at": "2026-04-23T18:38:29.444Z",
+  "reviewed_at": "2006-05-01"
+}

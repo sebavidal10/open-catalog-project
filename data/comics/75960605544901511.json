@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605544901511",
+  "title": "New X-Men #15",
+  "authors": [
+    "Christina Weir",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Juan Vlasco",
+    "Michael Ryan",
+    "Mike Marts",
+    "Nick Lowe",
+    "Nunzio DeFilippis",
+    "Paco Medina",
+    "Peter Pantazis",
+    "Rick Ketcham",
+    "Sean Ryan"
+  ],
+  "publish_date": "2005-06-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47658/",
+  "fetched_at": "2026-04-23T18:31:40.784Z",
+  "reviewed_at": null
+}

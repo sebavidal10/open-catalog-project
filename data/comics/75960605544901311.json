@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605544901311",
+  "title": "New X-Men #13",
+  "authors": [
+    "Christina Weir",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Michael Ryan",
+    "Mike Marts",
+    "Nick Lowe",
+    "Nunzio DeFilippis",
+    "Peter Pantazis",
+    "Rick Ketcham",
+    "Sean Ryan"
+  ],
+  "publish_date": "2005-05-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47656/",
+  "fetched_at": "2026-04-23T18:31:10.984Z",
+  "reviewed_at": null
+}

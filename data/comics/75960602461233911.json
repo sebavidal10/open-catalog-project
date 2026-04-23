@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960602461233911",
+  "title": "The Uncanny X-Men #339",
+  "authors": [
+    "Adam Kubert",
+    "Bob Harras",
+    "Cedric Nocon",
+    "Jason Liebig",
+    "Jesse Delperdang",
+    "Mark Powers",
+    "Richard Starkings",
+    "Scott Hanna",
+    "Scott Lobdell",
+    "Steve Buccellato"
+  ],
+  "publish_date": "1996-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/16/uncanny-xmen-v1-339.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21072/",
+  "fetched_at": "2026-04-23T17:48:51.440Z",
+  "reviewed_at": "1996-12-01"
+}

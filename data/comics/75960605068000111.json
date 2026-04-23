@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605068000111",
+  "title": "The Sentry / X-Men #1",
+  "authors": [
+    "Comicraft",
+    "Joe Quesada",
+    "John G Roshell",
+    "José Villarrubia",
+    "Mark Texeira",
+    "Mike Marts",
+    "Mike Raicht",
+    "Paul Jenkins"
+  ],
+  "publish_date": "2001-01-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/10/11/image-0_KWn4i0Y.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/129129/",
+  "fetched_at": "2026-04-23T18:04:26.808Z",
+  "reviewed_at": null
+}

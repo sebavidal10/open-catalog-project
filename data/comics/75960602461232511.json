@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960602461232511",
+  "title": "The Uncanny X-Men #325",
+  "authors": [
+    "Ben Raab",
+    "Bob Harras",
+    "Comicraft",
+    "Joe Madureira",
+    "Matt Ryan",
+    "Richard Starkings",
+    "Scott Lobdell",
+    "Steve Buccellato",
+    "Tim Townsend"
+  ],
+  "publish_date": "1995-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/16/uncanny-xmen-v1-325.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21058/",
+  "fetched_at": "2026-04-23T17:43:04.136Z",
+  "reviewed_at": "1995-10-01"
+}

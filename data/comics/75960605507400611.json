@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960605507400611",
+  "title": "X-Men Unlimited #6",
+  "authors": [
+    "Alex Sanchez",
+    "Dave Meikis",
+    "Dave Sharpe",
+    "Jay Leisten",
+    "Pat Lee",
+    "Paul Pelletier",
+    "Tony Bedard"
+  ],
+  "publish_date": "2005-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/11/X-Men_Unlimited_006-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131423/",
+  "fetched_at": "2026-04-23T18:28:20.032Z",
+  "reviewed_at": "2005-02-01"
+}

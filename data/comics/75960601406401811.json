@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960601406401811",
+  "title": "X-Men Unlimited #18",
+  "authors": [
+    "Bill Rosemann",
+    "Frank Pittarese",
+    "Howard Porter",
+    "Howard Shum",
+    "John Dell",
+    "José Marzán Jr.",
+    "Jose Velasquez",
+    "Kelly Corvese",
+    "Marcelo Frusin",
+    "Martin Egeland",
+    "Shannon Blanchard",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1998-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/03/X-Men_-_Gambit_-_The_Complete_Collection_v01-004.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130491/",
+  "fetched_at": "2026-04-23T17:53:12.811Z",
+  "reviewed_at": "1998-04-01"
+}

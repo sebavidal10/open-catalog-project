@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960604472600111",
+  "title": "X-Men / Alpha Flight #1",
+  "authors": [
+    "Ben Raab",
+    "Bob Harras",
+    "Dennis Heisler",
+    "Jason Wright",
+    "John Cassaday",
+    "Mark Powers",
+    "Michael Heisler"
+  ],
+  "publish_date": "1998-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/07/23/07ab5375d11842cb843e977f5ea32fd7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/125193/",
+  "fetched_at": "2026-04-23T17:53:30.123Z",
+  "reviewed_at": "1998-05-01"
+}

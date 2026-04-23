@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "0714860246112",
+  "title": "The X-Men #102",
+  "authors": [
+    "Archie Goodwin",
+    "Bonnie Wilford",
+    "Chris Claremont",
+    "Dave Cockrum",
+    "John Costanza",
+    "Sam Grainger"
+  ],
+  "publish_date": "1976-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/10/10/xmen-v1-102.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17860/",
+  "fetched_at": "2026-04-23T17:01:21.433Z",
+  "reviewed_at": "1976-12-01"
+}

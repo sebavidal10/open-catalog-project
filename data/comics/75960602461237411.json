@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960602461237411",
+  "title": "The Uncanny X-Men #374",
+  "authors": [
+    "Adam Kubert",
+    "Alan Davis",
+    "Bob Harras",
+    "Dan Buckley",
+    "Jay Faerber",
+    "Joe Quesada",
+    "Liquid!",
+    "Mark Powers",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Scott Hanna",
+    "Tom Raney"
+  ],
+  "publish_date": "1999-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/17/uncanny-xmen-v1-374.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21116/",
+  "fetched_at": "2026-04-23T17:58:34.963Z",
+  "reviewed_at": "1999-11-01"
+}

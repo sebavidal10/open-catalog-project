@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601772016011",
+  "title": "X-Men #160",
+  "authors": [
+    "Chuck Austen",
+    "Dan Buckley",
+    "Danny Miki",
+    "Joe Quesada",
+    "Mike Marts",
+    "Rus Wooton",
+    "Salvador Larroca",
+    "Sean Ryan",
+    "Stephanie Moore",
+    "UDON"
+  ],
+  "publish_date": "2004-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-2-160.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27277/",
+  "fetched_at": "2026-04-23T18:26:13.507Z",
+  "reviewed_at": "2004-10-01"
+}

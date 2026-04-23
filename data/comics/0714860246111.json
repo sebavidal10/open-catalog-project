@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "0714860246111",
+  "title": "The X-Men #115",
+  "authors": [
+    "Chris Claremont",
+    "Françoise Mouly",
+    "Jim Shooter",
+    "John Byrne",
+    "Rick Parker",
+    "Roger Stern",
+    "Terry Austin"
+  ],
+  "publish_date": "1978-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/10/11/xmen-v1-115.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17873/",
+  "fetched_at": "2026-04-23T17:03:31.216Z",
+  "reviewed_at": "1978-11-01"
+}

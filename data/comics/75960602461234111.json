@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960602461234111",
+  "title": "The Uncanny X-Men #341",
+  "authors": [
+    "Bob Harras",
+    "Jason Liebig",
+    "Joe Madureira",
+    "Mark Powers",
+    "Richard Starkings",
+    "Scott Lobdell",
+    "Steve Buccellato",
+    "Tim Townsend"
+  ],
+  "publish_date": "1997-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/16/uncanny-xmen-v1-341.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21074/",
+  "fetched_at": "2026-04-23T17:49:35.942Z",
+  "reviewed_at": "1997-02-01"
+}

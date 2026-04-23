@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605109003011",
+  "title": "X-Treme X-Men #30",
+  "authors": [
+    "Annie Thornton",
+    "Bill Jemas",
+    "Chris Claremont",
+    "Igor Kordey",
+    "Joe Quesada",
+    "Liquid!",
+    "Mike Marts",
+    "Mike Raicht",
+    "Salvador Larroca",
+    "Scott Hanna",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "2003-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/12/x-treme-x-men-30.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39445/",
+  "fetched_at": "2026-04-23T18:20:02.488Z",
+  "reviewed_at": "2003-10-01"
+}

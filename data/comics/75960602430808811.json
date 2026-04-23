@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960602430808811",
+  "title": "X-Men Classic #88",
+  "authors": [
+    "Ann Nocenti",
+    "Chris Claremont",
+    "Dan Green",
+    "Glynis Oliver",
+    "John Romita Jr.",
+    "Kelly Corvese",
+    "Paul Smith",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "1993-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/09/02/3a13c87329ef41c083f1b3b06639153e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/127064/",
+  "fetched_at": "2026-04-23T17:33:45.225Z",
+  "reviewed_at": "1993-10-01"
+}

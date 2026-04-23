@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605543200111",
+  "title": "Astonishing X-Men #1",
+  "authors": [
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Gabriele Dell'Otto",
+    "Joe Quesada",
+    "John Cassaday",
+    "Joss Whedon",
+    "Laura Martin",
+    "Mike Marts"
+  ],
+  "publish_date": "2004-05-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/26/astonishing-x-men-v3-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29822/",
+  "fetched_at": "2026-04-23T18:24:23.735Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960601772007411",
+  "title": "X-Men #74",
+  "authors": [
+    "Aron Lusen",
+    "Art Thibert",
+    "Bob Harras",
+    "Carlos Pacheco",
+    "Chris Lichtner",
+    "Emerson Miranda",
+    "Joe Kelly",
+    "Mark Powers",
+    "Mat Broome",
+    "Richard Starkings",
+    "Sean Parsons"
+  ],
+  "publish_date": "1998-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-74.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23554/",
+  "fetched_at": "2026-04-23T17:53:08.644Z",
+  "reviewed_at": "1998-04-01"
+}

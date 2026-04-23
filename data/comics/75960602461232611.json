@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960602461232611",
+  "title": "The Uncanny X-Men #326",
+  "authors": [
+    "Ben Raab",
+    "Bob Harras",
+    "Joe Madureira",
+    "Richard Starkings",
+    "Scott Lobdell",
+    "Steve Buccellato",
+    "Tim Townsend"
+  ],
+  "publish_date": "1995-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/16/uncanny-xmen-v1-326.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21059/",
+  "fetched_at": "2026-04-23T17:43:33.172Z",
+  "reviewed_at": "1995-11-01"
+}

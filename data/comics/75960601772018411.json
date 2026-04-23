@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960601772018411",
+  "title": "X-Men #184",
+  "authors": [
+    "Clayton Henry",
+    "Cory Petit",
+    "Dan Buckley",
+    "Jason Keith",
+    "Joe Quesada",
+    "Mark Morales",
+    "Mike Marts",
+    "Nick Lowe",
+    "Peter Milligan",
+    "Salvador Larroca",
+    "Sean Ryan",
+    "Wil Quintana"
+  ],
+  "publish_date": "2006-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-v2-184.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27301/",
+  "fetched_at": "2026-04-23T18:38:20.290Z",
+  "reviewed_at": "2006-05-01"
+}

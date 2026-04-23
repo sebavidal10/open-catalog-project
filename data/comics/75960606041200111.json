@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960606041200111",
+  "title": "X-Men: First Class #1",
+  "authors": [
+    "Dan Buckley",
+    "Jeff Parker",
+    "Joe Quesada",
+    "Marko Djurdjević",
+    "Mark Paniccia",
+    "Nate Piekos",
+    "Nathan Cosby",
+    "Roger Cruz",
+    "Val Staples",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2006-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/10/21/X-Men_-_First_Class_001-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/129606/",
+  "fetched_at": "2026-04-23T18:42:09.660Z",
+  "reviewed_at": "2006-11-01"
+}

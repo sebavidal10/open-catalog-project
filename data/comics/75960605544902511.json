@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960605544902511",
+  "title": "New X-Men #25",
+  "authors": [
+    "Brian Reber",
+    "Christopher Yost",
+    "Craig Kyle",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Jaime Mendoza",
+    "Joe Quesada",
+    "Juan Vlasco",
+    "Kate Levin",
+    "Mark Brooks",
+    "Mike Marts",
+    "Nick Lowe",
+    "Paco Medina",
+    "Sean Ryan"
+  ],
+  "publish_date": "2006-04-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47668/",
+  "fetched_at": "2026-04-23T18:38:44.227Z",
+  "reviewed_at": null
+}

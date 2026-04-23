@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605109002711",
+  "title": "X-Treme X-Men #27",
+  "authors": [
+    "Bill Jemas",
+    "Chris Claremont",
+    "Igor Kordey",
+    "Joe Quesada",
+    "Liquid!",
+    "Mike Raicht",
+    "Salvador Larroca",
+    "Scott Hanna",
+    "Stephanie Moore",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "2003-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/12/x-treme-x-men-27.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39442/",
+  "fetched_at": "2026-04-23T18:19:03.722Z",
+  "reviewed_at": "2003-08-01"
+}

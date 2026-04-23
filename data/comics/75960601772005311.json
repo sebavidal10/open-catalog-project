@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601772005311",
+  "title": "X-Men #53",
+  "authors": [
+    "Andy Kubert",
+    "Ben Raab",
+    "Bob Harras",
+    "Cam Smith",
+    "Joe Rosas",
+    "John Dell",
+    "Mark Waid",
+    "Richard Starkings"
+  ],
+  "publish_date": "1996-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-53.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23529/",
+  "fetched_at": "2026-04-23T17:46:30.435Z",
+  "reviewed_at": "1996-06-01"
+}

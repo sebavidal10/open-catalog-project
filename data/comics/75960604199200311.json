@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604199200311",
+  "title": "Astonishing X-Men #3",
+  "authors": [
+    "Al Milgrom",
+    "Bob Harras",
+    "Comicraft",
+    "Digital Chameleon",
+    "Jeph Loeb",
+    "Joe Madureira",
+    "Richard Starkings",
+    "Scott Lobdell",
+    "Steve Buccellato",
+    "Tim Townsend"
+  ],
+  "publish_date": "1995-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/26/astonishing-x-men-v1-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29817/",
+  "fetched_at": "2026-04-23T17:41:04.968Z",
+  "reviewed_at": "1995-05-01"
+}

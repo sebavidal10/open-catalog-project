@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960606638401311",
+  "title": "X-Men Forever #13",
+  "authors": [
+    "Chris Claremont",
+    "Cory Hamscher",
+    "Mark Paniccia",
+    "Terry Austin",
+    "Tom Grummett",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "2009-12-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/17/aa4404cd064a4b02ad95b438d9ce2ed1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151766/",
+  "fetched_at": "2026-04-23T19:05:10.477Z",
+  "reviewed_at": null
+}

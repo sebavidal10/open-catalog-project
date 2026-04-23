@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "0714860246109",
+  "title": "The X-Men #113",
+  "authors": [
+    "Annette Kawecki",
+    "Bob Layton",
+    "Chris Claremont",
+    "Glynis Oliver",
+    "Jim Shooter",
+    "John Byrne",
+    "Roger Stern",
+    "Terry Austin"
+  ],
+  "publish_date": "1978-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/10/11/xmen-v1-113.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17871/",
+  "fetched_at": "2026-04-23T17:03:16.942Z",
+  "reviewed_at": "1978-09-01"
+}

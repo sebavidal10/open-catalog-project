@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605010900111",
+  "title": "X-Men 2000 #1",
+  "authors": [
+    "Arthur Adams",
+    "Bob Harras",
+    "Brian Miller",
+    "Chris Claremont",
+    "Jon Babcock",
+    "Mark Powers",
+    "Scot Eaton",
+    "Scott Hanna"
+  ],
+  "publish_date": "2000-07-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/22/xmen-2000-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23600/",
+  "fetched_at": "2026-04-23T18:01:49.828Z",
+  "reviewed_at": "2000-07-01"
+}

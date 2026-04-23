@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960601772006111",
+  "title": "X-Men #61",
+  "authors": [
+    "Albert Deschesne",
+    "Bob Harras",
+    "Cedric Nocon",
+    "Chad Hunt",
+    "Chris Carlson",
+    "Jason Liebig",
+    "Joe Rosas",
+    "Mark Powers",
+    "Mike S. Miller",
+    "Richard Starkings",
+    "Scott Clark",
+    "Scott Lobdell"
+  ],
+  "publish_date": "1997-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-61.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23540/",
+  "fetched_at": "2026-04-23T17:49:39.935Z",
+  "reviewed_at": "1997-02-01"
+}

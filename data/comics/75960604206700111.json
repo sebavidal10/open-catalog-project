@@ -1,0 +1,40 @@
+{
+  "isbn": null,
+  "upc": "75960604206700111",
+  "title": "X-Men Chronicles #1",
+  "authors": [
+    "Bob Harras",
+    "Bob McLeod",
+    "Bryan Hitch",
+    "Cam Smith",
+    "Carlos Pacheco",
+    "Comicraft",
+    "Howard Mackie",
+    "Ian Churchill",
+    "Jae Lee",
+    "James Pascoe",
+    "Kelly Corvese",
+    "Kevin Conrad Hanna",
+    "Klaus Janson",
+    "Matt Ryan",
+    "Matt Webb",
+    "Paul Neary",
+    "Paul Smith",
+    "Richard Starkings",
+    "Terry Dodson",
+    "Tim Townsend",
+    "Tom Grummett",
+    "Tony Daniel",
+    "Val Semeiks"
+  ],
+  "publish_date": "1995-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/10/26/741396.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130055/",
+  "fetched_at": "2026-04-23T17:40:25.851Z",
+  "reviewed_at": "1995-03-01"
+}

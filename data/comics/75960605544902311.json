@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960605544902311",
+  "title": "New X-Men #23",
+  "authors": [
+    "Brian Reber",
+    "Christopher Yost",
+    "Craig Kyle",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Jaime Mendoza",
+    "Joe Quesada",
+    "Mark Brooks",
+    "Mike Marts",
+    "Nick Lowe",
+    "Paul Pelletier",
+    "Sean Ryan",
+    "Studio F",
+    "Tom Chu"
+  ],
+  "publish_date": "2006-02-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47666/",
+  "fetched_at": "2026-04-23T18:37:28.372Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960601772019811",
+  "title": "X-Men #198",
+  "authors": [
+    "Andy Schmidt",
+    "Antonio Fabela",
+    "Chris Bachalo",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Mike Carey",
+    "Sean Ryan",
+    "Tim Townsend"
+  ],
+  "publish_date": "2007-04-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-v2-198.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27315/",
+  "fetched_at": "2026-04-23T18:46:14.850Z",
+  "reviewed_at": null
+}

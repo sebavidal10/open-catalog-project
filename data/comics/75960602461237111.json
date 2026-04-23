@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960602461237111",
+  "title": "The Uncanny X-Men #371",
+  "authors": [
+    "Adam Kubert",
+    "Alan Davis",
+    "Bob Harras",
+    "Dan Buckley",
+    "Jim Cheung",
+    "Joe Quesada",
+    "Liquid!",
+    "Mark Morales",
+    "Mark Powers",
+    "Saida Temofonte",
+    "Terry Kavanagh",
+    "Tim Townsend"
+  ],
+  "publish_date": "1999-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/17/uncanny-xmen-v1-371.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21113/",
+  "fetched_at": "2026-04-23T17:57:37.414Z",
+  "reviewed_at": "1999-08-01"
+}

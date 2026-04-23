@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960605544904111",
+  "title": "New X-Men #41",
+  "authors": [
+    "Andrew Hennessy",
+    "Axel Alonso",
+    "Brad Johansen",
+    "Christopher Yost",
+    "Christos N. Gage",
+    "Craig Kyle",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Dave Sharpe",
+    "Jean-Francois Beaulieu",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Nick Lowe",
+    "Raúl Treviño",
+    "Scot Eaton",
+    "Skottie Young",
+    "Will Panzo"
+  ],
+  "publish_date": "2007-08-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-41.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47684/",
+  "fetched_at": "2026-04-23T18:48:03.759Z",
+  "reviewed_at": null
+}

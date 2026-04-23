@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960604272200611",
+  "title": "Professor Xavier and the X-Men #6",
+  "authors": [
+    "Fred Schiller",
+    "Jan Duursema",
+    "Jesse Delperdang",
+    "Jorge González",
+    "Kelly Corvese",
+    "Matt Webb",
+    "Richard Starkings"
+  ],
+  "publish_date": "1996-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/15/prof-x-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/122682/",
+  "fetched_at": "2026-04-23T17:45:32.845Z",
+  "reviewed_at": "1996-04-01"
+}

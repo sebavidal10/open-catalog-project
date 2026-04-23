@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960601772018511",
+  "title": "X-Men #185",
+  "authors": [
+    "Cory Petit",
+    "Dan Buckley",
+    "Dave Meikis",
+    "Jason Keith",
+    "Joe Quesada",
+    "Mike Marts",
+    "Nick Lowe",
+    "Paul Pelletier",
+    "Peter Milligan",
+    "Salvador Larroca",
+    "Sean Ryan",
+    "Wil Quintana"
+  ],
+  "publish_date": "2006-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-v2-185.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27302/",
+  "fetched_at": "2026-04-23T18:38:56.942Z",
+  "reviewed_at": "2006-06-01"
+}

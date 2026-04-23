@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601545001011",
+  "title": "X-Men 2099 #10",
+  "authors": [
+    "Greg Adams",
+    "Joey Cavalieri",
+    "John Francis Moore",
+    "Ken Lopez",
+    "Lia Pelosi",
+    "Mark McKenna",
+    "Ron Lim",
+    "Scott Koblish",
+    "Tom DeFalco",
+    "Tom Smith"
+  ],
+  "publish_date": "1994-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/04/X-Men_2099_-_100001.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130745/",
+  "fetched_at": "2026-04-23T17:37:15.420Z",
+  "reviewed_at": "1994-07-01"
+}

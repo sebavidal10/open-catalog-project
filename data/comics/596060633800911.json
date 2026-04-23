@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060633800911",
+  "title": "Young X-Men #9",
+  "authors": [
+    "Adi Granov",
+    "Chris Bachalo",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Dave Sharpe",
+    "Greg Adams",
+    "Irene Lee",
+    "Joe Quesada",
+    "José Villarrubia",
+    "Marc Guggenheim",
+    "Nick Lowe",
+    "Rafa Sandoval",
+    "Roger Martinez"
+  ],
+  "publish_date": "2009-01-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/26/young-x-men-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27983/",
+  "fetched_at": "2026-04-23T18:58:02.631Z",
+  "reviewed_at": null
+}

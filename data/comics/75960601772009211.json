@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960601772009211",
+  "title": "X-Men #92",
+  "authors": [
+    "Alan Davis",
+    "Andy Kubert",
+    "Bob Harras",
+    "Cam Smith",
+    "Comicraft",
+    "Jeff Johnson",
+    "Jesse Delperdang",
+    "Marie Javins",
+    "Mark Powers",
+    "Matt Hicks",
+    "Paul Becton",
+    "Richard Starkings",
+    "Terry Kavanagh"
+  ],
+  "publish_date": "1999-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-92.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23573/",
+  "fetched_at": "2026-04-23T17:58:01.478Z",
+  "reviewed_at": "1999-09-01"
+}

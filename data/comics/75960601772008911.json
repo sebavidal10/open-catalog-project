@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601772008911",
+  "title": "X-Men #89",
+  "authors": [
+    "Alan Davis",
+    "Bob Harras",
+    "Marie Javins",
+    "Mark Farmer",
+    "Mark Powers",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Terry Kavanagh"
+  ],
+  "publish_date": "1999-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-89.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23570/",
+  "fetched_at": "2026-04-23T17:57:12.517Z",
+  "reviewed_at": "1999-06-01"
+}

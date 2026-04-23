@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605058100611",
+  "title": "X-Men Forever #6",
+  "authors": [
+    "Andrew Pepoy",
+    "Brian Smith",
+    "Fabian Nicieza",
+    "Kevin Maguire",
+    "Mark Powers",
+    "Paul Mounts",
+    "Pete Franco",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Saida Temofonte"
+  ],
+  "publish_date": "2001-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/17/852654d11968409c9410ac9b26ca2e41.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151783/",
+  "fetched_at": "2026-04-23T18:06:43.518Z",
+  "reviewed_at": "2001-06-01"
+}

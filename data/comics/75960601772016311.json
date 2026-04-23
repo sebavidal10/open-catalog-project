@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601772016311",
+  "title": "X-Men #163",
+  "authors": [
+    "Chris Eliopoulos",
+    "Chuck Austen",
+    "Dan Buckley",
+    "Danny Miki",
+    "Joe Quesada",
+    "Liquid!",
+    "Mike Marts",
+    "Salvador Larroca",
+    "Sean Ryan",
+    "Stephanie Moore"
+  ],
+  "publish_date": "2004-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-2-163.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27280/",
+  "fetched_at": "2026-04-23T18:27:19.920Z",
+  "reviewed_at": "2004-12-01"
+}

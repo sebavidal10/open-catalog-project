@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960601772006011",
+  "title": "X-Men #60",
+  "authors": [
+    "Albert Deschesne",
+    "Bob Harras",
+    "Cedric Nocon",
+    "Chad Hunt",
+    "Chris Carlson",
+    "Jason Liebig",
+    "Joe Rosas",
+    "Liquid!",
+    "Mark Powers",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Scott Clark",
+    "Scott Lobdell"
+  ],
+  "publish_date": "1997-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-60.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23536/",
+  "fetched_at": "2026-04-23T17:49:22.437Z",
+  "reviewed_at": "1997-01-01"
+}

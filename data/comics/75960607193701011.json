@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960607193701011",
+  "title": "X-Men #10",
+  "authors": [
+    "Alan Fine",
+    "Al Vey",
+    "Antonio Fabela",
+    "Axel Alonso",
+    "Chris Bachalo",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Jaime Mendoza",
+    "Jim Charalampidis",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Juan Vlasco",
+    "Nick Lowe",
+    "Paco Medina",
+    "Rachel Dodson",
+    "Terry Dodson",
+    "Tim Townsend",
+    "Victor Gischler",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2011-04-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v3-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28027/",
+  "fetched_at": "2026-04-23T19:14:37.867Z",
+  "reviewed_at": null
+}

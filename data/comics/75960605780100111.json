@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960605780100111",
+  "title": "X-Men: Phoenix - Warsong #1",
+  "authors": [
+    "Dan Buckley",
+    "Greg Pak",
+    "Joe Quesada",
+    "Joe Weems",
+    "John Starr",
+    "Kate Levin",
+    "Marc Silvestri",
+    "Mike Marts",
+    "Mike Mayhew",
+    "Nick Lowe",
+    "Rob Levin",
+    "Sal Regla",
+    "Sean Ryan",
+    "Troy Peteri",
+    "Tyler Kirkham"
+  ],
+  "publish_date": "2006-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/02/x-men-phoenix-warsong-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30081/",
+  "fetched_at": "2026-04-23T18:42:14.051Z",
+  "reviewed_at": "2006-11-01"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601772015511",
+  "title": "New X-Men #155",
+  "authors": [
+    "Chuck Austen",
+    "Cory Sedlmeier",
+    "Dan Buckley",
+    "Danny Miki",
+    "Joe Quesada",
+    "Mike Marts",
+    "Rus Wooton",
+    "Salvador Larroca",
+    "Stephanie Moore",
+    "UDON"
+  ],
+  "publish_date": "2004-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/22/new-x-men-155.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27730/",
+  "fetched_at": "2026-04-23T18:23:45.635Z",
+  "reviewed_at": "2004-06-01"
+}

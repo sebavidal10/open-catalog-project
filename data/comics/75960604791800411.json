@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604791800411",
+  "title": "X-Men: Children of the Atom #4",
+  "authors": [
+    "Andrew Pepoy",
+    "Bob Harras",
+    "Jim Novak",
+    "Joe Casey",
+    "Mark Powers",
+    "Michael Ryan",
+    "Paul Mounts",
+    "Paul Smith",
+    "Steve Rude"
+  ],
+  "publish_date": "2000-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/15/x-men-children-of-the-atom-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39543/",
+  "fetched_at": "2026-04-23T18:01:53.925Z",
+  "reviewed_at": "2000-07-01"
+}

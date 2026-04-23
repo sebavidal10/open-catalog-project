@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601406403911",
+  "title": "X-Men Unlimited #39",
+  "authors": [
+    "Brian Reber",
+    "Chris Bachalo",
+    "Chris Claremont",
+    "Dave Stewart",
+    "Jason Pearson",
+    "Jonathan D. Smith",
+    "J. Torres",
+    "Keron Grant",
+    "Paul Smith",
+    "Robert Stull"
+  ],
+  "publish_date": "2003-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/03/X-Men_Unlimited_039-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130512/",
+  "fetched_at": "2026-04-23T18:15:19.144Z",
+  "reviewed_at": "2003-01-01"
+}

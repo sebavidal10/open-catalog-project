@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960605109003311",
+  "title": "X-Treme X-Men #33",
+  "authors": [
+    "Bill Jemas",
+    "Chris Claremont",
+    "Igor Kordey",
+    "Joe Quesada",
+    "Liquid!",
+    "Mike Marts",
+    "Randy Gentile",
+    "Salvador Larroca",
+    "Scott Hanna"
+  ],
+  "publish_date": "2003-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/12/x-treme-x-men-33.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39448/",
+  "fetched_at": "2026-04-23T18:20:57.082Z",
+  "reviewed_at": "2003-12-01"
+}

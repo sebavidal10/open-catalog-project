@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607193700811",
+  "title": "X-Men #8",
+  "authors": [
+    "Alan Fine",
+    "Al Vey",
+    "Axel Alonso",
+    "Chris Bachalo",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Jaime Mendoza",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Nick Lowe",
+    "Terry Dodson",
+    "Tim Townsend",
+    "Victor Gischler",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2011-02-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v3-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28025/",
+  "fetched_at": "2026-04-23T19:13:53.466Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601772008411",
+  "title": "X-Men #84",
+  "authors": [
+    "Adam Kubert",
+    "Bob Harras",
+    "Emerson Miranda",
+    "Joe Kelly",
+    "Mark Powers",
+    "Matt Banning",
+    "Monica Kubina",
+    "Pasqual Ferry",
+    "Richard Isanove",
+    "Richard Starkings"
+  ],
+  "publish_date": "1999-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-84.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23565/",
+  "fetched_at": "2026-04-23T17:56:06.085Z",
+  "reviewed_at": "1999-02-01"
+}

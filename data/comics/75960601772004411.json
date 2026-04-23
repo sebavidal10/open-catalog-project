@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960601772004411",
+  "title": "X-Men #44",
+  "authors": [
+    "Andy Kubert",
+    "Bob Harras",
+    "Cam Smith",
+    "Fabian Nicieza",
+    "Kevin Somers",
+    "Matt Ryan",
+    "Richard Starkings"
+  ],
+  "publish_date": "1995-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-44.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23520/",
+  "fetched_at": "2026-04-23T17:42:42.086Z",
+  "reviewed_at": "1995-09-01"
+}

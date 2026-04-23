@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "75960604472600211",
+  "title": "X-Men / Alpha Flight #2",
+  "authors": [
+    "Ben Raab",
+    "Bob Harras",
+    "John Cassaday",
+    "Mark Powers",
+    "Steve Oliff"
+  ],
+  "publish_date": "1998-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/07/23/efec26f37739484b865e0ec913a7d573.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/125194/",
+  "fetched_at": "2026-04-23T17:53:46.810Z",
+  "reviewed_at": "1998-06-01"
+}

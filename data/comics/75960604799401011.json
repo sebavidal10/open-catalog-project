@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "75960604799401011",
+  "title": "X-Men The Hidden Years #10",
+  "authors": [
+    "Bob Harras",
+    "Gregory Wright",
+    "Jason Liebig",
+    "John Byrne",
+    "Tom Palmer"
+  ],
+  "publish_date": "2000-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/04/x-men-the-hidden-years-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/31696/",
+  "fetched_at": "2026-04-23T18:02:40.138Z",
+  "reviewed_at": "2000-09-01"
+}

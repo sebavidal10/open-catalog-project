@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960602430810511",
+  "title": "X-Men Classic #105",
+  "authors": [
+    "Ann Nocenti",
+    "Chris Claremont",
+    "Glynis Oliver",
+    "Rick Leonardi",
+    "Tom Orzechowski",
+    "Whilce Portacio"
+  ],
+  "publish_date": "1995-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/09/02/9373b4546f0646efbfa513aba4a31845.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/127081/",
+  "fetched_at": "2026-04-23T17:40:30.235Z",
+  "reviewed_at": "1995-03-01"
+}

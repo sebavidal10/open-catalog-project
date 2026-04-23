@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960602430809311",
+  "title": "X-Men Classic #93",
+  "authors": [
+    "Ann Nocenti",
+    "Bob Wiacek",
+    "Chris Claremont",
+    "Glynis Oliver",
+    "Jaye Gardner",
+    "John Romita Jr.",
+    "Steve Leialoha",
+    "Tom Orzechowski",
+    "Tom Raney"
+  ],
+  "publish_date": "1994-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/09/02/e4e7920c727145a698495ba252c21cda.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/127069/",
+  "fetched_at": "2026-04-23T17:35:42.310Z",
+  "reviewed_at": "1994-03-01"
+}

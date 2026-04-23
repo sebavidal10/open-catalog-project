@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "07148601513002",
+  "title": "X-Men Spotlight on... Starjammers #2",
+  "authors": [
+    "Agustin Mas",
+    "Dave Cockrum",
+    "Jeff Albrecht",
+    "Kelly Corvese",
+    "Mark Gruenwald",
+    "Terry Kavanagh",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1990-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/31/xmen-starjammers-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7037/",
+  "fetched_at": "2026-04-23T17:23:58.571Z",
+  "reviewed_at": "1990-01-01"
+}

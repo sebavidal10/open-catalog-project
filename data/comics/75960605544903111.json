@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605544903111",
+  "title": "New X-Men #31",
+  "authors": [
+    "Brian Reber",
+    "Christopher Yost",
+    "Craig Kyle",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Juan Vlasco",
+    "Marte Gracia",
+    "Mike Marts",
+    "Nick Lowe",
+    "Paco Medina",
+    "Sean Ryan"
+  ],
+  "publish_date": "2006-10-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-31.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47674/",
+  "fetched_at": "2026-04-23T18:42:32.084Z",
+  "reviewed_at": null
+}

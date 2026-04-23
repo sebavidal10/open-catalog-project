@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601772007111",
+  "title": "X-Men #71",
+  "authors": [
+    "Aron Lusen",
+    "Art Thibert",
+    "Bob Harras",
+    "Carlos Pacheco",
+    "Chris Lichtner",
+    "Emerson Miranda",
+    "Joe Kelly",
+    "Liquid!",
+    "Mark Powers",
+    "Richard Starkings"
+  ],
+  "publish_date": "1998-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-71.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23551/",
+  "fetched_at": "2026-04-23T17:52:30.322Z",
+  "reviewed_at": "1998-01-01"
+}

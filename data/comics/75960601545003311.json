@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960601545003311",
+  "title": "X-Men 2099 #33",
+  "authors": [
+    "Bob Harras",
+    "Chris Eliopoulos",
+    "Jan Duursema",
+    "Jaye Gardner",
+    "John Francis Moore",
+    "Scott Koblish",
+    "Tom Smith"
+  ],
+  "publish_date": "1996-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/04/X-Men_2099_Vol_1_33.webp",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130773/",
+  "fetched_at": "2026-04-23T17:46:34.592Z",
+  "reviewed_at": "1996-06-01"
+}

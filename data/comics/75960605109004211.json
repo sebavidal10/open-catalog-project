@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605109004211",
+  "title": "X-Treme X-Men #42",
+  "authors": [
+    "Andrew Pepoy",
+    "Chris Claremont",
+    "Cory Sedlmeier",
+    "Dan Buckley",
+    "Greg Adams",
+    "Igor Kordey",
+    "Joe Quesada",
+    "Liquid!",
+    "Norm Rapmund",
+    "Rus Wooton",
+    "Salvador Larroca",
+    "Stephanie Moore"
+  ],
+  "publish_date": "2004-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/12/x-treme-x-men-42.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39457/",
+  "fetched_at": "2026-04-23T18:23:11.383Z",
+  "reviewed_at": "2004-04-01"
+}

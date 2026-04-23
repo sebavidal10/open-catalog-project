@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607193702211",
+  "title": "X-Men #22",
+  "authors": [
+    "Adi Granov",
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Jay Leisten",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Nick Lowe",
+    "Steve Kurth",
+    "Victor Gischler",
+    "Will Conrad"
+  ],
+  "publish_date": "2011-12-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v3-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28039/",
+  "fetched_at": "2026-04-23T19:19:29.171Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960604269200111",
+  "title": "X-Men '95 #1",
+  "authors": [
+    "Bob Harras",
+    "Comicraft",
+    "J.M. DeMatteis",
+    "John Paul Leon",
+    "Jon Holdredge",
+    "Mark Farmer",
+    "Mark Powers",
+    "Matt Idelson",
+    "Mike Rockwitz",
+    "Mike Thomas",
+    "P. Craig Russell",
+    "Ralph Macchio",
+    "Ramon Bernardo",
+    "Richard Starkings",
+    "Scott Lobdell",
+    "Shawn Martinbrough",
+    "Terry Dodson"
+  ],
+  "publish_date": "1995-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/22/xmen-95-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23598/",
+  "fetched_at": "2026-04-23T17:43:20.751Z",
+  "reviewed_at": "1995-10-01"
+}

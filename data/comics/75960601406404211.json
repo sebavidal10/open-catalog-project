@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960601406404211",
+  "title": "X-Men Unlimited #42",
+  "authors": [
+    "Brian Reber",
+    "Christina Weir",
+    "Danijel Zezelj",
+    "Darko Macan",
+    "David Conway",
+    "John Estes",
+    "Jonathan D. Smith",
+    "Joshua Middleton",
+    "J. Torres",
+    "Keron Grant",
+    "Nunzio DeFilippis",
+    "Takeshi Miyazawa"
+  ],
+  "publish_date": "2003-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/04/X-Men_Unlimited_1993-2003_042-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130515/",
+  "fetched_at": "2026-04-23T18:16:34.512Z",
+  "reviewed_at": "2003-04-01"
+}

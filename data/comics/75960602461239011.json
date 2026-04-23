@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960602461239011",
+  "title": "The Uncanny X-Men #390",
+  "authors": [
+    "Brian Miller",
+    "Comicraft",
+    "Dan Buckley",
+    "Danny Miki",
+    "Dexter Vines",
+    "Joe Quesada",
+    "Lary Stucker",
+    "Mark Powers",
+    "Pete Franco",
+    "Salvador Larroca",
+    "Scott Hanna",
+    "Scott Lobdell",
+    "Tim Townsend"
+  ],
+  "publish_date": "2001-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/17/uncanny-xmen-v1-390.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21132/",
+  "fetched_at": "2026-04-23T18:04:35.317Z",
+  "reviewed_at": "2001-02-01"
+}

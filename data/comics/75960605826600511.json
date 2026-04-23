@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605826600511",
+  "title": "X-Men: The 198 #5",
+  "authors": [
+    "Dan Buckley",
+    "David Hine",
+    "Don Hillsman",
+    "Jim Muñiz",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Juan Doe",
+    "Matt Milla",
+    "Mike Marts",
+    "Nick Lowe",
+    "Sean Ryan",
+    "Tom Valente"
+  ],
+  "publish_date": "2006-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/10/X-Men_-_The_198_005-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131417/",
+  "fetched_at": "2026-04-23T18:39:35.530Z",
+  "reviewed_at": "2006-07-01"
+}

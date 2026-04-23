@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601406403311",
+  "title": "X-Men Unlimited #33",
+  "authors": [
+    "Buddy Scalera",
+    "Dave Sharpe",
+    "Esteban Maroto",
+    "John Ostrander",
+    "Michael Kaluta",
+    "Mike Collins",
+    "Sean Phillips",
+    "Steven Grant"
+  ],
+  "publish_date": "2001-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/03/Untitled-01_hWOPdlg.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130506/",
+  "fetched_at": "2026-04-23T18:09:28.154Z",
+  "reviewed_at": "2001-12-01"
+}

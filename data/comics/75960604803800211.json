@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960604803800211",
+  "title": "X-Men: The Hellfire Club #2",
+  "authors": [
+    "Ben Raab",
+    "Bob Harras",
+    "Charlie Adlard",
+    "Christie Scheele",
+    "Jon Babcock",
+    "Mark Powers"
+  ],
+  "publish_date": "2000-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/23/xmen-hellfire-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3981/",
+  "fetched_at": "2026-04-23T17:59:47.033Z",
+  "reviewed_at": "2000-02-01"
+}

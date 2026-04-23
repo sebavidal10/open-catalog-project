@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960602461236111",
+  "title": "The Uncanny X-Men #361",
+  "authors": [
+    "Adam Kubert",
+    "Bob Harras",
+    "Comicraft",
+    "Dan Buckley",
+    "Harry Candelario",
+    "Joe Quesada",
+    "Mark Powers",
+    "Rob Hunter",
+    "Scott Hanna",
+    "Shannon Blanchard",
+    "Steve Seagle",
+    "Steve Skroce",
+    "Tim Townsend"
+  ],
+  "publish_date": "1998-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/16/uncanny-xmen-v1-361.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21094/",
+  "fetched_at": "2026-04-23T17:55:02.365Z",
+  "reviewed_at": "1998-11-01"
+}

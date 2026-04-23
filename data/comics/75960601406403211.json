@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960601406403211",
+  "title": "X-Men Unlimited #32",
+  "authors": [
+    "Atomic Paintbrush",
+    "Bill Jemas",
+    "Bill Sienkiewicz",
+    "Chris Allo",
+    "Danny Miki",
+    "Eduardo Alpuente",
+    "Ian Gibson",
+    "Jill Thompson",
+    "Joe Quesada",
+    "John Miesegaes",
+    "John Ostrander",
+    "Lysa Hawkins",
+    "Mike Deodato",
+    "Paul Tutrone",
+    "Tim Smith III",
+    "Will Pfeifer"
+  ],
+  "publish_date": "2001-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/03/Untitled-01_eHbUxUv.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130505/",
+  "fetched_at": "2026-04-23T18:08:07.429Z",
+  "reviewed_at": "2001-09-01"
+}

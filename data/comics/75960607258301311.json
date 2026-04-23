@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960607258301311",
+  "title": "X-Men Forever 2 #13",
+  "authors": [
+    "Alan Fine",
+    "Chris Claremont",
+    "Chris Sotomayor",
+    "Cory Hamscher",
+    "Dan Buckley",
+    "Dan Remollino",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Marc Sumerak",
+    "Mark Paniccia",
+    "Michael Horwitz",
+    "Rick Ketcham",
+    "Robert Atkins",
+    "Sandu Florea",
+    "Tom Grummett",
+    "Wil Quintana"
+  ],
+  "publish_date": "2010-12-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/17/3116ca7471c94aaa94676d346879b536.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151796/",
+  "fetched_at": "2026-04-23T19:12:38.851Z",
+  "reviewed_at": null
+}

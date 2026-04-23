@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605544900811",
+  "title": "New X-Men #8",
+  "authors": [
+    "Christina Weir",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Michael Ryan",
+    "Mike Marts",
+    "Nunzio DeFilippis",
+    "Peter Pantazis",
+    "Randy Green",
+    "Rick Ketcham",
+    "Sean Ryan",
+    "Stephanie Moore"
+  ],
+  "publish_date": "2004-12-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47651/",
+  "fetched_at": "2026-04-23T18:28:03.471Z",
+  "reviewed_at": null
+}

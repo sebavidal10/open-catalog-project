@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960602461239211",
+  "title": "The Uncanny X-Men #392",
+  "authors": [
+    "Brian Miller",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Mark Powers",
+    "Pete Franco",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Salvador Larroca",
+    "Scott Lobdell",
+    "Tim Townsend"
+  ],
+  "publish_date": "2001-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/17/uncanny-xmen-v1-392.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21134/",
+  "fetched_at": "2026-04-23T18:05:39.211Z",
+  "reviewed_at": "2001-04-01"
+}

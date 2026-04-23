@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960601772019511",
+  "title": "X-Men #195",
+  "authors": [
+    "Andy Schmidt",
+    "Carlos Cuevas",
+    "Cory Petit",
+    "Dan Buckley",
+    "Edgar Delgado",
+    "Humberto Ramos",
+    "Joe Quesada",
+    "Mike Carey",
+    "Sean Ryan"
+  ],
+  "publish_date": "2007-01-31",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-v2-195.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27312/",
+  "fetched_at": "2026-04-23T18:44:42.438Z",
+  "reviewed_at": null
+}

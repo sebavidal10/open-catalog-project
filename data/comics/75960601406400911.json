@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601406400911",
+  "title": "X-Men Unlimited #9",
+  "authors": [
+    "Bob McLeod",
+    "Jaye Gardner",
+    "Kelly Corvese",
+    "Larry Hama",
+    "Richard Starkings",
+    "Steve Geiger",
+    "Tom Vincent",
+    "Val Semeiks"
+  ],
+  "publish_date": "1995-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/03/X-Men_Unlimited_009-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130482/",
+  "fetched_at": "2026-04-23T17:44:09.908Z",
+  "reviewed_at": "1995-12-01"
+}

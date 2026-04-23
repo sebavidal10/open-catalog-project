@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601772016511",
+  "title": "X-Men #165",
+  "authors": [
+    "Chris Claremont",
+    "Dan Buckley",
+    "Danny Miki",
+    "Joe Quesada",
+    "Liquid!",
+    "Mike Marts",
+    "Rob Ro",
+    "Salvador Larroca",
+    "Sean Ryan",
+    "Stephanie Moore"
+  ],
+  "publish_date": "2005-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-2-165.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27282/",
+  "fetched_at": "2026-04-23T18:28:16.080Z",
+  "reviewed_at": "2005-02-01"
+}

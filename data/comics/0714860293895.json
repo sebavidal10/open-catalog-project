@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "0714860293895",
+  "title": "X-Men Annual #3",
+  "authors": [
+    "Chris Claremont",
+    "Frank Miller",
+    "George Pérez",
+    "Glynis Oliver",
+    "Jim Shooter",
+    "Roger Stern",
+    "Terry Austin",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "1979-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/11/04/xmen-annual-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/53007/",
+  "fetched_at": "2026-04-23T17:04:59.443Z",
+  "reviewed_at": "1979-12-01"
+}

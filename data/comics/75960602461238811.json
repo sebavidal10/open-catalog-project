@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960602461238811",
+  "title": "The Uncanny X-Men #388",
+  "authors": [
+    "Art Thibert",
+    "Chris Claremont",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Lary Stucker",
+    "Mark Powers",
+    "Pete Franco",
+    "Richard Isanove",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Salvador Larroca",
+    "Sandu Florea"
+  ],
+  "publish_date": "2000-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/17/uncanny-xmen-v1-388.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21130/",
+  "fetched_at": "2026-04-23T18:03:39.196Z",
+  "reviewed_at": "2000-12-01"
+}

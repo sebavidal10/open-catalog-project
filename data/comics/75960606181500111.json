@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960606181500111",
+  "title": "X-Men: First Class Special #1",
+  "authors": [
+    "Brad Johansen",
+    "Colleen Coover",
+    "Dan Buckley",
+    "Jeff Parker",
+    "Joe Quesada",
+    "Kevin Nowlan",
+    "Laura Allred",
+    "Mark Paniccia",
+    "Mike Allred",
+    "Nate Piekos",
+    "Nathan Cosby",
+    "Nick Dragotta",
+    "Paul Smith",
+    "Peter Pantazis"
+  ],
+  "publish_date": "2007-05-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/05/x-men-first-class-special-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30269/",
+  "fetched_at": "2026-04-23T18:46:44.212Z",
+  "reviewed_at": null
+}

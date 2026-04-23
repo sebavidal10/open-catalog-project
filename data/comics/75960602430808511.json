@@ -1,0 +1,19 @@
+{
+  "isbn": null,
+  "upc": "75960602430808511",
+  "title": "X-Men Classic #85",
+  "authors": [
+    "Bob Wiacek",
+    "Kerry Gammill"
+  ],
+  "publish_date": "1993-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/09/02/29e5042dd42b4b0cb211a9c3ea4c5815.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/127061/",
+  "fetched_at": "2026-04-23T17:32:36.416Z",
+  "reviewed_at": "1993-07-01"
+}

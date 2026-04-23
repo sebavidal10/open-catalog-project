@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601772016611",
+  "title": "X-Men #166",
+  "authors": [
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Danny Miki",
+    "Joe Quesada",
+    "Liquid!",
+    "Mike Marts",
+    "Peter Milligan",
+    "Salvador Larroca",
+    "Sean Ryan",
+    "Stephanie Moore"
+  ],
+  "publish_date": "2005-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-2-166.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27283/",
+  "fetched_at": "2026-04-23T18:28:45.146Z",
+  "reviewed_at": "2005-03-01"
+}

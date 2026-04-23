@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "75960604799402111",
+  "title": "X-Men The Hidden Years #21",
+  "authors": [
+    "Bill Jemas",
+    "Joe Quesada",
+    "John Byrne",
+    "Lysa Hawkins",
+    "Tom Palmer"
+  ],
+  "publish_date": "2001-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/04/x-men-the-hidden-years-21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/31707/",
+  "fetched_at": "2026-04-23T18:07:34.155Z",
+  "reviewed_at": "2001-08-01"
+}

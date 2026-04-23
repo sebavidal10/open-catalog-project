@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960605109003911",
+  "title": "X-Treme X-Men #39",
+  "authors": [
+    "Andrew Pepoy",
+    "Chris Claremont",
+    "Cory Sedlmeier",
+    "Dan Buckley",
+    "Igor Kordey",
+    "Joe Quesada",
+    "Joe Rubinstein",
+    "Liquid!",
+    "Mike Marts",
+    "Norm Rapmund",
+    "Rus Wooton",
+    "Salvador Larroca",
+    "Sandu Florea",
+    "Stephanie Moore"
+  ],
+  "publish_date": "2004-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/12/x-treme-x-men-39.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39454/",
+  "fetched_at": "2026-04-23T18:22:07.015Z",
+  "reviewed_at": "2004-02-01"
+}

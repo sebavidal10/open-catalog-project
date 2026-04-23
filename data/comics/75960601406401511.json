@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960601406401511",
+  "title": "X-Men Unlimited #15",
+  "authors": [
+    "Duncan Rouleau",
+    "Howard Mackie",
+    "Kelly Corvese",
+    "Kolja Fuchs",
+    "Richard Starkings",
+    "Rob Hunter",
+    "Shannon Blanchard"
+  ],
+  "publish_date": "1997-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/03/Untitled-01.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130488/",
+  "fetched_at": "2026-04-23T17:50:47.308Z",
+  "reviewed_at": "1997-06-01"
+}

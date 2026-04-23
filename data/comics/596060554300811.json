@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "596060554300811",
+  "title": "Astonishing X-Men #8",
+  "authors": [
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Joe Quesada",
+    "John Cassaday",
+    "Joss Whedon",
+    "Laura Martin",
+    "Mike Marts",
+    "Sean Ryan"
+  ],
+  "publish_date": "2005-02-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/26/astonishing-x-men-v3-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29829/",
+  "fetched_at": "2026-04-23T18:27:59.389Z",
+  "reviewed_at": "2005-02-01"
+}

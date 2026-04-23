@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960602461232411",
+  "title": "The Uncanny X-Men #324",
+  "authors": [
+    "Al Milgrom",
+    "Ben Raab",
+    "Bob Harras",
+    "Carlos Pacheco",
+    "Richard Starkings",
+    "Roger Cruz",
+    "Scott Lobdell",
+    "Steve Buccellato",
+    "Terry Austin",
+    "Tim Townsend",
+    "Vince Russell"
+  ],
+  "publish_date": "1995-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/16/uncanny-xmen-v1-324.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21057/",
+  "fetched_at": "2026-04-23T17:42:38.071Z",
+  "reviewed_at": "1995-09-01"
+}

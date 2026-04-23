@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960604272200111",
+  "title": "Professor Xavier and the X-Men #1",
+  "authors": [
+    "Fred Schiller",
+    "Jan Duursema",
+    "Kelly Corvese",
+    "Matt Idelson",
+    "Matt Webb",
+    "Mike Sellers",
+    "Pat Brosseau",
+    "Rick Magyar"
+  ],
+  "publish_date": "1995-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/15/7222f48e8345413b88f01c8931386ae0.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/122677/",
+  "fetched_at": "2026-04-23T17:43:29.251Z",
+  "reviewed_at": "1995-11-01"
+}

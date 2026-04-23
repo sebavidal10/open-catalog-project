@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960607193701611",
+  "title": "X-Men #16",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Guru-eFX",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Joe Quinones",
+    "Jordan D. White",
+    "Jorge Molina",
+    "Nick Lowe",
+    "Victor Gischler"
+  ],
+  "publish_date": "2011-08-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v3-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28033/",
+  "fetched_at": "2026-04-23T19:17:03.758Z",
+  "reviewed_at": null
+}

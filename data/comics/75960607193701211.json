@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960607193701211",
+  "title": "X-Men #12",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Christopher Yost",
+    "Dalibor Talajić",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Ed McGuinness",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Juan Vlasco",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Paco Medina",
+    "Wil Quintana"
+  ],
+  "publish_date": "2011-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v3-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28029/",
+  "fetched_at": "2026-04-23T19:15:45.931Z",
+  "reviewed_at": null
+}

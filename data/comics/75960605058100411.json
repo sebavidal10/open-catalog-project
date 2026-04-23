@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605058100411",
+  "title": "X-Men Forever #4",
+  "authors": [
+    "Andrew Pepoy",
+    "Brian Smith",
+    "Fabian Nicieza",
+    "Kevin Maguire",
+    "Mark Powers",
+    "Paul Mounts",
+    "Pete Franco",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Saida Temofonte"
+  ],
+  "publish_date": "2001-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/17/ea7f2b279fd245a2bec5d861bfdbd745.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151781/",
+  "fetched_at": "2026-04-23T18:05:52.091Z",
+  "reviewed_at": "2001-04-01"
+}

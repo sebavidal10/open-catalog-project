@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "75960601406403811",
+  "title": "X-Men Unlimited #38",
+  "authors": [
+    "Darick Robertson",
+    "Greg Rucka",
+    "Jonathan D. Smith",
+    "Paul Smith",
+    "Randy Gentile"
+  ],
+  "publish_date": "2002-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/03/X-Men_Unlimited_038-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130511/",
+  "fetched_at": "2026-04-23T18:14:21.804Z",
+  "reviewed_at": "2002-11-01"
+}

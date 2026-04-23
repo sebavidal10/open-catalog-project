@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601772002511",
+  "title": "X-Men #25",
+  "authors": [
+    "Andy Kubert",
+    "Bill Oakley",
+    "Bob Harras",
+    "Fabian Nicieza",
+    "Joe Rosas",
+    "Lisa Patrick",
+    "Matt Ryan",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1993-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23501/",
+  "fetched_at": "2026-04-23T17:33:32.527Z",
+  "reviewed_at": "1993-10-01"
+}

@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "72527402461210",
+  "title": "The Uncanny X-Men #385",
+  "authors": [
+    "Albert Deschesne",
+    "Andrew Pepoy",
+    "Art Thibert",
+    "Chris Claremont",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Dan Panosian",
+    "Germán García",
+    "Joe Quesada",
+    "Mark Powers",
+    "Michael Ryan",
+    "Randy Green",
+    "Richard Isanove",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Salvador Larroca"
+  ],
+  "publish_date": "2000-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/17/uncanny-xmen-v1-385.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21127/",
+  "fetched_at": "2026-04-23T18:02:52.551Z",
+  "reviewed_at": "2000-10-01"
+}

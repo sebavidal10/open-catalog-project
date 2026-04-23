@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601772009711",
+  "title": "X-Men #97",
+  "authors": [
+    "Alan Davis",
+    "Bob Harras",
+    "Jason Levine",
+    "Mark Farmer",
+    "Mark Powers",
+    "Richard Starkings",
+    "Steve Oliff",
+    "Terry Kavanagh"
+  ],
+  "publish_date": "2000-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-97.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23578/",
+  "fetched_at": "2026-04-23T17:59:42.571Z",
+  "reviewed_at": "2000-02-01"
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960602461240111",
+  "title": "The Uncanny X-Men #401",
+  "authors": [
+    "Bill Jemas",
+    "Brian Miller",
+    "Dan Buckley",
+    "Joe Casey",
+    "Joe Quesada",
+    "Mark Morales",
+    "Mark Powers",
+    "Pete Franco",
+    "Richard Starkings",
+    "Ron Garney",
+    "Saida Temofonte"
+  ],
+  "publish_date": "2002-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/18/uncanny-xmen-v1-401.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21143/",
+  "fetched_at": "2026-04-23T18:09:54.847Z",
+  "reviewed_at": "2002-01-01"
+}

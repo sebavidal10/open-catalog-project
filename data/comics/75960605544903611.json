@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605544903611",
+  "title": "New X-Men #36",
+  "authors": [
+    "Brian Reber",
+    "Christopher Yost",
+    "Craig Kyle",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Juan Vlasco",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Paco Medina",
+    "Sean Ryan"
+  ],
+  "publish_date": "2007-03-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-36.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47679/",
+  "fetched_at": "2026-04-23T18:45:35.175Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605544900511",
+  "title": "New X-Men #5",
+  "authors": [
+    "Andy Park",
+    "Avalon Studios",
+    "Christina Weir",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Michael Ryan",
+    "Mike Marts",
+    "Nunzio DeFilippis",
+    "Peter Pantazis",
+    "Rick Ketcham",
+    "Sean Ryan",
+    "Stephanie Moore"
+  ],
+  "publish_date": "2004-09-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47648/",
+  "fetched_at": "2026-04-23T18:26:31.223Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605507401011",
+  "title": "X-Men Unlimited #10",
+  "authors": [
+    "Axel Alonso",
+    "Dave Sharpe",
+    "Gregory Homs",
+    "Joe Meno",
+    "Joe Quesada",
+    "Paco Medina",
+    "Paul Smith",
+    "Warren Simons"
+  ],
+  "publish_date": "2005-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/11/507613._HD_TTD_.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131427/",
+  "fetched_at": "2026-04-23T18:33:19.599Z",
+  "reviewed_at": "2005-10-01"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601772012411",
+  "title": "New X-Men #124",
+  "authors": [
+    "Bill Jemas",
+    "Brian Miller",
+    "Comicraft",
+    "Ethan Van Sciver",
+    "Grant Morrison",
+    "Igor Kordey",
+    "Joe Quesada",
+    "Mark Powers",
+    "Pete Franco",
+    "Tim Townsend"
+  ],
+  "publish_date": "2002-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/21/new-x-men-124.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27699/",
+  "fetched_at": "2026-04-23T18:11:35.212Z",
+  "reviewed_at": "2002-05-01"
+}

@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960606638402211",
+  "title": "X-Men Forever #22",
+  "authors": [
+    "Chris Claremont",
+    "Daniel HDR",
+    "Greg Adams",
+    "Mark Paniccia",
+    "Tom Grummett",
+    "Wil Quintana"
+  ],
+  "publish_date": "2010-04-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/17/2306ce0abd0b45d69d94e34d09c7116b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151775/",
+  "fetched_at": "2026-04-23T19:07:40.435Z",
+  "reviewed_at": null
+}

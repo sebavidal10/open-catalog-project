@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960601772019111",
+  "title": "X-Men #191",
+  "authors": [
+    "Chris Bachalo",
+    "Christina Strain",
+    "Clayton Henry",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Mark Morales",
+    "Mike Carey",
+    "Mike Marts",
+    "Nick Lowe",
+    "Sean Ryan"
+  ],
+  "publish_date": "2006-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-v2-191.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27308/",
+  "fetched_at": "2026-04-23T18:42:05.305Z",
+  "reviewed_at": "2006-11-01"
+}

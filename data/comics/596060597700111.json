@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "596060597700111",
+  "title": "Civil War: X-Men #1",
+  "authors": [
+    "Dan Buckley",
+    "David Hine",
+    "Joe Quesada",
+    "Juan Doe",
+    "Michael Turner",
+    "Mike Marts",
+    "Nick Lowe",
+    "Rus Wooton",
+    "Sean Ryan",
+    "Serge LaPointe",
+    "Stephane Peru",
+    "Yanick Paquette"
+  ],
+  "publish_date": "2006-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/07/civil-war-x-men-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39244/",
+  "fetched_at": "2026-04-23T18:40:24.511Z",
+  "reviewed_at": "2006-09-01"
+}

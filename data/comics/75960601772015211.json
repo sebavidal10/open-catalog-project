@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960601772015211",
+  "title": "New X-Men #152",
+  "authors": [
+    "Billy Tan",
+    "Chris Eliopoulos",
+    "Cory Sedlmeier",
+    "Dan Buckley",
+    "Grant Morrison",
+    "Joe Quesada",
+    "Joe Weems",
+    "John Starr",
+    "Marc Silvestri",
+    "Matt Milla",
+    "Mike Marts",
+    "Stephanie Moore",
+    "Steve Firchow"
+  ],
+  "publish_date": "2004-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/22/new-x-men-152.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27727/",
+  "fetched_at": "2026-04-23T18:22:20.931Z",
+  "reviewed_at": "2004-03-01"
+}

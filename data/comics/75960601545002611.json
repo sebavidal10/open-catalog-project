@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960601545002611",
+  "title": "X-Men 2099 #26",
+  "authors": [
+    "Bobbie Chase",
+    "Harry Candelario",
+    "Joey Cavalieri",
+    "John Francis Moore",
+    "Ken Lopez",
+    "Ron Lim",
+    "Tom Smith"
+  ],
+  "publish_date": "1995-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/04/X-Men_2099_-_260001.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130766/",
+  "fetched_at": "2026-04-23T17:43:45.067Z",
+  "reviewed_at": "1995-11-01"
+}

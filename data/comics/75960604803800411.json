@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960604803800411",
+  "title": "X-Men: The Hellfire Club #4",
+  "authors": [
+    "Ben Raab",
+    "Bob Harras",
+    "Charlie Adlard",
+    "Jon Babcock",
+    "Kevin Somers",
+    "Mark Powers"
+  ],
+  "publish_date": "2000-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/23/xmen-hellfire-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3983/",
+  "fetched_at": "2026-04-23T18:00:45.375Z",
+  "reviewed_at": "2000-04-01"
+}

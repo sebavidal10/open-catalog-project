@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960601772015311",
+  "title": "New X-Men #153",
+  "authors": [
+    "Cory Sedlmeier",
+    "Dan Buckley",
+    "Frank D'Armata",
+    "Grant Morrison",
+    "Joe Quesada",
+    "Joe Weems",
+    "Marc Silvestri",
+    "Matt Banning",
+    "Mike Marts",
+    "Rus Wooton",
+    "Stephanie Moore",
+    "Steve Firchow",
+    "Tim Townsend"
+  ],
+  "publish_date": "2004-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/22/new-x-men-153.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27728/",
+  "fetched_at": "2026-04-23T18:22:46.418Z",
+  "reviewed_at": "2004-04-01"
+}

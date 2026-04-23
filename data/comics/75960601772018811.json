@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960601772018811",
+  "title": "X-Men #188",
+  "authors": [
+    "Antonio Fabela",
+    "Chris Bachalo",
+    "Cory Petit",
+    "Dan Buckley",
+    "Jaime Mendoza",
+    "Joe Quesada",
+    "Mike Carey",
+    "Mike Marts",
+    "Nick Lowe",
+    "Sean Ryan",
+    "Tim Townsend"
+  ],
+  "publish_date": "2006-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-v2-188.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27305/",
+  "fetched_at": "2026-04-23T18:40:50.999Z",
+  "reviewed_at": "2006-09-01"
+}

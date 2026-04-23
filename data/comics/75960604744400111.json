@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604744400111",
+  "title": "X-Men: Magneto War #1",
+  "authors": [
+    "Alan Davis",
+    "Bob Harras",
+    "Dan Green",
+    "Fabian Nicieza",
+    "Lee Weeks",
+    "Marie Javins",
+    "Mark Nelson",
+    "Mark Powers",
+    "Monica Kubina",
+    "Richard Starkings"
+  ],
+  "publish_date": "1999-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/03/Magneto_War_0001.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130471/",
+  "fetched_at": "2026-04-23T17:56:30.865Z",
+  "reviewed_at": "1999-03-01"
+}

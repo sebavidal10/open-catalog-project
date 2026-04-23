@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601772004311",
+  "title": "X-Men #43",
+  "authors": [
+    "Andy Kubert",
+    "Bob Harras",
+    "Cam Smith",
+    "Fabian Nicieza",
+    "Kevin Somers",
+    "Matt Ryan",
+    "Paul Smith",
+    "Richard Starkings"
+  ],
+  "publish_date": "1995-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-43.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23519/",
+  "fetched_at": "2026-04-23T17:42:21.357Z",
+  "reviewed_at": "1995-08-01"
+}

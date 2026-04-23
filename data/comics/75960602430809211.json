@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960602430809211",
+  "title": "X-Men Classic #92",
+  "authors": [
+    "Ann Nocenti",
+    "Bart Sears",
+    "Chris Claremont",
+    "Dan Green",
+    "Glynis Oliver",
+    "Jaye Gardner",
+    "John Romita Jr.",
+    "Mark Pennington",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "1994-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/09/02/184f16180ae3455fb92dcb865c78b6c9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/127068/",
+  "fetched_at": "2026-04-23T17:35:20.496Z",
+  "reviewed_at": "1994-02-01"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960601772004511",
+  "title": "X-Men #45",
+  "authors": [
+    "Andy Kubert",
+    "Ben Raab",
+    "Bob Harras",
+    "Cam Smith",
+    "Fabian Nicieza",
+    "Kevin Somers",
+    "Richard Starkings"
+  ],
+  "publish_date": "1995-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-45.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23521/",
+  "fetched_at": "2026-04-23T17:43:08.467Z",
+  "reviewed_at": "1995-10-01"
+}

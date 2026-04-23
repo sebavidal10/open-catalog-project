@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960605544903211",
+  "title": "New X-Men #32",
+  "authors": [
+    "Brian Reber",
+    "Christopher Yost",
+    "Craig Kyle",
+    "Dan Buckley",
+    "Dave Meikis",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Juan Vlasco",
+    "Kate Levin",
+    "Marte Gracia",
+    "Mike Norton",
+    "Nick Lowe",
+    "Paco Medina",
+    "Sean Ryan"
+  ],
+  "publish_date": "2006-11-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-32.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47675/",
+  "fetched_at": "2026-04-23T18:43:14.121Z",
+  "reviewed_at": null
+}

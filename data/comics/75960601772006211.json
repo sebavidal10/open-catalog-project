@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960601772006211",
+  "title": "X-Men #62",
+  "authors": [
+    "Albert Deschesne",
+    "Art Thibert",
+    "Ben Raab",
+    "Bob Harras",
+    "Carlos Pacheco",
+    "Chris Lichtner",
+    "Jason Liebig",
+    "Liquid!",
+    "Mark Powers",
+    "Richard Starkings",
+    "Scott Lobdell"
+  ],
+  "publish_date": "1997-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-62.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23541/",
+  "fetched_at": "2026-04-23T17:49:57.537Z",
+  "reviewed_at": "1997-03-01"
+}

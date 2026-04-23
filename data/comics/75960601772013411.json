@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960601772013411",
+  "title": "New X-Men #134",
+  "authors": [
+    "Bill Jemas",
+    "Chris Chuckry",
+    "Ethan Van Sciver",
+    "Grant Morrison",
+    "Joe Quesada",
+    "Keron Grant",
+    "Mike Marts",
+    "Mike Raicht",
+    "Norm Rapmund",
+    "Nova Ren Suma",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Tim Townsend"
+  ],
+  "publish_date": "2003-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/22/new-x-men-134.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27709/",
+  "fetched_at": "2026-04-23T18:15:02.250Z",
+  "reviewed_at": "2003-01-01"
+}

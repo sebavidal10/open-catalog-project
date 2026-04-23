@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "0714860246107",
+  "title": "The X-Men #123",
+  "authors": [
+    "Chris Claremont",
+    "Glynis Oliver",
+    "Jim Shooter",
+    "John Byrne",
+    "Roger Stern",
+    "Terry Austin",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "1979-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/10/11/xmen-v1-123.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17881/",
+  "fetched_at": "2026-04-23T17:04:28.682Z",
+  "reviewed_at": "1979-07-01"
+}

@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960604263000111",
+  "title": "X-Men 2099 A.D. Special #1",
+  "authors": [
+    "Bobbie Chase",
+    "Dave Sharpe",
+    "Graham Higgins",
+    "Greg Hildebrandt",
+    "Ian Edginton",
+    "Jim Calafiore",
+    "Joey Cavalieri",
+    "John Francis Moore",
+    "Lia Pelosi",
+    "Matt Morra",
+    "Megan McDowell",
+    "Paul Becton",
+    "Peter Palmiotti",
+    "Phil Hugh Felix",
+    "Steve Dutro",
+    "Steve Pugh",
+    "Tim Hildebrandt"
+  ],
+  "publish_date": "1995-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/10/26/00.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130036/",
+  "fetched_at": "2026-04-23T17:43:16.551Z",
+  "reviewed_at": "1995-10-01"
+}

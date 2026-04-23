@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960607269900111",
+  "title": "X-Men: Hellbound #1",
+  "authors": [
+    "Alan Fine",
+    "Chris Claremont",
+    "Christopher Yost",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Harvey Tolibao",
+    "Jay David Ramos",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Ken Feduniewicz",
+    "Marko Djurdjević",
+    "Nick Lowe",
+    "Sal Buscema",
+    "Sandu Florea",
+    "Tom Orzechowski",
+    "Tom Palmer"
+  ],
+  "publish_date": "2010-05-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/02/x-men-hellbound-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30072/",
+  "fetched_at": "2026-04-23T19:08:23.128Z",
+  "reviewed_at": null
+}

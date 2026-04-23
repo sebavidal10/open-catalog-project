@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601772010711",
+  "title": "X-Men #107",
+  "authors": [
+    "Chris Claremont",
+    "Joe Quesada",
+    "Leinil Francis Yu",
+    "Liquid!",
+    "Mark Morales",
+    "Mark Powers",
+    "Pete Franco",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Scott Elmer"
+  ],
+  "publish_date": "2000-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-107.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23588/",
+  "fetched_at": "2026-04-23T18:03:43.515Z",
+  "reviewed_at": "2000-12-01"
+}

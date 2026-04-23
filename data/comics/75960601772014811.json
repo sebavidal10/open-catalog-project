@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960601772014811",
+  "title": "New X-Men #148",
+  "authors": [
+    "Andy Lanning",
+    "Annie Thornton",
+    "Bill Jemas",
+    "Chris Chuckry",
+    "Grant Morrison",
+    "Joe Quesada",
+    "Mike Marts",
+    "Phil Jimenez",
+    "Rus Wooton"
+  ],
+  "publish_date": "2003-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/22/new-x-men-148.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27723/",
+  "fetched_at": "2026-04-23T18:20:40.273Z",
+  "reviewed_at": "2003-12-01"
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060633801111",
+  "title": "Young X-Men #11",
+  "authors": [
+    "Anthony Dial",
+    "Dan Buckley",
+    "Daniel Acuña",
+    "Daniel Ketchum",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Justin Ponsor",
+    "Marc Guggenheim",
+    "Nick Lowe",
+    "Pasqual Ferry",
+    "Rafa Sandoval",
+    "Roger Bonet",
+    "Ulises Arreola"
+  ],
+  "publish_date": "2009-02-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/26/young-x-men-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27985/",
+  "fetched_at": "2026-04-23T18:59:15.127Z",
+  "reviewed_at": null
+}

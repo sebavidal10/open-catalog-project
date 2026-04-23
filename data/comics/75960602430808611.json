@@ -1,0 +1,19 @@
+{
+  "isbn": null,
+  "upc": "75960602430808611",
+  "title": "X-Men Classic #86",
+  "authors": [
+    "Bob Wiacek",
+    "Kerry Gammill"
+  ],
+  "publish_date": "1993-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/09/02/11d10dcc18f94df5b92113efe85ec2cd.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/127062/",
+  "fetched_at": "2026-04-23T17:32:54.390Z",
+  "reviewed_at": "1993-08-01"
+}

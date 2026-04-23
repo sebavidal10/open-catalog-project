@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960605109000511",
+  "title": "X-Treme X-Men #5",
+  "authors": [
+    "Andrew Lis",
+    "Bill Jemas",
+    "Chris Claremont",
+    "Joe Quesada",
+    "Liquid!",
+    "Mark Powers",
+    "Matt Hicks",
+    "Salvador Larroca",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "2001-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/11/x-treme-x-men-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39420/",
+  "fetched_at": "2026-04-23T18:09:03.320Z",
+  "reviewed_at": "2001-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960602461237911",
+  "title": "The Uncanny X-Men #379",
+  "authors": [
+    "Adam Kubert",
+    "Alan Davis",
+    "Bob Harras",
+    "Brian Haberlin",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Liquid!",
+    "Mark Powers",
+    "Saida Temofonte",
+    "Scott Hanna",
+    "Tim Townsend",
+    "Tom Raney"
+  ],
+  "publish_date": "2000-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/17/uncanny-xmen-v1-379.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21121/",
+  "fetched_at": "2026-04-23T18:00:32.788Z",
+  "reviewed_at": "2000-04-01"
+}

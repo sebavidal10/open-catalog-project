@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960604437500111",
+  "title": "Uncanny X-Men '97 #1",
+  "authors": [
+    "Bob Harras",
+    "Comicraft",
+    "Duncan Rouleau",
+    "Glynis Oliver",
+    "Jorge González",
+    "Kelly Corvese",
+    "Troy Hubbs"
+  ],
+  "publish_date": "1997-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/18/e9ea5ddadcb64fc898ba95dc8ef8fe7e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/119413/",
+  "fetched_at": "2026-04-23T17:51:42.089Z",
+  "reviewed_at": "1997-10-01"
+}

@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960601772019211",
+  "title": "X-Men #192",
+  "authors": [
+    "Andy Schmidt",
+    "Antonio Fabela",
+    "Chris Bachalo",
+    "Cory Petit",
+    "Dan Buckley",
+    "Jaime Mendoza",
+    "Joe Quesada",
+    "Jonathan Sibal",
+    "Mark Irwin",
+    "Mike Carey",
+    "Mike Marts",
+    "Sean Ryan",
+    "Tim Townsend",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2006-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-v2-192.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27309/",
+  "fetched_at": "2026-04-23T18:42:44.971Z",
+  "reviewed_at": "2006-12-01"
+}

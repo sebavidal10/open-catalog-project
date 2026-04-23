@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960601772005211",
+  "title": "X-Men #52",
+  "authors": [
+    "Andy Kubert",
+    "Ben Raab",
+    "Bob Harras",
+    "Cam Smith",
+    "Marie Javins",
+    "Mark Waid",
+    "Richard Starkings"
+  ],
+  "publish_date": "1996-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-52.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23528/",
+  "fetched_at": "2026-04-23T17:46:04.392Z",
+  "reviewed_at": "1996-05-01"
+}

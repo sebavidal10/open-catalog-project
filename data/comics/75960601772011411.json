@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960601772011411",
+  "title": "New X-Men #114",
+  "authors": [
+    "Bill Jemas",
+    "Brian Haberlin",
+    "Comicraft",
+    "Frank Quitely",
+    "Grant Morrison",
+    "Joe Quesada",
+    "Mark Powers",
+    "Pete Franco",
+    "Tim Townsend"
+  ],
+  "publish_date": "2001-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/21/new-x-men-114.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27689/",
+  "fetched_at": "2026-04-23T18:07:00.771Z",
+  "reviewed_at": "2001-07-01"
+}

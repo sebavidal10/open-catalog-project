@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605780100311",
+  "title": "X-Men: Phoenix - Warsong #3",
+  "authors": [
+    "Andy Schmidt",
+    "Dan Buckley",
+    "Greg Pak",
+    "Joe Quesada",
+    "Joe Weems",
+    "John Starr",
+    "Marc Silvestri",
+    "Rob Levin",
+    "Sal Regla",
+    "Sean Ryan",
+    "Steve Firchow",
+    "Troy Peteri",
+    "Tyler Kirkham"
+  ],
+  "publish_date": "2007-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/02/x-men-phoenix-warsong-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30083/",
+  "fetched_at": "2026-04-23T18:43:35.367Z",
+  "reviewed_at": "2007-01-01"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "0714860246103",
+  "title": "The X-Men #119",
+  "authors": [
+    "Chris Claremont",
+    "Dave Cockrum",
+    "Glynis Oliver",
+    "Jim Shooter",
+    "John Byrne",
+    "John Costanza",
+    "Roger Stern",
+    "Terry Austin"
+  ],
+  "publish_date": "1979-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/10/11/xmen-v1-119.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17877/",
+  "fetched_at": "2026-04-23T17:04:00.459Z",
+  "reviewed_at": "1979-03-01"
+}

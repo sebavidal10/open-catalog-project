@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960601772013211",
+  "title": "New X-Men #132",
+  "authors": [
+    "Andy Lanning",
+    "Bill Jemas",
+    "Chris Chuckry",
+    "Frank Quitely",
+    "Grant Morrison",
+    "Jimmy Betancourt",
+    "Joe Quesada",
+    "Mike Marts",
+    "Mike Raicht",
+    "Nova Ren Suma",
+    "Phil Jimenez",
+    "Richard Starkings"
+  ],
+  "publish_date": "2002-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/22/new-x-men-132.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27707/",
+  "fetched_at": "2026-04-23T18:14:05.197Z",
+  "reviewed_at": "2002-11-01"
+}

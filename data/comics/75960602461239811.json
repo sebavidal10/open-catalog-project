@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960602461239811",
+  "title": "The Uncanny X-Men #398",
+  "authors": [
+    "Ashley Wood",
+    "Bill Jemas",
+    "Brian Miller",
+    "Dan Buckley",
+    "Ian Churchill",
+    "Joe Casey",
+    "Joe Quesada",
+    "Mark Powers",
+    "Pete Franco",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Sean Phillips"
+  ],
+  "publish_date": "2001-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/17/uncanny-xmen-v1-398.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21140/",
+  "fetched_at": "2026-04-23T18:08:33.843Z",
+  "reviewed_at": "2001-10-01"
+}

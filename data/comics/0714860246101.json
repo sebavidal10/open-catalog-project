@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "0714860246101",
+  "title": "The X-Men #117",
+  "authors": [
+    "Chris Claremont",
+    "Clem Robins",
+    "Dave Cockrum",
+    "Glynis Oliver",
+    "Jim Shooter",
+    "John Byrne",
+    "Roger Stern",
+    "Terry Austin"
+  ],
+  "publish_date": "1979-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/10/11/xmen-v1-117.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17875/",
+  "fetched_at": "2026-04-23T17:03:46.431Z",
+  "reviewed_at": "1979-01-01"
+}

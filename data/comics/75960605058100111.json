@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605058100111",
+  "title": "X-Men Forever #1",
+  "authors": [
+    "Andrew Pepoy",
+    "Comicraft",
+    "Fabian Nicieza",
+    "Kevin Maguire",
+    "Mark Powers",
+    "Paul Mounts",
+    "Ralph Macchio",
+    "Richard Starkings"
+  ],
+  "publish_date": "2001-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/17/72f212d57d2d408cb5848ba7e9e9e2f2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151778/",
+  "fetched_at": "2026-04-23T18:04:10.015Z",
+  "reviewed_at": "2001-01-01"
+}

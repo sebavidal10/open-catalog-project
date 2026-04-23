@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605109004111",
+  "title": "X-Treme X-Men #41",
+  "authors": [
+    "Chris Claremont",
+    "Cory Petit",
+    "Cory Sedlmeier",
+    "Dan Buckley",
+    "Greg Adams",
+    "Igor Kordey",
+    "Joe Quesada",
+    "Liquid!",
+    "Mike Marts",
+    "Salvador Larroca",
+    "Stephanie Moore"
+  ],
+  "publish_date": "2004-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/12/x-treme-x-men-41.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39456/",
+  "fetched_at": "2026-04-23T18:23:07.239Z",
+  "reviewed_at": "2004-04-01"
+}

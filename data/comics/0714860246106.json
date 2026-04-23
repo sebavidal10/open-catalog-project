@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "0714860246106",
+  "title": "The X-Men #99",
+  "authors": [
+    "Chris Claremont",
+    "Dave Cockrum",
+    "Frank Chiaramonte",
+    "Irving Watanabe",
+    "Marv Wolfman",
+    "Michele Wolfman"
+  ],
+  "publish_date": "1976-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/10/10/xmen-v1-99.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17857/",
+  "fetched_at": "2026-04-23T17:00:39.503Z",
+  "reviewed_at": "1976-06-01"
+}

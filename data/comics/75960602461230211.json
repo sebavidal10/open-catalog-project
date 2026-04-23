@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960602461230211",
+  "title": "The Uncanny X-Men #302",
+  "authors": [
+    "Bob Harras",
+    "Chris Eliopoulos",
+    "Dan Green",
+    "Dan Panosian",
+    "John Romita Jr.",
+    "Jon Babcock",
+    "Lisa Patrick",
+    "Scott Lobdell",
+    "Steve Buccellato",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1993-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/15/uncanny-xmen-v1-302.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21035/",
+  "fetched_at": "2026-04-23T17:32:27.503Z",
+  "reviewed_at": "1993-07-01"
+}

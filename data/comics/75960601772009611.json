@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960601772009611",
+  "title": "X-Men #96",
+  "authors": [
+    "Alan Davis",
+    "Bob Harras",
+    "Marie Javins",
+    "Mark Farmer",
+    "Mark Powers",
+    "Richard Starkings",
+    "Saida Temofonte"
+  ],
+  "publish_date": "2000-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-96.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23577/",
+  "fetched_at": "2026-04-23T17:59:21.956Z",
+  "reviewed_at": "2000-01-01"
+}

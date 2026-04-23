@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960601772020311",
+  "title": "X-Men #203",
+  "authors": [
+    "Andrew Hennessy",
+    "Axel Alonso",
+    "Carlos Cuevas",
+    "Cory Petit",
+    "Dan Buckley",
+    "Edgar Delgado",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Mike Carey",
+    "Mike Perkins",
+    "Nick Lowe",
+    "Raúl Treviño",
+    "Studio F",
+    "Will Panzo"
+  ],
+  "publish_date": "2007-09-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-v2-203.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27320/",
+  "fetched_at": "2026-04-23T18:48:45.898Z",
+  "reviewed_at": null
+}

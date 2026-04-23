@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607566900211",
+  "title": "Wolverine & the X-Men #2",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Bachalo",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Ed McGuinness",
+    "Irene Lee",
+    "Jaime Mendoza",
+    "Jason Aaron",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Nick Lowe",
+    "Rob Steen",
+    "Tim Townsend"
+  ],
+  "publish_date": "2011-11-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/18/wolv-xmen-v1-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23423/",
+  "fetched_at": "2026-04-23T19:18:44.640Z",
+  "reviewed_at": null
+}

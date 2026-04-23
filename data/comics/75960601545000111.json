@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960601545000111",
+  "title": "X-Men 2099 #1",
+  "authors": [
+    "Adam Kubert",
+    "Joey Cavalieri",
+    "John Francis Moore",
+    "Ken Lopez",
+    "Ron Lim",
+    "Tom DeFalco",
+    "Tom Smith"
+  ],
+  "publish_date": "1993-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/10/25/X-Men_2099_-_010001.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130030/",
+  "fetched_at": "2026-04-23T17:33:11.331Z",
+  "reviewed_at": "1993-09-01"
+}

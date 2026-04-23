@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960601772015111",
+  "title": "New X-Men #151",
+  "authors": [
+    "Billy Tan",
+    "Cory Sedlmeier",
+    "Dan Buckley",
+    "Eric Basaldua",
+    "Grant Morrison",
+    "Joe Quesada",
+    "Joe Weems",
+    "John Starr",
+    "Marc Silvestri",
+    "Matt Banning",
+    "Matt Milla",
+    "Mike Marts",
+    "Rus Wooton",
+    "Stephanie Moore",
+    "Steve Firchow"
+  ],
+  "publish_date": "2004-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/22/new-x-men-151.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27726/",
+  "fetched_at": "2026-04-23T18:22:16.823Z",
+  "reviewed_at": "2004-03-01"
+}

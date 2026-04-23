@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605109002211",
+  "title": "X-Treme X-Men #22",
+  "authors": [
+    "Andrew Lis",
+    "Bill Jemas",
+    "Chris Claremont",
+    "Joe Quesada",
+    "Liquid!",
+    "Mike Marts",
+    "Mike Raicht",
+    "Nova Ren Suma",
+    "Salvador Larroca",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "2003-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/11/x-treme-x-men-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39437/",
+  "fetched_at": "2026-04-23T18:17:09.533Z",
+  "reviewed_at": "2003-05-01"
+}

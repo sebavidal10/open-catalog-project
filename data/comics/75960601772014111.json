@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960601772014111",
+  "title": "New X-Men #141",
+  "authors": [
+    "Andy Lanning",
+    "Bill Jemas",
+    "Chris Chuckry",
+    "Chris Eliopoulos",
+    "Grant Morrison",
+    "Joe Quesada",
+    "Mike Marts",
+    "Mike Raicht",
+    "Phil Jimenez"
+  ],
+  "publish_date": "2003-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/22/new-x-men-141.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27716/",
+  "fetched_at": "2026-04-23T18:18:00.309Z",
+  "reviewed_at": "2003-07-01"
+}

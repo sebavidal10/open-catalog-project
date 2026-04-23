@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605544902711",
+  "title": "New X-Men #27",
+  "authors": [
+    "Brian Reber",
+    "Christopher Yost",
+    "Craig Kyle",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Juan Vlasco",
+    "Mike Marts",
+    "Nick Lowe",
+    "Paco Medina",
+    "Sean Ryan"
+  ],
+  "publish_date": "2006-06-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-27.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47670/",
+  "fetched_at": "2026-04-23T18:39:49.192Z",
+  "reviewed_at": null
+}

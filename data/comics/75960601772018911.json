@@ -1,0 +1,37 @@
+{
+  "isbn": null,
+  "upc": "75960601772018911",
+  "title": "X-Men #189",
+  "authors": [
+    "Al Vey",
+    "Antonio Fabela",
+    "Chris Bachalo",
+    "Cory Petit",
+    "Dan Buckley",
+    "David Hahn",
+    "Jaime Mendoza",
+    "Joe Quesada",
+    "Jon Holdredge",
+    "Karl Kesel",
+    "Mark Irwin",
+    "Mike Carey",
+    "Mike Marts",
+    "Nick Lowe",
+    "Nicole Wiley Boose",
+    "Peter Pantazis",
+    "Rus Wooton",
+    "Sean Ryan",
+    "Tim Townsend",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2006-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-v2-189.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27306/",
+  "fetched_at": "2026-04-23T18:40:56.752Z",
+  "reviewed_at": "2006-09-01"
+}

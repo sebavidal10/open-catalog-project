@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960602461231411",
+  "title": "The Uncanny X-Men #314",
+  "authors": [
+    "Ben Raab",
+    "Bill Sienkiewicz",
+    "Bob Harras",
+    "Chris Eliopoulos",
+    "Joe Rubinstein",
+    "Lee Weeks",
+    "Scott Lobdell",
+    "Steve Buccellato",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1994-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/16/uncanny-xmen-v1-314.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21047/",
+  "fetched_at": "2026-04-23T17:37:03.212Z",
+  "reviewed_at": "1994-07-01"
+}

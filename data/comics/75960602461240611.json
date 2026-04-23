@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960602461240611",
+  "title": "The Uncanny X-Men #406",
+  "authors": [
+    "Aaron Lopresti",
+    "Ariel Olivetti",
+    "Bill Jemas",
+    "Brian Miller",
+    "Dan Buckley",
+    "Danny Miki",
+    "Joe Casey",
+    "Joe Quesada",
+    "Mark Morales",
+    "Mark Powers",
+    "Pete Franco",
+    "Richard Starkings",
+    "Saida Temofonte"
+  ],
+  "publish_date": "2002-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/18/uncanny-xmen-v1-406.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21148/",
+  "fetched_at": "2026-04-23T18:12:06.933Z",
+  "reviewed_at": "2002-06-01"
+}

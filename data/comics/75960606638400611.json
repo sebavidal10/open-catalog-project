@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960606638400611",
+  "title": "X-Men Forever #6",
+  "authors": [
+    "Chris Claremont",
+    "Mark Paniccia",
+    "Moose Baumann",
+    "Paul Acerios",
+    "Paul Smith",
+    "Terry Austin",
+    "Tom Grummett",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "2009-08-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/17/fcfd65c5d9974041aafd999b62dea6b8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151759/",
+  "fetched_at": "2026-04-23T19:02:34.921Z",
+  "reviewed_at": null
+}

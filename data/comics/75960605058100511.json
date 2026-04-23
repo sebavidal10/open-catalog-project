@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605058100511",
+  "title": "X-Men Forever #5",
+  "authors": [
+    "Andrew Pepoy",
+    "Brian Smith",
+    "Fabian Nicieza",
+    "Kevin Maguire",
+    "Mark Powers",
+    "Paul Mounts",
+    "Pete Franco",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Saida Temofonte"
+  ],
+  "publish_date": "2001-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/17/e66b0e9124394fbb88673253613e167d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151782/",
+  "fetched_at": "2026-04-23T18:06:16.962Z",
+  "reviewed_at": "2001-05-01"
+}

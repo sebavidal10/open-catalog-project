@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960607008400111",
+  "title": "X-Men Origins: Cyclops #1",
+  "authors": [
+    "Adi Granov",
+    "Alan Fine",
+    "Andy Lanning",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Jesse Delperdang",
+    "Joe Quesada",
+    "Matt Hollingsworth",
+    "Nick Lowe",
+    "Rob Steen",
+    "Stuart Moore"
+  ],
+  "publish_date": "2010-01-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/14/x-men-origins-cyclops-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27269/",
+  "fetched_at": "2026-04-23T19:05:56.284Z",
+  "reviewed_at": null
+}

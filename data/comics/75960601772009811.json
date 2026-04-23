@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601772009811",
+  "title": "X-Men #98",
+  "authors": [
+    "Alan Davis",
+    "Bob Harras",
+    "Marie Javins",
+    "Mark Farmer",
+    "Mark Powers",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Terry Kavanagh"
+  ],
+  "publish_date": "2000-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-98.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23579/",
+  "fetched_at": "2026-04-23T18:00:06.818Z",
+  "reviewed_at": "2000-03-01"
+}

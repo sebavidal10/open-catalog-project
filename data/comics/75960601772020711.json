@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960601772020711",
+  "title": "X-Men #207",
+  "authors": [
+    "Al Vey",
+    "Axel Alonso",
+    "Brian Reber",
+    "Chris Bachalo",
+    "Cory Petit",
+    "Dan Buckley",
+    "David Finch",
+    "Edgar Delgado",
+    "Jason Keith",
+    "Jim Cheung",
+    "Joe Quesada",
+    "John Dell",
+    "Jonathan Sibal",
+    "Mike Carey",
+    "Nick Lowe",
+    "Tim Townsend",
+    "Victor Olazaba",
+    "Will Panzo"
+  ],
+  "publish_date": "2008-01-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-v2-207.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27324/",
+  "fetched_at": "2026-04-23T18:51:21.394Z",
+  "reviewed_at": null
+}

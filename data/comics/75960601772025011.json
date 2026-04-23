@@ -1,0 +1,37 @@
+{
+  "isbn": null,
+  "upc": "75960601772025011",
+  "title": "X-Men: Legacy #250",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Bill Sienkiewicz",
+    "Brian Reber",
+    "Chris Claremont",
+    "Cory Petit",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Glynis Oliver",
+    "Jay Leisten",
+    "Joe Quesada",
+    "Khoi Pham",
+    "Marte Gracia",
+    "Mico Suayan",
+    "Mike Carey",
+    "Nick Lowe",
+    "Sebastian Girner",
+    "Steve Kurth",
+    "Tom Orzechowski",
+    "Tom Palmer"
+  ],
+  "publish_date": "2011-06-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/10/x-men-legacy-250.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39342/",
+  "fetched_at": "2026-04-23T19:15:54.081Z",
+  "reviewed_at": null
+}

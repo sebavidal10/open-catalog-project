@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605544903711",
+  "title": "New X-Men #37",
+  "authors": [
+    "Christopher Yost",
+    "Craig Kyle",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Dave Sharpe",
+    "Jacob Chabot",
+    "Jean-Francois Beaulieu",
+    "Joe Quesada",
+    "Nick Lowe",
+    "Niko Henrichon",
+    "Paco Medina",
+    "Sean Parsons",
+    "Skottie Young"
+  ],
+  "publish_date": "2007-04-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-37.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47680/",
+  "fetched_at": "2026-04-23T18:46:01.054Z",
+  "reviewed_at": null
+}

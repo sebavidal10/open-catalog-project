@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "596060554300911",
+  "title": "Astonishing X-Men #9",
+  "authors": [
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Joe Quesada",
+    "John Cassaday",
+    "Joss Whedon",
+    "Laura Martin",
+    "Mike Marts",
+    "Nick Lowe",
+    "Sean Ryan"
+  ],
+  "publish_date": "2005-03-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/26/astonishing-x-men-v3-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29830/",
+  "fetched_at": "2026-04-23T18:28:28.883Z",
+  "reviewed_at": "2005-03-01"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601772005711",
+  "title": "X-Men #57",
+  "authors": [
+    "Albert Deschesne",
+    "Andy Kubert",
+    "Art Thibert",
+    "Bob Harras",
+    "Jason Liebig",
+    "Joe Rosas",
+    "Richard Starkings",
+    "Scott Lobdell"
+  ],
+  "publish_date": "1996-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-57.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23533/",
+  "fetched_at": "2026-04-23T17:48:18.066Z",
+  "reviewed_at": "1996-10-01"
+}

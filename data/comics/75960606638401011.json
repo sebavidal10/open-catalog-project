@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960606638401011",
+  "title": "X-Men Forever #10",
+  "authors": [
+    "Adam Street",
+    "Alan Fine",
+    "Charlie Beckerman",
+    "Chris Claremont",
+    "Cory Hamscher",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Moose Baumann",
+    "Paul Acerios",
+    "Paul Smith",
+    "Terry Austin",
+    "Tom Grummett",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "2009-10-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/17/4de1a20f3589414ab8e7f9b3142d6bff.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151763/",
+  "fetched_at": "2026-04-23T19:03:44.401Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960601772008611",
+  "title": "X-Men #86",
+  "authors": [
+    "Alan Davis",
+    "Bob Harras",
+    "Fabian Nicieza",
+    "Jason Liebig",
+    "Liquid!",
+    "Mark Farmer",
+    "Mark Powers",
+    "Richard Starkings",
+    "Wes Abbott"
+  ],
+  "publish_date": "1999-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-86.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23567/",
+  "fetched_at": "2026-04-23T17:56:26.697Z",
+  "reviewed_at": "1999-03-01"
+}

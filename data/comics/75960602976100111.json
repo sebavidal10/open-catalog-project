@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960602976100111",
+  "title": "X-Men Alpha #1",
+  "authors": [
+    "Bob Harras",
+    "Comicraft",
+    "Dan Panosian",
+    "Joe Madureira",
+    "Mark Waid",
+    "Richard Starkings",
+    "Roger Cruz",
+    "Scott Lobdell",
+    "Steve Buccellato",
+    "Steve Epting",
+    "Tim Townsend",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1995-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/07/image_part_002.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130987/",
+  "fetched_at": "2026-04-23T17:39:56.977Z",
+  "reviewed_at": "1995-02-01"
+}

@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960602461236511",
+  "title": "The Uncanny X-Men #365",
+  "authors": [
+    "Aaron Sowd",
+    "Albert Deschesne",
+    "Art Thibert",
+    "Bob Harras",
+    "Brandon Peterson",
+    "Chris Bachalo",
+    "Comicraft",
+    "Dan Buckley",
+    "Joe Quesada",
+    "John G Roshell",
+    "Liquid!",
+    "Mark Powers",
+    "Monica Kubina",
+    "Richard Starkings",
+    "Steve Seagle",
+    "Tim Townsend"
+  ],
+  "publish_date": "1999-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/16/uncanny-xmen-v1-365.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21098/",
+  "fetched_at": "2026-04-23T17:56:02.140Z",
+  "reviewed_at": "1999-02-01"
+}

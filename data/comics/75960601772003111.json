@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601772003111",
+  "title": "X-Men #31",
+  "authors": [
+    "Andy Kubert",
+    "Ben Raab",
+    "Bill Oakley",
+    "Bob Harras",
+    "Fabian Nicieza",
+    "Lovern Kindzierski",
+    "Matt Ryan",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1994-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-31.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23507/",
+  "fetched_at": "2026-04-23T17:36:00.129Z",
+  "reviewed_at": "1994-04-01"
+}

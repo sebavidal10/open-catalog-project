@@ -1,0 +1,40 @@
+{
+  "isbn": null,
+  "upc": "75960606600100111",
+  "title": "X-Men: Original Sin #1",
+  "authors": [
+    "Andrew Hennessy",
+    "Anthony Dial",
+    "Axel Alonso",
+    "Chris Claremont",
+    "Cory Petit",
+    "Daniel Ketchum",
+    "Daniel Way",
+    "Glynis Oliver",
+    "Jason Keith",
+    "Jeff Youngquist",
+    "Jody Leheup",
+    "Joe Quesada",
+    "Joe Sabino",
+    "John Barber",
+    "John Bolton",
+    "Mark D. Beazley",
+    "Mike Carey",
+    "Mike Deodato",
+    "Nick Lowe",
+    "Rain Beredo",
+    "Richard Isanove",
+    "Scot Eaton",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "2008-10-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/16/37890102922c47488617d78b3e03faf6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151685/",
+  "fetched_at": "2026-04-23T18:56:34.720Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960602461242711",
+  "title": "The Uncanny X-Men #427",
+  "authors": [
+    "Bill Jemas",
+    "Chuck Austen",
+    "Dan Buckley",
+    "Dan Green",
+    "Joe Quesada",
+    "Jonathan D. Smith",
+    "Mark Morales",
+    "Mike Marts",
+    "Mike Raicht",
+    "Philip Tan",
+    "Rus Wooton",
+    "Sandu Florea",
+    "Steve Kim",
+    "Warren Simons"
+  ],
+  "publish_date": "2003-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/18/uncanny-xmen-v1-427.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21169/",
+  "fetched_at": "2026-04-23T18:19:24.805Z",
+  "reviewed_at": "2003-09-01"
+}

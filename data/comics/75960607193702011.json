@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607193702011",
+  "title": "X-Men #20",
+  "authors": [
+    "Adi Granov",
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Sotomayor",
+    "Dale Keown",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Nick Lowe",
+    "Victor Gischler",
+    "Will Conrad"
+  ],
+  "publish_date": "2011-11-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v3-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28037/",
+  "fetched_at": "2026-04-23T19:18:48.717Z",
+  "reviewed_at": null
+}

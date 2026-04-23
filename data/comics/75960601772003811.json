@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960601772003811",
+  "title": "X-Men #38",
+  "authors": [
+    "Andy Kubert",
+    "Ben Raab",
+    "Bill Oakley",
+    "Bob Harras",
+    "Fabian Nicieza",
+    "Kevin Somers",
+    "Matt Ryan"
+  ],
+  "publish_date": "1994-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-38.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23514/",
+  "fetched_at": "2026-04-23T17:38:35.438Z",
+  "reviewed_at": "1994-11-01"
+}

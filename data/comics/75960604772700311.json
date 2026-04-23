@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960604772700311",
+  "title": "Astonishing X-Men #3",
+  "authors": [
+    "Bob Harras",
+    "Brandon Peterson",
+    "Dan Panosian",
+    "Howard Mackie",
+    "Jon Babcock",
+    "Liquid!",
+    "Mark Powers",
+    "Tim Townsend"
+  ],
+  "publish_date": "1999-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/26/astonishing-x-men-v2-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29821/",
+  "fetched_at": "2026-04-23T17:58:30.970Z",
+  "reviewed_at": "1999-11-01"
+}

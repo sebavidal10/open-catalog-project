@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960601406400411",
+  "title": "X-Men Unlimited #4",
+  "authors": [
+    "Bob Harras",
+    "Dave Sharpe",
+    "Gina Going-Raney",
+    "Glynis Oliver",
+    "Jaye Gardner",
+    "Joe Madureira",
+    "Kelly Corvese",
+    "Kevin Somers",
+    "Matt Ryan",
+    "Richard Bennett",
+    "Scott Lobdell",
+    "Steve Moncuse",
+    "Tom DeFalco",
+    "Tom Raney"
+  ],
+  "publish_date": "1994-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/03/X-Men_Unlimited_1993-2003_004-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130477/",
+  "fetched_at": "2026-04-23T17:35:46.237Z",
+  "reviewed_at": "1994-03-01"
+}

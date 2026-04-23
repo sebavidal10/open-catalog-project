@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "75960604799402211",
+  "title": "X-Men The Hidden Years #22",
+  "authors": [
+    "Bill Jemas",
+    "Joe Quesada",
+    "John Byrne",
+    "Lysa Hawkins",
+    "Tom Palmer"
+  ],
+  "publish_date": "2001-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/04/x-men-the-hidden-years-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/31708/",
+  "fetched_at": "2026-04-23T18:08:03.262Z",
+  "reviewed_at": "2001-09-01"
+}

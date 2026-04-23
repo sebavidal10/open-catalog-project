@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960601406402411",
+  "title": "X-Men Unlimited #24",
+  "authors": [
+    "Alitha Martinez",
+    "Andrew Pepoy",
+    "Bob Harras",
+    "Hector Collazo",
+    "Jason Liebig",
+    "Joe Pruett",
+    "John Czop",
+    "Jon Holdredge",
+    "Mark Bernardo",
+    "Nelson DeCastro",
+    "Pascal Alixe",
+    "Rich Perrotta",
+    "Rodney Ramos",
+    "Scott Koblish",
+    "Tom Raney"
+  ],
+  "publish_date": "1999-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/03/xmen_unlimited_24_cvr.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130497/",
+  "fetched_at": "2026-04-23T17:58:05.574Z",
+  "reviewed_at": "1999-09-01"
+}

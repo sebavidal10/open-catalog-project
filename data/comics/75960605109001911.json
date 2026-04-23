@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960605109001911",
+  "title": "X-Treme X-Men #19",
+  "authors": [
+    "Andrew Lis",
+    "Bill Jemas",
+    "Chris Claremont",
+    "Joe Quesada",
+    "Liquid!",
+    "Salvador Larroca",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "2002-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/11/x-treme-x-men-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39434/",
+  "fetched_at": "2026-04-23T18:14:52.092Z",
+  "reviewed_at": "2002-12-01"
+}

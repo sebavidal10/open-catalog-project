@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960607193700211",
+  "title": "X-Men #2",
+  "authors": [
+    "Adi Granov",
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Jake Thomas",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Juan Vlasco",
+    "Marte Gracia",
+    "Paco Medina",
+    "Victor Gischler"
+  ],
+  "publish_date": "2010-08-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v3-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28019/",
+  "fetched_at": "2026-04-23T19:10:15.460Z",
+  "reviewed_at": null
+}

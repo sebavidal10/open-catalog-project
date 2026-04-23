@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960606638401111",
+  "title": "X-Men Forever #11",
+  "authors": [
+    "Chris Claremont",
+    "Cory Hamscher",
+    "Terry Austin",
+    "Tom Grummett",
+    "Tom Orzechowski",
+    "Wil Quintana"
+  ],
+  "publish_date": "2009-11-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/17/68f5f62768f2407ba36ccb87cffe2832.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151764/",
+  "fetched_at": "2026-04-23T19:04:19.437Z",
+  "reviewed_at": null
+}

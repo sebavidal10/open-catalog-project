@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605109001411",
+  "title": "X-Treme X-Men #14",
+  "authors": [
+    "Andrew Lis",
+    "Bill Jemas",
+    "Chris Claremont",
+    "Joe Quesada",
+    "Liquid!",
+    "Lynne Yoshii",
+    "Salvador Larroca",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "2002-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/11/x-treme-x-men-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39429/",
+  "fetched_at": "2026-04-23T18:12:57.111Z",
+  "reviewed_at": "2002-08-01"
+}

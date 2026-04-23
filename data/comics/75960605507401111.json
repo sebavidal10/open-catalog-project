@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605507401111",
+  "title": "X-Men Unlimited #11",
+  "authors": [
+    "Billy Dallas Patton",
+    "Cam Smith",
+    "Christopher Yost",
+    "Dave Sharpe",
+    "David Aja",
+    "David Hahn",
+    "Derek Fridolfs",
+    "Joe Quesada",
+    "Mike Deodato",
+    "Tony Aviña",
+    "Warren Simons"
+  ],
+  "publish_date": "2005-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/11/X-Men_Unlimited_011-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131428/",
+  "fetched_at": "2026-04-23T18:34:27.697Z",
+  "reviewed_at": "2005-12-01"
+}

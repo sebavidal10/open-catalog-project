@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960601772002711",
+  "title": "X-Men #27",
+  "authors": [
+    "Bill Oakley",
+    "Bob Harras",
+    "Bob Wiacek",
+    "Fabian Nicieza",
+    "Joe Rosas",
+    "Lisa Patrick",
+    "Richard Bennett",
+    "Scott Hanna",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1993-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-27.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23503/",
+  "fetched_at": "2026-04-23T17:34:21.168Z",
+  "reviewed_at": "1993-12-01"
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960601772007511",
+  "title": "X-Men #75",
+  "authors": [
+    "Albert Deschesne",
+    "Art Thibert",
+    "Bob Harras",
+    "Carlos Pacheco",
+    "Dan Panosian",
+    "Digital Chameleon",
+    "Germán García",
+    "Joe Kelly",
+    "Jon Holdredge",
+    "Liquid!",
+    "Mark Powers",
+    "Richard Starkings",
+    "Scott Hanna"
+  ],
+  "publish_date": "1998-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-75.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23555/",
+  "fetched_at": "2026-04-23T17:53:26.111Z",
+  "reviewed_at": "1998-05-01"
+}

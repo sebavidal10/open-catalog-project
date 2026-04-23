@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607193702611",
+  "title": "X-Men #26",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Cam Smith",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Guru-eFX",
+    "Jeanine Schaefer",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Jorge Molina",
+    "Nick Lowe",
+    "Victor Gischler"
+  ],
+  "publish_date": "2012-03-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v3-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28044/",
+  "fetched_at": "2026-04-23T19:21:25.004Z",
+  "reviewed_at": null
+}

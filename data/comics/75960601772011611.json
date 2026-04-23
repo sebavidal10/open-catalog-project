@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960601772011611",
+  "title": "New X-Men #116",
+  "authors": [
+    "Bill Jemas",
+    "Brian Miller",
+    "Dan Green",
+    "Frank Quitely",
+    "Grant Morrison",
+    "Joe Quesada",
+    "Mark Morales",
+    "Mark Powers",
+    "Pete Franco",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Tim Townsend"
+  ],
+  "publish_date": "2001-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/21/new-x-men-116.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27691/",
+  "fetched_at": "2026-04-23T18:07:47.418Z",
+  "reviewed_at": "2001-09-01"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605058100311",
+  "title": "X-Men Forever #3",
+  "authors": [
+    "Andrew Pepoy",
+    "Brian Smith",
+    "Fabian Nicieza",
+    "Joe Quesada",
+    "Kevin Maguire",
+    "Mark Powers",
+    "Paul Mounts",
+    "Pete Franco",
+    "Ralph Macchio",
+    "Richard Starkings"
+  ],
+  "publish_date": "2001-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/17/4044ee05710e4c49a0ba2fe95fc7910b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151780/",
+  "fetched_at": "2026-04-23T18:05:13.954Z",
+  "reviewed_at": "2001-03-01"
+}

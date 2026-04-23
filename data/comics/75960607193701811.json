@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607193701811",
+  "title": "X-Men #18",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Guru-eFX",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Mike McKone",
+    "Mirco Pierfederici",
+    "Nick Lowe",
+    "Rachelle Rosenberg",
+    "Victor Gischler"
+  ],
+  "publish_date": "2011-09-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v3-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28035/",
+  "fetched_at": "2026-04-23T19:17:38.269Z",
+  "reviewed_at": null
+}

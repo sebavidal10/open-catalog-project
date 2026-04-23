@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601772005911",
+  "title": "X-Men #59",
+  "authors": [
+    "Albert Deschesne",
+    "Andy Kubert",
+    "Art Thibert",
+    "Bob Harras",
+    "Jason Liebig",
+    "Joe Rosas",
+    "Mark Powers",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Scott Lobdell"
+  ],
+  "publish_date": "1996-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-59.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23535/",
+  "fetched_at": "2026-04-23T17:48:55.348Z",
+  "reviewed_at": "1996-12-01"
+}

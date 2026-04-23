@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960602461236611",
+  "title": "The Uncanny X-Men #366",
+  "authors": [
+    "Alan Davis",
+    "Bob Harras",
+    "Brandon Peterson",
+    "Comicraft",
+    "Dan Buckley",
+    "Edgar Tadeo",
+    "Fabian Nicieza",
+    "Joe Quesada",
+    "John Livesay",
+    "Leinil Francis Yu",
+    "Liquid!",
+    "Mark Powers",
+    "Richard Starkings",
+    "Tim Townsend"
+  ],
+  "publish_date": "1999-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/16/uncanny-xmen-v1-366.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21099/",
+  "fetched_at": "2026-04-23T17:56:18.771Z",
+  "reviewed_at": "1999-03-01"
+}

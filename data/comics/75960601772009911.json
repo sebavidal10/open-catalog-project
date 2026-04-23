@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601772009911",
+  "title": "X-Men #99",
+  "authors": [
+    "Alan Davis",
+    "Bob Harras",
+    "Brett Booth",
+    "Brian Miller",
+    "Mark Powers",
+    "Paul Smith",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Sal Regla",
+    "Terry Kavanagh"
+  ],
+  "publish_date": "2000-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-99.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23580/",
+  "fetched_at": "2026-04-23T18:00:41.122Z",
+  "reviewed_at": "2000-04-01"
+}

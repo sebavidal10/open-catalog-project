@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960606638402011",
+  "title": "X-Men Forever #20",
+  "authors": [
+    "Alan Fine",
+    "Charlie Beckerman",
+    "Chris Claremont",
+    "Cory Hamscher",
+    "Damien Lucchese",
+    "Dan Buckley",
+    "Graham Nolan",
+    "Guillem Mari",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Michael Horwitz",
+    "Moose Baumann",
+    "Scott Koblish",
+    "Tom Grummett",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "2010-03-31",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/17/e1123b7b6a2649e8becd487169e59258.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151773/",
+  "fetched_at": "2026-04-23T19:06:55.883Z",
+  "reviewed_at": null
+}

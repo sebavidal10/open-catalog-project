@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960602461235611",
+  "title": "The Uncanny X-Men #356",
+  "authors": [
+    "Albert Deschesne",
+    "Bob Harras",
+    "Chris Bachalo",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Mark Powers",
+    "Richard Starkings",
+    "Steve Buccellato",
+    "Steve Seagle",
+    "Tim Townsend"
+  ],
+  "publish_date": "1998-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/16/uncanny-xmen-v1-356.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21089/",
+  "fetched_at": "2026-04-23T17:53:38.546Z",
+  "reviewed_at": "1998-06-01"
+}

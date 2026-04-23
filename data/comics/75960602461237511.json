@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960602461237511",
+  "title": "The Uncanny X-Men #375",
+  "authors": [
+    "Adam Kubert",
+    "Alan Davis",
+    "Bob Harras",
+    "Chris Sotomayor",
+    "Comicraft",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Mark Powers",
+    "Matt Banning",
+    "Richard Starkings",
+    "Terry Kavanagh",
+    "Tim Townsend"
+  ],
+  "publish_date": "1999-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/17/uncanny-xmen-v1-375.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21117/",
+  "fetched_at": "2026-04-23T17:58:51.147Z",
+  "reviewed_at": "1999-12-01"
+}

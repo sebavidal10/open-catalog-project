@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960601772018011",
+  "title": "X-Men #180",
+  "authors": [
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Liquid!",
+    "Mike Marts",
+    "Nick Lowe",
+    "Peter Milligan",
+    "Roger Cruz",
+    "Salvador Larroca",
+    "Sean Ryan",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2006-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-v2-180.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27297/",
+  "fetched_at": "2026-04-23T18:35:31.797Z",
+  "reviewed_at": "2006-02-01"
+}

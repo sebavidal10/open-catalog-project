@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960606169300111",
+  "title": "X-Men: First Class #1",
+  "authors": [
+    "Jeff Parker",
+    "Marko Djurdjević",
+    "Mark Paniccia",
+    "Nate Piekos",
+    "Roger Cruz",
+    "Val Staples",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2007-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/10/21/X-Men_-_First_Class_001-000_rfYZuVn.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/129614/",
+  "fetched_at": "2026-04-23T18:47:22.605Z",
+  "reviewed_at": "2007-08-01"
+}

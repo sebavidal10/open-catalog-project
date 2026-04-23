@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960601772017511",
+  "title": "X-Men #175",
+  "authors": [
+    "Allen Martinez",
+    "Cory Petit",
+    "Dan Buckley",
+    "Danny Miki",
+    "Joe Quesada",
+    "Liquid!",
+    "Mike Marts",
+    "Nick Lowe",
+    "Peter Milligan",
+    "Salvador Larroca",
+    "Sean Ryan"
+  ],
+  "publish_date": "2005-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-v2-175.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27292/",
+  "fetched_at": "2026-04-23T18:33:42.540Z",
+  "reviewed_at": "2005-11-01"
+}

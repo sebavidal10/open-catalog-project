@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605109004011",
+  "title": "X-Treme X-Men #40",
+  "authors": [
+    "Chris Claremont",
+    "Cory Sedlmeier",
+    "Dan Buckley",
+    "Greg Adams",
+    "Igor Kordey",
+    "Joe Quesada",
+    "Liquid!",
+    "Mike Marts",
+    "Rus Wooton",
+    "Salvador Larroca",
+    "Stephanie Moore"
+  ],
+  "publish_date": "2004-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/12/x-treme-x-men-40.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39455/",
+  "fetched_at": "2026-04-23T18:22:37.732Z",
+  "reviewed_at": "2004-03-01"
+}

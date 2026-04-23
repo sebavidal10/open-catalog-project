@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605544904311",
+  "title": "New X-Men #43",
+  "authors": [
+    "Bryan Hitch",
+    "Christopher Yost",
+    "Craig Kyle",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Dave Sharpe",
+    "Irene Lee",
+    "Jean-Francois Beaulieu",
+    "Joe Quesada",
+    "Nick Lowe",
+    "Paul Mounts",
+    "Skottie Young"
+  ],
+  "publish_date": "2007-10-31",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-43.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47686/",
+  "fetched_at": "2026-04-23T18:49:04.585Z",
+  "reviewed_at": null
+}

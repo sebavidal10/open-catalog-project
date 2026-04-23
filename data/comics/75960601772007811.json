@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960601772007811",
+  "title": "X-Men #78",
+  "authors": [
+    "Art Thibert",
+    "Bob Harras",
+    "Emerson Miranda",
+    "Germán García",
+    "Joe Kelly",
+    "Liquid!",
+    "Mark Morales",
+    "Mark Powers",
+    "Richard Starkings"
+  ],
+  "publish_date": "1998-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-78.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23558/",
+  "fetched_at": "2026-04-23T17:54:20.499Z",
+  "reviewed_at": "1998-08-01"
+}

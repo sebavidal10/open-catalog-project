@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960601772007311",
+  "title": "X-Men #73",
+  "authors": [
+    "Bob Harras",
+    "Dan Panosian",
+    "Digital Chameleon",
+    "Emerson Miranda",
+    "Jason Pearson",
+    "Jeff Johnson",
+    "Joe Casey",
+    "Joe Kelly",
+    "Mark Powers",
+    "Richard Starkings",
+    "Steve Oliff"
+  ],
+  "publish_date": "1998-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-73.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23553/",
+  "fetched_at": "2026-04-23T17:52:55.608Z",
+  "reviewed_at": "1998-03-01"
+}

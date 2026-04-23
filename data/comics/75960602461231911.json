@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960602461231911",
+  "title": "The Uncanny X-Men #319",
+  "authors": [
+    "Ben Raab",
+    "Bob Harras",
+    "Chris Eliopoulos",
+    "Dan Green",
+    "Matt Hicks",
+    "Paul Becton",
+    "Scott Lobdell",
+    "Steve Buccellato",
+    "Steve Epting",
+    "Tim Townsend",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1994-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/16/uncanny-xmen-v1-319.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21052/",
+  "fetched_at": "2026-04-23T17:38:52.172Z",
+  "reviewed_at": "1994-12-01"
+}

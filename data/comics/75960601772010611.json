@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960601772010611",
+  "title": "X-Men #106",
+  "authors": [
+    "Anthony Williams",
+    "Chris Claremont",
+    "Comicraft",
+    "Liquid!",
+    "Mark Morales",
+    "Mark Powers",
+    "Norm Rapmund",
+    "Richard Starkings",
+    "Rick Ketcham",
+    "Scott Hanna",
+    "Tom Derenick",
+    "Tom Raney"
+  ],
+  "publish_date": "2000-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-106.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23587/",
+  "fetched_at": "2026-04-23T18:03:21.996Z",
+  "reviewed_at": "2000-11-01"
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960602461235011",
+  "title": "The Uncanny X-Men #350",
+  "authors": [
+    "Andy Smith",
+    "Bob Harras",
+    "Dan Panosian",
+    "Joe Madureira",
+    "Kolja Fuchs",
+    "Mark Powers",
+    "Richard Starkings",
+    "Steve Buccellato",
+    "Steve Seagle",
+    "Tim Townsend",
+    "Vince Russell"
+  ],
+  "publish_date": "1997-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/16/uncanny-xmen-v1-350.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21083/",
+  "fetched_at": "2026-04-23T17:52:07.117Z",
+  "reviewed_at": "1997-12-01"
+}

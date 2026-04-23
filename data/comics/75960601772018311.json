@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960601772018311",
+  "title": "X-Men #183",
+  "authors": [
+    "Aron Lusen",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dave McCaig",
+    "Joe Quesada",
+    "Mike Marts",
+    "Nick Lowe",
+    "Pasqual Ferry",
+    "Peter Milligan",
+    "Salvador Larroca",
+    "Sean Ryan"
+  ],
+  "publish_date": "2006-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-v2-183.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27300/",
+  "fetched_at": "2026-04-23T18:37:42.784Z",
+  "reviewed_at": "2006-04-01"
+}

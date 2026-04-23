@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607689500111",
+  "title": "Uncanny X-Men #1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Cam Smith",
+    "Carlos Pacheco",
+    "Dale Keown",
+    "Dan Buckley",
+    "Frank Cho",
+    "Frank D'Armata",
+    "Jason Keith",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Kieron Gillen",
+    "Nick Lowe",
+    "Sebastian Girner"
+  ],
+  "publish_date": "2011-11-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/24/uncanny-x-men-v2-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29714/",
+  "fetched_at": "2026-04-23T19:18:36.838Z",
+  "reviewed_at": null
+}

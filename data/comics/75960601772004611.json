@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960601772004611",
+  "title": "X-Men #46",
+  "authors": [
+    "Andy Kubert",
+    "Ben Raab",
+    "Bob Harras",
+    "Cam Smith",
+    "Kevin Somers",
+    "Richard Starkings",
+    "Scott Lobdell"
+  ],
+  "publish_date": "1995-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-46.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23522/",
+  "fetched_at": "2026-04-23T17:43:40.978Z",
+  "reviewed_at": "1995-11-01"
+}

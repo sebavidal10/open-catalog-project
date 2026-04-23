@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960601406401411",
+  "title": "X-Men Unlimited #14",
+  "authors": [
+    "Andrew Pepoy",
+    "Jim Cheung",
+    "Kelly Corvese",
+    "Kevin Somers",
+    "Matt Idelson",
+    "Richard Starkings",
+    "Terry Kavanagh"
+  ],
+  "publish_date": "1997-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/03/X-Men_Unlimited_014-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130487/",
+  "fetched_at": "2026-04-23T17:50:01.825Z",
+  "reviewed_at": "1997-03-01"
+}

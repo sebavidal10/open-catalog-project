@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605544901911",
+  "title": "New X-Men #19",
+  "authors": [
+    "Aaron Lopresti",
+    "Brad Vancata",
+    "Christina Weir",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Mike Marts",
+    "Nick Lowe",
+    "Norm Rapmund",
+    "Nunzio DeFilippis",
+    "Sean Ryan",
+    "Tom Chu"
+  ],
+  "publish_date": "2005-10-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47662/",
+  "fetched_at": "2026-04-23T18:33:58.980Z",
+  "reviewed_at": null
+}

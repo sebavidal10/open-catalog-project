@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960601406403111",
+  "title": "X-Men Unlimited #31",
+  "authors": [
+    "Brian Stelfreeze",
+    "Charlie Adlard",
+    "Gina Going-Raney",
+    "John Costanza",
+    "Michael Golden",
+    "Steven Grant"
+  ],
+  "publish_date": "2001-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/03/Untitled-01_3QEhHkI.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130504/",
+  "fetched_at": "2026-04-23T18:06:51.928Z",
+  "reviewed_at": "2001-06-01"
+}

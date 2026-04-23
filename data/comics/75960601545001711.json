@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601545001711",
+  "title": "X-Men 2099 #17",
+  "authors": [
+    "Bobbie Chase",
+    "Harry Candelario",
+    "Joey Cavalieri",
+    "John Francis Moore",
+    "Ken Lopez",
+    "Lia Pelosi",
+    "Ron Lim",
+    "Tom Smith"
+  ],
+  "publish_date": "1995-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/04/X-Men_2099_-_170001.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130757/",
+  "fetched_at": "2026-04-23T17:39:52.675Z",
+  "reviewed_at": "1995-02-01"
+}

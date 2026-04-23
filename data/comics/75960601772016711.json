@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601772016711",
+  "title": "X-Men #167",
+  "authors": [
+    "Cory Petit",
+    "Dan Buckley",
+    "Danny Miki",
+    "Joe Quesada",
+    "Liquid!",
+    "Mike Marts",
+    "Peter Milligan",
+    "Salvador Larroca",
+    "Sean Ryan",
+    "Stephanie Moore"
+  ],
+  "publish_date": "2005-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-2-167.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27284/",
+  "fetched_at": "2026-04-23T18:29:18.655Z",
+  "reviewed_at": "2005-04-01"
+}

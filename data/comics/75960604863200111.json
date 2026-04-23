@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960604863200111",
+  "title": "Black Sun: X-Men #1",
+  "authors": [
+    "Bob Harras",
+    "Chris Claremont",
+    "Mike Marts",
+    "Sean Parsons",
+    "Tom Derenick",
+    "Tom Smith",
+    "Vince Evans"
+  ],
+  "publish_date": "2000-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/04/X-Men_-_Black_Sun_001-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130552/",
+  "fetched_at": "2026-04-23T18:03:13.695Z",
+  "reviewed_at": "2000-11-01"
+}

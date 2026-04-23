@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960606638400911",
+  "title": "X-Men Forever #9",
+  "authors": [
+    "Alan Fine",
+    "Al Vey",
+    "Charlie Beckerman",
+    "Chris Claremont",
+    "Chris Garcia",
+    "Dan Buckley",
+    "Ed Dukeshire",
+    "Gary Martin",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Peter Vale",
+    "Steve Scott",
+    "Tom Grummett"
+  ],
+  "publish_date": "2009-10-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/17/e556b217e7664ccea6b221ad5bf4f003.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151762/",
+  "fetched_at": "2026-04-23T19:03:40.340Z",
+  "reviewed_at": null
+}

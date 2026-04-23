@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960601772013111",
+  "title": "New X-Men #131",
+  "authors": [
+    "Bill Jemas",
+    "Bill Sienkiewicz",
+    "Chris Chuckry",
+    "Ethan Van Sciver",
+    "Grant Morrison",
+    "Joe Quesada",
+    "John Paul Leon",
+    "Mike Marts",
+    "Mike Raicht",
+    "Nova Ren Suma",
+    "Richard Starkings",
+    "Saida Temofonte"
+  ],
+  "publish_date": "2002-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/22/new-x-men-131.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27706/",
+  "fetched_at": "2026-04-23T18:13:40.056Z",
+  "reviewed_at": "2002-10-01"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601545000911",
+  "title": "X-Men 2099 #9",
+  "authors": [
+    "Joey Cavalieri",
+    "John Francis Moore",
+    "Ken Lopez",
+    "Lia Pelosi",
+    "Ron Lim",
+    "Steve Dutro",
+    "Tom DeFalco",
+    "Tom Smith"
+  ],
+  "publish_date": "1994-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/04/X-Men_2099_-_090001.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130744/",
+  "fetched_at": "2026-04-23T17:36:46.042Z",
+  "reviewed_at": "1994-06-01"
+}

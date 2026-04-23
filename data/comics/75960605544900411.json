@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960605544900411",
+  "title": "New X-Men #4",
+  "authors": [
+    "Christina Weir",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Mike Marts",
+    "Nunzio DeFilippis",
+    "Peter Pantazis",
+    "Randy Green",
+    "Rick Ketcham",
+    "Scott Koblish",
+    "Sean Ryan",
+    "Staz Johnson",
+    "Stephanie Moore",
+    "Tom Chu"
+  ],
+  "publish_date": "2004-08-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47647/",
+  "fetched_at": "2026-04-23T18:26:01.217Z",
+  "reviewed_at": null
+}

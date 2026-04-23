@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960602461238111",
+  "title": "The Uncanny X-Men #381",
+  "authors": [
+    "Adam Kubert",
+    "Bob Harras",
+    "Chris Claremont",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Mark Powers",
+    "Richard Isanove",
+    "Richard Starkings",
+    "Salvador Larroca",
+    "Tim Townsend",
+    "Wes Abbott"
+  ],
+  "publish_date": "2000-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/17/uncanny-xmen-v1-381.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21123/",
+  "fetched_at": "2026-04-23T18:01:15.537Z",
+  "reviewed_at": "2000-06-01"
+}

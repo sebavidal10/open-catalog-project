@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960601772011511",
+  "title": "New X-Men #115",
+  "authors": [
+    "Bill Jemas",
+    "Brian Miller",
+    "Frank Quitely",
+    "Grant Morrison",
+    "Joe Quesada",
+    "John Paul Leon",
+    "Mark Morales",
+    "Mark Powers",
+    "Pete Franco",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Tim Townsend"
+  ],
+  "publish_date": "2001-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/21/new-x-men-115.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27690/",
+  "fetched_at": "2026-04-23T18:07:22.160Z",
+  "reviewed_at": "2001-08-01"
+}

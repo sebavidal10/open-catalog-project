@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960602461233111",
+  "title": "The Uncanny X-Men #331",
+  "authors": [
+    "Ben Raab",
+    "Bob Harras",
+    "Bryan Hitch",
+    "Jeff Matsuda",
+    "John Dell",
+    "Paul Neary",
+    "Richard Starkings",
+    "Scott Lobdell",
+    "Steve Buccellato"
+  ],
+  "publish_date": "1996-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/16/uncanny-xmen-v1-331.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21064/",
+  "fetched_at": "2026-04-23T17:45:36.787Z",
+  "reviewed_at": "1996-04-01"
+}

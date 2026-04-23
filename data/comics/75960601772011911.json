@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601772011911",
+  "title": "New X-Men #119",
+  "authors": [
+    "Bill Jemas",
+    "Brian Miller",
+    "Frank Quitely",
+    "Grant Morrison",
+    "Igor Kordey",
+    "Joe Quesada",
+    "Mark Powers",
+    "Pete Franco",
+    "Richard Starkings",
+    "Saida Temofonte"
+  ],
+  "publish_date": "2001-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/21/new-x-men-119.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27694/",
+  "fetched_at": "2026-04-23T18:09:16.240Z",
+  "reviewed_at": "2001-12-01"
+}

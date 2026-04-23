@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601406402711",
+  "title": "X-Men Unlimited #27",
+  "authors": [
+    "Bob Harras",
+    "Brett Booth",
+    "Chris Claremont",
+    "Kevin Somers",
+    "Michael Kraiger",
+    "Rich Perrotta",
+    "Rodney Ramos",
+    "Ron Lim",
+    "Scott Elmer",
+    "Vince Russell"
+  ],
+  "publish_date": "2000-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/03/X-Men_Unlimited_027-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130500/",
+  "fetched_at": "2026-04-23T18:01:32.218Z",
+  "reviewed_at": "2000-06-01"
+}

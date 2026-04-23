@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960604803800111",
+  "title": "X-Men: The Hellfire Club #1",
+  "authors": [
+    "Adam Kubert",
+    "Ben Raab",
+    "Bob Harras",
+    "Charlie Adlard",
+    "Jon Babcock",
+    "Kevin Somers",
+    "Mark Powers"
+  ],
+  "publish_date": "2000-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/23/xmen-hellfire-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3980/",
+  "fetched_at": "2026-04-23T17:59:25.855Z",
+  "reviewed_at": "2000-01-01"
+}

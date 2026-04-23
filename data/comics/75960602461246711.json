@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960602461246711",
+  "title": "The Uncanny X-Men #467",
+  "authors": [
+    "Al Vey",
+    "Chris Bachalo",
+    "Chris Claremont",
+    "Dan Buckley",
+    "Jaime Mendoza",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jon Holdredge",
+    "Mike Marts",
+    "Nick Lowe",
+    "Norm Rapmund",
+    "Rob Hunter",
+    "Sandu Florea",
+    "Sean Parsons",
+    "Sean Ryan",
+    "Studio F",
+    "Tim Townsend",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2006-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/18/uncanny-xmen-v1-467.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21209/",
+  "fetched_at": "2026-04-23T18:35:23.621Z",
+  "reviewed_at": "2006-02-01"
+}

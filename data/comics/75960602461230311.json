@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960602461230311",
+  "title": "The Uncanny X-Men #303",
+  "authors": [
+    "Bob Harras",
+    "Chris Eliopoulos",
+    "Dan Green",
+    "Joe Rosas",
+    "Lisa Patrick",
+    "Richard Bennett",
+    "Scott Lobdell",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1993-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/15/uncanny-xmen-v1-303.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21036/",
+  "fetched_at": "2026-04-23T17:32:45.425Z",
+  "reviewed_at": "1993-08-01"
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605507400711",
+  "title": "X-Men Unlimited #7",
+  "authors": [
+    "Arvid Nelson",
+    "Carlo Pagulayan",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Lewis LaRosa",
+    "Mike Marts",
+    "Mike Raicht",
+    "Paul Smith",
+    "Sean Parsons",
+    "Sean Ryan",
+    "Stephanie Moore",
+    "Tom Palmer"
+  ],
+  "publish_date": "2005-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/11/X-Men_Unlimited_007-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131424/",
+  "fetched_at": "2026-04-23T18:29:26.657Z",
+  "reviewed_at": "2005-04-01"
+}

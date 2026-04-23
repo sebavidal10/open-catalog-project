@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960601772005021",
+  "title": "X-Men #50",
+  "authors": [
+    "Andy Kubert",
+    "Ben Raab",
+    "Bob Harras",
+    "Cam Smith",
+    "Joe Rosas",
+    "Richard Starkings",
+    "Scott Lobdell"
+  ],
+  "publish_date": "1996-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-50.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23526/",
+  "fetched_at": "2026-04-23T17:45:14.926Z",
+  "reviewed_at": "1996-03-01"
+}

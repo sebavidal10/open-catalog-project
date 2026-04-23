@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605507400211",
+  "title": "X-Men Unlimited #2",
+  "authors": [
+    "Adi Granov",
+    "Brian Reber",
+    "Cory Sedlmeier",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "David Hine",
+    "Joe Quesada",
+    "Mike Marts",
+    "Pat Lee",
+    "Robert Kirkman",
+    "Stephanie Moore",
+    "Takeshi Miyazawa"
+  ],
+  "publish_date": "2004-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/11/X-Men_Unlimited_002-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131419/",
+  "fetched_at": "2026-04-23T18:24:06.426Z",
+  "reviewed_at": "2004-06-01"
+}

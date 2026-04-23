@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601772004711",
+  "title": "X-Men #47",
+  "authors": [
+    "Andy Kubert",
+    "Ben Raab",
+    "Bob Harras",
+    "Cam Smith",
+    "Jesse Delperdang",
+    "Kevin Somers",
+    "Richard Starkings",
+    "Scott Lobdell"
+  ],
+  "publish_date": "1995-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-47.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23523/",
+  "fetched_at": "2026-04-23T17:44:01.609Z",
+  "reviewed_at": "1995-12-01"
+}

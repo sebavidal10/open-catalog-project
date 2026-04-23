@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605109003211",
+  "title": "X-Treme X-Men #32",
+  "authors": [
+    "Annie Thornton",
+    "Bill Jemas",
+    "Chris Claremont",
+    "Igor Kordey",
+    "Joe Quesada",
+    "Liquid!",
+    "Mike Marts",
+    "Rus Wooton",
+    "Salvador Larroca",
+    "Scott Hanna"
+  ],
+  "publish_date": "2003-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/12/x-treme-x-men-32.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39447/",
+  "fetched_at": "2026-04-23T18:20:53.060Z",
+  "reviewed_at": "2003-12-01"
+}

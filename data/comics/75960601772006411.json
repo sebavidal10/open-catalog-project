@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960601772006411",
+  "title": "X-Men #64",
+  "authors": [
+    "Albert Deschesne",
+    "Aron Lusen",
+    "Art Thibert",
+    "Ben Raab",
+    "Bob Harras",
+    "Carlos Pacheco",
+    "Chris Lichtner",
+    "Jason Liebig",
+    "Liquid!",
+    "Mark Powers",
+    "Richard Starkings",
+    "Scott Lobdell"
+  ],
+  "publish_date": "1997-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-64.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23543/",
+  "fetched_at": "2026-04-23T17:50:30.932Z",
+  "reviewed_at": "1997-05-01"
+}

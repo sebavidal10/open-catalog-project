@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960601406401611",
+  "title": "X-Men Unlimited #16",
+  "authors": [
+    "Ben Raab",
+    "Comicraft",
+    "Kelly Corvese",
+    "Mel Rubi",
+    "Richard Starkings",
+    "Rob Hunter",
+    "Shannon Blanchard"
+  ],
+  "publish_date": "1997-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/03/X-Men_Unlimited_16-00.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130489/",
+  "fetched_at": "2026-04-23T17:51:29.740Z",
+  "reviewed_at": "1997-09-01"
+}

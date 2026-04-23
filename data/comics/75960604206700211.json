@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960604206700211",
+  "title": "X-Men Chronicles #2",
+  "authors": [
+    "Al Vey",
+    "Armando Gil",
+    "Bob Harras",
+    "Bob Wiacek",
+    "Comicraft",
+    "Digital Chameleon",
+    "Howard Mackie",
+    "Ian Churchill",
+    "Jerry Bingham",
+    "Kelly Corvese",
+    "Marie Javins",
+    "Matt Ryan",
+    "Matt Webb",
+    "Michael Golden",
+    "Paul Smith",
+    "Richard Starkings",
+    "Scott Hanna",
+    "Steve Moncuse",
+    "Val Semeiks"
+  ],
+  "publish_date": "1995-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/10/26/X-Men_Chronicles_002-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130056/",
+  "fetched_at": "2026-04-23T17:41:34.975Z",
+  "reviewed_at": "1995-06-01"
+}

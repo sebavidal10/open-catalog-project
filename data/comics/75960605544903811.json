@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605544903811",
+  "title": "New X-Men #38",
+  "authors": [
+    "Anthony Dial",
+    "Axel Alonso",
+    "Christopher Yost",
+    "Craig Kyle",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Dave Sharpe",
+    "Jay Leisten",
+    "Jean-Francois Beaulieu",
+    "Joe Quesada",
+    "Nick Lowe",
+    "Sean Parsons",
+    "Skottie Young"
+  ],
+  "publish_date": "2007-05-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-38.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47681/",
+  "fetched_at": "2026-04-23T18:46:27.605Z",
+  "reviewed_at": null
+}

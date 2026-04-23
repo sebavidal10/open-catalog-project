@@ -1,0 +1,20 @@
+{
+  "isbn": null,
+  "upc": "75960602430810611",
+  "title": "X-Men Classic #106",
+  "authors": [
+    "Cam Smith",
+    "Chris Claremont",
+    "Gary Frank"
+  ],
+  "publish_date": "1995-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/09/02/94bff2d7bf6e49f3bcd6ef51841166be.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/127082/",
+  "fetched_at": "2026-04-23T17:40:51.842Z",
+  "reviewed_at": "1995-04-01"
+}

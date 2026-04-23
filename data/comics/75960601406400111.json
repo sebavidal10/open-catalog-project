@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960601406400111",
+  "title": "X-Men Unlimited #1",
+  "authors": [
+    "Bob Harras",
+    "Brian Stelfreeze",
+    "Chris Bachalo",
+    "Chris Eliopoulos",
+    "Christopher Ivy",
+    "Dan Panosian",
+    "Glynis Oliver",
+    "Greg Capullo",
+    "Jaye Gardner",
+    "Jimmy Palmiotti",
+    "Joe Quesada",
+    "Kelly Corvese",
+    "Kerry Gammill",
+    "Mark Bagley",
+    "Scott Lobdell",
+    "Terry Austin"
+  ],
+  "publish_date": "1993-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/10/25/X-Men_Unlimited_001-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/129993/",
+  "fetched_at": "2026-04-23T17:32:18.812Z",
+  "reviewed_at": "1993-06-01"
+}

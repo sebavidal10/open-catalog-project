@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960603164100111",
+  "title": "X-Men Prime #1",
+  "authors": [
+    "Al Milgrom",
+    "Ben Herrera",
+    "Bob Harras",
+    "Bryan Hitch",
+    "Cam Smith",
+    "Fabian Nicieza",
+    "Gary Frank",
+    "Hector Collazo",
+    "Jeff Matsuda",
+    "Mark Farmer",
+    "Mark McKenna",
+    "Mike McKone",
+    "Paul Pelletier",
+    "P. Craig Russell",
+    "Richard Starkings",
+    "Scott Lobdell",
+    "Steve Buccellato",
+    "Terry Dodson",
+    "Tim Townsend"
+  ],
+  "publish_date": "1995-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/07/4311506-x-men__prime_v1995_1_-_x-men__prime_-_racing_the_night_1995_7_-_page_1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131065/",
+  "fetched_at": "2026-04-23T17:42:08.158Z",
+  "reviewed_at": "1995-07-01"
+}

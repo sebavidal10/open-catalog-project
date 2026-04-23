@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960601772008711",
+  "title": "X-Men #87",
+  "authors": [
+    "Alan Davis",
+    "Bob Harras",
+    "Fabian Nicieza",
+    "Gloria Vasquez",
+    "Marie Javins",
+    "Mark Farmer",
+    "Mark Powers",
+    "Richard Starkings",
+    "Saida Temofonte"
+  ],
+  "publish_date": "1999-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-87.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23568/",
+  "fetched_at": "2026-04-23T17:56:47.547Z",
+  "reviewed_at": "1999-04-01"
+}

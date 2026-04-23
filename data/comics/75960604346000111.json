@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604346000111",
+  "title": "Onslaught: X-Men #1",
+  "authors": [
+    "Adam Kubert",
+    "Art Thibert",
+    "Bob Harras",
+    "Comicraft",
+    "Dan Green",
+    "Mark Waid",
+    "Pasqual Ferry",
+    "Richard Starkings",
+    "Scott Lobdell",
+    "Steve Buccellato"
+  ],
+  "publish_date": "1996-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/08/Onslaught_-_X-Men_1996-_001-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131126/",
+  "fetched_at": "2026-04-23T17:47:14.119Z",
+  "reviewed_at": "1996-08-01"
+}

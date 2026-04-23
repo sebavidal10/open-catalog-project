@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605047509911",
+  "title": "Ultimate X-Men #99",
+  "authors": [
+    "Albert Deschesne",
+    "Aron Eli Coleite",
+    "Dan Buckley",
+    "Danny Miki",
+    "Dan Panosian",
+    "Edgar Delgado",
+    "Joe Quesada",
+    "Karl Story",
+    "Lauren Sankovitch",
+    "Mark Brooks",
+    "Mark Paniccia",
+    "Tom Van Cise",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2009-01-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/08/28/745ec815d02b4b76b66a599643abc4dd.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/74325/",
+  "fetched_at": "2026-04-23T18:57:36.686Z",
+  "reviewed_at": null
+}

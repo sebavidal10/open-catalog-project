@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601772008211",
+  "title": "X-Men #82",
+  "authors": [
+    "Adam Kubert",
+    "Bob Harras",
+    "Chris Dickey",
+    "Comicraft",
+    "Jesse Delperdang",
+    "Joe Kelly",
+    "John Dell",
+    "Mark Powers",
+    "Richard Isanove",
+    "Richard Starkings"
+  ],
+  "publish_date": "1998-10-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-82.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23563/",
+  "fetched_at": "2026-04-23T17:55:23.607Z",
+  "reviewed_at": null
+}

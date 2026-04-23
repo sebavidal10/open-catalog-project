@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "596060554301211",
+  "title": "Astonishing X-Men #12",
+  "authors": [
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Joe Quesada",
+    "John Cassaday",
+    "Joss Whedon",
+    "Laura Martin",
+    "Mike Marts",
+    "Nick Lowe",
+    "Sean Ryan"
+  ],
+  "publish_date": "2005-08-31",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/26/astonishing-x-men-v3-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29833/",
+  "fetched_at": "2026-04-23T18:31:36.554Z",
+  "reviewed_at": "2005-08-01"
+}

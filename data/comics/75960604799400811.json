@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960604799400811",
+  "title": "X-Men The Hidden Years #8",
+  "authors": [
+    "Bob Harras",
+    "Gregory Wright",
+    "Jason Liebig",
+    "Joe Sinnott",
+    "John Byrne",
+    "Tom Palmer"
+  ],
+  "publish_date": "2000-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/04/x-men-the-hidden-years-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/31694/",
+  "fetched_at": "2026-04-23T18:01:58.021Z",
+  "reviewed_at": "2000-07-01"
+}

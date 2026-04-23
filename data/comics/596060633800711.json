@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060633800711",
+  "title": "Young X-Men #7",
+  "authors": [
+    "Anthony Dial",
+    "Ben Oliver",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Dave Sharpe",
+    "David Yardin",
+    "Joe Quesada",
+    "José Villarrubia",
+    "Marc Guggenheim",
+    "Nick Lowe",
+    "Rachel Dodson",
+    "Terry Dodson",
+    "Will Panzo"
+  ],
+  "publish_date": "2008-10-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/26/young-x-men-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27981/",
+  "fetched_at": "2026-04-23T18:56:42.785Z",
+  "reviewed_at": null
+}

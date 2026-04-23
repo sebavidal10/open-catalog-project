@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605058100211",
+  "title": "X-Men Forever #2",
+  "authors": [
+    "Andrew Pepoy",
+    "Brian Smith",
+    "Fabian Nicieza",
+    "Joe Quesada",
+    "Kevin Maguire",
+    "Mark Powers",
+    "Paul Mounts",
+    "Pete Franco",
+    "Ralph Macchio",
+    "Richard Starkings"
+  ],
+  "publish_date": "2001-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/17/bba5942f33fd4c209db9a6b89a2d38c5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151779/",
+  "fetched_at": "2026-04-23T18:04:43.396Z",
+  "reviewed_at": "2001-02-01"
+}

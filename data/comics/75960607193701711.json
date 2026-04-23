@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607193701711",
+  "title": "X-Men #17",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Guru-eFX",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Jorge Molina",
+    "Marko Djurdjević",
+    "Nick Lowe",
+    "Norman Lee",
+    "Victor Gischler"
+  ],
+  "publish_date": "2011-09-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v3-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28034/",
+  "fetched_at": "2026-04-23T19:17:34.286Z",
+  "reviewed_at": null
+}

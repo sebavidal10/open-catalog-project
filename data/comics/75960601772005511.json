@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601772005511",
+  "title": "X-Men #55",
+  "authors": [
+    "Andy Kubert",
+    "Ben Raab",
+    "Bob Harras",
+    "Dan Panosian",
+    "Joe Rosas",
+    "John Dell",
+    "Mark Waid",
+    "Richard Starkings"
+  ],
+  "publish_date": "1996-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/20/xmen-55.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23531/",
+  "fetched_at": "2026-04-23T17:47:26.401Z",
+  "reviewed_at": "1996-08-01"
+}

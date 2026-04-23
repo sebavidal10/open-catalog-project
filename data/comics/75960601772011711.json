@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960601772011711",
+  "title": "New X-Men #117",
+  "authors": [
+    "Bill Jemas",
+    "Brian Miller",
+    "Ethan Van Sciver",
+    "Frank Quitely",
+    "Grant Morrison",
+    "Joe Quesada",
+    "Mark Powers",
+    "Pete Franco",
+    "Prentis Rollins",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Tim Townsend"
+  ],
+  "publish_date": "2001-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/21/new-x-men-117.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27692/",
+  "fetched_at": "2026-04-23T18:08:20.272Z",
+  "reviewed_at": "2001-10-01"
+}

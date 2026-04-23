@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960602461246811",
+  "title": "The Uncanny X-Men #468",
+  "authors": [
+    "Al Vey",
+    "Chris Bachalo",
+    "Chris Claremont",
+    "Dan Buckley",
+    "Jaime Mendoza",
+    "Joe Quesada",
+    "Mike Marts",
+    "Norm Rapmund",
+    "Sean Parsons",
+    "Studio F",
+    "Tim Townsend",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2006-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/18/uncanny-xmen-v1-468.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21210/",
+  "fetched_at": "2026-04-23T18:36:58.265Z",
+  "reviewed_at": "2006-03-01"
+}

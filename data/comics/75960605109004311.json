@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960605109004311",
+  "title": "X-Treme X-Men #43",
+  "authors": [
+    "Andrew Pepoy",
+    "Chris Claremont",
+    "Cory Sedlmeier",
+    "Dan Buckley",
+    "Greg Adams",
+    "Igor Kordey",
+    "Joe Quesada",
+    "Liquid!",
+    "Mike Marts",
+    "Norm Rapmund",
+    "Rus Wooton",
+    "Salvador Larroca",
+    "Sandu Florea",
+    "Stephanie Moore"
+  ],
+  "publish_date": "2004-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/12/x-treme-x-men-43.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39458/",
+  "fetched_at": "2026-04-23T18:23:32.531Z",
+  "reviewed_at": "2004-05-01"
+}

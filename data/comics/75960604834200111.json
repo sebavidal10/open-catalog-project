@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604834200111",
+  "title": "Uncanny X-Men 1999 #1",
+  "authors": [
+    "Anthony Williams",
+    "Ben Raab",
+    "Bob Harras",
+    "Brett Booth",
+    "Jon Babcock",
+    "Mark Powers",
+    "Sal Regla",
+    "Scott Koblish",
+    "Troy Hubbs"
+  ],
+  "publish_date": "2000-02-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/18/2e626bf813964d768971750172b696f9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/119415/",
+  "fetched_at": "2026-04-23T18:00:36.946Z",
+  "reviewed_at": null
+}

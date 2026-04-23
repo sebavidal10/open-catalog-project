@@ -1,0 +1,42 @@
+{
+  "isbn": null,
+  "upc": "75960601772010911",
+  "title": "X-Men #109",
+  "authors": [
+    "Chris Claremont",
+    "Comicraft",
+    "Dave Cockrum",
+    "Glynis Oliver",
+    "Janice Cohen",
+    "Joe Madureira",
+    "Joe Quesada",
+    "Joe Rosen",
+    "John Byrne",
+    "Leinil Francis Yu",
+    "Liquid!",
+    "Mark Morales",
+    "Mark Powers",
+    "Norm Rapmund",
+    "Pete Franco",
+    "Richard Starkings",
+    "Rick Ketcham",
+    "Saida Temofonte",
+    "Sam Grainger",
+    "Scott Lobdell",
+    "Steve Buccellato",
+    "Terry Austin",
+    "Tim Townsend",
+    "Tom Derenick",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "2001-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-109.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23590/",
+  "fetched_at": "2026-04-23T18:04:39.257Z",
+  "reviewed_at": "2001-02-01"
+}

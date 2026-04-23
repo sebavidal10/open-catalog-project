@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960605544900311",
+  "title": "New X-Men #3",
+  "authors": [
+    "Chris Sotomayor",
+    "Christina Weir",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Mike Marts",
+    "Nunzio DeFilippis",
+    "Peter Pantazis",
+    "Randy Green",
+    "Rick Ketcham",
+    "Sean Parsons",
+    "Sean Ryan",
+    "Staz Johnson",
+    "Stephanie Moore",
+    "Tom Chu"
+  ],
+  "publish_date": "2004-07-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47646/",
+  "fetched_at": "2026-04-23T18:25:34.798Z",
+  "reviewed_at": null
+}

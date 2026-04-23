@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960605544900911",
+  "title": "New X-Men #9",
+  "authors": [
+    "Carlo Pagulayan",
+    "Chris Sotomayor",
+    "Christina Weir",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Mike Marts",
+    "Norm Rapmund",
+    "Nunzio DeFilippis",
+    "Peter Pantazis",
+    "Randy Green",
+    "Rick Ketcham",
+    "Sean Ryan",
+    "Stephanie Moore",
+    "Tom Chu"
+  ],
+  "publish_date": "2005-01-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/01/new-x-men-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47652/",
+  "fetched_at": "2026-04-23T18:28:32.874Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601772099911",
+  "title": "X-Men #-1",
+  "authors": [
+    "Aron Lusen",
+    "Art Thibert",
+    "Bob Harras",
+    "Carlos Pacheco",
+    "Chris Lichtner",
+    "Jason Liebig",
+    "Kolja Fuchs",
+    "Mark Powers",
+    "Richard Starkings",
+    "Scott Lobdell"
+  ],
+  "publish_date": "1997-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-negative-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23550/",
+  "fetched_at": "2026-04-23T17:51:00.013Z",
+  "reviewed_at": "1997-07-01"
+}

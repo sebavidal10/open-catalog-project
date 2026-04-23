@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960601772018211",
+  "title": "X-Men #182",
+  "authors": [
+    "Aaron Lopresti",
+    "Aron Lusen",
+    "Cory Petit",
+    "Dan Buckley",
+    "Danny Miki",
+    "Joe Quesada",
+    "Mike Marts",
+    "Nick Lowe",
+    "Peter Milligan",
+    "Salvador Larroca",
+    "Sean Ryan",
+    "Wil Quintana"
+  ],
+  "publish_date": "2006-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/15/x-men-v2-182.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27299/",
+  "fetched_at": "2026-04-23T18:37:37.828Z",
+  "reviewed_at": "2006-04-01"
+}

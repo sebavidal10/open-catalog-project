@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601772009311",
+  "title": "X-Men #93",
+  "authors": [
+    "Alan Davis",
+    "Bob Harras",
+    "Glynis Oliver",
+    "Mark Farmer",
+    "Mark Powers",
+    "Richard Starkings",
+    "Saida Temofonte",
+    "Terry Kavanagh"
+  ],
+  "publish_date": "1999-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/21/xmen-93.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23574/",
+  "fetched_at": "2026-04-23T17:58:21.655Z",
+  "reviewed_at": "1999-10-01"
+}

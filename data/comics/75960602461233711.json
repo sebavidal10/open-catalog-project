@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960602461233711",
+  "title": "The Uncanny X-Men #337",
+  "authors": [
+    "Joe Madureira",
+    "Kolja Fuchs",
+    "Richard Starkings",
+    "Scott Lobdell",
+    "Steve Buccellato",
+    "Tim Townsend",
+    "Vince Russell"
+  ],
+  "publish_date": "1996-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/16/uncanny-xmen-v1-337.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21070/",
+  "fetched_at": "2026-04-23T17:48:13.714Z",
+  "reviewed_at": "1996-10-01"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601772014211",
+  "title": "New X-Men #142",
+  "authors": [
+    "Bill Jemas",
+    "Chris Bachalo",
+    "Chris Chuckry",
+    "Chris Eliopoulos",
+    "Grant Morrison",
+    "Joe Quesada",
+    "Mike Marts",
+    "Mike Raicht",
+    "Tim Townsend",
+    "Warren Simons"
+  ],
+  "publish_date": "2003-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/22/new-x-men-142.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27717/",
+  "fetched_at": "2026-04-23T18:18:38.276Z",
+  "reviewed_at": "2003-08-01"
+}

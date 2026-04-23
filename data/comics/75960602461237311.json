@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960602461237311",
+  "title": "The Uncanny X-Men #373",
+  "authors": [
+    "Adam Kubert",
+    "Alan Davis",
+    "Bob Harras",
+    "Chris Dickey",
+    "Dan Buckley",
+    "Dan Panosian",
+    "Joe Quesada",
+    "Liquid!",
+    "Mark Powers",
+    "Matt Banning",
+    "Rob Jensen",
+    "Saida Temofonte",
+    "Terry Kavanagh",
+    "Vince Russell"
+  ],
+  "publish_date": "1999-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/17/uncanny-xmen-v1-373.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21115/",
+  "fetched_at": "2026-04-23T17:58:17.761Z",
+  "reviewed_at": "1999-10-01"
+}

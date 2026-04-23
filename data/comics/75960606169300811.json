@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960606169300811",
+  "title": "X-Men: First Class #8",
+  "authors": [
+    "Anthony Dial",
+    "Dan Buckley",
+    "Eric Nguyen",
+    "Jeff Parker",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Nate Piekos",
+    "Nathan Cosby"
+  ],
+  "publish_date": "2008-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/10/21/X-Men_-_First_Class_008-000_OAUaT8Y.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/129621/",
+  "fetched_at": "2026-04-23T18:51:29.996Z",
+  "reviewed_at": "2008-03-01"
+}
