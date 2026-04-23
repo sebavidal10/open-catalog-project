@@ -1,0 +1,35 @@
+{
+  "title": "On the Town",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "30 Dec 1949",
+  "runtime": "98 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Stanley Donen, Gene Kelly",
+  "writer": "Adolph Green, Betty Comden, Jerome Robbins",
+  "actors": "Gene Kelly, Frank Sinatra, Betty Garrett",
+  "plot": "Three sailors wreak havoc as they search for love during a whirlwind 24-hour leave in New York City.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 4 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTgzZTRmNDUtOTk3Ni00MDU1LWExMWQtMDc5ZTRkN2Y1YTNlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.3",
+  "imdbID": "tt0041716",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:55:43.417Z"
+}

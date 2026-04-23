@@ -1,0 +1,27 @@
+{
+  "title": "Batman and Robin",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "26 May 1949",
+  "runtime": "263 min",
+  "genre": "Action, Adventure, Family",
+  "director": "Spencer Gordon Bennet",
+  "writer": "Bob Kane, George H. Plympton, Joseph F. Poland",
+  "actors": "Robert Lowery, Johnny Duncan, Jane Adams",
+  "plot": "Batman, together with his sidekick Robin, faces off against the Wizard, a hooded villain with an electronic device that remotely controls vehicles.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzRlZDY0ZWUtYTY3Yy00ZTQ2LTkzNDgtMTk3ZmExYjBlYjhhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0041162",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:55:55.478Z"
+}

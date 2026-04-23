@@ -1,0 +1,31 @@
+{
+  "title": "The Heiress",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "28 Dec 1949",
+  "runtime": "115 min",
+  "genre": "Drama, Romance",
+  "director": "William Wyler",
+  "writer": "Ruth Goetz, Augustus Goetz, Henry James",
+  "actors": "Olivia de Havilland, Montgomery Clift, Ralph Richardson",
+  "plot": "A naive young woman falls for a handsome young man her emotionally abusive father suspects is only a fortune hunter.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Won 4 Oscars. 13 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGIyNWUyOGEtNDJmYS00NTE0LTkzMDgtMTkyMDU2Zjg3NzcyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.1",
+  "imdbID": "tt0041452",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:55:33.697Z"
+}

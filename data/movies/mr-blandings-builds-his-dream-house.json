@@ -1,0 +1,31 @@
+{
+  "title": "Mr. Blandings Builds His Dream House",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "04 Jun 1948",
+  "runtime": "94 min",
+  "genre": "Comedy, Romance",
+  "director": "H.C. Potter",
+  "writer": "Eric Hodgins, Norman Panama, Melvin Frank",
+  "actors": "Cary Grant, Myrna Loy, Melvyn Douglas",
+  "plot": "A man and his wife decide they can afford to have a house in the country built to their specifications. It's a lot more trouble than they think.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWZkN2Q2MjctZjBkMC00MTgxLWFkYjctYmUyYzdhOWVjYTJmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0040613",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:44:11.508Z"
+}

@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "X-Men: From the Ashes Infinity Comic #23",
+  "authors": [
+    "Arthur Hesli",
+    "Clayton Cowles",
+    "Darren Shan",
+    "Eric Koda",
+    "Jasmine Alvarez",
+    "Noah Sharma",
+    "Tim Seeley"
+  ],
+  "publish_date": "2024-11-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/06/20/e4405613a9df4f21bd2c1ad36391c481.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/149374/",
+  "fetched_at": "2026-04-23T14:48:49.468Z"
+}

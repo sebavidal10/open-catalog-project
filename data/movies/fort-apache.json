@@ -1,0 +1,31 @@
+{
+  "title": "Fort Apache",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "21 May 1948",
+  "runtime": "128 min",
+  "genre": "Drama, Western",
+  "director": "John Ford",
+  "writer": "Frank S. Nugent, James Warner Bellah",
+  "actors": "John Wayne, Henry Fonda, Shirley Temple",
+  "plot": "At Fort Apache, an honorable and veteran war captain finds conflict when his regime is placed under the command of a young, glory hungry lieutenant colonel with no respect for the local Indian tribe.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjcwOWRmMWItNWE5MS00ZGM4LWEyOGItYWI4MzMzMWM4NTUyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0040369",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:44:02.225Z"
+}

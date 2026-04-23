@@ -1,0 +1,31 @@
+{
+  "title": "Joan of Arc",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "11 Nov 1948",
+  "runtime": "145 min",
+  "genre": "Biography, Drama, History",
+  "director": "Victor Fleming",
+  "writer": "Maxwell Anderson, Andrew Solt",
+  "actors": "Ingrid Bergman, José Ferrer, Selena Royle",
+  "plot": "The abbreviated life of the 15th-century French heroine.",
+  "language": "English, Latin",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 7 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODA4MmE4MGYtNTdlMi00ZGI0LTkzYmYtODg2YWVkOTUxMjAzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0040491",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:44:16.162Z"
+}

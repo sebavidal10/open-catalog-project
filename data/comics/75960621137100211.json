@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960621137100211",
+  "title": "Giant-Size X-Men #2",
+  "authors": [
+    "Adam Kubert",
+    "Annalise Bissa",
+    "CAFU",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Collin Kelly",
+    "David Curiel",
+    "Iván Talavera",
+    "Jackson Lanzing",
+    "Jed MacKay",
+    "Laura Martin",
+    "Leinil Francis Yu",
+    "Netho Diaz",
+    "Sunny Gho",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2025-08-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/07/31/535661f2be1841ddaf92af06834ed6fc.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/150984/",
+  "fetched_at": "2026-04-23T14:54:15.285Z"
+}

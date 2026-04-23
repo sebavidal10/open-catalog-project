@@ -1,0 +1,31 @@
+{
+  "title": "Impact",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "01 Apr 1949",
+  "runtime": "111 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Arthur Lubin",
+  "writer": "Dorothy Davenport, Jay Dratler",
+  "actors": "Brian Donlevy, Ella Raines, Charles Coburn",
+  "plot": "A unfaithful wife plots with her lover to kill her husband, but the lover is accidentally killed instead. The husband stays in hiding and lets his wife be charged with conspiracy.",
+  "language": "English, Cantonese",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTA5M2IxMjAtMGRhMi00MTc1LTk2MTMtYTcyY2EzNmIxZDE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0041503",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:55:53.104Z"
+}

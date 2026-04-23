@@ -1,0 +1,31 @@
+{
+  "title": "State of the Union",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "30 Apr 1948",
+  "runtime": "124 min",
+  "genre": "Comedy, Drama",
+  "director": "Frank Capra",
+  "writer": "Howard Lindsay, Russel Crouse, Anthony Veiller",
+  "actors": "Spencer Tracy, Katharine Hepburn, Van Johnson",
+  "plot": "An industrialist is urged to run for President, but this requires uncomfortable compromises on both political and marital levels.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzVkNjM3OGEtZjBlYy00OTJmLTk0NWMtYzA1ZGE4NDYyN2EyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0040834",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:45:07.408Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "D.O.A.",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "21 Apr 1950",
+  "runtime": "83 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Rudolph Maté",
+  "writer": "Russell Rouse, Clarence Greene",
+  "actors": "Edmond O'Brien, Pamela Britton, Luther Adler",
+  "plot": "Frank Bigelow, told he's been poisoned and has only a few days to live, tries to find out who killed him and why.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDFjMmJjNjQtMDk3MS00ZjVkLWI4ZTItZGEzYTY2NTVkNTQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0042369",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:55:48.245Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "X-Men Infinity Comic #10",
+  "authors": [
+    "Alan Robinson",
+    "Ario Anindito",
+    "Clayton Cowles",
+    "Darren Shan",
+    "Jasmine Alvarez",
+    "Lauren Amaro",
+    "Steve Orlando",
+    "Yen Nitro"
+  ],
+  "publish_date": "2026-03-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/04/03/7c7e1770f94c471f86ba139e51d864d0.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/164217/",
+  "fetched_at": "2026-04-23T14:58:26.376Z"
+}

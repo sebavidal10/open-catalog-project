@@ -1,0 +1,35 @@
+{
+  "title": "The Adventures of Ichabod and Mr. Toad",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "06 Jan 1950",
+  "runtime": "68 min",
+  "genre": "Animation, Comedy, Family",
+  "director": "James Algar, Clyde Geronimi, Jack Kinney",
+  "writer": "Washington Irving, Kenneth Grahame, Erdman Penner",
+  "actors": "Bing Crosby, Basil Rathbone, Eric Blore",
+  "plot": "An animated adaptation of \"The Wind in the Willows\" followed by an adaptation of \"The Legend of Sleepy Hollow\".",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDRkODhiMTMtZDg0ZC00ZTFhLTk2MDAtMWI3ZjcxMmY1OTllXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "6.8",
+  "imdbID": "tt0041094",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:55:49.448Z"
+}

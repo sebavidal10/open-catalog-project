@@ -1,0 +1,35 @@
+{
+  "title": "Melody Time",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "27 May 1948",
+  "runtime": "75 min",
+  "genre": "Animation, Comedy, Family",
+  "director": "Clyde Geronimi, Wilfred Jackson, Jack Kinney",
+  "writer": "Winston Hibler, Erdman Penner, Harry Reeves",
+  "actors": "Roy Rogers, Trigger, Dennis Day",
+  "plot": "An anthology of animated vignettes set to contemporary music.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2QyNjk3MjctZjBkZC00OWVjLWJiNDctYmY2Y2UzZjZkYWI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "6.1",
+  "imdbID": "tt0040580",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:44:15.002Z"
+}

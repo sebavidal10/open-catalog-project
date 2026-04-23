@@ -1,0 +1,27 @@
+{
+  "title": "Film Without a Name",
+  "year": "1948",
+  "rated": "N/A",
+  "released": "19 Oct 1950",
+  "runtime": "79 min",
+  "genre": "Comedy, Romance",
+  "director": "Rudolf Jugert",
+  "writer": "Helmut Käutner, Ellen Fechner, Rudolf Jugert",
+  "actors": "Hans Söhnker, Hildegard Knef, Irene von Meyendorff",
+  "plot": "A screenwriter comes up with a story about an affair between a maid and her employer",
+  "language": "German",
+  "country": "Germany",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGViMTZhMDAtZDg3OC00Mzc0LThlYmYtZTdlOWMyMDk2YjcxXkEyXkFqcGdeQXVyMDM1MzIyMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0039382",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:49:31.210Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "I, Jane Doe",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "25 May 1948",
+  "runtime": "85 min",
+  "genre": "Drama, War",
+  "director": "John H. Auer",
+  "writer": "Lawrence Kimble, Decla Dunning",
+  "actors": "Ruth Hussey, John Carroll, Vera Ralston",
+  "plot": "While stationed in France during World War II, an American fighter pilot marries a French girl, but when he goes home he doesn't take her with him--because he's already married to a successful lawyer back in the U.S. The war bride...",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWFkMzJhMTctMjNiYS00MTgyLWE3YzYtMTljZDdjZTFjNjY0XkEyXkFqcGdeQXVyNTY4NjI2OTA@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0040463",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:49:17.297Z"
+}

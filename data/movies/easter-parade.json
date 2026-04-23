@@ -1,0 +1,31 @@
+{
+  "title": "Easter Parade",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "08 Jul 1948",
+  "runtime": "103 min",
+  "genre": "Musical, Romance",
+  "director": "Charles Walters",
+  "writer": "Sidney Sheldon, Frances Goodrich, Albert Hackett",
+  "actors": "Judy Garland, Fred Astaire, Peter Lawford",
+  "plot": "A nightclub performer hires a naive chorus girl to become his new dance partner to make his former partner jealous and to prove he can make any partner a star.",
+  "language": "English, French, Italian",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 5 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjQ5OThkMTQtNDI5MC00NThlLWExODYtMDQ1NjI0MGQzZGNjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0040308",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:44:04.536Z"
+}

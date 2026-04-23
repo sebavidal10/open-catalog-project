@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "X-Men: From the Ashes Infinity Comic #19",
+  "authors": [
+    "Alex Paknadel",
+    "Arthur Hesli",
+    "Clayton Cowles",
+    "Darren Shan",
+    "Diógenes Neves",
+    "Jasmine Alvarez",
+    "Noah Sharma"
+  ],
+  "publish_date": "2024-10-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/06/20/545c58f3906a4021853bece61979bcd3.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/149370/",
+  "fetched_at": "2026-04-23T14:48:04.625Z"
+}

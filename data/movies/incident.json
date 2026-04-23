@@ -1,0 +1,27 @@
+{
+  "title": "Incident",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "30 Oct 1948",
+  "runtime": "66 min",
+  "genre": "Crime, Film-Noir, Thriller",
+  "director": "William Beaudine",
+  "writer": "Harry Lewis, Fred Niblo Jr., Samuel Roeca",
+  "actors": "Warren Douglas, Jane Frazee, Robert Osterloh",
+  "plot": "Stockbroker Joe Downey(Warren Douglas), mistaken in the dark for gangster \"Slats\" Slattery (Robert Osterloh), is brutally beaten by a rival gangster, \"Knuckles\" Morgan (Meyer Grace), and Downey winds up in jail on a drunk charge. ...",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDM1NDJjN2MtZjBkYS00Mzg5LWFkMTAtY2Q4YTcxNWRjMmNiXkEyXkFqcGdeQXVyMzYwMzAyNzg@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0041508",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:52:54.442Z"
+}

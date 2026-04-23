@@ -1,0 +1,31 @@
+{
+  "title": "Berlin Express",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "01 May 1948",
+  "runtime": "87 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Jacques Tourneur",
+  "writer": "Harold Medford, Curt Siodmak",
+  "actors": "Merle Oberon, Robert Ryan, Charles Korvin",
+  "plot": "A multinational group of train passengers become involved in a post-World War II Nazi assassination plot.",
+  "language": "English, German, French, Russian",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGY4NTlkMGItZWY3MS00YjM1LWE2ODMtZGI5ODI1YzcwNDQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0040155",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:45:52.359Z"
+}

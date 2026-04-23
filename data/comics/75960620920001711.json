@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960620920001711",
+  "title": "X-Men #17",
+  "authors": [
+    "Annalise Bissa",
+    "CAFU",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Dan Brown",
+    "Fer Sifuentes-Sujo",
+    "Gerardo Sandoval",
+    "Jacob Chabot",
+    "Jay Bowen",
+    "Jed MacKay",
+    "John Livesay",
+    "J. P. Mayer",
+    "Lindsey Cohick",
+    "Marte Gracia",
+    "Meghan Hetrick",
+    "Puppeteer Lee",
+    "Ryan Brown",
+    "Ryan Stegman",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2025-06-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/29/678f96a275a6407184975709c648ce6a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/147923/",
+  "fetched_at": "2026-04-23T14:53:17.421Z"
+}

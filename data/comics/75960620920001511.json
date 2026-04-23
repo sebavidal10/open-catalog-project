@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620920001511",
+  "title": "X-Men #15",
+  "authors": [
+    "Annalise Bissa",
+    "Carlos Villa",
+    "C. B. Cebulski",
+    "Chris Giarrusso",
+    "Clayton Cowles",
+    "Gerald Parel",
+    "Jay Bowen",
+    "Jed MacKay",
+    "John Livesay",
+    "J. P. Mayer",
+    "Lindsey Cohick",
+    "Marte Gracia",
+    "Martin Biro",
+    "Ryan Stegman",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2025-04-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/04/08/1cc9eaee58f148d4a42c46202c702726.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/142583/",
+  "fetched_at": "2026-04-23T14:52:11.891Z"
+}

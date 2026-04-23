@@ -1,0 +1,31 @@
+{
+  "title": "A Date with Judy",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "29 Jul 1948",
+  "runtime": "113 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Richard Thorpe",
+  "writer": "Dorothy Cooper, Dorothy Kingsley, Aleen Leslie",
+  "actors": "Wallace Beery, Jane Powell, Elizabeth Taylor",
+  "plot": "Hyperactive teenager Judy Foster (Jane Powell) challenges, and is challenged by, her overly-proper parents, pesky brother Randolph (Jerry Hunter), and boyfriend Ogden \"Oogie\" Pringle (Scotty Beckett).",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjYxZTQwYjAtNmJkZi00OGFlLWFhZTUtZDE1ZmM3Y2IwOTQ3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0040271",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:45:31.813Z"
+}

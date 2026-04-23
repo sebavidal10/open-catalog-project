@@ -1,0 +1,31 @@
+{
+  "title": "Stray Dog",
+  "year": "1949",
+  "rated": "Not Rated",
+  "released": "31 Aug 1963",
+  "runtime": "122 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Akira Kurosawa",
+  "writer": "Ryûzô Kikushima, Akira Kurosawa",
+  "actors": "Toshirô Mifune, Takashi Shimura, Keiko Awaji",
+  "plot": "During a sweltering summer, a rookie homicide detective seeks advice from a seasoned colleague while trying to track down his stolen Colt pistol.",
+  "language": "Japanese, French",
+  "country": "Japan",
+  "awards": "4 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTgxNmMyY2QtOWY1NC00Njg2LTk2YTAtYTkyMzIyZDhmY2U3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0041699",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:55:22.974Z"
+}

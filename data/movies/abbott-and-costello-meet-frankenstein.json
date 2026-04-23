@@ -1,0 +1,35 @@
+{
+  "title": "Abbott and Costello Meet Frankenstein",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "15 Jun 1948",
+  "runtime": "83 min",
+  "genre": "Comedy, Family, Fantasy",
+  "director": "Charles Barton, Walter Lantz",
+  "writer": "Robert Lees, Frederic I. Rinaldo, John Grant",
+  "actors": "Bud Abbott, Lou Costello, Lon Chaney Jr.",
+  "plot": "The Wolf Man tries to warn a dimwitted porter that Dracula wants his brain for Frankenstein monster's body.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODRlNDNmNGYtYTc2OS00NzQ1LTgwYTEtOWQ1YjMxMmE2MWE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.3",
+  "imdbID": "tt0040068",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:43:46.067Z"
+}

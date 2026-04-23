@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960621365800211",
+  "title": "Amazing X-Men #2",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Ejikure",
+    "InHyuk Lee",
+    "Jay Bowen",
+    "Jed MacKay",
+    "Lindsey Cohick",
+    "Mahmud A. Asrar",
+    "Matthew Wilson",
+    "Sarah Spadaccini",
+    "Stephanie Hans",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2025-11-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/26/daf397c2b34c4cb4acef3e7a23c54175.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156563/",
+  "fetched_at": "2026-04-23T14:56:28.297Z"
+}

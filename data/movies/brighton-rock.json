@@ -1,0 +1,31 @@
+{
+  "title": "Brighton Rock",
+  "year": "1948",
+  "rated": "Not Rated",
+  "released": "07 Nov 1951",
+  "runtime": "92 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "John Boulting",
+  "writer": "Graham Greene, Terence Rattigan",
+  "actors": "Richard Attenborough, Hermione Baddeley, William Hartnell",
+  "plot": "In Brighton in 1935, small-time gang leader Pinkie Brown murders a journalist and later desperately tries to cover his tracks but runs into trouble with the police, a few witnesses, and a rival gang.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzgyZjNhNDYtZjRjZC00M2ZiLThjZTMtYjUwYTIwZGQwM2FlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0039220",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:43:49.535Z"
+}

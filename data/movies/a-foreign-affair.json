@@ -1,0 +1,35 @@
+{
+  "title": "A Foreign Affair",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "20 Aug 1948",
+  "runtime": "116 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Billy Wilder",
+  "writer": "Charles Brackett, Billy Wilder, Richard L. Breen",
+  "actors": "Jean Arthur, Marlene Dietrich, John Lund",
+  "plot": "In occupied Berlin, an army captain is torn between an ex-Nazi café singer and the U.S. congresswoman investigating her.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDk2NjU4ZTktNjUzZC00ODQ1LWE2NDctMjNkOTJkMzI0Mzc5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "7.3",
+  "imdbID": "tt0040367",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:44:26.651Z"
+}

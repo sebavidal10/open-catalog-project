@@ -1,0 +1,31 @@
+{
+  "title": "The Red Shoes",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "22 Oct 1948",
+  "runtime": "135 min",
+  "genre": "Drama, Music, Romance",
+  "director": "Michael Powell, Emeric Pressburger",
+  "writer": "Hans Christian Andersen, Emeric Pressburger, Keith Winter",
+  "actors": "Anton Walbrook, Marius Goring, Moira Shearer",
+  "plot": "A young ballet dancer is torn between the man she loves and her pursuit to become a prima ballerina.",
+  "language": "English, French, Russian",
+  "country": "United Kingdom",
+  "awards": "Won 2 Oscars. 5 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzY2MzIwMDQzN15BMl5BanBnXkFtZTcwNDUxMTM4NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.1",
+  "imdbID": "tt0040725",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:43:57.613Z"
+}

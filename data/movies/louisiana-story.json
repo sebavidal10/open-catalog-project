@@ -1,0 +1,31 @@
+{
+  "title": "Louisiana Story",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "28 Oct 1948",
+  "runtime": "78 min",
+  "genre": "Adventure, Drama",
+  "director": "Robert J. Flaherty",
+  "writer": "Frances H. Flaherty, Robert J. Flaherty",
+  "actors": "Joseph Boudreaux, Lionel Le Blanc, E. Bienvenu",
+  "plot": "The idyllic life of a young Cajun boy and his pet raccoon is disrupted when the tranquility of the bayou is broken by an oil well drilling near his home.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 4 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzQ4NGRjMmUtMTNlYy00OTM5LTgwMmItYzQzMTk5MmE1ZWJjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0040550",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:48:04.020Z"
+}

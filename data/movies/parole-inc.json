@@ -1,0 +1,27 @@
+{
+  "title": "Parole, Inc.",
+  "year": "1948",
+  "rated": "Passed",
+  "released": "10 Oct 1949",
+  "runtime": "71 min",
+  "genre": "Crime, Film-Noir, Thriller",
+  "director": "Alfred Zeisler",
+  "writer": "Sherman L. Lowe, Royal K. Cole",
+  "actors": "Michael O'Shea, Turhan Bey, Evelyn Ankers",
+  "plot": "Parole officers fight against gangsters trying to infiltrate the parole system.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIzNTM4OTQ5NV5BMl5BanBnXkFtZTcwNzg1MDc0NQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0041733",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:48:29.645Z"
+}

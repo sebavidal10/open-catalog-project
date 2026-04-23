@@ -1,0 +1,35 @@
+{
+  "title": "Mighty Joe Young",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "29 Aug 1949",
+  "runtime": "94 min",
+  "genre": "Adventure, Drama, Fantasy",
+  "director": "Ernest B. Schoedsack",
+  "writer": "Ruth Rose, Merian C. Cooper",
+  "actors": "Terry Moore, Ben Johnson, Robert Armstrong",
+  "plot": "A young woman who has raised a giant gorilla from an infant brings him to Hollywood years later seeking her fortune.",
+  "language": "English, Swahili",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjlhNjQ2YTgtNzE2NC00YTQ1LWE2NTMtNjI2ZGRmOTQ2ODgxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "7.0",
+  "imdbID": "tt0041650",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:55:51.814Z"
+}

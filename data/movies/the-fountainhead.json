@@ -1,0 +1,31 @@
+{
+  "title": "The Fountainhead",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "02 Jul 1949",
+  "runtime": "114 min",
+  "genre": "Drama, Romance",
+  "director": "King Vidor",
+  "writer": "Ayn Rand",
+  "actors": "Gary Cooper, Patricia Neal, Raymond Massey",
+  "plot": "An uncompromising, visionary architect struggles to maintain his integrity and individualism despite personal, professional and economic pressures to conform to popular standards.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTJlY2Y1ZjMtZDMzNy00OTBkLWJmYjYtZTYxYTM4NmRlOWUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0041386",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:55:38.561Z"
+}

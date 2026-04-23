@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "X-Men Infinity Comic #8",
+  "authors": [
+    "Alan Robinson",
+    "Ario Anindito",
+    "Clayton Cowles",
+    "Darren Shan",
+    "Jasmine Alvarez",
+    "Lauren Amaro",
+    "Steve Orlando",
+    "Yen Nitro"
+  ],
+  "publish_date": "2026-03-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/04/03/e701f65f6f0d42ec8a2215578f45130c.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/164215/",
+  "fetched_at": "2026-04-23T14:58:18.474Z"
+}

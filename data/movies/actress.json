@@ -1,0 +1,27 @@
+{
+  "title": "Actress",
+  "year": "1948",
+  "rated": "N/A",
+  "released": "09 Mar 1948",
+  "runtime": "N/A",
+  "genre": "N/A",
+  "director": "Najam Naqvi",
+  "writer": "Akhtar-Ul-Iman",
+  "actors": "Rehana, Meena Shorey, Prem Adib",
+  "plot": "A love triangle. Two sisters; a well known singer and a stage actress, fall in love with same person, a singer.",
+  "language": "Hindi",
+  "country": "India",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzJhYWViYzQtMjdhOS00YzBiLTkzYWYtMjQ0ZTczZmE0NDczXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0247151",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:51:46.688Z"
+}

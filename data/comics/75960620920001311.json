@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960620920001311",
+  "title": "X-Men #13",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Ejikure",
+    "Fer Sifuentes-Sujo",
+    "Jay Bowen",
+    "Jed MacKay",
+    "Marte Gracia",
+    "Martin Biro",
+    "Miguel Mercado",
+    "Netho Diaz",
+    "Peach Momoko",
+    "Phil Noto",
+    "Ryan Stegman",
+    "Sean Parsons",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2025-03-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/02/28/d655284cea334e9cb986cf1a2b020b65.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/137048/",
+  "fetched_at": "2026-04-23T14:51:43.382Z"
+}

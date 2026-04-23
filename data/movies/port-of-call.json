@@ -1,0 +1,31 @@
+{
+  "title": "Port of Call",
+  "year": "1948",
+  "rated": "Not Rated",
+  "released": "01 Aug 1963",
+  "runtime": "100 min",
+  "genre": "Drama",
+  "director": "Ingmar Bergman",
+  "writer": "Ingmar Bergman, Olle Länsberg",
+  "actors": "Nine-Christine Jönsson, Bengt Eklund, Mimi Nelson",
+  "plot": "A suicidal factory girl out of reformatory school, anxious to escape her overbearing mother, falls in love with a sailor who can't forgive her past.",
+  "language": "Swedish, English, German",
+  "country": "Sweden",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTY3YjI5OTktYzIzNS00NzEwLWFiMjYtYzM2ZDY5ZTA3MWViXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0040418",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:47:34.989Z"
+}

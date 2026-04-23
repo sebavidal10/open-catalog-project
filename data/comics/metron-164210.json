@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "X-Men Infinity Comic #3",
+  "authors": [
+    "Alan Robinson",
+    "Ario Anindito",
+    "Austin Hatch",
+    "Clayton Cowles",
+    "Darren Shan",
+    "Jasmine Alvarez",
+    "Lauren Amaro",
+    "Steve Orlando",
+    "Yen Nitro"
+  ],
+  "publish_date": "2026-01-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/04/03/5253ae4bf3da49a6a5f4143623d5deb7.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/164210/",
+  "fetched_at": "2026-04-23T14:57:00.829Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Raw Deal",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "26 May 1948",
+  "runtime": "79 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Anthony Mann",
+  "writer": "Leopold Atlas, John C. Higgins, Arnold B. Armstrong",
+  "actors": "Dennis O'Keefe, Claire Trevor, Marsha Hunt",
+  "plot": "Joe Sullivan (Dennis O'Keefe) has taken the rap for Rick (Raymond Burr), who double-crosses him with a flawed escape plan and other means intended to get rid of him.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI1MjQzMjQ2MF5BMl5BanBnXkFtZTgwNDY0MjE3MjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0040723",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:44:59.314Z"
+}

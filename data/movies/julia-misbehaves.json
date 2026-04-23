@@ -1,0 +1,31 @@
+{
+  "title": "Julia Misbehaves",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "08 Aug 1948",
+  "runtime": "99 min",
+  "genre": "Comedy, Romance",
+  "director": "Jack Conway",
+  "writer": "William Ludwig, Harry Ruskin, Arthur Wimperis",
+  "actors": "Greer Garson, Walter Pidgeon, Peter Lawford",
+  "plot": "A London chorus girl tries to rekindle her relationships with her daughter, whom she gave up as an infant, and her estranged husband, when the former becomes engaged.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmY1NGVlOWQtNDZkOS00ZTFjLTg2OTUtNDhlNTZhYTQzYmRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0040498",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:47:08.012Z"
+}

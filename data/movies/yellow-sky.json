@@ -1,0 +1,31 @@
+{
+  "title": "Yellow Sky",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "24 Dec 1948",
+  "runtime": "98 min",
+  "genre": "Crime, Drama, Western",
+  "director": "William A. Wellman",
+  "writer": "Lamar Trotti, W.R. Burnett, Jacques Monteux",
+  "actors": "Gregory Peck, Anne Baxter, Richard Widmark",
+  "plot": "A pistol-packing tomboy and her grandfather discover a band of bank robbing bandits taking refuge in the neighboring ghost town.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGRhMWJiZTktOWQwMi00MmMzLWE5MTctNzVhYTczNmQ1ZjUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0040978",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:44:43.061Z"
+}

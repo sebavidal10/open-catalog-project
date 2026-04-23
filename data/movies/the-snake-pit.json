@@ -1,0 +1,35 @@
+{
+  "title": "The Snake Pit",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "13 Nov 1948",
+  "runtime": "108 min",
+  "genre": "Drama, Mystery",
+  "director": "Anatole Litvak",
+  "writer": "Frank Partos, Millen Brand, Mary Jane Ward",
+  "actors": "Olivia de Havilland, Mark Stevens, Leo Genn",
+  "plot": "Virginia Cunningham can't recall how she landed in an asylum. In flashback, her husband Robert relates their courtship, marriage, and her developing symptoms. She remains in misery as Dr. Mark Kik tries to solve her problem.",
+  "language": "English, German, Russian",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 13 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTcxYmJhMTctM2Q2Yy00N2ViLTg3MjMtNzU1Zjk3ODczYTg5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.6",
+  "imdbID": "tt0040806",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:44:24.309Z"
+}

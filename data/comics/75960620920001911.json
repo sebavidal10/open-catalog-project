@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960620920001911",
+  "title": "X-Men #19",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Fer Sifuentes-Sujo",
+    "Jay Bowen",
+    "Jed MacKay",
+    "Lindsey Cohick",
+    "Marte Gracia",
+    "Mike McKone",
+    "Morry Hollowell",
+    "Netho Diaz",
+    "Ryan Stegman",
+    "Scott Koblish",
+    "Sean Parsons",
+    "Tom Brevoort",
+    "Val Staples"
+  ],
+  "publish_date": "2025-07-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/06/16/834229303b4d4a97a4ce250a12db1f11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/149098/",
+  "fetched_at": "2026-04-23T14:53:50.180Z"
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960620920001411",
+  "title": "X-Men #14",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Chris Giarrusso",
+    "Clayton Cowles",
+    "David López",
+    "Jay Bowen",
+    "Jed MacKay",
+    "J. P. Mayer",
+    "Marte Gracia",
+    "Martin Biro",
+    "Ryan Stegman",
+    "Tom Brevoort",
+    "Woo-Chul Lee"
+  ],
+  "publish_date": "2025-04-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/25/fb0f0115e0834b66bbc0f01c25fa95b8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/140614/",
+  "fetched_at": "2026-04-23T14:52:07.998Z"
+}

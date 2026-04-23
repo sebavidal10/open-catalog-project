@@ -1,0 +1,31 @@
+{
+  "title": "Shockproof",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "20 Jan 1949",
+  "runtime": "79 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Douglas Sirk",
+  "writer": "Helen Deutsch, Samuel Fuller",
+  "actors": "Cornel Wilde, Patricia Knight, John Baragrey",
+  "plot": "A parole officer falls in love with his client, a ravishing blonde who served time for murder, and he's determined to help her go straight despite her interfering criminal boyfriend.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWQ3NDZhYzMtNGM4Ny00MTY1LTk1OTctYzhmZGNiZDNjYjVhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0041871",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:55:41.021Z"
+}

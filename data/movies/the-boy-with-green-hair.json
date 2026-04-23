@@ -1,0 +1,31 @@
+{
+  "title": "The Boy with Green Hair",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "27 Nov 1948",
+  "runtime": "82 min",
+  "genre": "Comedy, Drama, Family",
+  "director": "Joseph Losey",
+  "writer": "Ben Barzman, Alfred Lewis Levitt, Betzi Beaton",
+  "actors": "Pat O'Brien, Robert Ryan, Barbara Hale",
+  "plot": "This parable looks at public reaction when the hair of an American war orphan mysteriously turns green.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzg3OWIzMmQtYmQ2MC00ZTEyLWE2NTktMzkyMGE2ZmNmNzgzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0040185",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:44:27.833Z"
+}

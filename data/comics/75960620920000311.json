@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960620920000311",
+  "title": "X-Men #3",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Frank D'Armata",
+    "Greg Land",
+    "Jay Bowen",
+    "Jed MacKay",
+    "Joëlle Jones",
+    "John Livesay",
+    "J. P. Mayer",
+    "J. Scott Campbell",
+    "Mahmud A. Asrar",
+    "Marte Gracia",
+    "Martin Biro",
+    "Matthew Wilson",
+    "Rachelle Rosenberg",
+    "Ryan Stegman",
+    "Tanya Lehoux",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2024-08-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/08/15/f7a02b7955ba44c682830d9f43328fa3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/126047/",
+  "fetched_at": "2026-04-23T14:47:56.924Z"
+}

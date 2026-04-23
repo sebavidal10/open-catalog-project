@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "X-Men: From the Ashes Infinity Comic #4",
+  "authors": [
+    "Alex Paknadel",
+    "Arthur Hesli",
+    "Clayton Cowles",
+    "Darren Shan",
+    "Diógenes Neves",
+    "Jasmine Alvarez",
+    "Noah Sharma"
+  ],
+  "publish_date": "2024-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/06/20/ec872936fbb74142809fc350f74ec513.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/149355/",
+  "fetched_at": "2026-04-23T14:45:32.891Z"
+}

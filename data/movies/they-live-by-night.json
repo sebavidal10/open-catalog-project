@@ -1,0 +1,35 @@
+{
+  "title": "They Live by Night",
+  "year": "1948",
+  "rated": "Passed",
+  "released": "05 Nov 1949",
+  "runtime": "95 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Nicholas Ray",
+  "writer": "Charles Schnee, Nicholas Ray, Edward Anderson",
+  "actors": "Cathy O'Donnell, Farley Granger, Howard Da Silva",
+  "plot": "An escaped convict injured during a robbery falls in love with the woman who nurses him back to health, but their relationship seems doomed from the beginning.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2JmZjQzNmUtMDc2Ni00YjEzLWFiYWMtMTNjNjdhMTQ5ZmY5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "7.4",
+  "imdbID": "tt0040872",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:44:44.225Z"
+}

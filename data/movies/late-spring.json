@@ -1,0 +1,35 @@
+{
+  "title": "Late Spring",
+  "year": "1949",
+  "rated": "Not Rated",
+  "released": "21 Jul 1972",
+  "runtime": "110 min",
+  "genre": "Comedy, Drama",
+  "director": "Yasujirô Ozu",
+  "writer": "Kazuo Hirotsu, Kôgo Noda, Yasujirô Ozu",
+  "actors": "Chishû Ryû, Setsuko Hara, Yumeji Tsukioka",
+  "plot": "Several people try to talk 27-year-old Noriko into marrying, but all she wants is to keep on caring for her widowed father.",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "5 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTAxZjZhOTctY2E1Yi00MTFmLWEzOWEtZGNhYzkwNjdiZTYyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "93/100"
+    }
+  ],
+  "metascore": "93",
+  "imdbRating": "8.2",
+  "imdbID": "tt0041154",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:55:25.547Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Pirate",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "11 Jun 1948",
+  "runtime": "102 min",
+  "genre": "Adventure, Comedy, Musical",
+  "director": "Vincente Minnelli",
+  "writer": "Albert Hackett, Frances Goodrich, S.N. Behrman",
+  "actors": "Judy Garland, Gene Kelly, Walter Slezak",
+  "plot": "A girl is engaged to the local rich man, but meanwhile she has dreams about the legendary pirate Macoco. A traveling singer falls in love with her and to impress her he poses as the pirate.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWQyMTMzMmQtMDU0Ny00M2Y5LThhN2UtYjA2Y2VmOTBhYmQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0040694",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:44:29.004Z"
+}

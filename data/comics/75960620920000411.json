@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960620920000411",
+  "title": "X-Men #4",
+  "authors": [
+    "Annalisa Leoni",
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Chris Samnee",
+    "Clayton Cowles",
+    "Elena Casagrande",
+    "Jay Bowen",
+    "Jed MacKay",
+    "J. P. Mayer",
+    "J. Scott Campbell",
+    "Marc Aspinall",
+    "Marte Gracia",
+    "Martin Biro",
+    "Mat Lopes",
+    "Netho Diaz",
+    "Ryan Stegman",
+    "Sean Parsons",
+    "Tanya Lehoux",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2024-09-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/09/13/b43f1a85886f4bc9bac4545a86a734b9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/127646/",
+  "fetched_at": "2026-04-23T14:48:41.645Z"
+}

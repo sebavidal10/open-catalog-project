@@ -1,0 +1,31 @@
+{
+  "title": "Macbeth",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "10 May 1949",
+  "runtime": "107 min",
+  "genre": "Drama, History, War",
+  "director": "Orson Welles",
+  "writer": "William Shakespeare, Orson Welles",
+  "actors": "Orson Welles, Jeanette Nolan, Dan O'Herlihy",
+  "plot": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
+  "language": "English, Latin",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzY5MTk2NDAtZGIyYi00NWY5LTg5MDEtMWY0N2VkNTE5OWFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0040558",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:44:18.485Z"
+}

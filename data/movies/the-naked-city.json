@@ -1,0 +1,35 @@
+{
+  "title": "The Naked City",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "04 Mar 1948",
+  "runtime": "96 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Jules Dassin",
+  "writer": "Albert Maltz, Malvin Wald",
+  "actors": "Barry Fitzgerald, Howard Duff, Dorothy Hart",
+  "plot": "A step-by-step look at a murder investigation on the streets of New York.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 6 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDAyM2ExNzctN2U2Yy00NDk3LWI4NzYtOGFjMDdmNTBjMzU1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.5",
+  "imdbID": "tt0040636",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:44:06.874Z"
+}

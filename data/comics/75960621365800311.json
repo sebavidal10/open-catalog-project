@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960621365800311",
+  "title": "Amazing X-Men #3",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Israel Silva",
+    "Jay Bowen",
+    "Jed MacKay",
+    "Lindsey Cohick",
+    "Logan Lubera",
+    "Mahmud A. Asrar",
+    "Matthew Wilson",
+    "Miguel Mercado",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2025-12-03",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/11/21/e789bd98201348988b5e2919cd5d9e5d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/157366/",
+  "fetched_at": "2026-04-23T14:57:22.032Z"
+}

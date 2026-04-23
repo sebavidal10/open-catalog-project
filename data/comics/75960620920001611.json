@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960620920001611",
+  "title": "X-Men #16",
+  "authors": [
+    "Alex Ross",
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Dan Brown",
+    "Fer Sifuentes-Sujo",
+    "Gerardo Sandoval",
+    "Jay Bowen",
+    "Jed MacKay",
+    "John Livesay",
+    "J. P. Mayer",
+    "Lindsey Cohick",
+    "Marte Gracia",
+    "Martin Biro",
+    "Netho Diaz",
+    "Russell Dauterman",
+    "Ryan Stegman",
+    "Sean Parsons",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2025-05-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/04/21/739eb274134b4042ac15d216c13cf4b8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/143805/",
+  "fetched_at": "2026-04-23T14:52:52.876Z"
+}

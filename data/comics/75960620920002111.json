@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960620920002111",
+  "title": "X-Men #21",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "David Baldeón",
+    "Fer Sifuentes-Sujo",
+    "Jay Bowen",
+    "Jed MacKay",
+    "Jesus Aburtov",
+    "John Livesay",
+    "Joshua Cassara",
+    "J. P. Mayer",
+    "J. Scott Campbell",
+    "Lindsey Cohick",
+    "Marte Gracia",
+    "Matthew Wilson",
+    "Netho Diaz",
+    "Ryan Stegman",
+    "Sabine Rich",
+    "Sean Parsons",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2025-08-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/14/9af547661cea47cea5dc7de567906ef9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151666/",
+  "fetched_at": "2026-04-23T14:54:31.745Z"
+}

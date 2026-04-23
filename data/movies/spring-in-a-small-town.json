@@ -1,0 +1,31 @@
+{
+  "title": "Spring in a Small Town",
+  "year": "1948",
+  "rated": "N/A",
+  "released": "10 Nov 1993",
+  "runtime": "98 min",
+  "genre": "Drama, Romance",
+  "director": "Mu Fei",
+  "writer": "Tianji Li",
+  "actors": "Chaoming Cui, Wei Li, Yu Shi",
+  "plot": "A lonely housewife finds her monotonous life altered when her childhood sweetheart returns to town.",
+  "language": "Mandarin",
+  "country": "China",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGVlZDc0NjUtYmE0MC00ZjRkLWE0MTctMGFjNjQ3ZGViNzg2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0189219",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:45:34.137Z"
+}

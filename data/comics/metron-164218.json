@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "X-Men Infinity Comic #11",
+  "authors": [
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Darren Shan",
+    "Minkyu Jung",
+    "Steve Orlando",
+    "Yen Nitro"
+  ],
+  "publish_date": "2026-03-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/04/03/52a904dd51504ad98e9a095b01ba7dd1.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/164218/",
+  "fetched_at": "2026-04-23T14:58:30.232Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Rope",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "25 Sep 1948",
+  "runtime": "80 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Alfred Hitchcock",
+  "writer": "Hume Cronyn, Patrick Hamilton, Arthur Laurents",
+  "actors": "James Stewart, John Dall, Farley Granger",
+  "plot": "Two young men murder a former classmate as a test of their intellectual and moral superiority, then hide the body as they host a dinner party attended by the victim's girlfriend and father, as well as their former schoolmaster and...",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDM1YzdlZjAtZWFiZS00ZjYyLTgxYzctNzBiYmE0OWFiMGU1XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.9",
+  "imdbID": "tt0040746",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:43:56.462Z"
+}

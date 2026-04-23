@@ -1,0 +1,35 @@
+{
+  "title": "The Fallen Idol",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "03 Oct 1949",
+  "runtime": "95 min",
+  "genre": "Drama, Film-Noir, Mystery",
+  "director": "Carol Reed",
+  "writer": "Graham Greene, Lesley Storm, William Templeton",
+  "actors": "Ralph Richardson, Michèle Morgan, Sonia Dresdel",
+  "plot": "A butler working in a foreign embassy in London falls under suspicion when his wife accidentally falls to her death, the only witness being an impressionable young boy.",
+  "language": "English, French",
+  "country": "United Kingdom",
+  "awards": "Nominated for 2 Oscars. 7 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjA0ODM0NTktNTZhYy00OGI0LWE0ZTItY2NhYTdiZTE2MGNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "7.6",
+  "imdbID": "tt0040338",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:43:48.386Z"
+}

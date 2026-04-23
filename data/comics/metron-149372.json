@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "X-Men: From the Ashes Infinity Comic #21",
+  "authors": [
+    "Alex Paknadel",
+    "Arthur Hesli",
+    "Clayton Cowles",
+    "Darren Shan",
+    "Diógenes Neves",
+    "Jasmine Alvarez",
+    "Noah Sharma"
+  ],
+  "publish_date": "2024-10-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/06/20/c4d82f31beb64f619954df06746226f0.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/149372/",
+  "fetched_at": "2026-04-23T14:48:12.356Z"
+}

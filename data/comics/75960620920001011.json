@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960620920001011",
+  "title": "X-Men #10",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "David Curiel",
+    "Fer Sifuentes-Sujo",
+    "Jay Bowen",
+    "Jed MacKay",
+    "J. P. Mayer",
+    "Leirix Li",
+    "Marte Gracia",
+    "Martin Biro",
+    "Michele Bandini",
+    "Netho Diaz",
+    "Ryan Stegman",
+    "Sean Parsons",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2025-01-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/21/0a13ebfef23b45ca98117272c14a0f1a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/133928/",
+  "fetched_at": "2026-04-23T14:50:37.306Z"
+}

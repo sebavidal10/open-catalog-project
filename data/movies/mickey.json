@@ -1,0 +1,27 @@
+{
+  "title": "Mickey",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "23 Jun 1948",
+  "runtime": "87 min",
+  "genre": "Comedy, Drama",
+  "director": "Ralph Murphy",
+  "writer": "Muriel Roy Bolton, Peggy Goodin, Agnes Christine Johnston",
+  "actors": "Lois Butler, Bill Goodwin, Irene Hervey",
+  "plot": "Young girl is constantly getting into trouble and embarrassing her father, who finally puts his foot down.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI4ODU3MTg4M15BMl5BanBnXkFtZTgwMzQ3OTgwMzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0040586",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:48:54.024Z"
+}

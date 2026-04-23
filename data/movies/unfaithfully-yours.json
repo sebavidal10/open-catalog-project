@@ -1,0 +1,31 @@
+{
+  "title": "Unfaithfully Yours",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "10 Dec 1948",
+  "runtime": "105 min",
+  "genre": "Comedy, Music, Romance",
+  "director": "Preston Sturges",
+  "writer": "Preston Sturges",
+  "actors": "Rex Harrison, Linda Darnell, Rudy Vallee",
+  "plot": "A man dreams of revenge when he suspects his wife is unfaithful.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjg2OWUzNTgtMjViYy00M2E5LWEzZmMtZjQ5YTQ1ZDM5NTBiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0040919",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:45:27.182Z"
+}

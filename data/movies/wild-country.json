@@ -1,0 +1,27 @@
+{
+  "title": "Wild Country",
+  "year": "1947",
+  "rated": "Passed",
+  "released": "17 Jan 1947",
+  "runtime": "55 min",
+  "genre": "Western",
+  "director": "Ray Taylor",
+  "writer": "Arthur E. Orloff",
+  "actors": "Eddie Dean, Flash, Roscoe Ates",
+  "plot": "Eddie and Soapy have to find a man who broke out of prison.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMjM4Mjg5MV5BMl5BanBnXkFtZTcwNjU4MjE5Mw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0039993",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:43:01.783Z"
+}

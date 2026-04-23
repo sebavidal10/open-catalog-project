@@ -1,0 +1,31 @@
+{
+  "title": "Moonrise",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "01 Oct 1948",
+  "runtime": "90 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Frank Borzage",
+  "writer": "Charles F. Haas, Theodore Strauss",
+  "actors": "Dane Clark, Gail Russell, Ethel Barrymore",
+  "plot": "Danny is despised by his schoolmates because his father was accused of killing another man and sentenced to death.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzkzZWJhYTktYjAxYy00YTdhLTlkMDItYzY1Yjk1N2M3NWFmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0040607",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:45:09.745Z"
+}

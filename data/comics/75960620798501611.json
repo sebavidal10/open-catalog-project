@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960620798501611",
+  "title": "Ultimate X-Men #16",
+  "authors": [
+    "C. B. Cebulski",
+    "Corin Howell",
+    "Jay Bowen",
+    "Kat Gregorowicz",
+    "Michelle Marchese",
+    "Miguel Mercado",
+    "Peach Momoko",
+    "Rachelle Rosenberg",
+    "Travis Lanham",
+    "Wil Moss",
+    "Zack Davisson"
+  ],
+  "publish_date": "2025-06-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/29/22a657f8aaf54703b62cdacc88118c2c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/147944/",
+  "fetched_at": "2026-04-23T14:53:05.441Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Key Largo",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "31 Jul 1948",
+  "runtime": "100 min",
+  "genre": "Action, Crime, Drama",
+  "director": "John Huston",
+  "writer": "Richard Brooks, John Huston, Maxwell Anderson",
+  "actors": "Humphrey Bogart, Edward G. Robinson, Lauren Bacall",
+  "plot": "A drifter visits the family hotel of a war buddy who was killed in action only to find that a Chicago mobster and his gang have taken over the place. As a hurricane approaches, a confrontation ensues.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 4 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmVmNjY0MDQtMzE5Zi00ZmEzLTg3MzUtNTg1MWE0YWNiNzQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.7",
+  "imdbID": "tt0040506",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:43:58.760Z"
+}

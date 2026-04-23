@@ -1,0 +1,31 @@
+{
+  "title": "Sorry, Wrong Number",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "24 Sep 1948",
+  "runtime": "89 min",
+  "genre": "Drama, Film-Noir, Mystery",
+  "director": "Anatole Litvak",
+  "writer": "Lucille Fletcher",
+  "actors": "Barbara Stanwyck, Burt Lancaster, Ann Richards",
+  "plot": "When neurotic bedridden wife Leona Stevenson overhears a murder plot on her telephone, she tries to piece the puzzle together and prevent the murder. Based on Lucille Fletcher's famous radio play.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzlkYmMxMGEtYzNkZC00MjcwLTllY2ItMDQ5OWFhYWJiNTk1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0040823",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:43:54.151Z"
+}

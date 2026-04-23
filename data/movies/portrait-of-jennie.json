@@ -1,0 +1,31 @@
+{
+  "title": "Portrait of Jennie",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "22 Apr 1949",
+  "runtime": "86 min",
+  "genre": "Drama, Fantasy, Mystery",
+  "director": "William Dieterle",
+  "writer": "Robert Nathan, Paul Osborn, Peter Berneis",
+  "actors": "Jennifer Jones, Joseph Cotten, Ethel Barrymore",
+  "plot": "In Depression-era New York, an impoverished painter has a chance encounter with an enigmatic, old-fashioned little girl in Central Park who inspires him and changes his destiny.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDAxZGZlZjYtMWMwNy00ZDQ0LWFlMDUtZWNhZDlkYzE4MmY3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0040705",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:44:38.370Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "3 Godfathers",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "13 Jan 1949",
+  "runtime": "106 min",
+  "genre": "Drama, Western",
+  "director": "John Ford",
+  "writer": "Laurence Stallings, Frank S. Nugent, Peter B. Kyne",
+  "actors": "John Wayne, Pedro Armendáriz, Harry Carey Jr.",
+  "plot": "Three outlaws on the run risk their freedom and their lives to return a newborn to civilization.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWQ1YmI4NGItYzRjOS00MDEwLWI3YzYtYTMwNWY0MDU4YTczXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "7.0",
+  "imdbID": "tt0040064",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:44:05.699Z"
+}

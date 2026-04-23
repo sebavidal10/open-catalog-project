@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "X-Men: Age of Revelation Infinity Comic #1",
+  "authors": [
+    "Clayton Cowles",
+    "Darren Shan",
+    "Jasmine Alvarez",
+    "Michael S. Bartolo",
+    "Noah Sharma",
+    "Phillip Sevy",
+    "Tim Seeley"
+  ],
+  "publish_date": "2025-11-03",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/03/30/80e0f5fc98d54273bdd792422891522c.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/164026/",
+  "fetched_at": "2026-04-23T14:55:09.068Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Good Sam",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "01 Sep 1948",
+  "runtime": "114 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Leo McCarey",
+  "writer": "Ken Englund, Leo McCarey, John D. Klorer",
+  "actors": "Gary Cooper, Ann Sheridan, Ray Collins",
+  "plot": "Sam Clayton has a good heart and likes to help out people in need. In fact, he likes to help them out so much that he often finds himself broke and unable to help his own family buy the things they need--like a house.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDVlOWRkMDItNGMzZi00MzlhLTg2MmItZTVkYjI2NzRkNDdjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0040395",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:45:35.288Z"
+}

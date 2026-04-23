@@ -1,0 +1,35 @@
+{
+  "title": "Adam's Rib",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "17 Nov 1949",
+  "runtime": "101 min",
+  "genre": "Comedy, Romance",
+  "director": "George Cukor",
+  "writer": "Ruth Gordon, Garson Kanin, Pierre-François Caillé",
+  "actors": "Spencer Tracy, Katharine Hepburn, Judy Holliday",
+  "plot": "Domestic and professional tensions mount when a husband and wife work as opposing lawyers in a case involving a woman who shot her husband.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzAzODQxNTItNDUwOS00MWIwLWE5NjMtZTI2MDU4ZTFlNzg4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.4",
+  "imdbID": "tt0041090",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:55:44.599Z"
+}

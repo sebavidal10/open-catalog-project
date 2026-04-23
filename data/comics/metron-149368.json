@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": null,
+  "title": "X-Men: From the Ashes Infinity Comic #17",
+  "authors": [
+    "Alex Paknadel",
+    "Clayton Cowles",
+    "Darren Shan",
+    "Jasmine Alvarez",
+    "Michael S. Bartolo",
+    "Noah Sharma",
+    "Phillip Sevy"
+  ],
+  "publish_date": "2024-09-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/06/20/1e302c050958468f8228a9aac7d38bcb.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/149368/",
+  "fetched_at": "2026-04-23T14:47:28.965Z"
+}

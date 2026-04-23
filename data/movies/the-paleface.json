@@ -1,0 +1,31 @@
+{
+  "title": "The Paleface",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "17 Dec 1948",
+  "runtime": "91 min",
+  "genre": "Comedy, Family, Western",
+  "director": "Norman Z. McLeod",
+  "writer": "Edmund L. Hartmann, Frank Tashlin, Jack Rose",
+  "actors": "Bob Hope, Jane Russell, Robert Armstrong",
+  "plot": "Calamity Jane is dispatched to find out who's smuggling rifles to the Indians, and winds up married to a hapless correspondence-school dentist as part of her cover.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDJlYjhiN2QtZmNlYi00OWFhLWIwZGUtYzk0ZTJmNWViYTJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0040679",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:45:25.986Z"
+}

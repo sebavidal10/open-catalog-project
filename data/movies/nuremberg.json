@@ -1,0 +1,31 @@
+{
+  "title": "Nuremberg",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "29 Sep 2010",
+  "runtime": "78 min",
+  "genre": "Documentary",
+  "director": "Stuart Schulberg",
+  "writer": "Stuart Schulberg",
+  "actors": "Francis Biddle, Karl Dönitz, Hans Frank",
+  "plot": "The official U.S. government film about the 1st Nuremberg trial (The Trial of the Major Nazi War Criminals) which lasted from November 20, 1945 to October 1, 1946.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzI0MjE4NjE5Ml5BMl5BanBnXkFtZTcwODE5MjI1NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0441889",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:47:33.829Z"
+}

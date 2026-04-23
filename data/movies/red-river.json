@@ -1,0 +1,35 @@
+{
+  "title": "Red River",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "17 Sep 1948",
+  "runtime": "133 min",
+  "genre": "Drama, Western",
+  "director": "Howard Hawks, Arthur Rosson",
+  "writer": "Borden Chase, Charles Schnee",
+  "actors": "John Wayne, Montgomery Clift, Joanne Dru",
+  "plot": "A cattle baron and his foster son argue on the Chisholm Trail.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 2 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM2NDA3NTQ2OF5BMl5BanBnXkFtZTcwODUzNzU2NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
+  "metascore": "96",
+  "imdbRating": "7.7",
+  "imdbID": "tt0040724",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:43:55.307Z"
+}

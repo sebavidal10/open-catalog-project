@@ -1,0 +1,27 @@
+{
+  "title": "Bob and Sally",
+  "year": "1948",
+  "rated": "N/A",
+  "released": "26 Jan 1951",
+  "runtime": "71 min",
+  "genre": "Drama",
+  "director": "Erle C. Kenton",
+  "writer": "Mary C. Palmer",
+  "actors": "Gloria Marlen, Ralph Hodges, Rick Vallin",
+  "plot": "N/A",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTRlNThiMDYtMzA3MS00OGVmLWExODUtM2NmNjYwODQ5MTE2XkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0040177",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:52:19.395Z"
+}

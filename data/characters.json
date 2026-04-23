@@ -1,3 +1,7 @@
 [
-  { "id": "x-men", "search": "X-Men" }
+  { "id": "x-men", "search": "X-Men" },
+  { "id": "batman", "search": "batman" },
+  { "id": "superman", "search": "superman" },
+  { "id": "spider-man", "search": "spider-man" },
+  { "id": "justice-league", "search": "justice league" }
 ]

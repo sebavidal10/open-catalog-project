@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960620798502111",
+  "title": "Ultimate X-Men #21",
+  "authors": [
+    "C. B. Cebulski",
+    "Jay Bowen",
+    "Kat Gregorowicz",
+    "Michelle Marchese",
+    "Peach Momoko",
+    "Travis Lanham",
+    "Wil Moss",
+    "Zack Davisson"
+  ],
+  "publish_date": "2025-11-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/26/2e91c0ba3cae4d9b98a4af52e6c636c5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156574/",
+  "fetched_at": "2026-04-23T14:56:40.568Z"
+}

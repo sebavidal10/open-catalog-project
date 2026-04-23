@@ -1,0 +1,31 @@
+{
+  "title": "Johnny Belinda",
+  "year": "1948",
+  "rated": "Approved",
+  "released": "14 Sep 1948",
+  "runtime": "102 min",
+  "genre": "Drama",
+  "director": "Jean Negulesco",
+  "writer": "Irma von Cube, Allen Vincent, Elmer Harris",
+  "actors": "Jane Wyman, Lew Ayres, Charles Bickford",
+  "plot": "A kind doctor volunteers to tutor a deaf-mute woman, but scandal starts to swirl when his pupil is raped and falls pregnant.",
+  "language": "English, American Sign ",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 6 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTg2MGZkZTYtY2U3MC00MjI1LWE0ZDItNDlhMjE2ZjcwNDIzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0040495",
+  "type": "movie",
+  "fetched_at": "2026-04-23T14:44:55.840Z"
+}
