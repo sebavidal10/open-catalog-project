@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960609999300911",
+  "title": "X-Men #9",
+  "authors": [
+    "Carlos Villa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Gerry Duggan",
+    "Israel Silva",
+    "Jordan D. White",
+    "Lauren Amaro",
+    "Leinil Francis Yu",
+    "Lucas Werneck",
+    "Marte Gracia",
+    "Natacha Bustos",
+    "Pepe Larraz",
+    "Ron Lim",
+    "Sunny Gho",
+    "Tom Muller"
+  ],
+  "publish_date": "2022-03-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/02/21/X-Men_Vol_6_9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/44143/",
+  "fetched_at": "2026-05-02T19:45:09.509Z",
+  "reviewed_at": null
+}

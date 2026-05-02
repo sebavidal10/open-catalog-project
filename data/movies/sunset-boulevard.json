@@ -1,0 +1,35 @@
+{
+  "title": "Sunset Boulevard",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "04 Aug 1950",
+  "runtime": "110 min",
+  "genre": "Drama, Film-Noir",
+  "director": "Billy Wilder",
+  "writer": "Charles Brackett, Billy Wilder, D.M. Marshman Jr.",
+  "actors": "William Holden, Gloria Swanson, Erich von Stroheim",
+  "plot": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 21 wins & 20 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_QL75_UX380_CR0,5,380,562_.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "8.4",
+  "imdbID": "tt0043014",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:51:00.978Z"
+}

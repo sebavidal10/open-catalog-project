@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960608650400711",
+  "title": "X-Men: Blue #7",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "Arthur Adams",
+    "Axel Alonso",
+    "Christina Harrington",
+    "Cory Smith",
+    "Cullen Bunn",
+    "Dan Buckley",
+    "David López",
+    "Israel Silva",
+    "Jay Bowen",
+    "Jim Lee",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Matt Milla",
+    "Michael Kelleher",
+    "Peter Steigerwald"
+  ],
+  "publish_date": "2017-07-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/24/x-men-blue-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29684/",
+  "fetched_at": "2026-05-02T19:26:48.911Z",
+  "reviewed_at": null
+}

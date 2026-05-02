@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960608650400811",
+  "title": "X-Men: Blue #8",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "Arthur Adams",
+    "Axel Alonso",
+    "Christina Harrington",
+    "Cory Smith",
+    "Cullen Bunn",
+    "Dan Buckley",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Joey Vazquez",
+    "Mark Paniccia",
+    "Matt Milla",
+    "Peter Steigerwald",
+    "Terry Pallot"
+  ],
+  "publish_date": "2017-07-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/24/x-men-blue-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29685/",
+  "fetched_at": "2026-05-02T19:26:53.089Z",
+  "reviewed_at": null
+}

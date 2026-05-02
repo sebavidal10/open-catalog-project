@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960607924701911",
+  "title": "X-Men #19",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Craig Yeung",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Dexter Soy",
+    "Edgar Tadeo",
+    "Harvey Tolibao",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marc Guggenheim",
+    "Mike Marts",
+    "Paul Mounts",
+    "Rachel Dodson",
+    "Terry Dodson"
+  ],
+  "publish_date": "2014-09-03",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/28/x-men-v4-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28078/",
+  "fetched_at": "2026-05-02T19:13:35.522Z",
+  "reviewed_at": null
+}

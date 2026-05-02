@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "0709893165504",
+  "title": "The Batman Family #10",
+  "authors": [
+    "Bill Finger",
+    "Bob Brown",
+    "Bob Kane",
+    "Bob Rozakis",
+    "Charles Paris",
+    "France Herron",
+    "Jerry Robinson",
+    "John Calnan",
+    "Julius Schwartz",
+    "Sheldon Moldoff",
+    "Vince Colletta"
+  ],
+  "publish_date": "1977-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/23/the-batman-family-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29667/",
+  "fetched_at": "2026-05-02T20:40:46.474Z",
+  "reviewed_at": "1977-04-01"
+}

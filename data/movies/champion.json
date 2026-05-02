@@ -1,0 +1,31 @@
+{
+  "title": "Champion",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "20 May 1949",
+  "runtime": "99 min",
+  "genre": "Drama, Film-Noir, Sport",
+  "director": "Mark Robson",
+  "writer": "Carl Foreman, Ring Lardner",
+  "actors": "Kirk Douglas, Arthur Kennedy, Marilyn Maxwell",
+  "plot": "Boxer Midge Kelly rises to fame...mainly by stepping on other people.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 2 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTY0ZGE2OTUtNjkzOC00ZDUzLWE3Y2QtNWFkYTdkMmNjNmJjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0041239",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:40:19.976Z"
+}

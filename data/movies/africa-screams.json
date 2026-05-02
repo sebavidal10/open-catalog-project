@@ -1,0 +1,31 @@
+{
+  "title": "Africa Screams",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "27 May 1949",
+  "runtime": "79 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Charles Barton",
+  "writer": "Earl Baldwin, Martin Ragaway, Leonard Stern",
+  "actors": "Bud Abbott, Lou Costello, Clyde Beatty",
+  "plot": "Two booksellers search for diamonds in Africa, along the way meeting a visually-impaired gunner, a hungry lion, and a tribe of cannibals.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGUxOGVmMjgtM2ZmZS00NjQyLWFiODEtNmFhOGFiM2ZmMzgzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0041098",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:42:04.951Z"
+}

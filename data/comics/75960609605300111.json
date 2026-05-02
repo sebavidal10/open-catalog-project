@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960609605300111",
+  "title": "X-Men: Marvels Snapshots #1",
+  "authors": [
+    "Alex Ross",
+    "C. B. Cebulski",
+    "Chris O'Halloran",
+    "Darren Shan",
+    "Giada Marchisio",
+    "Lauren Amaro",
+    "Mike McKone",
+    "Nathan Fairbairn",
+    "Rachel Edidin",
+    "Tom Brevoort",
+    "Tom Orzechowski",
+    "Tom Reilly"
+  ],
+  "publish_date": "2020-09-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/07/18/clean_3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/50748/",
+  "fetched_at": "2026-05-02T19:40:37.023Z",
+  "reviewed_at": null
+}

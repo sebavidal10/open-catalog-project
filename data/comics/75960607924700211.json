@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960607924700211",
+  "title": "X-Men #2",
+  "authors": [
+    "Alan Fine",
+    "Amanda Conner",
+    "Axel Alonso",
+    "Brian Wood",
+    "Christina Strain",
+    "Dan Buckley",
+    "Frank Martin",
+    "Jeanine Schaefer",
+    "Jennifer M. Smith",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Laura Martin",
+    "Mark Morales",
+    "Matt Milla",
+    "Nick Lowe",
+    "Olivier Coipel",
+    "Scott Hanna"
+  ],
+  "publish_date": "2013-06-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v4-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28061/",
+  "fetched_at": "2026-05-02T19:04:12.212Z",
+  "reviewed_at": null
+}

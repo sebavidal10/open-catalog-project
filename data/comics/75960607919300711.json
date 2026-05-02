@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607919300711",
+  "title": "X-Men Legacy #7",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Cory Petit",
+    "Craig Yeung",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Jennifer M. Smith",
+    "Joe Quesada",
+    "José Villarrubia",
+    "Michael Del Mundo",
+    "Nick Lowe",
+    "Simon Spurrier",
+    "Tan Eng Huat"
+  ],
+  "publish_date": "2013-03-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/11/x-men-legacy-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39397/",
+  "fetched_at": "2026-05-02T19:02:00.086Z",
+  "reviewed_at": null
+}

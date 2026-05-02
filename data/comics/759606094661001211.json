@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "759606094661001211",
+  "title": "X-Men #12",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Jay Bowen",
+    "Jonathan Hickman",
+    "Jordan D. White",
+    "Leinil Francis Yu",
+    "Sunny Gho",
+    "Tom Muller"
+  ],
+  "publish_date": "2020-09-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/09/xmen-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16999/",
+  "fetched_at": "2026-05-02T19:40:32.986Z",
+  "reviewed_at": null
+}

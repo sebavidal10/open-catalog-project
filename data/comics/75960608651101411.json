@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608651101411",
+  "title": "X-Men: Gold #14",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "Axel Alonso",
+    "Carlos Cabrera",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dan Mora",
+    "Jay Bowen",
+    "Joe Quesada",
+    "Marc Guggenheim",
+    "Marc Laming",
+    "Mark Paniccia",
+    "Rain Beredo"
+  ],
+  "publish_date": "2017-10-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/26/x-men-gold-v2-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27941/",
+  "fetched_at": "2026-05-02T19:28:15.212Z",
+  "reviewed_at": null
+}

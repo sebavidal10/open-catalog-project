@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960609989400111",
+  "title": "Planet-Size X-Men #1",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Chris Sotomayor",
+    "Clayton Cowles",
+    "Gerry Duggan",
+    "Jay Bowen",
+    "Jordan D. White",
+    "Larry Houston",
+    "Marte Gracia",
+    "Olivier Coipel",
+    "Pepe Larraz",
+    "Rachel Dodson",
+    "Russell Dauterman",
+    "Terry Dodson",
+    "Tom Muller"
+  ],
+  "publish_date": "2021-06-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/11/planet-size-xmen-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/32142/",
+  "fetched_at": "2026-05-02T19:42:18.037Z",
+  "reviewed_at": null
+}

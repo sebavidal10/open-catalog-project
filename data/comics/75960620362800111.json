@@ -1,0 +1,38 @@
+{
+  "isbn": null,
+  "upc": "75960620362800111",
+  "title": "X-Men: Hellfire Gala #1",
+  "authors": [
+    "Adam Hughes",
+    "Carlos Gómez",
+    "Carlos Villa",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Frank Martin",
+    "Gerry Duggan",
+    "Jay Bowen",
+    "Jesus Aburtov",
+    "Jordan D. White",
+    "Kris Anka",
+    "Lauren Amaro",
+    "Matteo Lolli",
+    "Matthew Wilson",
+    "Matt Milla",
+    "Nick Dragotta",
+    "Rain Beredo",
+    "Rico Renzi",
+    "Russell Dauterman",
+    "Stanley Lau",
+    "Tom Muller"
+  ],
+  "publish_date": "2022-07-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/07/04/xmen-h-gala-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/50227/",
+  "fetched_at": "2026-05-02T19:46:36.508Z",
+  "reviewed_at": null
+}

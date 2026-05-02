@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "759606094661001511",
+  "title": "X-Men #15",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Jay Bowen",
+    "Jonathan Hickman",
+    "Jordan D. White",
+    "Leinil Francis Yu",
+    "Mahmud A. Asrar",
+    "Nick Russell",
+    "Peach Momoko",
+    "Sunny Gho",
+    "Tom Muller"
+  ],
+  "publish_date": "2020-11-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/18/xmen-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19466/",
+  "fetched_at": "2026-05-02T19:41:00.524Z",
+  "reviewed_at": null
+}

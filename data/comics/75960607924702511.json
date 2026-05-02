@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960607924702511",
+  "title": "X-Men #25",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "G. Willow Wilson",
+    "Jim Cheung",
+    "Joe Quesada",
+    "Jorge Molina",
+    "Julien Hugonnard-Bert",
+    "Justin Ponsor",
+    "Lee Loughridge",
+    "Mark Pennington",
+    "Mike Marts",
+    "Roland Boschi",
+    "Travis Lanham"
+  ],
+  "publish_date": "2015-03-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/28/x-men-v4-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28084/",
+  "fetched_at": "2026-05-02T19:17:06.494Z",
+  "reviewed_at": null
+}

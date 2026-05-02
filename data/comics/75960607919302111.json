@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607919302111",
+  "title": "X-Men Legacy #21",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Jay Leisten",
+    "Joe Quesada",
+    "Khoi Pham",
+    "Michael Del Mundo",
+    "Nick Lowe",
+    "Rachelle Rosenberg",
+    "Simon Spurrier",
+    "Xander Jarowey"
+  ],
+  "publish_date": "2013-12-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/11/x-men-legacy-21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39411/",
+  "fetched_at": "2026-05-02T19:08:19.533Z",
+  "reviewed_at": null
+}

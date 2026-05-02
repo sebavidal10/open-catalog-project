@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607814100111",
+  "title": "X-Treme X-Men #1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dennis Crisostomo",
+    "Greg Pak",
+    "Jeanine Schaefer",
+    "Jessica Kholinne",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Julian Totino Tedesco",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Salvador Larroca",
+    "Stephen Segovia"
+  ],
+  "publish_date": "2012-07-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/15/x-treme-x-men-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39511/",
+  "fetched_at": "2026-05-02T18:55:24.043Z",
+  "reviewed_at": null
+}

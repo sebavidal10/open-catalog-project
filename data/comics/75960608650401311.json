@@ -1,0 +1,40 @@
+{
+  "isbn": null,
+  "upc": "75960608650401311",
+  "title": "X-Men: Blue #13",
+  "authors": [
+    "Alan Fine",
+    "Andy Troy",
+    "Anthony Gambino",
+    "Arthur Adams",
+    "Axel Alonso",
+    "Christina Harrington",
+    "Cullen Bunn",
+    "Dan Buckley",
+    "Darren Shan",
+    "David López",
+    "Jack Kirby",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Dell",
+    "Jorge Molina",
+    "Kathleen Wisneski",
+    "Mark Bagley",
+    "Mark Paniccia",
+    "Matt Milla",
+    "Mike McKone",
+    "Peter Steigerwald",
+    "Robbie Thompson"
+  ],
+  "publish_date": "2017-10-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/24/x-men-blue-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29690/",
+  "fetched_at": "2026-05-02T19:28:03.420Z",
+  "reviewed_at": null
+}

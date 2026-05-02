@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960620212600511",
+  "title": "X-Men: Red #5",
+  "authors": [
+    "Al Ewing",
+    "Ariana Maher",
+    "C. B. Cebulski",
+    "Federico Blee",
+    "Jay Bowen",
+    "Jordan D. White",
+    "Lauren Amaro",
+    "Matt Hollingsworth",
+    "Russell Dauterman",
+    "Stefano Caselli",
+    "Taurin Clarke",
+    "Tom Muller"
+  ],
+  "publish_date": "2022-08-03",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/07/25/xmen-red-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/51012/",
+  "fetched_at": "2026-05-02T19:47:05.445Z",
+  "reviewed_at": null
+}

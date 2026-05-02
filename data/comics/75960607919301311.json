@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607919301311",
+  "title": "X-Men Legacy #13",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Eliopoulos",
+    "Craig Yeung",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Jennifer M. Smith",
+    "Joe Quesada",
+    "José Villarrubia",
+    "Michael Del Mundo",
+    "Nick Lowe",
+    "Simon Spurrier",
+    "Tan Eng Huat"
+  ],
+  "publish_date": "2013-07-03",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/11/x-men-legacy-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39403/",
+  "fetched_at": "2026-05-02T19:04:52.695Z",
+  "reviewed_at": null
+}

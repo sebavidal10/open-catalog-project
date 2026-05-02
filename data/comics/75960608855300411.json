@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960608855300411",
+  "title": "X-Men: Red #4",
+  "authors": [
+    "Alan Fine",
+    "Annalise Bissa",
+    "Anthony Gambino",
+    "Brent Schoonover",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Christina Harrington",
+    "Cory Petit",
+    "Dan Buckley",
+    "Jay Bowen",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Mahmud A. Asrar",
+    "Mark Paniccia",
+    "Nick Filardi",
+    "Rain Beredo",
+    "Tamra Bonvillain",
+    "Tom Taylor",
+    "Travis Charest"
+  ],
+  "publish_date": "2018-05-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/26/x-men-red-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27967/",
+  "fetched_at": "2026-05-02T19:31:38.296Z",
+  "reviewed_at": null
+}

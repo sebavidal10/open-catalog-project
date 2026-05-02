@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960608651102611",
+  "title": "X-Men: Gold #26",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "Arif Prianto",
+    "C. B. Cebulski",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Darren Shan",
+    "David Marquez",
+    "Jay Bowen",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Marc Guggenheim",
+    "Matthew Wilson",
+    "Michele Bandini",
+    "Phil Noto"
+  ],
+  "publish_date": "2018-04-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/26/x-men-gold-v2-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27953/",
+  "fetched_at": "2026-05-02T19:31:05.324Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Border Incident",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "28 Oct 1949",
+  "runtime": "94 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Anthony Mann",
+  "writer": "John C. Higgins, George Zuckerman",
+  "actors": "Ricardo Montalban, George Murphy, Howard Da Silva",
+  "plot": "Mexican and American federal agents tackle a vicious gang exploiting illegal farm workers in southern California.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2VmMDNhOWUtODdiOC00ZTQyLTg0NWItZTljN2VhZTRjYjgwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0041198",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:40:28.235Z"
+}

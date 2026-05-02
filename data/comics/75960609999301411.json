@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960609999301411",
+  "title": "X-Men #14",
+  "authors": [
+    "Carlos Villa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Gerry Duggan",
+    "Jason Keith",
+    "Jay Bowen",
+    "Jesus Aburtov",
+    "John Romita Jr.",
+    "Jordan D. White",
+    "Lauren Amaro",
+    "Martín Cóccolo",
+    "Matthew Wilson",
+    "Matt Milla",
+    "Russell Dauterman",
+    "Scott Hanna",
+    "Tom Muller"
+  ],
+  "publish_date": "2022-08-31",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/08/14/xmen-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/51400/",
+  "fetched_at": "2026-05-02T19:46:53.093Z",
+  "reviewed_at": null
+}

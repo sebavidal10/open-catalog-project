@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960608651100611",
+  "title": "X-Men: Gold #6",
+  "authors": [
+    "Adriano Di Benedetto",
+    "Alan Fine",
+    "Andrew Crossley",
+    "Anthony Gambino",
+    "Ardian Syaf",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Frank Martin",
+    "Jay Bowen",
+    "Jay Leisten",
+    "Joe Quesada",
+    "Marc Guggenheim",
+    "Mark Paniccia",
+    "R. B. Silva"
+  ],
+  "publish_date": "2017-06-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/25/x-men-gold-v2-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27911/",
+  "fetched_at": "2026-05-02T19:26:36.040Z",
+  "reviewed_at": null
+}

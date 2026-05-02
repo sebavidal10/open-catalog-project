@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960620020701011",
+  "title": "X-Men Legends #10",
+  "authors": [
+    "Alex Sinclair",
+    "C. B. Cebulski",
+    "Creees Lee",
+    "Dan Jurgens",
+    "Drew Baumgartner",
+    "Fabian Nicieza",
+    "Joe Caramagna",
+    "Mark Basso",
+    "Neeraj Menon",
+    "Scott Hanna"
+  ],
+  "publish_date": "2022-01-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/03/xmen-legends-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42318/",
+  "fetched_at": "2026-05-02T19:44:24.877Z",
+  "reviewed_at": null
+}

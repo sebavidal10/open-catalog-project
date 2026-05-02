@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620920002511",
+  "title": "X-Men #25",
+  "authors": [
+    "Agustin Alessio",
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Ceci de la Cruz",
+    "Clayton Cowles",
+    "Fer Sifuentes-Sujo",
+    "Jay Bowen",
+    "Jed MacKay",
+    "Karen S. Darboe",
+    "Lindsey Cohick",
+    "Luciano Vecchio",
+    "Mark Morales",
+    "Tom Brevoort",
+    "Tony Daniel"
+  ],
+  "publish_date": "2026-02-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/02/05/20b032f0f0184a678395557b1af38514.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/162217/",
+  "fetched_at": "2026-05-02T20:07:29.419Z",
+  "reviewed_at": null
+}

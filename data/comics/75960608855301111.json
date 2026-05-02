@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608855301111",
+  "title": "X-Men: Red #11",
+  "authors": [
+    "Alan Fine",
+    "Annalise Bissa",
+    "Anthony Gambino",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dan Buckley",
+    "Jay Bowen",
+    "Jenny Frison",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Rain Beredo",
+    "Rogê Antônio",
+    "Tom Taylor"
+  ],
+  "publish_date": "2018-12-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/26/x-men-red-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27974/",
+  "fetched_at": "2026-05-02T19:35:24.124Z",
+  "reviewed_at": null
+}

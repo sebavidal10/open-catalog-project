@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "0709893043008",
+  "title": "Batman #278",
+  "authors": [
+    "Bob Rozakis",
+    "David Vern Reed",
+    "Ernie Chan",
+    "Julius Schwartz",
+    "Tex Blaisdell"
+  ],
+  "publish_date": "1976-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/15/batman-278.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34370/",
+  "fetched_at": "2026-05-02T20:39:15.440Z",
+  "reviewed_at": "1976-08-01"
+}

@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608650401511",
+  "title": "X-Men: Blue #15",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "Arthur Adams",
+    "Axel Alonso",
+    "Christina Harrington",
+    "Cullen Bunn",
+    "Dan Buckley",
+    "Federico Blee",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jorge Molina",
+    "Mark Paniccia",
+    "Matt Milla"
+  ],
+  "publish_date": "2017-11-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/24/x-men-blue-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29692/",
+  "fetched_at": "2026-05-02T19:28:28.164Z",
+  "reviewed_at": null
+}

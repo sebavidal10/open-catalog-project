@@ -1,0 +1,38 @@
+{
+  "isbn": null,
+  "upc": "75960608651103011",
+  "title": "X-Men: Gold #30",
+  "authors": [
+    "Adi Granov",
+    "Alan Fine",
+    "Anthony Gambino",
+    "Arif Prianto",
+    "C. B. Cebulski",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Darren Shan",
+    "David Marquez",
+    "Jay Anacleto",
+    "Jay Bowen",
+    "Joe Quesada",
+    "Jordan D. White",
+    "J. Scott Campbell",
+    "Marc Guggenheim",
+    "Matthew Wilson",
+    "Phil Noto",
+    "Sabine Rich",
+    "Tyler Kirkham",
+    "Yasmine Putri"
+  ],
+  "publish_date": "2018-06-20",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/26/x-men-gold-v2-30.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27957/",
+  "fetched_at": "2026-05-02T19:32:11.409Z",
+  "reviewed_at": null
+}

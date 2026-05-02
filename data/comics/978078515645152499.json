@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "978078515645152499",
+  "title": "X-Men: Season One #1",
+  "authors": [
+    "Alejandro Arbona",
+    "Clayton Cowles",
+    "Dennis Hopeless",
+    "Jamie McKelvie",
+    "Jordan D. White",
+    "Julian Totino Tedesco",
+    "Matthew Wilson",
+    "Mike Norton"
+  ],
+  "publish_date": "2012-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/10/21/clean_O2hEviT.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/129604/",
+  "fetched_at": "2026-05-02T18:51:09.869Z",
+  "reviewed_at": "2012-03-01"
+}

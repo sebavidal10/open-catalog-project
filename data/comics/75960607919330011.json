@@ -1,0 +1,39 @@
+{
+  "isbn": null,
+  "upc": "75960607919330011",
+  "title": "X-Men Legacy #300",
+  "authors": [
+    "Alan Fine",
+    "Allen Martinez",
+    "Axel Alonso",
+    "Christos N. Gage",
+    "Clay Mann",
+    "Cory Petit",
+    "Craig Yeung",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "David Curiel",
+    "Joe Quesada",
+    "Jordi Tarragona Garcia",
+    "José Villarrubia",
+    "Mike Carey",
+    "Mike Marts",
+    "Rachelle Rosenberg",
+    "Rafa Sandoval",
+    "Simon Spurrier",
+    "Steve Kurth",
+    "Tan Eng Huat",
+    "Ulises Arreola",
+    "Xander Jarowey"
+  ],
+  "publish_date": "2014-03-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/11/x-men-legacy-300.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39415/",
+  "fetched_at": "2026-05-02T19:10:31.025Z",
+  "reviewed_at": null
+}

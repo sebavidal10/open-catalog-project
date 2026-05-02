@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960608650400911",
+  "title": "X-Men: Blue #9",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "Arthur Adams",
+    "Axel Alonso",
+    "Christina Harrington",
+    "Cory Smith",
+    "Cullen Bunn",
+    "Dan Buckley",
+    "Irma Kniivila",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Matt Milla",
+    "Peter Steigerwald",
+    "Thony Silas"
+  ],
+  "publish_date": "2017-08-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/24/x-men-blue-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29686/",
+  "fetched_at": "2026-05-02T19:27:14.511Z",
+  "reviewed_at": null
+}

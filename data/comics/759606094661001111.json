@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "759606094661001111",
+  "title": "X-Men #11",
+  "authors": [
+    "Adam Kubert",
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Jonathan Hickman",
+    "Jordan D. White",
+    "Leinil Francis Yu",
+    "Marte Gracia",
+    "Nick Russell",
+    "Sunny Gho",
+    "Tom Muller"
+  ],
+  "publish_date": "2020-08-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/08/20/xmen-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16492/",
+  "fetched_at": "2026-05-02T19:40:15.123Z",
+  "reviewed_at": null
+}

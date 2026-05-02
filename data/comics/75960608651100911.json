@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608651100911",
+  "title": "X-Men: Gold #9",
+  "authors": [
+    "Alan Fine",
+    "Andrew Crossley",
+    "Anthony Gambino",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "David Curiel",
+    "Frank Martin",
+    "Jay Bowen",
+    "Joe Quesada",
+    "Ken Lashley",
+    "Marc Guggenheim",
+    "Mark Paniccia"
+  ],
+  "publish_date": "2017-08-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/25/x-men-gold-v2-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27914/",
+  "fetched_at": "2026-05-02T19:27:22.395Z",
+  "reviewed_at": null
+}

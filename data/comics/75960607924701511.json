@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960607924701511",
+  "title": "X-Men #15",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Brian Wood",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Frankie Johnson",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Matteo Buffagni",
+    "Matt Milla",
+    "Mike Marts",
+    "Paul Mounts",
+    "Philippe Briones",
+    "Rachel Dodson",
+    "Terry Dodson"
+  ],
+  "publish_date": "2014-06-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/28/x-men-v4-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28074/",
+  "fetched_at": "2026-05-02T19:12:00.711Z",
+  "reviewed_at": null
+}

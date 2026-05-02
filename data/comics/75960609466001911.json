@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960609466001911",
+  "title": "X-Men #19",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Jen Bartel",
+    "Jonathan Hickman",
+    "Jordan D. White",
+    "Leinil Francis Yu",
+    "Mahmud A. Asrar",
+    "Nick Russell",
+    "Sunny Gho",
+    "Tom Muller"
+  ],
+  "publish_date": "2021-03-31",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/25/xmen-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27924/",
+  "fetched_at": "2026-05-02T19:41:43.520Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "596060554305011",
+  "title": "Astonishing X-Men #50",
+  "authors": [
+    "Alan Fine",
+    "Andy Troy",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Dustin Weaver",
+    "Jeanine Schaefer",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Cassaday",
+    "Laura Martin",
+    "Marjorie Liu",
+    "Mike Perkins",
+    "Nick Lowe",
+    "Rachelle Rosenberg"
+  ],
+  "publish_date": "2012-05-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/28/astonishing-x-men-v3-50.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29876/",
+  "fetched_at": "2026-05-02T18:53:14.548Z",
+  "reviewed_at": null
+}

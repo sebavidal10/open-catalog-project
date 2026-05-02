@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960608650400211",
+  "title": "X-Men: Blue #2",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "Arthur Adams",
+    "Axel Alonso",
+    "Christina Harrington",
+    "Cullen Bunn",
+    "Dan Buckley",
+    "Edgar Delgado",
+    "Humberto Ramos",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jorge Molina",
+    "Mark Paniccia",
+    "Matt Milla",
+    "Peter Steigerwald"
+  ],
+  "publish_date": "2017-04-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/24/x-men-blue-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29679/",
+  "fetched_at": "2026-05-02T19:25:47.703Z",
+  "reviewed_at": null
+}

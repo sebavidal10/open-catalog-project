@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": "0709893043001",
+  "title": "Batman #283",
+  "authors": [
+    "David Vern Reed",
+    "Ernie Chan",
+    "Julius Schwartz",
+    "Vince Colletta"
+  ],
+  "publish_date": "1977-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/15/batman-283.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34375/",
+  "fetched_at": "2026-05-02T20:40:11.758Z",
+  "reviewed_at": "1977-01-01"
+}

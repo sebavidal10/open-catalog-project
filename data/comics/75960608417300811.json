@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608417300811",
+  "title": "X-Men '92 #8",
+  "authors": [
+    "Alan Fine",
+    "Alti Firmansyah",
+    "Axel Alonso",
+    "Carlos Lao",
+    "Chad Bowers",
+    "Chris Sims",
+    "Dan Buckley",
+    "David Nakayama",
+    "Heather Antos",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Matt Milla",
+    "Travis Lanham"
+  ],
+  "publish_date": "2016-10-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/18/X-Men_92_2016-_008-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/132024/",
+  "fetched_at": "2026-05-02T19:23:41.945Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607919301911",
+  "title": "X-Men Legacy #19",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Cory Petit",
+    "Craig Yeung",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Joe Quesada",
+    "José Villarrubia",
+    "Michael Del Mundo",
+    "Nick Lowe",
+    "Simon Spurrier",
+    "Tan Eng Huat",
+    "Xander Jarowey"
+  ],
+  "publish_date": "2013-11-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/11/x-men-legacy-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39409/",
+  "fetched_at": "2026-05-02T19:07:55.333Z",
+  "reviewed_at": null
+}

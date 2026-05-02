@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960607924701011",
+  "title": "X-Men #10",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Brian Wood",
+    "Clay Mann",
+    "Dan Buckley",
+    "David López",
+    "Frankie Johnson",
+    "Jason Keith",
+    "Jeanine Schaefer",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Cassaday",
+    "Kris Anka",
+    "Nick Lowe",
+    "Paul Mounts",
+    "Rachel Dodson",
+    "Terry Dodson",
+    "Tom Brennan"
+  ],
+  "publish_date": "2014-02-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v4-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28069/",
+  "fetched_at": "2026-05-02T19:09:42.174Z",
+  "reviewed_at": null
+}

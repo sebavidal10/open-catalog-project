@@ -1,0 +1,27 @@
+{
+  "title": "Prison",
+  "year": "1949",
+  "rated": "N/A",
+  "released": "04 Jul 1962",
+  "runtime": "79 min",
+  "genre": "Drama",
+  "director": "Ingmar Bergman",
+  "writer": "Ingmar Bergman",
+  "actors": "Doris Svedlund, Birger Malmsten, Eva Henning",
+  "plot": "A film director tries to create the best film in history, but finds out that human abilities have their limits.",
+  "language": "Swedish",
+  "country": "Sweden",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWE2MWE4MzMtMWU0YS00N2UxLWIxMTUtOGQyOWRmN2JmNWRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0041399",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:42:03.778Z"
+}

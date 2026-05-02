@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960607919300511",
+  "title": "X-Men Legacy #5",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Cory Petit",
+    "Craig Yeung",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Jennifer M. Smith",
+    "Joe Quesada",
+    "Jorge Molina",
+    "Michael Del Mundo",
+    "Nick Lowe",
+    "Norman Lee",
+    "Rachelle Rosenberg",
+    "Simon Spurrier",
+    "Walden Wong"
+  ],
+  "publish_date": "2013-01-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/11/x-men-legacy-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39395/",
+  "fetched_at": "2026-05-02T19:00:27.156Z",
+  "reviewed_at": null
+}

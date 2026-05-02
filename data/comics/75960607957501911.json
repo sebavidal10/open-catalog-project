@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960607957501911",
+  "title": "Amazing X-Men #19",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Christopher Yost",
+    "Dan Buckley",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jorge Fornés",
+    "Mike Marts",
+    "Rachelle Rosenberg",
+    "Xander Jarowey"
+  ],
+  "publish_date": "2015-04-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/23/amazing-x-men-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29648/",
+  "fetched_at": "2026-05-02T19:17:20.026Z",
+  "reviewed_at": null
+}

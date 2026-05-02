@@ -1,0 +1,35 @@
+{
+  "title": "Take Me Out to the Ball Game",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "01 Apr 1949",
+  "runtime": "93 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Busby Berkeley",
+  "writer": "Harry Tugend, George Wells, Gene Kelly",
+  "actors": "Frank Sinatra, Esther Williams, Gene Kelly",
+  "plot": "Two turn-of-the-century baseball players, who work in vaudeville during the off-season, run into trouble with their team's new female owner and a gambler who doesn't want them to win the pennant.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjJkMmNiYjUtZDg3Mi00M2ZlLTgyOGUtNWZhOTkxOTQ2Y2ZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "6.6",
+  "imdbID": "tt0041944",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:40:14.001Z"
+}

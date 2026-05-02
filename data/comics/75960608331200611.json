@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960608331200611",
+  "title": "Uncanny X-Men #6",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Christina Harrington",
+    "Cullen Bunn",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Greg Land",
+    "Jesus Aburtov",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Juan Vlasco",
+    "Ken Lashley",
+    "Mark Paniccia",
+    "Nolan Woodard",
+    "Paco Medina",
+    "Whilce Portacio"
+  ],
+  "publish_date": "2016-04-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/25/uncanny-x-men-v4-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29775/",
+  "fetched_at": "2026-05-02T19:21:07.077Z",
+  "reviewed_at": null
+}

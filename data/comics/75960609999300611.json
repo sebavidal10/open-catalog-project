@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960609999300611",
+  "title": "X-Men #6",
+  "authors": [
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Gerry Duggan",
+    "Jordan D. White",
+    "Lauren Amaro",
+    "Marte Gracia",
+    "Matthew Wilson",
+    "Pepe Larraz",
+    "Russell Dauterman",
+    "Tom Muller"
+  ],
+  "publish_date": "2022-01-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/20/xmen-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42152/",
+  "fetched_at": "2026-05-02T19:44:16.984Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620212600211",
+  "title": "X-Men: Red #2",
+  "authors": [
+    "Al Ewing",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Federico Blee",
+    "Giuseppe Camuncoli",
+    "Jay Bowen",
+    "Jesus Aburtov",
+    "Jordan D. White",
+    "Lauren Amaro",
+    "Matthew Wilson",
+    "Russell Dauterman",
+    "Stefano Caselli",
+    "Taurin Clarke",
+    "Tom Muller"
+  ],
+  "publish_date": "2022-05-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/02/xmen-red-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/45322/",
+  "fetched_at": "2026-05-02T19:45:54.829Z",
+  "reviewed_at": null
+}

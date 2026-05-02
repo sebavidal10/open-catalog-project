@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960607943800211",
+  "title": "X-Men: Battle of the Atom #2",
+  "authors": [
+    "Andres Mossa",
+    "Andrew Currie",
+    "Brian Michael Bendis",
+    "Brian Wood",
+    "Ed McGuinness",
+    "Esad Ribić",
+    "Giuseppe Camuncoli",
+    "Guru-eFX",
+    "Ive Svorcina",
+    "Jason Aaron",
+    "Joe Caramagna",
+    "Jordan D. White",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Tom Palmer",
+    "Xander Jarowey"
+  ],
+  "publish_date": "2013-10-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/12/07/5dd01fd9bb75402c85fc068ebc30f247.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/158386/",
+  "fetched_at": "2026-05-02T19:07:04.214Z",
+  "reviewed_at": null
+}

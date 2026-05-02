@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960607980300611",
+  "title": "Wolverine & the X-Men #6",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "David Messina",
+    "Israel Silva",
+    "Jason Latour",
+    "Jeanine Schaefer",
+    "Joe Quesada",
+    "Katie Kubert",
+    "Mahmud A. Asrar",
+    "Marc Deering",
+    "Marte Gracia",
+    "Massimiliano Veltri",
+    "Mike Marts",
+    "Pepe Larraz"
+  ],
+  "publish_date": "2014-07-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/19/wolv-xmen-v2-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23470/",
+  "fetched_at": "2026-05-02T19:12:28.979Z",
+  "reviewed_at": null
+}

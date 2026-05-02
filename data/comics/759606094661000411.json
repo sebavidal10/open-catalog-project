@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "759606094661000411",
+  "title": "X-Men #4",
+  "authors": [
+    "Annalise Bissa",
+    "Belén Ortega",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Gerry Alanguilan",
+    "Jesus Aburtov",
+    "Jonathan Hickman",
+    "Jordan D. White",
+    "Leinil Francis Yu",
+    "Nick Russell",
+    "Sunny Gho",
+    "Tom Muller"
+  ],
+  "publish_date": "2020-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/23/x-men-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8250/",
+  "fetched_at": "2026-05-02T19:38:23.502Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "0709893165505",
+  "title": "The Batman Family #17",
+  "authors": [
+    "Adrienne Roy",
+    "Al Milgrom",
+    "Bob Rozakis",
+    "Bob Wiacek",
+    "Clem Robins",
+    "Don Heck",
+    "Gerry Conway",
+    "Jean Izzo",
+    "Jerry Serpe",
+    "Jim Aparo",
+    "Michael Golden",
+    "Michael Kaluta",
+    "Vince Colletta"
+  ],
+  "publish_date": "1978-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/23/the-batman-family-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29674/",
+  "fetched_at": "2026-05-02T20:42:37.374Z",
+  "reviewed_at": "1978-05-01"
+}

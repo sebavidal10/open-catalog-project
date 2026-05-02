@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "759606087311000211",
+  "title": "Astonishing X-Men #2",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "Axel Alonso",
+    "Charles Soule",
+    "Christina Harrington",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Elizabeth Torque",
+    "Frank Martin",
+    "Jay Bowen",
+    "Joe Quesada",
+    "Leinil Francis Yu",
+    "Marcelo Maiolo",
+    "Mark Paniccia",
+    "Marte Gracia",
+    "Mike Deodato",
+    "Ryan Stegman"
+  ],
+  "publish_date": "2017-08-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/29/astonishing-x-men-v4-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29897/",
+  "fetched_at": "2026-05-02T19:27:10.415Z",
+  "reviewed_at": null
+}

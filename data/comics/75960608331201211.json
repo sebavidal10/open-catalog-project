@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608331201211",
+  "title": "Uncanny X-Men #12",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Cullen Bunn",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "David Curiel",
+    "Greg Land",
+    "Jay Leisten",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Nolan Woodard",
+    "Robbi Rodriguez"
+  ],
+  "publish_date": "2016-09-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/25/uncanny-x-men-v4-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29781/",
+  "fetched_at": "2026-05-02T19:23:13.729Z",
+  "reviewed_at": null
+}

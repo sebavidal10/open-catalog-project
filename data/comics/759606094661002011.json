@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "759606094661002011",
+  "title": "X-Men #20",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Francesco Mobili",
+    "Jonathan Hickman",
+    "Jordan D. White",
+    "Leinil Francis Yu",
+    "Michael Del Mundo",
+    "Nick Russell",
+    "Sunny Gho",
+    "Tom Muller"
+  ],
+  "publish_date": "2021-05-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/24/609d8131e74d9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/31076/",
+  "fetched_at": "2026-05-02T19:42:05.649Z",
+  "reviewed_at": null
+}

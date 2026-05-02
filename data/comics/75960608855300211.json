@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960608855300211",
+  "title": "X-Men: Red #2",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Christina Harrington",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dan Mora",
+    "Ive Svorcina",
+    "Jay Bowen",
+    "Joe Quesada",
+    "Mahmud A. Asrar",
+    "Marcio Menyz",
+    "Mark Paniccia",
+    "Ryan Stegman",
+    "Tamra Bonvillain",
+    "Tom Taylor",
+    "Travis Charest"
+  ],
+  "publish_date": "2018-03-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/26/x-men-red-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27965/",
+  "fetched_at": "2026-05-02T19:30:40.236Z",
+  "reviewed_at": null
+}

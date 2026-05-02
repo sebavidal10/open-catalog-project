@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607924701711",
+  "title": "X-Men #17",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Brian Wood",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Mike Marts",
+    "Paco Díaz",
+    "Paul Mounts",
+    "Philippe Briones",
+    "Rachel Dodson",
+    "Terry Dodson"
+  ],
+  "publish_date": "2014-07-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/28/x-men-v4-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28076/",
+  "fetched_at": "2026-05-02T19:12:37.359Z",
+  "reviewed_at": null
+}

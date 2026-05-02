@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960620020700111",
+  "title": "X-Men Legends #1",
+  "authors": [
+    "Adelso Corona",
+    "Brett Booth",
+    "C. B. Cebulski",
+    "Fabian Nicieza",
+    "Guru-eFX",
+    "Iban Coello",
+    "Jay David Ramos",
+    "Joe Caramagna",
+    "John Tyler Christopher",
+    "Jordan D. White",
+    "Lauren Amaro",
+    "Leinil Francis Yu",
+    "Mark Basso",
+    "Patrick Gleason",
+    "Russell Dauterman",
+    "Sunny Gho"
+  ],
+  "publish_date": "2021-02-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/23/x-men-legends-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/32952/",
+  "fetched_at": "2026-05-02T19:41:30.565Z",
+  "reviewed_at": null
+}

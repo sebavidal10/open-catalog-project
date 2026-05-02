@@ -1,0 +1,40 @@
+{
+  "isbn": null,
+  "upc": "759606094661000111",
+  "title": "X-Men #1",
+  "authors": [
+    "Alan Fine",
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Chris Bachalo",
+    "Chris Sotomayor",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Edgar Delgado",
+    "Gerry Alanguilan",
+    "Israel Silva",
+    "Joe Quesada",
+    "John Dell",
+    "Jonathan Hickman",
+    "Jordan D. White",
+    "Leinil Francis Yu",
+    "Marco Checchetto",
+    "Mark Bagley",
+    "Mark Brooks",
+    "Russell Dauterman",
+    "Stanley Lau",
+    "Sunny Gho",
+    "Tom Muller",
+    "Whilce Portacio"
+  ],
+  "publish_date": "2019-10-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/11/x-men-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6426/",
+  "fetched_at": "2026-05-02T19:37:55.435Z",
+  "reviewed_at": null
+}

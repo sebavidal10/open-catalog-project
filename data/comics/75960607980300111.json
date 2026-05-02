@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960607980300111",
+  "title": "Wolverine & the X-Men #1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "David Mack",
+    "Frankie Johnson",
+    "Israel Silva",
+    "Jason Latour",
+    "Jenny Parks",
+    "Joe Quesada",
+    "Mahmud A. Asrar",
+    "Mark Brooks",
+    "Marte Gracia",
+    "Mike Marts",
+    "Nick Lowe",
+    "Tom Brennan"
+  ],
+  "publish_date": "2014-03-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/19/wolv-xmen-v2-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23465/",
+  "fetched_at": "2026-05-02T19:10:18.255Z",
+  "reviewed_at": null
+}

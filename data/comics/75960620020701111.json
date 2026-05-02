@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960620020701111",
+  "title": "X-Men Legends #11",
+  "authors": [
+    "C. B. Cebulski",
+    "Drew Baumgartner",
+    "Edgar Delgado",
+    "John Workman",
+    "Jordan D. White",
+    "Juan Fernandez",
+    "Ken Lashley",
+    "Louise Simonson",
+    "Mark Basso",
+    "Walter Simonson"
+  ],
+  "publish_date": "2022-02-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/16/xmen-legends-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43078/",
+  "fetched_at": "2026-05-02T19:44:42.737Z",
+  "reviewed_at": null
+}

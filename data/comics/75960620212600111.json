@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960620212600111",
+  "title": "X-Men: Red #1",
+  "authors": [
+    "Al Ewing",
+    "Ariana Maher",
+    "C. B. Cebulski",
+    "Christian Ward",
+    "David López",
+    "Federico Blee",
+    "Javier Garrón",
+    "Jay Bowen",
+    "Jesus Aburtov",
+    "Jordan D. White",
+    "Lauren Amaro",
+    "Matthew Wilson",
+    "Peach Momoko",
+    "Russell Dauterman",
+    "Stefano Caselli",
+    "Taurin Clarke",
+    "Tom Muller"
+  ],
+  "publish_date": "2022-04-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/03/21/xmen-red-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/44878/",
+  "fetched_at": "2026-05-02T19:45:34.432Z",
+  "reviewed_at": null
+}

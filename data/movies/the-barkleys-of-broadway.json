@@ -1,0 +1,31 @@
+{
+  "title": "The Barkleys of Broadway",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "01 Sep 1949",
+  "runtime": "109 min",
+  "genre": "Comedy, Musical",
+  "director": "Charles Walters",
+  "writer": "Betty Comden, Adolph Green, Sidney Sheldon",
+  "actors": "Fred Astaire, Ginger Rogers, Oscar Levant",
+  "plot": "A married musical team splits up so the wife can become a serious actress.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTNlY2EzMDQtYTdkYy00MmI4LTk3MmMtY2E5MjY0NTljYzUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "55%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0041158",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:42:00.262Z"
+}

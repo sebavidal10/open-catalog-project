@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608331201711",
+  "title": "Uncanny X-Men #17",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Cullen Bunn",
+    "Dan Brown",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Ken Lashley",
+    "Mark Paniccia",
+    "Mike Choi",
+    "Nolan Woodard"
+  ],
+  "publish_date": "2017-01-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/25/uncanny-x-men-v4-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29786/",
+  "fetched_at": "2026-05-02T19:24:51.988Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607900101611",
+  "title": "All-New X-Men #16",
+  "authors": [
+    "Alan Fine",
+    "Arthur Adams",
+    "Axel Alonso",
+    "Brian Michael Bendis",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Peter Steigerwald",
+    "Stuart Immonen",
+    "Wade von Grawbadger"
+  ],
+  "publish_date": "2013-09-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/24/all-new-x-men-v1-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27860/",
+  "fetched_at": "2026-05-02T19:05:50.730Z",
+  "reviewed_at": null
+}

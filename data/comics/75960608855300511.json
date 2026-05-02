@@ -1,0 +1,39 @@
+{
+  "isbn": null,
+  "upc": "75960608855300511",
+  "title": "X-Men: Red #5",
+  "authors": [
+    "Alan Fine",
+    "Annalise Bissa",
+    "Anthony Gambino",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Chris Robinson",
+    "Christina Harrington",
+    "Cory Petit",
+    "Dan Buckley",
+    "Darren Shan",
+    "Ed Brisson",
+    "Erick Arciniega",
+    "Jay Bowen",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Mahmud A. Asrar",
+    "Mark Paniccia",
+    "Oscar Bazaldua",
+    "Rain Beredo",
+    "Tamra Bonvillain",
+    "Tom Taylor",
+    "Travis Charest"
+  ],
+  "publish_date": "2018-06-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/26/x-men-red-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27968/",
+  "fetched_at": "2026-05-02T19:32:15.365Z",
+  "reviewed_at": null
+}

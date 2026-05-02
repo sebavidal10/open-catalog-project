@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960607924702611",
+  "title": "X-Men #26",
+  "authors": [
+    "Alan Fine",
+    "Alanna Smith",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "G. Willow Wilson",
+    "Joe Quesada",
+    "Lee Loughridge",
+    "Rachel Dodson",
+    "Roland Boschi",
+    "Terry Dodson",
+    "Travis Lanham"
+  ],
+  "publish_date": "2015-04-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/28/x-men-v4-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28085/",
+  "fetched_at": "2026-05-02T19:17:39.826Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960607919301011",
+  "title": "X-Men Legacy #10",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Jennifer M. Smith",
+    "Joe Quesada",
+    "Michael Del Mundo",
+    "Nick Lowe",
+    "Paul Davidson",
+    "Rachelle Rosenberg",
+    "Simon Spurrier"
+  ],
+  "publish_date": "2013-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/11/x-men-legacy-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39400/",
+  "fetched_at": "2026-05-02T19:03:25.628Z",
+  "reviewed_at": null
+}

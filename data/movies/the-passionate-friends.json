@@ -1,0 +1,31 @@
+{
+  "title": "The Passionate Friends",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "26 Jan 1949",
+  "runtime": "95 min",
+  "genre": "Drama, Romance",
+  "director": "David Lean",
+  "writer": "H.G. Wells, Eric Ambler, David Lean",
+  "actors": "Ann Todd, Trevor Howard, Claude Rains",
+  "plot": "A woman meets a man whose love she rejected years ago.",
+  "language": "English, French",
+  "country": "United Kingdom",
+  "awards": "2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODQ3MmMwMzQtMjMyZC00YWI2LThkM2YtMzViMjM1M2YyY2JjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0041735",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:40:25.869Z"
+}

@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960608650402511",
+  "title": "X-Men: Blue #25",
+  "authors": [
+    "Alan Fine",
+    "Andy Troy",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Chris Robinson",
+    "Craig Yeung",
+    "Cullen Bunn",
+    "Dan Buckley",
+    "Darren Shan",
+    "Francesco Francavilla",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jorge Molina",
+    "Mark Paniccia",
+    "Matt Milla",
+    "Mike Perkins"
+  ],
+  "publish_date": "2018-04-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/24/x-men-blue-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29702/",
+  "fetched_at": "2026-05-02T19:30:53.359Z",
+  "reviewed_at": null
+}

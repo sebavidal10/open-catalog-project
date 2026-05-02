@@ -1,0 +1,31 @@
+{
+  "title": "Manon",
+  "year": "1949",
+  "rated": "Not Rated",
+  "released": "09 Mar 1949",
+  "runtime": "100 min",
+  "genre": "Crime, Drama",
+  "director": "Henri-Georges Clouzot",
+  "writer": "Abbé Prévost, Henri-Georges Clouzot, Jean Ferry",
+  "actors": "Serge Reggiani, Michel Auclair, Cécile Aubry",
+  "plot": "A classic tale about bitter relationships between a frivolous girl and a soldier is adapted for the post-World War II time.",
+  "language": "French, English",
+  "country": "France",
+  "awards": "2 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTM2MzE2NzM2OF5BMl5BanBnXkFtZTgwODY3MTUyMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0041634",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:41:20.202Z"
+}

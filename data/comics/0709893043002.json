@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "0709893043002",
+  "title": "Batman #284",
+  "authors": [
+    "David Vern Reed",
+    "Frank Springer",
+    "Jim Aparo",
+    "Julius Schwartz",
+    "Romeo Tanghal"
+  ],
+  "publish_date": "1977-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/15/batman-284.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34376/",
+  "fetched_at": "2026-05-02T20:40:21.091Z",
+  "reviewed_at": "1977-02-01"
+}

@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960607980301111",
+  "title": "Wolverine & the X-Men #11",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Ben Caldwell",
+    "Chris Brunner",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Farel Dalrymple",
+    "Israel Silva",
+    "Jason Latour",
+    "Joe Quesada",
+    "Katie Kubert",
+    "Mahmud A. Asrar",
+    "Marte Gracia",
+    "Mike Marts",
+    "Rico Renzi",
+    "Robbi Rodriguez",
+    "Vanesa R. Del Rey"
+  ],
+  "publish_date": "2014-10-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/19/wolv-xmen-v2-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23475/",
+  "fetched_at": "2026-05-02T19:14:12.488Z",
+  "reviewed_at": null
+}

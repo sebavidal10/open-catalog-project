@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960607957501811",
+  "title": "Amazing X-Men #18",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Christopher Yost",
+    "Dan Buckley",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jorge Fornés",
+    "Mike Marts",
+    "Rachelle Rosenberg",
+    "Xander Jarowey"
+  ],
+  "publish_date": "2015-03-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/23/amazing-x-men-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29647/",
+  "fetched_at": "2026-05-02T19:16:54.254Z",
+  "reviewed_at": null
+}

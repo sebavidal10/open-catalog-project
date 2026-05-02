@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960608651100511",
+  "title": "X-Men: Gold #5",
+  "authors": [
+    "Adriano Di Benedetto",
+    "Alan Fine",
+    "Anthony Gambino",
+    "Anthony Piper",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Frank Martin",
+    "Jay Bowen",
+    "Jay Leisten",
+    "Joe Quesada",
+    "Marc Guggenheim",
+    "Mark Paniccia",
+    "R. B. Silva"
+  ],
+  "publish_date": "2017-06-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/25/x-men-gold-v2-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27910/",
+  "fetched_at": "2026-05-02T19:26:32.114Z",
+  "reviewed_at": null
+}

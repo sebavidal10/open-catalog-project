@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608331201811",
+  "title": "Uncanny X-Men #18",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Cullen Bunn",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Edgar Salazar",
+    "Edgar Tadeo",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Juan Doe",
+    "Ken Lashley",
+    "Mark Paniccia",
+    "Nolan Woodard",
+    "Rain Beredo"
+  ],
+  "publish_date": "2017-02-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/25/uncanny-x-men-v4-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29787/",
+  "fetched_at": "2026-05-02T19:25:14.038Z",
+  "reviewed_at": null
+}

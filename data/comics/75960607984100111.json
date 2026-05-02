@@ -1,0 +1,38 @@
+{
+  "isbn": null,
+  "upc": "75960607984100111",
+  "title": "X-Men: Gold #1",
+  "authors": [
+    "Alan Fine",
+    "Andres Mossa",
+    "Axel Alonso",
+    "Bob McLeod",
+    "Bob Wiacek",
+    "Chris Claremont",
+    "Dan Buckley",
+    "Fabian Nicieza",
+    "Israel Silva",
+    "Joe Quesada",
+    "John Cassaday",
+    "Jordan D. White",
+    "Jose David Ocampo",
+    "Louise Simonson",
+    "Nick Lowe",
+    "Olivier Coipel",
+    "Salvador Larroca",
+    "Stan Lee",
+    "Tom Brennan",
+    "Tom Orzechowski",
+    "Walter Simonson"
+  ],
+  "publish_date": "2013-11-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/12/07/5bf37b3559da4de9a1a6866a14a957b5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/158387/",
+  "fetched_at": "2026-05-02T19:07:51.456Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960620261400111",
+  "title": "The Secret X-Men #1",
+  "authors": [
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Francesco Mobili",
+    "Jesus Aburtov",
+    "Jordan D. White",
+    "Lauren Amaro",
+    "Leinil Francis Yu",
+    "Marcelo Maiolo",
+    "Sunny Gho",
+    "Tini Howard",
+    "Tom Muller",
+    "Tony Daniel"
+  ],
+  "publish_date": "2022-02-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/27/secret-xmen-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43476/",
+  "fetched_at": "2026-05-02T19:44:34.614Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "title": "It Happens Every Spring",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "01 Jun 1949",
+  "runtime": "87 min",
+  "genre": "Comedy, Family, Sci-Fi",
+  "director": "Lloyd Bacon",
+  "writer": "Valentine Davies, Shirley W. Smith",
+  "actors": "Ray Milland, Jean Peters, Paul Douglas",
+  "plot": "A scientist discovers a formula that makes a baseball which is repelled by wood. He promptly sets out to exploit his discovery.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc1NTcxMzUxN15BMl5BanBnXkFtZTgwMTA1NTkxMTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0041514",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:39:51.526Z"
+}

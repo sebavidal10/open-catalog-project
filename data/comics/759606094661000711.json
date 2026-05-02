@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "759606094661000711",
+  "title": "X-Men #7",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Jonathan Hickman",
+    "Jordan D. White",
+    "Leinil Francis Yu",
+    "Michael Del Mundo",
+    "Nick Russell",
+    "Sunny Gho",
+    "Tom Muller"
+  ],
+  "publish_date": "2020-02-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/02/21/xmen-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9805/",
+  "fetched_at": "2026-05-02T19:38:43.877Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "title": "The Adventures of Jane",
+  "year": "1949",
+  "rated": "Not Rated",
+  "released": "N/A",
+  "runtime": "60 min",
+  "genre": "Comedy",
+  "director": "Edward G. Whiting, Alfred J. Goulding",
+  "writer": "Alfred J. Goulding, Con West, Edward G. Whiting",
+  "actors": "Christabel Leighton-Porter, Stanelli, Michael Hogarth",
+  "plot": "Jane is given a bracelet by an elderly admirer. He is in league with Cleaver, a suave crook, and the two plan to use Jane and the bracelet to smuggle diamonds into England.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMyMDczNTUxMV5BMl5BanBnXkFtZTgwODI4MzgwMzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "3.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "3.7",
+  "imdbID": "tt0165077",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:43:49.957Z"
+}

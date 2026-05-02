@@ -1,0 +1,31 @@
+{
+  "title": "Side Street",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "22 Apr 1950",
+  "runtime": "83 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Anthony Mann",
+  "writer": "Sydney Boehm",
+  "actors": "Farley Granger, Cathy O'Donnell, James Craig",
+  "plot": "A young man with a pregnant wife steals blackmail money for murder.",
+  "language": "English, Turkish",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTRmYWFkNGMtYjYwYy00ZDZhLWEyNzgtY2Q1MmEzOGIyNTAyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0042960",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:40:45.952Z"
+}

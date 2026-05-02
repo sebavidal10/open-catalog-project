@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "0709893165503",
+  "title": "The Batman Family #16",
+  "authors": [
+    "Bob Rozakis",
+    "Clem Robins",
+    "Don Heck",
+    "Jerry Serpe",
+    "Jim Aparo",
+    "John Celardo",
+    "Julius Schwartz",
+    "Michael Golden",
+    "Milt Snapinn"
+  ],
+  "publish_date": "1978-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/23/the-batman-family-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29673/",
+  "fetched_at": "2026-05-02T20:42:17.099Z",
+  "reviewed_at": "1978-03-01"
+}

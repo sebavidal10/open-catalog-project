@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "759606094661000611",
+  "title": "X-Men #6",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Dave McCaig",
+    "Jonathan Hickman",
+    "Jordan D. White",
+    "Leinil Francis Yu",
+    "Mark Brooks",
+    "Matteo Buffagni",
+    "Nick Russell",
+    "Philip Tan",
+    "Sunny Gho",
+    "Tom Muller"
+  ],
+  "publish_date": "2020-02-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/02/07/xmen-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9403/",
+  "fetched_at": "2026-05-02T19:38:39.880Z",
+  "reviewed_at": null
+}

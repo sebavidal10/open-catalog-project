@@ -1,0 +1,31 @@
+{
+  "title": "Home of the Brave",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "14 Sep 1949",
+  "runtime": "88 min",
+  "genre": "Drama, War",
+  "director": "Mark Robson",
+  "writer": "Arthur Laurents, Carl Foreman",
+  "actors": "Douglas Dick, Steve Brodie, Jeff Corey",
+  "plot": "During WW2, a reconnaissance platoon is sent to map out a Japanese-held island but racial tensions arise between the white soldiers and the only black member of the group.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzIyZDY4MzctNzA3MC00MTgwLThkOWMtZWNhMzMxNDI3MjEyXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0041481",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:42:23.816Z"
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960620212600711",
+  "title": "X-Men: Red #7",
+  "authors": [
+    "Al Ewing",
+    "Ariana Maher",
+    "C. B. Cebulski",
+    "Federico Blee",
+    "Fer Sifuentes-Sujo",
+    "Jordan D. White",
+    "Lauren Amaro",
+    "Matthew Wilson",
+    "Russell Dauterman",
+    "Stefano Caselli",
+    "Taurin Clarke",
+    "Tom Muller"
+  ],
+  "publish_date": "2022-10-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/10/06/xmen-red-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/52772/",
+  "fetched_at": "2026-05-02T19:47:57.915Z",
+  "reviewed_at": null
+}

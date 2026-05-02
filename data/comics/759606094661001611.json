@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "759606094661001611",
+  "title": "X-Men #16",
+  "authors": [
+    "Adam Kubert",
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Jay Bowen",
+    "Jonathan Hickman",
+    "Jordan D. White",
+    "Leinil Francis Yu",
+    "Marte Gracia",
+    "Nick Russell",
+    "Phil Noto",
+    "Sunny Gho",
+    "Tom Muller"
+  ],
+  "publish_date": "2020-12-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/28/xmen-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/21919/",
+  "fetched_at": "2026-05-02T19:41:09.386Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,38 @@
+{
+  "isbn": null,
+  "upc": "75960609999300111",
+  "title": "X-Men #1",
+  "authors": [
+    "Alejandro Sánchez",
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Chris Sotomayor",
+    "Clayton Cowles",
+    "Gerry Duggan",
+    "Jordan D. White",
+    "Joshua Cassara",
+    "Larry Houston",
+    "Marte Gracia",
+    "Matthew Wilson",
+    "Morry Hollowell",
+    "Nick Bradshaw",
+    "Nick Russell",
+    "Patrick Gleason",
+    "Peach Momoko",
+    "Pepe Larraz",
+    "Rian Gonzales",
+    "Rob Liefeld",
+    "Russell Dauterman",
+    "Tom Muller"
+  ],
+  "publish_date": "2021-07-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/03/xmen-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33678/",
+  "fetched_at": "2026-05-02T19:42:34.733Z",
+  "reviewed_at": null
+}

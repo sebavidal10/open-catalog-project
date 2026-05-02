@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960609999300311",
+  "title": "X-Men #3",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Gerry Duggan",
+    "Jordan D. White",
+    "Lauren Amaro",
+    "Marte Gracia",
+    "Matthew Wilson",
+    "Pepe Larraz",
+    "Rachel Dodson",
+    "Russell Dauterman",
+    "Terry Dodson",
+    "Tom Muller"
+  ],
+  "publish_date": "2021-09-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/16/xmen-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/38279/",
+  "fetched_at": "2026-05-02T19:43:05.641Z",
+  "reviewed_at": null
+}

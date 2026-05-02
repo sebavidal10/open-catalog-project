@@ -1,0 +1,27 @@
+{
+  "title": "The Red Pony",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "28 Mar 1949",
+  "runtime": "89 min",
+  "genre": "Drama, Family, Western",
+  "director": "Lewis Milestone",
+  "writer": "John Steinbeck",
+  "actors": "Myrna Loy, Robert Mitchum, Louis Calhern",
+  "plot": "A ranch boy is gifted with a colt, grows to love him but the colt escapes, with tragic results.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTA5YjgwMWYtNDIzZi00YWI1LWI1MGMtMmFlNzFkYTljZTQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0041792",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:41:35.562Z"
+}

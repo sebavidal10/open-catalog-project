@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960608651100411",
+  "title": "X-Men: Gold #4",
+  "authors": [
+    "Adriano Di Benedetto",
+    "Alan Fine",
+    "Anthony Gambino",
+    "Ardian Syaf",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "David Marquez",
+    "Frank Martin",
+    "Jay Bowen",
+    "Jay Leisten",
+    "Joe Quesada",
+    "Marc Guggenheim",
+    "Mark Paniccia",
+    "Marte Gracia",
+    "R. B. Silva"
+  ],
+  "publish_date": "2017-05-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/25/x-men-gold-v2-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27909/",
+  "fetched_at": "2026-05-02T19:26:15.985Z",
+  "reviewed_at": null
+}

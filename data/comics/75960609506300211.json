@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960609506300211",
+  "title": "X-Men / Fantastic Four #2",
+  "authors": [
+    "Alanna Smith",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Chip Zdarsky",
+    "Chris Eliopoulos",
+    "Joe Caramagna",
+    "Karl Story",
+    "Laura Martin",
+    "Mark Brooks",
+    "Meghan Hetrick",
+    "Rachel Dodson",
+    "Ransom Getty",
+    "Shannon Andrews Ballesteros",
+    "Terry Dodson",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2020-02-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/02/21/xmen-ff-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9814/",
+  "fetched_at": "2026-05-02T19:38:52.170Z",
+  "reviewed_at": null
+}

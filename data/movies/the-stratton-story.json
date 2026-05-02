@@ -1,0 +1,31 @@
+{
+  "title": "The Stratton Story",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "01 Jun 1949",
+  "runtime": "106 min",
+  "genre": "Biography, Drama, Romance",
+  "director": "Sam Wood",
+  "writer": "Douglas Morrow, Guy Trosper, George Wells",
+  "actors": "James Stewart, June Allyson, Frank Morgan",
+  "plot": "Star major league pitcher Monty Stratton loses a leg in a hunting accident, but becomes determined to leave the game on his own terms.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 5 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MTQwOTc3Nl5BMl5BanBnXkFtZTgwNTg1NDgyMTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0041928",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:40:24.690Z"
+}

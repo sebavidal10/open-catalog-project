@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "0709893117707",
+  "title": "The Untold Legend of the Batman #1",
+  "authors": [
+    "Glynis Oliver",
+    "Jim Aparo",
+    "John Byrne",
+    "John Costanza",
+    "José Luis García-López",
+    "Len Wein",
+    "Paul Levitz"
+  ],
+  "publish_date": "1980-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/04/19/untold-batman-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/11550/",
+  "fetched_at": "2026-05-02T20:45:40.508Z",
+  "reviewed_at": "1980-07-01"
+}

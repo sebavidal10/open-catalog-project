@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960609506300411",
+  "title": "X-Men / Fantastic Four #4",
+  "authors": [
+    "Alanna Smith",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Chip Zdarsky",
+    "Chris Eliopoulos",
+    "Joe Caramagna",
+    "Laura Martin",
+    "Mark Brooks",
+    "Martin Biro",
+    "Meghan Hetrick",
+    "Rachel Dodson",
+    "Ransom Getty",
+    "Terry Dodson",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2020-07-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/17/x-ff-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15226/",
+  "fetched_at": "2026-05-02T19:39:45.817Z",
+  "reviewed_at": null
+}

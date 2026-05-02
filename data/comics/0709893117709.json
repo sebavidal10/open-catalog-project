@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "0709893117709",
+  "title": "The Untold Legend of the Batman #3",
+  "authors": [
+    "Dick Giordano",
+    "Glynis Oliver",
+    "Jim Aparo",
+    "José Luis García-López",
+    "Len Wein",
+    "Paul Levitz"
+  ],
+  "publish_date": "1980-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/04/19/untold-batman-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/11552/",
+  "fetched_at": "2026-05-02T20:46:00.001Z",
+  "reviewed_at": "1980-09-01"
+}

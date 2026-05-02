@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960620004700111",
+  "title": "Immortal X-Men #1",
+  "authors": [
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "David Curiel",
+    "Emanuela Lupacchino",
+    "Jay Bowen",
+    "Jeff Johnson",
+    "Jordan D. White",
+    "Kieron Gillen",
+    "Lauren Amaro",
+    "Leinil Francis Yu",
+    "Lucas Werneck",
+    "Mark Brooks",
+    "Oscar Vega",
+    "Peach Momoko",
+    "Phil Noto",
+    "Rachelle Rosenberg",
+    "Sunny Gho",
+    "Todd Nauck",
+    "Tom Muller"
+  ],
+  "publish_date": "2022-03-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/03/18/immortal-xmen-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/44467/",
+  "fetched_at": "2026-05-02T19:45:05.230Z",
+  "reviewed_at": null
+}

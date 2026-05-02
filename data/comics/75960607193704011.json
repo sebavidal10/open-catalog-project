@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607193704011",
+  "title": "X-Men #40",
+  "authors": [
+    "Alan Fine",
+    "Andres Mossa",
+    "Axel Alonso",
+    "Dan Buckley",
+    "David López",
+    "Guillermo Mogorrón",
+    "Jeanine Schaefer",
+    "Jefte Palo",
+    "Jennifer M. Smith",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Nick Lowe",
+    "Seth Peck"
+  ],
+  "publish_date": "2013-01-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v3-40.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28058/",
+  "fetched_at": "2026-05-02T19:00:16.670Z",
+  "reviewed_at": null
+}

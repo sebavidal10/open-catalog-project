@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960607924700811",
+  "title": "X-Men #8",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Barry Kitson",
+    "Brian Wood",
+    "Dan Buckley",
+    "Jason Keith",
+    "Jeanine Schaefer",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Karl Kesel",
+    "Nick Lowe",
+    "Rachel Dodson",
+    "Scott Hanna",
+    "Terry Dodson",
+    "Terry Pallot",
+    "Tom Brennan"
+  ],
+  "publish_date": "2013-12-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v4-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28067/",
+  "fetched_at": "2026-05-02T19:08:15.572Z",
+  "reviewed_at": null
+}

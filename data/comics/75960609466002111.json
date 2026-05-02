@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960609466002111",
+  "title": "X-Men #21",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Frank Martin",
+    "Jay Bowen",
+    "Jonathan Hickman",
+    "Jordan D. White",
+    "Leinil Francis Yu",
+    "Lucas Werneck",
+    "Matthew Wilson",
+    "Nick Dragotta",
+    "Nolan Woodard",
+    "Russell Dauterman",
+    "Sara Pichelli",
+    "Sunny Gho",
+    "Tom Muller"
+  ],
+  "publish_date": "2021-06-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/04/xmen-21.png",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/31665/",
+  "fetched_at": "2026-05-02T19:42:21.934Z",
+  "reviewed_at": null
+}

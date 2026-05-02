@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960609506300311",
+  "title": "X-Men / Fantastic Four #3",
+  "authors": [
+    "Alanna Smith",
+    "Andrew Crossley",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Chip Zdarsky",
+    "Chris Eliopoulos",
+    "Joe Caramagna",
+    "Laura Martin",
+    "Mark Brooks",
+    "Martin Biro",
+    "Meghan Hetrick",
+    "Peter Pantazis",
+    "Rachel Dodson",
+    "Ransom Getty",
+    "Shannon Andrews Ballesteros",
+    "Terry Dodson",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2020-03-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/03/19/xmen-ff-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/10622/",
+  "fetched_at": "2026-05-02T19:39:13.690Z",
+  "reviewed_at": null
+}

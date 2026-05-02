@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607193703211",
+  "title": "X-Men #32",
+  "authors": [
+    "Alan Fine",
+    "Álvaro López",
+    "Axel Alonso",
+    "Brian Wood",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "David López",
+    "Jeanine Schaefer",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Jorge Molina",
+    "Nick Lowe",
+    "Rachelle Rosenberg"
+  ],
+  "publish_date": "2012-07-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v3-32.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28050/",
+  "fetched_at": "2026-05-02T18:55:19.224Z",
+  "reviewed_at": null
+}

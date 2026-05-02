@@ -1,0 +1,27 @@
+{
+  "title": "Tulsa",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "26 May 1949",
+  "runtime": "90 min",
+  "genre": "Drama, Western",
+  "director": "Stuart Heisler",
+  "writer": "Frank S. Nugent, Curtis Kenyon, Richard Wormser",
+  "actors": "Susan Hayward, Robert Preston, Pedro Armendáriz",
+  "plot": "In Tulsa, after a rancher dies during a feud with a major oil company, his daughter, driven by revenge, starts digging for oil herself.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTY5MGJkYzctMDUyNC00YTEzLWI1NTEtYjZmNGUwODliMjEwXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0041994",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:40:49.490Z"
+}

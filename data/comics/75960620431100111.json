@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960620431100111",
+  "title": "X-Men Unlimited: X-Men Green #1",
+  "authors": [
+    "C. B. Cebulski",
+    "Emilio Laiso",
+    "Gerry Duggan",
+    "Jay Bowen",
+    "Joe Sabino",
+    "Jordan D. White",
+    "Lauren Amaro",
+    "Nick Russell",
+    "Rachelle Rosenberg",
+    "Tom Muller"
+  ],
+  "publish_date": "2022-08-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/08/08/xmen-green-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/51011/",
+  "fetched_at": "2026-05-02T19:47:09.479Z",
+  "reviewed_at": null
+}

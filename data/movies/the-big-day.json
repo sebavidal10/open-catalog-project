@@ -1,0 +1,31 @@
+{
+  "title": "The Big Day",
+  "year": "1949",
+  "rated": "Not Rated",
+  "released": "11 May 1949",
+  "runtime": "70 min",
+  "genre": "Comedy",
+  "director": "Jacques Tati",
+  "writer": "Jacques Tati, Henri Marquet, René Wheeler",
+  "actors": "Jacques Tati, Guy Decomble, Paul Frankeur",
+  "plot": "A village postman with no sense of humour delivers his mail via bicycle on the day the travelling fair comes to town. He is disrupted by a short film about US speed and efficiency and the playful teasing of the village folk.",
+  "language": "French",
+  "country": "France",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWM5YjliMmItMTFjMi00MzRiLWEzMmUtNzA3N2IxNzU5NDljXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0040497",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:40:03.362Z"
+}

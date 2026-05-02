@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "759606094661001011",
+  "title": "X-Men #10",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Jonathan Hickman",
+    "Jordan D. White",
+    "Leinil Francis Yu",
+    "Nick Russell",
+    "Phil Noto",
+    "Sunny Gho",
+    "Tom Muller"
+  ],
+  "publish_date": "2020-07-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/23/xmen-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15395/",
+  "fetched_at": "2026-05-02T19:39:41.939Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607957500511",
+  "title": "Amazing X-Men #5",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dexter Vines",
+    "Ed McGuinness",
+    "Jason Aaron",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Marte Gracia",
+    "Mike Marts",
+    "Nick Lowe",
+    "Xander Jarowey"
+  ],
+  "publish_date": "2014-03-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/23/amazing-x-men-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29634/",
+  "fetched_at": "2026-05-02T19:10:04.368Z",
+  "reviewed_at": null
+}

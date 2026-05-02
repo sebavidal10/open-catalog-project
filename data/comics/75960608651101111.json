@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960608651101111",
+  "title": "X-Men: Gold #11",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Clayton Crain",
+    "Cory Petit",
+    "Craig Yeung",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Dan Mora",
+    "David Curiel",
+    "Frank Martin",
+    "Jay Bowen",
+    "Joe Quesada",
+    "Lan Medina",
+    "Marc Guggenheim",
+    "Mark Paniccia",
+    "Michael Del Mundo"
+  ],
+  "publish_date": "2017-09-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/25/x-men-gold-v2-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27916/",
+  "fetched_at": "2026-05-02T19:27:46.356Z",
+  "reviewed_at": null
+}

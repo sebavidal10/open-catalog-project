@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960609999300211",
+  "title": "X-Men #2",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Gerry Duggan",
+    "Jordan D. White",
+    "Marte Gracia",
+    "Nick Russell",
+    "Pepe Larraz",
+    "Tom Muller"
+  ],
+  "publish_date": "2021-08-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/25/xmen-2.png",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/35352/",
+  "fetched_at": "2026-05-02T19:42:47.232Z",
+  "reviewed_at": null
+}

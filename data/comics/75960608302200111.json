@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960608302200111",
+  "title": "Extraordinary X-Men #1",
+  "authors": [
+    "Alan Fine",
+    "Andy Troy",
+    "Axel Alonso",
+    "Christina Harrington",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Edgar Delgado",
+    "Humberto Ramos",
+    "Jeff Lemire",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "J. Scott Campbell",
+    "Mark Paniccia",
+    "Nei Ruffino",
+    "Pascal Campion",
+    "Sanford Greene",
+    "Todd Nauck",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2015-11-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/26/extraordinary-x-men-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27987/",
+  "fetched_at": "2026-05-02T19:18:57.087Z",
+  "reviewed_at": null
+}

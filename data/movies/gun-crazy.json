@@ -1,0 +1,35 @@
+{
+  "title": "Gun Crazy",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "20 Jan 1950",
+  "runtime": "87 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Joseph H. Lewis",
+  "writer": "MacKinlay Kantor, Millard Kaufman, Dalton Trumbo",
+  "actors": "John Dall, Peggy Cummins, Berry Kroeger",
+  "plot": "Two disturbed young people release their fascination with guns through a crime spree.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg2MDM0NDktZWY3Ni00MDk2LTgyNzQtMWFjYjE4MGQ3MzJjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.6",
+  "imdbID": "tt0042530",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:51:04.507Z"
+}

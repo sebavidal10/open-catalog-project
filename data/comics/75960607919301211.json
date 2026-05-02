@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607919301211",
+  "title": "X-Men Legacy #12",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Cory Petit",
+    "Cris Peter",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Jay Leisten",
+    "Jennifer M. Smith",
+    "Joe Quesada",
+    "Michael Del Mundo",
+    "Nick Lowe",
+    "Paul Davidson",
+    "Simon Spurrier"
+  ],
+  "publish_date": "2013-06-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/11/x-men-legacy-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39402/",
+  "fetched_at": "2026-05-02T19:04:16.103Z",
+  "reviewed_at": null
+}

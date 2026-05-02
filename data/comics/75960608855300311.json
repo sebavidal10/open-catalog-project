@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960608855300311",
+  "title": "X-Men: Red #3",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Christina Harrington",
+    "Cory Petit",
+    "Dan Buckley",
+    "InHyuk Lee",
+    "Ive Svorcina",
+    "Jay Bowen",
+    "Joe Quesada",
+    "Mahmud A. Asrar",
+    "Mark Paniccia",
+    "Romulo Fajardo Jr.",
+    "Tamra Bonvillain",
+    "Tom Taylor",
+    "Travis Charest"
+  ],
+  "publish_date": "2018-04-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/26/x-men-red-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27966/",
+  "fetched_at": "2026-05-02T19:31:09.750Z",
+  "reviewed_at": null
+}

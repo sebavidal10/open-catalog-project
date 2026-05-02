@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960609999301611",
+  "title": "X-Men #16",
+  "authors": [
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Gerry Duggan",
+    "Guru-eFX",
+    "Jay Bowen",
+    "Jesus Aburtov",
+    "Jordan D. White",
+    "Joshua Cassara",
+    "Lauren Amaro",
+    "Martín Cóccolo",
+    "Matthew Wilson",
+    "Russell Dauterman",
+    "Tom Muller"
+  ],
+  "publish_date": "2022-10-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/10/13/xmen-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/52447/",
+  "fetched_at": "2026-05-02T19:47:53.919Z",
+  "reviewed_at": null
+}

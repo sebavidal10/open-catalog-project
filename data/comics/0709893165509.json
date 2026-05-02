@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "0709893165509",
+  "title": "The Batman Family #13",
+  "authors": [
+    "Bob Rozakis",
+    "Bob Wiacek",
+    "Don Newton",
+    "Jim Aparo",
+    "Julius Schwartz",
+    "Marshall Rogers",
+    "Shelly Eiber"
+  ],
+  "publish_date": "1977-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/23/the-batman-family-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29670/",
+  "fetched_at": "2026-05-02T20:41:24.132Z",
+  "reviewed_at": "1977-09-01"
+}

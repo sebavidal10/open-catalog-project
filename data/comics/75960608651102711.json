@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960608651102711",
+  "title": "X-Men: Gold #27",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "Arif Prianto",
+    "C. B. Cebulski",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Darren Shan",
+    "David Marquez",
+    "Ed Brisson",
+    "Geraldo Borges",
+    "Jay Bowen",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Marc Guggenheim",
+    "Matthew Wilson",
+    "Oscar Bazaldua",
+    "Phil Noto"
+  ],
+  "publish_date": "2018-05-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/26/x-men-gold-v2-27.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27954/",
+  "fetched_at": "2026-05-02T19:31:30.310Z",
+  "reviewed_at": null
+}

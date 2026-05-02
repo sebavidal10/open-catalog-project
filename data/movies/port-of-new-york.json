@@ -1,0 +1,27 @@
+{
+  "title": "Port of New York",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "28 Nov 1949",
+  "runtime": "82 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Laslo Benedek",
+  "writer": "Eugene Ling, Leo Townsend, Arthur A. Ross",
+  "actors": "Scott Brady, Richard Rober, K.T. Stevens",
+  "plot": "Two narcotics agents go after a gang of murderous drug dealers who use ships docking at New York Harbor to smuggle in their contraband.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmJjNGExMTEtZWIzZi00YzNhLTkzNmYtZjAxZjRmNjZkZmZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0041761",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:41:48.472Z"
+}

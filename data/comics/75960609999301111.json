@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960609999301111",
+  "title": "X-Men #11",
+  "authors": [
+    "Carmen Nunez Carnero",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Gerry Duggan",
+    "Javier Garrón",
+    "Jay Bowen",
+    "Jordan D. White",
+    "Lauren Amaro",
+    "Lucas Werneck",
+    "Marte Gracia",
+    "Pepe Larraz",
+    "Romulo Fajardo Jr.",
+    "Tom Muller"
+  ],
+  "publish_date": "2022-05-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/28/xmen-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47350/",
+  "fetched_at": "2026-05-02T19:45:50.871Z",
+  "reviewed_at": null
+}

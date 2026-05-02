@@ -1,0 +1,27 @@
+{
+  "title": "The Crooked Way",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "22 Apr 1949",
+  "runtime": "90 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Robert Florey",
+  "writer": "Robert Monroe, Richard H. Landau",
+  "actors": "John Payne, Sonny Tufts, Ellen Drew",
+  "plot": "War hero recovers from amnesia and is confronted by his criminal past.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODM0MWEzYjctMTZmYy00OGI4LThhN2UtNGE0YmIyMGI4NDcwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0041269",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:41:32.026Z"
+}

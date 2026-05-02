@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960607924702411",
+  "title": "X-Men #24",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "G. Willow Wilson",
+    "Javier Fernandez",
+    "Jay Leisten",
+    "Joe Quesada",
+    "Lee Loughridge",
+    "Mark Pennington",
+    "Mike Marts",
+    "Rachel Dodson",
+    "Roland Boschi",
+    "Terry Dodson",
+    "Travis Lanham"
+  ],
+  "publish_date": "2015-02-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/28/x-men-v4-24.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28083/",
+  "fetched_at": "2026-05-02T19:16:38.361Z",
+  "reviewed_at": null
+}

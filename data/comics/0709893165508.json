@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "0709893165508",
+  "title": "The Batman Family #6",
+  "authors": [
+    "Bob Rozakis",
+    "Charles Paris",
+    "Dave Wood",
+    "Elliot S. Maggin",
+    "Ernie Chan",
+    "Frank McLaughlin",
+    "Henry Boltinoff",
+    "Irv Novick",
+    "Jerry Robinson",
+    "Joe Samachson",
+    "José Delbo",
+    "Julius Schwartz",
+    "Sheldon Moldoff",
+    "Vince Colletta"
+  ],
+  "publish_date": "1976-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/23/the-batman-family-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29663/",
+  "fetched_at": "2026-05-02T20:39:19.434Z",
+  "reviewed_at": "1976-08-01"
+}

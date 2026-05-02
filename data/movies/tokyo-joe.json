@@ -1,0 +1,27 @@
+{
+  "title": "Tokyo Joe",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "01 Nov 1949",
+  "runtime": "88 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Stuart Heisler",
+  "writer": "Steve Fisher, Walter Doniger, Cyril Hume",
+  "actors": "Humphrey Bogart, Alexander Knox, Florence Marly",
+  "plot": "An American returns to Tokyo try to pick up threads of his pre-WW2 life there, but finds himself squeezed between criminals and the authorities.",
+  "language": "English, Japanese",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2M4Nzc4YjItNzY2OC00NDNkLWE0YzMtNzExNWM5MTY4ODViXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0041967",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:40:18.799Z"
+}

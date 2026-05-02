@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960607193704111",
+  "title": "X-Men #41",
+  "authors": [
+    "Adam Kubert",
+    "Alan Fine",
+    "Andres Mossa",
+    "Axel Alonso",
+    "Dale Keown",
+    "Dan Buckley",
+    "Danny Miki",
+    "Guillermo Mogorrón",
+    "Jeanine Schaefer",
+    "Jefte Palo",
+    "Jennifer M. Smith",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Lorenzo Ruggiero",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Seth Peck"
+  ],
+  "publish_date": "2013-02-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v3-41.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28059/",
+  "fetched_at": "2026-05-02T19:01:10.281Z",
+  "reviewed_at": null
+}

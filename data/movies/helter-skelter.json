@@ -1,0 +1,31 @@
+{
+  "title": "Helter Skelter",
+  "year": "1949",
+  "rated": "Not Rated",
+  "released": "07 Aug 1949",
+  "runtime": "84 min",
+  "genre": "Comedy, Fantasy, Romance",
+  "director": "Ralph Thomas",
+  "writer": "Gerard Bryant, Patrick Campbell, Jan Read",
+  "actors": "Carol Marsh, David Tomlinson, Mervyn Johns",
+  "plot": "A radio 'detective' gets involved with a wealthy socialite who can't seem to stop hiccuping due to the machinations of a ghostly cupid who works his magic to cause mayhem and laughter throughout the film.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA0NDNjMWYtNGM1Mi00ZTk4LWFkZjUtZGU1NWFkOTkwOTFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.3",
+  "imdbID": "tt0041455",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:44:51.347Z"
+}

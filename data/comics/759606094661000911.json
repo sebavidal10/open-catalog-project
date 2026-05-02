@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "759606094661000911",
+  "title": "X-Men #9",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Jonathan Hickman",
+    "Jordan D. White",
+    "Leinil Francis Yu",
+    "Nick Russell",
+    "Sunny Gho",
+    "Tom Muller"
+  ],
+  "publish_date": "2020-03-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/03/19/xmen-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/10620/",
+  "fetched_at": "2026-05-02T19:39:09.685Z",
+  "reviewed_at": null
+}

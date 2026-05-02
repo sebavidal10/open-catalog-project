@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "759606094661000211",
+  "title": "X-Men #2",
+  "authors": [
+    "Alan Fine",
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Gerry Alanguilan",
+    "Israel Silva",
+    "Joe Quesada",
+    "Jonathan Hickman",
+    "Jordan D. White",
+    "Leinil Francis Yu",
+    "Marcos Martín",
+    "Ron Lim",
+    "Sunny Gho",
+    "Tom Muller"
+  ],
+  "publish_date": "2019-11-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/09/x-men-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7306/",
+  "fetched_at": "2026-05-02T19:38:05.580Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608417301011",
+  "title": "X-Men '92 #10",
+  "authors": [
+    "Alan Fine",
+    "Alti Firmansyah",
+    "Axel Alonso",
+    "Carlos Lao",
+    "Chad Bowers",
+    "Chris Sims",
+    "Cory Hamscher",
+    "Dan Buckley",
+    "David Nakayama",
+    "Dono Sánchez-Almara",
+    "Heather Antos",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Matt Milla",
+    "Travis Lanham"
+  ],
+  "publish_date": "2016-12-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/18/X-Men_92_2016-_010-000.png",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/132026/",
+  "fetched_at": "2026-05-02T19:24:35.706Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960608855300711",
+  "title": "X-Men: Red #7",
+  "authors": [
+    "Alan Fine",
+    "Annalise Bissa",
+    "Anthony Gambino",
+    "Carlos Lao",
+    "Carmen Nunez Carnero",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dave McCaig",
+    "David Marquez",
+    "Jay Bowen",
+    "Jenny Frison",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Rain Beredo",
+    "Tamra Bonvillain",
+    "Tom Taylor",
+    "Travis Charest"
+  ],
+  "publish_date": "2018-08-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/26/x-men-red-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27970/",
+  "fetched_at": "2026-05-02T19:33:27.072Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960607957501511",
+  "title": "Amazing X-Men #15",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Christopher Yost",
+    "Dan Buckley",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jorge Fornés",
+    "Kris Anka",
+    "Mike Marts",
+    "Rachelle Rosenberg",
+    "Salvador Larroca",
+    "Xander Jarowey"
+  ],
+  "publish_date": "2015-01-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/23/amazing-x-men-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29644/",
+  "fetched_at": "2026-05-02T19:15:48.236Z",
+  "reviewed_at": null
+}

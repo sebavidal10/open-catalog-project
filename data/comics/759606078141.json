@@ -1,0 +1,40 @@
+{
+  "isbn": null,
+  "upc": "759606078141",
+  "title": "X-Treme X-Men #13",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Cam Smith",
+    "Carlos Cuevas",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "David Lapham",
+    "Don Ho",
+    "Edgar Tadeo",
+    "Giuseppe Camuncoli",
+    "Greg Pak",
+    "Guillermo Mogorrón",
+    "Jeanine Schaefer",
+    "Jennifer M. Smith",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Kalman Andrasofszky",
+    "Lee Loughridge",
+    "Marjorie Liu",
+    "Nick Lowe",
+    "Rain Beredo",
+    "Raul Valdes",
+    "Walden Wong"
+  ],
+  "publish_date": "2013-04-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/15/x-treme-x-men-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39523/",
+  "fetched_at": "2026-05-02T19:02:48.701Z",
+  "reviewed_at": null
+}

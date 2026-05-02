@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607924702211",
+  "title": "X-Men #22",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Dexter Soy",
+    "Harvey Tolibao",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marc Guggenheim",
+    "Mike Marts",
+    "Norman Lee",
+    "Paul Mounts",
+    "Rachel Dodson",
+    "Terry Dodson"
+  ],
+  "publish_date": "2014-12-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/28/x-men-v4-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28081/",
+  "fetched_at": "2026-05-02T19:15:35.849Z",
+  "reviewed_at": null
+}

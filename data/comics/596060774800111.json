@@ -1,0 +1,40 @@
+{
+  "isbn": null,
+  "upc": "596060774800111",
+  "title": "Avengers vs. X-Men #1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Brian Michael Bendis",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Ed Brubaker",
+    "Jason Aaron",
+    "Jim Cheung",
+    "Joe Quesada",
+    "John Denning",
+    "John Romita Jr.",
+    "Jonathan Hickman",
+    "Justin Ponsor",
+    "Klaus Janson",
+    "Laura Martin",
+    "Lauren Sankovitch",
+    "Matt Fraction",
+    "Nick Lowe",
+    "Paul Mounts",
+    "Ryan Stegman",
+    "Scott Hanna",
+    "Skottie Young",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2012-04-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/28/avengers-vs-x-men-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28154/",
+  "fetched_at": "2026-05-02T18:52:32.724Z",
+  "reviewed_at": null
+}

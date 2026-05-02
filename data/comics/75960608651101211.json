@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608651101211",
+  "title": "X-Men: Gold #12",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Frank Martin",
+    "Jay Bowen",
+    "Joe Quesada",
+    "Ken Lashley",
+    "Luke Ross",
+    "Marc Guggenheim",
+    "Mark Paniccia",
+    "Nolan Woodard"
+  ],
+  "publish_date": "2017-09-20",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/25/x-men-gold-v2-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27917/",
+  "fetched_at": "2026-05-02T19:27:50.350Z",
+  "reviewed_at": null
+}

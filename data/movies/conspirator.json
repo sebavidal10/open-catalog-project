@@ -1,0 +1,31 @@
+{
+  "title": "Conspirator",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "24 Mar 1950",
+  "runtime": "87 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Victor Saville",
+  "writer": "Sally Benson, Gerard Fairlie, Humphrey Slater",
+  "actors": "Robert Taylor, Elizabeth Taylor, Robert Flemyng",
+  "plot": "In Cold War London, young American Melinda Greyton marries British Army Major Michael Curragh, who is a Communist spy working for the Soviets.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjg3MDVkMjYtYTZiMC00YWQwLWIyNTYtMzUxODljNGE0YWZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "0%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0041260",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:42:30.910Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "The Adventures of Sir Galahad",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "22 Dec 1949",
+  "runtime": "252 min",
+  "genre": "Adventure",
+  "director": "Derwin Abrahams, Spencer Gordon Bennet",
+  "writer": "George H. Plympton, Lewis Clay, David Mathews",
+  "actors": "George Reeves, Charles King, William Fawcett",
+  "plot": "Sir Galahad, a knight of the Round Table, searches for the legendary sword Excalibur.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmUzNGM0MjMtZWI1NS00NjM1LWEyZGYtYTllODEyNjA1NzA3XkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0041096",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:43:47.577Z"
+}

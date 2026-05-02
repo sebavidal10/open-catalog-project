@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607919301711",
+  "title": "X-Men Legacy #17",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Jennifer M. Smith",
+    "Joe Quesada",
+    "Khoi Pham",
+    "Michael Del Mundo",
+    "Nick Lowe",
+    "Rachelle Rosenberg",
+    "Simon Spurrier",
+    "Xander Jarowey"
+  ],
+  "publish_date": "2013-09-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/11/x-men-legacy-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39407/",
+  "fetched_at": "2026-05-02T19:06:23.432Z",
+  "reviewed_at": null
+}

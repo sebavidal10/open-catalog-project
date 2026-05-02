@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960620212600311",
+  "title": "X-Men: Red #3",
+  "authors": [
+    "Al Ewing",
+    "Ariana Maher",
+    "Arthur Adams",
+    "Carlos Gómez",
+    "C. B. Cebulski",
+    "Dike Ruan",
+    "Federico Blee",
+    "Fer Sifuentes-Sujo",
+    "Jay Bowen",
+    "Jesus Aburtov",
+    "Jordan D. White",
+    "Lauren Amaro",
+    "Matthew Wilson",
+    "Neeraj Menon",
+    "Russell Dauterman",
+    "Stefano Caselli",
+    "Taurin Clarke",
+    "Tom Muller"
+  ],
+  "publish_date": "2022-06-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/06/13/xmen-red-3.webp",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/49482/",
+  "fetched_at": "2026-05-02T19:46:19.917Z",
+  "reviewed_at": null
+}

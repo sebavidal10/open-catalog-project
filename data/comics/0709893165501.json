@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "0709893165501",
+  "title": "The Batman Family #15",
+  "authors": [
+    "Bob Rozakis",
+    "Gaspar Saladino",
+    "Jerry Serpe",
+    "Jim Aparo",
+    "Joe Giella",
+    "Julius Schwartz",
+    "Lee Elias",
+    "Michael Golden",
+    "Milt Snapinn"
+  ],
+  "publish_date": "1978-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/23/the-batman-family-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29672/",
+  "fetched_at": "2026-05-02T20:42:02.966Z",
+  "reviewed_at": "1978-01-01"
+}

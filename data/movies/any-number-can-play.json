@@ -1,0 +1,31 @@
+{
+  "title": "Any Number Can Play",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "15 Jul 1949",
+  "runtime": "112 min",
+  "genre": "Drama, Romance",
+  "director": "Mervyn LeRoy",
+  "writer": "Richard Brooks, Edward Harris Heth",
+  "actors": "Clark Gable, Alexis Smith, Wendell Corey",
+  "plot": "Gambling-house owner finds himself estranged from his wife and son.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjNhNGJiMzYtMzVkMS00ODc1LWJiYmYtNmU1NDVmMjM5Zjc0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "14%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0041127",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:42:49.810Z"
+}

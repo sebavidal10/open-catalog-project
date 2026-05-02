@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960620020700911",
+  "title": "X-Men Legends #9",
+  "authors": [
+    "Billy Tan",
+    "C. B. Cebulski",
+    "Chris Sotomayor",
+    "Drew Baumgartner",
+    "Joe Caramagna",
+    "Jordan D. White",
+    "Kaare Andrews",
+    "Larry Hama",
+    "Mark Basso",
+    "Nick Russell"
+  ],
+  "publish_date": "2021-12-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/11/16/xmen-legends-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/40865/",
+  "fetched_at": "2026-05-02T19:43:52.601Z",
+  "reviewed_at": null
+}

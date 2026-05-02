@@ -1,0 +1,27 @@
+{
+  "title": "Eureka Stockade",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "26 Jan 1949",
+  "runtime": "103 min",
+  "genre": "Drama, History, Western",
+  "director": "Harry Watt",
+  "writer": "Harry Watt, Walter Greenwood, Ralph Smart",
+  "actors": "Chips Rafferty, Jane Barrett, Jack Lambert",
+  "plot": "In 1854, Australian gold rush miners struggle for their rights against an oppressive government.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGFlZWJhY2EtMGY2OC00ODE4LWJmMGItMDMxNjFiNDBmOWYzXkEyXkFqcGdeQXVyNjg1NzcwODE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0041340",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:46:26.844Z"
+}

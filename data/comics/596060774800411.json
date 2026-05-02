@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "596060774800411",
+  "title": "Avengers vs. X-Men #4",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Dean White",
+    "Jerome Opeña",
+    "Jim Cheung",
+    "Joe Quesada",
+    "John Denning",
+    "John Romita Jr.",
+    "Jonathan Hickman",
+    "Laura Martin",
+    "Lauren Sankovitch",
+    "Mark Bagley",
+    "Nick Lowe",
+    "Paul Mounts",
+    "Scott Hanna",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2012-05-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/28/avengers-vs-x-men-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28157/",
+  "fetched_at": "2026-05-02T18:53:22.661Z",
+  "reviewed_at": null
+}

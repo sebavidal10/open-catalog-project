@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607924702311",
+  "title": "X-Men #23",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "G. Willow Wilson",
+    "Jay Leisten",
+    "Joe Quesada",
+    "Lee Loughridge",
+    "Mike Marts",
+    "Rachel Dodson",
+    "Roland Boschi",
+    "Terry Dodson",
+    "Travis Lanham"
+  ],
+  "publish_date": "2015-01-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/28/x-men-v4-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28082/",
+  "fetched_at": "2026-05-02T19:16:05.349Z",
+  "reviewed_at": null
+}

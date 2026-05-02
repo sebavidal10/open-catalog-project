@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960620020700311",
+  "title": "X-Men Legends #3",
+  "authors": [
+    "C. B. Cebulski",
+    "Edgar Delgado",
+    "Iban Coello",
+    "Jay David Ramos",
+    "John Tyler Christopher",
+    "John Workman",
+    "Jordan D. White",
+    "Laura Martin",
+    "Lauren Amaro",
+    "Louise Simonson",
+    "Mark Basso",
+    "Nick Russell",
+    "Walter Simonson"
+  ],
+  "publish_date": "2021-04-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/23/x-men-legends-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/32954/",
+  "fetched_at": "2026-05-02T19:41:56.839Z",
+  "reviewed_at": null
+}

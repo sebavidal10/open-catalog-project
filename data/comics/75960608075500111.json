@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608075500111",
+  "title": "Amazing X-Men Annual #1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Frankie Johnson",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Juan Doe",
+    "Marguerite Bennett",
+    "Mike Marts",
+    "Monty Nero",
+    "Salvador Larroca",
+    "Sonia Oback"
+  ],
+  "publish_date": "2014-06-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/30/amazing-x-men-annual-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33430/",
+  "fetched_at": "2026-05-02T19:11:44.738Z",
+  "reviewed_at": null
+}

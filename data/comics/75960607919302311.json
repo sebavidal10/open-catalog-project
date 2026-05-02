@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607919302311",
+  "title": "X-Men Legacy #23",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Cory Petit",
+    "Craig Yeung",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Joe Quesada",
+    "José Villarrubia",
+    "Michael Del Mundo",
+    "Nick Lowe",
+    "Simon Spurrier",
+    "Tan Eng Huat",
+    "Xander Jarowey"
+  ],
+  "publish_date": "2014-01-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/11/x-men-legacy-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39413/",
+  "fetched_at": "2026-05-02T19:09:12.357Z",
+  "reviewed_at": null
+}

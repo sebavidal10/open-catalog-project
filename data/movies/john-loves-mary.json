@@ -1,0 +1,27 @@
+{
+  "title": "John Loves Mary",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "30 Jun 1949",
+  "runtime": "96 min",
+  "genre": "Comedy",
+  "director": "David Butler",
+  "writer": "Henry Ephron, Phoebe Ephron, Norman Krasna",
+  "actors": "Ronald Reagan, Jack Carson, Wayne Morris",
+  "plot": "A GI marries the English girlfriend of his best friend to get her into the U.S. for his friend who lost track of her in the war only to find on returning home that he is stuck with the girl because the friend has married someone e...",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGNmNGU4NTQtZmE1OS00MWJkLWEwNzgtYTNiMWNkMmQzNThjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0041526",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:43:59.367Z"
+}

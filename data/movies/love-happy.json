@@ -1,0 +1,27 @@
+{
+  "title": "Love Happy",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "03 Mar 1950",
+  "runtime": "85 min",
+  "genre": "Comedy, Crime, Music",
+  "director": "David Miller",
+  "writer": "Frank Tashlin, Mac Benoff, Harpo Marx",
+  "actors": "Groucho Marx, Harpo Marx, Chico Marx",
+  "plot": "The Marx Brothers help young Broadway hopefuls while thwarting diamond thieves.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWQ1ZjM0ZDUtMzMwOC00YmNiLTkxY2YtOTFmMWVjYWUzYzIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0041604",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:40:06.904Z"
+}

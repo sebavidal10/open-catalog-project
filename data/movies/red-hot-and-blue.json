@@ -1,0 +1,27 @@
+{
+  "title": "Red, Hot and Blue",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "05 Sep 1949",
+  "runtime": "84 min",
+  "genre": "Comedy, Crime, Musical",
+  "director": "John Farrow",
+  "writer": "Hagar Wilde, John Farrow, Charles Lederer",
+  "actors": "Betty Hutton, Victor Mature, William Demarest",
+  "plot": "An aspiring actress finds herself in a jam when a gangster, who is backing the show she is in, is found dead in her apartment.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGNlYTJkMTAtYWM4ZC00ZGE0LTlmNGItN2QxOTM1MDk0OGFiXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0041795",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:43:18.106Z"
+}

@@ -1,0 +1,39 @@
+{
+  "isbn": null,
+  "upc": "75960609277200111",
+  "title": "X-Men: The Exterminated #1",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "Antonio Fabela",
+    "C. B. Cebulski",
+    "Chris Claremont",
+    "Dan Buckley",
+    "Danny Khazem",
+    "Darren Shan",
+    "Geoff Shaw",
+    "Jay Bowen",
+    "Jay David Ramos",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Jordan D. White",
+    "Kaare Andrews",
+    "Lonnie Nadler",
+    "Mico Suayan",
+    "Neil Edwards",
+    "Nolan Woodard",
+    "Rain Beredo",
+    "Ramon Rosanas",
+    "Zac Thompson"
+  ],
+  "publish_date": "2018-12-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/02/x-men-the-exterminated-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/31555/",
+  "fetched_at": "2026-05-02T19:35:28.038Z",
+  "reviewed_at": null
+}

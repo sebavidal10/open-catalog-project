@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960609898900111",
+  "title": "Empyre: X-Men #1",
+  "authors": [
+    "Annalise Bissa",
+    "Anna Rud",
+    "C. B. Cebulski",
+    "Chris O'Halloran",
+    "Clayton Cowles",
+    "Jonathan Hickman",
+    "Jordan D. White",
+    "Matteo Buffagni",
+    "Mike McKone",
+    "Nolan Woodard",
+    "Tini Howard",
+    "Tom Muller"
+  ],
+  "publish_date": "2020-07-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/17/empyre-xmen-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15229/",
+  "fetched_at": "2026-05-02T19:39:33.849Z",
+  "reviewed_at": null
+}

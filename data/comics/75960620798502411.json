@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620798502411",
+  "title": "Ultimate X-Men #24",
+  "authors": [
+    "Bryan Valenza",
+    "C. B. Cebulski",
+    "Daniele Di Nicuolo",
+    "Ejikure",
+    "Jay Bowen",
+    "Kat Gregorowicz",
+    "Marcos Martín",
+    "Michelle Marchese",
+    "Nicoletta Baldari",
+    "Peach Momoko",
+    "Stacey Lee",
+    "Travis Lanham",
+    "Wil Moss",
+    "Zack Davisson"
+  ],
+  "publish_date": "2026-02-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/30/4c0c6e3393b14f6f995cba27fb9557eb.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/161515/",
+  "fetched_at": "2026-05-02T20:07:16.712Z",
+  "reviewed_at": null
+}

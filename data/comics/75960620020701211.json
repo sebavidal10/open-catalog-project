@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620020701211",
+  "title": "X-Men Legends #12",
+  "authors": [
+    "Alan Davis",
+    "Carlos Gómez",
+    "C. B. Cebulski",
+    "Chris Claremont",
+    "Drew Baumgartner",
+    "Jesus Aburtov",
+    "Joe Caramagna",
+    "Jordan D. White",
+    "Lorenzo Ruggiero",
+    "Mark Basso",
+    "Matt Hollingsworth",
+    "Nick Russell",
+    "Rachelle Rosenberg",
+    "Scot Eaton"
+  ],
+  "publish_date": "2022-03-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/02/21/xmen-legend-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/44173/",
+  "fetched_at": "2026-05-02T19:45:13.560Z",
+  "reviewed_at": null
+}

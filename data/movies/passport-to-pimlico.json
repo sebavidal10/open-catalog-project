@@ -1,0 +1,31 @@
+{
+  "title": "Passport to Pimlico",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "26 Oct 1949",
+  "runtime": "84 min",
+  "genre": "Comedy",
+  "director": "Henry Cornelius",
+  "writer": "T.E.B. Clarke",
+  "actors": "Stanley Holloway, Betty Warren, Barbara Murray",
+  "plot": "Residents of a part of London declare independence after they discover an old treaty, which leads to the need for a \"Passport to Pimlico\".",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 Oscar. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2QxMzhkZTYtZTY4OC00NjMyLThlYjQtZDA2MjBkZjNjODFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0041737",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:40:00.991Z"
+}

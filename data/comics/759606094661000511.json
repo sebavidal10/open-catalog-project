@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "759606094661000511",
+  "title": "X-Men #5",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Jonathan Hickman",
+    "Jordan D. White",
+    "Kris Anka",
+    "Leinil Francis Yu",
+    "Marcos Martín",
+    "Marte Gracia",
+    "Nick Russell",
+    "R. B. Silva",
+    "Sunny Gho",
+    "Tom Muller"
+  ],
+  "publish_date": "2020-01-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/01/24/xmen-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8859/",
+  "fetched_at": "2026-05-02T19:38:27.499Z",
+  "reviewed_at": null
+}

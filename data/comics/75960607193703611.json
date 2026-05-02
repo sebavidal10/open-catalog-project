@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960607193703611",
+  "title": "X-Men #36",
+  "authors": [
+    "Alan Fine",
+    "Álvaro López",
+    "Axel Alonso",
+    "Brian Wood",
+    "Dan Buckley",
+    "David López",
+    "Jeanine Schaefer",
+    "Jennifer M. Smith",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Nick Lowe",
+    "Rachelle Rosenberg"
+  ],
+  "publish_date": "2012-09-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v3-36.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28054/",
+  "fetched_at": "2026-05-02T18:56:51.753Z",
+  "reviewed_at": null
+}

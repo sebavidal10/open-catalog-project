@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960608650401111",
+  "title": "X-Men: Blue #11",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "Arthur Adams",
+    "Axel Alonso",
+    "Christina Harrington",
+    "Cory Petit",
+    "Cullen Bunn",
+    "Dan Buckley",
+    "Daniel Acuña",
+    "Douglas Franchin",
+    "Guru-eFX",
+    "Jay Bowen",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Peter Steigerwald",
+    "Scott Hanna"
+  ],
+  "publish_date": "2017-09-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/24/x-men-blue-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29688/",
+  "fetched_at": "2026-05-02T19:27:38.316Z",
+  "reviewed_at": null
+}

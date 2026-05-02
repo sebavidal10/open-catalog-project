@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960607924701411",
+  "title": "X-Men #14",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Brian Wood",
+    "Clay Mann",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Frankie Johnson",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Matt Milla",
+    "Mike Marts",
+    "Paul Mounts",
+    "Philippe Briones",
+    "Rachel Dodson",
+    "Seth Mann",
+    "Terry Dodson"
+  ],
+  "publish_date": "2014-05-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/28/x-men-v4-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28073/",
+  "fetched_at": "2026-05-02T19:11:23.353Z",
+  "reviewed_at": null
+}

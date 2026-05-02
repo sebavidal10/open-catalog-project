@@ -1,0 +1,42 @@
+{
+  "isbn": null,
+  "upc": "75960608651101311",
+  "title": "X-Men: Gold #13",
+  "authors": [
+    "Alan Fine",
+    "Andrew Hennessy",
+    "Anthony Gambino",
+    "Arthur Adams",
+    "Axel Alonso",
+    "Ben Caldwell",
+    "Chip Zdarsky",
+    "Chris Robinson",
+    "Chris Sotomayor",
+    "Cory Petit",
+    "Dan Buckley",
+    "Darren Shan",
+    "Jay Bowen",
+    "Joe Quesada",
+    "John Tyler Christopher",
+    "Kathleen Wisneski",
+    "Marc Guggenheim",
+    "Mark Bagley",
+    "Mark Paniccia",
+    "Mike Mayhew",
+    "Mike McKone",
+    "Peter Steigerwald",
+    "Rachelle Rosenberg",
+    "Rain Beredo",
+    "Robbie Thompson"
+  ],
+  "publish_date": "2017-10-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/26/x-men-gold-v2-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27940/",
+  "fetched_at": "2026-05-02T19:28:11.342Z",
+  "reviewed_at": null
+}

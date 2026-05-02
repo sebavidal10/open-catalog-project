@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960607924701311",
+  "title": "X-Men #13",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Brian Wood",
+    "Clay Mann",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Frankie Johnson",
+    "J.G. Jones",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Matt Milla",
+    "Mike Marts",
+    "Paul Mounts",
+    "Philippe Briones",
+    "Rachel Dodson",
+    "Seth Mann",
+    "Terry Dodson",
+    "Tom Brennan"
+  ],
+  "publish_date": "2014-04-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/28/x-men-v4-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28072/",
+  "fetched_at": "2026-05-02T19:10:59.396Z",
+  "reviewed_at": null
+}

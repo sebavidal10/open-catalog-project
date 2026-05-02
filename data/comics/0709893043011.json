@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "0709893043011",
+  "title": "Batman #281",
+  "authors": [
+    "Bob Rozakis",
+    "David Vern Reed",
+    "Ernie Chan",
+    "Julius Schwartz",
+    "Tex Blaisdell"
+  ],
+  "publish_date": "1976-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/15/batman-281.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34373/",
+  "fetched_at": "2026-05-02T20:39:48.175Z",
+  "reviewed_at": "1976-11-01"
+}

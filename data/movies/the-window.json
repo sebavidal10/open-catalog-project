@@ -1,0 +1,31 @@
+{
+  "title": "The Window",
+  "year": "1949",
+  "rated": "Approved",
+  "released": "21 May 1949",
+  "runtime": "73 min",
+  "genre": "Drama, Film-Noir, Thriller",
+  "director": "Ted Tetzlaff",
+  "writer": "Mel Dinelli, Cornell Woolrich",
+  "actors": "Bobby Driscoll, Barbara Hale, Arthur Kennedy",
+  "plot": "To avoid the heat of a sweltering summer night a 9-year-old Manhattan boy decides to sleep on the fire escape and witnesses a murder, but no one will believe him.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmQwMWI4YjUtMzgzZS00ZmIwLTg5NWItYjA5YjI5OGJjMDYyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0042046",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:39:56.269Z"
+}

@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960609999300811",
+  "title": "X-Men #8",
+  "authors": [
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Gerry Duggan",
+    "Javier Pina",
+    "Jordan D. White",
+    "Joshua Swaby",
+    "Lauren Amaro",
+    "Logan Lubera",
+    "Marte Gracia",
+    "Matthew Wilson",
+    "Pepe Larraz",
+    "Pete Woods",
+    "Rachelle Rosenberg",
+    "Russell Dauterman",
+    "Tom Muller"
+  ],
+  "publish_date": "2022-02-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/02/01/xmen-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43549/",
+  "fetched_at": "2026-05-02T19:44:38.541Z",
+  "reviewed_at": null
+}

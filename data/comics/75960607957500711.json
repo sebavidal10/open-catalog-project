@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607957500711",
+  "title": "Amazing X-Men #7",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Frankie Johnson",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Juan Vlasco",
+    "Kathryn Immonen",
+    "Kris Anka",
+    "Mike Marts",
+    "Nick Lowe",
+    "Paco Medina",
+    "Rachelle Rosenberg"
+  ],
+  "publish_date": "2014-05-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/23/amazing-x-men-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29636/",
+  "fetched_at": "2026-05-02T19:11:11.670Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "title": "El mago",
+  "year": "1949",
+  "rated": "N/A",
+  "released": "N/A",
+  "runtime": "100 min",
+  "genre": "Adventure, Comedy, Fantasy",
+  "director": "Miguel M. Delgado",
+  "writer": "Jaime Salvador, Alex Joffé, Jean Le Vitte",
+  "actors": "Cantinflas, Leonora Amar, José Baviera",
+  "plot": "A slapstick fantasy of the amorous adventures of a magician a la Cantinflas.",
+  "language": "Spanish",
+  "country": "Mexico",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODQxNjI1NDY2M15BMl5BanBnXkFtZTcwMDMyODQzMw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0161777",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:47:13.968Z"
+}

@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "759606094661001711",
+  "title": "X-Men #17",
+  "authors": [
+    "Adelso Corona",
+    "Annalise Bissa",
+    "Brett Booth",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Jay Bowen",
+    "Jonathan Hickman",
+    "Jordan D. White",
+    "Leinil Francis Yu",
+    "Matthew Wilson",
+    "Nick Russell",
+    "Russell Dauterman",
+    "Sunny Gho",
+    "Tom Muller"
+  ],
+  "publish_date": "2021-01-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/23/xmen-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23703/",
+  "fetched_at": "2026-05-02T19:41:17.796Z",
+  "reviewed_at": null
+}

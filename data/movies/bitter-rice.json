@@ -1,0 +1,31 @@
+{
+  "title": "Bitter Rice",
+  "year": "1949",
+  "rated": "Not Rated",
+  "released": "18 Sep 1950",
+  "runtime": "108 min",
+  "genre": "Crime, Drama",
+  "director": "Giuseppe De Santis",
+  "writer": "Giuseppe De Santis, Carlo Lizzani, Gianni Puccini",
+  "actors": "Vittorio Gassman, Doris Dowling, Silvana Mangano",
+  "plot": "Two criminals on the run end up working in a rice field and decide to recruit other workers for their next robbery.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "Nominated for 1 Oscar. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmNhNzI1OTAtMGE0OS00ZmYzLWFjYjctYTkzNjJlNWVlNTZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0040737",
+  "type": "movie",
+  "fetched_at": "2026-05-02T18:40:21.152Z"
+}

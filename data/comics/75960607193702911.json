@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960607193702911",
+  "title": "X-Men #29",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Guru-eFX",
+    "Jeanine Schaefer",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Nick Lowe",
+    "Victor Gischler",
+    "Will Conrad"
+  ],
+  "publish_date": "2012-05-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v3-29.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28047/",
+  "fetched_at": "2026-05-02T18:53:50.835Z",
+  "reviewed_at": null
+}

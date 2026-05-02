@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607193703511",
+  "title": "X-Men #35",
+  "authors": [
+    "Alan Fine",
+    "Álvaro López",
+    "Axel Alonso",
+    "Brian Wood",
+    "Dan Brown",
+    "Dan Buckley",
+    "David López",
+    "Jeanine Schaefer",
+    "Jennifer M. Smith",
+    "Jim Charalampidis",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Nick Lowe",
+    "Roland Boschi"
+  ],
+  "publish_date": "2012-09-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v3-35.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28053/",
+  "fetched_at": "2026-05-02T18:56:47.725Z",
+  "reviewed_at": null
+}

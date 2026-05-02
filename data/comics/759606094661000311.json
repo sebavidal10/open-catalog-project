@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "759606094661000311",
+  "title": "X-Men #3",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Gerry Alanguilan",
+    "Joe Quesada",
+    "Jonathan Hickman",
+    "Jordan D. White",
+    "Leinil Francis Yu",
+    "Mike McKone",
+    "Rachelle Rosenberg",
+    "Rain Beredo",
+    "Sunny Gho",
+    "Tom Muller"
+  ],
+  "publish_date": "2019-12-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/29/x-men-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7767/",
+  "fetched_at": "2026-05-02T19:38:15.307Z",
+  "reviewed_at": null
+}

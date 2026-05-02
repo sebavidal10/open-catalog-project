@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "759606094661000811",
+  "title": "X-Men #8",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Jonathan Hickman",
+    "Jordan D. White",
+    "Leinil Francis Yu",
+    "Mahmud A. Asrar",
+    "Marcos Martín",
+    "Nick Russell",
+    "Sunny Gho",
+    "Tom Muller"
+  ],
+  "publish_date": "2020-03-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/03/05/xmen-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/10101/",
+  "fetched_at": "2026-05-02T19:39:05.486Z",
+  "reviewed_at": null
+}

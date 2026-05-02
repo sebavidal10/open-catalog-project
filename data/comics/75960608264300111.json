@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960608264300111",
+  "title": "X-Men '92 #1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chad Bowers",
+    "Chris Sims",
+    "Dan Buckley",
+    "David Nakayama",
+    "Heather Antos",
+    "Jim Charalampidis",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Matt Milla",
+    "Pepe Larraz",
+    "Ryan Stegman",
+    "Scott Koblish",
+    "Skottie Young",
+    "Travis Lanham"
+  ],
+  "publish_date": "2015-06-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/02/02/57762bb5f84249608ae6d75e8b964e8b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/161938/",
+  "fetched_at": "2026-05-02T19:18:04.261Z",
+  "reviewed_at": null
+}

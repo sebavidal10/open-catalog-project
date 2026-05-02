@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960607924700311",
+  "title": "X-Men #3",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Brian Wood",
+    "Dan Buckley",
+    "Jeanine Schaefer",
+    "Jennifer M. Smith",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Laura Martin",
+    "Mark Morales",
+    "Nick Lowe",
+    "Olivier Coipel"
+  ],
+  "publish_date": "2013-07-31",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/27/x-men-v4-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/28062/",
+  "fetched_at": "2026-05-02T19:04:48.799Z",
+  "reviewed_at": null
+}

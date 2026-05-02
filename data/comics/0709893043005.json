@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "0709893043005",
+  "title": "Batman #275",
+  "authors": [
+    "Bob Rozakis",
+    "David Vern Reed",
+    "Ernie Chan",
+    "Julius Schwartz",
+    "Tex Blaisdell"
+  ],
+  "publish_date": "1976-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/15/batman-275.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34367/",
+  "fetched_at": "2026-05-02T20:38:45.433Z",
+  "reviewed_at": "1976-05-01"
+}

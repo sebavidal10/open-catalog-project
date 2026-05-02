@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "0709893043003",
+  "title": "Batman #285",
+  "authors": [
+    "David Vern Reed",
+    "Frank Springer",
+    "Jim Aparo",
+    "Julius Schwartz",
+    "Romeo Tanghal"
+  ],
+  "publish_date": "1977-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/15/batman-285.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34377/",
+  "fetched_at": "2026-05-02T20:40:34.287Z",
+  "reviewed_at": "1977-03-01"
+}

@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608650402311",
+  "title": "X-Men: Blue #23",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Chris Robinson",
+    "Clayton Crain",
+    "Cullen Bunn",
+    "Dan Buckley",
+    "Darren Shan",
+    "Jay Bowen",
+    "Jay David Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jorge Molina",
+    "Mark Paniccia",
+    "Matt Milla"
+  ],
+  "publish_date": "2018-03-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/24/x-men-blue-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29700/",
+  "fetched_at": "2026-05-02T19:30:21.112Z",
+  "reviewed_at": null
+}

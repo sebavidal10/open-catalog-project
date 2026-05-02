@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "0709893043010",
+  "title": "Batman #280",
+  "authors": [
+    "Bob Rozakis",
+    "David Vern Reed",
+    "Ernie Chan",
+    "Frank Giacoia",
+    "Julius Schwartz"
+  ],
+  "publish_date": "1976-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/15/batman-280.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34372/",
+  "fetched_at": "2026-05-02T20:39:36.123Z",
+  "reviewed_at": "1976-10-01"
+}

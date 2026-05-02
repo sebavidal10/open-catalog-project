@@ -1,0 +1,37 @@
+{
+  "isbn": null,
+  "upc": "75960608855300111",
+  "title": "X-Men: Red #1",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Christina Harrington",
+    "Cory Petit",
+    "Dan Buckley",
+    "Edgar Delgado",
+    "Ive Svorcina",
+    "Jay Bowen",
+    "Joe Quesada",
+    "John Tyler Christopher",
+    "Leonardo Paciarotti",
+    "Mahmud A. Asrar",
+    "Mark Paniccia",
+    "Nolan Woodard",
+    "Pepe Larraz",
+    "Rob Liefeld",
+    "Tom Taylor",
+    "Travis Charest"
+  ],
+  "publish_date": "2018-02-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/26/x-men-red-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27964/",
+  "fetched_at": "2026-05-02T19:30:04.984Z",
+  "reviewed_at": null
+}

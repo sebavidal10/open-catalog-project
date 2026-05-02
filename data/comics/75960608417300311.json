@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608417300311",
+  "title": "X-Men '92 #3",
+  "authors": [
+    "Alan Fine",
+    "Alti Firmansyah",
+    "Axel Alonso",
+    "Carlos Lao",
+    "Chad Bowers",
+    "Chris Sims",
+    "Dan Buckley",
+    "David Nakayama",
+    "Heather Antos",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Matt Milla",
+    "Pascal Campion",
+    "Travis Lanham"
+  ],
+  "publish_date": "2016-05-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/18/X-Men_92_2016-_003-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/132019/",
+  "fetched_at": "2026-05-02T19:21:32.246Z",
+  "reviewed_at": null
+}
