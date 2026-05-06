@@ -1,0 +1,27 @@
+{
+  "title": "La casa chica",
+  "year": "1950",
+  "rated": "PG",
+  "released": "09 Feb 1950",
+  "runtime": "115 min",
+  "genre": "Drama, Romance",
+  "director": "Roberto Gavaldón",
+  "writer": "José Revueltas, Roberto Gavaldón, Mauricio Magdaleno",
+  "actors": "Dolores Del Río, Roberto Cañedo, Domingo Soler",
+  "plot": "Fernando llega al pueblo donde vive Amalia y ambos se enamoran. Fernando tiene que regresar a la ciudad para terminar su compromiso y así poder estar con Amalia, pero estas cosas jamas suceden como uno espera",
+  "language": "Spanish",
+  "country": "Mexico",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2VmY2NlMmMtYTQ0Yi00NWY1LWIxMzgtODFiZDQ3NGQ4MDAwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0041230",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:28:49.565Z"
+}

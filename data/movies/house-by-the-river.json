@@ -1,0 +1,31 @@
+{
+  "title": "House by the River",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "25 Mar 1950",
+  "runtime": "83 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Fritz Lang",
+  "writer": "Mel Dinelli, A.P. Herbert",
+  "actors": "Louis Hayward, Lee Bowman, Jane Wyatt",
+  "plot": "A deranged writer murders a maid after she resists his advances. The writer engages his brother's help in hiding the body, causing unexpected problems for both of them.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWUxYWY2YTItY2YxYS00NmZlLWFlMDQtNTM0YjJmN2Q2MWZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0042579",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:23:51.364Z"
+}

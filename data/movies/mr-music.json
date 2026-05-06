@@ -1,0 +1,27 @@
+{
+  "title": "Mr. Music",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "08 Dec 1950",
+  "runtime": "110 min",
+  "genre": "Comedy, Music, Romance",
+  "director": "Richard Haydn",
+  "writer": "Samson Raphaelson, Arthur Sheekman",
+  "actors": "Bing Crosby, Nancy Olson, Charles Coburn",
+  "plot": "A golf-crazy songwriter tries to avoid the long, solitary hours of concentration needed to produce a hit musical. His producer and his secretary conspire to get him back on track.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDRiZWY3MGMtMDg3Ni00MjMxLTg0NTQtMTZmZTA5ZmMwN2FhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0042753",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:28:14.377Z"
+}

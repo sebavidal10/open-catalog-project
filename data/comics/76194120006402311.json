@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194120006402311",
+  "title": "The Batman Adventures #23",
+  "authors": [
+    "Kelley Puckett",
+    "Mike Parobeck",
+    "Richard Starkings",
+    "Rick Burchett",
+    "Rick Taylor"
+  ],
+  "publish_date": "1994-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/b8f1935fc3494f08b85277b8a25d6ef6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118061/",
+  "fetched_at": "2026-05-06T02:53:50.441Z",
+  "reviewed_at": "1994-08-01"
+}

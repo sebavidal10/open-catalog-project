@@ -1,0 +1,31 @@
+{
+  "title": "Caged",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "10 Jun 1950",
+  "runtime": "97 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "John Cromwell",
+  "writer": "Virginia Kellogg, Bernard C. Schoenfeld",
+  "actors": "Eleanor Parker, Agnes Moorehead, Ellen Corby",
+  "plot": "A gentle, naive, pregnant 19-year-old widow is slowly, inexorably ground down by the hardened criminals, sadistic guards, and matron at a woman's prison. Will she be the same person when her sentence is up?",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 2 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmU5YjY4ZGQtYjk3Zi00ODhmLTlmYjAtOWUzZjFiNjQ5OGIzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0042296",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:23:20.214Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Storm Warning",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "10 Feb 1951",
+  "runtime": "93 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Stuart Heisler",
+  "writer": "Daniel Fuchs, Richard Brooks",
+  "actors": "Ginger Rogers, Ronald Reagan, Doris Day",
+  "plot": "Marsha Mitchell, a traveling dress model, stops in a southern town to see her sister who has married a Ku Klux Klansman. Marsha witnesses the KKK commit a murder and helps District Attorney Burt Rainey bring the criminals to justice.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWQ2NDA4NGMtMzVkMy00YzJkLTlkZTEtNDBiNTA2YTkwYjIwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0044075",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:24:13.685Z"
+}

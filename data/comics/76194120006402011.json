@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194120006402011",
+  "title": "The Batman Adventures #20",
+  "authors": [
+    "Kelley Puckett",
+    "Mike Parobeck",
+    "Richard Starkings",
+    "Rick Burchett",
+    "Rick Taylor"
+  ],
+  "publish_date": "1994-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/465cd8bbb47b4e5dafa872954973f914.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118058/",
+  "fetched_at": "2026-05-06T02:52:40.316Z",
+  "reviewed_at": "1994-05-01"
+}

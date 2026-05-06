@@ -1,0 +1,31 @@
+{
+  "title": "Orpheus",
+  "year": "1950",
+  "rated": "Not Rated",
+  "released": "29 Nov 1950",
+  "runtime": "112 min",
+  "genre": "Drama, Fantasy, Romance",
+  "director": "Jean Cocteau",
+  "writer": "Jean Cocteau",
+  "actors": "Jean Marais, François Périer, María Casares",
+  "plot": "A poet in love with Death follows his unhappy wife into the underworld.",
+  "language": "French",
+  "country": "France",
+  "awards": "Nominated for 1 BAFTA Award2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDljNWY2ZGUtZWQ1ZS00ZmEyLTk1NTAtZDhjNGY5YjNiNTJjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0041719",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:23:23.726Z"
+}

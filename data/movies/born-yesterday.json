@@ -1,0 +1,31 @@
+{
+  "title": "Born Yesterday",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "01 Feb 1951",
+  "runtime": "103 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "George Cukor",
+  "writer": "Garson Kanin, Albert Mannheimer, Yves Mirande",
+  "actors": "Judy Holliday, William Holden, Broderick Crawford",
+  "plot": "While in Washington to lobby for favorable legislation, a garbage tycoon hires a reporter to teach his ex-showgirl mistress proper etiquette to better fit in with high society, but she ends up learning more than he bargained for.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 5 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGIwODUwMGEtZWRmYi00ZDE1LWExYmQtYjBkMWQ4MWIxNGU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0042276",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:23:19.052Z"
+}

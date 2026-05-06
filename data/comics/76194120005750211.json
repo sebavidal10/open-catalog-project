@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005750211",
+  "title": "Batman #502",
+  "authors": [
+    "Adrienne Roy",
+    "Dennis O'Neil",
+    "Doug Moench",
+    "Joe Rubinstein",
+    "Jordan B. Gorfinkel",
+    "Kelley Jones",
+    "Ken Bruzenak",
+    "Mike Manley"
+  ],
+  "publish_date": "1993-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/17/batman-502.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34595/",
+  "fetched_at": "2026-05-06T02:50:37.733Z",
+  "reviewed_at": "1993-12-01"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "The Nevadan",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "11 Jan 1950",
+  "runtime": "81 min",
+  "genre": "Western",
+  "director": "Gordon Douglas",
+  "writer": "George W. George, George F. Slavin, Rowland Brown",
+  "actors": "Randolph Scott, Dorothy Malone, Forrest Tucker",
+  "plot": "A mysterious stranger crosses paths with an outlaw bank robber and a greedy rancher.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGE3NDRkM2YtMDJiOS00NGM4LWE0MGItNGMwZGMzNWUyNWUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0042782",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:23:29.590Z"
+}

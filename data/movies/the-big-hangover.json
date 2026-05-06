@@ -1,0 +1,31 @@
+{
+  "title": "The Big Hangover",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "26 May 1950",
+  "runtime": "82 min",
+  "genre": "Comedy",
+  "director": "Norman Krasna",
+  "writer": "Norman Krasna",
+  "actors": "Van Johnson, Elizabeth Taylor, Percy Waram",
+  "plot": "A law school graduate is hired by a top law firm, but hides from them a secret about a problem he has. He is so allergic to alcohol that one whiff of it and he passes out like a light.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWFmZDA2YzctZTZjYi00YzBiLWE2NWYtOGVlZTEwMjE5MjQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0042247",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:29:09.486Z"
+}

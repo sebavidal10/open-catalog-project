@@ -1,0 +1,35 @@
+{
+  "title": "La Ronde",
+  "year": "1950",
+  "rated": "Not Rated",
+  "released": "20 Sep 1951",
+  "runtime": "93 min",
+  "genre": "Drama, Romance",
+  "director": "Max Ophüls",
+  "writer": "Arthur Schnitzler, Jacques Natanson, Max Ophüls",
+  "actors": "Anton Walbrook, Simone Signoret, Serge Reggiani",
+  "plot": "Soldiers, chambermaids, poets, prostitutes, aristocrats-all are on equal footing in this multi-character merry-go-round of love and infidelity.",
+  "language": "French, Italian",
+  "country": "France",
+  "awards": "Nominated for 2 Oscars. 3 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGQyZDNiZGQtOGM4Zi00YjA0LTk3MGEtNmVmZWQzZDEwZWVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "7.5",
+  "imdbID": "tt0042906",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:23:59.584Z"
+}

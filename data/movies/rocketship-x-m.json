@@ -1,0 +1,27 @@
+{
+  "title": "Rocketship X-M",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "02 Jun 1950",
+  "runtime": "77 min",
+  "genre": "Family, Sci-Fi",
+  "director": "Kurt Neumann",
+  "writer": "Orville H. Hampton, Kurt Neumann, Dalton Trumbo",
+  "actors": "Lloyd Bridges, Osa Massen, John Emery",
+  "plot": "An astronaut crew on their way to the Moon are unexpectedly propelled by gravitational forces and end up on Mars instead.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjdhMDgzZjMtOTBmYy00MmIzLTk0YTYtMDA4Nzc3NjU3ZTA1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.9",
+  "imdbID": "tt0042897",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:23:54.890Z"
+}

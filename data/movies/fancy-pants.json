@@ -1,0 +1,31 @@
+{
+  "title": "Fancy Pants",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "19 Jul 1950",
+  "runtime": "92 min",
+  "genre": "Comedy, Musical, Western",
+  "director": "George Marshall",
+  "writer": "Harry Leon Wilson, Edmund L. Hartmann, Robert O'Brien",
+  "actors": "Bob Hope, Lucille Ball, Bruce Cabot",
+  "plot": "An American actor impersonating an English butler is hired by a woman from New Mexico to refine her husband and headstrong daughter. The complications increase when the town believes Arthur to be an Earl, and President Roosevelt d...",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjliZjg4ZjktNTk0Ni00ZGRkLTlhNjktZDViYWNmZGE5NzcwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0042447",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:26:29.590Z"
+}

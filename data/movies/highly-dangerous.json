@@ -1,0 +1,27 @@
+{
+  "title": "Highly Dangerous",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "12 Oct 1951",
+  "runtime": "90 min",
+  "genre": "Action, Thriller",
+  "director": "Roy Ward Baker",
+  "writer": "Eric Ambler",
+  "actors": "Margaret Lockwood, Dane Clark, Marius Goring",
+  "plot": "A British lady entomologist travels to a Balkan country to look into germ warfare trials using various bugs as carriers.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0ODYwNTYzOV5BMl5BanBnXkFtZTgwMDM2OTgwMzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0042553",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:25:28.609Z"
+}

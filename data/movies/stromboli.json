@@ -1,0 +1,31 @@
+{
+  "title": "Stromboli",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "15 Feb 1950",
+  "runtime": "81 min",
+  "genre": "Drama",
+  "director": "Roberto Rossellini",
+  "writer": "Roberto Rossellini, Sergio Amidei, Gian Paolo Callegari",
+  "actors": "Ingrid Bergman, Mario Vitale, Renzo Cesana",
+  "plot": "Karin, a young woman from the Baltic countries, marries fisherman Antonio to escape from a prison camp. But she cannot get used to the tough life in Antonio's volcano-threatened village, Stromboli.",
+  "language": "English, Italian, Spanish, German, French",
+  "country": "Italy, United States",
+  "awards": "2 wins & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY0NzcwNmEtMmE5My00ZWUwLWEyYWItM2NiMWZmNWIyNzFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0041931",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:23:56.070Z"
+}

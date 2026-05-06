@@ -1,0 +1,27 @@
+{
+  "title": "Operation X",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "21 Aug 1950",
+  "runtime": "81 min",
+  "genre": "Drama",
+  "director": "Gregory Ratoff",
+  "writer": "Robert Thoeren, William Rose, Irène Némirovsky",
+  "actors": "Edward G. Robinson, Peggy Cummins, Richard Greene",
+  "plot": "A business tycoon spoils his young daughter, but his relationship with his wife leaves much to be desired.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWI4NGJkMWQtMTJlYy00NDVmLWE0MGUtZTUyYWFjNWZjODk4XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0042812",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:28:23.752Z"
+}

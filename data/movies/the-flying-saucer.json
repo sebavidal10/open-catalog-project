@@ -1,0 +1,27 @@
+{
+  "title": "The Flying Saucer",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "05 Jan 1950",
+  "runtime": "69 min",
+  "genre": "Sci-Fi, Thriller",
+  "director": "Mikel Conrad",
+  "writer": "Mikel Conrad, Howard Irving Young",
+  "actors": "Mikel Conrad, Pat Garrison, Hantz von Teuffen",
+  "plot": "Both the CIA and KGB investigate UFOs in Alaska: friend or foe?",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQ3ZDBkZjktODBkZS00YzdjLWJjNjAtODAyOTE5MGJjYjUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "3.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "3.5",
+  "imdbID": "tt0042469",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:26:42.677Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Variety Lights",
+  "year": "1950",
+  "rated": "Not Rated",
+  "released": "17 Dec 1953",
+  "runtime": "97 min",
+  "genre": "Drama, Music, Romance",
+  "director": "Federico Fellini, Alberto Lattuada",
+  "writer": "Federico Fellini, Ennio Flaiano, Alberto Lattuada",
+  "actors": "Peppino De Filippo, Carla Del Poggio, Giulietta Masina",
+  "plot": "A beautiful, ambitious young woman joins a traveling troupe of third-rate vaudevillians and inadvertently causes jealousy and emotional crises.",
+  "language": "Italian, English, Russian",
+  "country": "Italy",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjdkZWExODAtOWMzNS00Y2MxLWI1ZjktODc2YWFhYmVjNTE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.1",
+  "imdbID": "tt0042692",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:25:08.706Z"
+}

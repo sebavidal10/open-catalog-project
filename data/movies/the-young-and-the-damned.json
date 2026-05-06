@@ -1,0 +1,31 @@
+{
+  "title": "The Young and the Damned",
+  "year": "1950",
+  "rated": "Not Rated",
+  "released": "24 Mar 1952",
+  "runtime": "80 min",
+  "genre": "Crime, Drama",
+  "director": "Luis Buñuel",
+  "writer": "Luis Alcoriza, Max Aub, Luis Buñuel",
+  "actors": "Alfonso Mejía, Roberto Cobo, Estela Inda",
+  "plot": "A group of juvenile delinquents live a violent and crime-filled life in the festering slums of Mexico City, as the morals of young Pedro are gradually corrupted and destroyed by the others.",
+  "language": "Spanish",
+  "country": "Mexico",
+  "awards": "Nominated for 2 BAFTA 12 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjBiZDlhMjEtMzA2OC00MTQzLWIwODgtMjg0Yjc5ZWMyNjNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.2",
+  "imdbID": "tt0042804",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:23:26.067Z"
+}

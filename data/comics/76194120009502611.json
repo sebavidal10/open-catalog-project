@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120009502611",
+  "title": "Batman: Shadow of the Bat #26",
+  "authors": [
+    "Adrienne Roy",
+    "Alan Grant",
+    "Bob Smith",
+    "Bret Blevins",
+    "Brian Stelfreeze",
+    "Dennis O'Neil",
+    "Todd Klein"
+  ],
+  "publish_date": "1994-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30325/",
+  "fetched_at": "2026-05-06T02:52:27.997Z",
+  "reviewed_at": "1994-04-01"
+}

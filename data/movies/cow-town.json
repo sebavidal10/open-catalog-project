@@ -1,0 +1,27 @@
+{
+  "title": "Cow Town",
+  "year": "1950",
+  "rated": "Passed",
+  "released": "19 May 1950",
+  "runtime": "70 min",
+  "genre": "Western",
+  "director": "John English",
+  "writer": "Gerald Geraghty",
+  "actors": "Gene Autry, Champion, Gail Davis",
+  "plot": "Gene responds to cattle rustling by stringing barbed wire all around his range.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDQ1Y2E4NzQtMzM2OS00NjRmLWIxZTQtMTAxYjJlNTVmNTQ4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0042349",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:33:43.191Z"
+}

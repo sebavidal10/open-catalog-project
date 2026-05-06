@@ -1,0 +1,31 @@
+{
+  "title": "Three Came Home",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "20 Feb 1950",
+  "runtime": "106 min",
+  "genre": "Drama, War",
+  "director": "Jean Negulesco",
+  "writer": "Nunnally Johnson, Agnes Newton Keith",
+  "actors": "Claudette Colbert, Patric Knowles, Florence Desmond",
+  "plot": "During Word War II, American author Agnes Newton Keith is imprisoned by the Japanese in various POW camps in North Borneo and Sarawak.",
+  "language": "English, Japanese",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWEwZjRmNTYtZjg2Yy00N2NhLWIwNDMtNTVmZTU5M2YxZTY3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0043041",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:25:18.072Z"
+}

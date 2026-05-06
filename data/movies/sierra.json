@@ -1,0 +1,27 @@
+{
+  "title": "Sierra",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "01 Jun 1950",
+  "runtime": "83 min",
+  "genre": "Western",
+  "director": "Alfred E. Green",
+  "writer": "Stuart Hardy, Edna Anhalt, Milton Gunzburg",
+  "actors": "Audie Murphy, Wanda Hendrix, Burl Ives",
+  "plot": "A tomboy frontier lawyer finds an outlaw and his son hiding out from a false murder charge.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2Y3OTM0ZDItNjlkNS00NzFjLThlM2EtM2QxZmQ3ZTNjYWQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0042963",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:25:48.529Z"
+}

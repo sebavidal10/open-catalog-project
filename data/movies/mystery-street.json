@@ -1,0 +1,27 @@
+{
+  "title": "Mystery Street",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "11 Aug 1950",
+  "runtime": "93 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "John Sturges",
+  "writer": "Sydney Boehm, Richard Brooks, Leonard Spigelgass",
+  "actors": "Ricardo Montalban, Sally Forrest, Bruce Bennett",
+  "plot": "A small-town policeman is assisted by a Harvard professor after the discovery of a human skeleton on a Massachusetts beach.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDBiNTI0ZjItNTMzNi00MTlmLWI5MzMtNWYxNzBkMmEyODQ3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0042771",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:24:25.363Z"
+}

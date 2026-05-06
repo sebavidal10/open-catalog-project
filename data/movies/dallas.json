@@ -1,0 +1,27 @@
+{
+  "title": "Dallas",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "30 Dec 1950",
+  "runtime": "94 min",
+  "genre": "Western",
+  "director": "Stuart Heisler",
+  "writer": "John Twist",
+  "actors": "Gary Cooper, Ruth Roman, Steve Cochran",
+  "plot": "A former Confederate officer hunting for an outlaw who wronged him finds him in Dallas, but now as a wealthy, respectable citizen.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTJkZDJiOGYtZTJhYy00YzI5LWFlNTgtNTQyYjdkMGIwYzM4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0042372",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:25:22.739Z"
+}

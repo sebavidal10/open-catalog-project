@@ -1,0 +1,27 @@
+{
+  "title": "Tea for Two",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "02 Sep 1950",
+  "runtime": "98 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "David Butler",
+  "writer": "Harry Clork, Frank Mandel, Otto A. Harbach",
+  "actors": "Doris Day, Gordon MacRae, Gene Nelson",
+  "plot": "A socialite with aspirations of a career in show business bets her wealthy uncle $25,000 that she can say \"no\" to everything for two days straight, hoping winning will help her fulfill her dreams.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTE3YmE3NDUtZDk4OS00MDFjLTkyOTMtZWQzNzY4NTVkMjMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0043030",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:24:56.945Z"
+}

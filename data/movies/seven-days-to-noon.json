@@ -1,0 +1,31 @@
+{
+  "title": "Seven Days to Noon",
+  "year": "1950",
+  "rated": "Not Rated",
+  "released": "18 Dec 1950",
+  "runtime": "94 min",
+  "genre": "Drama, Thriller",
+  "director": "John Boulting, Roy Boulting",
+  "writer": "Frank Harvey, Roy Boulting, Paul Dehn",
+  "actors": "Barry Jones, André Morell, Olive Sloane",
+  "plot": "When a scientist threatens to detonate a powerful bomb in the heart of London, Scotland Yard has just seven days to find him before it is too late.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Won 1 Oscar. 1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDI2NWYyZjgtNGVkNS00NzAxLTkwMjQtNDBkNDUwOTI1ZDM1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0042949",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:25:50.887Z"
+}

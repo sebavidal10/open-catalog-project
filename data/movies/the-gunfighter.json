@@ -1,0 +1,35 @@
+{
+  "title": "The Gunfighter",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "21 Aug 1950",
+  "runtime": "85 min",
+  "genre": "Western",
+  "director": "Henry King",
+  "writer": "William Bowers, William Sellers, André De Toth",
+  "actors": "Gregory Peck, Helen Westcott, Millard Mitchell",
+  "plot": "Notorious gunfighter Jimmy Ringo rides into town to find his true love, who doesn't want to see him. He hasn't come looking for trouble, but trouble finds him around every corner.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDRmMGI1YmQtNzBlMS00YTlkLWFlZjAtMTA0ODQwNGEyMDg1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "7.7",
+  "imdbID": "tt0042531",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:23:14.374Z"
+}

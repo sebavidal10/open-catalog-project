@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120006401511",
+  "title": "The Batman Adventures #15",
+  "authors": [
+    "Darren Vincenzo",
+    "Kelley Puckett",
+    "Mike Parobeck",
+    "Rick Burchett",
+    "Rick Taylor",
+    "Tim Harkins"
+  ],
+  "publish_date": "1993-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/b384f5700ee7487a83003157e5ce50a6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118053/",
+  "fetched_at": "2026-05-06T02:50:41.607Z",
+  "reviewed_at": "1993-12-01"
+}

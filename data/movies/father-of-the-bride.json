@@ -1,0 +1,35 @@
+{
+  "title": "Father of the Bride",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "16 Jun 1950",
+  "runtime": "92 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Vincente Minnelli",
+  "writer": "Frances Goodrich, Albert Hackett, Edward Streeter",
+  "actors": "Spencer Tracy, Joan Bennett, Elizabeth Taylor",
+  "plot": "The father of a young woman deals with the emotional pain of her getting married, along with the financial and organizational trouble of arranging the wedding.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 1 win & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGY2YWY0MzItYjZiMS00MjkzLWFhYjItMWJhZDg4N2I2YWE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.1",
+  "imdbID": "tt0042451",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:23:17.890Z"
+}

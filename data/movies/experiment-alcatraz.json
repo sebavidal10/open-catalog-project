@@ -1,0 +1,27 @@
+{
+  "title": "Experiment Alcatraz",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "21 Nov 1950",
+  "runtime": "57 min",
+  "genre": "Crime, Mystery",
+  "director": "Edward L. Cahn",
+  "writer": "George W. George, Orville H. Hampton, George F. Slavin",
+  "actors": "John Howard, Joan Dixon, Walter Kingsford",
+  "plot": "A doctor tests his theory that blood diseases can be cured by atomic radiation by using prison inmates as experiments.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmY3ZmYwMGUtOTBiZi00YWRkLTkwMjYtMzE0MGJjYWIwNjQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0042442",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:29:50.456Z"
+}

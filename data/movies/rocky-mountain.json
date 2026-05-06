@@ -1,0 +1,27 @@
+{
+  "title": "Rocky Mountain",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "11 Nov 1950",
+  "runtime": "83 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "William Keighley",
+  "writer": "Winston Miller, Alan Le May",
+  "actors": "Errol Flynn, Patrice Wymore, Scott Forbes",
+  "plot": "In California during the Civil War, a Confederate patrol and a Union troop must set their differences aside in order to survive a Shoshone attack.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODNhZGI5YzgtN2NjNC00YWRmLWFmNWUtZWU5NDE2ZDBkZTI5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0042899",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:25:45.025Z"
+}

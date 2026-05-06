@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120009502111",
+  "title": "Batman: Shadow of the Bat #21",
+  "authors": [
+    "Adrienne Roy",
+    "Alan Grant",
+    "Bret Blevins",
+    "Brian Stelfreeze",
+    "Dennis O'Neil",
+    "Todd Klein"
+  ],
+  "publish_date": "1993-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30320/",
+  "fetched_at": "2026-05-06T02:50:29.156Z",
+  "reviewed_at": "1993-11-01"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "California Passage",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "15 Dec 1950",
+  "runtime": "90 min",
+  "genre": "Western",
+  "director": "Joseph Kane",
+  "writer": "James Edward Grant",
+  "actors": "Forrest Tucker, Adele Mara, Estelita Rodriguez",
+  "plot": "A series of reversals bring two desperate people together. When a saloon owner is framed by his partner for a stagecoach robbery, he fights to secure an acquittal.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzNmNDEwZDktMGFmOS00MWEzLThjOGYtNmY5YjQwOTZiNTYzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0042299",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:28:21.414Z"
+}

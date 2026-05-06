@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005750711",
+  "title": "Batman #507",
+  "authors": [
+    "Adrienne Roy",
+    "Dennis O'Neil",
+    "Doug Moench",
+    "Frank McLaughlin",
+    "Jim Balent",
+    "Jordan B. Gorfinkel",
+    "Kelley Jones",
+    "Willie Schubert"
+  ],
+  "publish_date": "1994-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/17/batman-507.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34600/",
+  "fetched_at": "2026-05-06T02:52:36.393Z",
+  "reviewed_at": "1994-05-01"
+}

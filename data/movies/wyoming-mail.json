@@ -1,0 +1,31 @@
+{
+  "title": "Wyoming Mail",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "18 Oct 1950",
+  "runtime": "87 min",
+  "genre": "Western",
+  "director": "Reginald Le Borg",
+  "writer": "Harry Essex, Leonard Lee, Robert Hardy Andrews",
+  "actors": "Stephen McNally, Alexis Smith, Howard Da Silva",
+  "plot": "In 1869, when the railroad mail service is threatened by frequent bandit attacks, the government hires Steve Davis to infiltrate a gang in order to destroy it from inside.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTlmZWIwMmYtMTliZi00OWExLThlNzgtMTM3NDJkZTUyNDRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0043149",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:26:34.306Z"
+}

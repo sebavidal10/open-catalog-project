@@ -1,0 +1,27 @@
+{
+  "title": "The Magnet",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "26 Feb 1951",
+  "runtime": "79 min",
+  "genre": "Comedy",
+  "director": "Charles Frend",
+  "writer": "T.E.B. Clarke",
+  "actors": "Stephen Murray, Kay Walsh, James Fox",
+  "plot": "A boy steals a powerful magnet from a younger boy and gets him into all sorts of trouble.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIzNDY1NTg1N15BMl5BanBnXkFtZTcwMjUzMzYyMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0043772",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:28:04.982Z"
+}

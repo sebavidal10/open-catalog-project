@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005750311",
+  "title": "Batman #503",
+  "authors": [
+    "Adrienne Roy",
+    "Dennis O'Neil",
+    "Doug Moench",
+    "Jordan B. Gorfinkel",
+    "Kelley Jones",
+    "Ken Bruzenak",
+    "Mike Manley"
+  ],
+  "publish_date": "1994-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/17/batman-503.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34596/",
+  "fetched_at": "2026-05-06T02:51:03.308Z",
+  "reviewed_at": "1994-01-01"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Cheaper by the Dozen",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "05 Apr 1950",
+  "runtime": "86 min",
+  "genre": "Comedy, Drama, Family",
+  "director": "Walter Lang",
+  "writer": "Lamar Trotti, Frank B. Gilbreth Jr., Ernestine Gilbreth Carey",
+  "actors": "Clifton Webb, Myrna Loy, Jeanne Crain",
+  "plot": "Follows the wife of the persnickety father of her 12 children, who has uniquely humorous methods for dealing with the ordeals such an unwieldy family undoubtedly encounters.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjNiODVjYmUtZmJjNy00NTQ4LWFlYTItMDZiOTg5ZjdhZTJjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "25%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0042327",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:23:27.231Z"
+}

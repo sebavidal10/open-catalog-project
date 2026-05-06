@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005751111",
+  "title": "Batman #511",
+  "authors": [
+    "Adrienne Roy",
+    "Dennis O'Neil",
+    "Doug Moench",
+    "Joe Rubinstein",
+    "Jordan B. Gorfinkel",
+    "Ken Bruzenak",
+    "Mike Manley"
+  ],
+  "publish_date": "1994-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/17/batman-511.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34604/",
+  "fetched_at": "2026-05-06T02:54:11.306Z",
+  "reviewed_at": "1994-09-01"
+}

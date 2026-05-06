@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005750811",
+  "title": "Batman #508",
+  "authors": [
+    "Adrienne Roy",
+    "Dennis O'Neil",
+    "Doug Moench",
+    "Joe Rubinstein",
+    "Jordan B. Gorfinkel",
+    "Kelley Jones",
+    "Ken Bruzenak",
+    "Mike Manley"
+  ],
+  "publish_date": "1994-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/17/batman-508.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34601/",
+  "fetched_at": "2026-05-06T02:53:01.004Z",
+  "reviewed_at": "1994-06-01"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Last Holiday",
+  "year": "1950",
+  "rated": "Not Rated",
+  "released": "13 Nov 1950",
+  "runtime": "88 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Henry Cass",
+  "writer": "J.B. Priestley, J. Lee Thompson",
+  "actors": "Alec Guinness, Beatrice Campbell, Kay Walsh",
+  "plot": "When a lonely, unappreciated farm-equipment salesman discovers he has only a few weeks to live, he withdraws his savings for a final holiday at a \"posh\" resort.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmM2NDE5YWEtNWQ5YS00YzBmLWFmZWQtY2IxYWEyYTU4Y2U2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0042665",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:24:51.083Z"
+}

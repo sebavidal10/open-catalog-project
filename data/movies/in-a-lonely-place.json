@@ -1,0 +1,31 @@
+{
+  "title": "In a Lonely Place",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "01 Aug 1950",
+  "runtime": "94 min",
+  "genre": "Drama, Film-Noir, Mystery",
+  "director": "Nicholas Ray",
+  "writer": "Andrew Solt, Edmund H. North, Dorothy B. Hughes",
+  "actors": "Humphrey Bogart, Gloria Grahame, Frank Lovejoy",
+  "plot": "A potentially violent screenwriter is a murder suspect until his lovely neighbor clears him. However, she soon starts to have her doubts.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGEyNGMyYmYtMzExZi00ZDQzLTg2NjctY2FmMDgyY2I5YjI1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.9",
+  "imdbID": "tt0042593",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:23:09.690Z"
+}

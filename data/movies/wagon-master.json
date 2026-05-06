@@ -1,0 +1,31 @@
+{
+  "title": "Wagon Master",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "22 Apr 1950",
+  "runtime": "86 min",
+  "genre": "Drama, Western",
+  "director": "John Ford",
+  "writer": "Frank S. Nugent, Patrick Ford, John Ford",
+  "actors": "Ben Johnson, Joanne Dru, Harry Carey Jr.",
+  "plot": "Two young drifters guide a Mormon wagon train to the San Juan Valley and encounter cutthroats, Indians, geography, and moral challenges on the journey.",
+  "language": "English, Navajo, Spanish",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGNkYjU2NWEtZWI2YS00YTU1LWExMzAtYzBhZjcwNDM3NmU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0043117",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:23:52.550Z"
+}

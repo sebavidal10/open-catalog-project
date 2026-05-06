@@ -1,0 +1,35 @@
+{
+  "title": "Harvey",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "21 Dec 1950",
+  "runtime": "104 min",
+  "genre": "Comedy, Drama, Fantasy",
+  "director": "Henry Koster",
+  "writer": "Mary Chase, Oscar Brodney, Myles Connolly",
+  "actors": "James Stewart, Wallace Ford, William H. Lynn",
+  "plot": "A whimsical man is thought to be insane due to his insistence that he is best friends with an invisible, humanoid rabbit, but he may be wiser than anyone knows.",
+  "language": "English, Spanish, Latin",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 5 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTNlNWRhZmEtYzgyOC00YTIxLTk1MjktMWQ1MjhlMmE0ZjljXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.9",
+  "imdbID": "tt0042546",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:23:06.171Z"
+}

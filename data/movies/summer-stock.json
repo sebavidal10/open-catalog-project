@@ -1,0 +1,31 @@
+{
+  "title": "Summer Stock",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "05 Jan 1951",
+  "runtime": "108 min",
+  "genre": "Musical, Romance",
+  "director": "Charles Walters",
+  "writer": "George Wells, Sy Gomberg",
+  "actors": "Judy Garland, Gene Kelly, Eddie Bracken",
+  "plot": "A small-town farmer, down on her luck, finds her homestead invaded by a theatrical troupe invited to stay by her ne'er-do-well sister.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAwOTg3MTM3MF5BMl5BanBnXkFtZTgwNzk1NDgyMTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0043012",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:24:06.642Z"
+}

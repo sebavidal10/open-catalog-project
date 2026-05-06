@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120009502011",
+  "title": "Batman: Shadow of the Bat #20",
+  "authors": [
+    "Adrienne Roy",
+    "Alan Grant",
+    "Brian Stelfreeze",
+    "Dennis O'Neil",
+    "Todd Klein",
+    "Vince Giarrano"
+  ],
+  "publish_date": "1993-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30319/",
+  "fetched_at": "2026-05-06T02:50:24.863Z",
+  "reviewed_at": "1993-11-01"
+}

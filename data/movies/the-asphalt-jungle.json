@@ -1,0 +1,35 @@
+{
+  "title": "The Asphalt Jungle",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "12 May 1950",
+  "runtime": "112 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "John Huston",
+  "writer": "Ben Maddow, John Huston, W.R. Burnett",
+  "actors": "Sterling Hayden, Louis Calhern, Jean Hagen",
+  "plot": "A major heist goes off as planned, but then double crosses, bad luck and solid police work cause everything to unravel.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 5 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWE2Y2E0ZTMtYzZmNi00MzZiLTg0ZTctMGY2YWJkMzE3NDEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "7.8",
+  "imdbID": "tt0042208",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:23:04.990Z"
+}

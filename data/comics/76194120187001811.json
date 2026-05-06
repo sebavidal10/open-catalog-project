@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120187001811",
+  "title": "Batman Annual #18",
+  "authors": [
+    "Dennis O'Neil",
+    "Doug Moench",
+    "Frederico Cueva",
+    "Jordan B. Gorfinkel",
+    "Mike Mignola",
+    "Phil Allen",
+    "Steve Haynie"
+  ],
+  "publish_date": "1994-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-annual-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34826/",
+  "fetched_at": "2026-05-06T02:51:11.297Z",
+  "reviewed_at": "1994-01-01"
+}

@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194120006402211",
+  "title": "The Batman Adventures #22",
+  "authors": [
+    "Kelley Puckett",
+    "Mike Parobeck",
+    "Richard Starkings",
+    "Rick Burchett",
+    "Rick Taylor"
+  ],
+  "publish_date": "1994-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/869cb1f12bf04a85b4223298f0378956.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118060/",
+  "fetched_at": "2026-05-06T02:53:25.687Z",
+  "reviewed_at": "1994-07-01"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Stage Fright",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "15 Apr 1950",
+  "runtime": "111 min",
+  "genre": "Film-Noir, Mystery, Thriller",
+  "director": "Alfred Hitchcock",
+  "writer": "Whitfield Cook, Alma Reville, Selwyn Jepson",
+  "actors": "Marlene Dietrich, Jane Wyman, Richard Todd",
+  "plot": "A struggling actress tries to help a friend prove his innocence after he's accused of murdering the husband of a high-society entertainer.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "5 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjU0MDU5YzYtZTdiOS00ZTY4LThlN2EtOGU1ZDgxYTRmNjYyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.0",
+  "imdbID": "tt0042994",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:23:02.641Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Destination Moon",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "01 Aug 1950",
+  "runtime": "92 min",
+  "genre": "Adventure, Drama, Sci-Fi",
+  "director": "Irving Pichel",
+  "writer": "Alford Van Ronkel, Robert A. Heinlein, James O'Hanlon",
+  "actors": "John Archer, Warner Anderson, Tom Powers",
+  "plot": "\"Destination Moon\", tells the tale of when Doctor Charles Cargraves and retired General Thayer approach Jim Barnes, the head of his own aviation construction firms to help build a rocket that will take them to the moon.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 3 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzhkMTNiZDktYjQwYS00YjRhLTkxNTktODA2NmNiYjMwNTAxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0042393",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:23:35.440Z"
+}

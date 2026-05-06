@@ -1,0 +1,27 @@
+{
+  "title": "Appointment with Danger",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "25 May 1951",
+  "runtime": "90 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Lewis Allen",
+  "writer": "Richard L. Breen, Warren Duff",
+  "actors": "Alan Ladd, Phyllis Calvert, Paul Stewart",
+  "plot": "When ruthlessly dedicated postal inspector investigates the murder of a co-worker, he finds that the sole witness, a nun, has been targeted by the killers.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGMxNzRmMjUtMmFiZC00ZTIyLTg3NTktNTFhMTBiZjM4MzFmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0043292",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:26:00.274Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Julius Caesar",
+  "year": "1950",
+  "rated": "Not Rated",
+  "released": "13 Nov 1953",
+  "runtime": "106 min",
+  "genre": "Drama, History",
+  "director": "David Bradley",
+  "writer": "David Bradley, William Shakespeare",
+  "actors": "Charlton Heston, Grosvenor Glenn, Harold Tasker",
+  "plot": "The growing ambition of Julius Caesar is a source of major concern to his close friend Brutus. Cassius persuades him to participate in his plot to assassinate Caesar but they have both sorely underestimated Mark Antony.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg3ODY1NjkyOV5BMl5BanBnXkFtZTcwMjA1MjMzMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0042622",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:26:08.480Z"
+}

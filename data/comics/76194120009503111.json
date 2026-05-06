@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120009503111",
+  "title": "Batman: Shadow of the Bat #31",
+  "authors": [
+    "Adrienne Roy",
+    "Alan Grant",
+    "Bret Blevins",
+    "Brian Stelfreeze",
+    "Dennis O'Neil",
+    "Jordan B. Gorfinkel",
+    "Todd Klein"
+  ],
+  "publish_date": "1994-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-31.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30330/",
+  "fetched_at": "2026-05-06T02:54:23.378Z",
+  "reviewed_at": "1994-09-01"
+}

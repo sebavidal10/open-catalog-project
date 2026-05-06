@@ -1,0 +1,31 @@
+{
+  "title": "The Flowers of St. Francis",
+  "year": "1950",
+  "rated": "Not Rated",
+  "released": "06 Oct 1952",
+  "runtime": "85 min",
+  "genre": "Biography, Comedy, Drama",
+  "director": "Roberto Rossellini",
+  "writer": "Roberto Rossellini, Federico Fellini, Félix Morlión",
+  "actors": "Aldo Fabrizi, Gianfranco Bellini, Peparuolo",
+  "plot": "A series of vignettes depicting the lives of the original Franciscan monks, including their leader and the bumbling Ginepro.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjE0YjI2YjYtMjdlMC00NDEzLWE1YTctYWFlZDg5OTRlYTc2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0042477",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:25:26.262Z"
+}

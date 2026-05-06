@@ -1,0 +1,31 @@
+{
+  "title": "Kim",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "26 Jan 1951",
+  "runtime": "113 min",
+  "genre": "Adventure, Drama, Family",
+  "director": "Victor Saville",
+  "writer": "Rudyard Kipling, Leon Gordon, Helen Deutsch",
+  "actors": "Errol Flynn, Dean Stockwell, Paul Lukas",
+  "plot": "During the British Raj, the orphan of a British soldier poses as a Hindu and is torn between his loyalty to a Buddhist mystic and aiding the English secret service.",
+  "language": "English, Russian",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjNlMjE3ZWMtYzNmMC00MGYwLTg4ODYtYTAyYzc3ODUzZjM1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0042644",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:24:49.923Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Annie Get Your Gun",
+  "year": "1950",
+  "rated": "Approved",
+  "released": "17 May 1950",
+  "runtime": "107 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "George Sidney, Busby Berkeley",
+  "writer": "Sidney Sheldon, Herbert Fields, Dorothy Fields",
+  "actors": "Betty Hutton, Howard Keel, Louis Calhern",
+  "plot": "The story of the great sharpshooter Annie Oakley, who rose to fame while dealing with her love/professional rival, Frank Butler.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 9 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjAwZTQ0MzItMjFlMC00NTAxLTgzZWMtNjI0YmJlYjhjNTcxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "6.8",
+  "imdbID": "tt0042200",
+  "type": "movie",
+  "fetched_at": "2026-05-06T02:23:42.016Z"
+}
