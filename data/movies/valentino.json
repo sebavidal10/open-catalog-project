@@ -1,0 +1,27 @@
+{
+  "title": "Valentino",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "10 Mar 1951",
+  "runtime": "102 min",
+  "genre": "Adventure, Biography, Drama",
+  "director": "Lewis Allen",
+  "writer": "George Bruce",
+  "actors": "Eleanor Parker, Richard Carlson, Patricia Medina",
+  "plot": "Italian immigrant Rudolph Valentino makes it big in silent Hollywood, but he ends up struggling between his career and the woman he loves.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWYwNGYwZTEtMzg5MC00MTZkLTk1YTAtZjZkOTVhMzczNWFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0044177",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:24:42.453Z"
+}

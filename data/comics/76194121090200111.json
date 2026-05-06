@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121090200111",
+  "title": "Batman: Bane of the Demon #1",
+  "authors": [
+    "Bill Oakley",
+    "Bill Sienkiewicz",
+    "Chuck Dixon",
+    "Darren Vincenzo",
+    "Graham Nolan",
+    "Noelle Giddings",
+    "Scott Peterson",
+    "Tom Palmer"
+  ],
+  "publish_date": "1998-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/09/09/9e0213cf036c4fe3b2b532a5a13ab740.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/75127/",
+  "fetched_at": "2026-05-06T22:37:41.375Z",
+  "reviewed_at": "1998-03-01"
+}

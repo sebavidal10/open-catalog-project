@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76156894801100211",
+  "title": "Batman / Grendel #2",
+  "authors": [
+    "Dennis O'Neil",
+    "Diana Schutz",
+    "Gregory Wright",
+    "Matt Wagner",
+    "Sean Konot"
+  ],
+  "publish_date": "1996-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/11/d74ccc8daecc4522a81164dbb8f6b710.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145939/",
+  "fetched_at": "2026-05-06T22:28:36.438Z",
+  "reviewed_at": "1996-07-01"
+}

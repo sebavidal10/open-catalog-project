@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194121271500211",
+  "title": "Batman / Hellboy / Starman #2",
+  "authors": [
+    "Dan Raspler",
+    "James Robinson",
+    "Matt Hollingsworth",
+    "Mike Carlin",
+    "Mike Mignola",
+    "Mike Richardson",
+    "Paul Levitz",
+    "Peter J. Tomasi",
+    "Willie Schubert"
+  ],
+  "publish_date": "1999-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/12/bhs-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15073/",
+  "fetched_at": "2026-05-06T22:45:52.647Z",
+  "reviewed_at": "1999-02-01"
+}

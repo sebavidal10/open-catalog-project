@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "76194120466600411",
+  "title": "The Batman Chronicles #4",
+  "authors": [
+    "Christopher Priest",
+    "Chuck Dixon",
+    "Darren Vincenzo",
+    "Frank Fosco",
+    "Garth Ennis",
+    "Gloria Vasquez",
+    "Ian Laughlin",
+    "James Sinclair",
+    "Jim Balent",
+    "John Costanza",
+    "John McCrea",
+    "Jordan B. Gorfinkel",
+    "Kelley Jones",
+    "Ken Lopez",
+    "Matt Haley",
+    "Mike Sellers",
+    "Scott Hanna",
+    "Stan Woch"
+  ],
+  "publish_date": "1996-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/20/the-batman-chronicles-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25684/",
+  "fetched_at": "2026-05-06T22:27:39.347Z",
+  "reviewed_at": "1996-04-01"
+}

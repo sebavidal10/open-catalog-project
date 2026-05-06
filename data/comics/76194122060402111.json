@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194122060402111",
+  "title": "Batman Beyond #21",
+  "authors": [
+    "Bob Schreck",
+    "Brian Stelfreeze",
+    "Dan Davis",
+    "Digital Chameleon",
+    "Hilary J. Bader",
+    "John Costanza",
+    "Michael Wright",
+    "Rick Burchett",
+    "Shannon Blanchard"
+  ],
+  "publish_date": "2001-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/d34fa9963dfe40a79ca54e9010a440a5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118104/",
+  "fetched_at": "2026-05-06T23:02:35.707Z",
+  "reviewed_at": "2001-07-01"
+}

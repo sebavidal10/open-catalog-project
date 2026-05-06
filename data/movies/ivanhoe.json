@@ -1,0 +1,35 @@
+{
+  "title": "Ivanhoe",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "20 Feb 1953",
+  "runtime": "106 min",
+  "genre": "Adventure, Drama, Romance",
+  "director": "Richard Thorpe",
+  "writer": "Noel Langley, Æneas MacKenzie, Marguerite Roberts",
+  "actors": "Robert Taylor, Elizabeth Taylor, Joan Fontaine",
+  "plot": "A knight seeks to free the captive King Richard and put him back on the throne.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 3 Oscars. 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDhlNDZhMzctMmM4OC00Y2Q2LWEyMjktYjAxZmI3NzBhYWRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "6.7",
+  "imdbID": "tt0044760",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:31:44.039Z"
+}

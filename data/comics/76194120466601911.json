@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194120466601911",
+  "title": "The Batman Chronicles #19",
+  "authors": [
+    "Darren Vincenzo",
+    "Dave Stewart",
+    "Eric Battle",
+    "Graham Nolan",
+    "Javier Pulido",
+    "Joe Harris",
+    "John Costanza",
+    "Joseph Illidge",
+    "Ken Lopez",
+    "Noelle Giddings",
+    "Patrick Martin",
+    "Rob Hunter",
+    "Steve Englehart",
+    "Willie Schubert"
+  ],
+  "publish_date": "1999-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/20/the-batman-chronicles-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25699/",
+  "fetched_at": "2026-05-06T22:50:01.892Z",
+  "reviewed_at": "1999-11-01"
+}

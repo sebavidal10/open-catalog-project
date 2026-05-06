@@ -1,0 +1,27 @@
+{
+  "title": "Hotel Sahara",
+  "year": "1951",
+  "rated": "Not Rated",
+  "released": "31 Dec 1951",
+  "runtime": "96 min",
+  "genre": "Comedy, Romance, War",
+  "director": "Ken Annakin",
+  "writer": "Patrick Kirwan, George H. Brown",
+  "actors": "Yvonne De Carlo, Peter Ustinov, David Tomlinson",
+  "plot": "In World War II, desert hotel proprietors Emad and Yasmin are caught between the warring armies and have to constantly shift their political allegiance to whichever army happens to control the area.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2JiODMyYTctZWU3NS00YjY3LThmZGItODM5MDc1MDNhZTUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0043658",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:24:31.876Z"
+}

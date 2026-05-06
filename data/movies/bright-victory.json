@@ -1,0 +1,31 @@
+{
+  "title": "Bright Victory",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "01 Aug 1951",
+  "runtime": "97 min",
+  "genre": "Drama, Romance, War",
+  "director": "Mark Robson",
+  "writer": "Robert Buckner, Baynard Kendrick",
+  "actors": "Arthur Kennedy, Peggy Dow, Julie Adams",
+  "plot": "After he gets blinded by a German sniper's bullet in 1943, Sergeant Larry Nevins begins the long and painful road to recovery.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 3 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTM1ZDg1N2UtMWEwNy00ZjFiLWJiZjQtMTAxMjM0ZTgyYWIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0043361",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:21:40.924Z"
+}

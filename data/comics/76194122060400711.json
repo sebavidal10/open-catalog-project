@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194122060400711",
+  "title": "Batman Beyond #7",
+  "authors": [
+    "Bob Smith",
+    "Frank Berrios",
+    "Hilary J. Bader",
+    "Joseph Illidge",
+    "Lee Loughridge",
+    "Min S. Ku",
+    "Sean Parsons",
+    "Terry Beatty",
+    "Tim Harkins"
+  ],
+  "publish_date": "2000-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/2988f7d6427047f781340760ead39ce1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118090/",
+  "fetched_at": "2026-05-06T22:53:56.591Z",
+  "reviewed_at": "2000-05-01"
+}

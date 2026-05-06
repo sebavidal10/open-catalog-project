@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005758411",
+  "title": "Batman #584",
+  "authors": [
+    "Bob Schreck",
+    "Ed Brubaker",
+    "Frank Berrios",
+    "John Costanza",
+    "Karl Story",
+    "Roberta Tewes",
+    "Scott McDaniel",
+    "Wildstorm FX"
+  ],
+  "publish_date": "2000-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-584.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34678/",
+  "fetched_at": "2026-05-06T22:58:45.102Z",
+  "reviewed_at": "2000-12-01"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Red Badge of Courage",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "11 Oct 1951",
+  "runtime": "69 min",
+  "genre": "Drama, War",
+  "director": "John Huston",
+  "writer": "Stephen Crane, John Huston, Albert Band",
+  "actors": "Audie Murphy, Bill Mauldin, Douglas Dick",
+  "plot": "Truncated adaptation of Stephen Crane's novel about a Civil War Union soldier who stuggles to find the courage to fight in the heat of battle.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 BAFTA Award1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjM3OGJlYjMtMjNkNi00ZmU1LTg4NTEtMjk2OWVkNTgwYmMyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0043961",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:20:54.056Z"
+}

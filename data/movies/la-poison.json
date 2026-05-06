@@ -1,0 +1,31 @@
+{
+  "title": "La Poison",
+  "year": "1951",
+  "rated": "Not Rated",
+  "released": "30 Nov 1951",
+  "runtime": "85 min",
+  "genre": "Comedy, Crime",
+  "director": "Sacha Guitry",
+  "writer": "Sacha Guitry",
+  "actors": "Michel Simon, Jean Debucourt, Jacques Varennes",
+  "plot": "Through a series of circumstances and plot twists an enterprising man manages to get away with murdering his wife, even though he cheerfully admits his guilt in court.",
+  "language": "French",
+  "country": "France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDJlMjk0YjEtZTM2OC00ZGZlLWE1OTQtMWVmNzYxNGQ5YTdlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0043927",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:25:20.052Z"
+}

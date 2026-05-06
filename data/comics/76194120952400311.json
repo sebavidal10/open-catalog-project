@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194120952400311",
+  "title": "Batman / Wildcat #3",
+  "authors": [
+    "Art Thibert",
+    "Beau Smith",
+    "Chuck Dixon",
+    "Danny Miki",
+    "Eddie Berganza",
+    "Jaime Mendoza",
+    "Jason Wright",
+    "Kevin Cunningham",
+    "Patrick Martin",
+    "Sergio Cariello"
+  ],
+  "publish_date": "1997-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/12/188ef3fdc0df47c4b8f9f9a09b67bfed.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145995/",
+  "fetched_at": "2026-05-06T22:33:50.028Z",
+  "reviewed_at": "1997-06-01"
+}

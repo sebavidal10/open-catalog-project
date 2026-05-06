@@ -1,0 +1,35 @@
+{
+  "title": "The African Queen",
+  "year": "1951",
+  "rated": "PG",
+  "released": "21 Mar 1952",
+  "runtime": "105 min",
+  "genre": "Adventure, Drama, Romance",
+  "director": "John Huston",
+  "writer": "C.S. Forester, James Agee, John Huston",
+  "actors": "Humphrey Bogart, Katharine Hepburn, Robert Morley",
+  "plot": "In WWI East Africa, a gin-swilling Canadian riverboat captain is persuaded by a strait-laced English missionary to undertake a trip up a treacherous river and use his boat to attack a German gunship.",
+  "language": "English, German, Swahili",
+  "country": "United Kingdom, United States",
+  "awards": "Won 1 Oscar. 7 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2Y0OWQ4Y2QtNGE5NC00MDk4LWFlYmQtYWVmNzZlZWVhMTg4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "metascore": "91",
+  "imdbRating": "7.7",
+  "imdbID": "tt0043265",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:19:48.609Z"
+}

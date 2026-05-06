@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120005757811",
+  "title": "Batman #578",
+  "authors": [
+    "Bob Schreck",
+    "Hector Collazo",
+    "John Costanza",
+    "Joseph Illidge",
+    "Karl Story",
+    "Larry Hama",
+    "Roberta Tewes",
+    "Scott McDaniel",
+    "Wildstorm FX"
+  ],
+  "publish_date": "2000-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-578.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34672/",
+  "fetched_at": "2026-05-06T22:54:26.704Z",
+  "reviewed_at": "2000-06-01"
+}

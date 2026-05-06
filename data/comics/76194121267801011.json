@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121267801011",
+  "title": "Batman: Gotham Adventures #10",
+  "authors": [
+    "Bruce Timm",
+    "Darren Vincenzo",
+    "Lee Loughridge",
+    "Rick Burchett",
+    "Shane Glines",
+    "Tim Harkins",
+    "Ty Templeton",
+    "Zylonol Studios"
+  ],
+  "publish_date": "1999-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/2fd08354783b44c28e7829f2f3b09fdf.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160355/",
+  "fetched_at": "2026-05-06T22:46:16.713Z",
+  "reviewed_at": "1999-03-01"
+}

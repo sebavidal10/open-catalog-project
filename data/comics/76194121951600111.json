@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194121951600111",
+  "title": "Realworlds: Batman #1",
+  "authors": [
+    "Andrew Helfer",
+    "Bob Lappan",
+    "Christopher Golden",
+    "Dave Stewart",
+    "John Cebollero",
+    "Marshall Rogers",
+    "Tom Sniegoski"
+  ],
+  "publish_date": "2000-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/04/086093c2b5a54bfbbd897c3a53fc9052.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/155963/",
+  "fetched_at": "2026-05-06T22:51:48.977Z",
+  "reviewed_at": "2000-01-01"
+}

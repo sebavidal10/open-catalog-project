@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005756511",
+  "title": "Batman #565",
+  "authors": [
+    "Darren Vincenzo",
+    "Dennis O'Neil",
+    "Frank Teran",
+    "Gloria Vasquez",
+    "Greg Rucka",
+    "John Costanza",
+    "Joseph Illidge",
+    "Wildstorm FX"
+  ],
+  "publish_date": "1999-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-565.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34659/",
+  "fetched_at": "2026-05-06T22:47:02.097Z",
+  "reviewed_at": "1999-05-01"
+}

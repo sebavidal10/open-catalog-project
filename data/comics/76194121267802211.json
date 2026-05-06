@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121267802211",
+  "title": "Batman: Gotham Adventures #22",
+  "authors": [
+    "Bob Smith",
+    "Darren Vincenzo",
+    "Frank Berrios",
+    "Lee Loughridge",
+    "Scott Peterson",
+    "Terry Beatty",
+    "Tim Harkins",
+    "Tim Levins"
+  ],
+  "publish_date": "2000-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/ada25800e69c43cc96f1067c9cea4b95.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160366/",
+  "fetched_at": "2026-05-06T22:52:46.759Z",
+  "reviewed_at": "2000-03-01"
+}

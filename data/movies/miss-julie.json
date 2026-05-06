@@ -1,0 +1,27 @@
+{
+  "title": "Miss Julie",
+  "year": "1951",
+  "rated": "Not Rated",
+  "released": "30 Jul 1951",
+  "runtime": "90 min",
+  "genre": "Drama, Romance",
+  "director": "Alf Sjöberg",
+  "writer": "Alf Sjöberg, August Strindberg",
+  "actors": "Anita Björk, Ulf Palme, Märta Dorff",
+  "plot": "An heiress begins to realize her attraction to one of her family's servants.",
+  "language": "Swedish, French",
+  "country": "Sweden",
+  "awards": "Nominated for 1 BAFTA Award1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDU2NDI3Nl5BMl5BanBnXkFtZTgwNjYyMjY4NDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0043567",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:22:18.437Z"
+}

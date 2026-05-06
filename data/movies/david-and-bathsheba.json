@@ -1,0 +1,31 @@
+{
+  "title": "David and Bathsheba",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "10 Aug 1951",
+  "runtime": "116 min",
+  "genre": "Drama, Family, History",
+  "director": "Henry King",
+  "writer": "Philip Dunne",
+  "actors": "Gregory Peck, Susan Hayward, Raymond Massey",
+  "plot": "After King David sees the beautiful Bathsheba bathing from the palace roof, he enters into an adulterous affair which has tragic consequences for his family and Israel.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 5 Oscars. 3 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGM0Yjk2MTktYTAzOS00ZTNjLWFmNjQtMjQ4M2FlYmE1ZTZkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0043455",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:20:08.481Z"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121267804311",
+  "title": "Batman: Gotham Adventures #43",
+  "authors": [
+    "Albert De Guzman",
+    "Bob Smith",
+    "Harvey Richards",
+    "Joan Hilty",
+    "Lee Loughridge",
+    "Scott Peterson",
+    "Terry Beatty",
+    "Tim Levins"
+  ],
+  "publish_date": "2001-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/7a9dff197eeb4834baf77af1b66d9fba.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160392/",
+  "fetched_at": "2026-05-06T23:04:49.249Z",
+  "reviewed_at": "2001-12-01"
+}

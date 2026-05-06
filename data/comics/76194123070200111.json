@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194123070200111",
+  "title": "Batman: Our Worlds at War #1",
+  "authors": [
+    "Ed Brubaker",
+    "Jae Lee",
+    "Michael Wright",
+    "Roberta Tewes",
+    "Stefano Gaudiano",
+    "Willie Schubert"
+  ],
+  "publish_date": "2001-06-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/07/batman-owaw-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7941/",
+  "fetched_at": "2026-05-06T23:03:17.695Z",
+  "reviewed_at": null
+}

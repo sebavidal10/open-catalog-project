@@ -1,0 +1,35 @@
+{
+  "title": "Miracle in Milan",
+  "year": "1951",
+  "rated": "Not Rated",
+  "released": "17 Dec 1951",
+  "runtime": "97 min",
+  "genre": "Comedy, Drama, Fantasy",
+  "director": "Vittorio De Sica",
+  "writer": "Cesare Zavattini, Vittorio De Sica, Suso Cecchi D'Amico",
+  "actors": "Emma Gramatica, Francesco Golisano, Paolo Stoppa",
+  "plot": "An open-hearted, unrelentingly energetic orphan struggles to make the best of his life on the streets of Milan.",
+  "language": "Italian, English",
+  "country": "Italy",
+  "awards": "Nominated for 2 BAFTA 4 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDk2YjI4MmMtMmQ2MC00YWI3LTk5ZTktMzE0MjA1OGI1NzBkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.6",
+  "imdbID": "tt0043809",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:21:25.677Z"
+}

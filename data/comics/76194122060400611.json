@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194122060400611",
+  "title": "Batman Beyond #6",
+  "authors": [
+    "Bob Smith",
+    "Craig Rousseau",
+    "Darren Vincenzo",
+    "Frank Berrios",
+    "Hilary J. Bader",
+    "Lee Loughridge",
+    "Rob Leigh",
+    "Terry Beatty",
+    "Tim Harkins"
+  ],
+  "publish_date": "2000-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/0c8d9c95f2ed4c22974920cd05be876a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118089/",
+  "fetched_at": "2026-05-06T22:53:11.113Z",
+  "reviewed_at": "2000-04-01"
+}

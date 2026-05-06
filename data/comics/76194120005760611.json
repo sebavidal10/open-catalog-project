@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120005760611",
+  "title": "Batman #606",
+  "authors": [
+    "Andy Owens",
+    "Bob Schreck",
+    "Ed Brubaker",
+    "Geoff Johns",
+    "Gregory Wright",
+    "John Costanza",
+    "Michael Wright",
+    "Scott McDaniel",
+    "Wildstorm FX"
+  ],
+  "publish_date": "2002-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-606.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34700/",
+  "fetched_at": "2026-05-06T23:09:40.712Z",
+  "reviewed_at": "2002-10-01"
+}

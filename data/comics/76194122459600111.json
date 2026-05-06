@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194122459600111",
+  "title": "Batman: The Ankh #1",
+  "authors": [
+    "Bob Schreck",
+    "Chuck Dixon",
+    "John Van Fleet",
+    "John Workman",
+    "Matt Idelson",
+    "Nachie Castro"
+  ],
+  "publish_date": "2002-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/03/03/23c0b43c8a8141c0a442203386bc4b26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/57836/",
+  "fetched_at": "2026-05-06T23:05:26.515Z",
+  "reviewed_at": "2002-01-01"
+}

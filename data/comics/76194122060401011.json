@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194122060401011",
+  "title": "Batman Beyond #10",
+  "authors": [
+    "Craig Rousseau",
+    "Frank Berrios",
+    "Hilary J. Bader",
+    "Joseph Illidge",
+    "Lee Loughridge",
+    "Rob Leigh",
+    "Ronnie Del Carmen",
+    "Tim Harkins"
+  ],
+  "publish_date": "2000-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/91ca666bd0584e29baba1d770845e32e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118093/",
+  "fetched_at": "2026-05-06T22:56:01.260Z",
+  "reviewed_at": "2000-08-01"
+}

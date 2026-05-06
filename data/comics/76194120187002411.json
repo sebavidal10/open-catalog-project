@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120187002411",
+  "title": "Batman Annual #24",
+  "authors": [
+    "Clem Robins",
+    "Dennis O'Neil",
+    "Glenn Whitmore",
+    "Jim Aparo",
+    "John Ostrander",
+    "Joseph Illidge",
+    "Michael Kaluta",
+    "Sal Buscema"
+  ],
+  "publish_date": "2000-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-annual-24.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34832/",
+  "fetched_at": "2026-05-06T22:57:17.651Z",
+  "reviewed_at": "2000-10-01"
+}

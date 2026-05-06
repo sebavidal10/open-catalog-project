@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120009504911",
+  "title": "Batman: Shadow of the Bat #49",
+  "authors": [
+    "Alan Grant",
+    "Bill Oakley",
+    "Brian Stelfreeze",
+    "Dennis O'Neil",
+    "Jordan B. Gorfinkel",
+    "Pamela Rambo",
+    "Ray McCarthy",
+    "Vince Giarrano"
+  ],
+  "publish_date": "1996-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-49.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30348/",
+  "fetched_at": "2026-05-06T22:27:43.390Z",
+  "reviewed_at": "1996-04-01"
+}

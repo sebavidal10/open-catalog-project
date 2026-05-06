@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194122060401211",
+  "title": "Batman Beyond #12",
+  "authors": [
+    "Craig Rousseau",
+    "Frank Berrios",
+    "Hilary J. Bader",
+    "Joseph Illidge",
+    "Lee Loughridge",
+    "Mike Carlin",
+    "Rob Leigh",
+    "Ronnie Del Carmen",
+    "Tim Harkins"
+  ],
+  "publish_date": "2000-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/23b1e77eda6e4ca5802f6cb73b3f7685.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118095/",
+  "fetched_at": "2026-05-06T22:57:21.647Z",
+  "reviewed_at": "2000-10-01"
+}

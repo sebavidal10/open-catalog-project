@@ -1,0 +1,35 @@
+{
+  "title": "A Place in the Sun",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "09 Nov 1951",
+  "runtime": "122 min",
+  "genre": "Drama, Romance",
+  "director": "George Stevens",
+  "writer": "Theodore Dreiser, Patrick Kearney, Michael Wilson",
+  "actors": "Montgomery Clift, Elizabeth Taylor, Shelley Winters",
+  "plot": "A poor boy gets a job working for his rich uncle and ends up falling in love with two women.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 6 Oscars. 15 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM4MzFjMjgtOTVmYi00YWI2LThlNTItYTdhNTE4ODhhZjgwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.7",
+  "imdbID": "tt0043924",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:19:59.134Z"
+}

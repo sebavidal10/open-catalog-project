@@ -1,0 +1,27 @@
+{
+  "title": "Ding Dong",
+  "year": "1951",
+  "rated": "N/A",
+  "released": "N/A",
+  "runtime": "71 min",
+  "genre": "Documentary",
+  "director": "W. Merle Connell",
+  "writer": "N/A",
+  "actors": "Illona, Jennie Lee, Iva Pratt",
+  "plot": "A series of vaudeville skits at the Moulin Rouge.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgwNzM5MTU4MV5BMl5BanBnXkFtZTcwMTc0NzMzMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "3.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "3.2",
+  "imdbID": "tt0276072",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:30:44.284Z"
+}

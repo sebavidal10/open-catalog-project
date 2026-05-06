@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121267804511",
+  "title": "Batman: Gotham Adventures #45",
+  "authors": [
+    "Albert De Guzman",
+    "Darwyn Cooke",
+    "Harvey Richards",
+    "Joan Hilty",
+    "Lee Loughridge",
+    "Scott Peterson",
+    "Terry Beatty",
+    "Tim Levins"
+  ],
+  "publish_date": "2002-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/a3197fad39f74458b223f525e2359787.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160394/",
+  "fetched_at": "2026-05-06T23:05:39.314Z",
+  "reviewed_at": "2002-02-01"
+}

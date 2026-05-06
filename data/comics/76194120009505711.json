@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120009505711",
+  "title": "Batman: Shadow of the Bat #57",
+  "authors": [
+    "Alan Grant",
+    "Bill Oakley",
+    "Dave Taylor",
+    "Dennis O'Neil",
+    "Duncan Fegredo",
+    "Jordan B. Gorfinkel",
+    "Pamela Rambo",
+    "Stan Woch"
+  ],
+  "publish_date": "1996-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-57.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30356/",
+  "fetched_at": "2026-05-06T22:30:45.547Z",
+  "reviewed_at": "1996-12-01"
+}

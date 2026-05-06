@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194120005756311",
+  "title": "Batman #563",
+  "authors": [
+    "Alex Maleev",
+    "Bob Gale",
+    "Darren Vincenzo",
+    "Dave Stewart",
+    "Dennis O'Neil",
+    "Jordan B. Gorfinkel",
+    "Joseph Illidge",
+    "J. Scott Campbell",
+    "Wayne Faucher",
+    "Willie Schubert"
+  ],
+  "publish_date": "1999-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-563.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34657/",
+  "fetched_at": "2026-05-06T22:46:08.729Z",
+  "reviewed_at": "1999-03-01"
+}

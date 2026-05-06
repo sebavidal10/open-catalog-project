@@ -1,0 +1,35 @@
+{
+  "title": "Limelight",
+  "year": "1952",
+  "rated": "G",
+  "released": "31 Oct 1952",
+  "runtime": "137 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "Charles Chaplin",
+  "writer": "Charles Chaplin",
+  "actors": "Charles Chaplin, Claire Bloom, Nigel Bruce",
+  "plot": "A fading comedian and a suicidally despondent ballet dancer must look to each other to find purpose and hope in their lives.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 7 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODFjMzMwMmYtYmZjYS00MTZiLWE2ZjAtZTliMDFmNTNhMjIzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "8.0",
+  "imdbID": "tt0044837",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:31:45.208Z"
+}

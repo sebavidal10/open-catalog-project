@@ -1,0 +1,31 @@
+{
+  "title": "Bellissima",
+  "year": "1951",
+  "rated": "Not Rated",
+  "released": "01 Oct 1953",
+  "runtime": "108 min",
+  "genre": "Drama",
+  "director": "Luchino Visconti",
+  "writer": "Cesare Zavattini, Suso Cecchi D'Amico, Francesco Rosi",
+  "actors": "Anna Magnani, Walter Chiari, Tina Apicella",
+  "plot": "A woman from the lower class desperately tries to get her daughter into the movies.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTgwOGEzODEtNTNlNy00ZWEyLThjZTUtMzIxMmVjODY0NzYxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0043332",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:20:41.162Z"
+}

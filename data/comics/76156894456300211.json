@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": "76156894456300211",
+  "title": "Batman / Aliens #2",
+  "authors": [
+    "Bernie Wrightson",
+    "Gregory Wright",
+    "Ron Marz",
+    "Sean Konot"
+  ],
+  "publish_date": "1997-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/11/2927325f3de14a25ae1dd164269c1d4e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145917/",
+  "fetched_at": "2026-05-06T22:32:40.204Z",
+  "reviewed_at": "1997-04-01"
+}

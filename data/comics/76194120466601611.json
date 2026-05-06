@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194120466601611",
+  "title": "The Batman Chronicles #16",
+  "authors": [
+    "Cam Smith",
+    "Chris Renaud",
+    "Clem Robins",
+    "Damion Scott",
+    "Dennis O'Neil",
+    "Digital Chameleon",
+    "Greg Rucka",
+    "Ian Laughlin",
+    "Jason Pearson",
+    "Rick Parker",
+    "Sal Buscema",
+    "Scott Beatty",
+    "Wayne Faucher"
+  ],
+  "publish_date": "1999-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/20/the-batman-chronicles-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25696/",
+  "fetched_at": "2026-05-06T22:46:40.865Z",
+  "reviewed_at": "1999-04-01"
+}

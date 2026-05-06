@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194121267802111",
+  "title": "Batman: Gotham Adventures #21",
+  "authors": [
+    "Bob Smith",
+    "Darren Vincenzo",
+    "Lee Loughridge",
+    "Scott Peterson",
+    "Terry Beatty",
+    "Tim Harkins",
+    "Tim Levins"
+  ],
+  "publish_date": "2000-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/8087ed9dca33466aa2e506ce01a4de45.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160365/",
+  "fetched_at": "2026-05-06T22:52:09.791Z",
+  "reviewed_at": "2000-02-01"
+}

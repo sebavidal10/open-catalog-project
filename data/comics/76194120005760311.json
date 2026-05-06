@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005760311",
+  "title": "Batman #603",
+  "authors": [
+    "Bob Schreck",
+    "Ed Brubaker",
+    "Gregory Wright",
+    "John Costanza",
+    "Michael Wright",
+    "Sean Phillips",
+    "Wildstorm FX"
+  ],
+  "publish_date": "2002-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-603.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34697/",
+  "fetched_at": "2026-05-06T23:08:31.200Z",
+  "reviewed_at": "2002-07-01"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Father's Little Dividend",
+  "year": "1951",
+  "rated": "Not Rated",
+  "released": "27 Apr 1951",
+  "runtime": "82 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Vincente Minnelli",
+  "writer": "Albert Hackett, Frances Goodrich, Edward Streeter",
+  "actors": "Spencer Tracy, Joan Bennett, Elizabeth Taylor",
+  "plot": "Shortly after coming to terms with his daughter's marriage, a father faces the prospect of becoming a grandfather.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGFlZmU1YjgtZGI2ZC00YjUyLWE2N2ItMWMxMWE3ZDM0OWVhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "6.5",
+  "imdbID": "tt0043526",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:21:45.615Z"
+}

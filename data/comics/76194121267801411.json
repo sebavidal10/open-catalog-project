@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121267801411",
+  "title": "Batman: Gotham Adventures #14",
+  "authors": [
+    "Craig Rousseau",
+    "Darren Vincenzo",
+    "Joseph Illidge",
+    "Lee Loughridge",
+    "Stan Woch",
+    "Terry Beatty",
+    "Tim Harkins",
+    "Ty Templeton"
+  ],
+  "publish_date": "1999-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/4b87ad8959c44c58878ebdcc74dc1db9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160359/",
+  "fetched_at": "2026-05-06T22:48:03.722Z",
+  "reviewed_at": "1999-07-01"
+}

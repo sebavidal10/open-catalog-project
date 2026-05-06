@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194121267803411",
+  "title": "Batman: Gotham Adventures #34",
+  "authors": [
+    "Bob Smith",
+    "Nathan Eyring",
+    "Scott Peterson",
+    "Terry Beatty",
+    "Tim Levins"
+  ],
+  "publish_date": "2001-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/c7f8b7cabdc54ea988fe1ad09b1e09c1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160378/",
+  "fetched_at": "2026-05-06T23:00:40.303Z",
+  "reviewed_at": "2001-03-01"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121267801711",
+  "title": "Batman: Gotham Adventures #17",
+  "authors": [
+    "Bob Smith",
+    "Darren Vincenzo",
+    "Joseph Illidge",
+    "Lee Loughridge",
+    "Scott Peterson",
+    "Terry Beatty",
+    "Tim Harkins",
+    "Tim Levins"
+  ],
+  "publish_date": "1999-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/82e833e6c89640c7b3306a65baf3497d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160362/",
+  "fetched_at": "2026-05-06T22:49:29.175Z",
+  "reviewed_at": "1999-10-01"
+}

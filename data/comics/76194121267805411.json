@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121267805411",
+  "title": "Batman: Gotham Adventures #54",
+  "authors": [
+    "Albert De Guzman",
+    "Bob Smith",
+    "Harvey Richards",
+    "Joan Hilty",
+    "Lee Loughridge",
+    "Scott Peterson",
+    "Terry Beatty",
+    "Tim Levins"
+  ],
+  "publish_date": "2002-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/e13aea2e43504a34ae1fe54c575709a1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160404/",
+  "fetched_at": "2026-05-06T23:11:08.765Z",
+  "reviewed_at": "2002-11-01"
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120005755311",
+  "title": "Batman #553",
+  "authors": [
+    "Dennis O'Neil",
+    "Doug Moench",
+    "Gregory Wright",
+    "Jordan B. Gorfinkel",
+    "Kevin Nowlan",
+    "Klaus Janson",
+    "Mark Buckingham",
+    "Sal Buscema",
+    "Todd Klein"
+  ],
+  "publish_date": "1998-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/17/batman-553.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34647/",
+  "fetched_at": "2026-05-06T22:37:58.462Z",
+  "reviewed_at": "1998-04-01"
+}

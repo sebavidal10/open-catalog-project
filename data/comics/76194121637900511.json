@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194121637900511",
+  "title": "Batman Beyond #5",
+  "authors": [
+    "Bob Smith",
+    "Bruce Timm",
+    "Darren Vincenzo",
+    "Hilary J. Bader",
+    "Joe Staton",
+    "Joseph Illidge",
+    "Lee Loughridge",
+    "Terry Beatty",
+    "Tim Harkins"
+  ],
+  "publish_date": "1999-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/11/02/batman-beyond-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/40282/",
+  "fetched_at": "2026-05-06T22:47:59.626Z",
+  "reviewed_at": "1999-07-01"
+}

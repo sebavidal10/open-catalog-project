@@ -1,0 +1,35 @@
+{
+  "title": "Umberto D.",
+  "year": "1952",
+  "rated": "Not Rated",
+  "released": "07 Nov 1955",
+  "runtime": "89 min",
+  "genre": "Drama",
+  "director": "Vittorio De Sica",
+  "writer": "Cesare Zavattini",
+  "actors": "Carlo Battisti, Maria Pia Casilio, Lina Gennari",
+  "plot": "An elderly man and his dog struggle to survive on his government pension in Rome.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "Nominated for 1 Oscar. 3 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWRkY2VmOTEtMTk5My00OWZmLWFmYWMtODE3ZmYyZTBhNTE0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "metascore": "92",
+  "imdbRating": "8.1",
+  "imdbID": "tt0045274",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:31:29.978Z"
+}

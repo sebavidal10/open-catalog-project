@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005757111",
+  "title": "Batman #571",
+  "authors": [
+    "Chuck Dixon",
+    "Dennis O'Neil",
+    "Gloria Vasquez",
+    "John Costanza",
+    "Joseph Illidge",
+    "Mat Broome",
+    "Sean Parsons",
+    "Wildstorm FX"
+  ],
+  "publish_date": "1999-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-571.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34665/",
+  "fetched_at": "2026-05-06T22:49:53.451Z",
+  "reviewed_at": "1999-11-01"
+}

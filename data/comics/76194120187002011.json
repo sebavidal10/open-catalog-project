@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194120187002011",
+  "title": "Batman Annual #20",
+  "authors": [
+    "Doug Moench",
+    "Jordan B. Gorfinkel",
+    "Pat Garrahy",
+    "Tim Harkins",
+    "Vince Giarrano"
+  ],
+  "publish_date": "1996-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-annual-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34828/",
+  "fetched_at": "2026-05-06T22:26:42.561Z",
+  "reviewed_at": "1996-01-01"
+}

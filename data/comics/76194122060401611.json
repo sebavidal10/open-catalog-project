@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194122060401611",
+  "title": "Batman Beyond #16",
+  "authors": [
+    "Bob Schreck",
+    "Brian Stelfreeze",
+    "Craig Rousseau",
+    "Frank Berrios",
+    "Hilary J. Bader",
+    "Lee Loughridge",
+    "Rob Leigh",
+    "Tim Harkins"
+  ],
+  "publish_date": "2001-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/f6a1585d31134992a61b98d12aca1d51.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118099/",
+  "fetched_at": "2026-05-06T22:59:57.294Z",
+  "reviewed_at": "2001-02-01"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121352100111",
+  "title": "Batman: Arkham Asylum - Tales of Madness #1",
+  "authors": [
+    "Alan Grant",
+    "Bill Oakley",
+    "Bill Sienkiewicz",
+    "Bjarne Hansen",
+    "Darren Vincenzo",
+    "Dave Taylor",
+    "Heroic Age",
+    "Scott Peterson"
+  ],
+  "publish_date": "1998-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/29/d1f0d5f7c5334a55a178f082b0a1b528.png",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152642/",
+  "fetched_at": "2026-05-06T22:39:40.999Z",
+  "reviewed_at": "1998-05-01"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120486400211",
+  "title": "Batman: Haunted Gotham #2",
+  "authors": [
+    "Daniel Vozzo",
+    "Dennis O'Neil",
+    "Doug Moench",
+    "John Beatty",
+    "Joseph Illidge",
+    "Kelley Jones",
+    "Mike Carlin",
+    "Willie Schubert"
+  ],
+  "publish_date": "2000-01-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/02/09/batman-haunted-gotham-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9529/",
+  "fetched_at": "2026-05-06T22:52:54.640Z",
+  "reviewed_at": null
+}

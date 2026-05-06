@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121267801111",
+  "title": "Batman: Gotham Adventures #11",
+  "authors": [
+    "Bob Smith",
+    "Darren Vincenzo",
+    "Joseph Illidge",
+    "Lee Loughridge",
+    "Rick Burchett",
+    "Terry Beatty",
+    "Tim Harkins",
+    "Ty Templeton"
+  ],
+  "publish_date": "1999-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/d2410091b03c4980ba9d79ea1e2b09a8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160356/",
+  "fetched_at": "2026-05-06T22:46:44.979Z",
+  "reviewed_at": "1999-04-01"
+}

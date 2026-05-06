@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005757911",
+  "title": "Batman #579",
+  "authors": [
+    "Bob Schreck",
+    "John Costanza",
+    "Joseph Illidge",
+    "Karl Story",
+    "Larry Hama",
+    "Roberta Tewes",
+    "Scott McDaniel",
+    "Wildstorm FX"
+  ],
+  "publish_date": "2000-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-579.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34673/",
+  "fetched_at": "2026-05-06T22:55:15.099Z",
+  "reviewed_at": "2000-07-01"
+}

@@ -1,0 +1,41 @@
+{
+  "isbn": null,
+  "upc": "76194121769700111",
+  "title": "Superman and Batman: World's Funnest #1",
+  "authors": [
+    "Alex Ross",
+    "Brian Bolland",
+    "Bruce Timm",
+    "Chris Chuckry",
+    "Dave Gibbons",
+    "David Mazzucchelli",
+    "Doug Mahnke",
+    "Evan Dorkin",
+    "Frank Cho",
+    "Frank Miller",
+    "Glen Murakami",
+    "Jaime Hernandez",
+    "Jay Stephens",
+    "Jim Woodring",
+    "Joe Giella",
+    "Mike Allred",
+    "Norm Rapmund",
+    "Phil Jimenez",
+    "Scott Shaw",
+    "Sheldon Moldoff",
+    "Stephen DeStefano",
+    "Stuart Immonen",
+    "Tom Orzechowski",
+    "Ty Templeton"
+  ],
+  "publish_date": "2001-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/02/28/041faca9adb44e8e8bb653ddf3ba961c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/163082/",
+  "fetched_at": "2026-05-06T22:59:44.591Z",
+  "reviewed_at": "2001-01-01"
+}

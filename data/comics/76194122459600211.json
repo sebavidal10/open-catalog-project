@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194122459600211",
+  "title": "Batman: The Ankh #2",
+  "authors": [
+    "Bob Schreck",
+    "Chuck Dixon",
+    "John Van Fleet",
+    "John Workman",
+    "Matt Idelson",
+    "Nachie Castro"
+  ],
+  "publish_date": "2002-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/03/03/6c7c88ec69fd46ca9e74540af0d8ce0c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/57837/",
+  "fetched_at": "2026-05-06T23:05:51.504Z",
+  "reviewed_at": "2002-02-01"
+}

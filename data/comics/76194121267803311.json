@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194121267803311",
+  "title": "Batman: Gotham Adventures #33",
+  "authors": [
+    "Bob Schreck",
+    "Bob Smith",
+    "Brad Rader",
+    "Ed Brubaker",
+    "Frank Berrios",
+    "John Lowe",
+    "Lee Loughridge",
+    "Nathan Eyring",
+    "Terry Beatty",
+    "Tim Harkins"
+  ],
+  "publish_date": "2001-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/f78a094410da48608d7ef5e04242e031.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160377/",
+  "fetched_at": "2026-05-06T23:00:03.440Z",
+  "reviewed_at": "2001-02-01"
+}

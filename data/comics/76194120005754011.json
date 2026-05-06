@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005754011",
+  "title": "Batman #540",
+  "authors": [
+    "Dennis O'Neil",
+    "Doug Moench",
+    "Gregory Wright",
+    "John Beatty",
+    "Jordan B. Gorfinkel",
+    "Kelley Jones",
+    "Todd Klein"
+  ],
+  "publish_date": "1997-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/17/batman-540.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34634/",
+  "fetched_at": "2026-05-06T22:32:07.791Z",
+  "reviewed_at": "1997-03-01"
+}

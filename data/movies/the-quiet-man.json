@@ -1,0 +1,35 @@
+{
+  "title": "The Quiet Man",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "14 Sep 1952",
+  "runtime": "129 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "John Ford",
+  "writer": "Frank S. Nugent, Maurice Walsh, John Ford",
+  "actors": "John Wayne, Maureen O'Hara, Barry Fitzgerald",
+  "plot": "A retired American boxer returns to the village of his birth in 1920s Ireland, where he falls for a spirited redhead whose brother is contemptuous of their union.",
+  "language": "English, Irish Gaelic",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 15 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGEyZDk1YmEtOTVmOC00YWQxLWEzOWYtYzkzNGE0MTFhMzRkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "7.7",
+  "imdbID": "tt0045061",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:31:37.009Z"
+}

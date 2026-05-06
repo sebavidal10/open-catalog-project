@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194122060401411",
+  "title": "Batman Beyond #14",
+  "authors": [
+    "Frank Berrios",
+    "Hilary J. Bader",
+    "Jordi Ensign",
+    "Joseph Illidge",
+    "Lee Loughridge",
+    "Min S. Ku",
+    "Tim Harkins"
+  ],
+  "publish_date": "2000-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/ae43d24f9efe48499771722b887c6d8a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118097/",
+  "fetched_at": "2026-05-06T22:58:49.298Z",
+  "reviewed_at": "2000-12-01"
+}

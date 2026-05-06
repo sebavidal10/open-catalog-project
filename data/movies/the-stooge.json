@@ -1,0 +1,27 @@
+{
+  "title": "The Stooge",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "31 Dec 1952",
+  "runtime": "100 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "Norman Taurog",
+  "writer": "Fred F. Finklehoffe, Martin Rackin, Elwood Ullman",
+  "actors": "Dean Martin, Jerry Lewis, Polly Bergen",
+  "plot": "Egotistical vaudevillian Bill Miller basks in the limelight with his successful musical-comedy act, but his success is due to his unheralded second banana.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjMwNjI1NWUtYmE2ZC00ZTA5LThjODItMDAwZTBmMmNjYTE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0045192",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:21:29.177Z"
+}

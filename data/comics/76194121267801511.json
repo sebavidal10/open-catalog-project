@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194121267801511",
+  "title": "Batman: Gotham Adventures #15",
+  "authors": [
+    "Bob Smith",
+    "Darren Vincenzo",
+    "Joseph Illidge",
+    "Lee Loughridge",
+    "Rob Leigh",
+    "Scott Peterson",
+    "Terry Beatty",
+    "Tim Harkins",
+    "Tim Levins",
+    "Zylonol Studios"
+  ],
+  "publish_date": "1999-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/48577b05cc314ef69f2f64caf0d4046f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160360/",
+  "fetched_at": "2026-05-06T22:48:28.755Z",
+  "reviewed_at": "1999-08-01"
+}

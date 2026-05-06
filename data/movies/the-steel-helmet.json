@@ -1,0 +1,31 @@
+{
+  "title": "The Steel Helmet",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "02 Feb 1951",
+  "runtime": "85 min",
+  "genre": "Action, Drama, War",
+  "director": "Samuel Fuller",
+  "writer": "Samuel Fuller",
+  "actors": "Gene Evans, Robert Hutton, Steve Brodie",
+  "plot": "A ragtag group of American stragglers battles against superior Communist troops in an abandoned Buddhist temple during the Korean War.",
+  "language": "English, Korean",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzUwNmY4ODQtMTY0ZS00ZmQ4LWJhMTktNDkwMjkxYzZmZWE1XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0044072",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:22:17.264Z"
+}

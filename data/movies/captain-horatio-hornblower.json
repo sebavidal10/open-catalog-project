@@ -1,0 +1,31 @@
+{
+  "title": "Captain Horatio Hornblower",
+  "year": "1951",
+  "rated": "Not Rated",
+  "released": "10 Apr 1951",
+  "runtime": "117 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Raoul Walsh",
+  "writer": "Ivan Goff, Ben Roberts, Æneas MacKenzie",
+  "actors": "Gregory Peck, Virginia Mayo, Robert Beatty",
+  "plot": "During the Napoleonic wars, a British Navy Captain has adventures in Central American waters.",
+  "language": "English, French, Spanish, Dutch",
+  "country": "United Kingdom, United States, France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2JhZmFhYjEtMGNjMC00MTA2LWJhNmItNTBiN2IwZDhhNWY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0043379",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:20:02.642Z"
+}

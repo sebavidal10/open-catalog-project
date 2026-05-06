@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120009507211",
+  "title": "Batman: Shadow of the Bat #72",
+  "authors": [
+    "Alan Grant",
+    "Bill Oakley",
+    "Christopher Moeller",
+    "Dennis O'Neil",
+    "Eduardo Barreto",
+    "Jordan B. Gorfinkel",
+    "Pamela Rambo",
+    "Wayne Faucher"
+  ],
+  "publish_date": "1998-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-72.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30404/",
+  "fetched_at": "2026-05-06T22:37:50.105Z",
+  "reviewed_at": "1998-03-01"
+}

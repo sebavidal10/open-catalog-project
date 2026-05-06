@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194120005756611",
+  "title": "Batman #566",
+  "authors": [
+    "Dennis O'Neil",
+    "Eduardo Barreto",
+    "John Costanza",
+    "Jon Bogdanove",
+    "Jordan B. Gorfinkel",
+    "Joseph Illidge",
+    "Kelley Puckett",
+    "Richard Horie",
+    "Tanya Horie",
+    "Willie Schubert"
+  ],
+  "publish_date": "1999-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-566.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34660/",
+  "fetched_at": "2026-05-06T22:47:26.859Z",
+  "reviewed_at": "1999-06-01"
+}

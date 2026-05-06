@@ -1,0 +1,35 @@
+{
+  "title": "The Lavender Hill Mob",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "15 Oct 1951",
+  "runtime": "78 min",
+  "genre": "Comedy, Crime",
+  "director": "Charles Crichton",
+  "writer": "T.E.B. Clarke",
+  "actors": "Alec Guinness, Stanley Holloway, Sidney James",
+  "plot": "A meek bank clerk who oversees the shipment of bullion joins with an eccentric neighbor to steal gold bars and smuggle them out of the country as miniature Eiffel Towers.",
+  "language": "English, French, Portuguese",
+  "country": "United Kingdom",
+  "awards": "Won 1 Oscar. 4 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjhmZDlhODgtOWE2OS00NDQyLThmYmItMTZjMGYwODYxNDcxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "7.5",
+  "imdbID": "tt0044829",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:19:45.092Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Idiot",
+  "year": "1951",
+  "rated": "Not Rated",
+  "released": "30 Apr 1963",
+  "runtime": "166 min",
+  "genre": "Drama, Romance",
+  "director": "Akira Kurosawa",
+  "writer": "Fyodor Dostoevsky, Eijirô Hisaita, Akira Kurosawa",
+  "actors": "Setsuko Hara, Masayuki Mori, Toshirô Mifune",
+  "plot": "A Japanese veteran, driven partially mad from the war, travels to the snowy island of Hokkaido where he soon enters a love triangle with his best friend and a disgraced woman.",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZThkYzIxNmQtYTBmMC00Yzc1LWFkNzktMTFlYjVhMmRhZGU1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0043614",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:20:43.509Z"
+}

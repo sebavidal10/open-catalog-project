@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120009506111",
+  "title": "Batman: Shadow of the Bat #61",
+  "authors": [
+    "Alan Grant",
+    "Bill Oakley",
+    "Christopher Moeller",
+    "Dennis O'Neil",
+    "Jim Aparo",
+    "Jordan B. Gorfinkel",
+    "Pamela Rambo",
+    "Stan Woch"
+  ],
+  "publish_date": "1997-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-61.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30360/",
+  "fetched_at": "2026-05-06T22:32:48.087Z",
+  "reviewed_at": "1997-04-01"
+}

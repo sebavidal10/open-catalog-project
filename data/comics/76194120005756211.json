@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005756211",
+  "title": "Batman #562",
+  "authors": [
+    "Chuck Dixon",
+    "David Roach",
+    "Dennis O'Neil",
+    "Jim Aparo",
+    "Jordan B. Gorfinkel",
+    "Lee Loughridge",
+    "Rodolfo Damaggio",
+    "Todd Klein"
+  ],
+  "publish_date": "1999-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/17/batman-562.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34656/",
+  "fetched_at": "2026-05-06T22:45:39.644Z",
+  "reviewed_at": "1999-02-01"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123049800111",
+  "title": "Batman / Aliens II #1",
+  "authors": [
+    "Dave Stewart",
+    "Digital Chameleon",
+    "Gregory Wright",
+    "Ian Edginton",
+    "James Hodgkins",
+    "John Workman",
+    "Michael Wright",
+    "Staz Johnson"
+  ],
+  "publish_date": "2003-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/11/81fa7133253840628fbeee5234ebdd9b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145918/",
+  "fetched_at": "2026-05-06T23:12:12.886Z",
+  "reviewed_at": "2003-02-01"
+}

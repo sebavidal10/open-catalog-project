@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005758311",
+  "title": "Batman #583",
+  "authors": [
+    "Bob Schreck",
+    "Ed Brubaker",
+    "John Costanza",
+    "Joseph Illidge",
+    "Karl Story",
+    "Roberta Tewes",
+    "Scott McDaniel",
+    "Wildstorm FX"
+  ],
+  "publish_date": "2000-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-583.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34677/",
+  "fetched_at": "2026-05-06T22:58:03.731Z",
+  "reviewed_at": "2000-11-01"
+}

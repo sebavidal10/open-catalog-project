@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005755211",
+  "title": "Batman #552",
+  "authors": [
+    "Dennis O'Neil",
+    "Doug Moench",
+    "Gregory Wright",
+    "John Beatty",
+    "Jordan B. Gorfinkel",
+    "Kelley Jones",
+    "Todd Klein"
+  ],
+  "publish_date": "1998-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/17/batman-552.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34646/",
+  "fetched_at": "2026-05-06T22:37:37.263Z",
+  "reviewed_at": "1998-03-01"
+}

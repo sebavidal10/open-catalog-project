@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120006403311",
+  "title": "The Batman Adventures #33",
+  "authors": [
+    "Comicraft",
+    "Dev Madan",
+    "Mike Parobeck",
+    "Richard Starkings",
+    "Rick Burchett",
+    "Rick Taylor",
+    "Ty Templeton"
+  ],
+  "publish_date": "1995-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/4f8c6e051acc41dabe57a2659cb2e011.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118071/",
+  "fetched_at": "2026-05-06T22:24:06.252Z",
+  "reviewed_at": "1995-07-01"
+}

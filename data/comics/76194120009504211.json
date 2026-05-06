@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194120009504211",
+  "title": "Batman: Shadow of the Bat #42",
+  "authors": [
+    "Alan Grant",
+    "Bill Oakley",
+    "Brian Stelfreeze",
+    "Dennis O'Neil",
+    "Joe Staton",
+    "Jordan B. Gorfinkel",
+    "Liam Sharp",
+    "Ray McCarthy",
+    "Ron Boyd",
+    "Scott Hanna",
+    "Sherilyn Van Valkenburgh"
+  ],
+  "publish_date": "1995-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-42.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30341/",
+  "fetched_at": "2026-05-06T22:25:18.551Z",
+  "reviewed_at": "1995-09-01"
+}

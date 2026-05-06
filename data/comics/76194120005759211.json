@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005759211",
+  "title": "Batman #592",
+  "authors": [
+    "Bob Schreck",
+    "Ed Brubaker",
+    "John Costanza",
+    "Karl Story",
+    "Michael Wright",
+    "Roberta Tewes",
+    "Scott McDaniel",
+    "Wildstorm FX"
+  ],
+  "publish_date": "2001-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-592.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34686/",
+  "fetched_at": "2026-05-06T23:02:56.853Z",
+  "reviewed_at": "2001-08-01"
+}

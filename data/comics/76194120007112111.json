@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120007112111",
+  "title": "Batman: Legends of the Dark Knight #121",
+  "authors": [
+    "Bill Oakley",
+    "Dennis O'Neil",
+    "Felix Serrano",
+    "James Hodgkins",
+    "Joseph Illidge",
+    "Larry Hama",
+    "Rick Burchett"
+  ],
+  "publish_date": "1999-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/10/11/ee06540ccce4460787638a258dd9a5d9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/76979/",
+  "fetched_at": "2026-05-06T22:48:59.277Z",
+  "reviewed_at": "1999-09-01"
+}

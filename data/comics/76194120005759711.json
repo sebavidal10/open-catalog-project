@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005759711",
+  "title": "Batman #597",
+  "authors": [
+    "Andy Owens",
+    "Bob Schreck",
+    "Ed Brubaker",
+    "John Costanza",
+    "Michael Wright",
+    "Roberta Tewes",
+    "Scott McDaniel",
+    "Wildstorm FX"
+  ],
+  "publish_date": "2002-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-597.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34691/",
+  "fetched_at": "2026-05-06T23:05:09.311Z",
+  "reviewed_at": "2002-01-01"
+}

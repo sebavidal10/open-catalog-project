@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121267805711",
+  "title": "Batman: Gotham Adventures #57",
+  "authors": [
+    "Albert De Guzman",
+    "Bob Smith",
+    "Harvey Richards",
+    "Joan Hilty",
+    "Lee Loughridge",
+    "Scott Peterson",
+    "Terry Beatty",
+    "Tim Levins"
+  ],
+  "publish_date": "2003-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/b1c4b5ed9d464165bdb128fc4c10a337.PNG",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160386/",
+  "fetched_at": "2026-05-06T23:12:16.777Z",
+  "reviewed_at": "2003-02-01"
+}

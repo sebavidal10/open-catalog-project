@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76156894801100111",
+  "title": "Batman / Grendel #1",
+  "authors": [
+    "Dennis O'Neil",
+    "Diana Schutz",
+    "Gregory Wright",
+    "Jamie S. Rich",
+    "Jordan B. Gorfinkel",
+    "Matt Wagner",
+    "Sean Konot"
+  ],
+  "publish_date": "1996-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/11/f7c654a6358141ffa0817a052e5befb0.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145938/",
+  "fetched_at": "2026-05-06T22:28:15.786Z",
+  "reviewed_at": "1996-06-01"
+}

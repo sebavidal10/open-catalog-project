@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194121267803111",
+  "title": "Batman: Gotham Adventures #31",
+  "authors": [
+    "Bob Schreck",
+    "Terry Beatty",
+    "Tim Harkins",
+    "Ty Templeton",
+    "Zylonol Studios"
+  ],
+  "publish_date": "2000-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/bae45059e4734a2a87b7250c57469698.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160375/",
+  "fetched_at": "2026-05-06T22:58:58.314Z",
+  "reviewed_at": "2000-12-01"
+}

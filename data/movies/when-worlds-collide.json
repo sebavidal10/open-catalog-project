@@ -1,0 +1,31 @@
+{
+  "title": "When Worlds Collide",
+  "year": "1951",
+  "rated": "G",
+  "released": "15 Nov 1951",
+  "runtime": "83 min",
+  "genre": "Action, Sci-Fi, Thriller",
+  "director": "Rudolph Maté",
+  "writer": "Sydney Boehm, Edwin Balmer, Philip Wylie",
+  "actors": "Richard Derr, Barbara Rush, Peter Hansen",
+  "plot": "As a new star and planet hurtle toward a doomed Earth, a small group of survivalists frantically work to complete the rocket which will take them to their new home.",
+  "language": "English, French, Portuguese, Spanish, Hindi",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTk5MTQwOTUtNmI0MS00ZjYwLWIyMzctMTNkMTU1NTY2ZWY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0044207",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:20:09.652Z"
+}

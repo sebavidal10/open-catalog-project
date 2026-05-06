@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120009507311",
+  "title": "Batman: Shadow of the Bat #73",
+  "authors": [
+    "Alan Grant",
+    "Bill Oakley",
+    "Dennis O'Neil",
+    "Glen Orbik",
+    "Jordan B. Gorfinkel",
+    "Mark Buckingham",
+    "Pamela Rambo",
+    "Wayne Faucher"
+  ],
+  "publish_date": "1998-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-73.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30405/",
+  "fetched_at": "2026-05-06T22:39:25.629Z",
+  "reviewed_at": "1998-04-01"
+}

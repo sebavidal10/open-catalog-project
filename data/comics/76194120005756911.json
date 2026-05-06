@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005756911",
+  "title": "Batman #569",
+  "authors": [
+    "Dennis O'Neil",
+    "Janet Harvey",
+    "Joseph Illidge",
+    "Matt Ryan",
+    "Pamela Rambo",
+    "Phil Jimenez",
+    "Sergio Cariello",
+    "Todd Klein"
+  ],
+  "publish_date": "1999-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-569.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34663/",
+  "fetched_at": "2026-05-06T22:48:46.220Z",
+  "reviewed_at": "1999-09-01"
+}

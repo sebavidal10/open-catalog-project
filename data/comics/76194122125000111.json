@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194122125000111",
+  "title": "Batman: Day of Judgment #1",
+  "authors": [
+    "Albert De Guzman",
+    "Dean Zachary",
+    "Joseph Illidge",
+    "Noelle Giddings",
+    "Robert Campanella",
+    "Sal Buscema",
+    "Scott Beatty"
+  ],
+  "publish_date": "1999-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/29/931d2131241d4b62947f9692e9d3c8b2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152640/",
+  "fetched_at": "2026-05-06T22:50:07.013Z",
+  "reviewed_at": null
+}

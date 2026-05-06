@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194120466602111",
+  "title": "The Batman Chronicles #21",
+  "authors": [
+    "Arnold Pander",
+    "Brian Michael Bendis",
+    "Carla Feeny",
+    "Dick Giordano",
+    "Jacob Pander",
+    "Janice Chiang",
+    "Joe Rubinstein",
+    "Jordan B. Gorfinkel",
+    "Joseph Illidge",
+    "Ken Lopez",
+    "Lee Loughridge",
+    "Michael Gaydos",
+    "Trish Mulvihill"
+  ],
+  "publish_date": "2000-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/20/the-batman-chronicles-21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25701/",
+  "fetched_at": "2026-05-06T22:54:34.889Z",
+  "reviewed_at": "2000-06-01"
+}

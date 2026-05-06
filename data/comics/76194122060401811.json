@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194122060401811",
+  "title": "Batman Beyond #18",
+  "authors": [
+    "Bob Schreck",
+    "Brian Stelfreeze",
+    "Craig Rousseau",
+    "Digital Chameleon",
+    "Frank Berrios",
+    "Hilary J. Bader",
+    "Rob Leigh",
+    "Tim Harkins",
+    "Trish Mulvihill"
+  ],
+  "publish_date": "2001-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/c1ee3e2e112b47b98a9c9ce5e89c807a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118101/",
+  "fetched_at": "2026-05-06T23:01:05.620Z",
+  "reviewed_at": "2001-04-01"
+}

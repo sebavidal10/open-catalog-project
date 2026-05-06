@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005760911",
+  "title": "Batman #609",
+  "authors": [
+    "Alex Sinclair",
+    "Bob Schreck",
+    "Jeph Loeb",
+    "Jim Lee",
+    "Morgan Dontanville",
+    "Richard Starkings",
+    "Scott Williams"
+  ],
+  "publish_date": "2003-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-609.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34703/",
+  "fetched_at": "2026-05-06T23:11:48.339Z",
+  "reviewed_at": "2003-01-01"
+}

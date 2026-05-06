@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194121267801311",
+  "title": "Batman: Gotham Adventures #13",
+  "authors": [
+    "Darren Vincenzo",
+    "Kelley Puckett",
+    "Lee Loughridge",
+    "Rick Burchett",
+    "Terry Beatty",
+    "Tim Harkins",
+    "Zylonol Studios"
+  ],
+  "publish_date": "1999-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/4f3df1c7103547aeb2fd28c32e4d9c8b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160358/",
+  "fetched_at": "2026-05-06T22:47:38.735Z",
+  "reviewed_at": "1999-06-01"
+}

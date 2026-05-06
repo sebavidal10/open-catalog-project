@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194121267800711",
+  "title": "Batman: Gotham Adventures #7",
+  "authors": [
+    "Darren Vincenzo",
+    "Lee Loughridge",
+    "Rick Burchett",
+    "Terry Beatty",
+    "Tim Harkins",
+    "Ty Templeton"
+  ],
+  "publish_date": "1998-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/72de18bef1bc40e2af946f0b5a41658e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160388/",
+  "fetched_at": "2026-05-06T22:44:37.060Z",
+  "reviewed_at": "1998-12-01"
+}

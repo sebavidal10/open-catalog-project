@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120493200311",
+  "title": "Batman: GCPD #3",
+  "authors": [
+    "Bill Sienkiewicz",
+    "Chuck Dixon",
+    "Darren Vincenzo",
+    "Ian Laughlin",
+    "Jim Aparo",
+    "John Costanza",
+    "Rodolfo Damaggio",
+    "Scott Peterson"
+  ],
+  "publish_date": "1996-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/18/3f04f57e81ec4d09930db984e9f5c475.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/133916/",
+  "fetched_at": "2026-05-06T22:29:50.706Z",
+  "reviewed_at": "1996-10-01"
+}

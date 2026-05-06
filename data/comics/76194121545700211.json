@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194121545700211",
+  "title": "Batman: The Doom That Came to Gotham #2",
+  "authors": [
+    "Bill Oakley",
+    "Dave Stewart",
+    "Dennis Janke",
+    "Mike Mignola",
+    "Richard Pace",
+    "Todd Klein",
+    "Troy Nixey"
+  ],
+  "publish_date": "2000-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/18/b3becac99256490cab8a71ac2a2a16a2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/133870/",
+  "fetched_at": "2026-05-06T22:59:10.702Z",
+  "reviewed_at": "2000-12-01"
+}

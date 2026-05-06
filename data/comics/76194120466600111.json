@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "76194120466600111",
+  "title": "The Batman Chronicles #1",
+  "authors": [
+    "Alan Grant",
+    "Bill Oakley",
+    "Bill Sienkiewicz",
+    "Brian Apthorp",
+    "Cam Smith",
+    "Chuck Dixon",
+    "Darren Vincenzo",
+    "David Hornung",
+    "Doug Moench",
+    "Gloria Vasquez",
+    "Gregory Wright",
+    "Jordan B. Gorfinkel",
+    "Ken Lopez",
+    "Lee Weeks",
+    "Phil Allen",
+    "Staz Johnson",
+    "Terry Austin",
+    "Todd Klein"
+  ],
+  "publish_date": "1995-05-30",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/20/the-batman-chronicles-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25681/",
+  "fetched_at": "2026-05-06T22:24:10.594Z",
+  "reviewed_at": null
+}

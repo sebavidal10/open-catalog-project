@@ -1,0 +1,31 @@
+{
+  "title": "Fourteen Hours",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "20 May 1951",
+  "runtime": "92 min",
+  "genre": "Drama, Film-Noir, Thriller",
+  "director": "Henry Hathaway",
+  "writer": "John Paxton, Joel Sayre",
+  "actors": "Paul Douglas, Richard Basehart, Barbara Bel Geddes",
+  "plot": "A New York policeman tries to talk a man off a ledge as a crowd gathers below.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 4 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmIxMjEyODktMDg3ZC00YmU3LTlmNmItY2UzNGNlZWM0ZGI4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "63%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0043560",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:20:03.809Z"
+}

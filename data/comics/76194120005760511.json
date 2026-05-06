@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120005760511",
+  "title": "Batman #605",
+  "authors": [
+    "Andy Owens",
+    "Bob Schreck",
+    "Ed Brubaker",
+    "Gregory Wright",
+    "John Costanza",
+    "Michael Wright",
+    "Phil Noto",
+    "Scott McDaniel",
+    "Wildstorm FX"
+  ],
+  "publish_date": "2002-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-605.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34699/",
+  "fetched_at": "2026-05-06T23:09:18.874Z",
+  "reviewed_at": "2002-09-01"
+}

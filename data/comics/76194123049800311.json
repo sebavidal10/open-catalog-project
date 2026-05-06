@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123049800311",
+  "title": "Batman / Aliens II #3",
+  "authors": [
+    "Dave Stewart",
+    "Digital Chameleon",
+    "Gregory Wright",
+    "Ian Edginton",
+    "James Hodgkins",
+    "John Workman",
+    "Michael Wright",
+    "Staz Johnson"
+  ],
+  "publish_date": "2003-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/11/6198f42b3e784a76b6bf8c595ca4bfaf.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145920/",
+  "fetched_at": "2026-05-06T23:13:03.983Z",
+  "reviewed_at": "2003-04-01"
+}

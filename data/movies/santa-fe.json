@@ -1,0 +1,27 @@
+{
+  "title": "Santa Fe",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "01 Apr 1951",
+  "runtime": "87 min",
+  "genre": "Western",
+  "director": "Irving Pichel",
+  "writer": "Kenneth Gamet, Donald G. Payne, Louis Stevens",
+  "actors": "Randolph Scott, Janis Carter, Jerome Courtland",
+  "plot": "After their service in the Civil War, four brothers go their separate ways, but later find themselves on opposite sides of a final showdown.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzdjMDdjY2UtYjliNi00MTU0LWE0ZWYtM2E5NGUwMTdmMjcyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0043992",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:22:09.063Z"
+}

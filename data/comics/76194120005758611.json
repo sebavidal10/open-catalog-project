@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120005758611",
+  "title": "Batman #586",
+  "authors": [
+    "Bob Schreck",
+    "Ed Brubaker",
+    "John Costanza",
+    "John Lowe",
+    "Karl Story",
+    "Michael Wright",
+    "Roberta Tewes",
+    "Scott McDaniel",
+    "Wildstorm FX"
+  ],
+  "publish_date": "2001-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-586.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34680/",
+  "fetched_at": "2026-05-06T22:59:53.307Z",
+  "reviewed_at": "2001-02-01"
+}

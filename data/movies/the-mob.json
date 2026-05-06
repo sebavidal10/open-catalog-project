@@ -1,0 +1,31 @@
+{
+  "title": "The Mob",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "21 Sep 1951",
+  "runtime": "87 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Robert Parrish",
+  "writer": "William Bowers, Ferguson Findley",
+  "actors": "Broderick Crawford, Betty Buehler, Richard Kiley",
+  "plot": "Johnny Damico botches a murder case and is suspended from the force. In reality, he is put undercover to identify the mysterious boss of the NY waterfront who has murdered everyone in his way. Will Johnny be next in line?",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDNjODVkM2YtMDA1My00ZDQ5LTk1MWQtZjdkMGM1OTg4YTFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0043812",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:21:08.141Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "My True Story",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "08 Mar 1951",
+  "runtime": "67 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "Mickey Rooney",
+  "writer": "Margit Mantical, Howard J. Green, Brown Holmes",
+  "actors": "Helen Walker, Willard Parker, Elisabeth Risdon",
+  "plot": "Story of a female jewel thief.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzk3Y2EzMzgtOTI2Ny00ZGRlLWIyYWUtNzdmN2Y4N2VlZDA1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0043830",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:22:00.838Z"
+}

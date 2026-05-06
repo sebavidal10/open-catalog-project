@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": "76194121799400111",
+  "title": "Batman: DOA #1",
+  "authors": [
+    "Bob Hall",
+    "Dennis O'Neil",
+    "Digital Chameleon",
+    "John Costanza"
+  ],
+  "publish_date": "1999-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/11/07/85d0f1d7e6074bb284b0a2f9d0cf120f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/81487/",
+  "fetched_at": "2026-05-06T22:50:46.262Z",
+  "reviewed_at": "1999-12-01"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121267802911",
+  "title": "Batman: Gotham Adventures #29",
+  "authors": [
+    "Bob Schreck",
+    "Chuck Dixon",
+    "Craig Rousseau",
+    "Frank Berrios",
+    "Joe Staton",
+    "Lee Loughridge",
+    "Terry Beatty",
+    "Tim Harkins"
+  ],
+  "publish_date": "2000-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/b63d009905af48db87cccc0270952b07.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160373/",
+  "fetched_at": "2026-05-06T22:57:37.515Z",
+  "reviewed_at": "2000-10-01"
+}

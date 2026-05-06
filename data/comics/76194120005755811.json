@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005755811",
+  "title": "Batman #558",
+  "authors": [
+    "Dennis O'Neil",
+    "Doug Moench",
+    "Gregory Wright",
+    "Jim Aparo",
+    "Jordan B. Gorfinkel",
+    "Rodolfo Damaggio",
+    "Sal Buscema",
+    "Todd Klein"
+  ],
+  "publish_date": "1998-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/17/batman-558.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34652/",
+  "fetched_at": "2026-05-06T22:43:04.099Z",
+  "reviewed_at": "1998-09-01"
+}

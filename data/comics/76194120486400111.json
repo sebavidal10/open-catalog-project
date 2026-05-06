@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120486400111",
+  "title": "Batman: Haunted Gotham #1",
+  "authors": [
+    "Daniel Vozzo",
+    "Dennis O'Neil",
+    "Doug Moench",
+    "John Beatty",
+    "Joseph Illidge",
+    "Kelley Jones",
+    "Mike Carlin",
+    "Willie Schubert"
+  ],
+  "publish_date": "1999-12-29",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/02/09/batman-haunted-gotham-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9528/",
+  "fetched_at": "2026-05-06T22:52:13.642Z",
+  "reviewed_at": null
+}

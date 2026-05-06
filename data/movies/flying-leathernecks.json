@@ -1,0 +1,35 @@
+{
+  "title": "Flying Leathernecks",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "28 Aug 1951",
+  "runtime": "102 min",
+  "genre": "Action, Drama, War",
+  "director": "Nicholas Ray",
+  "writer": "James Edward Grant, Kenneth Gamet, Beirne Lay Jr.",
+  "actors": "John Wayne, Robert Ryan, Don Taylor",
+  "plot": "Major Kirby leads The Wildcats squadron into the historic WWII battle of Guadalcanal.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzQxNTU4NjUtZjA3Yi00MDA2LTg5OWEtZWFmOTMyMjE4NTg0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "6.3",
+  "imdbID": "tt0043547",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:21:05.797Z"
+}

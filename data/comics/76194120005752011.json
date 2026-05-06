@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005752011",
+  "title": "Batman #520",
+  "authors": [
+    "Dennis O'Neil",
+    "Doug Moench",
+    "Eduardo Barreto",
+    "Gregory Wright",
+    "Jordan B. Gorfinkel",
+    "Kelley Jones",
+    "Todd Klein"
+  ],
+  "publish_date": "1995-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/17/batman-520.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34613/",
+  "fetched_at": "2026-05-06T22:24:02.264Z",
+  "reviewed_at": "1995-07-01"
+}

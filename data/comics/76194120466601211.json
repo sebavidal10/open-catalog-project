@@ -1,0 +1,39 @@
+{
+  "isbn": null,
+  "upc": "76194120466601211",
+  "title": "The Batman Chronicles #12",
+  "authors": [
+    "Alex Maleev",
+    "Bill Sienkiewicz",
+    "Bob McLeod",
+    "Chris Renaud",
+    "Clem Robins",
+    "Darren Vincenzo",
+    "Devin Grayson",
+    "Gloria Vasquez",
+    "Grant Goleash",
+    "Ian Laughlin",
+    "Jason Wright",
+    "Jordan B. Gorfinkel",
+    "Kelley Puckett",
+    "Ken Lopez",
+    "Klaus Janson",
+    "Lee Loughridge",
+    "Marcos Martín",
+    "Mark Buckingham",
+    "Noelle Giddings",
+    "Rick Burchett",
+    "Scott McDaniel",
+    "Vince Giarrano"
+  ],
+  "publish_date": "1998-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/20/the-batman-chronicles-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25692/",
+  "fetched_at": "2026-05-06T22:39:16.714Z",
+  "reviewed_at": "1998-04-01"
+}

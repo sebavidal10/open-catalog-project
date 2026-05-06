@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194120005756811",
+  "title": "Batman #568",
+  "authors": [
+    "Bill Sienkiewicz",
+    "Dan Jurgens",
+    "Darren Vincenzo",
+    "Dennis O'Neil",
+    "Glen Orbik",
+    "Greg Rucka",
+    "John Costanza",
+    "Joseph Illidge",
+    "Noelle Giddings",
+    "Wildstorm FX"
+  ],
+  "publish_date": "1999-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-568.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34662/",
+  "fetched_at": "2026-05-06T22:48:20.616Z",
+  "reviewed_at": "1999-08-01"
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194121337855011",
+  "title": "Batman #550",
+  "authors": [
+    "Dennis O'Neil",
+    "Doug Moench",
+    "Gregory Wright",
+    "J.H. Williams III",
+    "John Beatty",
+    "Jordan B. Gorfinkel",
+    "Kelley Jones",
+    "Mick Gray",
+    "Todd Klein"
+  ],
+  "publish_date": "1998-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/17/batman-550.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34644/",
+  "fetched_at": "2026-05-06T22:36:51.765Z",
+  "reviewed_at": "1998-01-01"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120009504111",
+  "title": "Batman: Shadow of the Bat #41",
+  "authors": [
+    "Alan Grant",
+    "Brian Stelfreeze",
+    "Dennis O'Neil",
+    "John Costanza",
+    "John Paul Leon",
+    "Jordan B. Gorfinkel",
+    "Ray McCarthy",
+    "Sherilyn Van Valkenburgh"
+  ],
+  "publish_date": "1995-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-41.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30340/",
+  "fetched_at": "2026-05-06T22:24:51.621Z",
+  "reviewed_at": "1995-08-01"
+}

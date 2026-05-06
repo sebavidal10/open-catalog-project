@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121267805911",
+  "title": "Batman: Gotham Adventures #59",
+  "authors": [
+    "Albert De Guzman",
+    "Bob Smith",
+    "Harvey Richards",
+    "Joan Hilty",
+    "Lee Loughridge",
+    "Scott Peterson",
+    "Terry Beatty",
+    "Tim Levins"
+  ],
+  "publish_date": "2003-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/c0a93cd599da47848e3d69b32d0f601b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160401/",
+  "fetched_at": "2026-05-06T23:13:07.972Z",
+  "reviewed_at": "2003-04-01"
+}

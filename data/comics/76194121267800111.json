@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194121267800111",
+  "title": "Batman: Gotham Adventures #1",
+  "authors": [
+    "Darren Vincenzo",
+    "Lee Loughridge",
+    "Rick Burchett",
+    "Terry Beatty",
+    "Tim Harkins",
+    "Ty Templeton"
+  ],
+  "publish_date": "1998-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/54917bcc10e74a9b955c48ece9f663d6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160348/",
+  "fetched_at": "2026-05-06T22:40:42.439Z",
+  "reviewed_at": "1998-06-01"
+}

@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194122054300611",
+  "title": "Batman: Dark Victory #6",
+  "authors": [
+    "Gregory Wright",
+    "Jeph Loeb",
+    "Mark Chiarello",
+    "Richard Starkings",
+    "Tim Sale"
+  ],
+  "publish_date": "2000-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/01/29/batman-dv-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9066/",
+  "fetched_at": "2026-05-06T22:54:01.100Z",
+  "reviewed_at": "2000-05-01"
+}

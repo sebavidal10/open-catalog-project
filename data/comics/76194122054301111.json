@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194122054301111",
+  "title": "Batman: Dark Victory #11",
+  "authors": [
+    "Gregory Wright",
+    "Jeph Loeb",
+    "Mark Chiarello",
+    "Richard Starkings",
+    "Tim Sale"
+  ],
+  "publish_date": "2000-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/01/29/batman-dv-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9071/",
+  "fetched_at": "2026-05-06T22:57:29.634Z",
+  "reviewed_at": "2000-10-01"
+}

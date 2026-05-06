@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121267805511",
+  "title": "Batman: Gotham Adventures #55",
+  "authors": [
+    "Albert De Guzman",
+    "Bob Smith",
+    "Harvey Richards",
+    "Joan Hilty",
+    "Lee Loughridge",
+    "Rick Burchett",
+    "Scott Peterson",
+    "Terry Beatty"
+  ],
+  "publish_date": "2002-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/b5b24d4d89ff4747b9ab5138b15df8f4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160403/",
+  "fetched_at": "2026-05-06T23:11:29.254Z",
+  "reviewed_at": "2002-12-01"
+}

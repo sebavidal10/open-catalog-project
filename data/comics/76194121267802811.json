@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121267802811",
+  "title": "Batman: Gotham Adventures #28",
+  "authors": [
+    "Bob Schreck",
+    "Bob Smith",
+    "Frank Berrios",
+    "Lee Loughridge",
+    "Scott Peterson",
+    "Terry Beatty",
+    "Tim Harkins",
+    "Tim Levins"
+  ],
+  "publish_date": "2000-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/90cb6d12e320439e8c004b364ab25c36.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160372/",
+  "fetched_at": "2026-05-06T22:56:47.752Z",
+  "reviewed_at": "2000-09-01"
+}

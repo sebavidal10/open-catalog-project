@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005760811",
+  "title": "Batman #608",
+  "authors": [
+    "Alex Sinclair",
+    "Bob Schreck",
+    "Jeph Loeb",
+    "Jim Lee",
+    "Morgan Dontanville",
+    "Richard Starkings",
+    "Scott Williams"
+  ],
+  "publish_date": "2002-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-608.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34702/",
+  "fetched_at": "2026-05-06T23:11:25.158Z",
+  "reviewed_at": "2002-12-01"
+}

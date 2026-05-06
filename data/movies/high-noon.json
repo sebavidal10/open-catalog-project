@@ -1,0 +1,35 @@
+{
+  "title": "High Noon",
+  "year": "1952",
+  "rated": "PG",
+  "released": "30 Jul 1952",
+  "runtime": "85 min",
+  "genre": "Drama, Thriller, Western",
+  "director": "Fred Zinnemann",
+  "writer": "Carl Foreman, John W. Cunningham",
+  "actors": "Gary Cooper, Grace Kelly, Thomas Mitchell",
+  "plot": "A town Marshal, despite the disagreements of his newlywed bride and the townspeople around him, must face a gang of deadly killers alone at \"high noon\" when the gang leader, an outlaw he \"sent up\" years ago, arrives on the noon tr...",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Won 4 Oscars. 18 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmJiZjA3ODgtNWI1Zi00OTA1LTkyNTMtZTA1NGYwOTQyZTA3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "7.9",
+  "imdbID": "tt0044706",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:31:38.176Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194122060401311",
+  "title": "Batman Beyond #13",
+  "authors": [
+    "Ande Parks",
+    "Frank Berrios",
+    "Hilary J. Bader",
+    "Joseph Illidge",
+    "Lee Loughridge",
+    "Min S. Ku",
+    "Tim Harkins"
+  ],
+  "publish_date": "2000-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/46e8788ec20d4ca1ac25d1801f6ae8bb.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118096/",
+  "fetched_at": "2026-05-06T22:58:07.723Z",
+  "reviewed_at": "2000-11-01"
+}

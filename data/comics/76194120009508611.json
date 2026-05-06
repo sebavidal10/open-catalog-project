@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120009508611",
+  "title": "Batman: Shadow of the Bat #86",
+  "authors": [
+    "Dennis O'Neil",
+    "Guy Davis",
+    "John Costanza",
+    "Jordan B. Gorfinkel",
+    "Joseph Illidge",
+    "Lisa Klink",
+    "Pamela Rambo"
+  ],
+  "publish_date": "1999-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-86.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30418/",
+  "fetched_at": "2026-05-06T22:47:46.664Z",
+  "reviewed_at": "1999-06-01"
+}

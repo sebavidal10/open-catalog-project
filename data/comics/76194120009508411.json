@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194120009508411",
+  "title": "Batman: Shadow of the Bat #84",
+  "authors": [
+    "Dale Eaglesham",
+    "Danny Miki",
+    "Darren Vincenzo",
+    "Dennis O'Neil",
+    "Devin Grayson",
+    "Joseph Illidge",
+    "Michael Turner",
+    "Pamela Rambo",
+    "Sean Parsons",
+    "Todd Klein"
+  ],
+  "publish_date": "1999-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-84.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30416/",
+  "fetched_at": "2026-05-06T22:46:53.578Z",
+  "reviewed_at": "1999-04-01"
+}

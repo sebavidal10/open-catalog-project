@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "76194120466602211",
+  "title": "The Batman Chronicles #22",
+  "authors": [
+    "Chuck Dixon",
+    "Danny Miki",
+    "Darren Vincenzo",
+    "Frank Berrios",
+    "Glenn Whitmore",
+    "Gordon Purcell",
+    "Jamison",
+    "Jason Wright",
+    "Joseph Illidge",
+    "Ken Lopez",
+    "Matt Idelson",
+    "Rodolfo Damaggio",
+    "Sean Parsons",
+    "Shannon Blanchard",
+    "Tim Harkins",
+    "Tom Sniegoski"
+  ],
+  "publish_date": "2000-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/20/the-batman-chronicles-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25702/",
+  "fetched_at": "2026-05-06T22:57:25.641Z",
+  "reviewed_at": "2000-10-01"
+}

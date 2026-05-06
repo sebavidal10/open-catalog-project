@@ -1,0 +1,31 @@
+{
+  "title": "Royal Wedding",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "23 Mar 1951",
+  "runtime": "93 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Stanley Donen",
+  "writer": "Alan Jay Lerner",
+  "actors": "Fred Astaire, Jane Powell, Peter Lawford",
+  "plot": "A brother and sister dance act encounter challenges and romance when booked in London during the Royal Wedding.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2FlZmMyMjktOTAzYy00ZmYzLWJhNjMtMjljOWY1ZjVhZjM3XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0043983",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:20:21.313Z"
+}

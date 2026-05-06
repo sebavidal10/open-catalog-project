@@ -1,0 +1,31 @@
+{
+  "title": "The Man in the White Suit",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "N/A",
+  "runtime": "85 min",
+  "genre": "Comedy, Drama, Sci-Fi",
+  "director": "Alexander Mackendrick",
+  "writer": "Roger MacDougall, John Dighton, Alexander Mackendrick",
+  "actors": "Alec Guinness, Joan Greenwood, Cecil Parker",
+  "plot": "An altruistic chemist invents a fabric which resists wear and stain as a boon to humanity, but big business and labor realize it must be suppressed for economic reasons.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 Oscar. 1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUxNTIzNzY4OV5BMl5BanBnXkFtZTgwODExMTI0NDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0044876",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:19:47.442Z"
+}

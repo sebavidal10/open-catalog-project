@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194121267805611",
+  "title": "Batman: Gotham Adventures #56",
+  "authors": [
+    "Albert De Guzman",
+    "Harvey Richards",
+    "Joan Hilty",
+    "Lee Loughridge",
+    "Scott Peterson",
+    "Terry Beatty",
+    "Tim Levins"
+  ],
+  "publish_date": "2003-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/32b96a24d3ae45ccaea798535abdd66f.PNG",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160385/",
+  "fetched_at": "2026-05-06T23:11:52.446Z",
+  "reviewed_at": "2003-01-01"
+}

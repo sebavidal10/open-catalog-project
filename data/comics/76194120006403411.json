@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194120006403411",
+  "title": "The Batman Adventures #34",
+  "authors": [
+    "Kelley Puckett",
+    "Mike Parobeck",
+    "Rick Burchett",
+    "Rick Taylor",
+    "Tim Harkins"
+  ],
+  "publish_date": "1995-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/e82572b264ba49a79fb8435e5efa4081.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118072/",
+  "fetched_at": "2026-05-06T22:24:38.903Z",
+  "reviewed_at": "1995-08-01"
+}

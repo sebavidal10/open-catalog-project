@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194120466602311",
+  "title": "The Batman Chronicles #23",
+  "authors": [
+    "Bo Hampton",
+    "Brian Stelfreeze",
+    "Cam Smith",
+    "Clem Robins",
+    "Doug Moench",
+    "Jay Faerber",
+    "Ken Bruzenak",
+    "Kevin Nowlan",
+    "Matt Idelson",
+    "Michael Jan Friedman",
+    "Michael Wright",
+    "Paul Ryan",
+    "Tim Harkins",
+    "Tom McCraw"
+  ],
+  "publish_date": "2001-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/20/the-batman-chronicles-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25703/",
+  "fetched_at": "2026-05-06T23:04:24.131Z",
+  "reviewed_at": "2001-11-01"
+}

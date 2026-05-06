@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194122060400211",
+  "title": "Batman Beyond #2",
+  "authors": [
+    "Bob Smith",
+    "Craig Rousseau",
+    "Darren Vincenzo",
+    "Hilary J. Bader",
+    "Joseph Illidge",
+    "Lee Loughridge",
+    "Rob Leigh",
+    "Terry Beatty",
+    "Tim Harkins"
+  ],
+  "publish_date": "1999-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/600b09b407414f4eb8e5f4a76d782d3a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118085/",
+  "fetched_at": "2026-05-06T22:50:38.391Z",
+  "reviewed_at": "1999-12-01"
+}

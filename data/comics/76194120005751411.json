@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005751411",
+  "title": "Batman #514",
+  "authors": [
+    "Adrienne Roy",
+    "Dennis O'Neil",
+    "Doug Moench",
+    "Joe Rubinstein",
+    "Jordan B. Gorfinkel",
+    "Ken Bruzenak",
+    "Ron Wagner"
+  ],
+  "publish_date": "1995-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/17/batman-514.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34607/",
+  "fetched_at": "2026-05-06T22:21:52.970Z",
+  "reviewed_at": "1995-01-01"
+}

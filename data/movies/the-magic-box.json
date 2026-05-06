@@ -1,0 +1,27 @@
+{
+  "title": "The Magic Box",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "01 Aug 1952",
+  "runtime": "118 min",
+  "genre": "Biography, Drama, History",
+  "director": "John Boulting",
+  "writer": "Ray Allister, Eric Ambler",
+  "actors": "Robert Donat, Maria Schell, Renée Asherson",
+  "plot": "A chronicle of the life of William Friese-Greene, a British inventor and early pioneer in cinema.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 2 BAFTA 1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDlhYWJjZTMtYjFlMi00ODZiLTg0M2YtYWI3ZmI3ZTZkZGRjXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0043769",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:22:59.544Z"
+}

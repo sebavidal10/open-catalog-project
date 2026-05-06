@@ -1,0 +1,31 @@
+{
+  "title": "Decision Before Dawn",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "25 Feb 1952",
+  "runtime": "119 min",
+  "genre": "Drama, War",
+  "director": "Anatole Litvak",
+  "writer": "Peter Viertel, George Howe, Jack Rollens",
+  "actors": "Richard Basehart, Gary Merrill, Oskar Werner",
+  "plot": "As the US Army approaches Nazi Germany, they recruit German prisoners of war to spy behind German lines.",
+  "language": "English, French, German",
+  "country": "United States, West Germany",
+  "awards": "Nominated for 2 Oscars. 1 win & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU5MzI3Njg4MF5BMl5BanBnXkFtZTgwOTM1NzIwMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0043459",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:21:15.181Z"
+}

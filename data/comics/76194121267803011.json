@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121267803011",
+  "title": "Batman: Gotham Adventures #30",
+  "authors": [
+    "Bob Schreck",
+    "Bob Smith",
+    "Frank Berrios",
+    "Lee Loughridge",
+    "Scott Peterson",
+    "Terry Beatty",
+    "Tim Harkins",
+    "Tim Levins"
+  ],
+  "publish_date": "2000-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/65308a61ec4646e8ad14b51aa7adb67e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160374/",
+  "fetched_at": "2026-05-06T22:58:15.814Z",
+  "reviewed_at": "2000-11-01"
+}

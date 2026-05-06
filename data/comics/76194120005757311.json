@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194120005757311",
+  "title": "Batman #573",
+  "authors": [
+    "Darren Vincenzo",
+    "Dennis O'Neil",
+    "Doug Mahnke",
+    "Greg Rucka",
+    "John Costanza",
+    "Joseph Illidge",
+    "Mark Pennington",
+    "Pamela Rambo",
+    "Sergio Cariello",
+    "Tom Nguyen",
+    "Wildstorm FX"
+  ],
+  "publish_date": "2000-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-573.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34667/",
+  "fetched_at": "2026-05-06T22:51:21.080Z",
+  "reviewed_at": "2000-01-01"
+}

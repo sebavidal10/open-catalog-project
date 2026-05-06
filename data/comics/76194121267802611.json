@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121267802611",
+  "title": "Batman: Gotham Adventures #26",
+  "authors": [
+    "Bob Schreck",
+    "Frank Berrios",
+    "Lee Loughridge",
+    "Rick Burchett",
+    "Scott Peterson",
+    "Terry Beatty",
+    "Tim Harkins",
+    "Tim Levins"
+  ],
+  "publish_date": "2000-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/ff524577eae64923a4d9adb8ef144420.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160370/",
+  "fetched_at": "2026-05-06T22:55:31.413Z",
+  "reviewed_at": "2000-07-01"
+}

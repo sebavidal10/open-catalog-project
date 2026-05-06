@@ -1,0 +1,31 @@
+{
+  "title": "The Man from Planet X",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "27 Apr 1951",
+  "runtime": "71 min",
+  "genre": "Horror, Romance, Sci-Fi",
+  "director": "Edgar G. Ulmer",
+  "writer": "Aubrey Wisberg, Jack Pollexfen",
+  "actors": "Robert Clarke, Margaret Field, Raymond Bond",
+  "plot": "As a mysterious planet hurls itself toward Earth, an enigmatic extraterrestrial scout arrives on a remote Scottish island with unknown intentions.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2YxZTVhYjAtNTQ0Zi00NmU1LWFiNzEtZGMwZDM3MGJmNTgzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0043778",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:21:36.210Z"
+}

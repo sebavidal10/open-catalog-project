@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005752311",
+  "title": "Batman #523",
+  "authors": [
+    "Dennis O'Neil",
+    "Doug Moench",
+    "Gregory Wright",
+    "John Beatty",
+    "Jordan B. Gorfinkel",
+    "Kelley Jones",
+    "Todd Klein"
+  ],
+  "publish_date": "1995-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/17/batman-523.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34616/",
+  "fetched_at": "2026-05-06T22:25:26.986Z",
+  "reviewed_at": "1995-10-01"
+}

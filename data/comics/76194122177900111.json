@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194122177900111",
+  "title": "Batman: Gotham Knights #1",
+  "authors": [
+    "Bill Oakley",
+    "Dale Eaglesham",
+    "Dave Johnson",
+    "Dennis O'Neil",
+    "Devin Grayson",
+    "Jim Lee",
+    "John Floyd",
+    "Joseph Illidge",
+    "Pamela Rambo",
+    "Richard Starkings",
+    "Warren Ellis",
+    "Wildstorm FX"
+  ],
+  "publish_date": "2000-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/24/batman-gotham-knights-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25939/",
+  "fetched_at": "2026-05-06T22:52:50.685Z",
+  "reviewed_at": "2000-03-01"
+}

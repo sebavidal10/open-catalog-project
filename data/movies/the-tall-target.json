@@ -1,0 +1,31 @@
+{
+  "title": "The Tall Target",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "17 Aug 1951",
+  "runtime": "78 min",
+  "genre": "Adventure, Crime, Drama",
+  "director": "Anthony Mann",
+  "writer": "George Worthing Yates, Art Cohn, Daniel Mainwaring",
+  "actors": "Dick Powell, Paula Raymond, Adolphe Menjou",
+  "plot": "A New York City detective, traveling by train between New York and Baltimore, tries to foil an on-board plot to assassinate President-elect Abraham Lincoln before he reaches Baltimore to give a major pre-Inauguration speech in 1861.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGYxZjhiYTYtYWEyOC00YzU1LTlkZTYtNDk3M2ZkODZjMzQwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0044105",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:21:06.964Z"
+}

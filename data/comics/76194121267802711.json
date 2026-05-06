@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121267802711",
+  "title": "Batman: Gotham Adventures #27",
+  "authors": [
+    "Bob Schreck",
+    "Frank Berrios",
+    "Lee Loughridge",
+    "Rick Burchett",
+    "Scott Peterson",
+    "Terry Beatty",
+    "Tim Harkins",
+    "Tim Levins"
+  ],
+  "publish_date": "2000-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/e75e79ade0404d86a1dbcc880989cbcc.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160371/",
+  "fetched_at": "2026-05-06T22:56:09.348Z",
+  "reviewed_at": "2000-08-01"
+}

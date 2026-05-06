@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": "76156894456300111",
+  "title": "Batman / Aliens #1",
+  "authors": [
+    "Bernie Wrightson",
+    "Matt Hollingsworth",
+    "Ron Marz",
+    "Sean Konot"
+  ],
+  "publish_date": "1997-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/11/122cb524206d4c009a2c5a45f605cb18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145916/",
+  "fetched_at": "2026-05-06T22:32:11.838Z",
+  "reviewed_at": "1997-03-01"
+}

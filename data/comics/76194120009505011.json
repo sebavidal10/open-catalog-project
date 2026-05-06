@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194120009505011",
+  "title": "Batman: Shadow of the Bat #50",
+  "authors": [
+    "Alan Grant",
+    "Barry Kitson",
+    "Bill Oakley",
+    "Bret Blevins",
+    "Carl Critchlow",
+    "Dave Taylor",
+    "Dennis O'Neil",
+    "Jordan B. Gorfinkel",
+    "Norm Breyfogle",
+    "Pamela Rambo",
+    "Ray McCarthy",
+    "Rob Leigh",
+    "Vince Giarrano"
+  ],
+  "publish_date": "1996-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-50.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30349/",
+  "fetched_at": "2026-05-06T22:27:59.730Z",
+  "reviewed_at": "1996-05-01"
+}

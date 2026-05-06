@@ -1,0 +1,35 @@
+{
+  "title": "Quo Vadis",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "25 Dec 1951",
+  "runtime": "171 min",
+  "genre": "Drama, Romance",
+  "director": "Mervyn LeRoy, Anthony Mann",
+  "writer": "John Lee Mahin, S.N. Behrman, Sonya Levien",
+  "actors": "Robert Taylor, Deborah Kerr, Leo Genn",
+  "plot": "After fierce Roman commander Marcus Vinicius becomes infatuated with beautiful Christian hostage Lygia, he begins to question the tyrannical leadership of the despotic emperor Nero.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 8 Oscars. 9 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzIwYWEwMmMtNjBkMy00MzVmLTk5Y2UtZTMwODkzZjMzNzY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "7.1",
+  "imdbID": "tt0043949",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:19:54.449Z"
+}

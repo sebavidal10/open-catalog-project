@@ -1,0 +1,31 @@
+{
+  "title": "The Thing from Another World",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "07 Apr 1951",
+  "runtime": "87 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Christian Nyby, Howard Hawks",
+  "writer": "Charles Lederer, John W. Campbell Jr., Howard Hawks",
+  "actors": "Kenneth Tobey, Margaret Sheridan, James Arness",
+  "plot": "Scientists and American Air Force officials fend off a bloodthirsty alien organism while at a remote arctic outpost.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTE0OWM5YzgtYTllZC00ZDc0LTg2YTctYTFlN2M5NTMxZDVhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0044121",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:19:55.617Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Five",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "01 Oct 1951",
+  "runtime": "93 min",
+  "genre": "Drama, Horror, Sci-Fi",
+  "director": "Arch Oboler",
+  "writer": "Arch Oboler, James Weldon Johnson",
+  "actors": "William Phipps, Susan Douglas Rubes, James Anderson",
+  "plot": "The world is destroyed in a nuclear holocaust. Only five Americans survive, including a pregnant woman, a neo-Nazi, a black man and a bank clerk.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmZjMGQ0YWUtZGNkNi00NGY0LThiYmItNTBjMzhiYjdjNDM3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0043539",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:20:34.161Z"
+}

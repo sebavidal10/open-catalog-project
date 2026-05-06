@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005761311",
+  "title": "Batman #613",
+  "authors": [
+    "Alex Sinclair",
+    "Bob Schreck",
+    "Jeph Loeb",
+    "Jim Lee",
+    "Morgan Dontanville",
+    "Richard Starkings",
+    "Scott Williams"
+  ],
+  "publish_date": "2003-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-613.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34707/",
+  "fetched_at": "2026-05-06T23:13:24.060Z",
+  "reviewed_at": null
+}

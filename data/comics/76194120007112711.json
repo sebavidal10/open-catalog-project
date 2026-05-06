@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120007112711",
+  "title": "Batman: Legends of the Dark Knight #127",
+  "authors": [
+    "Bob Schreck",
+    "Dennis O'Neil",
+    "Hugh Fleming",
+    "L. A. Williams",
+    "Matt Ryan",
+    "Rick Taylor",
+    "Sergio Cariello",
+    "Willie Schubert"
+  ],
+  "publish_date": "2000-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/10/11/7ef2875eab3b4d448456e64903c0f1c6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/76985/",
+  "fetched_at": "2026-05-06T22:52:58.748Z",
+  "reviewed_at": "2000-03-01"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Hollywood Story",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "01 Jun 1951",
+  "runtime": "77 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "William Castle",
+  "writer": "Frederick Kohner, Frederick Brady",
+  "actors": "Richard Conte, Julie Adams, Richard Egan",
+  "plot": "An independent producer unwisely opens a can of worms after he decides to make a movie about the unsolved murder of a famous silent film director in 1929.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjZmNjViMDMtMjM0ZS00N2MxLTk3MDMtOTQ2NDQ3YjFkYjk2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0043646",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:22:30.161Z"
+}

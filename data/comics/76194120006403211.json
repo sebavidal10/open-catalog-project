@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194120006403211",
+  "title": "The Batman Adventures #32",
+  "authors": [
+    "Comicraft",
+    "Dan Raspler",
+    "Mike Parobeck",
+    "Rick Burchett",
+    "Rick Taylor"
+  ],
+  "publish_date": "1995-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/2ed743e91b9d4c5dbf0a911f128cc6bc.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118070/",
+  "fetched_at": "2026-05-06T22:23:43.615Z",
+  "reviewed_at": "1995-06-01"
+}

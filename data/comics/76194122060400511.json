@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194122060400511",
+  "title": "Batman Beyond #5",
+  "authors": [
+    "Bob Smith",
+    "Craig Rousseau",
+    "Darren Vincenzo",
+    "Frank Berrios",
+    "Hilary J. Bader",
+    "Lee Loughridge",
+    "Rob Leigh",
+    "Terry Beatty",
+    "Tim Harkins"
+  ],
+  "publish_date": "2000-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/92bf1c16578348a4ac48b98d37398b2d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118088/",
+  "fetched_at": "2026-05-06T22:52:38.869Z",
+  "reviewed_at": "2000-03-01"
+}

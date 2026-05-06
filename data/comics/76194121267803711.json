@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121267803711",
+  "title": "Batman: Gotham Adventures #37",
+  "authors": [
+    "Bob Schreck",
+    "Bob Smith",
+    "Lee Loughridge",
+    "Nathan Eyring",
+    "Scott Peterson",
+    "Terry Beatty",
+    "Tim Harkins",
+    "Tim Levins"
+  ],
+  "publish_date": "2001-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/e29d8a8fbc934b09889a5f1a0e370f41.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160381/",
+  "fetched_at": "2026-05-06T23:02:11.191Z",
+  "reviewed_at": "2001-06-01"
+}

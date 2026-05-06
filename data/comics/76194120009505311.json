@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120009505311",
+  "title": "Batman: Shadow of the Bat #53",
+  "authors": [
+    "Alan Grant",
+    "Bill Oakley",
+    "Carl Critchlow",
+    "Dave Taylor",
+    "Dennis O'Neil",
+    "Jordan B. Gorfinkel",
+    "Pamela Rambo",
+    "Stan Woch"
+  ],
+  "publish_date": "1996-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-53.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30352/",
+  "fetched_at": "2026-05-06T22:29:10.035Z",
+  "reviewed_at": "1996-08-01"
+}

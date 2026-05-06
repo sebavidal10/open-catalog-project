@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120009507511",
+  "title": "Batman: Shadow of the Bat #75",
+  "authors": [
+    "Alan Grant",
+    "Bill Oakley",
+    "Dennis O'Neil",
+    "Jordan B. Gorfinkel",
+    "Mark Buckingham",
+    "Norm Breyfogle",
+    "Pamela Rambo",
+    "Wayne Faucher"
+  ],
+  "publish_date": "1998-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-75.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30407/",
+  "fetched_at": "2026-05-06T22:40:51.042Z",
+  "reviewed_at": "1998-06-01"
+}

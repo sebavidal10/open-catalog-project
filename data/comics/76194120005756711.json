@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005756711",
+  "title": "Batman #567",
+  "authors": [
+    "Damion Scott",
+    "Darren Vincenzo",
+    "Dennis O'Neil",
+    "Gregory Wright",
+    "John Floyd",
+    "Kelley Puckett",
+    "Robert Campanella",
+    "Todd Klein"
+  ],
+  "publish_date": "1999-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-567.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34661/",
+  "fetched_at": "2026-05-06T22:47:55.633Z",
+  "reviewed_at": "1999-07-01"
+}

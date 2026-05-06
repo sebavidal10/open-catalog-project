@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "76194120466601511",
+  "title": "The Batman Chronicles #15",
+  "authors": [
+    "Bill Sienkiewicz",
+    "Clem Robins",
+    "Dan Norton",
+    "Darren Vincenzo",
+    "Gloria Vasquez",
+    "Greg Rucka",
+    "James Hodgkins",
+    "Joe Staton",
+    "Jordan B. Gorfinkel",
+    "Kelley Puckett",
+    "Ken Lopez",
+    "Pamela Rambo",
+    "Pat Prentice",
+    "Rob Schwager",
+    "Roger Cruz",
+    "Sean Parsons"
+  ],
+  "publish_date": "1998-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/20/the-batman-chronicles-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25695/",
+  "fetched_at": "2026-05-06T22:44:11.072Z",
+  "reviewed_at": "1998-11-01"
+}

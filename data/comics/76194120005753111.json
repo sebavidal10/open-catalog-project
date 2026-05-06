@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005753111",
+  "title": "Batman #531",
+  "authors": [
+    "Dennis O'Neil",
+    "Doug Moench",
+    "Gregory Wright",
+    "John Beatty",
+    "Jordan B. Gorfinkel",
+    "Kelley Jones",
+    "Todd Klein"
+  ],
+  "publish_date": "1996-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/17/batman-531.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34625/",
+  "fetched_at": "2026-05-06T22:28:08.054Z",
+  "reviewed_at": "1996-06-01"
+}

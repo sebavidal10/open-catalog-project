@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120009503511",
+  "title": "Batman: Shadow of the Bat #35",
+  "authors": [
+    "Adrienne Roy",
+    "Alan Grant",
+    "Barry Kitson",
+    "Brian Stelfreeze",
+    "Dennis O'Neil",
+    "John Costanza",
+    "Jordan B. Gorfinkel",
+    "Ray McCarthy",
+    "Terry Austin"
+  ],
+  "publish_date": "1995-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-35.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30334/",
+  "fetched_at": "2026-05-06T22:22:33.506Z",
+  "reviewed_at": "1995-02-01"
+}

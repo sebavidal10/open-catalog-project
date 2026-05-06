@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005757511",
+  "title": "Batman #575",
+  "authors": [
+    "Dennis O'Neil",
+    "John Costanza",
+    "Joseph Illidge",
+    "Karl Story",
+    "Larry Hama",
+    "Roberta Tewes",
+    "Scott McDaniel",
+    "Wildstorm FX"
+  ],
+  "publish_date": "2000-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-575.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34669/",
+  "fetched_at": "2026-05-06T22:52:34.670Z",
+  "reviewed_at": "2000-03-01"
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194122060401511",
+  "title": "Batman Beyond #15",
+  "authors": [
+    "Bob Schreck",
+    "Brian Stelfreeze",
+    "Craig Rousseau",
+    "Frank Berrios",
+    "Jamison",
+    "Jason Hernandez-Rosenblatt",
+    "Rob Leigh",
+    "Tim Harkins",
+    "Trish Mulvihill"
+  ],
+  "publish_date": "2001-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/435dde51dc5f4e08926796814a6a7b17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118098/",
+  "fetched_at": "2026-05-06T22:59:24.411Z",
+  "reviewed_at": "2001-01-01"
+}

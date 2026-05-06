@@ -1,0 +1,31 @@
+{
+  "title": "Death of a Salesman",
+  "year": "1951",
+  "rated": "N/A",
+  "released": "09 May 1952",
+  "runtime": "115 min",
+  "genre": "Drama",
+  "director": "Laslo Benedek",
+  "writer": "Arthur Miller, Stanley Roberts",
+  "actors": "Fredric March, Mildred Dunnock, Kevin McCarthy",
+  "plot": "An over-the-hill salesman faces a personal turning point when he loses his job and attempts to make peace with his family.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 5 Oscars. 7 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTVmODU1YzctNDE2Ni00ODlhLWFmNTQtMDViNTNlN2MzMmVhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0043458",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:20:14.330Z"
+}

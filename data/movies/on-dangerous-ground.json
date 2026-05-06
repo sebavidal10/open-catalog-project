@@ -1,0 +1,35 @@
+{
+  "title": "On Dangerous Ground",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "12 Feb 1952",
+  "runtime": "82 min",
+  "genre": "Drama, Film-Noir",
+  "director": "Nicholas Ray, Ida Lupino",
+  "writer": "A.I. Bezzerides, Nicholas Ray, Gerald Butler",
+  "actors": "Ida Lupino, Robert Ryan, Ward Bond",
+  "plot": "Rough, violent city cop Jim Wilson is disciplined by his captain who sends him upstate to a snowy mountain town to help the local sheriff solve a murder case.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzI5MWVkOWEtYTU3ZS00YzNmLTg1ZDctOGY0MWZhYzU5ZDA0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.2",
+  "imdbID": "tt0043879",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:20:39.995Z"
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120952400111",
+  "title": "Batman / Wildcat #1",
+  "authors": [
+    "Art Thibert",
+    "Beau Smith",
+    "Chuck Dixon",
+    "Eddie Berganza",
+    "Jason Wright",
+    "Kevin Cunningham",
+    "Patrick Martin",
+    "Sergio Cariello",
+    "Tony Daniel"
+  ],
+  "publish_date": "1997-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/12/1927eca10a8d4fd0bb44084e67d7717f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145993/",
+  "fetched_at": "2026-05-06T22:32:55.839Z",
+  "reviewed_at": "1997-04-01"
+}

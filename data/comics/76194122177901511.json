@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194122177901511",
+  "title": "Batman: Gotham Knights #15",
+  "authors": [
+    "Bill Oakley",
+    "Brian Bolland",
+    "Dennis O'Neil",
+    "Devin Grayson",
+    "Frank Berrios",
+    "Gene Colan",
+    "John Floyd",
+    "Mark Chiarello",
+    "Rick Parker",
+    "Rob Schwager",
+    "Roger Robinson",
+    "Tom Palmer",
+    "Tom Peyer"
+  ],
+  "publish_date": "2001-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/24/batman-gotham-knights-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25953/",
+  "fetched_at": "2026-05-06T23:01:42.667Z",
+  "reviewed_at": "2001-05-01"
+}

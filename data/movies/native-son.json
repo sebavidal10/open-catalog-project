@@ -1,0 +1,31 @@
+{
+  "title": "Native Son",
+  "year": "1951",
+  "rated": "PG-13",
+  "released": "02 Mar 1951",
+  "runtime": "91 min",
+  "genre": "Drama, Film-Noir",
+  "director": "Pierre Chenal",
+  "writer": "Richard Wright, Pierre Chenal",
+  "actors": "Richard Wright, Jean Wallace, Gloria Madison",
+  "plot": "In 1940s Chicago, a young black man takes a job as a chauffeur to a white family, which takes a turn for the worse when he accidentally kills the teenage daughter of the couple and then tries to cover it up.",
+  "language": "English",
+  "country": "Argentina, United States",
+  "awards": "1 win & 2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTdiOTZjYmQtY2U2ZC00YjA0LWE0OTctOTEyZGQwZTViMDcxXkEyXkFqcGdeQXVyMjI3NDAyNg@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "38%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0042781",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:21:22.187Z"
+}

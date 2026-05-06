@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194122733700111",
+  "title": "Batman: Nine Lives #1",
+  "authors": [
+    "Bill Oakley",
+    "Christopher Moeller",
+    "Dean Motter",
+    "Joey Cavalieri",
+    "Matt Hollingsworth",
+    "Michael Lark"
+  ],
+  "publish_date": "2002-04-03",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/29/6ab2595eb685408fa7cd3affcb32925c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152685/",
+  "fetched_at": "2026-05-06T23:08:21.918Z",
+  "reviewed_at": null
+}

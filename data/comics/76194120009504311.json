@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120009504311",
+  "title": "Batman: Shadow of the Bat #43",
+  "authors": [
+    "Alan Grant",
+    "Barry Kitson",
+    "Bill Oakley",
+    "Brian Stelfreeze",
+    "Dennis O'Neil",
+    "Jordan B. Gorfinkel",
+    "Pat Garrahy"
+  ],
+  "publish_date": "1995-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-43.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30342/",
+  "fetched_at": "2026-05-06T22:25:42.917Z",
+  "reviewed_at": "1995-10-01"
+}

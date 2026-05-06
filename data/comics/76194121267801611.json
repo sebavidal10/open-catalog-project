@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121267801611",
+  "title": "Batman: Gotham Adventures #16",
+  "authors": [
+    "Bob Smith",
+    "Craig Rousseau",
+    "Darren Vincenzo",
+    "Joseph Illidge",
+    "Lee Loughridge",
+    "Scott Peterson",
+    "Terry Beatty",
+    "Tim Harkins"
+  ],
+  "publish_date": "1999-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/771fabdf766f46a5b33a615c4be848eb.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160361/",
+  "fetched_at": "2026-05-06T22:48:55.279Z",
+  "reviewed_at": "1999-09-01"
+}

@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194121637900211",
+  "title": "Batman Beyond #2",
+  "authors": [
+    "Darren Vincenzo",
+    "Hilary J. Bader",
+    "Lee Loughridge",
+    "Rick Burchett",
+    "Terry Beatty",
+    "Tim Harkins"
+  ],
+  "publish_date": "1999-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/11/02/batman-beyond-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/40279/",
+  "fetched_at": "2026-05-06T22:46:36.990Z",
+  "reviewed_at": "1999-04-01"
+}

@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120006402511",
+  "title": "The Batman Adventures #25",
+  "authors": [
+    "Comicraft",
+    "Kelley Puckett",
+    "Mike Parobeck",
+    "Richard Starkings",
+    "Rick Burchett",
+    "Rick Taylor"
+  ],
+  "publish_date": "1994-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/ffa6ad2eac04451490edf4e49724af00.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118063/",
+  "fetched_at": "2026-05-06T22:20:43.575Z",
+  "reviewed_at": "1994-10-01"
+}

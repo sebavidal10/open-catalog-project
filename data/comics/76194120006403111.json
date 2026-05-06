@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120006403111",
+  "title": "The Batman Adventures #31",
+  "authors": [
+    "Alan Grant",
+    "Comicraft",
+    "Dev Madan",
+    "Glen Murakami",
+    "Richard Starkings",
+    "Rick Burchett"
+  ],
+  "publish_date": "1995-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/e9ba09ee4502436b9c5120c459744c8d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118069/",
+  "fetched_at": "2026-05-06T22:23:05.338Z",
+  "reviewed_at": "1995-04-01"
+}

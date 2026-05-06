@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194121267800311",
+  "title": "Batman: Gotham Adventures #3",
+  "authors": [
+    "Darren Vincenzo",
+    "Lee Loughridge",
+    "Rick Burchett",
+    "Terry Beatty",
+    "Tim Harkins",
+    "Ty Templeton"
+  ],
+  "publish_date": "1998-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/c7ce83e29efb4ccd9a38e6076c086d29.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160350/",
+  "fetched_at": "2026-05-06T22:42:42.188Z",
+  "reviewed_at": "1998-08-01"
+}

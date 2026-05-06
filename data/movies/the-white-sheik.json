@@ -1,0 +1,31 @@
+{
+  "title": "The White Sheik",
+  "year": "1952",
+  "rated": "Not Rated",
+  "released": "25 Apr 1956",
+  "runtime": "83 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Federico Fellini",
+  "writer": "Michelangelo Antonioni, Federico Fellini, Tullio Pinelli",
+  "actors": "Alberto Sordi, Giulietta Masina, Brunella Bovo",
+  "plot": "During a day of their honeymoon, newlyweds are separated by the city's lust and the desires it produces.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWNiYmJiMTgtYTk5ZC00MzlmLTk1NjctYWUwOGYxMjkwMmRhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0044000",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:31:32.336Z"
+}

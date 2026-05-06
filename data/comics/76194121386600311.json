@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194121386600311",
+  "title": "Batman 80-Page Giant #3",
+  "authors": [
+    "Bill Sienkiewicz",
+    "Bud LaRosa",
+    "Chuck Dixon",
+    "Dale Eaglesham",
+    "David Roach",
+    "Graham Nolan",
+    "Joe Staton",
+    "John Floyd",
+    "Louis Small Jr.",
+    "Manuel Gutierrez",
+    "Mark Pennington",
+    "Mike Deodato",
+    "Patrick Martin"
+  ],
+  "publish_date": "2000-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/12/2794a88089df4f68b4134c93c88c19a9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145998/",
+  "fetched_at": "2026-05-06T22:55:19.198Z",
+  "reviewed_at": "2000-07-01"
+}

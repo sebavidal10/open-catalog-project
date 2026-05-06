@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120005751311",
+  "title": "Batman #513",
+  "authors": [
+    "Adrienne Roy",
+    "Dennis O'Neil",
+    "Doug Moench",
+    "Jordan B. Gorfinkel",
+    "Ken Bruzenak",
+    "Mike Gustovich",
+    "Mike Manley",
+    "Rick Burchett",
+    "Romeo Tanghal"
+  ],
+  "publish_date": "1994-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/17/batman-513.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34606/",
+  "fetched_at": "2026-05-06T22:21:31.166Z",
+  "reviewed_at": "1994-12-01"
+}

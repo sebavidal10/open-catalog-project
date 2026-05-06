@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121267803611",
+  "title": "Batman: Gotham Adventures #36",
+  "authors": [
+    "Bob Schreck",
+    "Bob Smith",
+    "Frank Berrios",
+    "Lee Loughridge",
+    "Scott Peterson",
+    "Terry Beatty",
+    "Tim Harkins",
+    "Tim Levins"
+  ],
+  "publish_date": "2001-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/f9a268f556df4da29ec51d0b00183d75.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160380/",
+  "fetched_at": "2026-05-06T23:01:38.623Z",
+  "reviewed_at": "2001-05-01"
+}

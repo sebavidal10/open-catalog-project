@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194122113700011",
+  "title": "Batman: No Man's Land #0",
+  "authors": [
+    "Dennis O'Neil",
+    "Drew Geraci",
+    "Frank Berrios",
+    "Glen Orbik",
+    "Greg Land",
+    "Greg Rucka",
+    "Jordan B. Gorfinkel",
+    "Joseph Illidge",
+    "Rob Schwager",
+    "Willie Schubert"
+  ],
+  "publish_date": "1999-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/29/1d9689e1fdb14958991200ae491a0890.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152651/",
+  "fetched_at": "2026-05-06T22:50:58.495Z",
+  "reviewed_at": "1999-12-01"
+}

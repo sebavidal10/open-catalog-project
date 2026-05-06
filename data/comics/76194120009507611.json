@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120009507611",
+  "title": "Batman: Shadow of the Bat #76",
+  "authors": [
+    "Alan Grant",
+    "Bill Oakley",
+    "Dennis O'Neil",
+    "Glen Orbik",
+    "Jordan B. Gorfinkel",
+    "Mark Buckingham",
+    "Pamela Rambo",
+    "Wayne Faucher"
+  ],
+  "publish_date": "1998-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-76.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30408/",
+  "fetched_at": "2026-05-06T22:42:20.892Z",
+  "reviewed_at": "1998-07-01"
+}

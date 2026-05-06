@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "76194120466602011",
+  "title": "The Batman Chronicles #20",
+  "authors": [
+    "Aaron Sowd",
+    "Bill Oakley",
+    "Bob Almond",
+    "Dean Zachary",
+    "Devin Grayson",
+    "Hector Collazo",
+    "Ian Edginton",
+    "Jordan B. Gorfinkel",
+    "Kuumba Mshindo",
+    "Noelle Giddings",
+    "Paul Becton",
+    "Phyllis Novin",
+    "Scott Beatty",
+    "Willie Schubert",
+    "Yvel Guichet"
+  ],
+  "publish_date": "2000-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/20/the-batman-chronicles-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25700/",
+  "fetched_at": "2026-05-06T22:53:15.501Z",
+  "reviewed_at": "2000-04-01"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Lost Continent",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "17 Aug 1951",
+  "runtime": "83 min",
+  "genre": "Adventure, Fantasy, Sci-Fi",
+  "director": "Sam Newfield",
+  "writer": "Richard H. Landau, Carroll Young, Orville H. Hampton",
+  "actors": "Cesar Romero, Hillary Brooke, Chick Chandler",
+  "plot": "Major Joe Nolan heads a rescue mission in the South Pacific to recover a downed atomic rocket. The crew crash lands on a mysterious island, and spends much time rock-climbing.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjYyODdjZjktYWRlMy00NGRmLWI3MDgtZGM4NjMwYWNmM2QyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "3.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "3.4",
+  "imdbID": "tt0043757",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:20:31.809Z"
+}

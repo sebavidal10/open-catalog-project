@@ -1,0 +1,35 @@
+{
+  "title": "Early Summer",
+  "year": "1951",
+  "rated": "Not Rated",
+  "released": "02 Aug 1972",
+  "runtime": "125 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Yasujirô Ozu",
+  "writer": "Kôgo Noda, Yasujirô Ozu",
+  "actors": "Setsuko Hara, Chishû Ryû, Chikage Awashima",
+  "plot": "A family chooses a match for their daughter Noriko, but she, surprisingly, has her own plans.",
+  "language": "Japanese, English",
+  "country": "Japan",
+  "awards": "7 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGY0MDM0NzQtMDQ1MS00MjU2LTlkZWItOTUyODg3NzRlNDA0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "8.1",
+  "imdbID": "tt0043313",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:20:27.141Z"
+}

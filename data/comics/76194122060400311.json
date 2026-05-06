@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194122060400311",
+  "title": "Batman Beyond #3",
+  "authors": [
+    "Bob Smith",
+    "Craig Rousseau",
+    "Frank Berrios",
+    "Hilary J. Bader",
+    "Lee Loughridge",
+    "Rob Leigh",
+    "Terry Beatty",
+    "Tim Harkins"
+  ],
+  "publish_date": "2000-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/f47eba525e6d4614b9486516553a2103.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118086/",
+  "fetched_at": "2026-05-06T22:51:25.042Z",
+  "reviewed_at": "2000-01-01"
+}

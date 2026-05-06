@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120009505511",
+  "title": "Batman: Shadow of the Bat #55",
+  "authors": [
+    "Alan Grant",
+    "Bill Oakley",
+    "Dave Dorman",
+    "Dennis O'Neil",
+    "John Van Fleet",
+    "Jordan B. Gorfinkel",
+    "Klaus Janson",
+    "Pamela Rambo",
+    "Rick Burchett"
+  ],
+  "publish_date": "1996-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-55.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30354/",
+  "fetched_at": "2026-05-06T22:29:58.767Z",
+  "reviewed_at": "1996-10-01"
+}

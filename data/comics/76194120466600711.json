@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "76194120466600711",
+  "title": "The Batman Chronicles #7",
+  "authors": [
+    "Clem Robins",
+    "Darren Vincenzo",
+    "Devin Grayson",
+    "Gloria Vasquez",
+    "Gregory Wright",
+    "Jerry Ordway",
+    "Jesse Delperdang",
+    "Jim Aparo",
+    "John Costanza",
+    "Jordan B. Gorfinkel",
+    "Ken Lopez",
+    "Lee Loughridge",
+    "Lee Weeks",
+    "Mike Grell",
+    "Rodolfo Damaggio",
+    "Sal Velluto"
+  ],
+  "publish_date": "1997-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/20/the-batman-chronicles-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25687/",
+  "fetched_at": "2026-05-06T22:31:09.643Z",
+  "reviewed_at": "1997-01-01"
+}

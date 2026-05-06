@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120005759611",
+  "title": "Batman #596",
+  "authors": [
+    "Aaron Sowd",
+    "Bill Sienkiewicz",
+    "Bob Schreck",
+    "Ed Brubaker",
+    "John Costanza",
+    "Michael Wright",
+    "Roberta Tewes",
+    "Scott McDaniel",
+    "Wildstorm FX"
+  ],
+  "publish_date": "2001-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-596.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34690/",
+  "fetched_at": "2026-05-06T23:04:45.259Z",
+  "reviewed_at": "2001-12-01"
+}

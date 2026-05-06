@@ -1,0 +1,31 @@
+{
+  "title": "The Well",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "24 Sep 1951",
+  "runtime": "86 min",
+  "genre": "Drama, Thriller",
+  "director": "Leo C. Popkin, Russell Rouse",
+  "writer": "Russell Rouse, Clarence Greene",
+  "actors": "Gwendolyn Laster, Richard Rober, Maidie Norman",
+  "plot": "A small, racially-mixed American town succumbs to violence and utter mayhem after a white man suspected of kidnapping a missing black girl is released by the white authority.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzOTU3OTA0Nl5BMl5BanBnXkFtZTYwMjI3OTU5._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0044202",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:23:57.570Z"
+}

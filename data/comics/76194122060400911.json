@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194122060400911",
+  "title": "Batman Beyond #9",
+  "authors": [
+    "Craig Rousseau",
+    "Frank Berrios",
+    "Hilary J. Bader",
+    "Joseph Illidge",
+    "Lee Loughridge",
+    "Rob Leigh",
+    "Ronnie Del Carmen",
+    "Tim Harkins"
+  ],
+  "publish_date": "2000-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/d1686bbaad4b48769775aa750fbe49cf.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118092/",
+  "fetched_at": "2026-05-06T22:55:23.235Z",
+  "reviewed_at": "2000-07-01"
+}

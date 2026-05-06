@@ -1,0 +1,31 @@
+{
+  "title": "The Importance of Being Earnest",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "15 Aug 1952",
+  "runtime": "95 min",
+  "genre": "Comedy, Drama",
+  "director": "Anthony Asquith",
+  "writer": "Oscar Wilde, Anthony Asquith",
+  "actors": "Michael Redgrave, Richard Wattis, Michael Denison",
+  "plot": "After Algernon discovers that his friend Ernest, has created a fictional brother for whenever he needs a reason to escape dull country life, Algernon poses as the brother, resulting in ever-increasing confusion.",
+  "language": "English, French",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 BAFTA Award1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTE5MDI5NTYtZjRhNC00ODNhLTk1ZDQtNzUzOGY1YzBiODZlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0044744",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:31:49.877Z"
+}

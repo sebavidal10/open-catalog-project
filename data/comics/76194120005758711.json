@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120005758711",
+  "title": "Batman #587",
+  "authors": [
+    "Bob Schreck",
+    "Durwin Talon",
+    "Greg Rucka",
+    "Matt Idelson",
+    "Noelle Giddings",
+    "Rick Burchett",
+    "Rodney Ramos",
+    "Wildstorm FX",
+    "Willie Schubert"
+  ],
+  "publish_date": "2001-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-587.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34681/",
+  "fetched_at": "2026-05-06T23:00:31.495Z",
+  "reviewed_at": "2001-03-01"
+}

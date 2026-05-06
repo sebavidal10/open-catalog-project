@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120885500111",
+  "title": "Batman: Bane #1",
+  "authors": [
+    "Bill Oakley",
+    "Brian Stelfreeze",
+    "Chuck Dixon",
+    "Darren Vincenzo",
+    "Jordan B. Gorfinkel",
+    "Rick Burchett",
+    "Scott Peterson"
+  ],
+  "publish_date": "1997-05-29",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/02/09/batman-bane-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9527/",
+  "fetched_at": "2026-05-06T22:34:02.736Z",
+  "reviewed_at": null
+}

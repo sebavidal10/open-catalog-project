@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005759411",
+  "title": "Batman #594",
+  "authors": [
+    "Bob Schreck",
+    "Ed Brubaker",
+    "John Costanza",
+    "Karl Story",
+    "Michael Wright",
+    "Roberta Tewes",
+    "Scott McDaniel",
+    "Wildstorm FX"
+  ],
+  "publish_date": "2001-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-594.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34688/",
+  "fetched_at": "2026-05-06T23:03:54.249Z",
+  "reviewed_at": "2001-10-01"
+}

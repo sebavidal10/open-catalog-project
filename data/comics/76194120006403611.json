@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120006403611",
+  "title": "The Batman Adventures #36",
+  "authors": [
+    "Darren Vincenzo",
+    "Mike Parobeck",
+    "Rick Burchett",
+    "Rick Taylor",
+    "Scott Peterson",
+    "Tim Harkins",
+    "Ty Templeton"
+  ],
+  "publish_date": "1995-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/fc64f9035b5b49d6a2a8d492b6a5e870.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118074/",
+  "fetched_at": "2026-05-06T22:25:30.948Z",
+  "reviewed_at": "1995-10-01"
+}

@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120490100111",
+  "title": "Batman / Lobo #1",
+  "authors": [
+    "Alan Grant",
+    "Bill Oakley",
+    "Dan Raspler",
+    "Nathan Eyring",
+    "Simon Bisley",
+    "Tony Bedard"
+  ],
+  "publish_date": "2000-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/11/c393788c7d0b40b8aced19cce10033a5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145947/",
+  "fetched_at": "2026-05-06T22:53:43.484Z",
+  "reviewed_at": "2000-04-01"
+}

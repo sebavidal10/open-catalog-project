@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120009505611",
+  "title": "Batman: Shadow of the Bat #56",
+  "authors": [
+    "Alan Grant",
+    "Bill Oakley",
+    "Dave Taylor",
+    "Dennis O'Neil",
+    "Duncan Fegredo",
+    "Jordan B. Gorfinkel",
+    "Pamela Rambo",
+    "Stan Woch"
+  ],
+  "publish_date": "1996-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-56.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30355/",
+  "fetched_at": "2026-05-06T22:30:24.572Z",
+  "reviewed_at": "1996-11-01"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Dear Brat",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "30 May 1951",
+  "runtime": "82 min",
+  "genre": "Comedy, Romance",
+  "director": "William A. Seiter",
+  "writer": "Devery Freeman",
+  "actors": "Mona Freeman, Billy De Wolfe, Edward Arnold",
+  "plot": "Woman gets involved with a crook trying to reform.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAyMDQ2NDY2Ml5BMl5BanBnXkFtZTgwNzk0Nzk1MDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0043457",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:26:02.535Z"
+}

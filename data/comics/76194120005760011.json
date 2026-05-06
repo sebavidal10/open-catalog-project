@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194120005760011",
+  "title": "Batman #600",
+  "authors": [
+    "Andy Owens",
+    "Bob Schreck",
+    "Ed Brubaker",
+    "Eric Shanower",
+    "Gregory Wright",
+    "James Tucker",
+    "John Costanza",
+    "Michael Wright",
+    "Patton Oswalt",
+    "Roberta Tewes",
+    "Scott McDaniel",
+    "Sergio Aragonés",
+    "Stefano Gaudiano",
+    "Wildstorm FX"
+  ],
+  "publish_date": "2002-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-600.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34694/",
+  "fetched_at": "2026-05-06T23:06:29.867Z",
+  "reviewed_at": "2002-04-01"
+}

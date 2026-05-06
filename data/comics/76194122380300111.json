@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194122380300111",
+  "title": "Batman: The Hill #1",
+  "authors": [
+    "Ben Dimagmaliw",
+    "Christopher Priest",
+    "Dennis O'Neil",
+    "Frank Berrios",
+    "John Costanza",
+    "John Lowe",
+    "Jordan B. Gorfinkel",
+    "Joseph Illidge",
+    "Shawn Martinbrough"
+  ],
+  "publish_date": "2000-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/11/05/batman-the-hill-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/40442/",
+  "fetched_at": "2026-05-06T22:54:17.406Z",
+  "reviewed_at": "2000-05-01"
+}

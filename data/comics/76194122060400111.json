@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194122060400111",
+  "title": "Batman Beyond #1",
+  "authors": [
+    "Bob Smith",
+    "Craig Rousseau",
+    "Darren Vincenzo",
+    "Hilary J. Bader",
+    "Joseph Illidge",
+    "Lee Loughridge",
+    "Rob Leigh",
+    "Terry Beatty",
+    "Tim Harkins"
+  ],
+  "publish_date": "1999-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/648c7d9ef75a4a55936cd754452cd412.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118084/",
+  "fetched_at": "2026-05-06T22:49:57.560Z",
+  "reviewed_at": "1999-11-01"
+}

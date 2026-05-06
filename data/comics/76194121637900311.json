@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194121637900311",
+  "title": "Batman Beyond #3",
+  "authors": [
+    "Darren Vincenzo",
+    "Hilary J. Bader",
+    "James Tucker",
+    "Lee Loughridge",
+    "Rick Burchett",
+    "Terry Beatty",
+    "Tim Harkins"
+  ],
+  "publish_date": "1999-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/11/02/batman-beyond-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/40280/",
+  "fetched_at": "2026-05-06T22:47:06.001Z",
+  "reviewed_at": "1999-05-01"
+}

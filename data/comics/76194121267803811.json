@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194121267803811",
+  "title": "Batman: Gotham Adventures #38",
+  "authors": [
+    "Bob Schreck",
+    "Bob Smith",
+    "Lee Loughridge",
+    "Nathan Eyring",
+    "Scott Peterson",
+    "Terry Beatty"
+  ],
+  "publish_date": "2001-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/31d054f5e20b42b58562cf3be51526e5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160382/",
+  "fetched_at": "2026-05-06T23:02:40.115Z",
+  "reviewed_at": "2001-07-01"
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120009508111",
+  "title": "Batman: Shadow of the Bat #81",
+  "authors": [
+    "Alan Grant",
+    "Bill Oakley",
+    "Dennis O'Neil",
+    "Digital Chameleon",
+    "Glen Orbik",
+    "Jordan B. Gorfinkel",
+    "Mark Buckingham",
+    "Pamela Rambo",
+    "Robert Campanella"
+  ],
+  "publish_date": "1999-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-81.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30413/",
+  "fetched_at": "2026-05-06T22:45:30.432Z",
+  "reviewed_at": "1999-01-01"
+}

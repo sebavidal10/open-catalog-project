@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194122818100111",
+  "title": "Batman: The 10-Cent Adventure #1",
+  "authors": [
+    "Dave Johnson",
+    "Greg Rucka",
+    "Klaus Janson",
+    "Lee Loughridge",
+    "Matt Idelson",
+    "Michael Wright",
+    "Rick Burchett",
+    "Willie Schubert"
+  ],
+  "publish_date": "2002-01-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/29/33f1bf90220346ae8aae85012de4f2a6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152686/",
+  "fetched_at": "2026-05-06T23:06:20.479Z",
+  "reviewed_at": null
+}

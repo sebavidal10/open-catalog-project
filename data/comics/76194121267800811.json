@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194121267800811",
+  "title": "Batman: Gotham Adventures #8",
+  "authors": [
+    "Darren Vincenzo",
+    "Lee Loughridge",
+    "Rick Burchett",
+    "Terry Beatty",
+    "Tim Harkins",
+    "Ty Templeton"
+  ],
+  "publish_date": "1999-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/a0ac4df894c344d7b5e5738593e611ab.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160354/",
+  "fetched_at": "2026-05-06T22:45:14.305Z",
+  "reviewed_at": "1999-01-01"
+}

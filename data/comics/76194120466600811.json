@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194120466600811",
+  "title": "The Batman Chronicles #8",
+  "authors": [
+    "Albert De Guzman",
+    "Darren Vincenzo",
+    "Doug Wheatley",
+    "Gloria Vasquez",
+    "Graham Nolan",
+    "John Stanisci",
+    "Jordan B. Gorfinkel",
+    "Ken Lopez",
+    "Kevin Somers",
+    "Sal Buscema",
+    "Sholly Fisch",
+    "Trish Mulvihill",
+    "Wade von Grawbadger",
+    "Walter Simonson"
+  ],
+  "publish_date": "1997-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/20/the-batman-chronicles-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25688/",
+  "fetched_at": "2026-05-06T22:31:13.529Z",
+  "reviewed_at": "1997-01-01"
+}

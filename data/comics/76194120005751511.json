@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005751511",
+  "title": "Batman #515",
+  "authors": [
+    "Adrienne Roy",
+    "Dennis O'Neil",
+    "Doug Moench",
+    "John Beatty",
+    "Jordan B. Gorfinkel",
+    "Kelley Jones",
+    "Terry Austin",
+    "Todd Klein"
+  ],
+  "publish_date": "1995-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/17/batman-515.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34608/",
+  "fetched_at": "2026-05-06T22:22:21.562Z",
+  "reviewed_at": "1995-02-01"
+}

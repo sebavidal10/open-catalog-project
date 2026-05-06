@@ -1,0 +1,35 @@
+{
+  "title": "The Day the Earth Stood Still",
+  "year": "1951",
+  "rated": "G",
+  "released": "20 Sep 1951",
+  "runtime": "92 min",
+  "genre": "Drama, Sci-Fi",
+  "director": "Robert Wise",
+  "writer": "Edmund H. North, Harry Bates",
+  "actors": "Michael Rennie, Patricia Neal, Hugh Marlowe",
+  "plot": "An alien lands in Washington, D.C. and tells the people of Earth that they must live peacefully or be destroyed as a danger to other planets.",
+  "language": "English, French, Hindi, Russian",
+  "country": "United States",
+  "awards": "3 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjNlNmQyYzYtZmJlMS00MDhkLWE4OTAtOTQ1NjAwZWRkMjAyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.7",
+  "imdbID": "tt0043456",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:19:52.103Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120187002111",
+  "title": "Batman Annual #21",
+  "authors": [
+    "Dennis O'Neil",
+    "Doug Moench",
+    "J.H. Williams III",
+    "John Costanza",
+    "Jordan B. Gorfinkel",
+    "Lee Loughridge",
+    "Mick Gray"
+  ],
+  "publish_date": "1997-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-annual-21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34829/",
+  "fetched_at": "2026-05-06T22:31:04.834Z",
+  "reviewed_at": "1997-01-01"
+}

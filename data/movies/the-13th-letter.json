@@ -1,0 +1,31 @@
+{
+  "title": "The 13th Letter",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "19 Jan 1951",
+  "runtime": "85 min",
+  "genre": "Film-Noir, Mystery",
+  "director": "Otto Preminger",
+  "writer": "Howard Koch, Louis Chavance",
+  "actors": "Linda Darnell, Charles Boyer, Michael Rennie",
+  "plot": "Respectable citizens receive anonymous letters revealing their adulterous relationships.",
+  "language": "English, French, Latin",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGJiN2IwYTAtZDdhNy00OGQyLTg3OTgtY2IzODMxODFmYWU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0043251",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:23:21.849Z"
+}

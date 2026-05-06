@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120187002311",
+  "title": "Batman Annual #23",
+  "authors": [
+    "Arthur Adams",
+    "Chuck Dixon",
+    "Darren Vincenzo",
+    "Graham Nolan",
+    "John Costanza",
+    "Joseph Illidge",
+    "Mark Pennington",
+    "Noelle Giddings"
+  ],
+  "publish_date": "1999-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-annual-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34831/",
+  "fetched_at": "2026-05-06T22:48:50.277Z",
+  "reviewed_at": "1999-09-01"
+}

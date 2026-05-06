@@ -1,0 +1,35 @@
+{
+  "title": "On Moonlight Bay",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "19 May 1952",
+  "runtime": "95 min",
+  "genre": "Comedy, Family, Musical",
+  "director": "Roy Del Ruth",
+  "writer": "Jack Rose, Melville Shavelson, Booth Tarkington",
+  "actors": "Doris Day, Gordon MacRae, Jack Smith",
+  "plot": "During World War I, a teenage girl begins a romance with a college student, but his unconventional attitudes cause friction with her father.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2Q4ZGU3MmUtZGU5OS00ZTFjLWE0Y2UtNWJjODQxMjkwNzhjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "6.9",
+  "imdbID": "tt0043880",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:20:56.396Z"
+}

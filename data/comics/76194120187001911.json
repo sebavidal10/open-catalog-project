@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120187001911",
+  "title": "Batman Annual #19",
+  "authors": [
+    "Albert De Guzman",
+    "Bret Blevins",
+    "Dennis O'Neil",
+    "Doug Moench",
+    "Jordan B. Gorfinkel",
+    "Mike Manley",
+    "Stuart Chaifetz"
+  ],
+  "publish_date": "1995-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-annual-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34827/",
+  "fetched_at": "2026-05-06T22:22:00.886Z",
+  "reviewed_at": "1995-01-01"
+}

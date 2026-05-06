@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121267804711",
+  "title": "Batman: Gotham Adventures #47",
+  "authors": [
+    "Albert De Guzman",
+    "Bob Smith",
+    "Harvey Richards",
+    "Joan Hilty",
+    "Lee Loughridge",
+    "Scott Peterson",
+    "Terry Beatty",
+    "Tim Levins"
+  ],
+  "publish_date": "2002-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/755e321833fa45fe8aaa92862970a49a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160396/",
+  "fetched_at": "2026-05-06T23:06:34.611Z",
+  "reviewed_at": "2002-04-01"
+}

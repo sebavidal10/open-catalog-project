@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005758511",
+  "title": "Batman #585",
+  "authors": [
+    "Bob Schreck",
+    "Ed Brubaker",
+    "John Costanza",
+    "Karl Story",
+    "Michael Wright",
+    "Roberta Tewes",
+    "Scott McDaniel",
+    "Wildstorm FX"
+  ],
+  "publish_date": "2001-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-585.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34679/",
+  "fetched_at": "2026-05-06T22:59:20.521Z",
+  "reviewed_at": "2001-01-01"
+}

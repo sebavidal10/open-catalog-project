@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005755611",
+  "title": "Batman #556",
+  "authors": [
+    "Brian Stelfreeze",
+    "Dennis O'Neil",
+    "Doug Moench",
+    "Gregory Wright",
+    "Joe Rubinstein",
+    "Jordan B. Gorfinkel",
+    "Norm Breyfogle",
+    "Todd Klein"
+  ],
+  "publish_date": "1998-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/17/batman-556.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34650/",
+  "fetched_at": "2026-05-06T22:41:00.563Z",
+  "reviewed_at": "1998-07-01"
+}

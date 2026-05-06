@@ -1,0 +1,27 @@
+{
+  "title": "Apache Drums",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "01 Apr 1951",
+  "runtime": "76 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Hugo Fregonese",
+  "writer": "David Chandler, Harry Brown",
+  "actors": "Stephen McNally, Coleen Gray, Willard Parker",
+  "plot": "A gambler is thrown out of a western town, but returns when the town is suddenly threatened by a band of marauding Apaches.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2M3N2FkMjMtMjU2My00NTQ3LTgxNmEtYzI4MmMyZDViNjA2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0043291",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:23:59.908Z"
+}

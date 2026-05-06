@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": "76194122054300111",
+  "title": "Batman: Dark Victory #1",
+  "authors": [
+    "Gregory Wright",
+    "Jeph Loeb",
+    "Richard Starkings",
+    "Tim Sale"
+  ],
+  "publish_date": "1999-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/01/29/batman-dv-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9061/",
+  "fetched_at": "2026-05-06T22:50:42.341Z",
+  "reviewed_at": "1999-12-01"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120009506311",
+  "title": "Batman: Shadow of the Bat #63",
+  "authors": [
+    "Alan Grant",
+    "Bill Oakley",
+    "Dave Taylor",
+    "Dennis O'Neil",
+    "Doug Beekman",
+    "Jordan B. Gorfinkel",
+    "Pamela Rambo",
+    "Stan Woch"
+  ],
+  "publish_date": "1997-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-shadow-of-the-bat-63.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30362/",
+  "fetched_at": "2026-05-06T22:33:42.159Z",
+  "reviewed_at": "1997-06-01"
+}

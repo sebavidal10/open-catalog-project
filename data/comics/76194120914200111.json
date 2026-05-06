@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120914200111",
+  "title": "Batman / Spider-Man #1",
+  "authors": [
+    "Gloria Vasquez",
+    "Graham Nolan",
+    "Heroic Age",
+    "J.M. DeMatteis",
+    "John Costanza",
+    "Karl Kesel"
+  ],
+  "publish_date": "1997-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/12/bd81e33398054c53b8b91a2caadabd7b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145971/",
+  "fetched_at": "2026-05-06T22:31:29.828Z",
+  "reviewed_at": "1997-01-01"
+}

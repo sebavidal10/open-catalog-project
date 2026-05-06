@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005755511",
+  "title": "Batman #555",
+  "authors": [
+    "Dennis O'Neil",
+    "Doug Moench",
+    "Gregory Wright",
+    "John Beatty",
+    "Jordan B. Gorfinkel",
+    "Kelley Jones",
+    "Sal Buscema",
+    "Todd Klein"
+  ],
+  "publish_date": "1998-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/17/batman-555.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34649/",
+  "fetched_at": "2026-05-06T22:40:16.657Z",
+  "reviewed_at": "1998-06-01"
+}

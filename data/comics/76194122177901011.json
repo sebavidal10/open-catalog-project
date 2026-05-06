@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194122177901011",
+  "title": "Batman: Gotham Knights #10",
+  "authors": [
+    "Alan Brennert",
+    "Bill Oakley",
+    "Brian Bolland",
+    "Dennis O'Neil",
+    "Devin Grayson",
+    "Digital Chameleon",
+    "Frank Berrios",
+    "John Floyd",
+    "John Workman",
+    "José Luis García-López",
+    "Mark Chiarello",
+    "Pamela Rambo",
+    "Roger Robinson"
+  ],
+  "publish_date": "2000-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/24/batman-gotham-knights-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25948/",
+  "fetched_at": "2026-05-06T22:59:02.614Z",
+  "reviewed_at": "2000-12-01"
+}

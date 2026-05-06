@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194120005757011",
+  "title": "Batman #570",
+  "authors": [
+    "Bronwyn Carlton Taggart",
+    "David Roach",
+    "Dennis O'Neil",
+    "Frank Berrios",
+    "John Costanza",
+    "Joseph Illidge",
+    "Mike Deodato",
+    "Pamela Rambo",
+    "Rodolfo Damaggio",
+    "Wildstorm FX"
+  ],
+  "publish_date": "1999-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-570.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34664/",
+  "fetched_at": "2026-05-06T22:49:17.417Z",
+  "reviewed_at": "1999-10-01"
+}

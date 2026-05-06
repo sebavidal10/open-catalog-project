@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "76194120466600611",
+  "title": "The Batman Chronicles #6",
+  "authors": [
+    "Brian Augustyn",
+    "Curt Swan",
+    "Darren Vincenzo",
+    "Dennis O'Neil",
+    "Enrique Quique Alcatena",
+    "Gloria Vasquez",
+    "Jesse Delperdang",
+    "John Costanza",
+    "John Dell",
+    "Jordan B. Gorfinkel",
+    "Ken Lopez",
+    "Kevin Somers",
+    "Lee Loughridge",
+    "Michael Kaluta",
+    "Ray McCarthy"
+  ],
+  "publish_date": "1996-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/20/the-batman-chronicles-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25686/",
+  "fetched_at": "2026-05-06T22:29:46.842Z",
+  "reviewed_at": "1996-10-01"
+}

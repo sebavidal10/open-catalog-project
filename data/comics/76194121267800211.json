@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194121267800211",
+  "title": "Batman: Gotham Adventures #2",
+  "authors": [
+    "Darren Vincenzo",
+    "Lee Loughridge",
+    "Rick Burchett",
+    "Terry Beatty",
+    "Tim Harkins",
+    "Ty Templeton"
+  ],
+  "publish_date": "1998-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/8f06046c888e44cbbce21cc72a85f53e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160349/",
+  "fetched_at": "2026-05-06T22:42:13.042Z",
+  "reviewed_at": "1998-07-01"
+}

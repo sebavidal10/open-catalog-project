@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194122060402311",
+  "title": "Batman Beyond #23",
+  "authors": [
+    "Bob Schreck",
+    "Brian Stelfreeze",
+    "Craig Rousseau",
+    "Digital Chameleon",
+    "John Costanza",
+    "Michael Wright",
+    "Paul Storrie",
+    "Rob Leigh",
+    "Shannon Blanchard"
+  ],
+  "publish_date": "2001-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/0fc01e39590e4170bf4e706874d733a9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118106/",
+  "fetched_at": "2026-05-06T23:03:33.668Z",
+  "reviewed_at": "2001-09-01"
+}

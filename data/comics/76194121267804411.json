@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194121267804411",
+  "title": "Batman: Gotham Adventures #44",
+  "authors": [
+    "Albert De Guzman",
+    "Bob Smith",
+    "Harvey Richards",
+    "Joan Hilty",
+    "Lee Loughridge",
+    "Nathan Eyring",
+    "Scott Peterson",
+    "Terry Beatty",
+    "Tim Levins"
+  ],
+  "publish_date": "2002-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/f9d4c943ff944d89ba664323ab5978c0.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160393/",
+  "fetched_at": "2026-05-06T23:05:13.621Z",
+  "reviewed_at": "2002-01-01"
+}

@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194120887900111",
+  "title": "Batman: Batgirl #1",
+  "authors": [
+    "Karl Kesel",
+    "Kelley Puckett",
+    "Kevin Somers",
+    "Matt Haley",
+    "Willie Schubert"
+  ],
+  "publish_date": "1997-05-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/03/01/batman-batgirl-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1404/",
+  "fetched_at": "2026-05-06T22:34:06.860Z",
+  "reviewed_at": null
+}

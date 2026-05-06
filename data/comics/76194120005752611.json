@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120005752611",
+  "title": "Batman #526",
+  "authors": [
+    "Dennis O'Neil",
+    "Doug Moench",
+    "J.H. Williams III",
+    "John Beatty",
+    "Jordan B. Gorfinkel",
+    "Kelley Jones",
+    "Mick Gray",
+    "Pat Garrahy",
+    "Todd Klein"
+  ],
+  "publish_date": "1996-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/17/batman-526.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34620/",
+  "fetched_at": "2026-05-06T22:26:38.671Z",
+  "reviewed_at": "1996-01-01"
+}

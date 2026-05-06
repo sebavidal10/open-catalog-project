@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005753411",
+  "title": "Batman #534",
+  "authors": [
+    "Bill Sienkiewicz",
+    "Dennis O'Neil",
+    "Doug Moench",
+    "Jim Aparo",
+    "Jordan B. Gorfinkel",
+    "Kelley Jones",
+    "Lee Loughridge",
+    "Todd Klein"
+  ],
+  "publish_date": "1996-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/17/batman-534.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34628/",
+  "fetched_at": "2026-05-06T22:29:18.314Z",
+  "reviewed_at": "1996-09-01"
+}

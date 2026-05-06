@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120006402911",
+  "title": "The Batman Adventures #29",
+  "authors": [
+    "Comicraft",
+    "Dev Madan",
+    "Kelley Puckett",
+    "Richard Starkings",
+    "Rick Burchett",
+    "Rick Taylor"
+  ],
+  "publish_date": "1995-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/952187749ae74b48b18ec6a5a43ffeed.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118067/",
+  "fetched_at": "2026-05-06T22:22:25.418Z",
+  "reviewed_at": "1995-02-01"
+}

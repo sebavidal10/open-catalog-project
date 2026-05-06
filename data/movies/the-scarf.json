@@ -1,0 +1,27 @@
+{
+  "title": "The Scarf",
+  "year": "1951",
+  "rated": "Approved",
+  "released": "06 Apr 1951",
+  "runtime": "93 min",
+  "genre": "Drama, Film-Noir, Thriller",
+  "director": "Ewald André Dupont",
+  "writer": "Ewald André Dupont, Isadore Goldsmith, E.A. Rolfe",
+  "actors": "John Ireland, Mercedes McCambridge, James Barton",
+  "plot": "A man believed to have murdered a woman, escapes from the insane asylum to find if he was the one who actually killed her using the scarf she was wearing.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjg2NTg3YTMtMTdmNi00OGRjLWFjNGQtODk0YjA2MGNiN2YwXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0043998",
+  "type": "movie",
+  "fetched_at": "2026-05-06T22:22:32.513Z"
+}
