@@ -1,0 +1,31 @@
+{
+  "title": "Fear and Desire",
+  "year": "1952",
+  "rated": "Not Rated",
+  "released": "01 Apr 1953",
+  "runtime": "62 min",
+  "genre": "Drama, Thriller, War",
+  "director": "Stanley Kubrick",
+  "writer": "Howard Sackler",
+  "actors": "Frank Silvera, Kenneth Harp, Paul Mazursky",
+  "plot": "Four soldiers trapped behind enemy lines must confront their fears and desires.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzU5OGNkMDItMzU4Yi00ZmZjLWI2MmQtZGFkOGMzNGIxMTcwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.3",
+  "imdbID": "tt0045758",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:27:41.873Z"
+}

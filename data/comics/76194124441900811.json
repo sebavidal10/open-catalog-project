@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194124441900811",
+  "title": "The Batman Strikes #8",
+  "authors": [
+    "Bill Matheny",
+    "Chris Jones",
+    "Dave McCaig",
+    "Heroic Age",
+    "Jeff Matsuda",
+    "Phil Balsman",
+    "Terry Beatty"
+  ],
+  "publish_date": "2005-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/c354788fc7ac4b5f9d574e76e10d49be.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114535/",
+  "fetched_at": "2026-05-13T15:41:09.878Z",
+  "reviewed_at": "2005-06-01"
+}

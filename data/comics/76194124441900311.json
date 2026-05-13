@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194124441900311",
+  "title": "The Batman Strikes #3",
+  "authors": [
+    "Bill Matheny",
+    "Bob LeRose",
+    "Chris Jones",
+    "Chuck Kim",
+    "Dave McCaig",
+    "Heroic Age",
+    "Jeff Matsuda",
+    "John Delaney",
+    "Kevin Dooley",
+    "Pat Brosseau",
+    "Ron Boyd",
+    "Steve Vance",
+    "Terry Beatty",
+    "Tim Harkins"
+  ],
+  "publish_date": "2005-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/19376bb827b04970a33a0e6f4d4aa859.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114530/",
+  "fetched_at": "2026-05-13T15:38:41.589Z",
+  "reviewed_at": "2005-01-01"
+}

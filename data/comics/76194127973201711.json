@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194127973201711",
+  "title": "Batman and Robin #17",
+  "authors": [
+    "Alex Sinclair",
+    "Gene Ha",
+    "Guillem March",
+    "Janelle Asselin",
+    "Mike Marts",
+    "Pat Brosseau",
+    "Paul Cornell",
+    "Rob Hunter",
+    "Scott McDaniel"
+  ],
+  "publish_date": "2010-11-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/30/batman-robin-v1-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19913/",
+  "fetched_at": "2026-05-13T16:14:57.571Z",
+  "reviewed_at": null
+}

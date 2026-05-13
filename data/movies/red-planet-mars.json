@@ -1,0 +1,31 @@
+{
+  "title": "Red Planet Mars",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "15 May 1952",
+  "runtime": "87 min",
+  "genre": "Drama, Sci-Fi",
+  "director": "Harry Horner",
+  "writer": "John L. Balderston, Anthony Veiller, John Hoare",
+  "actors": "Peter Graves, Andrea King, Herbert Berghof",
+  "plot": "An American scientist is able to contact and communicate with Mars with shattering political, economic, and spiritual repercussions.",
+  "language": "English, Russian",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWZjODJiZDYtNGJjZC00YzBkLWE3ZjktMWQxMDgwMDQ5NWRhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.9",
+  "imdbID": "tt0045073",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:29:19.738Z"
+}

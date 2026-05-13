@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194125326800511",
+  "title": "Batman Confidential #5",
+  "authors": [
+    "Andy Diggle",
+    "Mike Carlin",
+    "Richard Friend",
+    "Tom Palmer Jr.",
+    "Travis Lanham",
+    "Whilce Portacio"
+  ],
+  "publish_date": "2007-04-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/10/batman-confidential-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34017/",
+  "fetched_at": "2026-05-13T15:53:32.182Z",
+  "reviewed_at": null
+}

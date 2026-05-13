@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194123816600811",
+  "title": "Batman Adventures #8",
+  "authors": [
+    "Dan Slott",
+    "Harvey Richards",
+    "Jared K. Fletcher",
+    "Joan Hilty",
+    "Kelsey Shannon",
+    "Lee Loughridge",
+    "Rick Burchett",
+    "Terry Beatty",
+    "Ty Templeton",
+    "Zylonol Studios"
+  ],
+  "publish_date": "2004-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/22/938ee3e66db74354890b45a3779bdd63.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/56913/",
+  "fetched_at": "2026-05-13T15:33:06.187Z",
+  "reviewed_at": "2004-01-01"
+}

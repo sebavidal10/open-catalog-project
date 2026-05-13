@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194123816600411",
+  "title": "Batman Adventures #4",
+  "authors": [
+    "Bruce Timm",
+    "Dan Slott",
+    "Harvey Richards",
+    "Joan Hilty",
+    "Lee Loughridge",
+    "Phil Hugh Felix",
+    "Rick Burchett",
+    "Terry Beatty",
+    "Ty Templeton",
+    "Zylonol Studios"
+  ],
+  "publish_date": "2003-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/22/3ea4de987fee40549c16e256f42843cd.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/56909/",
+  "fetched_at": "2026-05-13T15:31:19.291Z",
+  "reviewed_at": "2003-09-01"
+}

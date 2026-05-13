@@ -1,0 +1,31 @@
+{
+  "title": "Kansas City Confidential",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "11 Nov 1952",
+  "runtime": "99 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Phil Karlson",
+  "writer": "George Bruce, Harry Essex, Harold Greene",
+  "actors": "John Payne, Coleen Gray, Preston Foster",
+  "plot": "An ex-con trying to go straight is framed for a million dollar armored car robbery and must go to Mexico in order to unmask the real culprits.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDg4MWRjN2QtZTk4ZS00YmY1LWJlMzQtNzJkMGQ5ZTgwMWUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0044789",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:27:45.602Z"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123816601111",
+  "title": "Batman Adventures #11",
+  "authors": [
+    "Harvey Richards",
+    "Joan Hilty",
+    "Kelsey Shannon",
+    "Lee Loughridge",
+    "Rick Burchett",
+    "Rob Leigh",
+    "Terry Beatty",
+    "Ty Templeton"
+  ],
+  "publish_date": "2004-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/22/c79f90f2160a4ea1ba29accafff40917.PNG",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/56916/",
+  "fetched_at": "2026-05-13T15:34:19.163Z",
+  "reviewed_at": "2004-04-01"
+}

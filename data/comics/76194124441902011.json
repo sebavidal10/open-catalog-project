@@ -1,0 +1,20 @@
+{
+  "isbn": null,
+  "upc": "76194124441902011",
+  "title": "The Batman Strikes #20",
+  "authors": [
+    "Chris Jones",
+    "Jai Nitz",
+    "Terry Beatty"
+  ],
+  "publish_date": "2006-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/e41cb28151e44cfa8b670e60efe5858d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114547/",
+  "fetched_at": "2026-05-13T15:48:20.166Z",
+  "reviewed_at": "2006-06-01"
+}

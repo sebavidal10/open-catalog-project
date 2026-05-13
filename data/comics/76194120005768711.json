@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194120005768711",
+  "title": "Batman #687",
+  "authors": [
+    "Ed Benes",
+    "Ian Hannin",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "J.G. Jones",
+    "Jonathan D. Smith",
+    "Judd Winick",
+    "Mike Marts",
+    "Rob Hunter",
+    "Sandu Florea",
+    "Tony Daniel"
+  ],
+  "publish_date": "2009-06-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-687.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34781/",
+  "fetched_at": "2026-05-13T16:05:43.042Z",
+  "reviewed_at": null
+}

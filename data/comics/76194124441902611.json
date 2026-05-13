@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194124441902611",
+  "title": "The Batman Strikes #26",
+  "authors": [
+    "Bill Matheny",
+    "Chris Jones",
+    "Dave McCaig",
+    "Heroic Age",
+    "Phil Balsman",
+    "Terry Beatty"
+  ],
+  "publish_date": "2006-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/b05b2ebaf3b9491885ee3d838be2f022.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114553/",
+  "fetched_at": "2026-05-13T15:51:01.584Z",
+  "reviewed_at": "2006-12-01"
+}

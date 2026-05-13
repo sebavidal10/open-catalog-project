@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194125326801311",
+  "title": "Batman Confidential #13",
+  "authors": [
+    "David Baron",
+    "John J. Hill",
+    "Mark Farmer",
+    "Mike Carlin",
+    "Rags Morales",
+    "Tom Palmer Jr.",
+    "Tony Bedard"
+  ],
+  "publish_date": "2008-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/10/batman-confidential-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34025/",
+  "fetched_at": "2026-05-13T15:57:27.008Z",
+  "reviewed_at": "2008-03-01"
+}

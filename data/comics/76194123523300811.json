@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194123523300811",
+  "title": "Superman / Batman #8",
+  "authors": [
+    "Eddie Berganza",
+    "Jeph Loeb",
+    "Michael Turner",
+    "Peter Steigerwald",
+    "Richard Starkings",
+    "Tom Palmer Jr."
+  ],
+  "publish_date": "2004-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/858d03d299184908960ca7736bcbfeab.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152552/",
+  "fetched_at": "2026-05-13T15:34:59.263Z",
+  "reviewed_at": "2004-05-01"
+}

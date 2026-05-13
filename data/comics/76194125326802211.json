@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194125326802211",
+  "title": "Batman Confidential #22",
+  "authors": [
+    "Andrew Kreisberg",
+    "Andy Owens",
+    "Jared K. Fletcher",
+    "Mike Carlin",
+    "Rachel Gluckstern",
+    "Scott McDaniel",
+    "Stéphane Roux"
+  ],
+  "publish_date": "2008-10-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/10/batman-confidential-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34034/",
+  "fetched_at": "2026-05-13T16:02:01.229Z",
+  "reviewed_at": null
+}

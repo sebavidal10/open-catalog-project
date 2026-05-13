@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194125326804811",
+  "title": "Batman Confidential #48",
+  "authors": [
+    "David Baron",
+    "Harvey Richards",
+    "Kevin VanHook",
+    "Michael Siglain",
+    "Steve Wands",
+    "Tom Mandrake"
+  ],
+  "publish_date": "2010-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/10/batman-confidential-48.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34060/",
+  "fetched_at": "2026-05-13T16:13:51.857Z",
+  "reviewed_at": null
+}

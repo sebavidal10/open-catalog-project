@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120005769011",
+  "title": "Batman #690",
+  "authors": [
+    "Jack Purcell",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Judd Winick",
+    "Mark Bagley",
+    "Mike Marts",
+    "Peter Pantazis",
+    "Rob Hunter",
+    "Tony Daniel"
+  ],
+  "publish_date": "2009-09-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-690.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34784/",
+  "fetched_at": "2026-05-13T16:07:08.186Z",
+  "reviewed_at": null
+}

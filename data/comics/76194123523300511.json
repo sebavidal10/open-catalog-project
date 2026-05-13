@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194123523300511",
+  "title": "Superman / Batman #5",
+  "authors": [
+    "Dave Stewart",
+    "Dexter Vines",
+    "Ed McGuinness",
+    "Jeph Loeb",
+    "Lee Bermejo",
+    "Richard Starkings",
+    "Tom Palmer Jr."
+  ],
+  "publish_date": "2004-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/5d80a9e0569040598e2ffaaace00dc22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152549/",
+  "fetched_at": "2026-05-13T15:33:42.566Z",
+  "reviewed_at": "2004-02-01"
+}

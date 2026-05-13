@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005765111",
+  "title": "Batman #651",
+  "authors": [
+    "Don Kramer",
+    "James Robinson",
+    "John Kalisz",
+    "Keith Champagne",
+    "Michael Siglain",
+    "Pat Brosseau",
+    "Peter J. Tomasi",
+    "Simone Bianchi"
+  ],
+  "publish_date": "2006-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-651.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34745/",
+  "fetched_at": "2026-05-13T15:47:23.127Z",
+  "reviewed_at": "2006-05-01"
+}

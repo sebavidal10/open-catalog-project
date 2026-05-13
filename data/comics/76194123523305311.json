@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123523305311",
+  "title": "Superman / Batman #53",
+  "authors": [
+    "Adam Schlagman",
+    "Eddie Berganza",
+    "John Dell",
+    "Michael Green",
+    "Mike Johnson",
+    "Nei Ruffino",
+    "Rags Morales",
+    "Rob Leigh"
+  ],
+  "publish_date": "2008-10-29",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/27aa1a607bb446459d6d0ca06a3e1db7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152597/",
+  "fetched_at": "2026-05-13T16:02:14.045Z",
+  "reviewed_at": null
+}

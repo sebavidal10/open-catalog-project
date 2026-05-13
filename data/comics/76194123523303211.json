@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194123523303211",
+  "title": "Superman / Batman #32",
+  "authors": [
+    "Adam Schlagman",
+    "Andy Lanning",
+    "Don Hillsman",
+    "Eddie Berganza",
+    "Guy Major",
+    "Mark Verheiden",
+    "Matthew Clark",
+    "Moose Baumann",
+    "Phil Jimenez",
+    "Rob Leigh",
+    "Ron Randall"
+  ],
+  "publish_date": "2007-03-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/dc68954435a448cbbef8380ff37af5e4.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152576/",
+  "fetched_at": "2026-05-13T15:52:13.748Z",
+  "reviewed_at": "2007-03-01"
+}

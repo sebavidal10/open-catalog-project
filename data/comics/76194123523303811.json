@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194123523303811",
+  "title": "Superman / Batman #38",
+  "authors": [
+    "Adam Schlagman",
+    "Alan Burnett",
+    "Claudio Castellini",
+    "Derek Fridolfs",
+    "Dustin Nguyen",
+    "Eddie Berganza",
+    "Paul Mounts",
+    "Randy Mayor",
+    "Rob Leigh"
+  ],
+  "publish_date": "2007-07-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/286a1faa4f5743ab8820e080ca9cae15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152582/",
+  "fetched_at": "2026-05-13T15:54:51.534Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194127973200911",
+  "title": "Batman and Robin #9",
+  "authors": [
+    "Cameron Stewart",
+    "Frank Quitely",
+    "Grant Morrison",
+    "Janelle Asselin",
+    "Mike Marts",
+    "Pat Brosseau",
+    "Tony Aviña"
+  ],
+  "publish_date": "2010-02-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/30/batman-robin-v1-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19905/",
+  "fetched_at": "2026-05-13T16:10:16.363Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194120005763311",
+  "title": "Batman #633",
+  "authors": [
+    "Aaron Sowd",
+    "Adam DeKraker",
+    "Bill Willingham",
+    "Bob Schreck",
+    "Ken Lopez",
+    "Kinsun Loh",
+    "Matt Wagner",
+    "Michael Wright",
+    "Rodney Ramos",
+    "Tony Aviña"
+  ],
+  "publish_date": "2004-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-633.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34727/",
+  "fetched_at": "2026-05-13T15:38:07.329Z",
+  "reviewed_at": "2004-12-01"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194124441901111",
+  "title": "The Batman Strikes #11",
+  "authors": [
+    "Bill Matheny",
+    "Chris Jones",
+    "Dave McCaig",
+    "Heroic Age",
+    "Jeff Matsuda",
+    "Phil Balsman",
+    "Terry Beatty"
+  ],
+  "publish_date": "2005-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/7158facd39c84e5daba1100ef407c728.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114538/",
+  "fetched_at": "2026-05-13T15:43:23.927Z",
+  "reviewed_at": "2005-09-01"
+}

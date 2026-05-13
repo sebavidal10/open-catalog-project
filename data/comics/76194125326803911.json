@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194125326803911",
+  "title": "Batman Confidential #39",
+  "authors": [
+    "David Baron",
+    "Janelle Asselin",
+    "Luciana Del Negro",
+    "Marcos Marz",
+    "Mike Marts",
+    "Royal McGraw",
+    "Sal Cipriano"
+  ],
+  "publish_date": "2009-12-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/10/batman-confidential-39.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34051/",
+  "fetched_at": "2026-05-13T16:09:18.300Z",
+  "reviewed_at": null
+}

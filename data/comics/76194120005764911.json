@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005764911",
+  "title": "Batman #649",
+  "authors": [
+    "Alex Sinclair",
+    "Bob Schreck",
+    "Brandon Montclare",
+    "Eric Battle",
+    "Jared K. Fletcher",
+    "Jock",
+    "Judd Winick",
+    "Rodney Ramos"
+  ],
+  "publish_date": "2006-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-649.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34743/",
+  "fetched_at": "2026-05-13T15:46:29.377Z",
+  "reviewed_at": "2006-03-01"
+}

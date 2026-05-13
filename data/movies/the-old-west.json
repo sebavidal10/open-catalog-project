@@ -1,0 +1,27 @@
+{
+  "title": "The Old West",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "15 Jan 1952",
+  "runtime": "61 min",
+  "genre": "Western",
+  "director": "George Archainbaud",
+  "writer": "Gerald Geraghty",
+  "actors": "Gene Autry, Champion, Gail Davis",
+  "plot": "Doc Lockwood and his gang are trying to take away Autry's contract for supplying horses to the stagecoach line. Parson Brooks joins Autry in an effort to clean up the town of Sadderlock.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTczOGJkOTktODQ3YS00NDQ3LWFiMmYtNmRjOGIyZmE3MzYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0044991",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:35:05.416Z"
+}

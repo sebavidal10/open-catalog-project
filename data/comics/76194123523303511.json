@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123523303511",
+  "title": "Superman / Batman #35",
+  "authors": [
+    "Adam Schlagman",
+    "Craig Yeung",
+    "Danny Luvisi",
+    "Eddie Berganza",
+    "Marc Guggenheim",
+    "Mark Verheiden",
+    "Pat Lee",
+    "Rob Leigh"
+  ],
+  "publish_date": "2007-05-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/10d78ef29241400fb062289a1d7e8f01.png",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152579/",
+  "fetched_at": "2026-05-13T15:53:56.856Z",
+  "reviewed_at": null
+}

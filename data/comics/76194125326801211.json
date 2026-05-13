@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194125326801211",
+  "title": "Batman Confidential #12",
+  "authors": [
+    "Denys Cowan",
+    "John Floyd",
+    "Ken Lopez",
+    "Michael Green",
+    "Mike Carlin",
+    "Tom Palmer Jr."
+  ],
+  "publish_date": "2008-02-06",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/10/batman-confidential-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34024/",
+  "fetched_at": "2026-05-13T15:57:05.253Z",
+  "reviewed_at": "2008-02-01"
+}

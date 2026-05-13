@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194123816601611",
+  "title": "Batman Adventures #16",
+  "authors": [
+    "Harvey Richards",
+    "Heroic Age",
+    "Kelsey Shannon",
+    "Nick J. Napolitano",
+    "Rick Burchett",
+    "Terry Beatty",
+    "Ty Templeton"
+  ],
+  "publish_date": "2004-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/22/5545d8c5f4be498987543e9632227690.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/56921/",
+  "fetched_at": "2026-05-13T15:36:31.499Z",
+  "reviewed_at": "2004-09-01"
+}

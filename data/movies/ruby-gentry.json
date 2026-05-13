@@ -1,0 +1,31 @@
+{
+  "title": "Ruby Gentry",
+  "year": "1952",
+  "rated": "N/A",
+  "released": "11 Jul 1953",
+  "runtime": "82 min",
+  "genre": "Drama, Romance",
+  "director": "King Vidor",
+  "writer": "Silvia Richards, Arthur Fitz-Richard",
+  "actors": "Jennifer Jones, Charlton Heston, Karl Malden",
+  "plot": "A sexy but poor young girl marries a rich man she doesn't love, but carries a torch for another man.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDIwZDA3OTMtOGY0Mi00ZjZhLWJkNjQtM2IzMzdmNzA5ZGMyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "63%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0045109",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:29:33.339Z"
+}

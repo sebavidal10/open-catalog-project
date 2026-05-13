@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123523303011",
+  "title": "Superman / Batman #30",
+  "authors": [
+    "Eddie Berganza",
+    "Ethan Van Sciver",
+    "Guy Major",
+    "Jeanine Schaefer",
+    "Mark Verheiden",
+    "Marlo Alquiza",
+    "Moose Baumann",
+    "Rob Leigh"
+  ],
+  "publish_date": "2006-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/d48fef1d3a77445cbf13447139a71530.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152574/",
+  "fetched_at": "2026-05-13T15:50:43.330Z",
+  "reviewed_at": "2006-11-01"
+}

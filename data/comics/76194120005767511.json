@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005767511",
+  "title": "Batman #675",
+  "authors": [
+    "Grant Morrison",
+    "Guy Major",
+    "Jeanine Schaefer",
+    "Mike Marts",
+    "Ryan Benjamin",
+    "Sal Cipriano",
+    "Saleem Crawford",
+    "Tony Daniel"
+  ],
+  "publish_date": "2008-04-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-675.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34769/",
+  "fetched_at": "2026-05-13T15:58:14.665Z",
+  "reviewed_at": null
+}

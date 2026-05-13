@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005765611",
+  "title": "Batman #656",
+  "authors": [
+    "Andy Kubert",
+    "Dave Stewart",
+    "Grant Morrison",
+    "Jesse Delperdang",
+    "Michael Siglain",
+    "Nick J. Napolitano",
+    "Peter J. Tomasi"
+  ],
+  "publish_date": "2006-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-656.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34750/",
+  "fetched_at": "2026-05-13T15:50:01.651Z",
+  "reviewed_at": "2006-10-01"
+}

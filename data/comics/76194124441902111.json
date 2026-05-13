@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194124441902111",
+  "title": "The Batman Strikes #21",
+  "authors": [
+    "Bill Matheny",
+    "Chris Jones",
+    "Dave McCaig",
+    "Heroic Age",
+    "Phil Balsman",
+    "Terry Beatty"
+  ],
+  "publish_date": "2006-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/65bf501d465e4762a980c9707d0bba02.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114548/",
+  "fetched_at": "2026-05-13T15:49:02.267Z",
+  "reviewed_at": "2006-07-01"
+}

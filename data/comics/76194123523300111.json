@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194123523300111",
+  "title": "Superman / Batman #1",
+  "authors": [
+    "Dave Stewart",
+    "Dexter Vines",
+    "Eddie Berganza",
+    "Ed McGuinness",
+    "Jeph Loeb",
+    "Richard Starkings",
+    "Tom Palmer Jr."
+  ],
+  "publish_date": "2003-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/5d294a2b725d41e89083e09a152ca90e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152545/",
+  "fetched_at": "2026-05-13T15:31:59.133Z",
+  "reviewed_at": "2003-10-01"
+}

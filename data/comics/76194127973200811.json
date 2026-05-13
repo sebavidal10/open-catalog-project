@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194127973200811",
+  "title": "Batman and Robin #8",
+  "authors": [
+    "Cameron Stewart",
+    "Frank Quitely",
+    "Grant Morrison",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Mike Marts",
+    "Tony Aviña"
+  ],
+  "publish_date": "2010-02-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/30/batman-robin-v1-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19904/",
+  "fetched_at": "2026-05-13T16:10:10.582Z",
+  "reviewed_at": null
+}

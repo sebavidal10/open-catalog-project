@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194123523306511",
+  "title": "Superman / Batman #65",
+  "authors": [
+    "Adam Schlagman",
+    "Brian Haberlin",
+    "Brian Stelfreeze",
+    "Dustin Nguyen",
+    "Eddie Berganza",
+    "Federico Dallocchio",
+    "Joe Quinones",
+    "Kelley Jones",
+    "Matt Cherniss",
+    "Peter Johnson"
+  ],
+  "publish_date": "2009-10-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/16161ec729324ba4b0c015566f2510f1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152609/",
+  "fetched_at": "2026-05-13T16:08:13.832Z",
+  "reviewed_at": null
+}

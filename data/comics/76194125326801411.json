@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194125326801411",
+  "title": "Batman Confidential #14",
+  "authors": [
+    "David Baron",
+    "Mark Farmer",
+    "Mike Carlin",
+    "Rags Morales",
+    "Tom Palmer Jr.",
+    "Tony Bedard",
+    "Travis Lanham"
+  ],
+  "publish_date": "2008-03-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/10/batman-confidential-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34026/",
+  "fetched_at": "2026-05-13T15:57:57.169Z",
+  "reviewed_at": null
+}

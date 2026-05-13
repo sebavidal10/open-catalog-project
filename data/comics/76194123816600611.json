@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194123816600611",
+  "title": "Batman Adventures #6",
+  "authors": [
+    "Dan Slott",
+    "Harvey Richards",
+    "Joan Hilty",
+    "Kelsey Shannon",
+    "Lee Loughridge",
+    "Rick Burchett",
+    "Rob Leigh",
+    "Terry Beatty",
+    "Ty Templeton"
+  ],
+  "publish_date": "2003-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/22/ecf3c6536191478d895e1120603d6645.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/56911/",
+  "fetched_at": "2026-05-13T15:32:11.315Z",
+  "reviewed_at": "2003-11-01"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Pat and Mike",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "13 Jun 1952",
+  "runtime": "95 min",
+  "genre": "Comedy, Romance, Sport",
+  "director": "George Cukor",
+  "writer": "Ruth Gordon, Garson Kanin",
+  "actors": "Spencer Tracy, Katharine Hepburn, Aldo Ray",
+  "plot": "Pat is a women's sports sensation unless her fiancé is around. Her new shady manager Mike keeps them apart and develops feelings for her.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 3 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODEzNGM2OGMtMzhlNC00YzRlLWI3ZTMtYmMxOGRlY2UxOTc5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "6.9",
+  "imdbID": "tt0045012",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:27:59.291Z"
+}

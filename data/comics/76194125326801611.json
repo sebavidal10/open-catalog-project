@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194125326801611",
+  "title": "Batman Confidential #16",
+  "authors": [
+    "Mark Farmer",
+    "Mick Gray",
+    "Mike Carlin",
+    "Rags Morales",
+    "Rodney Ramos",
+    "Sal Cipriano",
+    "Tom Palmer Jr.",
+    "Tony Bedard"
+  ],
+  "publish_date": "2008-04-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/10/batman-confidential-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34028/",
+  "fetched_at": "2026-05-13T15:58:51.545Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194125493700111",
+  "title": "Batman: Secrets #1",
+  "authors": [
+    "Alex Sinclair",
+    "Kristy Quinn",
+    "Rob Leigh",
+    "Sam Kieth",
+    "Scott Dunbier"
+  ],
+  "publish_date": "2006-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/02/02/050e49ce568d4d37ac873e34a37a0ad2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/107521/",
+  "fetched_at": "2026-05-13T15:47:38.770Z",
+  "reviewed_at": "2006-05-01"
+}

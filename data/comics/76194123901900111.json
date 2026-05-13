@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194123901900111",
+  "title": "Batman: Jekyll & Hyde #1",
+  "authors": [
+    "Jae Lee",
+    "June Chung",
+    "Michael Siglain",
+    "Mike Carlin",
+    "Paul Jenkins",
+    "Rob Leigh",
+    "Sean Phillips"
+  ],
+  "publish_date": "2005-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/29/ff737ef988a442ca8b69d0939e1bc8ae.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152722/",
+  "fetched_at": "2026-05-13T15:41:01.531Z",
+  "reviewed_at": "2005-06-01"
+}

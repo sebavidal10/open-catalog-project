@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194123523307211",
+  "title": "Superman / Batman #72",
+  "authors": [
+    "Eddie Berganza",
+    "Fabrizio Fiorentino",
+    "Jerry Ordway",
+    "Paul Levitz",
+    "Rex Ogle",
+    "Steve Wands"
+  ],
+  "publish_date": "2010-05-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/245a5a0375114a82a2c9220feb909bf3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152616/",
+  "fetched_at": "2026-05-13T16:11:57.030Z",
+  "reviewed_at": null
+}

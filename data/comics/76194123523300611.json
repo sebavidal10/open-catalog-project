@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194123523300611",
+  "title": "Superman / Batman #6",
+  "authors": [
+    "Dave Stewart",
+    "Dexter Vines",
+    "Eddie Berganza",
+    "Ed McGuinness",
+    "Jeph Loeb",
+    "Richard Starkings",
+    "Tom Palmer Jr."
+  ],
+  "publish_date": "2004-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/c574d4cabfd544f7a9a8edf118f38321.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152550/",
+  "fetched_at": "2026-05-13T15:34:06.918Z",
+  "reviewed_at": "2004-03-01"
+}

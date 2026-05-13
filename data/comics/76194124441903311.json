@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194124441903311",
+  "title": "The Batman Strikes #33",
+  "authors": [
+    "Chris Jones",
+    "Dave McCaig",
+    "Heroic Age",
+    "Jai Nitz",
+    "Nachie Castro",
+    "Terry Beatty"
+  ],
+  "publish_date": "2007-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/5184647ac352445cb1a40081ad1b4e4e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114560/",
+  "fetched_at": "2026-05-13T15:53:52.657Z",
+  "reviewed_at": "2007-07-01"
+}

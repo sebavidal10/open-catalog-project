@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194125326804011",
+  "title": "Batman Confidential #40",
+  "authors": [
+    "Janelle Asselin",
+    "José Villarrubia",
+    "Mike Marts",
+    "Sal Cipriano",
+    "Sam Kieth"
+  ],
+  "publish_date": "2010-01-06",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/10/batman-confidential-40.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34052/",
+  "fetched_at": "2026-05-13T16:09:47.550Z",
+  "reviewed_at": null
+}

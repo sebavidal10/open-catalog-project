@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194124441900211",
+  "title": "The Batman Strikes #2",
+  "authors": [
+    "Bill Matheny",
+    "Chris Jones",
+    "Dave McCaig",
+    "Heroic Age",
+    "Jeff Matsuda",
+    "Joan Hilty",
+    "Nick J. Napolitano",
+    "Terry Beatty"
+  ],
+  "publish_date": "2004-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/3e629b26480d46d78b5c7ce1a788aaf2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114529/",
+  "fetched_at": "2026-05-13T15:38:19.460Z",
+  "reviewed_at": "2004-12-01"
+}

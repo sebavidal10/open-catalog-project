@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "76194125788400111",
+  "title": "Superman / Batman Annual #1",
+  "authors": [
+    "Andy Owens",
+    "Bob Petrecca",
+    "Carlo Barberi",
+    "Cliff Rathburn",
+    "Dexter Vines",
+    "Don Hillsman",
+    "Eddie Berganza",
+    "Ed McGuinness",
+    "Guy Major",
+    "Jeanine Schaefer",
+    "Joe Kelly",
+    "Rob Leigh",
+    "Rodney Ramos",
+    "Ryan Ottley",
+    "Sean Murphy"
+  ],
+  "publish_date": "2006-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/4526b8ddca3d4e79aa860ce1e3629c1f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152632/",
+  "fetched_at": "2026-05-13T15:51:09.773Z",
+  "reviewed_at": "2006-12-01"
+}

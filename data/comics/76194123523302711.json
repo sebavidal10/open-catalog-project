@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123523302711",
+  "title": "Superman / Batman #27",
+  "authors": [
+    "Comicraft",
+    "Dave McCaig",
+    "Eddie Berganza",
+    "Ethan Van Sciver",
+    "Jeanine Schaefer",
+    "Kevin Maguire",
+    "Mark Verheiden",
+    "Moose Baumann"
+  ],
+  "publish_date": "2006-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/6e23c1cee0944bc0b75257648f7f80d0.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152571/",
+  "fetched_at": "2026-05-13T15:49:10.548Z",
+  "reviewed_at": "2006-07-01"
+}

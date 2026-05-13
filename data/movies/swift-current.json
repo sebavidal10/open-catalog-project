@@ -1,0 +1,27 @@
+{
+  "title": "Swift Current",
+  "year": "1952",
+  "rated": "N/A",
+  "released": "23 Oct 1952",
+  "runtime": "96 min",
+  "genre": "Action, Drama",
+  "director": "Senkichi Taniguchi",
+  "writer": "Motosada Nishiki, Senkichi Taniguchi",
+  "actors": "Toshirô Mifune, Asami Kuji, Setsuko Wakayama",
+  "plot": "N/A",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDA2N2Q2YTMtMDk1MS00ZTEwLWE5NTUtNWQwNTliMjBiNWZhXkEyXkFqcGdeQXVyMjM5NDM1MTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.4",
+  "imdbID": "tt0044652",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:38:07.550Z"
+}

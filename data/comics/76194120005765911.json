@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005765911",
+  "title": "Batman #659",
+  "authors": [
+    "Greg Lauren",
+    "John Ostrander",
+    "Michael Siglain",
+    "Nathan Eyring",
+    "Peter J. Tomasi",
+    "Rob Leigh",
+    "Tom Mandrake"
+  ],
+  "publish_date": "2007-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-659.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34753/",
+  "fetched_at": "2026-05-13T15:51:20.187Z",
+  "reviewed_at": "2007-01-01"
+}

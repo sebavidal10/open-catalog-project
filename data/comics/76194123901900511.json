@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194123901900511",
+  "title": "Batman: Jekyll & Hyde #5",
+  "authors": [
+    "June Chung",
+    "Michael Siglain",
+    "Mike Carlin",
+    "Paul Jenkins",
+    "Rob Leigh",
+    "Sean Phillips"
+  ],
+  "publish_date": "2005-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/29/190356bb67ed4277b62431090b5d76de.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152726/",
+  "fetched_at": "2026-05-13T15:43:53.409Z",
+  "reviewed_at": "2005-10-01"
+}

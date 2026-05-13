@@ -1,0 +1,27 @@
+{
+  "title": "Above and Beyond",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "02 Jan 1953",
+  "runtime": "122 min",
+  "genre": "Biography, Drama, War",
+  "director": "Melvin Frank, Norman Panama",
+  "writer": "Melvin Frank, Beirne Lay Jr., Norman Panama",
+  "actors": "Robert Taylor, Eleanor Parker, James Whitmore",
+  "plot": "Col. Paul Tibbets piloted the plane that dropped the atomic bomb on Hiroshima in World War II.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 1 win & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzU2ZjM0MmUtMGFjMy00YmQyLTgzZmMtMDIyZjQyYmMyNmQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0044324",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:30:01.808Z"
+}

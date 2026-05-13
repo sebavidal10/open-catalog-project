@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194123523306711",
+  "title": "Superman / Batman #67",
+  "authors": [
+    "Adam Schlagman",
+    "Eddie Berganza",
+    "Michael Atiyeh",
+    "Sal Cipriano",
+    "Scott Kolins"
+  ],
+  "publish_date": "2009-12-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/d0208e5e44af4494b70d955aaaf6e11e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152611/",
+  "fetched_at": "2026-05-13T16:09:30.487Z",
+  "reviewed_at": null
+}

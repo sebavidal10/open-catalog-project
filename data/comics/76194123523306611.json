@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194123523306611",
+  "title": "Superman / Batman #66",
+  "authors": [
+    "Adam Schlagman",
+    "Eddie Berganza",
+    "Michael Atiyeh",
+    "Sal Cipriano",
+    "Scott Kolins"
+  ],
+  "publish_date": "2009-11-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/be2f04db58a8436cbbf4431cbc22164c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152610/",
+  "fetched_at": "2026-05-13T16:08:56.630Z",
+  "reviewed_at": null
+}

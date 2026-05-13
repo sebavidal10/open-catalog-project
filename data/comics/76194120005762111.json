@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005762111",
+  "title": "Batman #621",
+  "authors": [
+    "Bob Schreck",
+    "Brian Azzarello",
+    "Clem Robins",
+    "Dave Johnson",
+    "Eduardo Risso",
+    "Trish Mulvihill",
+    "Will Dennis",
+    "Zachary Rau"
+  ],
+  "publish_date": "2004-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-621.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34715/",
+  "fetched_at": "2026-05-13T15:33:02.215Z",
+  "reviewed_at": "2004-01-01"
+}

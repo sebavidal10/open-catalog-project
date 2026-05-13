@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005767611",
+  "title": "Batman #676",
+  "authors": [
+    "Alex Ross",
+    "Grant Morrison",
+    "Guy Major",
+    "Jeanine Schaefer",
+    "Mike Marts",
+    "Randy Gentile",
+    "Sandu Florea",
+    "Tony Daniel"
+  ],
+  "publish_date": "2008-05-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-676.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34770/",
+  "fetched_at": "2026-05-13T15:58:42.388Z",
+  "reviewed_at": null
+}

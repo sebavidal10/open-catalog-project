@@ -1,0 +1,27 @@
+{
+  "title": "Amber",
+  "year": "1952",
+  "rated": "Not Rated",
+  "released": "N/A",
+  "runtime": "141 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Jayant Desai",
+  "writer": "Munshi Sagar Hussain, Dwarka Khosla, Arjun Dev Rashk",
+  "actors": "Nargis, Raj Kapoor, Agha",
+  "plot": "A vengeful princess waits for the right moment to kill her foster-father - the emperor.",
+  "language": "Hindi",
+  "country": "India",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjk5NWJhNDUtNDBiNi00Y2FjLWI4ZDEtYzg0MGM1MjMyOWJjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0213447",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:37:23.249Z"
+}

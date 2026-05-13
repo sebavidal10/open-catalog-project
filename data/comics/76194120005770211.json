@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120005770211",
+  "title": "Batman #702",
+  "authors": [
+    "Grant Morrison",
+    "Ian Hannin",
+    "Janelle Asselin",
+    "Mike Marts",
+    "Tony Daniel",
+    "Travis Lanham"
+  ],
+  "publish_date": "2010-08-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-702.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34796/",
+  "fetched_at": "2026-05-13T16:13:12.990Z",
+  "reviewed_at": null
+}

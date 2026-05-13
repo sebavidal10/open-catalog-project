@@ -1,0 +1,27 @@
+{
+  "title": "Bronco Buster",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "01 May 1952",
+  "runtime": "80 min",
+  "genre": "Western",
+  "director": "Budd Boetticher",
+  "writer": "Horace McCoy, Lillie Hayward, Peter B. Kyne",
+  "actors": "John Lund, Scott Brady, Joyce Holden",
+  "plot": "A veteran rodeo rider takes on a young apprentice in order to \"teach him the ropes\", and winds up competing against him.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MGIxNTItZjVmNC00MzQzLWI0MDEtOWM1MjRiNTk5YjIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0044452",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:37:02.550Z"
+}

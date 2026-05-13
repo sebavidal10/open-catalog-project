@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123523307011",
+  "title": "Superman / Batman #70",
+  "authors": [
+    "Ardian Syaf",
+    "Eddie Berganza",
+    "Jason Fabok",
+    "Joe Casey",
+    "Rex Ogle",
+    "Rob Leigh",
+    "Ulises Arreola",
+    "Vicente Cifuentes"
+  ],
+  "publish_date": "2010-03-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/026bf1a784ae4058884e2a0771089af6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152614/",
+  "fetched_at": "2026-05-13T16:10:57.713Z",
+  "reviewed_at": null
+}

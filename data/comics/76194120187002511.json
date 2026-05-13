@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194120187002511",
+  "title": "Batman Annual #25",
+  "authors": [
+    "Alex Sinclair",
+    "Bob Schreck",
+    "Brandon Montclare",
+    "Jim Aparo",
+    "Jim Starlin",
+    "Jock",
+    "Judd Winick",
+    "Mark Morales",
+    "Mike DeCarlo",
+    "Shane Davis",
+    "Travis Lanham"
+  ],
+  "publish_date": "2006-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-annual-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34833/",
+  "fetched_at": "2026-05-13T15:47:26.994Z",
+  "reviewed_at": "2006-05-01"
+}

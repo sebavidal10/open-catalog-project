@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194123523305611",
+  "title": "Superman / Batman #56",
+  "authors": [
+    "Adam Schlagman",
+    "Derek Fridolfs",
+    "Drew Geraci",
+    "Eddie Berganza",
+    "John Dell",
+    "Michael Green",
+    "Mike Johnson",
+    "Nei Ruffino",
+    "Rags Morales",
+    "Rob Leigh"
+  ],
+  "publish_date": "2009-03-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/583c233c009e4f26a68fa209369085b9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152600/",
+  "fetched_at": "2026-05-13T16:03:58.318Z",
+  "reviewed_at": null
+}

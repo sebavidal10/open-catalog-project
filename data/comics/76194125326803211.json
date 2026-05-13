@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194125326803211",
+  "title": "Batman Confidential #32",
+  "authors": [
+    "Andy Clarke",
+    "David Baron",
+    "Guillem March",
+    "Janelle Asselin",
+    "Mike Marts",
+    "Peter Milligan",
+    "Sal Cipriano"
+  ],
+  "publish_date": "2009-08-05",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/10/batman-confidential-32.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34044/",
+  "fetched_at": "2026-05-13T16:06:46.682Z",
+  "reviewed_at": null
+}

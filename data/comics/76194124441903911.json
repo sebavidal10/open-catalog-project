@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194124441903911",
+  "title": "The Batman Strikes #39",
+  "authors": [
+    "Chris Jones",
+    "Heroic Age",
+    "Jai Nitz",
+    "Terry Beatty",
+    "Travis Lanham"
+  ],
+  "publish_date": "2008-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/e2c1415eb4c44f13a6c6e23cd13e3ff1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114566/",
+  "fetched_at": "2026-05-13T15:56:39.993Z",
+  "reviewed_at": "2008-01-01"
+}

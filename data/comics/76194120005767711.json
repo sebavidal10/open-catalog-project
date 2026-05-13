@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005767711",
+  "title": "Batman #677",
+  "authors": [
+    "Alex Ross",
+    "Grant Morrison",
+    "Guy Major",
+    "Jared K. Fletcher",
+    "Jeanine Schaefer",
+    "Mike Marts",
+    "Sandu Florea",
+    "Tony Daniel"
+  ],
+  "publish_date": "2008-05-29",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-677.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34771/",
+  "fetched_at": "2026-05-13T15:59:08.866Z",
+  "reviewed_at": null
+}

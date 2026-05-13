@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194125326800211",
+  "title": "Batman Confidential #2",
+  "authors": [
+    "Andy Diggle",
+    "Mike Carlin",
+    "Richard Friend",
+    "Tom Palmer Jr.",
+    "Travis Lanham",
+    "Whilce Portacio"
+  ],
+  "publish_date": "2007-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/10/batman-confidential-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34014/",
+  "fetched_at": "2026-05-13T15:52:26.436Z",
+  "reviewed_at": "2007-03-01"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194123523300211",
+  "title": "Superman / Batman #2",
+  "authors": [
+    "Dave Stewart",
+    "Dexter Vines",
+    "Eddie Berganza",
+    "Ed McGuinness",
+    "Jeph Loeb",
+    "Richard Starkings",
+    "Tom Palmer Jr."
+  ],
+  "publish_date": "2003-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/97facd1d8f7f487888b6588ef597034d.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152546/",
+  "fetched_at": "2026-05-13T15:32:23.103Z",
+  "reviewed_at": "2003-11-01"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005763811",
+  "title": "Batman #638",
+  "authors": [
+    "Alex Sinclair",
+    "Bob Schreck",
+    "Doug Mahnke",
+    "Judd Winick",
+    "Matt Wagner",
+    "Michael Wright",
+    "Rob Leigh",
+    "Tom Nguyen"
+  ],
+  "publish_date": "2005-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-638.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34732/",
+  "fetched_at": "2026-05-13T15:40:27.448Z",
+  "reviewed_at": "2005-05-01"
+}

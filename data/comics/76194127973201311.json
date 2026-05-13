@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194127973201311",
+  "title": "Batman and Robin #13",
+  "authors": [
+    "Frank Quitely",
+    "Frazer Irving",
+    "Grant Morrison",
+    "Janelle Asselin",
+    "Mike Marts",
+    "Pat Brosseau"
+  ],
+  "publish_date": "2010-07-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/30/batman-robin-v1-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19909/",
+  "fetched_at": "2026-05-13T16:12:10.118Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194124441903111",
+  "title": "The Batman Strikes #31",
+  "authors": [
+    "Chris Jones",
+    "Heroic Age",
+    "John J. Hill",
+    "Matthew K. Manning",
+    "Nachie Castro",
+    "Terry Beatty"
+  ],
+  "publish_date": "2007-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/cc11717523ad41c1b991c700fb7f2159.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114558/",
+  "fetched_at": "2026-05-13T15:53:15.841Z",
+  "reviewed_at": "2007-05-01"
+}

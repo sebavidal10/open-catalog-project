@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194127973200411",
+  "title": "Batman and Robin #4",
+  "authors": [
+    "Frank Quitely",
+    "Grant Morrison",
+    "Janelle Asselin",
+    "Jonathan Glapion",
+    "Mike Marts",
+    "Pat Brosseau",
+    "Peter Pantazis",
+    "Philip Tan"
+  ],
+  "publish_date": "2009-09-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/30/batman-robin-v1-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19900/",
+  "fetched_at": "2026-05-13T16:07:12.324Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120007118611",
+  "title": "Batman: Legends of the Dark Knight #186",
+  "authors": [
+    "Bob Schreck",
+    "Michael Wright",
+    "Pat Brosseau",
+    "Rodney Ramos",
+    "Sean Phillips",
+    "Shane McCarthy",
+    "Tommy Castillo",
+    "Tony Aviña"
+  ],
+  "publish_date": "2005-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/10/11/5cd4cfad676d4fc4b122121823e1169c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/77044/",
+  "fetched_at": "2026-05-13T15:39:07.402Z",
+  "reviewed_at": "2005-02-01"
+}

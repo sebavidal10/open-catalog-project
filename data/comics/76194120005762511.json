@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005762511",
+  "title": "Batman #625",
+  "authors": [
+    "Bob Schreck",
+    "Brian Azzarello",
+    "Casey Seijas",
+    "Clem Robins",
+    "Dave Johnson",
+    "Eduardo Risso",
+    "Trish Mulvihill",
+    "Will Dennis"
+  ],
+  "publish_date": "2004-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-625.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34719/",
+  "fetched_at": "2026-05-13T15:34:43.286Z",
+  "reviewed_at": "2004-05-01"
+}

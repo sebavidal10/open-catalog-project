@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120005766911",
+  "title": "Batman #669",
+  "authors": [
+    "Dave Stewart",
+    "Grant Morrison",
+    "Jeanine Schaefer",
+    "J.H. Williams III",
+    "Mike Marts",
+    "Rob Leigh"
+  ],
+  "publish_date": "2007-09-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-669.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34763/",
+  "fetched_at": "2026-05-13T15:55:30.552Z",
+  "reviewed_at": null
+}

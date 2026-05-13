@@ -1,0 +1,27 @@
+{
+  "title": "The Paris Express",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "05 Jun 1953",
+  "runtime": "82 min",
+  "genre": "Crime, Drama",
+  "director": "Harold French",
+  "writer": "Georges Simenon, Harold French, Paul Jarrico",
+  "actors": "Claude Rains, Michael Nightingale, Felix Aylmer",
+  "plot": "A Dutch company's owner bankrupts his own company, burns the incriminating ledgers and plans to run to Paris with the company funds but he is caught in the act by his accountant who challenges his actions, leading to a reversal of...",
+  "language": "English, French",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA3OTMwNTUxMl5BMl5BanBnXkFtZTgwNTkxMDkwMzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0046034",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:30:20.334Z"
+}

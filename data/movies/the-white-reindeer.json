@@ -1,0 +1,31 @@
+{
+  "title": "The White Reindeer",
+  "year": "1952",
+  "rated": "Not Rated",
+  "released": "N/A",
+  "runtime": "74 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Erik Blomberg",
+  "writer": "Erik Blomberg, Mirjami Kuosmanen",
+  "actors": "Mirjami Kuosmanen, Kalervo Nissilä, Åke Lindman",
+  "plot": "A newlywed woman goes to the local shaman to get some help with her love life, but instead she gets turned into a white reindeer vampire.",
+  "language": "Finnish",
+  "country": "Finland",
+  "awards": "5 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMzZTA5M2QtYmY5ZS00YzU5LWExMmYtMDMxZDA1YTZlZDMwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0045283",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:28:41.402Z"
+}

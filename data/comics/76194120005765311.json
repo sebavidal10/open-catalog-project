@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005765311",
+  "title": "Batman #653",
+  "authors": [
+    "Don Kramer",
+    "James Robinson",
+    "John Kalisz",
+    "Michael Siglain",
+    "Peter J. Tomasi",
+    "Simone Bianchi",
+    "Travis Lanham",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2006-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-653.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34747/",
+  "fetched_at": "2026-05-13T15:48:40.963Z",
+  "reviewed_at": "2006-07-01"
+}

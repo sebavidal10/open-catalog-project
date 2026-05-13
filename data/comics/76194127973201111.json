@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194127973201111",
+  "title": "Batman and Robin #11",
+  "authors": [
+    "Alex Sinclair",
+    "Andy Clarke",
+    "Frank Quitely",
+    "Grant Morrison",
+    "Janelle Asselin",
+    "Mike Marts",
+    "Pat Brosseau",
+    "Scott Hanna",
+    "Tony Aviña"
+  ],
+  "publish_date": "2010-04-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/30/batman-robin-v1-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19907/",
+  "fetched_at": "2026-05-13T16:11:11.438Z",
+  "reviewed_at": null
+}

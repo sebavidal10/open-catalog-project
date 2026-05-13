@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194124441901811",
+  "title": "The Batman Strikes #18",
+  "authors": [
+    "Bill Matheny",
+    "Chris Jones",
+    "Dave McCaig",
+    "Heroic Age",
+    "Jeff Matsuda",
+    "Terry Beatty",
+    "Travis Lanham"
+  ],
+  "publish_date": "2006-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/438294fb248d4b89a83b56f8d9de4b21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114545/",
+  "fetched_at": "2026-05-13T15:47:06.107Z",
+  "reviewed_at": "2006-04-01"
+}

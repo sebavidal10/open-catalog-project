@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194123523306211",
+  "title": "Superman / Batman #62",
+  "authors": [
+    "Adam Schlagman",
+    "David Baron",
+    "Eddie Berganza",
+    "Michael Green",
+    "Mike Johnson",
+    "Rafael Albuquerque",
+    "Rob Leigh"
+  ],
+  "publish_date": "2009-07-15",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/f00eba64f86e481e91cdb9225e9e35a4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152606/",
+  "fetched_at": "2026-05-13T16:06:24.656Z",
+  "reviewed_at": null
+}

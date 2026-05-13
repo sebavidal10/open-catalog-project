@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005765011",
+  "title": "Batman #650",
+  "authors": [
+    "Alex Sinclair",
+    "Bob Schreck",
+    "Brandon Montclare",
+    "Eric Battle",
+    "Jock",
+    "Judd Winick",
+    "Pat Brosseau",
+    "Rodney Ramos"
+  ],
+  "publish_date": "2006-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-650.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34744/",
+  "fetched_at": "2026-05-13T15:46:54.078Z",
+  "reviewed_at": "2006-04-01"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194124441900111",
+  "title": "The Batman Strikes #1",
+  "authors": [
+    "Bill Matheny",
+    "Chris Jones",
+    "Dave McCaig",
+    "Harvey Richards",
+    "Heroic Age",
+    "Jeff Matsuda",
+    "Joan Hilty",
+    "Pat Brosseau",
+    "Terry Beatty",
+    "Todd Klein"
+  ],
+  "publish_date": "2004-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/8f77e22ef8474eb4b5cc8766b5f8e0bd.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114528/",
+  "fetched_at": "2026-05-13T15:37:58.441Z",
+  "reviewed_at": "2004-11-01"
+}

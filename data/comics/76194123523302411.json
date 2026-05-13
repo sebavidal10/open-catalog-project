@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123523302411",
+  "title": "Superman / Batman #24",
+  "authors": [
+    "Dave McCaig",
+    "Dexter Vines",
+    "Don Hillsman",
+    "Eddie Berganza",
+    "Ed McGuinness",
+    "Jeph Loeb",
+    "Richard Starkings",
+    "Tom Palmer Jr."
+  ],
+  "publish_date": "2006-03-29",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/aba876202221435d8f4547ab61b96d8d.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152568/",
+  "fetched_at": "2026-05-13T15:45:46.661Z",
+  "reviewed_at": "2006-03-01"
+}

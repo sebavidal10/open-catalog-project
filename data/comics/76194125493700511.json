@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": "76194125493700511",
+  "title": "Batman: Secrets #5",
+  "authors": [
+    "Alex Sinclair",
+    "Phil Balsman",
+    "Sam Kieth",
+    "Scott Dunbier"
+  ],
+  "publish_date": "2006-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/02/02/e9058f0a6bac40cbb6f9eabb08ef5236.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/107525/",
+  "fetched_at": "2026-05-13T15:49:44.483Z",
+  "reviewed_at": "2006-09-01"
+}

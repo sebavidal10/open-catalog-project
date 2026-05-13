@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194124416700111",
+  "title": "Batman: Gotham County Line #1",
+  "authors": [
+    "Joey Cavalieri",
+    "José Villarrubia",
+    "Michael Wright",
+    "Pat Brosseau",
+    "Scott Hampton",
+    "Steve Niles"
+  ],
+  "publish_date": "2005-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/29/a650539396ce46179a6910fe165b1bb3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152733/",
+  "fetched_at": "2026-05-13T15:44:57.308Z",
+  "reviewed_at": "2005-12-01"
+}

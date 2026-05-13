@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005764011",
+  "title": "Batman #640",
+  "authors": [
+    "Alex Sinclair",
+    "Bob Schreck",
+    "Cam Smith",
+    "Judd Winick",
+    "Matt Wagner",
+    "Michael Wright",
+    "Paul Lee",
+    "Phil Balsman"
+  ],
+  "publish_date": "2005-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-640.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34734/",
+  "fetched_at": "2026-05-13T15:41:27.690Z",
+  "reviewed_at": "2005-07-01"
+}

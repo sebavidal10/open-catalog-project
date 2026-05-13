@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194124441903411",
+  "title": "The Batman Strikes #34",
+  "authors": [
+    "Chris Jones",
+    "Dave McCaig",
+    "Heroic Age",
+    "J. Torres",
+    "Nachie Castro",
+    "Terry Beatty"
+  ],
+  "publish_date": "2007-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/cd86fedcc5ab4f17b2744a34472c8912.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114561/",
+  "fetched_at": "2026-05-13T15:54:13.861Z",
+  "reviewed_at": "2007-08-01"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Springfield Rifle",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "25 Oct 1952",
+  "runtime": "93 min",
+  "genre": "Thriller, War, Western",
+  "director": "André De Toth",
+  "writer": "Charles Marquis Warren, Frank Davis, Sloan Nibley",
+  "actors": "Gary Cooper, Phyllis Thaxter, David Brian",
+  "plot": "Major Lex Kearney becomes the North's first counterespionage agent as he tries to discover who's behind the theft of Union cavalry horses in Colorado during the Civil War.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWMzODA2NzctYjU0YS00N2Y4LTk5ZDEtMTEyNzgzMzc0YTQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0045184",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:28:25.346Z"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005763411",
+  "title": "Batman #634",
+  "authors": [
+    "Andersen Gabrych",
+    "Bob Schreck",
+    "Brian Horton",
+    "Guy Major",
+    "Matt Wagner",
+    "Michael Wright",
+    "Pat Brosseau",
+    "Paul Lee"
+  ],
+  "publish_date": "2005-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-634.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34728/",
+  "fetched_at": "2026-05-13T15:38:29.556Z",
+  "reviewed_at": "2005-01-01"
+}

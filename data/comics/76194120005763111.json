@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005763111",
+  "title": "Batman #631",
+  "authors": [
+    "Aaron Sowd",
+    "Bill Willingham",
+    "Bob Schreck",
+    "Jared K. Fletcher",
+    "Kinsun Loh",
+    "Matt Wagner",
+    "Michael Wright",
+    "Tony Aviña"
+  ],
+  "publish_date": "2004-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-631.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34725/",
+  "fetched_at": "2026-05-13T15:36:56.101Z",
+  "reviewed_at": "2004-10-01"
+}

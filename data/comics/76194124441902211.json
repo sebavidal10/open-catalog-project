@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194124441902211",
+  "title": "The Batman Strikes #22",
+  "authors": [
+    "Bill Matheny",
+    "Chris Jones",
+    "Dave McCaig",
+    "Heroic Age",
+    "Jared K. Fletcher",
+    "Terry Beatty"
+  ],
+  "publish_date": "2006-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/241b8146a04f4f83bf5a57409247c11d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114549/",
+  "fetched_at": "2026-05-13T15:49:27.542Z",
+  "reviewed_at": "2006-08-01"
+}

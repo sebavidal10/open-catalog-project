@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194124441900511",
+  "title": "The Batman Strikes #5",
+  "authors": [
+    "Bill Matheny",
+    "Chris Jones",
+    "Dave McCaig",
+    "Heroic Age",
+    "Jeff Matsuda",
+    "Phil Balsman",
+    "Terry Beatty"
+  ],
+  "publish_date": "2005-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/864b84c73f25420882dfafacf64751d7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114532/",
+  "fetched_at": "2026-05-13T15:39:36.676Z",
+  "reviewed_at": "2005-03-01"
+}

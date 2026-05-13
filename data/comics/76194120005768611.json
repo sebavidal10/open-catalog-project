@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005768611",
+  "title": "Batman #686",
+  "authors": [
+    "Alex Ross",
+    "Alex Sinclair",
+    "Andy Kubert",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Mike Marts",
+    "Neil Gaiman",
+    "Scott Williams"
+  ],
+  "publish_date": "2009-02-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-686.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34780/",
+  "fetched_at": "2026-05-13T16:03:46.220Z",
+  "reviewed_at": null
+}

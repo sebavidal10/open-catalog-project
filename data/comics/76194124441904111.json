@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194124441904111",
+  "title": "The Batman Strikes #41",
+  "authors": [
+    "Chris Jones",
+    "Heroic Age",
+    "Nachie Castro",
+    "Randy Gentile",
+    "Russell Lissau",
+    "Terry Beatty"
+  ],
+  "publish_date": "2008-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/f4c8389be5924fab84df9a882f220073.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114568/",
+  "fetched_at": "2026-05-13T15:57:31.309Z",
+  "reviewed_at": "2008-03-01"
+}

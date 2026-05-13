@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194128996000211",
+  "title": "Batman Beyond #2",
+  "authors": [
+    "Adam Beechen",
+    "David Baron",
+    "Dustin Nguyen",
+    "Harvey Richards",
+    "John Stanisci",
+    "Michael Siglain",
+    "Ryan Benjamin",
+    "Travis Lanham"
+  ],
+  "publish_date": "2010-07-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/6a2fcb5ba1814eb89607164bf31d8760.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118109/",
+  "fetched_at": "2026-05-13T16:12:47.492Z",
+  "reviewed_at": null
+}

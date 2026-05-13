@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123816601211",
+  "title": "Batman Adventures #12",
+  "authors": [
+    "Harvey Richards",
+    "Heroic Age",
+    "Joan Hilty",
+    "Kelsey Shannon",
+    "Phil Balsman",
+    "Rick Burchett",
+    "Terry Beatty",
+    "Ty Templeton"
+  ],
+  "publish_date": "2004-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/22/fe509c835ab84dc98b2744cbd143391f.PNG",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/56917/",
+  "fetched_at": "2026-05-13T15:34:47.281Z",
+  "reviewed_at": "2004-05-01"
+}

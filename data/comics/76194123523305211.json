@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123523305211",
+  "title": "Superman / Batman #52",
+  "authors": [
+    "Adam Schlagman",
+    "Cris Peter",
+    "Eddie Berganza",
+    "Michael Green",
+    "Mike Johnson",
+    "Rafael Albuquerque",
+    "Rob Leigh",
+    "Ryan Sook"
+  ],
+  "publish_date": "2008-09-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/f15f82e2ad4643b589ded2bfb2f10f69.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152596/",
+  "fetched_at": "2026-05-13T16:01:42.867Z",
+  "reviewed_at": null
+}

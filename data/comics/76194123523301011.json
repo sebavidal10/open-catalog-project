@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194123523301011",
+  "title": "Superman / Batman #10",
+  "authors": [
+    "Alex Sinclair",
+    "Eddie Berganza",
+    "Jeph Loeb",
+    "Jim Lee",
+    "Michael Turner",
+    "Peter Steigerwald",
+    "Richard Starkings",
+    "Scott Williams",
+    "Tom Palmer Jr."
+  ],
+  "publish_date": "2004-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/213461fdda2346348a516cd4614c476f.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152554/",
+  "fetched_at": "2026-05-13T15:35:53.366Z",
+  "reviewed_at": "2004-07-01"
+}

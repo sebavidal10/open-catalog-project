@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120005769311",
+  "title": "Batman #693",
+  "authors": [
+    "Ian Hannin",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Mike Marts",
+    "Sandu Florea",
+    "Tony Daniel"
+  ],
+  "publish_date": "2009-11-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-693.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34787/",
+  "fetched_at": "2026-05-13T16:08:23.722Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194123901900411",
+  "title": "Batman: Jekyll & Hyde #4",
+  "authors": [
+    "June Chung",
+    "Michael Siglain",
+    "Mike Carlin",
+    "Paul Jenkins",
+    "Rob Leigh",
+    "Sean Phillips"
+  ],
+  "publish_date": "2005-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/29/91e7c90489cb4a20ae3134602d71fca4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152725/",
+  "fetched_at": "2026-05-13T15:43:13.831Z",
+  "reviewed_at": "2005-09-01"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005768411",
+  "title": "Batman #684",
+  "authors": [
+    "Alex Ross",
+    "Dennis O'Neil",
+    "Guillem March",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Mike Marts",
+    "Tony Daniel"
+  ],
+  "publish_date": "2009-01-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-684.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34778/",
+  "fetched_at": "2026-05-13T16:02:55.053Z",
+  "reviewed_at": null
+}

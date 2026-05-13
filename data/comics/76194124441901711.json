@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194124441901711",
+  "title": "The Batman Strikes #17",
+  "authors": [
+    "Bill Matheny",
+    "Chris Jones",
+    "Dave McCaig",
+    "Heroic Age",
+    "Terry Beatty",
+    "Travis Lanham"
+  ],
+  "publish_date": "2006-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/15ad193ec63942a3ae3a4518f5e49b2c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114544/",
+  "fetched_at": "2026-05-13T15:46:41.555Z",
+  "reviewed_at": "2006-03-01"
+}

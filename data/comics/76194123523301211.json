@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194123523301211",
+  "title": "Superman / Batman #12",
+  "authors": [
+    "Eddie Berganza",
+    "Jeph Loeb",
+    "Michael Turner",
+    "Peter Steigerwald",
+    "Richard Starkings",
+    "Tom Palmer Jr."
+  ],
+  "publish_date": "2004-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/b334455161e544ceb9572555236acfa5.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152556/",
+  "fetched_at": "2026-05-13T15:36:47.381Z",
+  "reviewed_at": "2004-09-01"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194123816600511",
+  "title": "Batman Adventures #5",
+  "authors": [
+    "Dan Slott",
+    "Harvey Richards",
+    "Joan Hilty",
+    "Kelsey Shannon",
+    "Lee Loughridge",
+    "Phil Hugh Felix",
+    "Rick Burchett",
+    "Terry Beatty",
+    "Ty Templeton",
+    "Zylonol Studios"
+  ],
+  "publish_date": "2003-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/22/e87a1680edf6443fb4068eed839a7bd9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/56910/",
+  "fetched_at": "2026-05-13T15:31:43.500Z",
+  "reviewed_at": "2003-10-01"
+}

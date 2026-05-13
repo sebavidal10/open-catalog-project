@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194123523302911",
+  "title": "Superman / Batman #29",
+  "authors": [
+    "Eddie Berganza",
+    "Ethan Van Sciver",
+    "Guy Major",
+    "Jeanine Schaefer",
+    "Mark Verheiden",
+    "Moose Baumann",
+    "Rob Leigh"
+  ],
+  "publish_date": "2006-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/51e9c26cf4bf40649741edd2f3d7b414.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152573/",
+  "fetched_at": "2026-05-13T15:50:18.946Z",
+  "reviewed_at": "2006-10-01"
+}

@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120005769411",
+  "title": "Batman #694",
+  "authors": [
+    "Ian Hannin",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Mike Marts",
+    "Sandu Florea",
+    "Tony Daniel"
+  ],
+  "publish_date": "2009-12-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-694.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34788/",
+  "fetched_at": "2026-05-13T16:09:06.157Z",
+  "reviewed_at": null
+}

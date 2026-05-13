@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005767911",
+  "title": "Batman #679",
+  "authors": [
+    "Alex Ross",
+    "Grant Morrison",
+    "Guy Major",
+    "Mike Marts",
+    "Randy Gentile",
+    "Sandu Florea",
+    "Tony Daniel"
+  ],
+  "publish_date": "2008-08-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-679.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34773/",
+  "fetched_at": "2026-05-13T16:00:15.985Z",
+  "reviewed_at": null
+}

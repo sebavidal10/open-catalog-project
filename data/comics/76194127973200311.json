@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194127973200311",
+  "title": "Batman and Robin #3",
+  "authors": [
+    "Alex Sinclair",
+    "Frank Quitely",
+    "Grant Morrison",
+    "Janelle Asselin",
+    "Mike Marts",
+    "Pat Brosseau",
+    "Tony Daniel"
+  ],
+  "publish_date": "2009-08-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/30/batman-robin-v1-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19899/",
+  "fetched_at": "2026-05-13T16:06:38.734Z",
+  "reviewed_at": null
+}

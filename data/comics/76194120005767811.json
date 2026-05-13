@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005767811",
+  "title": "Batman #678",
+  "authors": [
+    "Alex Ross",
+    "Grant Morrison",
+    "Guy Major",
+    "Jeanine Schaefer",
+    "Mike Marts",
+    "Randy Gentile",
+    "Sandu Florea",
+    "Tony Daniel"
+  ],
+  "publish_date": "2008-07-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-678.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34772/",
+  "fetched_at": "2026-05-13T15:59:43.036Z",
+  "reviewed_at": null
+}

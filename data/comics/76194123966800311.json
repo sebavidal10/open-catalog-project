@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194123966800311",
+  "title": "Batman: Year 100 #3",
+  "authors": [
+    "Bob Schreck",
+    "Brandon Montclare",
+    "Jared K. Fletcher",
+    "John Workman",
+    "José Villarrubia",
+    "Nachie Castro",
+    "Paul Pope"
+  ],
+  "publish_date": "2006-04-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/30/45ca400591ab4f598a60be4a80b0b394.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152802/",
+  "fetched_at": "2026-05-13T15:48:28.005Z",
+  "reviewed_at": null
+}

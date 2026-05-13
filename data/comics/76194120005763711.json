@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005763711",
+  "title": "Batman #637",
+  "authors": [
+    "Alex Sinclair",
+    "Bob Schreck",
+    "Doug Mahnke",
+    "Judd Winick",
+    "Matt Wagner",
+    "Michael Wright",
+    "Rob Leigh",
+    "Tom Nguyen"
+  ],
+  "publish_date": "2005-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-637.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34731/",
+  "fetched_at": "2026-05-13T15:39:53.808Z",
+  "reviewed_at": "2005-04-01"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120187002611",
+  "title": "Batman Annual #26",
+  "authors": [
+    "Álvaro López",
+    "Brian Stelfreeze",
+    "David López",
+    "Jeanine Schaefer",
+    "Peter Milligan",
+    "Phil Balsman",
+    "Trish Mulvihill"
+  ],
+  "publish_date": "2007-08-29",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-annual-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34834/",
+  "fetched_at": "2026-05-13T15:55:00.227Z",
+  "reviewed_at": null
+}

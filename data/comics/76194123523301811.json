@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194123523301811",
+  "title": "Superman / Batman #18",
+  "authors": [
+    "Carlos Pacheco",
+    "Dan DiDio",
+    "Eddie Berganza",
+    "Ivan Reis",
+    "Jeph Loeb",
+    "Jesús Merino",
+    "Larry Molinar",
+    "Laura Martin",
+    "Paul Levitz",
+    "Richard Starkings",
+    "Tom Palmer Jr."
+  ],
+  "publish_date": "2005-04-06",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/d2c21c561c64449c8251d97d8a6d2da9.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152562/",
+  "fetched_at": "2026-05-13T15:40:18.056Z",
+  "reviewed_at": "2005-04-01"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005768111",
+  "title": "Batman #681",
+  "authors": [
+    "Alex Ross",
+    "Grant Morrison",
+    "Guy Major",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Mike Marts",
+    "Sandu Florea",
+    "Tony Daniel"
+  ],
+  "publish_date": "2008-11-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-681.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34775/",
+  "fetched_at": "2026-05-13T16:01:52.039Z",
+  "reviewed_at": null
+}

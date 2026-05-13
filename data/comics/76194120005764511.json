@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005764511",
+  "title": "Batman #645",
+  "authors": [
+    "Bob Schreck",
+    "Brandon Montclare",
+    "Doug Mahnke",
+    "Jason Wright",
+    "Jock",
+    "Judd Winick",
+    "Pat Brosseau",
+    "Tom Nguyen"
+  ],
+  "publish_date": "2005-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-645.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34739/",
+  "fetched_at": "2026-05-13T15:44:19.728Z",
+  "reviewed_at": "2005-11-01"
+}

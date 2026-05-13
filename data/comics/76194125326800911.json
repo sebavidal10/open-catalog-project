@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194125326800911",
+  "title": "Batman Confidential #9",
+  "authors": [
+    "Denys Cowan",
+    "John Floyd",
+    "Michael Green",
+    "Mike Carlin",
+    "Tom Palmer Jr.",
+    "Travis Lanham"
+  ],
+  "publish_date": "2007-09-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/10/batman-confidential-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34021/",
+  "fetched_at": "2026-05-13T15:55:34.505Z",
+  "reviewed_at": null
+}

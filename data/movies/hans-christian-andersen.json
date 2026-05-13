@@ -1,0 +1,31 @@
+{
+  "title": "Hans Christian Andersen",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "14 Aug 1953",
+  "runtime": "112 min",
+  "genre": "Biography, Family, Musical",
+  "director": "Charles Vidor",
+  "writer": "Moss Hart, Myles Connolly, Ben Hecht",
+  "actors": "Danny Kaye, Farley Granger, Zizi Jeanmaire",
+  "plot": "The opening scene of the movie describes it best: \"Once upon a time there lived in Denmark a great storyteller named Hans Christian Andersen. This is not the story of his life, but a fairy tale about the great spinner of fairy tal...",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 6 Oscars. 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODM4M2E4ZDEtNjkzNC00MzgzLWIxOWYtYTk5YjY1YTQwOGVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0044685",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:27:51.829Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194123523306911",
+  "title": "Superman / Batman #69",
+  "authors": [
+    "Ardian Syaf",
+    "Eddie Berganza",
+    "Joe Casey",
+    "Rex Ogle",
+    "Rob Leigh",
+    "Ulises Arreola",
+    "Vicente Cifuentes"
+  ],
+  "publish_date": "2010-02-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/3e8d4f744ccb4d32a6917816a354500a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152613/",
+  "fetched_at": "2026-05-13T16:10:32.289Z",
+  "reviewed_at": null
+}

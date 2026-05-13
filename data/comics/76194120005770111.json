@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120005770111",
+  "title": "Batman #701",
+  "authors": [
+    "Grant Morrison",
+    "Ian Hannin",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Mike Marts",
+    "Tony Daniel"
+  ],
+  "publish_date": "2010-07-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-701.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34795/",
+  "fetched_at": "2026-05-13T16:12:43.297Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194123523305511",
+  "title": "Superman / Batman #55",
+  "authors": [
+    "Adam Schlagman",
+    "Drew Geraci",
+    "Eddie Berganza",
+    "John Dell",
+    "Michael Green",
+    "Mike Johnson",
+    "Nei Ruffino",
+    "Rags Morales",
+    "Rob Leigh"
+  ],
+  "publish_date": "2009-02-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/5c240195d1ff42e19ab593364277a678.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152599/",
+  "fetched_at": "2026-05-13T16:03:11.748Z",
+  "reviewed_at": "2009-02-01"
+}

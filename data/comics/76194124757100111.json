@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194124757100111",
+  "title": "Batman / Danger Girl #1",
+  "authors": [
+    "Alex Sinclair",
+    "Andy Hartnell",
+    "Comicraft",
+    "Gerry Alanguilan",
+    "J. Scott Campbell",
+    "Kristy Quinn",
+    "Leinil Francis Yu",
+    "Matt Idelson",
+    "Scott Dunbier"
+  ],
+  "publish_date": "2005-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/04/23/58dd993b22af40c183028d974f4bef67.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/62883/",
+  "fetched_at": "2026-05-13T15:38:58.487Z",
+  "reviewed_at": "2005-02-01"
+}

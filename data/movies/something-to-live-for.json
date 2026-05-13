@@ -1,0 +1,27 @@
+{
+  "title": "Something to Live For",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "07 Mar 1952",
+  "runtime": "89 min",
+  "genre": "Drama",
+  "director": "George Stevens",
+  "writer": "Dwight Taylor",
+  "actors": "Joan Fontaine, Ray Milland, Teresa Wright",
+  "plot": "An actress becomes an alcoholic after being jilted. She is aided by an Alcoholics Anonymous member with whom she has an affair; however, he is married.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTliMzcxNmYtNDg3ZC00YzUzLTlmMDUtODNiM2Q3YTE5MmZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0045174",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:30:52.464Z"
+}

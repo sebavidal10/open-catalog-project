@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005765411",
+  "title": "Batman #654",
+  "authors": [
+    "Don Kramer",
+    "James Robinson",
+    "John Kalisz",
+    "Michael Siglain",
+    "Peter J. Tomasi",
+    "Simone Bianchi",
+    "Travis Lanham",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2006-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-654.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34748/",
+  "fetched_at": "2026-05-13T15:49:19.352Z",
+  "reviewed_at": "2006-08-01"
+}

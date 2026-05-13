@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194129902000111",
+  "title": "Batman: Hidden Treasures #1",
+  "authors": [
+    "Alex Sinclair",
+    "Archie Goodwin",
+    "Bernie Wrightson",
+    "Bob Schreck",
+    "Chris Conroy",
+    "Joe Orlando",
+    "Ken Lopez",
+    "Kevin Nowlan",
+    "Len Wein",
+    "Mark Chiarello",
+    "Ron Marz"
+  ],
+  "publish_date": "2010-10-06",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/11/28/76ac09551d5642fc8c925ca635d05a92.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/157683/",
+  "fetched_at": "2026-05-13T16:14:26.284Z",
+  "reviewed_at": null
+}

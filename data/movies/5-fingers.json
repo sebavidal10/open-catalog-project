@@ -1,0 +1,31 @@
+{
+  "title": "5 Fingers",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "07 Mar 1952",
+  "runtime": "108 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Joseph L. Mankiewicz",
+  "writer": "Michael Wilson, L.C. Moyzisch, Joseph L. Mankiewicz",
+  "actors": "James Mason, Danielle Darrieux, Michael Rennie",
+  "plot": "During WWII the valet to the British Ambassador to Ankara sells British secrets to the Germans while trying to romance a refugee Polish countess.",
+  "language": "English, German, Portuguese, Turkish, French",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 3 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjNlZGI3YTItNjVhNi00MWM4LWFjNDAtNmIwOTQ1OTEwMTNjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0044314",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:28:46.357Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194123901900311",
+  "title": "Batman: Jekyll & Hyde #3",
+  "authors": [
+    "Jae Lee",
+    "June Chung",
+    "Michael Siglain",
+    "Mike Carlin",
+    "Paul Jenkins",
+    "Rob Leigh",
+    "Sean Phillips"
+  ],
+  "publish_date": "2005-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/29/b801ce8dc957484ea1b9960104840082.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152724/",
+  "fetched_at": "2026-05-13T15:42:26.155Z",
+  "reviewed_at": "2005-08-01"
+}

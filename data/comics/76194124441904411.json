@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194124441904411",
+  "title": "The Batman Strikes #44",
+  "authors": [
+    "Chris Jones",
+    "Heroic Age",
+    "Joshua Elder",
+    "Nachie Castro",
+    "Steve Wands",
+    "Terry Beatty"
+  ],
+  "publish_date": "2008-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/c2ffd0bb284941138718cc12833e3baa.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114571/",
+  "fetched_at": "2026-05-13T15:58:55.585Z",
+  "reviewed_at": "2008-06-01"
+}

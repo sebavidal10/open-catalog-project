@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005768511",
+  "title": "Batman #685",
+  "authors": [
+    "Alex Ross",
+    "Derek Fridolfs",
+    "Dustin Nguyen",
+    "Guy Major",
+    "Janelle Asselin",
+    "John J. Hill",
+    "Mike Marts",
+    "Paul Dini"
+  ],
+  "publish_date": "2009-01-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-685.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34779/",
+  "fetched_at": "2026-05-13T16:03:20.666Z",
+  "reviewed_at": null
+}

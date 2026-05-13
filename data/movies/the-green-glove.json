@@ -1,0 +1,27 @@
+{
+  "title": "The Green Glove",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "28 Feb 1952",
+  "runtime": "88 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Rudolph Maté",
+  "writer": "Charles Bennett",
+  "actors": "Glenn Ford, Geraldine Brooks, Cedric Hardwicke",
+  "plot": "An ex-soldier and his new girlfriend comb France for a valuable relic...which others are willing to kill for.",
+  "language": "French, English",
+  "country": "France, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDM1MjQ0NjQ0NF5BMl5BanBnXkFtZTgwNTEyOTgwMzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0044673",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:31:23.313Z"
+}

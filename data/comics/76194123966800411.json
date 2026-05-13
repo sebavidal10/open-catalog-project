@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194123966800411",
+  "title": "Batman: Year 100 #4",
+  "authors": [
+    "Bob Schreck",
+    "Brandon Montclare",
+    "Jared K. Fletcher",
+    "John Workman",
+    "José Villarrubia",
+    "Nachie Castro",
+    "Paul Pope"
+  ],
+  "publish_date": "2006-05-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/30/c9bcf4d9e7144a19b1d3358c6e4a6540.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152803/",
+  "fetched_at": "2026-05-13T15:49:06.556Z",
+  "reviewed_at": null
+}

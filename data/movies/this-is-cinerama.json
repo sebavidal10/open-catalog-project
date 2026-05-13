@@ -1,0 +1,31 @@
+{
+  "title": "This Is Cinerama",
+  "year": "1952",
+  "rated": "G",
+  "released": "05 Jan 1955",
+  "runtime": "115 min",
+  "genre": "Documentary",
+  "director": "Merian C. Cooper, Gunther von Fritsch, Ernest B. Schoedsack",
+  "writer": "N/A",
+  "actors": "Lowell Thomas, Kathy Darlyn, Toni Valk",
+  "plot": "On the evening of September 30, 1952, the shape and sound of movies changed forever with the introduction of Cinerama.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE0ODAxMTQ1Nl5BMl5BanBnXkFtZTcwODM3ODk4OA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0045231",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:32:47.598Z"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123523302111",
+  "title": "Superman / Batman #21",
+  "authors": [
+    "Dave McCaig",
+    "Dexter Vines",
+    "Eddie Berganza",
+    "Ed McGuinness",
+    "Jeph Loeb",
+    "Lee Loughridge",
+    "Richard Starkings",
+    "Tom Palmer Jr."
+  ],
+  "publish_date": "2005-07-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/9932e6bf668b4dbbab2e1726a29d1a1d.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152565/",
+  "fetched_at": "2026-05-13T15:43:27.948Z",
+  "reviewed_at": null
+}

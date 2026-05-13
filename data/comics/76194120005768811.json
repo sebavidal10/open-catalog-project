@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120005768811",
+  "title": "Batman #688",
+  "authors": [
+    "Ian Hannin",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Judd Winick",
+    "Mark Bagley",
+    "Mike Marts",
+    "Rob Hunter",
+    "Sandu Florea",
+    "Tony Daniel"
+  ],
+  "publish_date": "2009-07-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-688.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34782/",
+  "fetched_at": "2026-05-13T16:06:07.877Z",
+  "reviewed_at": null
+}

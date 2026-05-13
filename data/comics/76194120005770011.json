@@ -1,0 +1,41 @@
+{
+  "isbn": null,
+  "upc": "76194120005770011",
+  "title": "Batman #700",
+  "authors": [
+    "Alex Sinclair",
+    "Andy Kubert",
+    "Bill Sienkiewicz",
+    "Brad Anderson",
+    "David Finch",
+    "Dustin Nguyen",
+    "Frank Quitely",
+    "Freddie E. Williams II",
+    "Grant Morrison",
+    "Guillem March",
+    "Ian Hannin",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Juan Doe",
+    "Mike Marts",
+    "Mike Mignola",
+    "Neal Adams",
+    "Peter Steigerwald",
+    "Philip Tan",
+    "Richard Friend",
+    "Scott Kolins",
+    "Shane Davis",
+    "Tim Sale",
+    "Tony Daniel"
+  ],
+  "publish_date": "2010-06-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-700.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34794/",
+  "fetched_at": "2026-05-13T16:12:06.017Z",
+  "reviewed_at": null
+}

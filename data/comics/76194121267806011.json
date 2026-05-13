@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121267806011",
+  "title": "Batman: Gotham Adventures #60",
+  "authors": [
+    "Albert De Guzman",
+    "Bob Smith",
+    "Harvey Richards",
+    "Joan Hilty",
+    "Lee Loughridge",
+    "Scott Peterson",
+    "Terry Beatty",
+    "Tim Levins"
+  ],
+  "publish_date": "2003-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/13/ec3d03cd7b484d44a4467d8b325045a8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160397/",
+  "fetched_at": "2026-05-13T15:29:50.585Z",
+  "reviewed_at": "2003-05-01"
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194127973201211",
+  "title": "Batman and Robin #12",
+  "authors": [
+    "Alex Sinclair",
+    "Andy Clarke",
+    "Dustin Nguyen",
+    "Frank Quitely",
+    "Grant Morrison",
+    "Janelle Asselin",
+    "Mike Marts",
+    "Pat Brosseau",
+    "Scott Hanna"
+  ],
+  "publish_date": "2010-05-05",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/30/batman-robin-v1-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19908/",
+  "fetched_at": "2026-05-13T16:11:37.373Z",
+  "reviewed_at": null
+}

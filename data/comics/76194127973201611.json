@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194127973201611",
+  "title": "Batman and Robin #16",
+  "authors": [
+    "Alex Sinclair",
+    "Cameron Stewart",
+    "Chris Burnham",
+    "Ethan Van Sciver",
+    "Frank Quitely",
+    "Frazer Irving",
+    "Grant Morrison",
+    "Janelle Asselin",
+    "Mike Marts",
+    "Pat Brosseau"
+  ],
+  "publish_date": "2010-11-03",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/30/batman-robin-v1-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19912/",
+  "fetched_at": "2026-05-13T16:14:53.319Z",
+  "reviewed_at": null
+}

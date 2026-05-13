@@ -1,0 +1,31 @@
+{
+  "title": "The Golden Coach",
+  "year": "1952",
+  "rated": "Not Rated",
+  "released": "05 Jan 1954",
+  "runtime": "103 min",
+  "genre": "Comedy, Drama, History",
+  "director": "Jean Renoir",
+  "writer": "Jean Renoir, Jack Kirkland, Renzo Avanzo",
+  "actors": "Anna Magnani, Odoardo Spadaro, Nada Fiorelli",
+  "plot": "Three men of varying social standing - a viceroy, a bullfighter, and a soldier - vie for the affections of an actress in 18th-century Peru.",
+  "language": "English, Italian, French",
+  "country": "France, Italy",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjE5NmI5NjEtZDkwNS00MDliLWFkNDAtMWJkYWM1MTgzM2QyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0044487",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:29:43.241Z"
+}

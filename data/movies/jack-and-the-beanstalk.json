@@ -1,0 +1,31 @@
+{
+  "title": "Jack and the Beanstalk",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "12 Apr 1952",
+  "runtime": "78 min",
+  "genre": "Comedy, Family, Fantasy",
+  "director": "Jean Yarbrough",
+  "writer": "Nathaniel Curtis, Pat Costello",
+  "actors": "Bud Abbott, Lou Costello, Buddy Baer",
+  "plot": "Abbott and Costello's version of the famous fairy tale, about a young boy who trades the family cow for magic beans.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWY1YWNhOWUtZjE1YS00NjRhLWI0OWMtYTQwZjBjZDUxMDhmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0044762",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:28:24.114Z"
+}

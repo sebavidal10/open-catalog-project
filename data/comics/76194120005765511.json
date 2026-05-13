@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005765511",
+  "title": "Batman #655",
+  "authors": [
+    "Adam Kubert",
+    "Andy Kubert",
+    "Dave Stewart",
+    "Grant Morrison",
+    "Michael Siglain",
+    "Nick J. Napolitano",
+    "Peter J. Tomasi"
+  ],
+  "publish_date": "2006-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-655.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34749/",
+  "fetched_at": "2026-05-13T15:49:36.772Z",
+  "reviewed_at": "2006-09-01"
+}

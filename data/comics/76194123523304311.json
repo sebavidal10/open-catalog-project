@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123523304311",
+  "title": "Superman / Batman #43",
+  "authors": [
+    "Adam Schlagman",
+    "Andy Lanning",
+    "Dan Abnett",
+    "Eddie Berganza",
+    "Jason Wright",
+    "Jonathan Glapion",
+    "Mike McKone",
+    "Rob Leigh"
+  ],
+  "publish_date": "2008-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/77d0390c2f974095a4d931278606f16e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152587/",
+  "fetched_at": "2026-05-13T15:56:47.811Z",
+  "reviewed_at": "2008-01-01"
+}

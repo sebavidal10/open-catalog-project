@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123816601711",
+  "title": "Batman Adventures #17",
+  "authors": [
+    "Harvey Richards",
+    "Heroic Age",
+    "Joan Hilty",
+    "Kelsey Shannon",
+    "Pat Brosseau",
+    "Rick Burchett",
+    "Terry Beatty",
+    "Ty Templeton"
+  ],
+  "publish_date": "2004-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/22/fdf61f44136d47a7a171ee74a4b93a5d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/56922/",
+  "fetched_at": "2026-05-13T15:37:01.588Z",
+  "reviewed_at": "2004-10-01"
+}

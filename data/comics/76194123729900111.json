@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194123729900111",
+  "title": "Batman: The Man Who Laughs #1",
+  "authors": [
+    "Dan DiDio",
+    "David Baron",
+    "Doug Mahnke",
+    "Ed Brubaker",
+    "Michael Siglain",
+    "Mike Carlin",
+    "Rob Leigh"
+  ],
+  "publish_date": "2005-02-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/02/09/batman-man-who-laughs-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9535/",
+  "fetched_at": "2026-05-13T15:40:13.358Z",
+  "reviewed_at": null
+}

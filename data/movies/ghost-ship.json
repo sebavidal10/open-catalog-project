@@ -1,0 +1,27 @@
+{
+  "title": "Ghost Ship",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "08 Jul 1953",
+  "runtime": "74 min",
+  "genre": "Horror",
+  "director": "Vernon Sewell",
+  "writer": "Vernon Sewell, Philip Thornton, Pierre Mille",
+  "actors": "Dermot Walsh, Hazel Court, Hugh Burden",
+  "plot": "A luxury ship is haunted by the ghosts of a crew that had disappeared off the ship years before.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmI3MGY2ZmYtZmZmMC00ZjhmLWE5OGUtNDI4YzQ4NzZmNzFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.3",
+  "imdbID": "tt0044656",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:30:47.523Z"
+}

@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194124441902711",
+  "title": "The Batman Strikes #27",
+  "authors": [
+    "Chris Jones",
+    "Heroic Age",
+    "Mike Sellers",
+    "Nachie Castro",
+    "Scott Beatty",
+    "Terry Beatty"
+  ],
+  "publish_date": "2007-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/785ba0476c674505995eb19e0981d3ed.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114554/",
+  "fetched_at": "2026-05-13T15:51:28.448Z",
+  "reviewed_at": "2007-01-01"
+}

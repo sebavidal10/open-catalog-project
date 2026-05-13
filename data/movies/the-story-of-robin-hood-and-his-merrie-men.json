@@ -1,0 +1,31 @@
+{
+  "title": "The Story of Robin Hood and His Merrie Men",
+  "year": "1952",
+  "rated": "PG",
+  "released": "26 Jun 1952",
+  "runtime": "84 min",
+  "genre": "Action, Adventure, Family",
+  "director": "Ken Annakin",
+  "writer": "Lawrence Edward Watkin",
+  "actors": "Richard Todd, Joan Rice, Peter Finch",
+  "plot": "When King Richard the Lionheart leaves England to lead a crusade to the Holy Land, his treacherous brother conspires to bring himself to power.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2VmNzhjNzctY2Y1YS00NTUxLWI0ODEtNWY3ZTM2OTIyOTFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "6.5",
+  "imdbID": "tt0045197",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:28:00.530Z"
+}

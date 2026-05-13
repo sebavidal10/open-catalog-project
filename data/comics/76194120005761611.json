@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005761611",
+  "title": "Batman #616",
+  "authors": [
+    "Alex Sinclair",
+    "Bob Schreck",
+    "Jeph Loeb",
+    "Jim Lee",
+    "Michael Wright",
+    "Richard Starkings",
+    "Scott Williams"
+  ],
+  "publish_date": "2003-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-616.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34710/",
+  "fetched_at": "2026-05-13T15:30:50.710Z",
+  "reviewed_at": "2003-08-01"
+}

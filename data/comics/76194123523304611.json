@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123523304611",
+  "title": "Superman / Batman #46",
+  "authors": [
+    "Adam Schlagman",
+    "Alex Sinclair",
+    "Eddie Berganza",
+    "Matt Banning",
+    "Michael Green",
+    "Mike Johnson",
+    "Rob Leigh",
+    "Shane Davis"
+  ],
+  "publish_date": "2008-02-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/946750728b29409e9523407e52473f2c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152590/",
+  "fetched_at": "2026-05-13T15:58:05.668Z",
+  "reviewed_at": null
+}

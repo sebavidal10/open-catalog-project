@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194124441900911",
+  "title": "The Batman Strikes #9",
+  "authors": [
+    "Bill Matheny",
+    "Chris Jones",
+    "Heroic Age",
+    "Jeff Matsuda",
+    "Pat Brosseau",
+    "Terry Beatty"
+  ],
+  "publish_date": "2005-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/13e4b8f9564742fbab81f6a575bde3a4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114536/",
+  "fetched_at": "2026-05-13T15:41:52.058Z",
+  "reviewed_at": "2005-07-01"
+}

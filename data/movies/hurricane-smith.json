@@ -1,0 +1,27 @@
+{
+  "title": "Hurricane Smith",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "03 Oct 1952",
+  "runtime": "90 min",
+  "genre": "Action, Adventure, Romance",
+  "director": "Jerry Hopper",
+  "writer": "Frank Gruber, Gordon Ray Young",
+  "actors": "Yvonne De Carlo, John Ireland, James Craig",
+  "plot": "South Sea freebooters fight for hidden treasure and the love of the beautiful Luana.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgwMTY0Y2EtYmIzZC00MmMzLTljYTMtNjc1OTkwMGU1YTE2XkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.3",
+  "imdbID": "tt0044729",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:35:40.078Z"
+}

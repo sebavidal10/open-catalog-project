@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194123816600211",
+  "title": "Batman Adventures #2",
+  "authors": [
+    "Bruce Timm",
+    "Dan Slott",
+    "Harvey Richards",
+    "Joan Hilty",
+    "Lee Loughridge",
+    "Phil Hugh Felix",
+    "Rick Burchett",
+    "Terry Beatty",
+    "Ty Templeton",
+    "Zylonol Studios"
+  ],
+  "publish_date": "2003-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/22/36a88e71b71940b7b3a38e0196cb8659.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/56907/",
+  "fetched_at": "2026-05-13T15:30:34.657Z",
+  "reviewed_at": "2003-07-01"
+}

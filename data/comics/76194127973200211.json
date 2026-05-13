@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194127973200211",
+  "title": "Batman and Robin #2",
+  "authors": [
+    "Alex Sinclair",
+    "Andy Kubert",
+    "Frank Quitely",
+    "Grant Morrison",
+    "Janelle Asselin",
+    "Mike Marts",
+    "Pat Brosseau"
+  ],
+  "publish_date": "2009-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/30/batman-robin-v1-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19898/",
+  "fetched_at": "2026-05-13T16:06:12.296Z",
+  "reviewed_at": null
+}

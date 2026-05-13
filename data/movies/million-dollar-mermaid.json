@@ -1,0 +1,35 @@
+{
+  "title": "Million Dollar Mermaid",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "13 Mar 1953",
+  "runtime": "115 min",
+  "genre": "Biography, Drama, Musical",
+  "director": "Mervyn LeRoy",
+  "writer": "Everett Freeman",
+  "actors": "Esther Williams, Victor Mature, Walter Pidgeon",
+  "plot": "Biopic of Australian swimming champ and entertainer Annette Kellerman. After overcoming polio, Kellerman achieves fame and creates a scandal when her one-piece bathing suit is considered indecent.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTc3MmE0ZDAtMTM1Yy00M2NmLWFjMjgtYzM0ZTI3MDFmN2RhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "metascore": "50",
+  "imdbRating": "6.5",
+  "imdbID": "tt0044903",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:29:32.113Z"
+}

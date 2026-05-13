@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194124441903611",
+  "title": "The Batman Strikes #36",
+  "authors": [
+    "Chris Jones",
+    "Heroic Age",
+    "Joshua Elder",
+    "Mike Sellers",
+    "Nachie Castro",
+    "Nathan Massengill",
+    "Sanford Greene",
+    "Terry Beatty"
+  ],
+  "publish_date": "2007-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/9de75d830a204c0b8bdc494ebd6a80fe.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114563/",
+  "fetched_at": "2026-05-13T15:55:13.183Z",
+  "reviewed_at": "2007-10-01"
+}

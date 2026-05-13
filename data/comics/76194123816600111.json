@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194123816600111",
+  "title": "Batman Adventures #1",
+  "authors": [
+    "Bruce Timm",
+    "Dan Slott",
+    "Harvey Richards",
+    "Joan Hilty",
+    "Lee Loughridge",
+    "Phil Hugh Felix",
+    "Rick Burchett",
+    "Terry Beatty",
+    "Ty Templeton"
+  ],
+  "publish_date": "2003-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/22/e3d079493d1d4acaa8708824fbaef30f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/56906/",
+  "fetched_at": "2026-05-13T15:30:13.356Z",
+  "reviewed_at": "2003-06-01"
+}

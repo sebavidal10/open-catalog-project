@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194125326801511",
+  "title": "Batman Confidential #15",
+  "authors": [
+    "David Baron",
+    "Mark Farmer",
+    "Mike Carlin",
+    "Rags Morales",
+    "Sal Cipriano",
+    "Tom Palmer Jr.",
+    "Tony Bedard"
+  ],
+  "publish_date": "2008-03-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/10/batman-confidential-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34027/",
+  "fetched_at": "2026-05-13T15:58:23.652Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Assignment: Paris",
+  "year": "1952",
+  "rated": "Passed",
+  "released": "04 Sep 1952",
+  "runtime": "85 min",
+  "genre": "Drama, Thriller",
+  "director": "Robert Parrish, Phil Karlson",
+  "writer": "William Bowers, Walter Goetz, Jack Palmer White",
+  "actors": "Dana Andrews, Märta Torén, George Sanders",
+  "plot": "Cold war intrigue in France and Hungary.",
+  "language": "English, French, Hungarian",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzE2MDVhOGItODRiOS00ODRmLTg0MTEtMTE3ZjJjNzYyMDQ5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0044379",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:28:01.786Z"
+}

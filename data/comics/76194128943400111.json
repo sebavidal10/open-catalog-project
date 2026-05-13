@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194128943400111",
+  "title": "Batman: The Return of Bruce Wayne #1",
+  "authors": [
+    "Andy Kubert",
+    "Chris Sprouse",
+    "Grant Morrison",
+    "Guy Major",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Karl Story",
+    "Mike Marts"
+  ],
+  "publish_date": "2010-05-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/03/batman-the-return-of-bruce-wayne-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/36014/",
+  "fetched_at": "2026-05-13T16:11:49.132Z",
+  "reviewed_at": null
+}

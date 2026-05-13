@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194120005764611",
+  "title": "Batman #646",
+  "authors": [
+    "Alex Sinclair",
+    "Bob Schreck",
+    "Brandon Montclare",
+    "Jock",
+    "Judd Winick",
+    "Lary Stucker",
+    "Pat Brosseau",
+    "Rodney Ramos",
+    "Shane Davis",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2005-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-646.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34740/",
+  "fetched_at": "2026-05-13T15:44:53.300Z",
+  "reviewed_at": "2005-12-01"
+}

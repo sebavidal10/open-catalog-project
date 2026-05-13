@@ -1,0 +1,35 @@
+{
+  "title": "The Star",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "11 Dec 1952",
+  "runtime": "89 min",
+  "genre": "Drama, Romance",
+  "director": "Stuart Heisler",
+  "writer": "Dale Eunson, Katherine Albert",
+  "actors": "Bette Davis, Sterling Hayden, Natalie Wood",
+  "plot": "A washed-up movie queen finds romance, but still desires a comeback.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2E2N2ZhYmEtNzgxYi00OGNmLWIyMzAtMTEyZThkYmUxNjQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "25%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "metascore": "54",
+  "imdbRating": "7.0",
+  "imdbID": "tt0045186",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:28:48.845Z"
+}

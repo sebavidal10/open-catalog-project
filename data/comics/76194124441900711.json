@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194124441900711",
+  "title": "The Batman Strikes #7",
+  "authors": [
+    "Bill Matheny",
+    "Chris Jones",
+    "Dave McCaig",
+    "Heroic Age",
+    "Jeff Matsuda",
+    "Nick J. Napolitano",
+    "Terry Beatty"
+  ],
+  "publish_date": "2005-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/7a6d06b5deb8405283339cad5baac3aa.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114534/",
+  "fetched_at": "2026-05-13T15:40:39.956Z",
+  "reviewed_at": "2005-05-01"
+}

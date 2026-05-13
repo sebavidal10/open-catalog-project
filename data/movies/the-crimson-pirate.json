@@ -1,0 +1,31 @@
+{
+  "title": "The Crimson Pirate",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "27 Sep 1952",
+  "runtime": "105 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Robert Siodmak",
+  "writer": "Roland Kibbee",
+  "actors": "Burt Lancaster, Nick Cravat, Eva Bartok",
+  "plot": "During the 1700s, pirate Captain Vallo seizes a British warship and gets involved in various money-making schemes involving Caribbean rebels led by El Libre, British envoy Baron Jose Gruda, and a beautiful courtesan named Consuelo.",
+  "language": "English",
+  "country": "United States, United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmZmNDU4N2QtZmI3Ni00NzZiLWEyYjctYmRjOTk2OTVhZDZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0044517",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:28:11.744Z"
+}

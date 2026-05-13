@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194125326801711",
+  "title": "Batman Confidential #17",
+  "authors": [
+    "Fabian Nicieza",
+    "Kevin Maguire",
+    "Mike Carlin",
+    "Sal Cipriano",
+    "Tom Palmer Jr."
+  ],
+  "publish_date": "2008-05-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/10/batman-confidential-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34029/",
+  "fetched_at": "2026-05-13T15:59:16.869Z",
+  "reviewed_at": null
+}

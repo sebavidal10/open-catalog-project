@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120005765211",
+  "title": "Batman #652",
+  "authors": [
+    "Don Kramer",
+    "James Robinson",
+    "John Kalisz",
+    "Michael Bair",
+    "Michael Siglain",
+    "Peter J. Tomasi",
+    "Phil Balsman",
+    "Simone Bianchi",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2006-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-652.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34746/",
+  "fetched_at": "2026-05-13T15:48:04.152Z",
+  "reviewed_at": "2006-06-01"
+}

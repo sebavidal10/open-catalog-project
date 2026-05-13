@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005764411",
+  "title": "Batman #644",
+  "authors": [
+    "Bill Willingham",
+    "Bob Schreck",
+    "Brandon Montclare",
+    "Giuseppe Camuncoli",
+    "Jared K. Fletcher",
+    "Jason Wright",
+    "Jock",
+    "Sandra Hope"
+  ],
+  "publish_date": "2005-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-644.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34738/",
+  "fetched_at": "2026-05-13T15:43:45.466Z",
+  "reviewed_at": "2005-10-01"
+}

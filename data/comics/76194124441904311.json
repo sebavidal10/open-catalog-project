@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194124441904311",
+  "title": "The Batman Strikes #43",
+  "authors": [
+    "Chris Jones",
+    "Heroic Age",
+    "James Peaty",
+    "Nachie Castro",
+    "Terry Beatty",
+    "Travis Lanham"
+  ],
+  "publish_date": "2008-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/d54e031a33b1453290220f40f39f598f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114570/",
+  "fetched_at": "2026-05-13T15:58:28.479Z",
+  "reviewed_at": "2008-05-01"
+}

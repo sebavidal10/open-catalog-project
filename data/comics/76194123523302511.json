@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194123523302511",
+  "title": "Superman / Batman #25",
+  "authors": [
+    "Dave McCaig",
+    "Dexter Vines",
+    "Eddie Berganza",
+    "Ed McGuinness",
+    "Jeph Loeb",
+    "Richard Starkings",
+    "Tom Palmer Jr."
+  ],
+  "publish_date": "2006-07-05",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/f6ab5358596049f7a3c7e40864812af5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152569/",
+  "fetched_at": "2026-05-13T15:47:54.871Z",
+  "reviewed_at": "2006-07-01"
+}

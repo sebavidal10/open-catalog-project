@@ -1,0 +1,27 @@
+{
+  "title": "The Pickwick Papers",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "05 May 1954",
+  "runtime": "109 min",
+  "genre": "Comedy, Drama",
+  "director": "Noel Langley",
+  "writer": "Charles Dickens, Noel Langley",
+  "actors": "James Hayter, James Donald, Nigel Patrick",
+  "plot": "Four wealthy Victorian gentlemen led by Samuel Pickwick set forth on an objective study of human behavior, thwarted by con artist Mr. Jingle and one of his schemes leading to Pickwick being put on trial for breaking a promise to m...",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 Oscar. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU2Mzg5NjU4OF5BMl5BanBnXkFtZTcwMDIwNTMyMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0045030",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:31:24.545Z"
+}

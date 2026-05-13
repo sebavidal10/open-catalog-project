@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005767011",
+  "title": "Batman #670",
+  "authors": [
+    "Grant Morrison",
+    "Guy Major",
+    "Jeanine Schaefer",
+    "Jonathan Glapion",
+    "Mike Marts",
+    "Tony Daniel",
+    "Travis Lanham"
+  ],
+  "publish_date": "2007-10-31",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-670.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34764/",
+  "fetched_at": "2026-05-13T15:55:55.857Z",
+  "reviewed_at": null
+}

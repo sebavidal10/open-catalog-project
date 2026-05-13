@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194125326802111",
+  "title": "Batman Confidential #21",
+  "authors": [
+    "Fabian Nicieza",
+    "Kevin Maguire",
+    "Mike Carlin",
+    "Sal Cipriano",
+    "Tom Palmer Jr."
+  ],
+  "publish_date": "2008-09-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/10/batman-confidential-21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34033/",
+  "fetched_at": "2026-05-13T16:01:26.214Z",
+  "reviewed_at": null
+}

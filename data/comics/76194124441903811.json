@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194124441903811",
+  "title": "The Batman Strikes #38",
+  "authors": [
+    "Chris Jones",
+    "Heroic Age",
+    "Nachie Castro",
+    "Nathan Massengill",
+    "Rob Clark Jr.",
+    "Russell Lissau",
+    "Sanford Greene",
+    "Terry Beatty"
+  ],
+  "publish_date": "2007-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/80cc27f6c7664dfe9948b35da337cde4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114565/",
+  "fetched_at": "2026-05-13T15:56:08.281Z",
+  "reviewed_at": "2007-12-01"
+}

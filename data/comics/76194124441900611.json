@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194124441900611",
+  "title": "The Batman Strikes #6",
+  "authors": [
+    "Bill Matheny",
+    "Chris Jones",
+    "Dave McCaig",
+    "Heroic Age",
+    "Jared K. Fletcher",
+    "Jeff Matsuda",
+    "Terry Beatty"
+  ],
+  "publish_date": "2005-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/734c00f43737485c9291d52eb6cf8645.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114533/",
+  "fetched_at": "2026-05-13T15:40:08.766Z",
+  "reviewed_at": "2005-04-01"
+}

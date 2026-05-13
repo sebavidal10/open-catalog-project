@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194129662300111",
+  "title": "Batman: The Dark Knight #1",
+  "authors": [
+    "Alex Sinclair",
+    "Andy Clarke",
+    "Dave Sharpe",
+    "David Finch",
+    "Janelle Asselin",
+    "Mike Marts",
+    "Scott Williams"
+  ],
+  "publish_date": "2010-12-29",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/26/e3c14e1f59c64339a87209cbb37f51aa.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152359/",
+  "fetched_at": "2026-05-13T16:15:24.946Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194123523301311",
+  "title": "Superman / Batman #13",
+  "authors": [
+    "Eddie Berganza",
+    "Jeph Loeb",
+    "Michael Turner",
+    "Peter Steigerwald",
+    "Richard Starkings",
+    "Tom Palmer Jr."
+  ],
+  "publish_date": "2004-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/b5fbf600b7884896ae066954305ebab7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152557/",
+  "fetched_at": "2026-05-13T15:37:32.046Z",
+  "reviewed_at": "2004-10-01"
+}

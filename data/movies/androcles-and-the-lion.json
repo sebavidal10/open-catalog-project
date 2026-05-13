@@ -1,0 +1,31 @@
+{
+  "title": "Androcles and the Lion",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "09 Jan 1953",
+  "runtime": "98 min",
+  "genre": "Adventure, Comedy, Family",
+  "director": "Chester Erskine, Nicholas Ray",
+  "writer": "Chester Erskine, Ken Englund, George Bernard Shaw",
+  "actors": "Jean Simmons, Victor Mature, Alan Young",
+  "plot": "Story of a Christian in ancient Rome who befriends a lion.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWViZTMxZjMtYmUzYy00ODVhLTgxNDAtYWYwZDRhMTI4ODcwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0044355",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:31:03.591Z"
+}

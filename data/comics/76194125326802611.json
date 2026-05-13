@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194125326802611",
+  "title": "Batman Confidential #26",
+  "authors": [
+    "Christina Weir",
+    "David Baron",
+    "José Luis García-López",
+    "Ken Lopez",
+    "Kevin Nowlan",
+    "Mike Carlin",
+    "Nunzio DeFilippis",
+    "Rachel Gluckstern"
+  ],
+  "publish_date": "2009-02-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/10/batman-confidential-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34038/",
+  "fetched_at": "2026-05-13T16:03:50.311Z",
+  "reviewed_at": null
+}

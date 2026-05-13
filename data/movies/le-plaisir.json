@@ -1,0 +1,31 @@
+{
+  "title": "Le Plaisir",
+  "year": "1952",
+  "rated": "Not Rated",
+  "released": "19 May 1954",
+  "runtime": "97 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Max Ophüls",
+  "writer": "Guy de Maupassant, Jacques Natanson, Max Ophüls",
+  "actors": "Jean Gabin, Danielle Darrieux, Simone Simon",
+  "plot": "Three short stories about pleasure.",
+  "language": "French, English",
+  "country": "France",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTVjMDQ2ZGEtNzVmNC00ZTZjLTk2NjUtYzYyOGUwOGUwOTY5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0045034",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:29:18.490Z"
+}

@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194124441901311",
+  "title": "The Batman Strikes #13",
+  "authors": [
+    "Bill Matheny",
+    "Chris Jones",
+    "Heroic Age",
+    "Nachie Castro",
+    "Terry Beatty",
+    "Travis Lanham"
+  ],
+  "publish_date": "2005-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/aad12689c7184a719d87c36db162d4f1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114540/",
+  "fetched_at": "2026-05-13T15:44:36.054Z",
+  "reviewed_at": "2005-11-01"
+}

@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194123523301111",
+  "title": "Superman / Batman #11",
+  "authors": [
+    "Eddie Berganza",
+    "Jeph Loeb",
+    "Michael Turner",
+    "Peter Steigerwald",
+    "Richard Starkings",
+    "Tom Palmer Jr."
+  ],
+  "publish_date": "2004-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/50c9068012014c019b6ea13fedb0920f.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152555/",
+  "fetched_at": "2026-05-13T15:36:18.570Z",
+  "reviewed_at": "2004-08-01"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005769511",
+  "title": "Batman #695",
+  "authors": [
+    "Ian Hannin",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Mike Marts",
+    "Norm Rapmund",
+    "Sandu Florea",
+    "Tony Daniel"
+  ],
+  "publish_date": "2010-01-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-695.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34789/",
+  "fetched_at": "2026-05-13T16:09:39.333Z",
+  "reviewed_at": null
+}

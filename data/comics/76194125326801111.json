@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194125326801111",
+  "title": "Batman Confidential #11",
+  "authors": [
+    "Denys Cowan",
+    "John Floyd",
+    "Michael Green",
+    "Mike Carlin",
+    "Tom Palmer Jr.",
+    "Travis Lanham"
+  ],
+  "publish_date": "2007-11-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/10/batman-confidential-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34023/",
+  "fetched_at": "2026-05-13T15:56:35.758Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005766111",
+  "title": "Batman #661",
+  "authors": [
+    "Greg Lauren",
+    "John J. Hill",
+    "John Ostrander",
+    "Michael Siglain",
+    "Nathan Eyring",
+    "Peter J. Tomasi",
+    "Tom Mandrake"
+  ],
+  "publish_date": "2007-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-661.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34755/",
+  "fetched_at": "2026-05-13T15:51:53.506Z",
+  "reviewed_at": "2007-02-01"
+}

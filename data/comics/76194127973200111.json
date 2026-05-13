@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194127973200111",
+  "title": "Batman and Robin #1",
+  "authors": [
+    "Alex Sinclair",
+    "Frank Quitely",
+    "Grant Morrison",
+    "Janelle Asselin",
+    "J.G. Jones",
+    "Mike Marts",
+    "Pat Brosseau"
+  ],
+  "publish_date": "2009-06-03",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/30/batman-robin-v1-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19897/",
+  "fetched_at": "2026-05-13T16:05:47.000Z",
+  "reviewed_at": null
+}

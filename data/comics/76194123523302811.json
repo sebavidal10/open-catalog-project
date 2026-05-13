@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194123523302811",
+  "title": "Superman / Batman #28",
+  "authors": [
+    "Chris Chuckry",
+    "Eddie Berganza",
+    "Ethan Van Sciver",
+    "Jeanine Schaefer",
+    "Mark Verheiden",
+    "Moose Baumann",
+    "Rob Leigh"
+  ],
+  "publish_date": "2006-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/3a4c441aed15438e990a0dffa698173f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152572/",
+  "fetched_at": "2026-05-13T15:49:52.343Z",
+  "reviewed_at": "2006-09-01"
+}

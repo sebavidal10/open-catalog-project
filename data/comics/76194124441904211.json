@@ -1,0 +1,20 @@
+{
+  "isbn": null,
+  "upc": "76194124441904211",
+  "title": "The Batman Strikes #42",
+  "authors": [
+    "Andie Tong",
+    "Robert Stull",
+    "Sal Cipriano"
+  ],
+  "publish_date": "2008-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/e2dab1a5eb564aeeb5a565aea2382a63.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114569/",
+  "fetched_at": "2026-05-13T15:58:01.267Z",
+  "reviewed_at": "2008-04-01"
+}

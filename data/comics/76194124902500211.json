@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194124902500211",
+  "title": "Year One: Batman Scarecrow #2",
+  "authors": [
+    "Bruce Jones",
+    "Lee Loughridge",
+    "Matt Idelson",
+    "Nachie Castro",
+    "Nick J. Napolitano",
+    "Sean Murphy",
+    "Terry Moore",
+    "Thompson Knox",
+    "Zach Howard"
+  ],
+  "publish_date": "2005-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/18/year-one-batman-scarecrow-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30872/",
+  "fetched_at": "2026-05-13T15:42:38.877Z",
+  "reviewed_at": "2005-08-01"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Viva Zapata!",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "13 Feb 1952",
+  "runtime": "113 min",
+  "genre": "Biography, Drama, History",
+  "director": "Elia Kazan",
+  "writer": "John Steinbeck, Edgecumb Pinchon",
+  "actors": "Marlon Brando, Jean Peters, Anthony Quinn",
+  "plot": "The story of Mexican revolutionary Emiliano Zapata, who led a rebellion against the corrupt, oppressive dictatorship of President Porfirio Díaz in the early 20th century.",
+  "language": "English, Spanish",
+  "country": "United States, Mexico",
+  "awards": "Won 1 Oscar. 3 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDkxM2NkNDMtMTk5OS00N2UzLWJiZWUtZmRjZDJjMGMzZWU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "53%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0045296",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:27:44.357Z"
+}

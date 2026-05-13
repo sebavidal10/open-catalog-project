@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194125326801811",
+  "title": "Batman Confidential #18",
+  "authors": [
+    "Fabian Nicieza",
+    "Kevin Maguire",
+    "Mike Carlin",
+    "Sal Cipriano",
+    "Tom Palmer Jr."
+  ],
+  "publish_date": "2008-06-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/10/batman-confidential-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34030/",
+  "fetched_at": "2026-05-13T15:59:51.925Z",
+  "reviewed_at": null
+}

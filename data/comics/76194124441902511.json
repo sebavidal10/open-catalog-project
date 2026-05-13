@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194124441902511",
+  "title": "The Batman Strikes #25",
+  "authors": [
+    "Chris Jones",
+    "Dave McCaig",
+    "Heroic Age",
+    "Jai Nitz",
+    "Mike Sellers",
+    "Nachie Castro",
+    "Terry Beatty"
+  ],
+  "publish_date": "2006-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/d611c39f11204bd2a01fcb32ae8193bd.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114552/",
+  "fetched_at": "2026-05-13T15:50:35.383Z",
+  "reviewed_at": "2006-11-01"
+}

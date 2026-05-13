@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005762911",
+  "title": "Batman #629",
+  "authors": [
+    "Alex Sinclair",
+    "Bob Schreck",
+    "Clem Robins",
+    "Dustin Nguyen",
+    "Judd Winick",
+    "Matt Wagner",
+    "Michael Wright",
+    "Richard Friend"
+  ],
+  "publish_date": "2004-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-629.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34723/",
+  "fetched_at": "2026-05-13T15:36:02.364Z",
+  "reviewed_at": "2004-08-01"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194124902500111",
+  "title": "Year One: Batman Scarecrow #1",
+  "authors": [
+    "Bruce Jones",
+    "Jay Leisten",
+    "Lee Loughridge",
+    "Matt Idelson",
+    "Nachie Castro",
+    "Nick J. Napolitano",
+    "Sean Murphy",
+    "Terry Moore",
+    "Thompson Knox",
+    "Zach Howard"
+  ],
+  "publish_date": "2005-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/18/year-one-batman-scarecrow-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30871/",
+  "fetched_at": "2026-05-13T15:41:59.958Z",
+  "reviewed_at": "2005-07-01"
+}

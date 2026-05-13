@@ -1,0 +1,27 @@
+{
+  "title": "Hello Elephant",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "05 Sep 1954",
+  "runtime": "78 min",
+  "genre": "Comedy",
+  "director": "Gianni Franciolini, Vittorio De Sica",
+  "writer": "Suso Cecchi D'Amico, Cesare Zavattini",
+  "actors": "Vittorio De Sica, Sabu, María Mercader",
+  "plot": "Vittorio De Sica is a teacher struggling to take care of his family and always dreaming that Parliament will increase the salaries for teachers and life will become easier for his wife, Maria Mereander, and kids. An Indian prince ...",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjU4MTRjOWMtY2RkNC00NDdmLTg1OWMtMWE0MTNkZWJlMzIyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0043986",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:38:22.346Z"
+}

@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194125041000111",
+  "title": "Batman / The Spirit #1",
+  "authors": [
+    "Darwyn Cooke",
+    "Dave Stewart",
+    "J. Bone",
+    "Jeph Loeb",
+    "Mark Chiarello",
+    "Tom Palmer Jr."
+  ],
+  "publish_date": "2006-11-29",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/17/batman-spirit-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1047/",
+  "fetched_at": "2026-05-13T15:51:36.566Z",
+  "reviewed_at": null
+}

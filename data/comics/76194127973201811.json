@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194127973201811",
+  "title": "Batman and Robin #18",
+  "authors": [
+    "Andy Owens",
+    "Art Thibert",
+    "Chris Jones",
+    "Gene Ha",
+    "Guillem March",
+    "Guy Major",
+    "Janelle Asselin",
+    "Mike Marts",
+    "Pat Brosseau",
+    "Paul Cornell",
+    "Rob Hunter",
+    "Scott McDaniel"
+  ],
+  "publish_date": "2010-12-15",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/30/batman-robin-v1-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19914/",
+  "fetched_at": "2026-05-13T16:15:54.192Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194120187002711",
+  "title": "Batman Annual #27",
+  "authors": [
+    "Derek Fridolfs",
+    "Dustin Nguyen",
+    "Fabian Nicieza",
+    "Harvey Richards",
+    "Janelle Asselin",
+    "Jim Calafiore",
+    "John J. Hill",
+    "Kelley Jones",
+    "Mandy McMurray",
+    "Mark McKenna",
+    "Michael Siglain",
+    "Michelle Madsen",
+    "Mike Marts",
+    "Nathan Eyring"
+  ],
+  "publish_date": "2009-10-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-annual-27.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34835/",
+  "fetched_at": "2026-05-13T16:06:42.661Z",
+  "reviewed_at": "2009-10-01"
+}

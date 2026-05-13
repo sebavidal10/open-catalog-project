@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194127973201511",
+  "title": "Batman and Robin #15",
+  "authors": [
+    "Frank Quitely",
+    "Frazer Irving",
+    "Grant Morrison",
+    "Janelle Asselin",
+    "Mike Marts",
+    "Pat Brosseau"
+  ],
+  "publish_date": "2010-10-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/30/batman-robin-v1-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19911/",
+  "fetched_at": "2026-05-13T16:14:13.018Z",
+  "reviewed_at": null
+}

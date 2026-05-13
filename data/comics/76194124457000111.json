@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194124457000111",
+  "title": "DC Comics Presents: Batman #1",
+  "authors": [
+    "Adam Hughes",
+    "Andy Kuhn",
+    "Bill Crabtree",
+    "Carmine Infantino",
+    "Geoff Johns",
+    "Harvey Richards",
+    "Joan Hilty",
+    "Joe Giella",
+    "Kurt Hathaway",
+    "Len Wein",
+    "Sno Cone Studios"
+  ],
+  "publish_date": "2004-07-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/26/dc-presents-batman-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1152/",
+  "fetched_at": "2026-05-13T15:36:43.134Z",
+  "reviewed_at": null
+}

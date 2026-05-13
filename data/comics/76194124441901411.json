@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194124441901411",
+  "title": "The Batman Strikes #14",
+  "authors": [
+    "Bill Matheny",
+    "Chris Jones",
+    "Dave McCaig",
+    "Heroic Age",
+    "Nachie Castro",
+    "Terry Beatty",
+    "Travis Lanham"
+  ],
+  "publish_date": "2005-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/16/ec8e198cc5a542ca92c179699cc8ffc2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114541/",
+  "fetched_at": "2026-05-13T15:45:11.932Z",
+  "reviewed_at": "2005-12-01"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194123816600711",
+  "title": "Batman Adventures #7",
+  "authors": [
+    "Dan Slott",
+    "Harvey Richards",
+    "Joan Hilty",
+    "Kelsey Shannon",
+    "Lee Loughridge",
+    "Nick J. Napolitano",
+    "Rick Burchett",
+    "Terry Beatty",
+    "Ty Templeton",
+    "Zylonol Studios"
+  ],
+  "publish_date": "2003-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/22/ad41c8ccc1e146ba97ae2f0e6fd0b21f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/56912/",
+  "fetched_at": "2026-05-13T15:32:36.015Z",
+  "reviewed_at": "2003-12-01"
+}

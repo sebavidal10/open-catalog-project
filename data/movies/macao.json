@@ -1,0 +1,31 @@
+{
+  "title": "Macao",
+  "year": "1952",
+  "rated": "Approved",
+  "released": "11 Apr 1952",
+  "runtime": "81 min",
+  "genre": "Adventure, Crime, Drama",
+  "director": "Josef von Sternberg",
+  "writer": "Bernard C. Schoenfeld, Stanley Rubin, Robert Creighton Williams",
+  "actors": "Robert Mitchum, Jane Russell, William Bendix",
+  "plot": "Nick Cochran, an American in exile in Macao, has a chance to restore his name by helping capture an international crime lord. Undercover, can he mislead the bad guys and still woo the attractive singer/petty crook, Julie Benson?",
+  "language": "English, Cantonese, Japanese, Spanish",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODIyN2I3MWEtYmM4YS00Y2NiLTkxZGQtYjNiZTlmNWZjOGM1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "44%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0044863",
+  "type": "movie",
+  "fetched_at": "2026-05-13T15:28:29.050Z"
+}

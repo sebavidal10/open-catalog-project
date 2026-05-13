@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123816600911",
+  "title": "Batman Adventures #9",
+  "authors": [
+    "Dean Haspiel",
+    "Gabriel Soria",
+    "Harvey Richards",
+    "Joan Hilty",
+    "Nick J. Napolitano",
+    "Rob Leigh",
+    "Vito Delsante",
+    "Zylonol Studios"
+  ],
+  "publish_date": "2004-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/22/43eedea4a8dc444580f47fb9e000f532.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/56914/",
+  "fetched_at": "2026-05-13T15:33:30.477Z",
+  "reviewed_at": "2004-02-01"
+}

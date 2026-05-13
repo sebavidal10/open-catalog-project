@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005770311",
+  "title": "Batman #703",
+  "authors": [
+    "Cliff Richards",
+    "Fabian Nicieza",
+    "Ian Hannin",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Kevin Nowlan",
+    "Mike Marts",
+    "Tony Daniel"
+  ],
+  "publish_date": "2010-09-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-703.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34797/",
+  "fetched_at": "2026-05-13T16:13:43.827Z",
+  "reviewed_at": null
+}

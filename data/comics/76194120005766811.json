@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120005766811",
+  "title": "Batman #668",
+  "authors": [
+    "Dave Stewart",
+    "Grant Morrison",
+    "Jeanine Schaefer",
+    "J.H. Williams III",
+    "John J. Hill",
+    "Mike Marts"
+  ],
+  "publish_date": "2007-08-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-668.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34762/",
+  "fetched_at": "2026-05-13T15:54:35.678Z",
+  "reviewed_at": null
+}

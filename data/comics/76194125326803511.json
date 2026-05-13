@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194125326803511",
+  "title": "Batman Confidential #35",
+  "authors": [
+    "Andy Clarke",
+    "David Baron",
+    "Francesco Mattina",
+    "Janelle Asselin",
+    "Mike Marts",
+    "Peter Milligan",
+    "Sal Cipriano"
+  ],
+  "publish_date": "2009-10-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/10/batman-confidential-35.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34047/",
+  "fetched_at": "2026-05-13T16:07:53.351Z",
+  "reviewed_at": null
+}

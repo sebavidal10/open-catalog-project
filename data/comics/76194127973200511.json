@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194127973200511",
+  "title": "Batman and Robin #5",
+  "authors": [
+    "Alex Sinclair",
+    "Frank Quitely",
+    "Grant Morrison",
+    "Janelle Asselin",
+    "Jonathan Glapion",
+    "Mike Marts",
+    "Pat Brosseau",
+    "Philip Tan"
+  ],
+  "publish_date": "2009-10-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/30/batman-robin-v1-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19901/",
+  "fetched_at": "2026-05-13T16:07:45.530Z",
+  "reviewed_at": null
+}

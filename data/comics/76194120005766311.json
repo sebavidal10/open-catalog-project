@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120005766311",
+  "title": "Batman #663",
+  "authors": [
+    "Andy Kubert",
+    "Elisabeth V. Gehrlein",
+    "Grant Morrison",
+    "John Van Fleet",
+    "Peter J. Tomasi",
+    "Todd Klein"
+  ],
+  "publish_date": "2007-02-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-663.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34757/",
+  "fetched_at": "2026-05-13T15:52:51.122Z",
+  "reviewed_at": null
+}

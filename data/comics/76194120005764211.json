@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005764211",
+  "title": "Batman #642",
+  "authors": [
+    "Alex Sinclair",
+    "Andersen Gabrych",
+    "Andrew Pepoy",
+    "Bob Schreck",
+    "Chris Marrinan",
+    "Jock",
+    "Michael Wright",
+    "Pat Brosseau"
+  ],
+  "publish_date": "2005-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/18/batman-642.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34736/",
+  "fetched_at": "2026-05-13T15:42:52.277Z",
+  "reviewed_at": "2005-09-01"
+}

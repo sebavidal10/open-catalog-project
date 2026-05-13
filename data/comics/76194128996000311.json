@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194128996000311",
+  "title": "Batman Beyond #3",
+  "authors": [
+    "Adam Beechen",
+    "David Baron",
+    "Dustin Nguyen",
+    "Harvey Richards",
+    "John Stanisci",
+    "Michael Siglain",
+    "Ryan Benjamin",
+    "Travis Lanham"
+  ],
+  "publish_date": "2010-08-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/1ce4b48300a849cd85e7986365133fd0.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118110/",
+  "fetched_at": "2026-05-13T16:13:22.129Z",
+  "reviewed_at": null
+}

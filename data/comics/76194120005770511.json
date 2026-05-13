@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120005770511",
+  "title": "Batman #705",
+  "authors": [
+    "Ian Hannin",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Mike Marts",
+    "Sandu Florea",
+    "Tony Daniel"
+  ],
+  "publish_date": "2010-12-15",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-705.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34799/",
+  "fetched_at": "2026-05-13T16:15:50.173Z",
+  "reviewed_at": null
+}
