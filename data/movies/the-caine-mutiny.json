@@ -1,0 +1,35 @@
+{
+  "title": "The Caine Mutiny",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "24 Jun 1954",
+  "runtime": "124 min",
+  "genre": "Drama, War",
+  "director": "Edward Dmytryk",
+  "writer": "Stanley Roberts, Michael Blankfort, Herman Wouk",
+  "actors": "Humphrey Bogart, José Ferrer, Van Johnson",
+  "plot": "When a U.S. Naval captain shows signs of mental instability that jeopardises the ship, the first officer is urged to consider relieving him of command.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 7 Oscars. 2 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4ODg4NzA3OV5BMl5BanBnXkFtZTgwMDcwODI5MjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "7.7",
+  "imdbID": "tt0046816",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:23:23.318Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Hansel and Gretel",
+  "year": "1954",
+  "rated": "G",
+  "released": "24 Dec 1954",
+  "runtime": "72 min",
+  "genre": "Animation, Adventure, Family",
+  "director": "John Paul",
+  "writer": "Adelheid Wette, Padraic Colum, Wilhelm Grimm",
+  "actors": "Anna Russell, Mildred Dunnock, Frank Rogier",
+  "plot": "An \"electronic puppet\" version of the Humperdinck opera, adapted for children and using spoken dialogue as well as Humperdinck's music.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmFmNTFiMzctYmFjMS00ZjFmLWJlNTEtYzg1MDE2MGMxNGFmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0193995",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:28:27.875Z"
+}

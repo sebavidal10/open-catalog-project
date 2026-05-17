@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130643802911",
+  "title": "Batman: The Dark Knight #29",
+  "authors": [
+    "Brian Miller",
+    "Darren Shan",
+    "Ethan Van Sciver",
+    "Gregg Hurwitz",
+    "Jorge Lucas",
+    "Mark Doyle",
+    "Taylor Esposito"
+  ],
+  "publish_date": "2014-03-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/06/batman-the-dark-knight-29.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41562/",
+  "fetched_at": "2026-05-15T21:34:21.272Z",
+  "reviewed_at": null
+}

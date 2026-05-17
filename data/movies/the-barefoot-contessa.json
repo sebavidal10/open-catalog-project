@@ -1,0 +1,35 @@
+{
+  "title": "The Barefoot Contessa",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "30 Sep 1954",
+  "runtime": "128 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Joseph L. Mankiewicz",
+  "writer": "Joseph L. Mankiewicz, Charles Goldblat, Mauries Puget",
+  "actors": "Humphrey Bogart, Ava Gardner, Edmond O'Brien",
+  "plot": "This is the life of a Hollywood movie star named Maria, as told by writer/director Harry Dawes, from being discovered in Madrid, Spain, until her funeral in Italy.",
+  "language": "English, Spanish, Italian, French",
+  "country": "United States, Italy",
+  "awards": "Won 1 Oscar. 2 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDUzN2JmMWMtM2Y5NS00NmE4LWJiODUtMWFmNjIwOGQ4MTBkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "6.9",
+  "imdbID": "tt0046754",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:23:49.318Z"
+}

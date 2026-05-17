@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130640704611",
+  "title": "Batman #46",
+  "authors": [
+    "Danny Miki",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "Mark Doyle",
+    "Rebecca Taylor",
+    "Scott Snyder",
+    "Spike Brandt",
+    "Steve Wands",
+    "Tomeu Morey",
+    "Tony Daniel"
+  ],
+  "publish_date": "2015-11-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-v2-46.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6858/",
+  "fetched_at": "2026-05-15T21:49:44.778Z",
+  "reviewed_at": null
+}

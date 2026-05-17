@@ -1,0 +1,35 @@
+{
+  "title": "The Wild One",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "01 Feb 1954",
+  "runtime": "79 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "Laslo Benedek",
+  "writer": "John Paxton, Frank Rooney, Ben Maddow",
+  "actors": "Marlon Brando, Mary Murphy, Robert Keith",
+  "plot": "Two rival motorcycle gangs terrorize a small town after one of their leaders is thrown in jail.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWM3NmRkM2UtMmYyOC00NzM0LTgyNTYtZmU0YmM4NDVlNWEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "6.7",
+  "imdbID": "tt0047677",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:08:54.289Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Houdini",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "02 Jul 1953",
+  "runtime": "106 min",
+  "genre": "Biography, Drama, Romance",
+  "director": "George Marshall",
+  "writer": "Philip Yordan, Harold Kellock",
+  "actors": "Tony Curtis, Janet Leigh, Torin Thatcher",
+  "plot": "From his beginnings as a \"wildman\" carnival act to the internationally famous feat of escaping from a locked trunk in an ice-jammed river, the great Harry Houdini emerged as the world's most captivating magician and escape artist.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmI3ZmNhODYtZDA2OC00MjAzLWFlOTUtOTA5ZTg1YTM2MzljXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0045886",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:09:49.971Z"
+}

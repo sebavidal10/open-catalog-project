@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194134955800311",
+  "title": "Batman: Damned #3",
+  "authors": [
+    "Alex Sinclair",
+    "Brian Azzarello",
+    "Jared K. Fletcher",
+    "Jim Lee",
+    "Lee Bermejo"
+  ],
+  "publish_date": "2019-06-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/26/batman-damned-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3002/",
+  "fetched_at": "2026-05-17T20:29:16.961Z",
+  "reviewed_at": null
+}

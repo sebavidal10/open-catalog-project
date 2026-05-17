@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130640704911",
+  "title": "Batman #49",
+  "authors": [
+    "James Tynion IV",
+    "Laura Martin",
+    "Mark Doyle",
+    "Nathan Fairbairn",
+    "Neal Adams",
+    "Rebecca Taylor",
+    "Scott Snyder",
+    "Steve Wands",
+    "Walter Simonson",
+    "Yanick Paquette"
+  ],
+  "publish_date": "2016-02-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-v2-49.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6861/",
+  "fetched_at": "2026-05-15T21:52:15.887Z",
+  "reviewed_at": null
+}

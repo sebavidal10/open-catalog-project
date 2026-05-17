@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130640700511",
+  "title": "Batman #5",
+  "authors": [
+    "Chris Burnham",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "Harvey Richards",
+    "Jonathan Glapion",
+    "Katie Kubert",
+    "Mike Marts",
+    "Nathan Fairbairn",
+    "Richard Starkings",
+    "Scott Snyder"
+  ],
+  "publish_date": "2012-01-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6802/",
+  "fetched_at": "2026-05-15T21:17:49.480Z",
+  "reviewed_at": null
+}

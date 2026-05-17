@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134182804611",
+  "title": "Batman #46",
+  "authors": [
+    "Brittany Holzherr",
+    "Clayton Cowles",
+    "Danny Miki",
+    "Jamie S. Rich",
+    "Kaare Andrews",
+    "Sandu Florea",
+    "Tomeu Morey",
+    "Tom King",
+    "Tony Daniel"
+  ],
+  "publish_date": "2018-05-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/09/batman-46.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/906/",
+  "fetched_at": "2026-05-15T22:09:08.133Z",
+  "reviewed_at": null
+}

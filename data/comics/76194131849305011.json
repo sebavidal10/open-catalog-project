@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194131849305011",
+  "title": "Batman Eternal #50",
+  "authors": [
+    "Álvaro Martínez Bueno",
+    "Chris Conroy",
+    "Cliff Chiang",
+    "Dave Wielgosz",
+    "James Tynion IV",
+    "June Chung",
+    "Kyle Higgins",
+    "Mark Doyle",
+    "Raúl Fernández",
+    "Ray Fawkes",
+    "Scott Snyder",
+    "Tim Seeley",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2015-03-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/04/30/050da9060f2e45dc9d5f6026c662bf79.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/117472/",
+  "fetched_at": "2026-05-15T21:45:17.691Z",
+  "reviewed_at": null
+}

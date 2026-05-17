@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194130640702311",
+  "title": "Batman #23",
+  "authors": [
+    "Brad Anderson",
+    "Danny Miki",
+    "Dave McCaig",
+    "Dezi Sienty",
+    "FCO Plascencia",
+    "Gary Frank",
+    "Greg Capullo",
+    "James Tynion IV",
+    "Katie Kubert",
+    "Mike Marts",
+    "Nick J. Napolitano",
+    "Rafael Albuquerque",
+    "Scott Snyder"
+  ],
+  "publish_date": "2013-08-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6820/",
+  "fetched_at": "2026-05-15T21:27:52.758Z",
+  "reviewed_at": null
+}

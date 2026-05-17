@@ -1,0 +1,27 @@
+{
+  "title": "Child's Play",
+  "year": "1954",
+  "rated": "N/A",
+  "released": "N/A",
+  "runtime": "68 min",
+  "genre": "Comedy, Sci-Fi",
+  "director": "Margaret Thomson",
+  "writer": "Don Sharp, Peter Blackmore, Margaret Thomson",
+  "actors": "Mona Washbourne, Peter Martyn, Dorothy Alison",
+  "plot": "A science-fiction film about children who manage to split the atom and thereby create a new form of popcorn.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDQyYjU2ZGUtZTk3ZC00MDhjLThhMjYtYWNmODA0YmY3NjBkXkEyXkFqcGdeQXVyMTQwMzQ1MA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0045623",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:33:02.007Z"
+}

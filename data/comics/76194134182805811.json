@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134182805811",
+  "title": "Batman #58",
+  "authors": [
+    "Brittany Holzherr",
+    "Clayton Cowles",
+    "Francesco Mattina",
+    "Jamie S. Rich",
+    "Jordie Bellaire",
+    "Mikel Janín",
+    "Tom King"
+  ],
+  "publish_date": "2018-11-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/10/batman-58.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/918/",
+  "fetched_at": "2026-05-17T20:25:59.981Z",
+  "reviewed_at": null
+}

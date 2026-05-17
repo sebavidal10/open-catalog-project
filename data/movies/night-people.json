@@ -1,0 +1,31 @@
+{
+  "title": "Night People",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "14 May 1954",
+  "runtime": "93 min",
+  "genre": "Adventure, Crime, Mystery",
+  "director": "Nunnally Johnson",
+  "writer": "Nunnally Johnson, Jed Harris, Tom Reed",
+  "actors": "Gregory Peck, Broderick Crawford, Anita Björk",
+  "plot": "During the Cold War, an American soldier is abducted in West Berlin, sparking a recovery effort led by Colonel Steve Van Dyke.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2I2NWNjZDktMTc5ZS00YzkzLWJjZTEtM2E4NWQ2ZGIzZTExXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0047279",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:24:38.682Z"
+}

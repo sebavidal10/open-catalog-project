@@ -1,0 +1,31 @@
+{
+  "title": "The Moon Is Blue",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "08 Jul 1953",
+  "runtime": "99 min",
+  "genre": "Comedy, Romance",
+  "director": "Otto Preminger",
+  "writer": "F. Hugh Herbert",
+  "actors": "William Holden, David Niven, Maggie McNamara",
+  "plot": "Two aging playboys are both after the same attractive young woman, but she fends them off by claiming that she plans to remain a virgin until her wedding night. Both men determine to find a way around her objections.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 1 win & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWE2NzRkMjMtM2QxNS00MDg0LWIzNjEtNGFjODVlNTk1YzUyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "44%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0046094",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:09:46.265Z"
+}

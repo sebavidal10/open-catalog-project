@@ -1,0 +1,31 @@
+{
+  "title": "The Glenn Miller Story",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "04 Jan 1954",
+  "runtime": "115 min",
+  "genre": "Biography, Drama, Music",
+  "director": "Anthony Mann",
+  "writer": "Valentine Davies, Oscar Brodney",
+  "actors": "James Stewart, June Allyson, Harry Morgan",
+  "plot": "Biography of bandleader Glenn Miller from his beginnings to his death over the English Channel in December 1944.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 1 win & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWViNGE2MTgtNDJkYi00YzJkLTg0NmEtMzAwM2RiMjRhYmU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0047030",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:24:01.694Z"
+}

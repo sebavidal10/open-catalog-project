@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "76194132632000311",
+  "title": "Batman & Robin Eternal #3",
+  "authors": [
+    "Chris Conroy",
+    "Dave Wielgosz",
+    "James Tynion IV",
+    "Joshua Cozine",
+    "Marc Deering",
+    "Mark Doyle",
+    "Paul Pelletier",
+    "Rain Beredo",
+    "Scot Eaton",
+    "Scott Snyder",
+    "Tim Seeley",
+    "Tomeu Morey",
+    "Tony Daniel",
+    "Tony Kordos",
+    "Troy Peteri",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2015-10-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/14/a61d1120e0704df8a08afa1bc1c3b19d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156204/",
+  "fetched_at": "2026-05-15T21:49:14.245Z",
+  "reviewed_at": null
+}

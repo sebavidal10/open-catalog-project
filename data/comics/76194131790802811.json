@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194131790802811",
+  "title": "Batman '66 #28",
+  "authors": [
+    "David Piña",
+    "Jeff Parker",
+    "Jim Chadwick",
+    "Kelly Fitzpatrick",
+    "Laura Allred",
+    "Lukas Ketner",
+    "Mike Allred",
+    "Wes Abbott"
+  ],
+  "publish_date": "2015-10-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/cbca27f2e265415e8e40ddf18ed3616d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145782/",
+  "fetched_at": "2026-05-15T21:48:54.386Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194133100301211",
+  "title": "Robin: Son of Batman #12",
+  "authors": [
+    "Mark Doyle",
+    "Mat Lopes",
+    "Ramón Bachs",
+    "Ray Fawkes",
+    "Rebecca Taylor",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2016-05-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/10/robin-son-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25087/",
+  "fetched_at": "2026-05-15T21:54:53.514Z",
+  "reviewed_at": null
+}

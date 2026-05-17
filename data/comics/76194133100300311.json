@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194133100300311",
+  "title": "Robin: Son of Batman #3",
+  "authors": [
+    "Dustin Nguyen",
+    "John Kalisz",
+    "Mark Doyle",
+    "Mick Gray",
+    "Patrick Gleason",
+    "Rebecca Taylor",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2015-08-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/10/robin-son-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25078/",
+  "fetched_at": "2026-05-15T21:48:07.045Z",
+  "reviewed_at": null
+}

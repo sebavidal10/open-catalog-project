@@ -1,0 +1,27 @@
+{
+  "title": "Prince Valiant",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "05 Apr 1954",
+  "runtime": "100 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Henry Hathaway",
+  "writer": "Dudley Nichols, Hal Foster",
+  "actors": "James Mason, Janet Leigh, Robert Wagner",
+  "plot": "A young Viking prince strives to become a knight in King Arthur's Court and restore his exiled father to his rightful throne.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzRmOWY4MjctZTNhZS00YjQzLWJhNzgtMjMzODBmNDk0ZGJjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0047365",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:23:41.911Z"
+}

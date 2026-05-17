@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134182809211",
+  "title": "Batman #92",
+  "authors": [
+    "Ben Abernathy",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "Guillem March",
+    "James Tynion IV",
+    "Jorge Jiménez",
+    "Stanley Lau",
+    "Tomeu Morey",
+    "Tony Daniel",
+    "Yasmine Putri"
+  ],
+  "publish_date": "2020-06-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/06/06/batman-92.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/13593/",
+  "fetched_at": "2026-05-17T20:37:32.317Z",
+  "reviewed_at": null
+}

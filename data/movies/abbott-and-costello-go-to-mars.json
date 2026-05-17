@@ -1,0 +1,31 @@
+{
+  "title": "Abbott and Costello Go to Mars",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "06 Apr 1953",
+  "runtime": "77 min",
+  "genre": "Comedy, Family, Fantasy",
+  "director": "Charles Lamont",
+  "writer": "D.D. Beauchamp, John Grant, Howard Christie",
+  "actors": "Bud Abbott, Lou Costello, Robert Paige",
+  "plot": "Two workmen accidentally launch a space rocket intended for Mars, and find mistakenly landing in New Orleans just the beginning of their misadventures.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODkxNjNhYWUtNTg5MS00NDEwLWE1MDQtNjRiMmQxOWEwNzcxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0045468",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:10:15.982Z"
+}

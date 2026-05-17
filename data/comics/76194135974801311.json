@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194135974801311",
+  "title": "Batman and the Outsiders #13",
+  "authors": [
+    "Arif Prianto",
+    "Ben Abernathy",
+    "Bryan Hill",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "Gleb Melnikov",
+    "Ivan Plascencia",
+    "Michael Golden",
+    "Tyler Kirkham"
+  ],
+  "publish_date": "2020-06-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/06/10/batman-outsiders-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/13756/",
+  "fetched_at": "2026-05-17T20:38:16.386Z",
+  "reviewed_at": null
+}

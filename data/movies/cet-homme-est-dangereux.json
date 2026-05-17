@@ -1,0 +1,27 @@
+{
+  "title": "Cet homme est dangereux",
+  "year": "1953",
+  "rated": "N/A",
+  "released": "22 Nov 1953",
+  "runtime": "92 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "Jean Sacha",
+  "writer": "Peter Cheyney, Jacques Berland, Marcel Duhamel",
+  "actors": "Eddie Constantine, Colette Deréal, Grégoire Aslan",
+  "plot": "An escaped convict on the run becomes the newest member of the international criminal network. In order to gain the respect of the gang, he gets involved in a plot to kidnap a rich American heiress.",
+  "language": "French, English",
+  "country": "France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjBlOTQ5ZTItNGM3Yy00MjhmLTg2YWMtYWVmZWFiMjU3ODMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0045617",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:16:38.118Z"
+}

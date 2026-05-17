@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194120005771311",
+  "title": "Batman #713",
+  "authors": [
+    "Andrei Bressan",
+    "Daniel Sampere",
+    "Fabian Nicieza",
+    "Ian Hannin",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Katie Kubert",
+    "Mike Marts",
+    "Rich Perrotta",
+    "Rodney Ramos",
+    "Steve Scott",
+    "Tony Daniel",
+    "Walden Wong"
+  ],
+  "publish_date": "2011-08-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-713.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34807/",
+  "fetched_at": "2026-05-15T21:15:14.654Z",
+  "reviewed_at": null
+}

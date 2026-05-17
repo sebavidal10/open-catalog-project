@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194131673400211",
+  "title": "Batman '66 #2",
+  "authors": [
+    "Jeff Parker",
+    "Jim Chadwick",
+    "Jonathan Case",
+    "Kevin Maguire",
+    "Laura Allred",
+    "Mike Allred",
+    "Ty Templeton",
+    "Wes Abbott",
+    "Wes Hartman"
+  ],
+  "publish_date": "2013-08-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/123b3ce7fe544ab794ee5b7d40d8e86a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145756/",
+  "fetched_at": "2026-05-15T21:28:01.133Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194130640700011",
+  "title": "Batman #0",
+  "authors": [
+    "Andy Clarke",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "James Tynion IV",
+    "Jimmy Betancourt",
+    "Jonathan Glapion",
+    "Katie Kubert",
+    "Mike Marts",
+    "Pat Brosseau",
+    "Richard Starkings",
+    "Scott Snyder"
+  ],
+  "publish_date": "2012-09-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-0.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6797/",
+  "fetched_at": "2026-05-15T21:21:27.218Z",
+  "reviewed_at": null
+}

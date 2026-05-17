@@ -1,0 +1,35 @@
+{
+  "title": "White Christmas",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "05 Nov 1954",
+  "runtime": "120 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Michael Curtiz",
+  "writer": "Norman Krasna, Norman Panama, Melvin Frank",
+  "actors": "Bing Crosby, Danny Kaye, Rosemary Clooney",
+  "plot": "A successful song-and-dance team become romantically involved with a sister act and team up to save the failing Vermont inn of their former commanding general.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzZlOTBmZDgtMWIwMS00YTNlLTllNWYtZTk1MmY0ZWU3MzQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "metascore": "56",
+  "imdbRating": "7.5",
+  "imdbID": "tt0047673",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:23:25.840Z"
+}

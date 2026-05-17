@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130640704811",
+  "title": "Batman #48",
+  "authors": [
+    "Danny Miki",
+    "Dave Johnson",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "Mark Doyle",
+    "Rebecca Taylor",
+    "Scott Snyder",
+    "Steve Wands"
+  ],
+  "publish_date": "2016-01-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-v2-48.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6860/",
+  "fetched_at": "2026-05-15T21:51:28.279Z",
+  "reviewed_at": null
+}

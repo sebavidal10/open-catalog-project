@@ -1,0 +1,31 @@
+{
+  "title": "Pickup on South Street",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "03 Jul 1953",
+  "runtime": "80 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Samuel Fuller",
+  "writer": "Samuel Fuller, Dwight Taylor",
+  "actors": "Richard Widmark, Jean Peters, Thelma Ritter",
+  "plot": "A pickpocket unwittingly lifts a message destined for enemy agents and becomes a target for a Communist spy ring.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTNlMjVlNTEtOGViNC00M2Q4LWJkOWUtYzBiMWYwYmQ4OGZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0046187",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:08:57.987Z"
+}

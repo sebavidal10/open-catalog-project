@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130640700111",
+  "title": "Batman #1",
+  "authors": [
+    "Ethan Van Sciver",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "Janelle Asselin",
+    "Jimmy Betancourt",
+    "Jonathan Glapion",
+    "Katie Kubert",
+    "Mike Marts",
+    "Richard Starkings",
+    "Scott Snyder"
+  ],
+  "publish_date": "2011-09-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6798/",
+  "fetched_at": "2026-05-15T21:16:01.253Z",
+  "reviewed_at": null
+}

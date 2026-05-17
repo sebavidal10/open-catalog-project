@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194127973202011",
+  "title": "Batman and Robin #20",
+  "authors": [
+    "Alex Sinclair",
+    "Ethan Van Sciver",
+    "Harvey Richards",
+    "Mark Irwin",
+    "Mick Gray",
+    "Mike Marts",
+    "Pat Brosseau",
+    "Patrick Gleason",
+    "Peter J. Tomasi"
+  ],
+  "publish_date": "2011-02-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/30/batman-robin-v1-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19916/",
+  "fetched_at": "2026-05-15T21:11:35.435Z",
+  "reviewed_at": null
+}

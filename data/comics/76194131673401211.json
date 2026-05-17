@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194131673401211",
+  "title": "Batman '66 #12",
+  "authors": [
+    "Art Baltazar",
+    "Dario Brizuela",
+    "Franco Aureliani",
+    "Jeff Parker",
+    "Mike Allred",
+    "Ted Naifeh"
+  ],
+  "publish_date": "2014-06-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/e1277c98b284469695e25ee590bcc619.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145766/",
+  "fetched_at": "2026-05-15T21:36:38.114Z",
+  "reviewed_at": null
+}

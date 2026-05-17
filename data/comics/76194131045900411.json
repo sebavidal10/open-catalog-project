@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194131045900411",
+  "title": "Batman Annual #4",
+  "authors": [
+    "Dave McCaig",
+    "James Tynion IV",
+    "Mark Doyle",
+    "Rebecca Taylor",
+    "Rogê Antônio",
+    "Sean Murphy",
+    "Steve Wands"
+  ],
+  "publish_date": "2015-09-30",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-annual-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6866/",
+  "fetched_at": "2026-05-15T21:48:29.589Z",
+  "reviewed_at": null
+}

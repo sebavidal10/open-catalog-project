@@ -1,0 +1,27 @@
+{
+  "title": "The Lost Planet",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "04 Jun 1953",
+  "runtime": "246 min",
+  "genre": "Family, Sci-Fi",
+  "director": "Spencer Gordon Bennet",
+  "writer": "George H. Plympton, Arthur Hoerl",
+  "actors": "Judd Holdren, Vivian Mason, Ted Thorpe",
+  "plot": "Two newspaper reporters battle a plot by the evil Dr. Grood to conquer the world.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDg0OWU2YmYtM2Q1My00ZGQ5LWFiMjktYzZkNTNkMDdhMzA4XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0046012",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:14:32.992Z"
+}

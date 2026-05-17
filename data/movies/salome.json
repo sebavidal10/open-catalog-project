@@ -1,0 +1,27 @@
+{
+  "title": "Salome",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "16 Apr 1953",
+  "runtime": "103 min",
+  "genre": "Drama, History",
+  "director": "William Dieterle",
+  "writer": "Harry Kleiner, Jesse Lasky Jr.",
+  "actors": "Rita Hayworth, Stewart Granger, Charles Laughton",
+  "plot": "After her banishment from Rome, Jewish Princess Salome returns to her Roman-ruled native land of Galilee, where prophet John the Baptist preaches against Salome's parents, King Herod and Queen Herodias.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTg2MTJjODctNzBlMS00YWUxLTgzMGMtYWRmNDAwMDljM2EzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0046269",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:09:31.439Z"
+}

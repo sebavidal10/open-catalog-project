@@ -1,0 +1,31 @@
+{
+  "title": "A Geisha",
+  "year": "1953",
+  "rated": "Not Rated",
+  "released": "11 Jun 1978",
+  "runtime": "85 min",
+  "genre": "Drama",
+  "director": "Kenji Mizoguchi",
+  "writer": "Matsutarô Kawaguchi, Yoshikata Yoda",
+  "actors": "Michiyo Kogure, Ayako Wakao, Seizaburô Kawazu",
+  "plot": "A seasoned geisha and her apprentice maiko are forced to give in to their clients' sexual advances to survive.",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "2 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjMzYTJlYmEtM2U5ZS00YjJkLTkxZjQtZDVlNDE4N2ZlYjExXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0045814",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:12:06.081Z"
+}

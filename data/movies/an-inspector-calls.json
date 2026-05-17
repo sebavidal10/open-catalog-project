@@ -1,0 +1,27 @@
+{
+  "title": "An Inspector Calls",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "13 Aug 1954",
+  "runtime": "80 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Guy Hamilton",
+  "writer": "J.B. Priestley, Desmond Davis",
+  "actors": "Alastair Sim, Arthur Young, Olga Lindo",
+  "plot": "A wealthy family is visited by a police inspector, who questions the family about the suicide of a young working-class woman.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjgyYTE2MDAtNDYwNS00NDMyLWIzODItNTE2ODBjMTdkNjZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0047119",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:24:07.857Z"
+}

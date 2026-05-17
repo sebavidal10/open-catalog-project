@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194133100300411",
+  "title": "Robin: Son of Batman #4",
+  "authors": [
+    "Brian Miller",
+    "Howard Porter",
+    "John Kalisz",
+    "Mark Doyle",
+    "Mick Gray",
+    "Patrick Gleason",
+    "Rebecca Taylor",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2015-09-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/10/robin-son-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25079/",
+  "fetched_at": "2026-05-15T21:48:42.020Z",
+  "reviewed_at": null
+}

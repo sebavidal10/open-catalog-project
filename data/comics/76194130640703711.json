@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194130640703711",
+  "title": "Batman #37",
+  "authors": [
+    "Andy Kubert",
+    "Brad Anderson",
+    "Danny Miki",
+    "Darwyn Cooke",
+    "Dezi Sienty",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "James Tynion IV",
+    "John McCrea",
+    "Mark Doyle",
+    "Matt Humphreys",
+    "Michelle Madsen",
+    "Scott Snyder",
+    "Taylor Esposito"
+  ],
+  "publish_date": "2014-12-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-v2-37.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6849/",
+  "fetched_at": "2026-05-15T21:42:33.941Z",
+  "reviewed_at": null
+}

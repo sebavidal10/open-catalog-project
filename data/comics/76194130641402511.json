@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130641402511",
+  "title": "Batman and Robin #25",
+  "authors": [
+    "Carlos M. Mangual",
+    "Darren Shan",
+    "John Kalisz",
+    "Mick Gray",
+    "Mike Marts",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Rachel Gluckstern"
+  ],
+  "publish_date": "2013-11-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/27/batman-robin-v2-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15577/",
+  "fetched_at": "2026-05-15T21:30:59.270Z",
+  "reviewed_at": null
+}

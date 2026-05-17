@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130643800311",
+  "title": "Batman: The Dark Knight #3",
+  "authors": [
+    "Alex Sinclair",
+    "David Finch",
+    "Jeromy Cox",
+    "Mike Marts",
+    "Paul Jenkins",
+    "Richard Friend",
+    "Rickey Purdin",
+    "Sal Cipriano"
+  ],
+  "publish_date": "2011-11-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/06/batman-the-dark-knight-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41536/",
+  "fetched_at": "2026-05-15T21:17:00.927Z",
+  "reviewed_at": null
+}

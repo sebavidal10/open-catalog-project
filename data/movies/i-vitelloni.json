@@ -1,0 +1,35 @@
+{
+  "title": "I Vitelloni",
+  "year": "1953",
+  "rated": "Not Rated",
+  "released": "07 Nov 1956",
+  "runtime": "104 min",
+  "genre": "Comedy, Drama",
+  "director": "Federico Fellini",
+  "writer": "Federico Fellini, Ennio Flaiano, Tullio Pinelli",
+  "actors": "Alberto Sordi, Franco Fabrizi, Franco Interlenghi",
+  "plot": "A character study of five young men at crucial turning points in their lives in a small town in Italy.",
+  "language": "Italian",
+  "country": "Italy, France",
+  "awards": "Nominated for 1 Oscar. 4 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWZlY2NkNDktNTUxNi00ZTg1LWJjOTMtMTc1MzcyNzg0NTdmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.8",
+  "imdbID": "tt0046521",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:08:15.936Z"
+}

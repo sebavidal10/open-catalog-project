@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194127973202611",
+  "title": "Batman and Robin #26",
+  "authors": [
+    "Andrei Bressan",
+    "Arthur Fujita",
+    "Chris Burnham",
+    "David Hine",
+    "Greg Tocchini",
+    "Harvey Richards",
+    "J.G. Jones",
+    "Katie Kubert",
+    "Mike Marts",
+    "Pat Brosseau"
+  ],
+  "publish_date": "2011-08-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/30/batman-robin-v1-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19922/",
+  "fetched_at": "2026-05-15T21:15:18.977Z",
+  "reviewed_at": null
+}

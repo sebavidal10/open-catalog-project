@@ -1,0 +1,31 @@
+{
+  "title": "El",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "09 Jul 1953",
+  "runtime": "82 min",
+  "genre": "Drama, Romance",
+  "director": "Luis Buñuel",
+  "writer": "Luis Buñuel, Luis Alcoriza, Mercedes Pinto",
+  "actors": "Arturo de Córdova, Delia Garcés, Aurora Walker",
+  "plot": "A husband's suave exterior unravels after his marriage, and he unleashes his paranoid and volatile temper on his wife, which escalates to more dangerous and unpredictable tantrums.",
+  "language": "Spanish",
+  "country": "Mexico",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGY4Yjg5Y2MtYzM2OC00ZWU3LWEzNGUtYjY3NGM2MTliMGQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.9",
+  "imdbID": "tt0045361",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:08:20.923Z"
+}

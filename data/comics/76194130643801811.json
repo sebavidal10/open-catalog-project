@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194130643801811",
+  "title": "Batman: The Dark Knight #18",
+  "authors": [
+    "Brian Miller",
+    "Darren Shan",
+    "Dave Sharpe",
+    "Ethan Van Sciver",
+    "Gregg Hurwitz",
+    "Mike Marts"
+  ],
+  "publish_date": "2013-03-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/06/batman-the-dark-knight-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41551/",
+  "fetched_at": "2026-05-15T21:24:48.790Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120005771211",
+  "title": "Batman #712",
+  "authors": [
+    "Andy Smith",
+    "Ian Hannin",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Katie Kubert",
+    "Mike Marts",
+    "Steve Scott",
+    "Tony Daniel",
+    "Walden Wong"
+  ],
+  "publish_date": "2011-07-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-712.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34806/",
+  "fetched_at": "2026-05-15T21:14:37.276Z",
+  "reviewed_at": null
+}

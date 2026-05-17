@@ -1,0 +1,27 @@
+{
+  "title": "Jeopardy",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "01 May 1953",
+  "runtime": "69 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "John Sturges",
+  "writer": "Mel Dinelli, Maurice Zimm",
+  "actors": "Barbara Stanwyck, Barry Sullivan, Ralph Meeker",
+  "plot": "A family vacationing on the coast of Mexico have to cope with multiple threats to their safety.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDUzNTNjOTgtY2RiNS00YzEzLTg0NTYtZDBjY2U2ZDM4OTZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0045932",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:08:45.652Z"
+}

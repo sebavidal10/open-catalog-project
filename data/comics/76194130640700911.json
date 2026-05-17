@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194130640700911",
+  "title": "Batman #9",
+  "authors": [
+    "Dale Keown",
+    "Dave McCaig",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "James Tynion IV",
+    "Jimmy Betancourt",
+    "Jonathan Glapion",
+    "Katie Kubert",
+    "Mike Marts",
+    "Pat Brosseau",
+    "Rafael Albuquerque",
+    "Richard Starkings",
+    "Scott Snyder"
+  ],
+  "publish_date": "2012-05-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6806/",
+  "fetched_at": "2026-05-15T21:19:23.036Z",
+  "reviewed_at": null
+}

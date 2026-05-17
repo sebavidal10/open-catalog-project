@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194131790801311",
+  "title": "Batman '66 #13",
+  "authors": [
+    "Allen Passalaqua",
+    "Aniz Ansari",
+    "Dean Haspiel",
+    "Gabriel Soria",
+    "Jim Chadwick",
+    "Laura Allred",
+    "Mike Allred",
+    "Wes Abbott"
+  ],
+  "publish_date": "2014-07-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/264beab355404042a4d47a5060b76602.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145767/",
+  "fetched_at": "2026-05-15T21:37:40.256Z",
+  "reviewed_at": null
+}

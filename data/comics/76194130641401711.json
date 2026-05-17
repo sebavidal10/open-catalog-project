@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130641401711",
+  "title": "Batman and Robin #17",
+  "authors": [
+    "Carlos M. Mangual",
+    "John Kalisz",
+    "Mick Gray",
+    "Mike Marts",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Rachel Gluckstern",
+    "Rickey Purdin"
+  ],
+  "publish_date": "2013-02-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/27/batman-robin-v2-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15564/",
+  "fetched_at": "2026-05-15T21:23:58.376Z",
+  "reviewed_at": null
+}

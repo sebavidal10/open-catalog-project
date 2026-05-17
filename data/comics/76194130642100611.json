@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130642100611",
+  "title": "Batman Incorporated #6",
+  "authors": [
+    "Andres Guinaldo",
+    "Chris Burnham",
+    "Dave Sharpe",
+    "Grant Morrison",
+    "Javier Bergantiño",
+    "Juan José Ryp",
+    "Mike Marts",
+    "Nathan Fairbairn",
+    "Rickey Purdin"
+  ],
+  "publish_date": "2013-01-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/13/batman-incorporated-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41844/",
+  "fetched_at": "2026-05-15T21:23:08.069Z",
+  "reviewed_at": null
+}

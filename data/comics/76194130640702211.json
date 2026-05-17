@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194130640702211",
+  "title": "Batman #22",
+  "authors": [
+    "Danny Miki",
+    "Dave McCaig",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "James Tynion IV",
+    "Katie Kubert",
+    "Mikel Janín",
+    "Mike Marts",
+    "Nick J. Napolitano",
+    "Rafael Albuquerque",
+    "Scott Snyder",
+    "Taylor Esposito"
+  ],
+  "publish_date": "2013-07-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6819/",
+  "fetched_at": "2026-05-15T21:27:02.458Z",
+  "reviewed_at": null
+}

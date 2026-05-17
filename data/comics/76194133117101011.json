@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194133117101011",
+  "title": "Batman Beyond #10",
+  "authors": [
+    "Bernard Chang",
+    "Dan Jurgens",
+    "Dave Sharpe",
+    "David Piña",
+    "Dustin Nguyen",
+    "Elmer Santos",
+    "Marcelo Maiolo",
+    "Philip Tan"
+  ],
+  "publish_date": "2016-03-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/07/batman-beyond-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41598/",
+  "fetched_at": "2026-05-15T21:53:20.110Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194133117100111",
+  "title": "Batman Beyond #1",
+  "authors": [
+    "Bernard Chang",
+    "Dan DiDio",
+    "Dan Jurgens",
+    "Dave Sharpe",
+    "David Piña",
+    "Kalman Andrasofszky",
+    "Marcelo Maiolo"
+  ],
+  "publish_date": "2015-06-03",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/07/batman-beyond-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41589/",
+  "fetched_at": "2026-05-15T21:47:00.013Z",
+  "reviewed_at": null
+}

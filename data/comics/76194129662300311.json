@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194129662300311",
+  "title": "Batman: The Dark Knight #3",
+  "authors": [
+    "Alex Sinclair",
+    "Andy Clarke",
+    "Dave Sharpe",
+    "David Finch",
+    "Janelle Asselin",
+    "Katie Kubert",
+    "Mike Marts",
+    "Peter Pantazis",
+    "Richard Friend",
+    "Rickey Purdin",
+    "Scott Williams",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2011-07-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/26/a311a59ca4094c7e99e3b638677fe87a.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152361/",
+  "fetched_at": "2026-05-15T21:14:15.174Z",
+  "reviewed_at": null
+}

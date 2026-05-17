@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194130640703911",
+  "title": "Batman #39",
+  "authors": [
+    "Andy Kubert",
+    "Brad Anderson",
+    "Danny Miki",
+    "Dave McCaig",
+    "Derek Fridolfs",
+    "Dustin Nguyen",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "James Tynion IV",
+    "Jill Thompson",
+    "Mark Doyle",
+    "Matt Humphreys",
+    "Scott Snyder",
+    "Steve Wands"
+  ],
+  "publish_date": "2015-02-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-v2-39.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6851/",
+  "fetched_at": "2026-05-15T21:44:13.587Z",
+  "reviewed_at": null
+}

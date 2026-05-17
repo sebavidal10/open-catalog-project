@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194130640701711",
+  "title": "Batman #17",
+  "authors": [
+    "FCO Plascencia",
+    "Greg Capullo",
+    "Jimmy Betancourt",
+    "Jonathan Glapion",
+    "Katie Kubert",
+    "Matt Banning",
+    "Mike Marts",
+    "Richard Starkings",
+    "Scott Snyder",
+    "Tomeu Morey",
+    "Tony Daniel"
+  ],
+  "publish_date": "2013-02-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6814/",
+  "fetched_at": "2026-05-15T21:23:54.350Z",
+  "reviewed_at": null
+}

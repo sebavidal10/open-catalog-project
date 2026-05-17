@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194127973202111",
+  "title": "Batman and Robin #21",
+  "authors": [
+    "Alex Sinclair",
+    "Harvey Richards",
+    "Katie Kubert",
+    "Mick Gray",
+    "Mike Marts",
+    "Pat Brosseau",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Tony Daniel"
+  ],
+  "publish_date": "2011-03-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/30/batman-robin-v1-21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19917/",
+  "fetched_at": "2026-05-15T21:12:12.723Z",
+  "reviewed_at": null
+}

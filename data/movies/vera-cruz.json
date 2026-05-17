@@ -1,0 +1,31 @@
+{
+  "title": "Vera Cruz",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "25 Dec 1954",
+  "runtime": "94 min",
+  "genre": "Adventure, Drama, Western",
+  "director": "Robert Aldrich",
+  "writer": "Roland Kibbee, James R. Webb, Borden Chase",
+  "actors": "Gary Cooper, Burt Lancaster, Denise Darcel",
+  "plot": "During the Mexican Rebellion of 1866, an unsavory group of American adventurers are hired by the forces of Emporer Maximilian to escort a countess to Vera Cruz.",
+  "language": "English, Spanish, French",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGEyYWMxZGItMmYzNy00OWI2LWJjMzAtMTgyOGVhOTZkYWZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0047647",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:23:51.820Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Calamity Jane",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "04 Nov 1953",
+  "runtime": "101 min",
+  "genre": "Musical, Romance, Western",
+  "director": "David Butler",
+  "writer": "James O'Hanlon",
+  "actors": "Doris Day, Howard Keel, Allyn Ann McLerie",
+  "plot": "The story of Calamity Jane, her saloon, and her romance with Wild Bill Hickok.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 2 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDM5MzRiMjItMzUzNy00ZGQ5LWE5ZTAtZDNhODA1OTA3NGVmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.2",
+  "imdbID": "tt0045591",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:08:40.696Z"
+}

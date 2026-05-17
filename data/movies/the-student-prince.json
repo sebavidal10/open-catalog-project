@@ -1,0 +1,31 @@
+{
+  "title": "The Student Prince",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "15 Jun 1954",
+  "runtime": "107 min",
+  "genre": "Musical, Romance",
+  "director": "Richard Thorpe",
+  "writer": "Dorothy Donnelly, Wilhelm Meyer-Förster, William Ludwig",
+  "actors": "Ann Blyth, Edmund Purdom, John Ericson",
+  "plot": "A prince has a romance with a barmaid before he must give up personal happiness for duty.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjNiMzI3ZTQtYjIzZi00NDQxLTgxYjMtNjJmZDcwMjBlZmRmXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0047537",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:25:03.709Z"
+}

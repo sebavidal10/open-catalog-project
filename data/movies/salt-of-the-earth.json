@@ -1,0 +1,35 @@
+{
+  "title": "Salt of the Earth",
+  "year": "1954",
+  "rated": "Not Rated",
+  "released": "20 Oct 1954",
+  "runtime": "94 min",
+  "genre": "Drama, History",
+  "director": "Herbert J. Biberman",
+  "writer": "Michael Wilson",
+  "actors": "Juan Chacón, Rosaura Revueltas, Will Geer",
+  "plot": "Mexican workers at a zinc mine call a general strike. It is only through the solidarity of the workers, and importantly the indomitable resolve of their wives, mothers, and daughters, that they eventually triumph.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "4 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGE3MjY0MGQtNGU1MC00YmFjLTk1ZTQtMzkzMmM3MjMxOTFmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.3",
+  "imdbID": "tt0047443",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:24:52.258Z"
+}

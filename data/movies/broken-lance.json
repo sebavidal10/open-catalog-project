@@ -1,0 +1,31 @@
+{
+  "title": "Broken Lance",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "25 Sep 1954",
+  "runtime": "96 min",
+  "genre": "Adventure, Drama, Western",
+  "director": "Edward Dmytryk",
+  "writer": "Richard Murphy, Philip Yordan",
+  "actors": "Spencer Tracy, Robert Wagner, Jean Peters",
+  "plot": "The saga of the Devereaux rancher family, set in 1880's Arizona.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2U4ZDQ3N2YtMDMwYi00Yjc3LTgxNTEtNDRlZWFmMGJlZWU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0046808",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:24:20.176Z"
+}

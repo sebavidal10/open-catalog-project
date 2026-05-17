@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130643800211",
+  "title": "Batman: The Dark Knight #2",
+  "authors": [
+    "Alex Sinclair",
+    "David Finch",
+    "Mike Marts",
+    "Paul Jenkins",
+    "Richard Friend",
+    "Rickey Purdin",
+    "Sal Cipriano"
+  ],
+  "publish_date": "2011-10-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/06/batman-the-dark-knight-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41535/",
+  "fetched_at": "2026-05-15T21:16:38.643Z",
+  "reviewed_at": null
+}

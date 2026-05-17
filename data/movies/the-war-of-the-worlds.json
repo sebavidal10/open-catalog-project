@@ -1,0 +1,31 @@
+{
+  "title": "The War of the Worlds",
+  "year": "1953",
+  "rated": "G",
+  "released": "26 Aug 1953",
+  "runtime": "87 min",
+  "genre": "Action, Sci-Fi, Thriller",
+  "director": "Byron Haskin",
+  "writer": "H.G. Wells, Barré Lyndon",
+  "actors": "Gene Barry, Ann Robinson, Les Tremayne",
+  "plot": "A small town in California is attacked by Martians, beginning a worldwide invasion.",
+  "language": "English, Spanish, German, Italian, Hindi",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 5 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2FjZGQyZmItOTJhMy00ZjM1LWJkOTYtMzlmZWY3MDIyODg4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.0",
+  "imdbID": "tt0046534",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:08:36.983Z"
+}

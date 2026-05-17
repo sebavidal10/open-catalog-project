@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194130643802411",
+  "title": "Batman: The Dark Knight #24",
+  "authors": [
+    "Alex Maleev",
+    "Darren Shan",
+    "Dave McCaig",
+    "Dezi Sienty",
+    "Gregg Hurwitz",
+    "Mike Marts"
+  ],
+  "publish_date": "2013-10-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/06/batman-the-dark-knight-24.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41557/",
+  "fetched_at": "2026-05-15T21:30:33.057Z",
+  "reviewed_at": null
+}

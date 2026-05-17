@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194131673400511",
+  "title": "Batman '66 #5",
+  "authors": [
+    "Aniz Ansari",
+    "Colleen Coover",
+    "Dave Johnson",
+    "Jeff Parker",
+    "Jim Chadwick",
+    "Laura Allred",
+    "Matthew Wilson",
+    "Mike Allred",
+    "Ruben Procopio",
+    "Wes Abbott"
+  ],
+  "publish_date": "2013-11-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/a93072c7ca404a86b1d062936a7224a8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145759/",
+  "fetched_at": "2026-05-15T21:30:51.776Z",
+  "reviewed_at": null
+}

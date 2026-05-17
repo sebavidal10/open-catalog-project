@@ -1,0 +1,31 @@
+{
+  "title": "Money from Home",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "31 Dec 1953",
+  "runtime": "100 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "George Marshall",
+  "writer": "Hal Kanter, James B. Allardice, Damon Runyon",
+  "actors": "Dean Martin, Jerry Lewis, Marjie Millar",
+  "plot": "When Herman promises the mob to fix a racing horse in order to pay off his debts, he selects his veterinarian cousin as a patsy to help him but things go awry.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjdhZmM3NzAtNjNmNi00ZTYxLWJlNDYtM2UxZmFmYmI2ZTM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0046087",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:11:56.176Z"
+}

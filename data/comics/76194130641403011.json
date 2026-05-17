@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130641403011",
+  "title": "Batman and Robin #30",
+  "authors": [
+    "Carlos M. Mangual",
+    "Darren Shan",
+    "John Kalisz",
+    "Mark Doyle",
+    "Mark Fredrickson",
+    "Mick Gray",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Rachel Gluckstern"
+  ],
+  "publish_date": "2014-04-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/27/batman-robin-v2-30.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15582/",
+  "fetched_at": "2026-05-15T21:34:43.124Z",
+  "reviewed_at": null
+}

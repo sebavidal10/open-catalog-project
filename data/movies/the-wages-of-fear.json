@@ -1,0 +1,35 @@
+{
+  "title": "The Wages of Fear",
+  "year": "1953",
+  "rated": "Not Rated",
+  "released": "16 Feb 1955",
+  "runtime": "156 min",
+  "genre": "Adventure, Drama, Thriller",
+  "director": "Henri-Georges Clouzot",
+  "writer": "Georges Arnaud, Henri-Georges Clouzot, Jérôme Géronimi",
+  "actors": "Yves Montand, Charles Vanel, Peter van Eyck",
+  "plot": "In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.",
+  "language": "French, English, Spanish, German, Italian, Russian",
+  "country": "France, Italy",
+  "awards": "Won 1 BAFTA Award6 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDdhOGMwODQtZGM2MS00NGQxLWEyZDMtOTkzMjFjYjI3ZmM2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "8.1",
+  "imdbID": "tt0046268",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:08:19.632Z"
+}

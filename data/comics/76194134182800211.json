@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134182800211",
+  "title": "Batman #2",
+  "authors": [
+    "Danny Miki",
+    "David Finch",
+    "John Workman",
+    "Jordie Bellaire",
+    "Mark Doyle",
+    "Matt Banning",
+    "Rebecca Taylor",
+    "Tim Sale",
+    "Tom King"
+  ],
+  "publish_date": "2016-07-06",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/06/batman-02.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/844/",
+  "fetched_at": "2026-05-15T21:55:31.197Z",
+  "reviewed_at": null
+}

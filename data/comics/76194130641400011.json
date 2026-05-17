@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130641400011",
+  "title": "Batman and Robin #0",
+  "authors": [
+    "Carlos M. Mangual",
+    "John Kalisz",
+    "Mick Gray",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Rachel Gluckstern",
+    "Rickey Purdin"
+  ],
+  "publish_date": "2012-09-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/27/batman-robin-v2-0.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15559/",
+  "fetched_at": "2026-05-15T21:21:31.127Z",
+  "reviewed_at": null
+}

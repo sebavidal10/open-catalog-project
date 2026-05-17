@@ -1,0 +1,31 @@
+{
+  "title": "Doctor in the House",
+  "year": "1954",
+  "rated": "Not Rated",
+  "released": "02 Feb 1955",
+  "runtime": "92 min",
+  "genre": "Comedy",
+  "director": "Ralph Thomas",
+  "writer": "Richard Gordon, Nicholas Phipps",
+  "actors": "Dirk Bogarde, Muriel Pavlow, Kenneth More",
+  "plot": "The trials and tribulations of a group of medical students at St. Swithin's hospital in London, England.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Won 1 BAFTA Award1 win & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzk1ZDQ5OTktMzk0ZC00YzllLTkyNmEtNGVmNmMyYTJhNzE1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0046921",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:27:16.578Z"
+}

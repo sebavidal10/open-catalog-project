@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194127973202411",
+  "title": "Batman and Robin #24",
+  "authors": [
+    "Greg Tocchini",
+    "Guillem March",
+    "Harvey Richards",
+    "J.G. Jones",
+    "Judd Winick",
+    "Katie Kubert",
+    "Mike Marts",
+    "Pat Brosseau"
+  ],
+  "publish_date": "2011-06-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/30/batman-robin-v1-24.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19920/",
+  "fetched_at": "2026-05-15T21:14:03.180Z",
+  "reviewed_at": null
+}

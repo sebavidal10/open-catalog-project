@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "76194131294100211",
+  "title": "Batman and Robin Annual #2",
+  "authors": [
+    "Christian Alamy",
+    "Cris Peter",
+    "Darren Shan",
+    "Dezi Sienty",
+    "Doug Mahnke",
+    "Keith Champagne",
+    "Mark Irwin",
+    "Mick Gray",
+    "Mike Marts",
+    "Mike McKone",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Rachel Gluckstern",
+    "Taylor Esposito",
+    "Tom Nguyen",
+    "Tony Aviña"
+  ],
+  "publish_date": "2014-01-29",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/02/02/0891f80d1b5b43a8b008ca3b9c013fd9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/107509/",
+  "fetched_at": "2026-05-15T21:32:25.639Z",
+  "reviewed_at": null
+}

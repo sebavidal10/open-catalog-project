@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194133100301311",
+  "title": "Robin: Son of Batman #13",
+  "authors": [
+    "Deron Bennett",
+    "John Kalisz",
+    "Mark Doyle",
+    "Mat Lopes",
+    "Ramón Bachs",
+    "Ray Fawkes",
+    "Rebecca Taylor"
+  ],
+  "publish_date": "2016-06-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/10/robin-son-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25088/",
+  "fetched_at": "2026-05-15T21:55:22.903Z",
+  "reviewed_at": null
+}

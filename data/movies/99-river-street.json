@@ -1,0 +1,31 @@
+{
+  "title": "99 River Street",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "11 Sep 1953",
+  "runtime": "83 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Phil Karlson",
+  "writer": "Robert Smith, George Zuckerman, Phil Karlson",
+  "actors": "John Payne, Evelyn Keyes, Brad Dexter",
+  "plot": "A former boxer turned cab driver has to hide from the police when his badgering wife is murdered by the jewel thief she was having an affair with.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDcxMjc1OWQtOWQzNS00ZjYwLWExZjEtNTk2ZmMxMDc1Y2I3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0045465",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:09:59.864Z"
+}

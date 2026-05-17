@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130641403611",
+  "title": "Batman and Robin #36",
+  "authors": [
+    "Carlos M. Mangual",
+    "Dave Wielgosz",
+    "John Kalisz",
+    "Mark Doyle",
+    "Mick Gray",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Rachel Gluckstern"
+  ],
+  "publish_date": "2014-11-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/27/batman-robin-v2-36.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15588/",
+  "fetched_at": "2026-05-15T21:41:59.613Z",
+  "reviewed_at": null
+}

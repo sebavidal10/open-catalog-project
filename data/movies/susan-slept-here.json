@@ -1,0 +1,31 @@
+{
+  "title": "Susan Slept Here",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "21 Oct 1954",
+  "runtime": "98 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Frank Tashlin",
+  "writer": "Alex Gottlieb, Steve Fisher, Frank Tashlin",
+  "actors": "Dick Powell, Debbie Reynolds, Anne Francis",
+  "plot": "A Hollywood screenwriter takes in a runaway girl who's more woman than he can handle.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWYzYjdhM2YtOTQyNy00ODM2LTlkNjktNmViY2FmZDlkNzFkXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0047550",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:24:54.725Z"
+}

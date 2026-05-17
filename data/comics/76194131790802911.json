@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194131790802911",
+  "title": "Batman '66 #29",
+  "authors": [
+    "Allen Passalaqua",
+    "David Piña",
+    "Dean Haspiel",
+    "Jeff Parker",
+    "Jim Chadwick",
+    "Jonathan Case",
+    "Laura Allred",
+    "Mike Allred",
+    "Wes Abbott"
+  ],
+  "publish_date": "2015-11-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/ae493727445f40be978b44665639ff85.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145783/",
+  "fetched_at": "2026-05-15T21:49:48.720Z",
+  "reviewed_at": null
+}

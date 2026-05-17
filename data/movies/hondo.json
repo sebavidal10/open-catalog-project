@@ -1,0 +1,35 @@
+{
+  "title": "Hondo",
+  "year": "1953",
+  "rated": "PG",
+  "released": "27 Nov 1953",
+  "runtime": "83 min",
+  "genre": "Drama, Romance, War",
+  "director": "John Farrow",
+  "writer": "James Edward Grant, Louis L'Amour",
+  "actors": "John Wayne, Geraldine Page, Ward Bond",
+  "plot": "Army dispatch rider Hondo Lane discovers a woman and young son living in the midst of warring Apaches and becomes their protector.",
+  "language": "English, Athapascan languages",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDgyNzE4M2YtYWM3ZS00YjgzLWE4ZGMtZDMwZjhkNGNjNmZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.0",
+  "imdbID": "tt0045883",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:08:29.553Z"
+}

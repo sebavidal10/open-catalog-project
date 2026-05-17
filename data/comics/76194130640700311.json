@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194130640700311",
+  "title": "Batman #3",
+  "authors": [
+    "FCO Plascencia",
+    "Greg Capullo",
+    "Ivan Reis",
+    "Janelle Asselin",
+    "Jimmy Betancourt",
+    "Joe Prado",
+    "Jonathan Glapion",
+    "Katie Kubert",
+    "Mike Marts",
+    "Richard Starkings",
+    "Rod Reis",
+    "Scott Snyder"
+  ],
+  "publish_date": "2011-11-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6800/",
+  "fetched_at": "2026-05-15T21:16:52.686Z",
+  "reviewed_at": null
+}

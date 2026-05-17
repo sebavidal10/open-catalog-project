@@ -1,0 +1,31 @@
+{
+  "title": "The Lady Without Camelias",
+  "year": "1953",
+  "rated": "Not Rated",
+  "released": "N/A",
+  "runtime": "101 min",
+  "genre": "Drama",
+  "director": "Michelangelo Antonioni",
+  "writer": "Michelangelo Antonioni, Suso Cecchi D'Amico, Francesco Maselli",
+  "actors": "Lucia Bosè, Gino Cervi, Andrea Checchi",
+  "plot": "A new starlet is discovered and has ups and downs in Italian films.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2E5MTU1ZTktOGE0Yi00M2M3LWIxNGEtODVhNGUwODJkYzgyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0046313",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:11:32.662Z"
+}

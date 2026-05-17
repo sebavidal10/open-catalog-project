@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194130643801511",
+  "title": "Batman: The Dark Knight #15",
+  "authors": [
+    "David Finch",
+    "Dezi Sienty",
+    "Gregg Hurwitz",
+    "Mike Marts",
+    "Rickey Purdin",
+    "Sonia Oback"
+  ],
+  "publish_date": "2013-01-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/06/batman-the-dark-knight-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41548/",
+  "fetched_at": "2026-05-15T21:23:12.325Z",
+  "reviewed_at": null
+}

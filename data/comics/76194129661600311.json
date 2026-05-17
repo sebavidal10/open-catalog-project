@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194129661600311",
+  "title": "Batman Incorporated #3",
+  "authors": [
+    "Grant Morrison",
+    "Janelle Asselin",
+    "J.H. Williams III",
+    "Katie Kubert",
+    "Michel Lacombe",
+    "Mike Marts",
+    "Nathan Fairbairn",
+    "Patrick Broussard",
+    "Pere Pérez",
+    "Yanick Paquette"
+  ],
+  "publish_date": "2011-03-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/09/08/9e27dfb456e64964916806e42fbb12df.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/127375/",
+  "fetched_at": "2026-05-15T21:11:10.353Z",
+  "reviewed_at": "2011-03-01"
+}

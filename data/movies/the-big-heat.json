@@ -1,0 +1,31 @@
+{
+  "title": "The Big Heat",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "16 Nov 1953",
+  "runtime": "89 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Fritz Lang",
+  "writer": "Sydney Boehm, William P. McGivern",
+  "actors": "Glenn Ford, Gloria Grahame, Jocelyn Brando",
+  "plot": "Tough cop Dave Bannion takes on a politically powerful crime syndicate.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzhmNDQ1ZGUtMmNkMy00N2VjLThkODktZjdjNWYwNjBkNTQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.9",
+  "imdbID": "tt0045555",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:08:48.121Z"
+}

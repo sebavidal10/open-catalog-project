@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194130643802511",
+  "title": "Batman: The Dark Knight #25",
+  "authors": [
+    "Alex Maleev",
+    "Carlos M. Mangual",
+    "Darren Shan",
+    "Dave McCaig",
+    "Gregg Hurwitz",
+    "Mike Marts"
+  ],
+  "publish_date": "2013-11-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/06/batman-the-dark-knight-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41558/",
+  "fetched_at": "2026-05-15T21:31:20.920Z",
+  "reviewed_at": null
+}

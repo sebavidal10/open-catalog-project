@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194130640701611",
+  "title": "Batman #16",
+  "authors": [
+    "Alex Garner",
+    "David Baron",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "James Tynion IV",
+    "Jimmy Betancourt",
+    "Jock",
+    "Jonathan Glapion",
+    "Katie Kubert",
+    "Mike Marts",
+    "Richard Starkings",
+    "Scott Snyder",
+    "Taylor Esposito"
+  ],
+  "publish_date": "2013-01-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6813/",
+  "fetched_at": "2026-05-15T21:23:21.584Z",
+  "reviewed_at": null
+}

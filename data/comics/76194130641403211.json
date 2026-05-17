@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130641403211",
+  "title": "Batman and Robin #32",
+  "authors": [
+    "Alex Sinclair",
+    "Carlos M. Mangual",
+    "J.G. Jones",
+    "John Kalisz",
+    "Mark Doyle",
+    "Matt Humphreys",
+    "Mick Gray",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Rachel Gluckstern"
+  ],
+  "publish_date": "2014-06-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/27/batman-robin-v2-32.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15584/",
+  "fetched_at": "2026-05-15T21:36:50.510Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Executive Suite",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "30 Apr 1954",
+  "runtime": "104 min",
+  "genre": "Drama, Romance",
+  "director": "Robert Wise",
+  "writer": "Ernest Lehman, Cameron Hawley",
+  "actors": "William Holden, Barbara Stanwyck, June Allyson",
+  "plot": "When the head of a large manufacturing firm dies suddenly from a stroke, his vice presidents vie to see who will replace him.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 3 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGY1Yzk0N2MtMmZlYS00OGIyLWFiODAtYTNmYzkzYzczYzhhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0046963",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:23:50.586Z"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134182806311",
+  "title": "Batman #63",
+  "authors": [
+    "Brittany Holzherr",
+    "Clayton Cowles",
+    "Jamie S. Rich",
+    "Jordie Bellaire",
+    "Mikel Janín",
+    "Tomeu Morey",
+    "Tom King",
+    "Tony Daniel"
+  ],
+  "publish_date": "2019-01-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/20/batman-63.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1081/",
+  "fetched_at": "2026-05-17T20:26:57.938Z",
+  "reviewed_at": null
+}

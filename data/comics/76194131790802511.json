@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194131790802511",
+  "title": "Batman '66 #25",
+  "authors": [
+    "David Piña",
+    "Gabriel Soria",
+    "Jeff Parker",
+    "Jim Chadwick",
+    "Kelly Fitzpatrick",
+    "Laura Allred",
+    "Lukas Ketner",
+    "Mike Allred",
+    "Ty Templeton",
+    "Wes Abbott"
+  ],
+  "publish_date": "2015-07-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/eb6ee3e4c235422db3c317d4ddc94409.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145779/",
+  "fetched_at": "2026-05-15T21:47:24.488Z",
+  "reviewed_at": null
+}

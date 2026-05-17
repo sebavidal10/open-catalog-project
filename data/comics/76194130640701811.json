@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194130640701811",
+  "title": "Batman #18",
+  "authors": [
+    "Alex Maleev",
+    "Andy Kubert",
+    "Brad Anderson",
+    "Carlos M. Mangual",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "James Tynion IV",
+    "Jonathan Glapion",
+    "Katie Kubert",
+    "Mike Marts",
+    "Nathan Fairbairn",
+    "Nick J. Napolitano",
+    "Sandra Hope",
+    "Scott Snyder"
+  ],
+  "publish_date": "2013-03-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6815/",
+  "fetched_at": "2026-05-15T21:24:21.192Z",
+  "reviewed_at": null
+}

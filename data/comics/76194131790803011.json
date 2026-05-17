@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194131790803011",
+  "title": "Batman '66 #30",
+  "authors": [
+    "David Piña",
+    "Jim Chadwick",
+    "Laura Allred",
+    "Lee Allred",
+    "Mike Allred",
+    "Wes Abbott"
+  ],
+  "publish_date": "2015-12-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/71f1f9b7422d4d20acecfdbdde681aa3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145784/",
+  "fetched_at": "2026-05-15T21:50:35.869Z",
+  "reviewed_at": null
+}

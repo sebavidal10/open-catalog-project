@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194130641401111",
+  "title": "Batman and Robin #11",
+  "authors": [
+    "Allen Passalaqua",
+    "Brian Miller",
+    "Carlos M. Mangual",
+    "John Kalisz",
+    "Keith Champagne",
+    "Mick Gray",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Rachel Gluckstern",
+    "Rickey Purdin",
+    "Tom Nguyen"
+  ],
+  "publish_date": "2012-07-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/27/batman-robin-v2-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15557/",
+  "fetched_at": "2026-05-15T21:20:30.548Z",
+  "reviewed_at": null
+}

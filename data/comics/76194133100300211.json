@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194133100300211",
+  "title": "Robin: Son of Batman #2",
+  "authors": [
+    "Dan Panosian",
+    "Jeromy Cox",
+    "John Kalisz",
+    "Mark Doyle",
+    "Mick Gray",
+    "Patrick Gleason",
+    "Rebecca Taylor",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2015-07-15",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/10/robin-son-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25077/",
+  "fetched_at": "2026-05-15T21:47:39.093Z",
+  "reviewed_at": null
+}

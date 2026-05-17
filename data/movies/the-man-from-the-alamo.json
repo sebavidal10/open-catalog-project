@@ -1,0 +1,31 @@
+{
+  "title": "The Man from the Alamo",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "21 Aug 1953",
+  "runtime": "79 min",
+  "genre": "Western",
+  "director": "Budd Boetticher",
+  "writer": "Steve Fisher, D.D. Beauchamp, Niven Busch",
+  "actors": "Glenn Ford, Julie Adams, Chill Wills",
+  "plot": "During the Alamo siege, John Stroud is sent to Ox Bow to protect the townsfolk but, following a massacre, he infiltrates Jess Wade's gang of turncoat renegades supporting the Mexicans.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjkxYzUwZTItMGY0ZS00YjMxLWJkNGMtNGExNTE0N2FhZDcwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0046035",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:10:22.155Z"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134182800911",
+  "title": "Batman #9",
+  "authors": [
+    "Clayton Cowles",
+    "June Chung",
+    "Mark Doyle",
+    "Mikel Janín",
+    "Rebecca Taylor",
+    "Rico Renzi",
+    "Tim Sale",
+    "Tom King"
+  ],
+  "publish_date": "2016-10-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/06/batman-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/851/",
+  "fetched_at": "2026-05-15T21:57:10.561Z",
+  "reviewed_at": null
+}

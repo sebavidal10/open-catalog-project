@@ -1,0 +1,27 @@
+{
+  "title": "Jalopy",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "15 Feb 1953",
+  "runtime": "62 min",
+  "genre": "Comedy, Family",
+  "director": "William Beaudine",
+  "writer": "Jack Crutcher, Bert Lawrence, Tim Ryan",
+  "actors": "Leo Gorcey, Huntz Hall, Bernard Gorcey",
+  "plot": "Those wacky Bowery Boys invent a super fast fuel, which will help them win an auto race (isn't this cheating?). However, the fuel is stolen by the bad guys just before the big race.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWY1MjMzY2ItMmFkNy00OTg5LWJlY2YtNTk3ZDNlOWI1ZWQ4XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0045926",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:18:38.656Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005770611",
+  "title": "Batman #706",
+  "authors": [
+    "Ian Hannin",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Mike Marts",
+    "Ryan Winn",
+    "Sandu Florea",
+    "Tony Daniel"
+  ],
+  "publish_date": "2011-01-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-706.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34800/",
+  "fetched_at": "2026-05-15T21:10:51.944Z",
+  "reviewed_at": null
+}

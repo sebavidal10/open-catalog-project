@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194131673400111",
+  "title": "Batman '66 #1",
+  "authors": [
+    "Jeff Parker",
+    "Jim Chadwick",
+    "Jonathan Case",
+    "Laura Allred",
+    "Mike Allred",
+    "Wes Abbott"
+  ],
+  "publish_date": "2013-07-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/c0ab6b52aa48479d8136074c60c47b32.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145755/",
+  "fetched_at": "2026-05-15T21:27:06.451Z",
+  "reviewed_at": null
+}

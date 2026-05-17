@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194133100300511",
+  "title": "Robin: Son of Batman #5",
+  "authors": [
+    "John Kalisz",
+    "Mark Doyle",
+    "Mick Gray",
+    "Patrick Gleason",
+    "Rebecca Taylor",
+    "Tom Napolitano",
+    "Ty Templeton"
+  ],
+  "publish_date": "2015-10-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/10/robin-son-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25080/",
+  "fetched_at": "2026-05-15T21:49:34.739Z",
+  "reviewed_at": null
+}

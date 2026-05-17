@@ -1,0 +1,31 @@
+{
+  "title": "Knights of the Round Table",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "15 Jan 1954",
+  "runtime": "115 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Richard Thorpe",
+  "writer": "Talbot Jennings, Jan Lustig, Noel Langley",
+  "actors": "Robert Taylor, Ava Gardner, Mel Ferrer",
+  "plot": "King Arthur's rule is threatened by the adulterous love between Sir Lancelot and Queen Guinevere, a relationship the king's enemies hope to exploit.",
+  "language": "English, Latin",
+  "country": "United Kingdom",
+  "awards": "Nominated for 2 Oscars. 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDJiOWNjM2MtNWIyZC00MTVlLWExMmYtYzkyMTI1ODA5NDk3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0045966",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:09:33.901Z"
+}

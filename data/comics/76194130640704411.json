@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130640704411",
+  "title": "Batman #44",
+  "authors": [
+    "Brian Azzarello",
+    "Dave Wielgosz",
+    "Deron Bennett",
+    "Jock",
+    "Lee Loughridge",
+    "Mark Doyle",
+    "Rebecca Taylor",
+    "Scott Snyder",
+    "Tomeu Morey",
+    "Tony Daniel"
+  ],
+  "publish_date": "2015-09-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-v2-44.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6856/",
+  "fetched_at": "2026-05-15T21:48:15.684Z",
+  "reviewed_at": null
+}

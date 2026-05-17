@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130643801011",
+  "title": "Batman: The Dark Knight #10",
+  "authors": [
+    "David Finch",
+    "Dezi Sienty",
+    "Gregg Hurwitz",
+    "Jeromy Cox",
+    "Mike Marts",
+    "Richard Friend",
+    "Rickey Purdin",
+    "Sonia Oback"
+  ],
+  "publish_date": "2012-06-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/06/batman-the-dark-knight-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41543/",
+  "fetched_at": "2026-05-15T21:20:15.649Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194130643801311",
+  "title": "Batman: The Dark Knight #13",
+  "authors": [
+    "David Finch",
+    "Gregg Hurwitz",
+    "Mike Marts",
+    "Rickey Purdin",
+    "Rob Leigh",
+    "Sonia Oback"
+  ],
+  "publish_date": "2012-10-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/06/batman-the-dark-knight-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41546/",
+  "fetched_at": "2026-05-15T21:22:16.213Z",
+  "reviewed_at": null
+}

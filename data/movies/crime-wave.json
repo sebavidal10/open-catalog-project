@@ -1,0 +1,31 @@
+{
+  "title": "Crime Wave",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "06 Mar 1954",
+  "runtime": "73 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "André De Toth",
+  "writer": "Crane Wilbur, Bernard Gordon, Richard Wormser",
+  "actors": "Gene Nelson, Sterling Hayden, Phyllis Kirk",
+  "plot": "Reformed parolee Steve Lacey is caught in the middle when a wounded former cellmate seeks him out for shelter.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDRhM2ZjOTUtMjQ0YS00NzhiLTgxNTItOWU1MTE2NWEzNTM1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0046878",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:09:52.428Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Journey to Italy",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "08 Sep 1954",
+  "runtime": "97 min",
+  "genre": "Drama, Romance",
+  "director": "Roberto Rossellini",
+  "writer": "Vitaliano Brancati, Roberto Rossellini, Colette",
+  "actors": "Ingrid Bergman, George Sanders, Maria Mauban",
+  "plot": "An unhappily married couple attempts to find direction and insight while vacationing in Naples.",
+  "language": "English, Italian",
+  "country": "Italy, France",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTkwZjdlMjMtYTM5MC00NjhlLWJkOTgtNDVlOWRhY2M0ODRhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "100/100"
+    }
+  ],
+  "metascore": "100",
+  "imdbRating": "7.3",
+  "imdbID": "tt0046511",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:24:06.624Z"
+}

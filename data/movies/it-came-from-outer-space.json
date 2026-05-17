@@ -1,0 +1,35 @@
+{
+  "title": "It Came from Outer Space",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "05 Jun 1953",
+  "runtime": "81 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Jack Arnold",
+  "writer": "Harry Essex, Ray Bradbury",
+  "actors": "Richard Carlson, Barbara Rush, Charles Drake",
+  "plot": "A spaceship from another world crashes in the Arizona desert and only an amateur stargazer and a schoolteacher suspect alien influence when the local townsfolk begin to act strangely.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTUzNzM0MzQxMV5BMl5BanBnXkFtZTgwNTM5NDI1MDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "6.5",
+  "imdbID": "tt0045920",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:08:41.935Z"
+}

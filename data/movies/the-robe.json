@@ -1,0 +1,31 @@
+{
+  "title": "The Robe",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "04 Dec 1953",
+  "runtime": "135 min",
+  "genre": "Drama, History, Romance",
+  "director": "Henry Koster",
+  "writer": "Philip Dunne, Gina Kaus, Lloyd C. Douglas",
+  "actors": "Richard Burton, Jean Simmons, Victor Mature",
+  "plot": "In the Roman province of Judea during the 1st century, Roman tribune Marcellus Gallio is ordered to crucify Jesus of Nazareth but is tormented by his guilty conscience afterwards.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 6 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWNkZTkyZjYtNTJmOS00ZjY2LWE0YjYtNmM4YzI3MmZlZGM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "38%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0046247",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:08:12.236Z"
+}

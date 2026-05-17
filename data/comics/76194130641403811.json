@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130641403811",
+  "title": "Batman and Robin #38",
+  "authors": [
+    "Carlos M. Mangual",
+    "Dave Bullock",
+    "Dave Wielgosz",
+    "John Kalisz",
+    "Mark Doyle",
+    "Mick Gray",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Rachel Gluckstern"
+  ],
+  "publish_date": "2015-01-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/27/batman-robin-v2-38.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15590/",
+  "fetched_at": "2026-05-15T21:43:43.932Z",
+  "reviewed_at": null
+}

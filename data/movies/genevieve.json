@@ -1,0 +1,31 @@
+{
+  "title": "Genevieve",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "15 Feb 1954",
+  "runtime": "86 min",
+  "genre": "Adventure, Comedy",
+  "director": "Henry Cornelius",
+  "writer": "William Rose",
+  "actors": "Dinah Sheridan, John Gregson, Kay Kendall",
+  "plot": "Two British couples pit their vintage automobiles against each other in an exciting cross-country race.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 2 Oscars. 3 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTYxN2NmYTAtYzhjZi00M2NiLWI1YTEtYWRjNGE5NGFiZDBiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0045808",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:09:19.057Z"
+}

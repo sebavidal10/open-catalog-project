@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130640704511",
+  "title": "Batman #45",
+  "authors": [
+    "Andy Kubert",
+    "Brad Anderson",
+    "Danny Miki",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "Mark Doyle",
+    "Rebecca Taylor",
+    "Scott Snyder",
+    "Steve Wands"
+  ],
+  "publish_date": "2015-10-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-v2-45.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6857/",
+  "fetched_at": "2026-05-15T21:48:50.500Z",
+  "reviewed_at": null
+}

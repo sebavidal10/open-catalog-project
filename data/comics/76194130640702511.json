@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194130640702511",
+  "title": "Batman #25",
+  "authors": [
+    "Alex Garner",
+    "Andy Clarke",
+    "Blond",
+    "Danny Miki",
+    "Dezi Sienty",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "James Tynion IV",
+    "Katie Kubert",
+    "Mike Marts",
+    "Nick J. Napolitano",
+    "Scott Snyder"
+  ],
+  "publish_date": "2013-11-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-v2-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6837/",
+  "fetched_at": "2026-05-15T21:30:47.701Z",
+  "reviewed_at": null
+}

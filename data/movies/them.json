@@ -1,0 +1,35 @@
+{
+  "title": "Them!",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "19 Jun 1954",
+  "runtime": "94 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Gordon Douglas",
+  "writer": "Ted Sherdeman, Russell S. Hughes, George Worthing Yates",
+  "actors": "James Whitmore, Edmund Gwenn, Joan Weldon",
+  "plot": "The earliest atomic tests in New Mexico cause common ants to mutate into giant man-eating monsters that threaten civilization.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWU2MGQ4ZWYtNWI1ZC00MWRjLTg4NjUtMmNmZjQyOWI3NTE1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.2",
+  "imdbID": "tt0047573",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:23:39.429Z"
+}

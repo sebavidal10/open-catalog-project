@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130640702611",
+  "title": "Batman #26",
+  "authors": [
+    "Danny Miki",
+    "Dustin Nguyen",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "Katie Kubert",
+    "Mike Marts",
+    "Scott Snyder",
+    "Steve Wands"
+  ],
+  "publish_date": "2013-12-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-v2-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6838/",
+  "fetched_at": "2026-05-15T21:31:34.138Z",
+  "reviewed_at": null
+}

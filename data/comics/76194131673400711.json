@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194131673400711",
+  "title": "Batman '66 #7",
+  "authors": [
+    "Aniz Ansari",
+    "Chris Jones",
+    "Derec Donovan",
+    "Jeff Parker",
+    "Jim Chadwick",
+    "Laura Allred",
+    "Mike Allred",
+    "Tom Peyer",
+    "Tony Aviña",
+    "Wes Abbott"
+  ],
+  "publish_date": "2014-01-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/c3a4631524e0420c96615acfc7127592.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145761/",
+  "fetched_at": "2026-05-15T21:32:15.724Z",
+  "reviewed_at": null
+}

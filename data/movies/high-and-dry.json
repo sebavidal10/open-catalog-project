@@ -1,0 +1,31 @@
+{
+  "title": "High and Dry",
+  "year": "1954",
+  "rated": "Passed",
+  "released": "01 Feb 1954",
+  "runtime": "92 min",
+  "genre": "Comedy",
+  "director": "Alexander Mackendrick",
+  "writer": "William Rose, Alexander Mackendrick",
+  "actors": "Paul Douglas, Alex Mackenzie, James Copeland",
+  "plot": "An American businessman in Scotland is conned into shipping a valuable load of cargo to a Scottish island via a coal powered boat.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 3 BAFTA 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjgwNWMwODEtN2Y3Yy00Yjc3LWIwMmMtYzg3NzVkN2NlNTQ3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0047085",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:27:22.760Z"
+}

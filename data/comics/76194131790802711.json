@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194131790802711",
+  "title": "Batman '66 #27",
+  "authors": [
+    "David Piña",
+    "Jeff Parker",
+    "Jim Chadwick",
+    "Laura Allred",
+    "Mike Allred",
+    "Scott Kowalchuk",
+    "Wes Abbott"
+  ],
+  "publish_date": "2015-09-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/b07f2cecd22d4a7ca52e6606bf8602f4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145781/",
+  "fetched_at": "2026-05-15T21:48:23.794Z",
+  "reviewed_at": null
+}

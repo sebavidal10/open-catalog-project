@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134182807411",
+  "title": "Batman #74",
+  "authors": [
+    "Clayton Cowles",
+    "Jamie S. Rich",
+    "Jordie Bellaire",
+    "Juan Giménez",
+    "Mikel Janín",
+    "Rob Levin",
+    "Tom King"
+  ],
+  "publish_date": "2019-07-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/05/batman-74.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3321/",
+  "fetched_at": "2026-05-17T20:29:37.439Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Johnny Guitar",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "23 Aug 1954",
+  "runtime": "110 min",
+  "genre": "Drama, Western",
+  "director": "Nicholas Ray",
+  "writer": "Philip Yordan, Roy Chanslor, Nicholas Ray",
+  "actors": "Joan Crawford, Sterling Hayden, Mercedes McCambridge",
+  "plot": "After helping a wounded gang member, a strong-willed female saloon owner is wrongly suspected of murder and bank robbery by a lynch mob.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjUyMWFlYTAtZjBjMS00ZDRjLWFhYWYtMGY2Mjc5YzI4OTMyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.6",
+  "imdbID": "tt0047136",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:23:48.077Z"
+}

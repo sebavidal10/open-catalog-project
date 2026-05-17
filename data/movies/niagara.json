@@ -1,0 +1,35 @@
+{
+  "title": "Niagara",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "01 Feb 1953",
+  "runtime": "92 min",
+  "genre": "Film-Noir, Thriller",
+  "director": "Henry Hathaway",
+  "writer": "Charles Brackett, Walter Reisch, Richard L. Breen",
+  "actors": "Marilyn Monroe, Joseph Cotten, Jean Peters",
+  "plot": "As two couples are visiting Niagara Falls, tensions between one wife and her husband reach the level of murder.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTJiODA4ZmItZDE1MS00ODk4LTkyODYtNTk5ODdhY2Q4MTFhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "7.0",
+  "imdbID": "tt0046126",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:08:38.221Z"
+}

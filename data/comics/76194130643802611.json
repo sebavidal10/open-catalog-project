@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130643802611",
+  "title": "Batman: The Dark Knight #26",
+  "authors": [
+    "Alberto Ponticelli",
+    "Chris Burnham",
+    "Darren Shan",
+    "Gregg Hurwitz",
+    "John Kalisz",
+    "Mike Marts",
+    "Nathan Fairbairn",
+    "Sal Cipriano"
+  ],
+  "publish_date": "2013-12-31",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/06/batman-the-dark-knight-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41559/",
+  "fetched_at": "2026-05-15T21:31:54.351Z",
+  "reviewed_at": null
+}

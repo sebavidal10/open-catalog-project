@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194130641403111",
+  "title": "Batman and Robin #31",
+  "authors": [
+    "Carlos M. Mangual",
+    "Christian Alamy",
+    "Darren Shan",
+    "Doug Mahnke",
+    "John Kalisz",
+    "Keith Champagne",
+    "Laura Allred",
+    "Mark Doyle",
+    "Mick Gray",
+    "Mike Allred",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Rachel Gluckstern"
+  ],
+  "publish_date": "2014-05-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/27/batman-robin-v2-31.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15583/",
+  "fetched_at": "2026-05-15T21:35:45.371Z",
+  "reviewed_at": null
+}

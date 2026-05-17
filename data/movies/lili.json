@@ -1,0 +1,35 @@
+{
+  "title": "Lili",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "10 Jul 1953",
+  "runtime": "81 min",
+  "genre": "Drama, Musical, Romance",
+  "director": "Charles Walters",
+  "writer": "Helen Deutsch, Paul Gallico",
+  "actors": "Leslie Caron, Mel Ferrer, Jean-Pierre Aumont",
+  "plot": "An orphaned young woman becomes part of a puppet act and forms a relationship with the anti-social puppeteer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 7 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzU4ZTE2NTktODJhNy00MzM2LWI1MDYtZmQ5OGM3ZDZmMzgyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "7.2",
+  "imdbID": "tt0046000",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:09:30.209Z"
+}

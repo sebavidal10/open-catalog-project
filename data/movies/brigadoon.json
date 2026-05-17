@@ -1,0 +1,35 @@
+{
+  "title": "Brigadoon",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "08 Sep 1954",
+  "runtime": "108 min",
+  "genre": "Fantasy, Musical, Romance",
+  "director": "Vincente Minnelli",
+  "writer": "Alan Jay Lerner",
+  "actors": "Gene Kelly, Van Johnson, Cyd Charisse",
+  "plot": "Two Americans on a hunting trip in Scotland become lost. They encounter a small village, not on the map, called Brigadoon, in which people harbor a mysterious secret, and behave as if they were still living two hundred years in th...",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjZmOTU5ODAtZTZkMi00ODZkLTgxNGEtZTViYzFmNzAxYTU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "metascore": "49",
+  "imdbRating": "6.8",
+  "imdbID": "tt0046807",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:23:44.380Z"
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194130640702011",
+  "title": "Batman #20",
+  "authors": [
+    "Alex Maleev",
+    "Danny Miki",
+    "Dezi Sienty",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "James Tynion IV",
+    "Katie Kubert",
+    "Mike Marts",
+    "Nathan Fairbairn",
+    "Richard Starkings",
+    "Scott Snyder"
+  ],
+  "publish_date": "2013-05-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6817/",
+  "fetched_at": "2026-05-15T21:25:32.144Z",
+  "reviewed_at": null
+}

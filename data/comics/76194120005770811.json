@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005770811",
+  "title": "Batman #708",
+  "authors": [
+    "David Hine",
+    "Guillem March",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Katie Kubert",
+    "Mike Marts",
+    "Rachel Gluckstern"
+  ],
+  "publish_date": "2011-03-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-708.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34802/",
+  "fetched_at": "2026-05-15T21:12:08.543Z",
+  "reviewed_at": null
+}

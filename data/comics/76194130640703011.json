@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130640703011",
+  "title": "Batman #30",
+  "authors": [
+    "Bob Staake",
+    "Danny Miki",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "Katie Kubert",
+    "Mark Doyle",
+    "Scott Snyder",
+    "Steve Wands"
+  ],
+  "publish_date": "2014-04-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-v2-30.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6842/",
+  "fetched_at": "2026-05-15T21:34:30.381Z",
+  "reviewed_at": null
+}

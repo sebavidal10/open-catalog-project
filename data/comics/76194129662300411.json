@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194129662300411",
+  "title": "Batman: The Dark Knight #4",
+  "authors": [
+    "Alex Sinclair",
+    "Dave Sharpe",
+    "David Finch",
+    "Janelle Asselin",
+    "Jason Fabok",
+    "Katie Kubert",
+    "Matt Banning",
+    "Mike Marts",
+    "Peter Steigerwald",
+    "Ryan Winn"
+  ],
+  "publish_date": "2011-07-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/26/d3de47d5fd824bdc820f571f99c022a7.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152362/",
+  "fetched_at": "2026-05-15T21:14:53.106Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Orders Are Orders",
+  "year": "1954",
+  "rated": "N/A",
+  "released": "08 May 1955",
+  "runtime": "78 min",
+  "genre": "Comedy",
+  "director": "David Paltenghi",
+  "writer": "Ian Hay, Anthony Armstrong, Donald Taylor",
+  "actors": "Brian Reece, Margot Grahame, Raymond Huntley",
+  "plot": "An American movie company wants to shoot a science-fiction film using a British army barracks as a location, and its soldiers as actors.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzM3NmU5MjAtNDUwMC00MjA5LWFhNmItMDdjMmM3Njc4NDRhXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.8",
+  "imdbID": "tt0047310",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:32:08.417Z"
+}

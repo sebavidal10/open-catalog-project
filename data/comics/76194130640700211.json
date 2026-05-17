@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194130640700211",
+  "title": "Batman #2",
+  "authors": [
+    "Alex Sinclair",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "Janelle Asselin",
+    "Jim Lee",
+    "Jimmy Betancourt",
+    "Jonathan Glapion",
+    "Katie Kubert",
+    "Mike Marts",
+    "Richard Starkings",
+    "Scott Snyder",
+    "Scott Williams"
+  ],
+  "publish_date": "2011-10-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6799/",
+  "fetched_at": "2026-05-15T21:16:30.250Z",
+  "reviewed_at": null
+}

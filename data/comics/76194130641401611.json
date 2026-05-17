@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130641401611",
+  "title": "Batman and Robin #16",
+  "authors": [
+    "Carlos M. Mangual",
+    "John Kalisz",
+    "Keith Champagne",
+    "Mick Gray",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Rachel Gluckstern",
+    "Rickey Purdin"
+  ],
+  "publish_date": "2013-01-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/27/batman-robin-v2-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15563/",
+  "fetched_at": "2026-05-15T21:23:26.101Z",
+  "reviewed_at": null
+}

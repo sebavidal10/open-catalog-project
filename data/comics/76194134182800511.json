@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134182800511",
+  "title": "Batman #5",
+  "authors": [
+    "Danny Miki",
+    "David Finch",
+    "John Workman",
+    "Jordie Bellaire",
+    "Mark Doyle",
+    "Matt Banning",
+    "Rebecca Taylor",
+    "Sandra Hope",
+    "Scott Hanna",
+    "Tim Sale",
+    "Tom King"
+  ],
+  "publish_date": "2016-08-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/06/batman-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/847/",
+  "fetched_at": "2026-05-15T21:56:08.073Z",
+  "reviewed_at": null
+}

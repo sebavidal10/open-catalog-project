@@ -1,0 +1,35 @@
+{
+  "title": "Super 8",
+  "year": "2011",
+  "rated": "PG-13",
+  "released": "10 Jun 2011",
+  "runtime": "112 min",
+  "genre": "Action, Sci-Fi, Thriller",
+  "director": "J.J. Abrams",
+  "writer": "J.J. Abrams",
+  "actors": "Elle Fanning, AJ Michalka, Kyle Chandler",
+  "plot": "During the summer of 1979, a group of friends witness a train crash and investigate subsequent unexplained events in their small town.",
+  "language": "English",
+  "country": "United States",
+  "awards": "11 wins & 71 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIzNjEyMzcwOF5BMl5BanBnXkFtZTcwMTkyMjE0NQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "metascore": "72",
+  "imdbRating": "7.0",
+  "imdbID": "tt1650062",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:28:24.139Z"
+}

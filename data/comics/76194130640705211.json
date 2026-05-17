@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194130640705211",
+  "title": "Batman #52",
+  "authors": [
+    "Brian Level",
+    "Danny Miki",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "Ivan Plascencia",
+    "James Tynion IV",
+    "Jordan Boyd",
+    "Mark Doyle",
+    "Rafael Albuquerque",
+    "Rebecca Taylor",
+    "Riley Rossmo",
+    "Steve Wands"
+  ],
+  "publish_date": "2016-05-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-v2-52.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6864/",
+  "fetched_at": "2026-05-15T21:54:31.423Z",
+  "reviewed_at": null
+}

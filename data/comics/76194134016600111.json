@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134016600111",
+  "title": "Batman: Rebirth #1",
+  "authors": [
+    "Brian Miller",
+    "Deron Bennett",
+    "Howard Porter",
+    "June Chung",
+    "Mark Doyle",
+    "Mikel Janín",
+    "Rebecca Taylor",
+    "Scott Snyder",
+    "Tom King"
+  ],
+  "publish_date": "2016-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/01/25/batman-rebirth-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8922/",
+  "fetched_at": "2026-05-15T21:55:14.709Z",
+  "reviewed_at": null
+}

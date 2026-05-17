@@ -1,0 +1,35 @@
+{
+  "title": "Carmen Jones",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "28 Oct 1954",
+  "runtime": "105 min",
+  "genre": "Drama, Musical, Romance",
+  "director": "Otto Preminger",
+  "writer": "Oscar Hammerstein II, Harry Kleiner, Prosper Mérimée",
+  "actors": "Harry Belafonte, Dorothy Dandridge, Pearl Bailey",
+  "plot": "Contemporary version of the Bizet opera, with new lyrics and an African-American cast.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 5 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjI1MmY2ZDktMWY3ZS00ODljLTkwYzMtZDIwYmEyNGQ5YTQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "6.7",
+  "imdbID": "tt0046828",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:24:26.336Z"
+}

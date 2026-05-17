@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130642100011",
+  "title": "Batman Incorporated #0",
+  "authors": [
+    "Aaron Kuder",
+    "Brian Smith",
+    "Chris Burnham",
+    "Frazer Irving",
+    "Grant Morrison",
+    "Mike Marts",
+    "Nathan Fairbairn",
+    "Pat Brosseau",
+    "Rickey Purdin"
+  ],
+  "publish_date": "2012-09-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/13/batman-incorporated-0.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41838/",
+  "fetched_at": "2026-05-15T21:21:41.170Z",
+  "reviewed_at": null
+}

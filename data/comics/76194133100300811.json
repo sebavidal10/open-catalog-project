@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194133100300811",
+  "title": "Robin: Son of Batman #8",
+  "authors": [
+    "Corey Breen",
+    "John Kalisz",
+    "Mark Doyle",
+    "Mat Lopes",
+    "Mick Gray",
+    "Patrick Gleason",
+    "Ramón Bachs",
+    "Ray Fawkes",
+    "Rebecca Taylor",
+    "Sanford Greene"
+  ],
+  "publish_date": "2016-01-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/10/robin-son-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25083/",
+  "fetched_at": "2026-05-15T21:52:07.418Z",
+  "reviewed_at": null
+}

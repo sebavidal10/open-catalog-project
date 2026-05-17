@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130640700611",
+  "title": "Batman #6",
+  "authors": [
+    "FCO Plascencia",
+    "Gary Frank",
+    "Greg Capullo",
+    "Harvey Richards",
+    "Jonathan Glapion",
+    "Katie Kubert",
+    "Mike Marts",
+    "Richard Starkings",
+    "Scott Snyder"
+  ],
+  "publish_date": "2012-02-15",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6803/",
+  "fetched_at": "2026-05-15T21:18:13.163Z",
+  "reviewed_at": null
+}

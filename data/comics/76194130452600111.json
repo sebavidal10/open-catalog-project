@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130452600111",
+  "title": "Batman: Gates of Gotham #1",
+  "authors": [
+    "Dustin Nguyen",
+    "Guy Major",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Katie Kubert",
+    "Kyle Higgins",
+    "Mike Marts",
+    "Scott Snyder",
+    "Trevor McCarthy"
+  ],
+  "publish_date": "2011-05-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/11/28/1fdf52798d1e4ebb8daf612cb2fc1500.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/157687/",
+  "fetched_at": "2026-05-15T21:13:37.758Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130640702811",
+  "title": "Batman #28",
+  "authors": [
+    "Derek Fridolfs",
+    "Dustin Nguyen",
+    "Howard Chaykin",
+    "James Tynion IV",
+    "Jesus Aburtov",
+    "John Kalisz",
+    "Katie Kubert",
+    "Mike Marts",
+    "Sal Cipriano",
+    "Scott Snyder"
+  ],
+  "publish_date": "2014-02-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-v2-28.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6840/",
+  "fetched_at": "2026-05-15T21:33:03.631Z",
+  "reviewed_at": null
+}

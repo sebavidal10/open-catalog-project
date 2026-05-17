@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134182800111",
+  "title": "Batman #1",
+  "authors": [
+    "David Finch",
+    "John Workman",
+    "Jordie Bellaire",
+    "Mark Doyle",
+    "Matt Banning",
+    "Rachel Dodson",
+    "Rebecca Taylor",
+    "Terry Dodson",
+    "Tim Sale",
+    "Tom King",
+    "Tony Daniel"
+  ],
+  "publish_date": "2016-06-15",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/05/batman-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/843/",
+  "fetched_at": "2026-05-15T21:55:03.341Z",
+  "reviewed_at": null
+}

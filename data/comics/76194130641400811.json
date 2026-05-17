@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130641400811",
+  "title": "Batman and Robin #8",
+  "authors": [
+    "Guy Major",
+    "Harvey Richards",
+    "John Kalisz",
+    "Katie Kubert",
+    "Mick Gray",
+    "Mike Marts",
+    "Pat Brosseau",
+    "Patrick Gleason",
+    "Peter J. Tomasi"
+  ],
+  "publish_date": "2012-04-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/27/batman-robin-v2-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15554/",
+  "fetched_at": "2026-05-15T21:19:02.694Z",
+  "reviewed_at": null
+}

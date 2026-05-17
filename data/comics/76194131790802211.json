@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194131790802211",
+  "title": "Batman '66 #22",
+  "authors": [
+    "Jim Chadwick",
+    "Laura Allred",
+    "Michael Avon Oeming",
+    "Mike Allred",
+    "Mike W. Barr",
+    "Tony Aviña",
+    "Wes Abbott"
+  ],
+  "publish_date": "2015-04-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/41bea0509aa04a87bb68712a03a412a5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145776/",
+  "fetched_at": "2026-05-15T21:45:47.284Z",
+  "reviewed_at": null
+}

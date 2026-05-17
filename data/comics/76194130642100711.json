@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130642100711",
+  "title": "Batman Incorporated #7",
+  "authors": [
+    "Carlos M. Mangual",
+    "Chris Burnham",
+    "Grant Morrison",
+    "Jason Masters",
+    "Mike Marts",
+    "Nathan Fairbairn",
+    "Rickey Purdin",
+    "Tomeu Morey",
+    "Tony Daniel"
+  ],
+  "publish_date": "2013-01-30",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/13/batman-incorporated-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41845/",
+  "fetched_at": "2026-05-15T21:23:40.768Z",
+  "reviewed_at": null
+}

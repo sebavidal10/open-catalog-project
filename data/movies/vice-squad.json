@@ -1,0 +1,31 @@
+{
+  "title": "Vice Squad",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "31 Jul 1953",
+  "runtime": "88 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Arnold Laven",
+  "writer": "Lawrence Roman, Leslie T. White",
+  "actors": "Edward G. Robinson, Paulette Goddard, K.T. Stevens",
+  "plot": "Police procedural film following a few cases assigned to LAPD captain of detectives Barnie Barnaby.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjg4ZGQ2YzEtNDFmYS00ZWY3LTgzMTAtMDAyZWU2NDM5MWFhXkEyXkFqcGdeQXVyNTk1MTk0MDI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0046514",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:09:41.300Z"
+}

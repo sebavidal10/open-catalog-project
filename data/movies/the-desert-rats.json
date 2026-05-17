@@ -1,0 +1,31 @@
+{
+  "title": "The Desert Rats",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "20 May 1953",
+  "runtime": "88 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Robert Wise",
+  "writer": "Richard Murphy",
+  "actors": "Richard Burton, James Mason, Robert Newton",
+  "plot": "Richard Burton plays a Scottish Army officer put in charge of a disparate band of ANZAC troops on the perimeter of Tobruk with the German Army doing their best to dislodge them.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmFhYTcyYzEtYzRiYS00MjEwLTlkNTctZTFlZjFkMDg2ZTU1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0045679",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:09:01.730Z"
+}

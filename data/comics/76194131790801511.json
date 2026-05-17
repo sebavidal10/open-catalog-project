@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": "76194131790801511",
+  "title": "Batman '66 #15",
+  "authors": [
+    "Jeff Parker",
+    "Mike Allred",
+    "Tony Aviña",
+    "Wilfredo Torres"
+  ],
+  "publish_date": "2014-09-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/04f8231d0e79406499c591c2541e4c0c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145769/",
+  "fetched_at": "2026-05-15T21:39:39.258Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130641403911",
+  "title": "Batman and Robin #39",
+  "authors": [
+    "Carlos M. Mangual",
+    "Dave Wielgosz",
+    "Emanuela Lupacchino",
+    "John Kalisz",
+    "Mark Doyle",
+    "Mick Gray",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Rachel Gluckstern",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2015-02-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/27/batman-robin-v2-39.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15591/",
+  "fetched_at": "2026-05-15T21:44:28.957Z",
+  "reviewed_at": null
+}

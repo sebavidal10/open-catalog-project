@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130641400111",
+  "title": "Batman and Robin #1",
+  "authors": [
+    "Harvey Richards",
+    "John Kalisz",
+    "Katie Kubert",
+    "Mick Gray",
+    "Mike Marts",
+    "Moose Baumann",
+    "Pat Brosseau",
+    "Patrick Gleason",
+    "Peter J. Tomasi"
+  ],
+  "publish_date": "2011-09-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/27/batman-robin-v2-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15547/",
+  "fetched_at": "2026-05-15T21:16:05.276Z",
+  "reviewed_at": null
+}

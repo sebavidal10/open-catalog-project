@@ -1,0 +1,31 @@
+{
+  "title": "Glen or Glenda",
+  "year": "1953",
+  "rated": "PG",
+  "released": "01 Apr 1953",
+  "runtime": "65 min",
+  "genre": "Drama, Horror",
+  "director": "Edward D. Wood Jr.",
+  "writer": "Edward D. Wood Jr.",
+  "actors": "Edward D. Wood Jr., Bela Lugosi, Lyle Talbot",
+  "plot": "A psychiatrist tells the stories of a transvestite (Glen or Glenda) and a pseudohermaphrodite (Alan or Anne).",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTg3ODEzMl5BMl5BanBnXkFtZTgwMjMyNTc2MDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "39%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.2",
+  "imdbID": "tt0045826",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:08:24.618Z"
+}

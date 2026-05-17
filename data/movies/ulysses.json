@@ -1,0 +1,27 @@
+{
+  "title": "Ulysses",
+  "year": "1954",
+  "rated": "Not Rated",
+  "released": "01 Oct 1955",
+  "runtime": "94 min",
+  "genre": "Adventure, Fantasy",
+  "director": "Mario Camerini",
+  "writer": "Franco Brusati, Mario Camerini, Ennio De Concini",
+  "actors": "Silvana Mangano, Kirk Douglas, Anthony Quinn",
+  "plot": "A movie adaptation of Homer's second epic, that depicts Ulysses' efforts to return to his home after the end of ten years of war.",
+  "language": "Italian, English",
+  "country": "Italy, France, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjMxOGM4ZjgtY2QyNC00ZmQ3LThmODEtYTQ4YjA0NzZiZjJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0047630",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:23:54.288Z"
+}

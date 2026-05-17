@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194133100301011",
+  "title": "Robin: Son of Batman #10",
+  "authors": [
+    "Alex Sinclair",
+    "Deron Bennett",
+    "John Kalisz",
+    "Mark Doyle",
+    "Mat Lopes",
+    "Mick Gray",
+    "Patrick Gleason",
+    "Ramón Bachs",
+    "Ray Fawkes",
+    "Rebecca Taylor",
+    "Ryan Ottley"
+  ],
+  "publish_date": "2016-03-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/10/robin-son-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25085/",
+  "fetched_at": "2026-05-15T21:53:52.334Z",
+  "reviewed_at": null
+}

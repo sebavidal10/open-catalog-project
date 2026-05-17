@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194130640702111",
+  "title": "Batman #21",
+  "authors": [
+    "Danny Miki",
+    "Dave McCaig",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "James Tynion IV",
+    "Jock",
+    "Katie Kubert",
+    "Mike Marts",
+    "Nick J. Napolitano",
+    "Rafael Albuquerque",
+    "Scott Snyder",
+    "Taylor Esposito"
+  ],
+  "publish_date": "2013-06-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6818/",
+  "fetched_at": "2026-05-15T21:26:18.325Z",
+  "reviewed_at": null
+}

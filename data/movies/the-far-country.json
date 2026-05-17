@@ -1,0 +1,31 @@
+{
+  "title": "The Far Country",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "20 Aug 1954",
+  "runtime": "97 min",
+  "genre": "Romance, Western",
+  "director": "Anthony Mann",
+  "writer": "Borden Chase",
+  "actors": "James Stewart, Ruth Roman, Corinne Calvet",
+  "plot": "A self-minded adventurer locks horns with a crooked lawman while driving cattle to Dawson.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmU5MjBjZDItY2M2MS00ODM4LThlNzYtNWFlYzcyNGJkMGEzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0048055",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:24:22.640Z"
+}

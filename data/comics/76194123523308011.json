@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123523308011",
+  "title": "Superman / Batman #80",
+  "authors": [
+    "Blond",
+    "Chris Roberson",
+    "Fiona Staples",
+    "Jesús Merino",
+    "John J. Hill",
+    "Matt Idelson",
+    "Steve Wands",
+    "Wil Moss"
+  ],
+  "publish_date": "2011-01-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/e4917cb1d11541c0b5b2627c08583a08.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152624/",
+  "fetched_at": "2026-05-15T21:11:18.583Z",
+  "reviewed_at": null
+}

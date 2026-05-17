@@ -1,0 +1,31 @@
+{
+  "title": "The Country Girl",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "17 May 1955",
+  "runtime": "104 min",
+  "genre": "Drama, Music",
+  "director": "George Seaton",
+  "writer": "Clifford Odets, George Seaton",
+  "actors": "Bing Crosby, Grace Kelly, William Holden",
+  "plot": "A director hires an alcoholic has-been and strikes up a stormy relationship with the actor's wife, who he believes is the cause of all the man's problems.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 8 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTZlMmU5NzYtNGE0Zi00NDZhLTlkYTUtMGE1ZTg2ODA2NTliXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0046874",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:24:04.167Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Mogambo",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "09 Oct 1953",
+  "runtime": "116 min",
+  "genre": "Adventure, Drama, Romance",
+  "director": "John Ford",
+  "writer": "John Lee Mahin, Wilson Collison",
+  "actors": "Clark Gable, Grace Kelly, Ava Gardner",
+  "plot": "On a Kenyan safari, white hunter Victor Marswell has a love triangle with seductive American socialite Eloise Kelly and anthropologist Donald Nordley's cheating wife Linda.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 3 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWViMTliMjItOTBmMy00YzIwLWJjZWEtYzNmY2RlZGRiOGNlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0046085",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:09:10.344Z"
+}

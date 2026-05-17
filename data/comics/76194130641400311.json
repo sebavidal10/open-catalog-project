@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130641400311",
+  "title": "Batman and Robin #3",
+  "authors": [
+    "Harvey Richards",
+    "John Kalisz",
+    "Katie Kubert",
+    "Mick Gray",
+    "Mike Marts",
+    "Pat Brosseau",
+    "Patrick Gleason",
+    "Peter J. Tomasi"
+  ],
+  "publish_date": "2011-11-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/27/batman-robin-v2-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15549/",
+  "fetched_at": "2026-05-15T21:16:56.927Z",
+  "reviewed_at": null
+}

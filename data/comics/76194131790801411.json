@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194131790801411",
+  "title": "Batman '66 #14",
+  "authors": [
+    "Aniz Ansari",
+    "Craig Rousseau",
+    "Jeff Parker",
+    "Jim Chadwick",
+    "Joe Quinones",
+    "Laura Allred",
+    "Mike Allred",
+    "Paul Rivoche",
+    "Tony Aviña",
+    "Wes Abbott"
+  ],
+  "publish_date": "2014-08-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/a47694ee58a24e60b7919d0954cfbcb6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145768/",
+  "fetched_at": "2026-05-15T21:38:43.453Z",
+  "reviewed_at": null
+}

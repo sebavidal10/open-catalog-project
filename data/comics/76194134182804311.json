@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134182804311",
+  "title": "Batman #43",
+  "authors": [
+    "Brittany Holzherr",
+    "Clayton Cowles",
+    "Dave Stewart",
+    "Hugo Petrus",
+    "Jamie S. Rich",
+    "June Chung",
+    "Mikel Janín",
+    "Olivier Coipel",
+    "Tom King"
+  ],
+  "publish_date": "2018-03-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/08/batman-43.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/885/",
+  "fetched_at": "2026-05-15T22:07:55.601Z",
+  "reviewed_at": null
+}

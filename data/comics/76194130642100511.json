@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130642100511",
+  "title": "Batman Incorporated #5",
+  "authors": [
+    "Chris Burnham",
+    "Dave Sharpe",
+    "Frazer Irving",
+    "Grant Morrison",
+    "Mike Marts",
+    "Nathan Fairbairn",
+    "Rickey Purdin"
+  ],
+  "publish_date": "2012-11-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/13/batman-incorporated-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41843/",
+  "fetched_at": "2026-05-15T21:22:40.206Z",
+  "reviewed_at": null
+}

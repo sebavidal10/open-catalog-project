@@ -1,0 +1,31 @@
+{
+  "title": "Summer with Monika",
+  "year": "1953",
+  "rated": "R",
+  "released": "09 Feb 1953",
+  "runtime": "96 min",
+  "genre": "Drama, Romance",
+  "director": "Ingmar Bergman",
+  "writer": "Per Anders Fogelström, Ingmar Bergman",
+  "actors": "Harriet Andersson, Lars Ekborg, Dagmar Ebbesen",
+  "plot": "A pair of teenagers meet one summer day, start a reckless affair and abandon their families to be with one another.",
+  "language": "Swedish",
+  "country": "Sweden",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGJjODNhNzQtMWQzYi00NDFlLTllMDktYzA4MzM0OGFkNzJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0046345",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:08:56.755Z"
+}

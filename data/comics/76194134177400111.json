@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134177400111",
+  "title": "Batman Beyond #1",
+  "authors": [
+    "Bernard Chang",
+    "Dan Jurgens",
+    "Jim Chadwick",
+    "Marcelo Maiolo",
+    "Martin Ansin",
+    "Ryan Sook",
+    "Susie Esparza",
+    "Travis Lanham"
+  ],
+  "publish_date": "2016-10-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/17/batman-beyond-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/38313/",
+  "fetched_at": "2026-05-15T21:57:25.069Z",
+  "reviewed_at": null
+}

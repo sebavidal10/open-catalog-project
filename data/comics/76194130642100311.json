@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130642100311",
+  "title": "Batman Incorporated #3",
+  "authors": [
+    "Brian Smith",
+    "Chris Burnham",
+    "Grant Morrison",
+    "Jason Fabok",
+    "Mike Marts",
+    "Nathan Fairbairn",
+    "Pat Brosseau",
+    "Rickey Purdin"
+  ],
+  "publish_date": "2012-08-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/13/batman-incorporated-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41841/",
+  "fetched_at": "2026-05-15T21:20:47.575Z",
+  "reviewed_at": null
+}

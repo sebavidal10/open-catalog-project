@@ -1,0 +1,20 @@
+{
+  "isbn": null,
+  "upc": "76194131673401011",
+  "title": "Batman '66 #10",
+  "authors": [
+    "David Williams",
+    "Jeff Parker",
+    "Mike Allred"
+  ],
+  "publish_date": "2014-04-30",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/ffe15167a50f4ce2b332b540b712dcb3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145764/",
+  "fetched_at": "2026-05-15T21:34:34.622Z",
+  "reviewed_at": null
+}

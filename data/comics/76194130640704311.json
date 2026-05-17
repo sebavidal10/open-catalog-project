@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130640704311",
+  "title": "Batman #43",
+  "authors": [
+    "Dan Hipp",
+    "Danny Miki",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "Mark Doyle",
+    "Rebecca Taylor",
+    "Scott Snyder",
+    "Steve Wands"
+  ],
+  "publish_date": "2015-08-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-v2-43.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6855/",
+  "fetched_at": "2026-05-15T21:47:48.064Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194133523000111",
+  "title": "Batman / Teenage Mutant Ninja Turtles #1",
+  "authors": [
+    "David Piña",
+    "Freddie E. Williams II",
+    "James Tynion IV",
+    "Jeremy Colwell",
+    "Jim Chadwick",
+    "Kevin Eastman",
+    "Neal Adams",
+    "Rafael Albuquerque",
+    "Tomi Varga",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2015-12-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/12/ddd7f11b0439401080f3bfbdcdf9ea7f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145975/",
+  "fetched_at": "2026-05-15T21:51:15.403Z",
+  "reviewed_at": null
+}

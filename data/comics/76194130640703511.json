@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194130640703511",
+  "title": "Batman #35",
+  "authors": [
+    "Andy Kubert",
+    "Brad Anderson",
+    "Brian Stelfreeze",
+    "Danny Miki",
+    "Dezi Sienty",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "James Tynion IV",
+    "Kelley Jones",
+    "Mark Doyle",
+    "Matt Humphreys",
+    "Michelle Madsen",
+    "Scott Snyder",
+    "Steve Wands"
+  ],
+  "publish_date": "2014-10-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-v2-35e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6847/",
+  "fetched_at": "2026-05-15T21:40:40.579Z",
+  "reviewed_at": null
+}

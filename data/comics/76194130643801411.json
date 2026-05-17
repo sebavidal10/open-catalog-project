@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130643801411",
+  "title": "Batman: The Dark Knight #14",
+  "authors": [
+    "David Finch",
+    "Dezi Sienty",
+    "Gregg Hurwitz",
+    "Mike Marts",
+    "Nathan Fairbairn",
+    "Rickey Purdin",
+    "Sonia Oback"
+  ],
+  "publish_date": "2012-11-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/06/batman-the-dark-knight-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41547/",
+  "fetched_at": "2026-05-15T21:22:44.321Z",
+  "reviewed_at": null
+}

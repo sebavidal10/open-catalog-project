@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130640700411",
+  "title": "Batman #4",
+  "authors": [
+    "FCO Plascencia",
+    "Greg Capullo",
+    "Harvey Richards",
+    "Jimmy Betancourt",
+    "Jonathan Glapion",
+    "Katie Kubert",
+    "Mike Choi",
+    "Mike Marts",
+    "Richard Starkings",
+    "Scott Snyder"
+  ],
+  "publish_date": "2011-12-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6801/",
+  "fetched_at": "2026-05-15T21:17:16.915Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120005770911",
+  "title": "Batman #709",
+  "authors": [
+    "David Hine",
+    "Guillem March",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Katie Kubert",
+    "Mike Marts",
+    "Rachel Gluckstern"
+  ],
+  "publish_date": "2011-04-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-709.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34803/",
+  "fetched_at": "2026-05-15T21:12:51.898Z",
+  "reviewed_at": null
+}

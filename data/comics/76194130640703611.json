@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194130640703611",
+  "title": "Batman #36",
+  "authors": [
+    "Andy Kubert",
+    "Brad Anderson",
+    "Danny Miki",
+    "FCO Plascencia",
+    "Graham Nolan",
+    "Greg Capullo",
+    "Gregory Wright",
+    "James Tynion IV",
+    "Mark Doyle",
+    "Matt Humphreys",
+    "Scott Snyder",
+    "Steve Wands",
+    "Taylor Esposito"
+  ],
+  "publish_date": "2014-11-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-v2-36.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6848/",
+  "fetched_at": "2026-05-15T21:41:41.986Z",
+  "reviewed_at": null
+}

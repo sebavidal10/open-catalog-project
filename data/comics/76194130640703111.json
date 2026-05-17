@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130640703111",
+  "title": "Batman #31",
+  "authors": [
+    "Danny Miki",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "Katie Kubert",
+    "Laura Allred",
+    "Mark Doyle",
+    "Mike Allred",
+    "Scott Snyder",
+    "Steve Wands"
+  ],
+  "publish_date": "2014-05-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-v2-31.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6843/",
+  "fetched_at": "2026-05-15T21:35:34.298Z",
+  "reviewed_at": null
+}

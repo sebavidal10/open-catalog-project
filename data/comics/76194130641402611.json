@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130641402611",
+  "title": "Batman and Robin #26",
+  "authors": [
+    "Carlos M. Mangual",
+    "Darren Shan",
+    "John Kalisz",
+    "Keith Champagne",
+    "Mick Gray",
+    "Mike Marts",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Rachel Gluckstern"
+  ],
+  "publish_date": "2013-12-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/27/batman-robin-v2-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15578/",
+  "fetched_at": "2026-05-15T21:31:40.575Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130641402011",
+  "title": "Batman and Robin #20",
+  "authors": [
+    "Carlos M. Mangual",
+    "Cliff Richards",
+    "Darren Shan",
+    "John Kalisz",
+    "Mark Irwin",
+    "Mick Gray",
+    "Mike Marts",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Rachel Gluckstern"
+  ],
+  "publish_date": "2013-05-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/27/batman-robin-v2-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15567/",
+  "fetched_at": "2026-05-15T21:25:42.186Z",
+  "reviewed_at": null
+}

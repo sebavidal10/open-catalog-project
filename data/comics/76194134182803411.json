@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134182803411",
+  "title": "Batman #34",
+  "authors": [
+    "Clayton Cowles",
+    "Jamie S. Rich",
+    "Joëlle Jones",
+    "Jordie Bellaire",
+    "Maggie Howell",
+    "Tomeu Morey",
+    "Tom King",
+    "Tony Daniel"
+  ],
+  "publish_date": "2017-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/08/batman-34.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/876/",
+  "fetched_at": "2026-05-15T22:05:04.842Z",
+  "reviewed_at": null
+}

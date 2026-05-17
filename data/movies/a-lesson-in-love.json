@@ -1,0 +1,31 @@
+{
+  "title": "A Lesson in Love",
+  "year": "1954",
+  "rated": "Not Rated",
+  "released": "14 Mar 1960",
+  "runtime": "96 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Ingmar Bergman",
+  "writer": "Ingmar Bergman",
+  "actors": "Eva Dahlbeck, Gunnar Björnstrand, Yvonne Lombard",
+  "plot": "After a 15-year marriage, the spouses are going to divorce, but suddenly find out that their feelings have not vanished yet.",
+  "language": "Swedish, Danish",
+  "country": "Sweden",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjJiY2NlYTMtODg2ZS00MWY2LWFmYjgtOTk3NGJiZDJlMzc5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0047167",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:27:01.752Z"
+}

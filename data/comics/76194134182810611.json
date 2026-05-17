@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194134182810611",
+  "title": "Batman #106",
+  "authors": [
+    "Ben Abernathy",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "Gleb Melnikov",
+    "James Tynion IV",
+    "Jim Lee",
+    "Jorge Jiménez",
+    "Joshua Williamson",
+    "Marie Javins",
+    "Paul Kaminski",
+    "Riccardo Federici",
+    "Tomeu Morey",
+    "Troy Peteri"
+  ],
+  "publish_date": "2021-03-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/26/batman-106.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/26150/",
+  "fetched_at": "2026-05-17T20:44:20.439Z",
+  "reviewed_at": null
+}

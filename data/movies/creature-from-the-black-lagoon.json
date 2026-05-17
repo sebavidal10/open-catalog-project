@@ -1,0 +1,35 @@
+{
+  "title": "Creature from the Black Lagoon",
+  "year": "1954",
+  "rated": "G",
+  "released": "05 Mar 1954",
+  "runtime": "79 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Jack Arnold",
+  "writer": "Harry Essex, Arthur A. Ross, Maurice Zimm",
+  "actors": "Richard Carlson, Julie Adams, Richard Denning",
+  "plot": "A strange prehistoric beast lurks in the depths of the Amazonian jungle. A group of scientists try to capture the animal and bring it back to civilization for study.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWZiYmQ0ZjctMmM5Mi00NTQyLThkYzQtMjUyNGIwNjgzOTk5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "6.9",
+  "imdbID": "tt0046876",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:23:34.479Z"
+}

@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "76194129662300511",
+  "title": "Batman: The Dark Knight #5",
+  "authors": [
+    "Alex Sinclair",
+    "Andy Clarke",
+    "Dave Sharpe",
+    "David Finch",
+    "Greg Adams",
+    "Jaime Mendoza",
+    "Janelle Asselin",
+    "Jason Fabok",
+    "Katie Kubert",
+    "Matt Banning",
+    "Mike Marts",
+    "Peter Steigerwald",
+    "Ray McCarthy",
+    "Rickey Purdin",
+    "Scott Williams",
+    "Tomeu Morey",
+    "Tony Aviña"
+  ],
+  "publish_date": "2011-08-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/26/716de715aa1c4c83b7c8c6014c222238.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152363/",
+  "fetched_at": "2026-05-15T21:15:40.261Z",
+  "reviewed_at": null
+}

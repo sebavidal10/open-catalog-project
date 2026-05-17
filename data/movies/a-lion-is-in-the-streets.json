@@ -1,0 +1,35 @@
+{
+  "title": "A Lion Is in the Streets",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "23 Sep 1953",
+  "runtime": "88 min",
+  "genre": "Drama, Romance, Thriller",
+  "director": "Raoul Walsh",
+  "writer": "Luther Davis, Adria Locke Langley",
+  "actors": "James Cagney, Barbara Hale, Anne Francis",
+  "plot": "A charismatic peddler from the bayous finds his true calling in politics. Is he a demagogue in the making?",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTY5OGUxN2QtYjlmMi00MzlmLWIxM2YtOGEwOTg4MzVlYTE3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "6.1",
+  "imdbID": "tt0046002",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:13:16.104Z"
+}

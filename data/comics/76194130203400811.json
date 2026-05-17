@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130203400811",
+  "title": "Batman Beyond #8",
+  "authors": [
+    "Adam Beechen",
+    "Chris Batista",
+    "Chris Conroy",
+    "David Baron",
+    "Dustin Nguyen",
+    "Rich Perrotta",
+    "Travis Lanham"
+  ],
+  "publish_date": "2011-08-03",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/a49aef506d3a4290a05f540775882ac7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118083/",
+  "fetched_at": "2026-05-15T21:15:23.456Z",
+  "reviewed_at": null
+}

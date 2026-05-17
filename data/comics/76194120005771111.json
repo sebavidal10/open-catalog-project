@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005771111",
+  "title": "Batman #711",
+  "authors": [
+    "Ian Hannin",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Katie Kubert",
+    "Mike Marts",
+    "Ryan Winn",
+    "Steve Scott",
+    "Tony Daniel"
+  ],
+  "publish_date": "2011-06-15",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-711.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34805/",
+  "fetched_at": "2026-05-15T21:13:59.160Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194131790801911",
+  "title": "Batman '66 #19",
+  "authors": [
+    "Jeff Parker",
+    "Jim Chadwick",
+    "Laura Allred",
+    "Leonardo Romero",
+    "Mike Allred",
+    "Tony Aviña",
+    "Wes Abbott"
+  ],
+  "publish_date": "2015-02-04",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/b80e6bbe64b5477680c467e46ffc57e2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145773/",
+  "fetched_at": "2026-05-15T21:43:36.361Z",
+  "reviewed_at": null
+}

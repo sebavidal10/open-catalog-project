@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194130640701411",
+  "title": "Batman #14",
+  "authors": [
+    "David Baron",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "James Tynion IV",
+    "Jimmy Betancourt",
+    "Jock",
+    "Jonathan Glapion",
+    "Katie Kubert",
+    "Mike Marts",
+    "Richard Starkings",
+    "Sal Cipriano",
+    "Scott Snyder",
+    "Trevor McCarthy"
+  ],
+  "publish_date": "2012-11-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6811/",
+  "fetched_at": "2026-05-15T21:22:26.367Z",
+  "reviewed_at": null
+}

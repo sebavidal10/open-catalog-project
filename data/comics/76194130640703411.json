@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130640703411",
+  "title": "Batman #34",
+  "authors": [
+    "Gerry Duggan",
+    "Lee Loughridge",
+    "Mark Doyle",
+    "Matteo Scalera",
+    "Matt Humphreys",
+    "Moreno DiNisio",
+    "Rafael Albuquerque",
+    "Ryan Sook",
+    "Scott Snyder",
+    "Steve Wands"
+  ],
+  "publish_date": "2014-08-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-v2-34.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6846/",
+  "fetched_at": "2026-05-15T21:38:35.502Z",
+  "reviewed_at": null
+}

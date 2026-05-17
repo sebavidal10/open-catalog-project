@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194135974801111",
+  "title": "Batman and the Outsiders #11",
+  "authors": [
+    "Arif Prianto",
+    "Ben Abernathy",
+    "Bryan Hill",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "Dexter Soy",
+    "Michael Golden",
+    "Tyler Kirkham",
+    "Veronica Gandini"
+  ],
+  "publish_date": "2020-03-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/03/05/batman-outsiders-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/10095/",
+  "fetched_at": "2026-05-17T20:36:22.174Z",
+  "reviewed_at": null
+}

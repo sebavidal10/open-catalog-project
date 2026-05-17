@@ -1,0 +1,31 @@
+{
+  "title": "Kiss Me Kate",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "26 Nov 1953",
+  "runtime": "109 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "George Sidney",
+  "writer": "Dorothy Kingsley, Sam Spewack, Bella Spewack",
+  "actors": "Kathryn Grayson, Howard Keel, Ann Miller",
+  "plot": "An ex-husband and wife team star in a musical version of 'The Taming of the Shrew'; off-stage, the production is troublesome with ex-lovers' quarrels and two gangsters looking for some money owed to them.",
+  "language": "English, French, Italian",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGIzYTYzNzEtMTBlMi00NjY3LWE1ZDAtNDZhZTMyOGMyNDUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0045963",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:08:49.361Z"
+}

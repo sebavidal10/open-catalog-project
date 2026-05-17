@@ -1,0 +1,35 @@
+{
+  "title": "20,000 Leagues Under the Sea",
+  "year": "1954",
+  "rated": "G",
+  "released": "20 Jul 1955",
+  "runtime": "127 min",
+  "genre": "Adventure, Drama, Family",
+  "director": "Richard Fleischer",
+  "writer": "Earl Felton, Jules Verne",
+  "actors": "Kirk Douglas, James Mason, Paul Lukas",
+  "plot": "A ship sent to investigate a wave of mysterious sinkings encounters the advanced submarine, the Nautilus, commanded by Captain Nemo.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 5 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGMxNDA0MDUtOWRkMi00NjhhLTk3ODUtNDcyYzFhMzIzMDY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.2",
+  "imdbID": "tt0046672",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:23:40.664Z"
+}

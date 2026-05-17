@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194127973202311",
+  "title": "Batman and Robin #23",
+  "authors": [
+    "Alex Sinclair",
+    "Andrei Bressan",
+    "Arthur Fujita",
+    "Guillem March",
+    "Harvey Richards",
+    "J.G. Jones",
+    "Judd Winick",
+    "Katie Kubert",
+    "Mike Marts",
+    "Pat Brosseau"
+  ],
+  "publish_date": "2011-05-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/30/batman-robin-v1-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19919/",
+  "fetched_at": "2026-05-15T21:13:29.883Z",
+  "reviewed_at": null
+}

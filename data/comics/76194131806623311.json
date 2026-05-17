@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194131806623311",
+  "title": "Batman #23.3",
+  "authors": [
+    "Andrew Dalhouse",
+    "Christian Duce",
+    "Darren Shan",
+    "Frank Tieri",
+    "Jason Fabok",
+    "Mike Marts",
+    "Nathan Fairbairn",
+    "Rachel Gluckstern",
+    "Taylor Esposito"
+  ],
+  "publish_date": "2013-09-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-23-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6828/",
+  "fetched_at": "2026-05-15T21:28:53.625Z",
+  "reviewed_at": null
+}

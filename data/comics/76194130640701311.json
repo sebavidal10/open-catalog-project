@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194130640701311",
+  "title": "Batman #13",
+  "authors": [
+    "Aaron Kuder",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "James Tynion IV",
+    "Jimmy Betancourt",
+    "Jock",
+    "Jonathan Glapion",
+    "Katie Kubert",
+    "Mike Marts",
+    "Nathan Fairbairn",
+    "Richard Starkings",
+    "Sal Cipriano",
+    "Scott Snyder"
+  ],
+  "publish_date": "2012-10-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6810/",
+  "fetched_at": "2026-05-15T21:21:55.111Z",
+  "reviewed_at": null
+}

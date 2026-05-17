@@ -1,0 +1,31 @@
+{
+  "title": "Inferno",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "21 Jul 1954",
+  "runtime": "83 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "Roy Ward Baker",
+  "writer": "Francis M. Cockrell",
+  "actors": "Robert Ryan, Rhonda Fleming, William Lundigan",
+  "plot": "A tough, hard-driving business tycoon suffers a broken leg and is left to die in the desert by his scheming wife and her greedy lover.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGFlYmRlNDItYjI5MS00YjU0LWFiYzAtZWRlZGQ3ZjZkN2MwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0045911",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:10:50.616Z"
+}

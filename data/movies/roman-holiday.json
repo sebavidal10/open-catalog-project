@@ -1,0 +1,35 @@
+{
+  "title": "Roman Holiday",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "02 Sep 1953",
+  "runtime": "118 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "William Wyler",
+  "writer": "Dalton Trumbo, Ian McLellan Hunter, John Dighton",
+  "actors": "Gregory Peck, Audrey Hepburn, Eddie Albert",
+  "plot": "A bored and sheltered princess escapes her guardians and falls in love with an American newsman in Rome.",
+  "language": "English, Italian, German",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 11 wins & 20 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGE5MTA2NDUtYTQ3Yi00YzM4LWJlODItNDE1ZTRjYjY0M2E5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "8.0",
+  "imdbID": "tt0046250",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:08:27.085Z"
+}

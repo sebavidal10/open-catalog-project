@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194131673400811",
+  "title": "Batman '66 #8",
+  "authors": [
+    "Aniz Ansari",
+    "Jeff Parker",
+    "Jim Chadwick",
+    "Laura Allred",
+    "Lee Loughridge",
+    "Mike Allred",
+    "Ruben Procopio",
+    "Wes Abbott"
+  ],
+  "publish_date": "2014-02-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/535b094bf2e745ae91ccd0051722db7b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145762/",
+  "fetched_at": "2026-05-15T21:33:07.579Z",
+  "reviewed_at": null
+}

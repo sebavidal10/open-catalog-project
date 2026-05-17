@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130203400211",
+  "title": "Batman Beyond #2",
+  "authors": [
+    "Adam Beechen",
+    "Chris Conroy",
+    "David Baron",
+    "Dustin Nguyen",
+    "John Stanisci",
+    "Ryan Benjamin",
+    "Steve Wands"
+  ],
+  "publish_date": "2011-02-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/5f1ec97b228f4cdcbe7f957aa89cd1e0.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118077/",
+  "fetched_at": "2026-05-15T21:11:39.438Z",
+  "reviewed_at": null
+}

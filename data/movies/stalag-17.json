@@ -1,0 +1,35 @@
+{
+  "title": "Stalag 17",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "06 Jun 1953",
+  "runtime": "120 min",
+  "genre": "Comedy, Drama, War",
+  "director": "Billy Wilder",
+  "writer": "Billy Wilder, Edwin Blum, Donald Bevan",
+  "actors": "William Holden, Don Taylor, Otto Preminger",
+  "plot": "After two American prisoners are killed by the guards in the act of escaping from a German P.O.W. camp in World War II, the barracks black marketeer, J.J. Sefton, is suspected of being an informer.",
+  "language": "English, German, Russian",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 2 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzY1NjQ0NjMtYWQ5Ni00Y2ZiLWE2NGUtNDMzZWVmNTk0ODhkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.9",
+  "imdbID": "tt0046359",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:08:43.173Z"
+}

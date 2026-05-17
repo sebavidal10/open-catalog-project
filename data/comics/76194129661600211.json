@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194129661600211",
+  "title": "Batman Incorporated #2",
+  "authors": [
+    "Grant Morrison",
+    "Janelle Asselin",
+    "J.H. Williams III",
+    "John J. Hill",
+    "Michel Lacombe",
+    "Mike Marts",
+    "Nathan Fairbairn",
+    "Yanick Paquette"
+  ],
+  "publish_date": "2010-12-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/09/08/426eb9019b0e4d098af7f8e9741ac112.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/127374/",
+  "fetched_at": "2026-05-15T21:10:30.338Z",
+  "reviewed_at": null
+}

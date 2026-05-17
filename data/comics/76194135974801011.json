@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194135974801011",
+  "title": "Batman and the Outsiders #10",
+  "authors": [
+    "Arif Prianto",
+    "Ben Abernathy",
+    "Bryan Hill",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "Dexter Soy",
+    "Michael Golden",
+    "Tyler Kirkham",
+    "Veronica Gandini"
+  ],
+  "publish_date": "2020-02-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/02/07/batman-outsiders-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9415/",
+  "fetched_at": "2026-05-17T20:35:34.305Z",
+  "reviewed_at": null
+}

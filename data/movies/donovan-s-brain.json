@@ -1,0 +1,31 @@
+{
+  "title": "Donovan's Brain",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "30 Sep 1953",
+  "runtime": "84 min",
+  "genre": "Sci-Fi, Horror",
+  "director": "Felix E. Feist",
+  "writer": "Curt Siodmak, Hugh Brooke, Felix E. Feist",
+  "actors": "Lew Ayres, Gene Evans, Nancy Reagan",
+  "plot": "Three scientists unlawfully remove the still living brain of a dead tycoon and experiment with it but the evil brain begins to telepathically control the lead scientist.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2QzZmU1NTUtNDBjNy00ZmFjLWIxZjMtODM4NGE0NzY4NWU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0045699",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:13:05.427Z"
+}

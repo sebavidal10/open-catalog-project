@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130642101311",
+  "title": "Batman Incorporated #13",
+  "authors": [
+    "Chris Burnham",
+    "Darren Shan",
+    "Dave Sharpe",
+    "Grant Morrison",
+    "Mike Marts",
+    "Nathan Fairbairn",
+    "Steve Wands",
+    "Travis Lanham"
+  ],
+  "publish_date": "2013-07-31",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/13/batman-incorporated-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41851/",
+  "fetched_at": "2026-05-15T21:27:35.241Z",
+  "reviewed_at": null
+}

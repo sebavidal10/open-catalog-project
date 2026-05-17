@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194136471100311",
+  "title": "Batman: Universe #3",
+  "authors": [
+    "Brian Michael Bendis",
+    "Brittany Holzherr",
+    "Carlos M. Mangual",
+    "Dave Stewart",
+    "Jamie S. Rich",
+    "Nick Derington"
+  ],
+  "publish_date": "2019-09-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/09/06/batman-uni-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/5220/",
+  "fetched_at": "2026-05-17T20:31:45.221Z",
+  "reviewed_at": null
+}

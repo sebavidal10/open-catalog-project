@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194127973202211",
+  "title": "Batman and Robin #22",
+  "authors": [
+    "Alex Sinclair",
+    "Harvey Richards",
+    "J.G. Jones",
+    "Katie Kubert",
+    "Keith Champagne",
+    "Mick Gray",
+    "Mike Marts",
+    "Pat Brosseau",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Tom Nguyen"
+  ],
+  "publish_date": "2011-04-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/30/batman-robin-v1-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19918/",
+  "fetched_at": "2026-05-15T21:12:55.992Z",
+  "reviewed_at": null
+}

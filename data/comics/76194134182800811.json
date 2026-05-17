@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134182800811",
+  "title": "Batman #8",
+  "authors": [
+    "Brennan Wagner",
+    "Deron Bennett",
+    "Ivan Plascencia",
+    "Mark Doyle",
+    "Nathan Fairbairn",
+    "Rebecca Taylor",
+    "Riley Rossmo",
+    "Steve Orlando",
+    "Tim Sale",
+    "Tom King",
+    "Yanick Paquette"
+  ],
+  "publish_date": "2016-10-05",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/06/batman-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/850/",
+  "fetched_at": "2026-05-15T21:57:06.282Z",
+  "reviewed_at": null
+}

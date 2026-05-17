@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194130643802811",
+  "title": "Batman: The Dark Knight #28",
+  "authors": [
+    "Brian Miller",
+    "Darren Shan",
+    "Dezi Sienty",
+    "Ethan Van Sciver",
+    "Gregg Hurwitz",
+    "Mike Marts"
+  ],
+  "publish_date": "2014-02-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/06/batman-the-dark-knight-28.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41561/",
+  "fetched_at": "2026-05-15T21:33:34.246Z",
+  "reviewed_at": null
+}

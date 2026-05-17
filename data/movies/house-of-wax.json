@@ -1,0 +1,35 @@
+{
+  "title": "House of Wax",
+  "year": "1953",
+  "rated": "PG",
+  "released": "25 Apr 1953",
+  "runtime": "88 min",
+  "genre": "Horror",
+  "director": "André De Toth",
+  "writer": "Crane Wilbur, Charles Belden",
+  "actors": "Vincent Price, Frank Lovejoy, Phyllis Kirk",
+  "plot": "An associate burns down a wax museum with the owner inside, but he survives only to become vengeful and murderous.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGUyYjg0ZDQtYWJlYy00OGJmLWE3MjItZjM1YzJjMzIxYjU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "7.0",
+  "imdbID": "tt0045888",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:08:13.469Z"
+}

@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194130643802211",
+  "title": "Batman: The Dark Knight #22",
+  "authors": [
+    "Alex Maleev",
+    "Darren Shan",
+    "Dave McCaig",
+    "Dezi Sienty",
+    "Gregg Hurwitz",
+    "Mike Marts"
+  ],
+  "publish_date": "2013-07-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/06/batman-the-dark-knight-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41555/",
+  "fetched_at": "2026-05-15T21:27:43.501Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130641402211",
+  "title": "Batman and Robin #22",
+  "authors": [
+    "Carlos M. Mangual",
+    "Darren Shan",
+    "John Kalisz",
+    "Mick Gray",
+    "Mike Marts",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Rachel Gluckstern"
+  ],
+  "publish_date": "2013-07-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/27/batman-robin-v2-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15569/",
+  "fetched_at": "2026-05-15T21:27:21.312Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130640702911",
+  "title": "Batman #29",
+  "authors": [
+    "Danny Miki",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "Katie Kubert",
+    "Mark Doyle",
+    "Scott Snyder",
+    "Steve Wands"
+  ],
+  "publish_date": "2014-03-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-v2-29.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6841/",
+  "fetched_at": "2026-05-15T21:33:43.305Z",
+  "reviewed_at": null
+}

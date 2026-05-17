@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120005771011",
+  "title": "Batman #710",
+  "authors": [
+    "Ian Hannin",
+    "Janelle Asselin",
+    "Jared K. Fletcher",
+    "Katie Kubert",
+    "Mike Marts",
+    "Ryan Winn",
+    "Steve Scott",
+    "Tony Daniel"
+  ],
+  "publish_date": "2011-05-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/19/batman-710.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34804/",
+  "fetched_at": "2026-05-15T21:13:25.917Z",
+  "reviewed_at": null
+}

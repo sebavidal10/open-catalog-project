@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134182805411",
+  "title": "Batman #54",
+  "authors": [
+    "Brennan Wagner",
+    "Brittany Holzherr",
+    "Clayton Cowles",
+    "Jamie S. Rich",
+    "Matt Wagner",
+    "Tim Sale",
+    "Tomeu Morey",
+    "Tom King"
+  ],
+  "publish_date": "2018-09-05",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/10/batman-54.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/914/",
+  "fetched_at": "2026-05-17T20:24:56.350Z",
+  "reviewed_at": null
+}

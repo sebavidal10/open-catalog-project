@@ -1,0 +1,31 @@
+{
+  "title": "The High and the Mighty",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "03 Jul 1954",
+  "runtime": "147 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "William A. Wellman",
+  "writer": "Ernest K. Gann",
+  "actors": "John Wayne, Claire Trevor, Laraine Day",
+  "plot": "When a commercial airliner develops engine problems on a trans-Pacific flight and the pilot loses his nerve, it is up to the washed-up co-pilot Dan Roman to bring the plane in safely.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 5 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODQ2ZmMwYzItNGFjZC00ZmVmLWJkODYtYmEwYTAwNDY5NGZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "46%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0047086",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:24:02.933Z"
+}

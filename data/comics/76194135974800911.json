@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194135974800911",
+  "title": "Batman and the Outsiders #9",
+  "authors": [
+    "Ben Abernathy",
+    "Bryan Hill",
+    "Chris Burnham",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "Dexter Soy",
+    "Nathan Fairbairn",
+    "Nei Ruffino",
+    "Tyler Kirkham",
+    "Veronica Gandini"
+  ],
+  "publish_date": "2020-01-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/01/03/batman-outsiders-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8389/",
+  "fetched_at": "2026-05-17T20:34:49.624Z",
+  "reviewed_at": null
+}

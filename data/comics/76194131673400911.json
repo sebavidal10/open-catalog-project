@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194131673400911",
+  "title": "Batman '66 #9",
+  "authors": [
+    "Aniz Ansari",
+    "Chris Sprouse",
+    "Craig Rousseau",
+    "Jeff Parker",
+    "Jim Chadwick",
+    "Laura Allred",
+    "Mike Allred",
+    "Tony Aviña",
+    "Wes Abbott"
+  ],
+  "publish_date": "2014-03-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/f734db92c62b44f3a65db17995017f9a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145763/",
+  "fetched_at": "2026-05-15T21:33:51.147Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194131790802411",
+  "title": "Batman '66 #24",
+  "authors": [
+    "Jim Chadwick",
+    "Jon Bogdanove",
+    "Laura Allred",
+    "Mike Allred",
+    "Omar Estévez",
+    "Ray Fawkes",
+    "Roberto M. Flores",
+    "Wes Abbott"
+  ],
+  "publish_date": "2015-06-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/105413212e514bccbf1081f6a0983e48.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145778/",
+  "fetched_at": "2026-05-15T21:46:54.078Z",
+  "reviewed_at": null
+}

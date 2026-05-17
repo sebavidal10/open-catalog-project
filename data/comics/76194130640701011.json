@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194130640701011",
+  "title": "Batman #10",
+  "authors": [
+    "Dave McCaig",
+    "Dezi Sienty",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "James Tynion IV",
+    "Jimmy Betancourt",
+    "Jonathan Glapion",
+    "Katie Kubert",
+    "Mike Marts",
+    "Rafael Albuquerque",
+    "Richard Starkings",
+    "Scott Snyder"
+  ],
+  "publish_date": "2012-06-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6807/",
+  "fetched_at": "2026-05-15T21:19:55.761Z",
+  "reviewed_at": null
+}

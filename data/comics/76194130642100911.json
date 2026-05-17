@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130642100911",
+  "title": "Batman Incorporated #9",
+  "authors": [
+    "Brian Miller",
+    "Chris Burnham",
+    "Darren Shan",
+    "Dave Sharpe",
+    "Grant Morrison",
+    "Jason Masters",
+    "Mike Marts",
+    "Nathan Fairbairn"
+  ],
+  "publish_date": "2013-03-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/13/batman-incorporated-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41847/",
+  "fetched_at": "2026-05-15T21:24:44.463Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "title": "It Should Happen to You",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "01 Mar 1954",
+  "runtime": "86 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "George Cukor",
+  "writer": "Garson Kanin",
+  "actors": "Judy Holliday, Jack Lemmon, Peter Lawford",
+  "plot": "When a young woman with dreams of fame rents a billboard to advertise herself, her life changes overnight.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDgwOTk5YTktMDk2ZS00NGIxLTg0ZDMtOWEyMzNmZjdjYTAyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0047123",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:24:49.799Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130203400311",
+  "title": "Batman Beyond #3",
+  "authors": [
+    "Adam Beechen",
+    "Chris Conroy",
+    "David Baron",
+    "Dustin Nguyen",
+    "John Stanisci",
+    "Ryan Benjamin",
+    "Steve Wands"
+  ],
+  "publish_date": "2011-03-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/8db87bd35fba4ff883d1cd006210ec41.png",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118078/",
+  "fetched_at": "2026-05-15T21:12:16.788Z",
+  "reviewed_at": null
+}

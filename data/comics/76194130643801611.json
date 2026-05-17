@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194130643801611",
+  "title": "Batman: The Dark Knight #16",
+  "authors": [
+    "Brian Miller",
+    "Dezi Sienty",
+    "Ethan Van Sciver",
+    "Gregg Hurwitz",
+    "Mike Marts",
+    "Rickey Purdin"
+  ],
+  "publish_date": "2013-01-30",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/06/batman-the-dark-knight-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41549/",
+  "fetched_at": "2026-05-15T21:23:44.913Z",
+  "reviewed_at": null
+}

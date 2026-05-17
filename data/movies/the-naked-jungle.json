@@ -1,0 +1,31 @@
+{
+  "title": "The Naked Jungle",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "03 Mar 1954",
+  "runtime": "95 min",
+  "genre": "Adventure, Drama, Thriller",
+  "director": "Byron Haskin",
+  "writer": "Philip Yordan, Ranald MacDougall, Carl Stephenson",
+  "actors": "Charlton Heston, Eleanor Parker, Abraham Sofaer",
+  "plot": "The Leiningen South American cocoa plantation is threatened by a 2-mile-wide, 20-mile-long column of army ants.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmEzZDk1YjctOGVjNS00ZGY2LWI0YmUtOGFjZmRlNzc2OGMxXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0047264",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:24:05.397Z"
+}

@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194130640705011",
+  "title": "Batman #50",
+  "authors": [
+    "Alex Sinclair",
+    "Chris Daughtry",
+    "Danny Miki",
+    "Dave Johnson",
+    "Dave McCaig",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "Jim Lee",
+    "Mark Doyle",
+    "Nathan Fairbairn",
+    "Rebecca Taylor",
+    "Scott Snyder",
+    "Steve Wands",
+    "Yanick Paquette"
+  ],
+  "publish_date": "2016-03-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-v2-50.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6862/",
+  "fetched_at": "2026-05-15T21:53:06.603Z",
+  "reviewed_at": null
+}

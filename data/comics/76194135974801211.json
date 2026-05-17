@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194135974801211",
+  "title": "Batman and the Outsiders #12",
+  "authors": [
+    "Arif Prianto",
+    "Ben Abernathy",
+    "Bryan Hill",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "Dexter Soy",
+    "Michael Golden",
+    "Tyler Kirkham",
+    "Veronica Gandini"
+  ],
+  "publish_date": "2020-05-05",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/05/05/batman-outsiders-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/12232/",
+  "fetched_at": "2026-05-17T20:36:52.276Z",
+  "reviewed_at": null
+}

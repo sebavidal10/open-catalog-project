@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130642101211",
+  "title": "Batman Incorporated #12",
+  "authors": [
+    "Chris Burnham",
+    "Darren Shan",
+    "Dave Sharpe",
+    "Grant Morrison",
+    "Guillem March",
+    "Mike Marts",
+    "Nathan Fairbairn"
+  ],
+  "publish_date": "2013-07-03",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/13/batman-incorporated-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41850/",
+  "fetched_at": "2026-05-15T21:26:44.797Z",
+  "reviewed_at": null
+}

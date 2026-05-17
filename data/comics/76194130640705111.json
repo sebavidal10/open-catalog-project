@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130640705111",
+  "title": "Batman #51",
+  "authors": [
+    "Alex Sinclair",
+    "Danny Miki",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "John Romita Jr.",
+    "Klaus Janson",
+    "Mark Doyle",
+    "Rebecca Taylor",
+    "Scott Snyder",
+    "Steve Wands"
+  ],
+  "publish_date": "2016-04-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-v2-51.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6863/",
+  "fetched_at": "2026-05-15T21:54:00.985Z",
+  "reviewed_at": null
+}

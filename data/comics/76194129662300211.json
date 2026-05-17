@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194129662300211",
+  "title": "Batman: The Dark Knight #2",
+  "authors": [
+    "Alex Sinclair",
+    "Andy Clarke",
+    "Dave Sharpe",
+    "David Finch",
+    "Janelle Asselin",
+    "Katie Kubert",
+    "Mike Marts",
+    "Scott Williams"
+  ],
+  "publish_date": "2011-03-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/26/58ab39c17f974031be92c6375c87e813.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152360/",
+  "fetched_at": "2026-05-15T21:12:34.221Z",
+  "reviewed_at": null
+}

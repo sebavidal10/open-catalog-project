@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130643801911",
+  "title": "Batman: The Dark Knight #19",
+  "authors": [
+    "Brian Miller",
+    "Darren Shan",
+    "Dezi Sienty",
+    "Ethan Van Sciver",
+    "Gregg Hurwitz",
+    "Mike Marts",
+    "Szymon Kudrański"
+  ],
+  "publish_date": "2013-04-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/06/batman-the-dark-knight-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41552/",
+  "fetched_at": "2026-05-15T21:25:18.931Z",
+  "reviewed_at": null
+}

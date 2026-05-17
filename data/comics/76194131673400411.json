@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194131673400411",
+  "title": "Batman '66 #4",
+  "authors": [
+    "Aniz Ansari",
+    "Chris Sprouse",
+    "Jeff Parker",
+    "Jim Chadwick",
+    "Jonathan Case",
+    "Karl Story",
+    "Laura Allred",
+    "Mike Allred",
+    "Sandy Jarrell",
+    "Wes Abbott",
+    "Wes Hartman"
+  ],
+  "publish_date": "2013-10-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/33c812f83485407394cc6723f2fb89d6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145758/",
+  "fetched_at": "2026-05-15T21:30:10.043Z",
+  "reviewed_at": null
+}

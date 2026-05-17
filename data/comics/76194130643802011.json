@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130643802011",
+  "title": "Batman: The Dark Knight #20",
+  "authors": [
+    "Brian Miller",
+    "Darren Shan",
+    "Dezi Sienty",
+    "Ethan Van Sciver",
+    "Gregg Hurwitz",
+    "Mike Marts",
+    "Szymon Kudrański"
+  ],
+  "publish_date": "2013-05-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/06/batman-the-dark-knight-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41553/",
+  "fetched_at": "2026-05-15T21:26:08.721Z",
+  "reviewed_at": null
+}

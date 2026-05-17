@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194131673400611",
+  "title": "Batman '66 #6",
+  "authors": [
+    "Aniz Ansari",
+    "Jeff Parker",
+    "Jim Chadwick",
+    "Jonathan Case",
+    "Laura Allred",
+    "Mike Allred",
+    "Ted Naifeh",
+    "Tom Peyer",
+    "Tony Aviña",
+    "Ty Templeton",
+    "Wes Abbott"
+  ],
+  "publish_date": "2013-12-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/b884abb52f6a426eb293334c99227b08.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145760/",
+  "fetched_at": "2026-05-15T21:32:11.801Z",
+  "reviewed_at": null
+}

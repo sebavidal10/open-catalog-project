@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194133100300711",
+  "title": "Robin: Son of Batman #7",
+  "authors": [
+    "Andy Owens",
+    "Chris Sotomayor",
+    "John Kalisz",
+    "Mark Doyle",
+    "Mick Gray",
+    "Patrick Gleason",
+    "Ray Fawkes",
+    "Rebecca Taylor",
+    "Scott McDaniel",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2015-12-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/10/robin-son-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25082/",
+  "fetched_at": "2026-05-15T21:51:19.390Z",
+  "reviewed_at": null
+}

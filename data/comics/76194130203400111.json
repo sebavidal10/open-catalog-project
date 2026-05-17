@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130203400111",
+  "title": "Batman Beyond #1",
+  "authors": [
+    "Adam Beechen",
+    "Chris Conroy",
+    "Darwyn Cooke",
+    "David Baron",
+    "Dustin Nguyen",
+    "John Stanisci",
+    "Ryan Benjamin",
+    "Steve Wands"
+  ],
+  "publish_date": "2011-01-05",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/d10e3d4108e143d8bbba48722e2ff2a9.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118076/",
+  "fetched_at": "2026-05-15T21:11:00.348Z",
+  "reviewed_at": null
+}

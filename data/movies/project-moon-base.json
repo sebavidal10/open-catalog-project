@@ -1,0 +1,27 @@
+{
+  "title": "Project Moon Base",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "04 Sep 1953",
+  "runtime": "63 min",
+  "genre": "Sci-Fi",
+  "director": "Richard Talmadge",
+  "writer": "Robert A. Heinlein, Jack Seaman",
+  "actors": "Donna Martell, Hayden Rorke, Ross Ford",
+  "plot": "A saboteur posing as a scientist strives to destroy the world's first space station.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDMyNDNlNjQtYjk3NS00Y2RhLWE2MjAtZDMyNGU1ZTdmMDkwXkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "3.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "3.3",
+  "imdbID": "tt0046213",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:10:03.565Z"
+}

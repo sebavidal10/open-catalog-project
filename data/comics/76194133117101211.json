@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194133117101211",
+  "title": "Batman Beyond #12",
+  "authors": [
+    "Dan Jurgens",
+    "Dave Sharpe",
+    "Elmer Santos",
+    "Jay Leisten",
+    "Jim Chadwick",
+    "Philip Tan"
+  ],
+  "publish_date": "2016-05-04",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/07/batman-beyond-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41600/",
+  "fetched_at": "2026-05-15T21:54:41.603Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "title": "La Strada",
+  "year": "1954",
+  "rated": "Not Rated",
+  "released": "16 Jul 1956",
+  "runtime": "108 min",
+  "genre": "Drama",
+  "director": "Federico Fellini",
+  "writer": "Federico Fellini, Tullio Pinelli, Ennio Flaiano",
+  "actors": "Anthony Quinn, Giulietta Masina, Richard Basehart",
+  "plot": "A care-free girl is sold to a traveling entertainer, consequently enduring physical and emotional pain along the way.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "Won 1 Oscar. 12 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWQ0M2Q5NDAtMDg0ZC00YmM1LWI3YjktNDIxOTFiOTIzYzQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.0",
+  "imdbID": "tt0047528",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:23:45.613Z"
+}

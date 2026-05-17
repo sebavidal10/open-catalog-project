@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194130640702411",
+  "title": "Batman #24",
+  "authors": [
+    "Danny Miki",
+    "Dave McCaig",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "Guillem March",
+    "James Tynion IV",
+    "Katie Kubert",
+    "Mike Marts",
+    "Nick J. Napolitano",
+    "Rafael Albuquerque",
+    "Scott Snyder",
+    "Taylor Esposito"
+  ],
+  "publish_date": "2013-10-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-24.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6821/",
+  "fetched_at": "2026-05-15T21:30:00.322Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194131790802311",
+  "title": "Batman '66 #23",
+  "authors": [
+    "Brent Schoonover",
+    "Flavia Caracuzzo",
+    "Giancarlo Caracuzzo",
+    "Jeff Parker",
+    "Jim Chadwick",
+    "Kelly Fitzpatrick",
+    "Laura Allred",
+    "Mike Allred",
+    "Wes Abbott"
+  ],
+  "publish_date": "2015-05-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/01b2511058f445bb967035a829ea3c30.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145777/",
+  "fetched_at": "2026-05-15T21:46:22.878Z",
+  "reviewed_at": null
+}

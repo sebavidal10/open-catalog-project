@@ -1,0 +1,31 @@
+{
+  "title": "Robot Monster",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "25 Jun 1953",
+  "runtime": "66 min",
+  "genre": "Comedy, Family, Horror",
+  "director": "Phil Tucker",
+  "writer": "Wyott Ordung",
+  "actors": "George Nader, Gregory Moffett, Claudia Barrett",
+  "plot": "The monstrous Ro-Man attempts to annihilate the last family alive on Earth, but finds himself falling for their beautiful daughter.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmFhMTE1ZGYtOTdkOS00YTJmLTkzZmEtNzQ2YjM2NGVkNDljXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "3.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "3.0",
+  "imdbID": "tt0046248",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:09:48.738Z"
+}

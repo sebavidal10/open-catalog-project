@@ -1,0 +1,31 @@
+{
+  "title": "The Beast from 20,000 Fathoms",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "13 Jun 1953",
+  "runtime": "80 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Eugène Lourié",
+  "writer": "Lou Morheim, Fred Freiberger, Ray Bradbury",
+  "actors": "Paul Hubschmid, Paula Raymond, Cecil Kellaway",
+  "plot": "A ferocious dinosaur awakened by an Arctic atomic test terrorizes the North Atlantic and, ultimately, New York City.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjNkMjEzOWMtMGFhMS00ZDk1LWE3N2MtZTA1YmIzYTZjMDRmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0045546",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:09:06.658Z"
+}

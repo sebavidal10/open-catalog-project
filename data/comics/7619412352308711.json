@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "7619412352308711",
+  "title": "Superman / Batman #87",
+  "authors": [
+    "Blond",
+    "José Villarrubia",
+    "Joshua Hale Fialkov",
+    "Matt Idelson",
+    "Miguel Angel Sepulveda",
+    "Tomás Giorello",
+    "Travis Lanham",
+    "Wil Moss"
+  ],
+  "publish_date": "2011-08-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/28/896bdced5f0b44bc8becb22cf43ffd34.jpeg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152631/",
+  "fetched_at": "2026-05-15T21:15:48.418Z",
+  "reviewed_at": null
+}

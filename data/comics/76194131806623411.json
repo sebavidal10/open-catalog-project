@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194131806623411",
+  "title": "Batman #23.4",
+  "authors": [
+    "Carlos M. Mangual",
+    "Graham Nolan",
+    "Guillem March",
+    "John Kalisz",
+    "Katie Kubert",
+    "Mike Marts",
+    "Peter J. Tomasi"
+  ],
+  "publish_date": "2013-09-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-23-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6829/",
+  "fetched_at": "2026-05-15T21:28:57.724Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194131849300111",
+  "title": "Batman Eternal #1",
+  "authors": [
+    "Andy Kubert",
+    "Brad Anderson",
+    "James Tynion IV",
+    "Jason Fabok",
+    "John Layman",
+    "Jonathan Glapion",
+    "Katie Kubert",
+    "Mark Doyle",
+    "Nick J. Napolitano",
+    "Ray Fawkes",
+    "Scott Snyder",
+    "Tim Seeley",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2014-04-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/04/30/3746165-1-cc281b9cdd.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/117400/",
+  "fetched_at": "2026-05-15T21:34:59.809Z",
+  "reviewed_at": null
+}

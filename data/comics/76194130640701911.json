@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194130640701911",
+  "title": "Batman #19",
+  "authors": [
+    "Alex Maleev",
+    "Al Jaffee",
+    "Brad Anderson",
+    "Danny Miki",
+    "Dezi Sienty",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "James Tynion IV",
+    "Katie Kubert",
+    "Mike Marts",
+    "Richard Starkings",
+    "Scott Snyder"
+  ],
+  "publish_date": "2013-04-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6816/",
+  "fetched_at": "2026-05-15T21:24:58.823Z",
+  "reviewed_at": null
+}

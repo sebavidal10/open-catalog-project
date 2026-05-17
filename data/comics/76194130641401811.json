@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130641401811",
+  "title": "Batman and Robin #18",
+  "authors": [
+    "Darren Shan",
+    "John Kalisz",
+    "Mick Gray",
+    "Mike Marts",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Rachel Gluckstern",
+    "Rickey Purdin",
+    "Taylor Esposito"
+  ],
+  "publish_date": "2013-03-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/27/batman-robin-v2-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15565/",
+  "fetched_at": "2026-05-15T21:24:33.551Z",
+  "reviewed_at": null
+}

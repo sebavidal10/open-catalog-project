@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194133100300611",
+  "title": "Robin: Son of Batman #6",
+  "authors": [
+    "John Kalisz",
+    "Mark Doyle",
+    "Mick Gray",
+    "Patrick Gleason",
+    "Rebecca Taylor",
+    "Spike Brandt",
+    "Tom Napolitano",
+    "Tom Nguyen"
+  ],
+  "publish_date": "2015-11-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/10/robin-son-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/25081/",
+  "fetched_at": "2026-05-15T21:50:23.170Z",
+  "reviewed_at": null
+}

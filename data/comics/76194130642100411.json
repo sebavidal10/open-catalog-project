@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130642100411",
+  "title": "Batman Incorporated #4",
+  "authors": [
+    "Andy Clarke",
+    "Brian Smith",
+    "Chris Burnham",
+    "Dave Sharpe",
+    "Grant Morrison",
+    "Mike Marts",
+    "Nathan Fairbairn",
+    "Rickey Purdin"
+  ],
+  "publish_date": "2012-10-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/13/batman-incorporated-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41842/",
+  "fetched_at": "2026-05-15T21:22:12.217Z",
+  "reviewed_at": null
+}

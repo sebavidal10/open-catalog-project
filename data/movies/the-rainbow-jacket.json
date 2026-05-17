@@ -1,0 +1,27 @@
+{
+  "title": "The Rainbow Jacket",
+  "year": "1954",
+  "rated": "Not Rated",
+  "released": "27 May 1954",
+  "runtime": "99 min",
+  "genre": "Drama, Sport",
+  "director": "Basil Dearden",
+  "writer": "T.E.B. Clarke",
+  "actors": "Robert Morley, Kay Walsh, Edward Underdown",
+  "plot": "A champion jockey is banned from racing so spends his time helping a young lad to become the next champion.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjVhOWE0ODctMWI2Ny00MDFjLWE5MjktYTEyZDQ2NGRmNmMwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0047390",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:30:52.425Z"
+}

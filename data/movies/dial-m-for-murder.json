@@ -1,0 +1,35 @@
+{
+  "title": "Dial M for Murder",
+  "year": "1954",
+  "rated": "PG",
+  "released": "29 May 1954",
+  "runtime": "105 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Alfred Hitchcock",
+  "writer": "Frederick Knott",
+  "actors": "Ray Milland, Grace Kelly, Robert Cummings",
+  "plot": "A London playboy plots the perfect murder of his rich, unfaithful wife.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 BAFTA Award. 5 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmYzNDgzYjgtNmU3Ny00YzUxLWE3OWUtMjIxZmNkYTVhNDZmXkEyXkFqcGc@._V1_QL75_UY562_CR18,0,380,562_.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "8.1",
+  "imdbID": "tt0046912",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:23:32.004Z"
+}

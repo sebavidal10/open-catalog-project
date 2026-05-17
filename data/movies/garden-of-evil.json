@@ -1,0 +1,31 @@
+{
+  "title": "Garden of Evil",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "23 Jul 1954",
+  "runtime": "100 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Henry Hathaway",
+  "writer": "Frank Fenton, Fred Freiberger, William Tunberg",
+  "actors": "Gary Cooper, Susan Hayward, Richard Widmark",
+  "plot": "A trio of American adventurers marooned in rural Mexico are recruited by a beautiful woman to rescue her husband trapped in a cave in Apache territory.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmExYjExMGUtZWY0OC00NGMyLTliMzgtMzc4MDZhMzI1OWY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0047013",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:24:58.450Z"
+}

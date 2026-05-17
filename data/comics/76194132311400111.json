@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194132311400111",
+  "title": "Batman '66: The Lost Episode #1",
+  "authors": [
+    "Alex Ross",
+    "Alex Sinclair",
+    "Aniz Ansari",
+    "Harlan Ellison",
+    "Jim Chadwick",
+    "Joe Prado",
+    "José Luis García-López",
+    "Len Wein",
+    "Wes Abbott"
+  ],
+  "publish_date": "2014-11-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/11/3cf0b88cb3364cf6bc3058828b9016f6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145915/",
+  "fetched_at": "2026-05-15T21:41:55.732Z",
+  "reviewed_at": null
+}

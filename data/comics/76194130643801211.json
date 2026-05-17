@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130643801211",
+  "title": "Batman: The Dark Knight #12",
+  "authors": [
+    "Carlos M. Mangual",
+    "David Finch",
+    "Gregg Hurwitz",
+    "Mike Marts",
+    "Richard Friend",
+    "Rickey Purdin",
+    "Sonia Oback"
+  ],
+  "publish_date": "2012-08-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/06/batman-the-dark-knight-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41545/",
+  "fetched_at": "2026-05-15T21:21:18.053Z",
+  "reviewed_at": null
+}

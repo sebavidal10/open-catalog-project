@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194131045900311",
+  "title": "Batman Annual #3",
+  "authors": [
+    "James Tynion IV",
+    "Mark Doyle",
+    "Matt Humphreys",
+    "Nick Filardi",
+    "Rafael Albuquerque",
+    "Rogê Antônio",
+    "Steve Wands"
+  ],
+  "publish_date": "2014-12-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/24/batman-annual-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6865/",
+  "fetched_at": "2026-05-15T21:42:48.441Z",
+  "reviewed_at": null
+}

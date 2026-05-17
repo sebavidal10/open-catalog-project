@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194135974800811",
+  "title": "Batman and the Outsiders #8",
+  "authors": [
+    "Ben Abernathy",
+    "Bryan Hill",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "Dexter Soy",
+    "Kevin Nowlan",
+    "Nei Ruffino",
+    "Tyler Kirkham",
+    "Veronica Gandini"
+  ],
+  "publish_date": "2019-12-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/05/batman-outsiders-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7872/",
+  "fetched_at": "2026-05-17T20:34:10.078Z",
+  "reviewed_at": null
+}

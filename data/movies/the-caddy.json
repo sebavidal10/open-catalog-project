@@ -1,0 +1,35 @@
+{
+  "title": "The Caddy",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "10 Aug 1953",
+  "runtime": "95 min",
+  "genre": "Comedy, Musical, Sport",
+  "director": "Norman Taurog",
+  "writer": "Edmund L. Hartmann, Danny Arnold, Ken Englund",
+  "actors": "Dean Martin, Jerry Lewis, Donna Reed",
+  "plot": "Although gifted golfer Harvey Miller is too nervous to golf in public tournaments, he acts as coach and caddy for friend Joe Anthony.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMThhMjUyZmMtYmE5ZS00MDNhLWFiMDktM2ZhY2YyMzJlNmM4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "6.4",
+  "imdbID": "tt0045589",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:10:46.902Z"
+}

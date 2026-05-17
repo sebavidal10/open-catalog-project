@@ -1,0 +1,31 @@
+{
+  "title": "Apache",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "30 Aug 1954",
+  "runtime": "91 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Robert Aldrich",
+  "writer": "James R. Webb, Paul Wellman",
+  "actors": "Burt Lancaster, Jean Peters, John McIntire",
+  "plot": "Refusing to let himself be re-settled on a Florida reservation, Massai, an Apache warrior, escapes his captors and returns to his homeland to become a peaceful farmer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTE3Y2YwMGItYzQ2Yi00MWZkLWIwMmEtMGFhNDkzYjJhN2VkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0046719",
+  "type": "movie",
+  "fetched_at": "2026-05-17T20:24:39.920Z"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194127973201911",
+  "title": "Batman and Robin #19",
+  "authors": [
+    "Alex Sinclair",
+    "Gene Ha",
+    "Janelle Asselin",
+    "Mark Irwin",
+    "Mike Marts",
+    "Pat Brosseau",
+    "Patrick Gleason",
+    "Paul Cornell",
+    "Rob Hunter",
+    "Scott McDaniel"
+  ],
+  "publish_date": "2011-01-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/30/batman-robin-v1-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19915/",
+  "fetched_at": "2026-05-15T21:10:55.953Z",
+  "reviewed_at": null
+}

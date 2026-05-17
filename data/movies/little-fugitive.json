@@ -1,0 +1,35 @@
+{
+  "title": "Little Fugitive",
+  "year": "1953",
+  "rated": "Not Rated",
+  "released": "16 Dec 1953",
+  "runtime": "75 min",
+  "genre": "Drama, Family",
+  "director": "Ray Ashley, Morris Engel, Ruth Orkin",
+  "writer": "Ray Ashley, Morris Engel, Ruth Orkin",
+  "actors": "Richard Brewster, Winifred Cushing, Jay Williams",
+  "plot": "A young boy fears that he shot his older brother, who is only faking. He then runs away to Coney Island, a crowded beach area, and gets money by returning soda bottles for their deposits.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 4 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjk0ZDdjYzEtOWNjYS00ZmE3LWJiZDktYWVkM2I0MzU1MzAzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "metascore": "91",
+  "imdbRating": "7.5",
+  "imdbID": "tt0046004",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:08:18.403Z"
+}

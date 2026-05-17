@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194125326805211",
+  "title": "Batman Confidential #52",
+  "authors": [
+    "David Baron",
+    "Jerry Bingham",
+    "Ken Lopez",
+    "Marc Guggenheim",
+    "Mike Carlin",
+    "Rachel Gluckstern",
+    "Tom Palmer Jr."
+  ],
+  "publish_date": "2011-01-05",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/10/batman-confidential-52.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34064/",
+  "fetched_at": "2026-05-15T21:11:06.076Z",
+  "reviewed_at": null
+}

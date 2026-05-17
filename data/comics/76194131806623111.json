@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194131806623111",
+  "title": "Batman #23.1",
+  "authors": [
+    "Andy Clarke",
+    "Andy Kubert",
+    "Blond",
+    "Jared K. Fletcher",
+    "Jason Fabok",
+    "Katie Kubert",
+    "Mike Marts",
+    "Nathan Fairbairn"
+  ],
+  "publish_date": "2013-09-04",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/22/batman-v2-23-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6826/",
+  "fetched_at": "2026-05-15T21:28:45.766Z",
+  "reviewed_at": null
+}

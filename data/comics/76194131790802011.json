@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": "76194131790802011",
+  "title": "Batman '66 #20",
+  "authors": [
+    "Jordie Bellaire",
+    "Mike Allred",
+    "Rob Williams",
+    "Ruben Procopio"
+  ],
+  "publish_date": "2015-02-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/10/d97c2501bc1c4490adac8a6019cf9ce7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145774/",
+  "fetched_at": "2026-05-15T21:44:21.480Z",
+  "reviewed_at": null
+}

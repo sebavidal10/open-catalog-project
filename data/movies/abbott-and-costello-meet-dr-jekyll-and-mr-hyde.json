@@ -1,0 +1,31 @@
+{
+  "title": "Abbott and Costello Meet Dr. Jekyll and Mr. Hyde",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "01 Aug 1953",
+  "runtime": "76 min",
+  "genre": "Comedy, Horror, Mystery",
+  "director": "Charles Lamont",
+  "writer": "Lee Loeb, John Grant, Sid Fields",
+  "actors": "Bud Abbott, Lou Costello, Boris Karloff",
+  "plot": "Two bumbling American cops hunt for the mysterious Mr. Hyde in London, England.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWI2Y2ViOWMtMDU1ZC00YjJkLWFlMTQtNDUxZjc5MzI4NWVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0045469",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:11:04.252Z"
+}

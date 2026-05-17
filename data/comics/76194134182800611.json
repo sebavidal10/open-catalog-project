@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194134182800611",
+  "title": "Batman #6",
+  "authors": [
+    "Danny Miki",
+    "David Finch",
+    "Deron Bennett",
+    "Ivan Reis",
+    "Joe Prado",
+    "Jordie Bellaire",
+    "Marcelo Maiolo",
+    "Mark Doyle",
+    "Oclair Albert",
+    "Rebecca Taylor",
+    "Scott Hanna",
+    "Tim Sale",
+    "Tom King"
+  ],
+  "publish_date": "2016-09-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/06/batman-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/848/",
+  "fetched_at": "2026-05-15T21:56:30.338Z",
+  "reviewed_at": null
+}

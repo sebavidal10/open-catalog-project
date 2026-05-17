@@ -1,0 +1,31 @@
+{
+  "title": "Terminal Station",
+  "year": "1953",
+  "rated": "Approved",
+  "released": "24 Apr 1954",
+  "runtime": "63 min",
+  "genre": "Drama, Romance",
+  "director": "Vittorio De Sica",
+  "writer": "Cesare Zavattini, Luigi Chiarini, Giorgio Prosperi",
+  "actors": "Jennifer Jones, Montgomery Clift, Gino Cervi",
+  "plot": "Prior to leaving by train for Paris, a married American woman tries to break off her affair with a young Italian in Rome's Stazione Termini.",
+  "language": "Italian, English",
+  "country": "Italy, United States",
+  "awards": "Nominated for 1 Oscar. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTA5MDVmZDUtZjA0NC00MmI2LThhOTAtZDIyNTllNTU5OGIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0046366",
+  "type": "movie",
+  "fetched_at": "2026-05-15T21:10:06.044Z"
+}

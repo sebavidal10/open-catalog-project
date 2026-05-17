@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134182803511",
+  "title": "Batman #35",
+  "authors": [
+    "Clayton Cowles",
+    "Jamie S. Rich",
+    "Joëlle Jones",
+    "Jordie Bellaire",
+    "Maggie Howell",
+    "Tomeu Morey",
+    "Tom King",
+    "Tony Daniel"
+  ],
+  "publish_date": "2018-11-15",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/08/batman-35.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/877/",
+  "fetched_at": "2026-05-15T22:05:08.856Z",
+  "reviewed_at": "2018-11-01"
+}
