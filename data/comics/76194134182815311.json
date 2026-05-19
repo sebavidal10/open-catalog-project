@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "76194134182815311",
+  "title": "Batman #153",
+  "authors": [
+    "Alejandro Sánchez",
+    "Chip Zdarsky",
+    "Clayton Cowles",
+    "Daniel Sampere",
+    "David Nakayama",
+    "Jeremy Clark",
+    "Jessica Berbey",
+    "Jim Lee",
+    "Jorge Jiménez",
+    "José Villarrubia",
+    "Kelley Jones",
+    "Laura Martin",
+    "Marco Mastrazzo",
+    "Marie Javins",
+    "Rob Levin",
+    "Tomeu Morey",
+    "Tony Harris",
+    "Walter Simonson"
+  ],
+  "publish_date": "2024-10-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/09/05/c051a5dddfab43e3a13c4af556bc9af4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/127210/",
+  "fetched_at": "2026-05-19T02:43:17.930Z",
+  "reviewed_at": null
+}

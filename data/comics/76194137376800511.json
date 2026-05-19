@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194137376800511",
+  "title": "I Am Batman #5",
+  "authors": [
+    "Ben Abernathy",
+    "Christian Duce",
+    "Dave Wielgosz",
+    "Francesco Mattina",
+    "Jim Lee",
+    "John Ridley",
+    "Juan Fernandez",
+    "Juan Ferreyra",
+    "Ken Lashley",
+    "Laura Braga",
+    "Marie Javins",
+    "Nikola Čižmešija",
+    "Rex Lokus",
+    "Troy Peteri"
+  ],
+  "publish_date": "2022-01-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/03/i-am-batman-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42696/",
+  "fetched_at": "2026-05-19T02:18:40.076Z",
+  "reviewed_at": null
+}

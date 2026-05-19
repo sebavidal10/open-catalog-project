@@ -1,0 +1,40 @@
+{
+  "isbn": null,
+  "upc": "76194137236500811",
+  "title": "Batman: Urban Legends #8",
+  "authors": [
+    "Alejandro Sánchez",
+    "Alyssa Wong",
+    "Ariana Maher",
+    "Becca Carey",
+    "Ben Meares",
+    "Brandon Thomas",
+    "Christian Ward",
+    "Cian Tormey",
+    "Colleen Doran",
+    "Dan Watters",
+    "Darran Robinson",
+    "Dave Wielgosz",
+    "Ivan Plascencia",
+    "Jessica Chen",
+    "Jim Lee",
+    "Khary Randolph",
+    "Marie Javins",
+    "Nikola Čižmešija",
+    "Rain Beredo",
+    "Raúl Fernández",
+    "Riccardo Federici",
+    "Steve Wands",
+    "Vasco Georgiev"
+  ],
+  "publish_date": "2021-10-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/04/batman-urban-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39175/",
+  "fetched_at": "2026-05-19T02:15:58.573Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "76194137376800111",
+  "title": "I Am Batman #1",
+  "authors": [
+    "Alex Sinclair",
+    "Ben Abernathy",
+    "Dave McCaig",
+    "Dave Wielgosz",
+    "Francesco Mattina",
+    "Gabriele Dell'Otto",
+    "Greg Capullo",
+    "Jim Lee",
+    "John Ridley",
+    "Jonathan Glapion",
+    "Kael Ngu",
+    "Marie Javins",
+    "Olivier Coipel",
+    "Romulo Fajardo Jr.",
+    "Troy Peteri"
+  ],
+  "publish_date": "2021-09-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/11/i-am-batman-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/38033/",
+  "fetched_at": "2026-05-19T02:14:58.174Z",
+  "reviewed_at": null
+}

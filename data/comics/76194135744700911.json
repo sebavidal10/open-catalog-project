@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194135744700911",
+  "title": "Superman #9",
+  "authors": [
+    "Alex Sinclair",
+    "Brandon Peterson",
+    "Brian Cunningham",
+    "Brian Michael Bendis",
+    "Ivan Reis",
+    "Jessica Chen",
+    "Joe Prado",
+    "Joshua Reed",
+    "Mike Cotton",
+    "Oclair Albert",
+    "Rob Liefeld"
+  ],
+  "publish_date": "2019-03-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/03/11/superman-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1509/",
+  "fetched_at": "2026-05-19T03:02:51.795Z",
+  "reviewed_at": null
+}

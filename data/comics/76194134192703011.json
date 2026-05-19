@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "76194134192703011",
+  "title": "Superman #30",
+  "authors": [
+    "Alejandro Sánchez",
+    "Dinei Ribeiro",
+    "Doug Mahnke",
+    "Ed Benes",
+    "Eddie Berganza",
+    "Jaime Mendoza",
+    "Jessica Chen",
+    "Jorge Jiménez",
+    "Keith Champagne",
+    "Philip Tan",
+    "Rob Leigh",
+    "Sunny Gho",
+    "Tomeu Morey",
+    "Tyler Kirkham",
+    "Wil Quintana"
+  ],
+  "publish_date": "2017-09-06",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/13/superman-v4-30.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8134/",
+  "fetched_at": "2026-05-19T02:58:35.024Z",
+  "reviewed_at": null
+}

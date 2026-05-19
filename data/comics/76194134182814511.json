@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "76194134182814511",
+  "title": "Batman #145",
+  "authors": [
+    "Alex Sinclair",
+    "Ben Abernathy",
+    "Bruno Redondo",
+    "Chip Zdarsky",
+    "Clayton Cowles",
+    "James Stokoe",
+    "Jim Lee",
+    "Jorge Jiménez",
+    "Katie Kubert",
+    "Lee Loughridge",
+    "Marie Javins",
+    "Matteo Scalera",
+    "Michele Bandini",
+    "Tomeu Morey",
+    "Yasmine Putri"
+  ],
+  "publish_date": "2024-03-05",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/02/23/a446757a007e4cbba10225a948fed621.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/111940/",
+  "fetched_at": "2026-05-19T02:38:21.796Z",
+  "reviewed_at": null
+}

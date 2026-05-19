@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194135744700511",
+  "title": "Superman #5",
+  "authors": [
+    "Adam Hughes",
+    "Alex Sinclair",
+    "Brian Cunningham",
+    "Brian Michael Bendis",
+    "Ivan Reis",
+    "Jessica Chen",
+    "Joe Prado",
+    "Joshua Reed",
+    "Mike Cotton",
+    "Oclair Albert"
+  ],
+  "publish_date": "2018-11-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2018/11/14/superman-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34/",
+  "fetched_at": "2026-05-19T03:02:16.760Z",
+  "reviewed_at": null
+}

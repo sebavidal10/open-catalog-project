@@ -1,0 +1,27 @@
+{
+  "title": "The Americano",
+  "year": "1955",
+  "rated": "Not Rated",
+  "released": "29 Jan 1955",
+  "runtime": "85 min",
+  "genre": "Adventure, Drama, Western",
+  "director": "William Castle",
+  "writer": "Leslie T. White, Guy Trosper",
+  "actors": "Glenn Ford, Frank Lovejoy, Cesar Romero",
+  "plot": "An American working on a ranch in the Amazon comes up against a gang of Brazilian bandits.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzIyOTM2Y2ItZmMyNi00MjA1LWI2NzktYWNkM2Y4ZGYxODY5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0047820",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:13:13.873Z"
+}

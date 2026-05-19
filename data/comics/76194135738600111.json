@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194135738600111",
+  "title": "Superman's Pal, Jimmy Olsen #1",
+  "authors": [
+    "Ben Oliver",
+    "Brian Cunningham",
+    "Clayton Cowles",
+    "Jessica Chen",
+    "Matt Fraction",
+    "Nathan Fairbairn",
+    "Steve Lieber"
+  ],
+  "publish_date": "2019-07-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/13/jimmy-olsen-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3713/",
+  "fetched_at": "2026-05-19T03:03:41.254Z",
+  "reviewed_at": null
+}

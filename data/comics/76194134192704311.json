@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134192704311",
+  "title": "Superman #43",
+  "authors": [
+    "Alejandro Sánchez",
+    "Jessica Chen",
+    "Joe Prado",
+    "Jonboy Meyers",
+    "Patrick Gleason",
+    "Paul Kaminski",
+    "Peter J. Tomasi",
+    "Rob Leigh",
+    "Steve Downer"
+  ],
+  "publish_date": "2018-03-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/14/superman-v4-43.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8147/",
+  "fetched_at": "2026-05-19T03:01:02.824Z",
+  "reviewed_at": null
+}

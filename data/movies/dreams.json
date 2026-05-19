@@ -1,0 +1,31 @@
+{
+  "title": "Dreams",
+  "year": "1955",
+  "rated": "Not Rated",
+  "released": "31 May 1960",
+  "runtime": "87 min",
+  "genre": "Drama",
+  "director": "Ingmar Bergman",
+  "writer": "Ingmar Bergman",
+  "actors": "Eva Dahlbeck, Harriet Andersson, Gunnar Björnstrand",
+  "plot": "Two different women - a young photo model and her boss - dream about a happy life with beloved men. Their dreams are as different as they are.",
+  "language": "Swedish",
+  "country": "Sweden",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDkxODZjN2EtODUxZS00ZjMwLWFhMTctOWE5ZjcwNDQwYTA0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0048272",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:13:55.056Z"
+}

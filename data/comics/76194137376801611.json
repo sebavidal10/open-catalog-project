@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194137376801611",
+  "title": "I Am Batman #16",
+  "authors": [
+    "Ben Abernathy",
+    "Christian Duce",
+    "Cully Hamner",
+    "Dave Wielgosz",
+    "Jesús Merino",
+    "Jim Lee",
+    "John Ridley",
+    "Marie Javins",
+    "Rex Lokus",
+    "Romulo Fajardo Jr.",
+    "Troy Peteri"
+  ],
+  "publish_date": "2022-12-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/11/28/i-batman-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/53400/",
+  "fetched_at": "2026-05-19T02:28:15.965Z",
+  "reviewed_at": null
+}

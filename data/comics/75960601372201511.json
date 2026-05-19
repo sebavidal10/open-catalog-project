@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "75960601372201511",
+  "title": "Spider-Man Unlimited #15",
+  "authors": [
+    "Joe Bennett",
+    "Ralph Macchio",
+    "Tim Dzon",
+    "Tom DeFalco",
+    "Tony Daniel"
+  ],
+  "publish_date": "1997-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/04/b0f0270341e84e15925471442f3729f5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130729/",
+  "fetched_at": "2026-05-19T03:30:34.139Z",
+  "reviewed_at": "1997-02-01"
+}

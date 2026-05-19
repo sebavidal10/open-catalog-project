@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194135744701911",
+  "title": "Superman #19",
+  "authors": [
+    "Alex Sinclair",
+    "AndWorld Design",
+    "Brian Michael Bendis",
+    "Brittany Holzherr",
+    "Bryan Hitch",
+    "Danny Miki",
+    "Ivan Reis",
+    "Jamie S. Rich",
+    "Joe Prado",
+    "Júlio Ferreira",
+    "Oclair Albert"
+  ],
+  "publish_date": "2020-01-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/01/16/superman-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8709/",
+  "fetched_at": "2026-05-19T03:05:44.532Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194135744702911",
+  "title": "Superman #29",
+  "authors": [
+    "Brian Miller",
+    "Dave Sharpe",
+    "Diego Lopez",
+    "Eric Gapstur",
+    "Gabe Eltaeb",
+    "Jamie S. Rich",
+    "Jim Lee",
+    "John Timms",
+    "Marie Javins",
+    "Phil Hester",
+    "Phillip Kennedy Johnson",
+    "Sami Basri",
+    "Sean Lewis",
+    "Ulises Arreola"
+  ],
+  "publish_date": "2021-03-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/04/superman-29.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/26574/",
+  "fetched_at": "2026-05-19T03:10:16.927Z",
+  "reviewed_at": null
+}

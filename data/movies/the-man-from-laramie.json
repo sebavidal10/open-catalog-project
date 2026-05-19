@@ -1,0 +1,31 @@
+{
+  "title": "The Man from Laramie",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "31 Aug 1955",
+  "runtime": "103 min",
+  "genre": "Drama, Western",
+  "director": "Anthony Mann",
+  "writer": "Philip Yordan, Frank Burt, Thomas T. Flynn",
+  "actors": "James Stewart, Arthur Kennedy, Donald Crisp",
+  "plot": "Newcomer Will Lockhart defies the local cattle baron and his sadistic son by working for one of his oldest rivals.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzU1Mzk1Y2QtNmQxNi00ZDA4LTljMjUtZTFlMDlhNjdjYWIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0048342",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:09:38.797Z"
+}

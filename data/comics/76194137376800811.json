@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194137376800811",
+  "title": "I Am Batman #8",
+  "authors": [
+    "Alex Sinclair",
+    "Ben Abernathy",
+    "Christian Duce",
+    "Dave Wielgosz",
+    "Jim Lee",
+    "John Ridley",
+    "Marie Javins",
+    "Mateus Manhanini",
+    "Olivier Coipel",
+    "Rex Lokus",
+    "Stephen Segovia",
+    "Troy Peteri"
+  ],
+  "publish_date": "2022-04-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/03/18/i-am-batman-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/45093/",
+  "fetched_at": "2026-05-19T02:20:59.341Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "76194134192703811",
+  "title": "Superman #38",
+  "authors": [
+    "Alex Antone",
+    "Brian Cunningham",
+    "Brian Miller",
+    "Brittany Holzherr",
+    "Gabe Eltaeb",
+    "Ivan Reis",
+    "Jessica Chen",
+    "Jonboy Meyers",
+    "Oclair Albert",
+    "Patrick Gleason",
+    "Paul Kaminski",
+    "Peter J. Tomasi",
+    "Rob Leigh",
+    "Sergio Fernandez Davila",
+    "Vicente Cifuentes"
+  ],
+  "publish_date": "2018-01-03",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/14/superman-v4-38.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8142/",
+  "fetched_at": "2026-05-19T02:59:26.015Z",
+  "reviewed_at": null
+}

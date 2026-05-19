@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194137142900211",
+  "title": "Robin & Batman #2",
+  "authors": [
+    "Ben Abernathy",
+    "Dustin Nguyen",
+    "Jeff Lemire",
+    "Jim Lee",
+    "Jordie Bellaire",
+    "Marie Javins",
+    "Rafael Albuquerque",
+    "Steve Wands"
+  ],
+  "publish_date": "2021-12-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/01/robin-batman-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41312/",
+  "fetched_at": "2026-05-19T02:18:03.682Z",
+  "reviewed_at": null
+}

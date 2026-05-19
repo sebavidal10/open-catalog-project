@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194134192702911",
+  "title": "Superman #29",
+  "authors": [
+    "Doug Mahnke",
+    "Eddie Berganza",
+    "Jaime Mendoza",
+    "Jessica Chen",
+    "Jorge Jiménez",
+    "Keith Champagne",
+    "Rob Hunter",
+    "Rob Leigh",
+    "Ryan Sook",
+    "Scott Hanna",
+    "Tony Aviña",
+    "Wil Quintana"
+  ],
+  "publish_date": "2017-08-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/13/superman-v4-29.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8133/",
+  "fetched_at": "2026-05-19T02:58:26.123Z",
+  "reviewed_at": null
+}

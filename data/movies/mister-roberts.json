@@ -1,0 +1,35 @@
+{
+  "title": "Mister Roberts",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "30 Jul 1955",
+  "runtime": "123 min",
+  "genre": "Comedy, Drama, War",
+  "director": "John Ford, Mervyn LeRoy, Joshua Logan",
+  "writer": "Frank S. Nugent, Joshua Logan, Thomas Heggen",
+  "actors": "Henry Fonda, James Cagney, William Powell",
+  "plot": "In the waning days of World War II, the cargo officer of a Navy supply ship chafes at its role far from the action in the Pacific's backwater areas, his frustration rising when its captain denies the crew liberty over petty irrita...",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 4 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzYyNTU2NDUtOGMyZi00N2Q1LTk4N2QtN2ZkNWIyZTkxMzRkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "metascore": "72",
+  "imdbRating": "7.6",
+  "imdbID": "tt0048380",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:08:59.223Z"
+}

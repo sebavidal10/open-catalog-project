@@ -1,0 +1,27 @@
+{
+  "title": "Apache Woman",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "15 Sep 1955",
+  "runtime": "83 min",
+  "genre": "Western",
+  "director": "Roger Corman",
+  "writer": "Lou Rusoff",
+  "actors": "Lloyd Bridges, Joan Taylor, Lance Fuller",
+  "plot": "A government agent is sent to a western town to investigate attacks that the townspeople say are being commited by rampaging Apaches. The agent, however, suspects that different forces may be committing these crimes.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTdlZTRiNzYtYjE5NS00Y2I3LTk2ZWQtZDM4NGJjNWE2NWFhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.7",
+  "imdbID": "tt0047837",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:14:54.726Z"
+}

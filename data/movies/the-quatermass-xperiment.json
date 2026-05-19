@@ -1,0 +1,31 @@
+{
+  "title": "The Quatermass Xperiment",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "26 Apr 1956",
+  "runtime": "78 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Val Guest",
+  "writer": "Richard H. Landau, Val Guest, Nigel Kneale",
+  "actors": "Brian Donlevy, Jack Warner, Richard Wordsworth",
+  "plot": "Professor Bernard Quatermass' manned rocket ship returns to Earth, but two of the astronauts are missing and the survivor seems ill and unable to communicate.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDk4MGZmMTQtYWQ2Ni00NWY0LWE3N2UtYzk3ODVhYmNjMDU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0049646",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:09:22.738Z"
+}

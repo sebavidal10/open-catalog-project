@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194137376801011",
+  "title": "I Am Batman #10",
+  "authors": [
+    "Ben Abernathy",
+    "Christian Duce",
+    "Dave Wielgosz",
+    "Jim Lee",
+    "John Ridley",
+    "Marie Javins",
+    "Mateus Manhanini",
+    "Rex Lokus",
+    "Taurin Clarke",
+    "Troy Peteri"
+  ],
+  "publish_date": "2022-06-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/17/i-batman-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/48088/",
+  "fetched_at": "2026-05-19T02:22:48.107Z",
+  "reviewed_at": null
+}

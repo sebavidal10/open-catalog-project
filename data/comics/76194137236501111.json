@@ -1,0 +1,39 @@
+{
+  "isbn": null,
+  "upc": "76194137236501111",
+  "title": "Batman: Urban Legends #11",
+  "authors": [
+    "Aditya Bidikar",
+    "Anand Radhakrishnan",
+    "Arist Deyn",
+    "Ben Abernathy",
+    "Darran Robinson",
+    "Dave Wielgosz",
+    "Jessica Berbey",
+    "Jessica Chen",
+    "Jim Lee",
+    "John J. Pearson",
+    "Jorge Molina",
+    "Karl Mostert",
+    "Marie Javins",
+    "Mark Russell",
+    "Mohale Mashigo",
+    "Nick Filardi",
+    "Nikola Čižmešija",
+    "Ram V",
+    "Saida Temofonte",
+    "Steve Wands",
+    "Trish Mulvihill",
+    "Vita Ayala"
+  ],
+  "publish_date": "2022-01-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/03/batman-urban-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42694/",
+  "fetched_at": "2026-05-19T02:18:32.026Z",
+  "reviewed_at": null
+}

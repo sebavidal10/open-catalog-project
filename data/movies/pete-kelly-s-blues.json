@@ -1,0 +1,31 @@
+{
+  "title": "Pete Kelly's Blues",
+  "year": "1955",
+  "rated": "Not Rated",
+  "released": "31 Jul 1955",
+  "runtime": "95 min",
+  "genre": "Crime, Drama, Music",
+  "director": "Jack Webb",
+  "writer": "Richard L. Breen",
+  "actors": "Jack Webb, Janet Leigh, Edmond O'Brien",
+  "plot": "In 1927, a Kansas City, Missouri cornet player and his band perform nightly at a seedy speakeasy until a racketeer tries to extort them in exchange for protection.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWIzYjVlM2QtNzkzYy00YjU1LThiMTUtNmEwZTkxMjg1ZGQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0048484",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:12:39.920Z"
+}

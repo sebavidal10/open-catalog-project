@@ -1,0 +1,31 @@
+{
+  "title": "Moonfleet",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "18 Jul 1955",
+  "runtime": "87 min",
+  "genre": "Adventure, Drama",
+  "director": "Fritz Lang",
+  "writer": "Jan Lustig, Margaret Fitts, J. Meade Falkner",
+  "actors": "Stewart Granger, George Sanders, Joan Greenwood",
+  "plot": "A young orphan is sent to the village of Moonfleet in Dorset, England to stay with his mother's former lover, who has the facade of a gentleman but leads a gang of swashbuckling bootleggers; the duo go on a treasure hunt.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTNhN2VhNmYtNjJiZi00MDRjLTg4NzMtOTc3MzI1MzJhNmQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0048387",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:10:45.515Z"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194135744702011",
+  "title": "Superman #20",
+  "authors": [
+    "Alex Sinclair",
+    "Brian Michael Bendis",
+    "Brittany Holzherr",
+    "Bryan Hitch",
+    "Dave Sharpe",
+    "Ivan Reis",
+    "Jamie S. Rich",
+    "Jeremiah Skipper",
+    "Joe Prado",
+    "Oclair Albert"
+  ],
+  "publish_date": "2020-02-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/02/07/superman-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9404/",
+  "fetched_at": "2026-05-19T03:05:58.788Z",
+  "reviewed_at": null
+}

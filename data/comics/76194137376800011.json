@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194137376800011",
+  "title": "I Am Batman #0",
+  "authors": [
+    "Ben Abernathy",
+    "Dave Lanphear",
+    "Dave Wilkins",
+    "Derrick Chew",
+    "Jim Lee",
+    "John Ridley",
+    "Marie Javins",
+    "Norm Rapmund",
+    "Olivier Coipel",
+    "Rex Lokus",
+    "Riccardo Federici",
+    "Travel Foreman"
+  ],
+  "publish_date": "2021-08-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/01/i-am-batman-0.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/35882/",
+  "fetched_at": "2026-05-19T02:13:54.973Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194137376800211",
+  "title": "I Am Batman #2",
+  "authors": [
+    "Ben Abernathy",
+    "Dave Wielgosz",
+    "Francesco Mattina",
+    "Jim Lee",
+    "John Ridley",
+    "Marie Javins",
+    "Olivier Coipel",
+    "Rex Lokus",
+    "Romulo Fajardo Jr.",
+    "Stephen Segovia",
+    "Troy Peteri"
+  ],
+  "publish_date": "2021-10-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/04/i-am-batman-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39177/",
+  "fetched_at": "2026-05-19T02:16:06.840Z",
+  "reviewed_at": null
+}

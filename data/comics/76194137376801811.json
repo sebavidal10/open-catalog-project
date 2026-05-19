@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194137376801811",
+  "title": "I Am Batman #18",
+  "authors": [
+    "Ben Abernathy",
+    "Christian Duce",
+    "Dave Wielgosz",
+    "Eduardo Pansica",
+    "Jason Howard",
+    "Jesús Merino",
+    "Jim Lee",
+    "John Ridley",
+    "Júlio Ferreira",
+    "Marie Javins",
+    "Rex Lokus",
+    "Romulo Fajardo Jr.",
+    "Troy Peteri"
+  ],
+  "publish_date": "2023-02-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/01/21/i-batman-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/54962/",
+  "fetched_at": "2026-05-19T02:30:12.923Z",
+  "reviewed_at": null
+}

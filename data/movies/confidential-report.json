@@ -1,0 +1,31 @@
+{
+  "title": "Confidential Report",
+  "year": "1955",
+  "rated": "Not Rated",
+  "released": "02 Oct 1962",
+  "runtime": "93 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Orson Welles",
+  "writer": "Orson Welles",
+  "actors": "Orson Welles, Peter van Eyck, Michael Redgrave",
+  "plot": "An elusive billionaire hires an American smuggler to investigate his past, leading to a dizzying descent into a cold-war European landscape.",
+  "language": "English, German, French, Polish, Latin",
+  "country": "France, Spain, Switzerland",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmU5OGE4ODktMTA3NC00NzkyLWE3ZWYtOWE5ZWI5M2Q1ODIzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0048393",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:10:03.541Z"
+}

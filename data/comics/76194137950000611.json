@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "76194137950000611",
+  "title": "Superman #6",
+  "authors": [
+    "Alejandro Sánchez",
+    "Alex Saviuk",
+    "Ariana Maher",
+    "Chris Sotomayor",
+    "Gleb Melnikov",
+    "Jamal Campbell",
+    "Jillian Grant",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Lee Bermejo",
+    "Marie Javins",
+    "Mikel Janín",
+    "Paul Kaminski",
+    "Rose Besch",
+    "Tiago da Silva"
+  ],
+  "publish_date": "2023-09-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/08/28/superman-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/74213/",
+  "fetched_at": "2026-05-19T03:18:26.302Z",
+  "reviewed_at": null
+}

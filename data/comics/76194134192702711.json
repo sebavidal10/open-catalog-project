@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134192702711",
+  "title": "Superman #27",
+  "authors": [
+    "Andrew Marino",
+    "Brad Anderson",
+    "Eddie Berganza",
+    "Gabe Eltaeb",
+    "Jorge Jiménez",
+    "Lee Weeks",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Rob Leigh",
+    "Scott Godlewski"
+  ],
+  "publish_date": "2017-07-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/13/superman-v4-27.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8131/",
+  "fetched_at": "2026-05-19T02:58:13.369Z",
+  "reviewed_at": null
+}

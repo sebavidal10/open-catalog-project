@@ -1,0 +1,31 @@
+{
+  "title": "Wichita",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "21 Jul 1955",
+  "runtime": "81 min",
+  "genre": "Western",
+  "director": "Jacques Tourneur",
+  "writer": "Daniel B. Ullman",
+  "actors": "Joel McCrea, Vera Miles, Lloyd Bridges",
+  "plot": "In 1874, after noticing the total lawlessness in Wichita, Wyatt Earp reluctantly accepts the Marshal's job and runs into the worst local troublemakers.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzZhNzA0M2UtMGE3My00MDY2LWJlM2QtMTBlZGM5NThiOWJiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0048806",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:11:49.774Z"
+}

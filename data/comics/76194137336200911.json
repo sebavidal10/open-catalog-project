@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194137336200911",
+  "title": "Batman: The Knight #9",
+  "authors": [
+    "Ben Abernathy",
+    "Carmine Di Giandomenico",
+    "Chip Zdarsky",
+    "Ivan Plascencia",
+    "Jim Lee",
+    "Marie Javins",
+    "Pat Brosseau",
+    "Riccardo Federici"
+  ],
+  "publish_date": "2022-09-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/08/30/batman-knight-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/51990/",
+  "fetched_at": "2026-05-19T02:25:20.927Z",
+  "reviewed_at": null
+}

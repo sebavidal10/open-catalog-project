@@ -1,0 +1,31 @@
+{
+  "title": "The Phenix City Story",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "19 Jul 1955",
+  "runtime": "100 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Phil Karlson",
+  "writer": "Crane Wilbur, Daniel Mainwaring",
+  "actors": "John McIntire, Richard Kiley, Kathryn Grant",
+  "plot": "A crime-busting lawyer and his initially reluctant attorney father take on the forces that run gambling and prostitution in their small Southern town.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTI1NWRkMmUtZjRlYi00MzE3LTgxMmUtNjdmNjU3NzEwMWJlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0048488",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:11:17.986Z"
+}

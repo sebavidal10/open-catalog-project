@@ -1,0 +1,27 @@
+{
+  "title": "Security Risk",
+  "year": "1954",
+  "rated": "Approved",
+  "released": "08 Aug 1954",
+  "runtime": "69 min",
+  "genre": "Action, Drama",
+  "director": "Harold D. Schuster",
+  "writer": "John Rich, Jo Pagano",
+  "actors": "John Ireland, Dorothy Malone, Keith Larsen",
+  "plot": "An FBI agent on vacation in the mountains begins to suspect that a Communist spy ring may be operating in the area.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzk2Y2RiODYtNTVjYS00YmQzLWE5MDgtNmE2MmMxN2NkNDAxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0047465",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:08:11.052Z"
+}

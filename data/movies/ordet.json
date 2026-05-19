@@ -1,0 +1,31 @@
+{
+  "title": "Ordet",
+  "year": "1955",
+  "rated": "Not Rated",
+  "released": "10 Jan 1955",
+  "runtime": "126 min",
+  "genre": "Drama",
+  "director": "Carl Theodor Dreyer",
+  "writer": "Kaj Munk, Carl Theodor Dreyer",
+  "actors": "Henrik Malberg, Emil Hass Christensen, Preben Lerdorff Rye",
+  "plot": "Follows the lives of the Borgen family, as they deal with inner conflict, as well as religious conflict with each other, and the rest of the town.",
+  "language": "Danish",
+  "country": "Denmark",
+  "awards": "7 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjg1ZmI4YTctOGY2MS00ZTdkLWFkMGEtZTM5ZWRjYjMxODdiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.2",
+  "imdbID": "tt0048452",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:09:44.970Z"
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194134192703411",
+  "title": "Superman #34",
+  "authors": [
+    "Dean White",
+    "Dinei Ribeiro",
+    "Doug Mahnke",
+    "Ed Benes",
+    "Eddie Berganza",
+    "Jackson Herbert",
+    "Jessica Chen",
+    "Patrick Gleason",
+    "Paul Kaminski",
+    "Peter J. Tomasi",
+    "Rob Leigh",
+    "Tomeu Morey",
+    "Tony Daniel"
+  ],
+  "publish_date": "2017-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/13/superman-v4-34.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8138/",
+  "fetched_at": "2026-05-19T02:59:01.325Z",
+  "reviewed_at": null
+}

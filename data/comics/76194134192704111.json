@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134192704111",
+  "title": "Superman #41",
+  "authors": [
+    "Dinei Ribeiro",
+    "Ed Benes",
+    "James Robinson",
+    "Jessica Chen",
+    "Jonboy Meyers",
+    "Michael Spicer",
+    "Paul Kaminski",
+    "Rob Leigh",
+    "Viktor Bogdanovic"
+  ],
+  "publish_date": "2018-02-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/14/superman-v4-41.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8145/",
+  "fetched_at": "2026-05-19T03:00:49.533Z",
+  "reviewed_at": null
+}

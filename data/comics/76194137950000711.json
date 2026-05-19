@@ -1,0 +1,42 @@
+{
+  "isbn": null,
+  "upc": "76194137950000711",
+  "title": "Superman #7",
+  "authors": [
+    "Alejandro Sánchez",
+    "Alex Sinclair",
+    "Ariana Maher",
+    "Chris Samnee",
+    "Dan Jurgens",
+    "Dave McCaig",
+    "David Finch",
+    "David Nakayama",
+    "Edwin Galmon",
+    "Frank Cho",
+    "Gerald Parel",
+    "Gleb Melnikov",
+    "Greg Capullo",
+    "Jamal Campbell",
+    "Jillian Grant",
+    "Jim Lee",
+    "Jonathan Glapion",
+    "Joshua Williamson",
+    "Lee Bermejo",
+    "Marie Javins",
+    "Mat Lopes",
+    "Norm Rapmund",
+    "Paul Kaminski",
+    "Sabine Rich",
+    "Scott Williams"
+  ],
+  "publish_date": "2023-10-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/09/17/cf98ea71a8e8429ca6f59b537ad5b833.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/75507/",
+  "fetched_at": "2026-05-19T03:18:45.037Z",
+  "reviewed_at": null
+}

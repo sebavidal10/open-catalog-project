@@ -1,0 +1,35 @@
+{
+  "title": "Oklahoma!",
+  "year": "1955",
+  "rated": "G",
+  "released": "23 Nov 1956",
+  "runtime": "145 min",
+  "genre": "Drama, Musical, Romance",
+  "director": "Fred Zinnemann",
+  "writer": "Oscar Hammerstein II, Sonya Levien, William Ludwig",
+  "actors": "Gordon MacRae, Gloria Grahame, Gene Nelson",
+  "plot": "In Oklahoma, several farmers, cowboys and a traveling salesman compete for the romantic favors of various local ladies.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 5 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjQ2NmE1YmItNjM0MS00OTA1LWE5NWItNWUwZThmOGMxMzA2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.0",
+  "imdbID": "tt0048445",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:08:57.994Z"
+}

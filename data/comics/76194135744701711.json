@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194135744701711",
+  "title": "Superman #17",
+  "authors": [
+    "Alex Sinclair",
+    "Brian Cunningham",
+    "Brian Michael Bendis",
+    "Bryan Hitch",
+    "Dave Sharpe",
+    "Ivan Reis",
+    "Jessica Chen",
+    "Joe Prado",
+    "Kevin Maguire",
+    "Mike Cotton",
+    "Paul Mounts"
+  ],
+  "publish_date": "2019-11-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/10/superman-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7325/",
+  "fetched_at": "2026-05-19T03:05:08.037Z",
+  "reviewed_at": null
+}

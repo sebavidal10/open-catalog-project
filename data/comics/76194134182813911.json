@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194134182813911",
+  "title": "Batman #139",
+  "authors": [
+    "Ben Abernathy",
+    "Chip Zdarsky",
+    "Clayton Cowles",
+    "Dustin Nguyen",
+    "Frank Cho",
+    "Gabriele Dell'Otto",
+    "Ivan Plascencia",
+    "Jim Lee",
+    "Jorge Corona",
+    "Jorge Jiménez",
+    "Marie Javins",
+    "Otto Schmidt",
+    "Sabine Rich",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2023-11-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/10/22/f0683d45799f41c08abccf9d425770a2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/77425/",
+  "fetched_at": "2026-05-19T02:35:40.558Z",
+  "reviewed_at": null
+}

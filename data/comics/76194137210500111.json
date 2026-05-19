@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194137210500111",
+  "title": "Batman '89 #1",
+  "authors": [
+    "Andrew Marino",
+    "Andy Khouri",
+    "Clayton Cowles",
+    "Jerry Ordway",
+    "Jim Lee",
+    "Joe Quinones",
+    "Leonardo Ito",
+    "Marie Javins",
+    "Sam Hamm",
+    "Steve Oliff"
+  ],
+  "publish_date": "2021-08-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/01/batman89-1.png",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/35881/",
+  "fetched_at": "2026-05-19T02:13:14.445Z",
+  "reviewed_at": null
+}

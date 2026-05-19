@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "76194137376801211",
+  "title": "I Am Batman #12",
+  "authors": [
+    "Arif Prianto",
+    "Ben Abernathy",
+    "Brian Miller",
+    "Brittany Holzherr",
+    "Christian Duce",
+    "Clayton Cowles",
+    "Dave Wielgosz",
+    "David Baldeón",
+    "Jim Lee",
+    "John Ridley",
+    "Jorge Molina",
+    "Josh Adams",
+    "Marie Javins",
+    "Rex Lokus",
+    "Tom King",
+    "Troy Peteri"
+  ],
+  "publish_date": "2022-08-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/07/24/i-batman-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/50960/",
+  "fetched_at": "2026-05-19T02:24:31.644Z",
+  "reviewed_at": null
+}

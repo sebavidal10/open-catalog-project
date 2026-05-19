@@ -1,0 +1,31 @@
+{
+  "title": "Bride of the Monster",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "01 Feb 1956",
+  "runtime": "69 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Edward D. Wood Jr.",
+  "writer": "Edward D. Wood Jr., Alex Gordon",
+  "actors": "Bela Lugosi, Tor Johnson, Tony McCoy",
+  "plot": "A mad doctor attempts to create atomic supermen.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWJkODg3Y2MtY2JjMi00ZmIzLWExNTgtZjgwNWMwZTM3MWYzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "55%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.1",
+  "imdbID": "tt0047898",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:09:49.896Z"
+}

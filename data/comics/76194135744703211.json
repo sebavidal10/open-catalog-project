@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194135744703211",
+  "title": "Superman #32",
+  "authors": [
+    "Dave Sharpe",
+    "David Talaski",
+    "Diego Lopez",
+    "Gabe Eltaeb",
+    "InHyuk Lee",
+    "Jamie S. Rich",
+    "Jim Lee",
+    "John Timms",
+    "Marie Javins",
+    "Phillip Kennedy Johnson",
+    "Sami Basri",
+    "Scott Godlewski",
+    "Sean Lewis",
+    "Ulises Arreola"
+  ],
+  "publish_date": "2021-06-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/17/superman-32.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/32509/",
+  "fetched_at": "2026-05-19T03:10:59.627Z",
+  "reviewed_at": null
+}

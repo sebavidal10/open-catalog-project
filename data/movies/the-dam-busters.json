@@ -1,0 +1,31 @@
+{
+  "title": "The Dam Busters",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "16 Jul 1955",
+  "runtime": "105 min",
+  "genre": "Drama, History, War",
+  "director": "Michael Anderson",
+  "writer": "Paul Brickhill, Guy Gibson, R.C. Sherriff",
+  "actors": "Richard Todd, Michael Redgrave, Ursula Jeans",
+  "plot": "Drama based on the attempt by the RAF to destroy six dams in Germany during World War II.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 Oscar. 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWIxNDI0MzAtZjZhZC00YzdkLThlZDEtOWI4YTRmOGE0ZGYyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0046889",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:09:33.838Z"
+}

@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "76194134182814011",
+  "title": "Batman #140",
+  "authors": [
+    "Chip Zdarsky",
+    "Clayton Cowles",
+    "Dan Mora",
+    "David Finch",
+    "Francesco Mattina",
+    "Frank Cho",
+    "Ivan Plascencia",
+    "Jim Lee",
+    "Jorge Jiménez",
+    "Marie Javins",
+    "Mike Hawthorne",
+    "Otto Schmidt",
+    "Sabine Rich",
+    "Tirso Cons",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2023-12-05",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/11/19/8702d8a3a66741d4b93766801110da48.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/86573/",
+  "fetched_at": "2026-05-19T02:36:13.062Z",
+  "reviewed_at": null
+}

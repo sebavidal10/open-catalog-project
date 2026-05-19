@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194137376800411",
+  "title": "I Am Batman #4",
+  "authors": [
+    "Ben Abernathy",
+    "Christian Duce",
+    "Dave Wielgosz",
+    "Gerardo Zaffino",
+    "Jim Lee",
+    "John Ridley",
+    "Marie Javins",
+    "Max Dunbar",
+    "Rafael Sarmento",
+    "Rain Beredo",
+    "Rex Lokus",
+    "Sebastian Cheng",
+    "Stephen Segovia",
+    "Troy Peteri"
+  ],
+  "publish_date": "2021-12-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/01/i-batman-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41309/",
+  "fetched_at": "2026-05-19T02:17:59.823Z",
+  "reviewed_at": null
+}

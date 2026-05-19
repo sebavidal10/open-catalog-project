@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194138050602111",
+  "title": "Batman and Robin #21",
+  "authors": [
+    "Ben Meares",
+    "Carmine Di Giandomenico",
+    "Daniel Earls",
+    "James Reid",
+    "Javier Fernandez",
+    "Jim Lee",
+    "Juan Ferreyra",
+    "Marcelo Maiolo",
+    "Marco Santucci",
+    "Marie Javins",
+    "Phillip Kennedy Johnson",
+    "Rob Levin",
+    "Steve Wands",
+    "Trish Mulvihill"
+  ],
+  "publish_date": "2025-05-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/04/21/fa7a13d5de904382b62d809ccce3704b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/143808/",
+  "fetched_at": "2026-05-19T02:51:51.094Z",
+  "reviewed_at": null
+}

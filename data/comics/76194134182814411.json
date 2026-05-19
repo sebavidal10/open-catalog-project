@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "76194134182814411",
+  "title": "Batman #144",
+  "authors": [
+    "Alan Quah",
+    "Alejandro Sánchez",
+    "Andrea Sorrentino",
+    "Ben Abernathy",
+    "Chip Zdarsky",
+    "Clayton Cowles",
+    "Dave Stewart",
+    "Giuseppe Camuncoli",
+    "Jim Lee",
+    "Lee Loughridge",
+    "Marie Javins",
+    "Matteo Scalera",
+    "Rahzzah",
+    "Stefano Nesi",
+    "Tomeu Morey",
+    "Yasmine Putri"
+  ],
+  "publish_date": "2024-02-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/02/06/aeb992c91a6c4df6a228db1ecea1bbae.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/107998/",
+  "fetched_at": "2026-05-19T02:37:53.009Z",
+  "reviewed_at": null
+}

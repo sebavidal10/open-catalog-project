@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194135744700711",
+  "title": "Superman #7",
+  "authors": [
+    "Alex Sinclair",
+    "Brandon Peterson",
+    "Brian Cunningham",
+    "Brian Michael Bendis",
+    "Carlos M. Mangual",
+    "David Finch",
+    "Ivan Reis",
+    "Jason Fabok",
+    "Jessica Chen",
+    "Joe Prado",
+    "Joshua Reed",
+    "Mike Cotton",
+    "Oclair Albert"
+  ],
+  "publish_date": "2019-01-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/15/superman-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1010/",
+  "fetched_at": "2026-05-19T03:02:33.906Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,35 @@
+{
+  "title": "To Catch a Thief",
+  "year": "1955",
+  "rated": "PG",
+  "released": "05 Aug 1955",
+  "runtime": "106 min",
+  "genre": "Drama, Mystery, Romance",
+  "director": "Alfred Hitchcock",
+  "writer": "John Michael Hayes, David Dodge, Alec Coppel",
+  "actors": "Cary Grant, Grace Kelly, Jessie Royce Landis",
+  "plot": "A retired jewel thief sets out to prove his innocence after being suspected of returning to his former occupation.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 1 win & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWVjMjA1YzQtMjY4Yy00NDg1LTkwYmUtNDVlZGZiNmRhMGQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "7.4",
+  "imdbID": "tt0048728",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:08:50.599Z"
+}

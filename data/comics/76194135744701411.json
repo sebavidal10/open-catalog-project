@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194135744701411",
+  "title": "Superman #14",
+  "authors": [
+    "Adam Hughes",
+    "Alex Sinclair",
+    "Brian Cunningham",
+    "Brian Michael Bendis",
+    "Ivan Reis",
+    "Jessica Chen",
+    "Joe Prado",
+    "Mike Cotton",
+    "Oclair Albert",
+    "Wes Abbott"
+  ],
+  "publish_date": "2019-08-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/24/superman-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4874/",
+  "fetched_at": "2026-05-19T03:03:55.531Z",
+  "reviewed_at": null
+}

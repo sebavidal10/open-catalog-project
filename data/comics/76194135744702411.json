@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194135744702411",
+  "title": "Superman #24",
+  "authors": [
+    "Alex Sinclair",
+    "Bixie Mathieu",
+    "Brian Michael Bendis",
+    "Brittany Holzherr",
+    "Bryan Hitch",
+    "Dave Sharpe",
+    "Ivan Reis",
+    "Jamie S. Rich",
+    "Joe Prado",
+    "John Timms",
+    "Kevin Maguire"
+  ],
+  "publish_date": "2020-08-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/08/06/superman-24.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15962/",
+  "fetched_at": "2026-05-19T03:08:03.298Z",
+  "reviewed_at": null
+}

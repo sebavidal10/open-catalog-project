@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194137520500111",
+  "title": "Superman & Robin Special #1",
+  "authors": [
+    "Alejandro Sánchez",
+    "Amedeo Turturro",
+    "Daniel Henriques",
+    "Ivan Plascencia",
+    "Jim Lee",
+    "Marie Javins",
+    "Matt Herms",
+    "Matt Santorelli",
+    "Paul Kaminski",
+    "Peter J. Tomasi",
+    "Scott Hanna",
+    "Tom Napolitano",
+    "Viktor Bogdanovic"
+  ],
+  "publish_date": "2022-01-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/17/superman-robin-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43114/",
+  "fetched_at": "2026-05-19T03:13:17.048Z",
+  "reviewed_at": null
+}

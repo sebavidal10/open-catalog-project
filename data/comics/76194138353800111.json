@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194138353800111",
+  "title": "Batman / Dylan Dog #1",
+  "authors": [
+    "Gigi Cavenago",
+    "Giovanna Niro",
+    "Jim Lee",
+    "Katie Kubert",
+    "Luca Del Savio",
+    "Marie Javins",
+    "Michele Masiero",
+    "Pat Brosseau",
+    "Roberto Recchioni",
+    "Werther Dell'Edera"
+  ],
+  "publish_date": "2024-03-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/02/23/28de2bc5e7ef4837a6bdf05bd185d788.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/111947/",
+  "fetched_at": "2026-05-19T02:38:37.547Z",
+  "reviewed_at": null
+}

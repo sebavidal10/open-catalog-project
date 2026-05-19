@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194137726100411",
+  "title": "Batman Incorporated #4",
+  "authors": [
+    "Arif Prianto",
+    "Ben Abernathy",
+    "Clayton Cowles",
+    "Ed Brisson",
+    "InHyuk Lee",
+    "Jim Lee",
+    "John Timms",
+    "Marie Javins",
+    "Mico Suayan",
+    "Rex Lokus"
+  ],
+  "publish_date": "2023-01-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/12/05/batman-inc-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/53525/",
+  "fetched_at": "2026-05-19T02:28:36.929Z",
+  "reviewed_at": null
+}

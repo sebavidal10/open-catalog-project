@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "76194134182815011",
+  "title": "Batman #150",
+  "authors": [
+    "Adriano Di Benedetto",
+    "Alejandro Sánchez",
+    "Chip Zdarsky",
+    "Chris Samnee",
+    "Clayton Cowles",
+    "Denys Cowan",
+    "Dustin Nguyen",
+    "Ivan Cohen",
+    "Jim Lee",
+    "John Stanisci",
+    "Jorge Jiménez",
+    "Katie Kubert",
+    "Marie Javins",
+    "Mat Lopes",
+    "Mattia De Iulis",
+    "Mike Hawthorne",
+    "Romulo Fajardo Jr.",
+    "Tirso Cons",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2024-07-03",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/07/093f6de4f7ee4ee0b6fe8b63f5851f94.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/121609/",
+  "fetched_at": "2026-05-19T02:41:00.073Z",
+  "reviewed_at": null
+}

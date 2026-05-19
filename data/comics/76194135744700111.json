@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194135744700111",
+  "title": "Superman #1",
+  "authors": [
+    "Adam Hughes",
+    "Alex Sinclair",
+    "Brian Cunningham",
+    "Brian Michael Bendis",
+    "David Mack",
+    "Ivan Reis",
+    "Joe Prado",
+    "Joshua Middleton",
+    "Joshua Reed",
+    "Mike Cotton",
+    "Tyler Kirkham"
+  ],
+  "publish_date": "2018-07-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2018/11/14/superman-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29/",
+  "fetched_at": "2026-05-19T03:01:39.139Z",
+  "reviewed_at": null
+}

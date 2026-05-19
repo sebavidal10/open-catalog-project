@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194138050601211",
+  "title": "Batman and Robin #12",
+  "authors": [
+    "Andrew Dalhouse",
+    "Ben Meares",
+    "James Reid",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Juan Ferreyra",
+    "Marie Javins",
+    "Rob Levin",
+    "Simone Di Meo",
+    "Steve Wands",
+    "Travis Mercer",
+    "Vasco Georgiev"
+  ],
+  "publish_date": "2024-08-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/07/19/aaf6e602a9514c01895d0445ab32a966.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/125132/",
+  "fetched_at": "2026-05-19T02:41:48.574Z",
+  "reviewed_at": null
+}

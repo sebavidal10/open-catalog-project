@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194137376800611",
+  "title": "I Am Batman #6",
+  "authors": [
+    "Alexis Franklin",
+    "Alex Sinclair",
+    "Ben Abernathy",
+    "Dave Wielgosz",
+    "Emilio Lopez",
+    "Francesco Mattina",
+    "Jim Lee",
+    "John Ridley",
+    "Ken Lashley",
+    "Khary Randolph",
+    "Marie Javins",
+    "Olivier Coipel",
+    "Rex Lokus",
+    "Troy Peteri"
+  ],
+  "publish_date": "2022-02-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/20/i-am-batman-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43259/",
+  "fetched_at": "2026-05-19T02:19:16.964Z",
+  "reviewed_at": null
+}

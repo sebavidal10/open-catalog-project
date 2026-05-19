@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "76194137950000311",
+  "title": "Superman #3",
+  "authors": [
+    "Ariana Maher",
+    "Danny Miki",
+    "David Nakayama",
+    "Francesco Mattina",
+    "Hélène Lenoble",
+    "Jamal Campbell",
+    "Jillian Grant",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Marie Javins",
+    "Megan Huang",
+    "Paul Kaminski",
+    "Scott Kolins",
+    "Steve Rude",
+    "Travis Mercer",
+    "Trish Mulvihill"
+  ],
+  "publish_date": "2023-04-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/04/03/7fa6c6ba0e96472d92d5fe08564ee363.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/60719/",
+  "fetched_at": "2026-05-19T03:16:51.987Z",
+  "reviewed_at": null
+}

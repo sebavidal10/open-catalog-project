@@ -1,0 +1,27 @@
+{
+  "title": "King Dinosaur",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "17 Jun 1955",
+  "runtime": "63 min",
+  "genre": "Adventure, Horror, Sci-Fi",
+  "director": "Bert I. Gordon",
+  "writer": "Bert I. Gordon, Al Zimbalist, Tom Gries",
+  "actors": "William Bryant, Wanda Curtis, Douglas Henderson",
+  "plot": "A new planet moves into the Solar system and four scientists (two couples) are sent to explore planet Nova. In between romantic interludes, the cast faces an iguana masquerading as a Tyrannosaurus rex.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDkzOTY0YjktYTFiOC00YjMwLTlhODEtN2MwMTZlNTJkYWMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "2.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "2.2",
+  "imdbID": "tt0048256",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:11:51.088Z"
+}

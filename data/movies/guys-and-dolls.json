@@ -1,0 +1,35 @@
+{
+  "title": "Guys and Dolls",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "23 Dec 1955",
+  "runtime": "150 min",
+  "genre": "Comedy, Crime, Musical",
+  "director": "Joseph L. Mankiewicz",
+  "writer": "Jo Swerling, Abe Burrows, Damon Runyon",
+  "actors": "Marlon Brando, Jean Simmons, Frank Sinatra",
+  "plot": "In New York, a gambler is challenged to take a cold female missionary to Havana, but they fall for each other, and the bet has a hidden motive to finance a crap game.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 3 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTkzNWE2Y2ItMmIxZC00MTA3LWJmOTItMjQ2OTMzZWYwMWI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.1",
+  "imdbID": "tt0048140",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:08:55.526Z"
+}

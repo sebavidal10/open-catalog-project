@@ -1,0 +1,41 @@
+{
+  "isbn": null,
+  "upc": "76194137236500911",
+  "title": "Batman: Urban Legends #9",
+  "authors": [
+    "Alejandro Sánchez",
+    "Alyssa Wong",
+    "Ariana Maher",
+    "Becca Carey",
+    "Brandon Thomas",
+    "Cian Tormey",
+    "Dan Watters",
+    "David Baron",
+    "Emilio Lopez",
+    "Francesco Francavilla",
+    "Ivan Plascencia",
+    "Jessica Chen",
+    "Jim Lee",
+    "Karl Mostert",
+    "Khary Randolph",
+    "Marie Javins",
+    "Nikola Čižmešija",
+    "Rain Beredo",
+    "Raúl Fernández",
+    "Riccardo Federici",
+    "Sam Johns",
+    "Steve Wands",
+    "Tom Napolitano",
+    "Vasco Georgiev"
+  ],
+  "publish_date": "2021-11-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/28/batman-urban-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39995/",
+  "fetched_at": "2026-05-19T02:16:55.491Z",
+  "reviewed_at": null
+}

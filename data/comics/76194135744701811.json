@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194135744701811",
+  "title": "Superman #18",
+  "authors": [
+    "Alex Sinclair",
+    "Brian Cunningham",
+    "Brian Michael Bendis",
+    "Dave Sharpe",
+    "Ivan Reis",
+    "Jessica Chen",
+    "Joe Prado",
+    "Mike Cotton",
+    "Skan Srisuwan"
+  ],
+  "publish_date": "2019-12-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/05/superman-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7859/",
+  "fetched_at": "2026-05-19T03:05:25.814Z",
+  "reviewed_at": null
+}

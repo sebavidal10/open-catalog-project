@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "76194137376801411",
+  "title": "I Am Batman #14",
+  "authors": [
+    "Ben Abernathy",
+    "Christian Duce",
+    "Dave Wielgosz",
+    "Howard Porter",
+    "Jim Lee",
+    "John Ridley",
+    "Marcelo Maiolo",
+    "Marie Javins",
+    "Norm Rapmund",
+    "Rain Beredo",
+    "Rex Lokus",
+    "Roger Cruz",
+    "Romulo Fajardo Jr.",
+    "Tom Derenick",
+    "Troy Peteri"
+  ],
+  "publish_date": "2022-10-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/09/16/i-batman-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/52427/",
+  "fetched_at": "2026-05-19T02:26:27.575Z",
+  "reviewed_at": null
+}

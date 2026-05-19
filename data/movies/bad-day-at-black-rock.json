@@ -1,0 +1,31 @@
+{
+  "title": "Bad Day at Black Rock",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "13 Feb 1955",
+  "runtime": "81 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "John Sturges",
+  "writer": "Millard Kaufman, Don McGuire, Howard Breslin",
+  "actors": "Spencer Tracy, Robert Ryan, Anne Francis",
+  "plot": "Following World War II, a one-armed stranger arrives in a tiny California desert town, but finds the residents hostile and protecting a terrible secret they want to keep hidden, by violent means if necessary.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 4 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjAwMDRkNmYtZTMwNy00Y2NiLTgwNTYtZDljZDRlMjA5NTBlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0047849",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:09:06.639Z"
+}

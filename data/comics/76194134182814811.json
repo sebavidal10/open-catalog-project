@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194134182814811",
+  "title": "Batman #148",
+  "authors": [
+    "Chip Zdarsky",
+    "Clayton Cowles",
+    "Gabriele Dell'Otto",
+    "Ivan Cohen",
+    "Jim Lee",
+    "Jorge Jiménez",
+    "Katie Kubert",
+    "Marie Javins",
+    "Skylar Patridge",
+    "Tomeu Morey",
+    "Woo-Chul Lee",
+    "Yasmine Putri"
+  ],
+  "publish_date": "2024-06-04",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/13/b3b312609b00443a820158f20315a22c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118752/",
+  "fetched_at": "2026-05-19T02:40:23.546Z",
+  "reviewed_at": null
+}

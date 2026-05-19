@@ -1,0 +1,31 @@
+{
+  "title": "Revenge of the Creature",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "22 Jul 1955",
+  "runtime": "82 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Jack Arnold",
+  "writer": "William Alland, Martin Berkeley",
+  "actors": "John Agar, Lori Nelson, John Bromfield",
+  "plot": "Men capture the Creature from the Black Lagoon and make him an aquarium attraction, from which he escapes.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQxMDU3MjM0N15BMl5BanBnXkFtZTgwNTMzNTQ1MjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "13%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0048554",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:09:09.138Z"
+}

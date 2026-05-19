@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194135744700211",
+  "title": "Superman #2",
+  "authors": [
+    "Adam Hughes",
+    "Alex Sinclair",
+    "Brian Cunningham",
+    "Brian Michael Bendis",
+    "David Mack",
+    "Ivan Reis",
+    "Jessica Chen",
+    "Joe Prado",
+    "Joshua Reed",
+    "Mike Cotton",
+    "Oclair Albert"
+  ],
+  "publish_date": "2018-08-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2018/11/14/superman-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30/",
+  "fetched_at": "2026-05-19T03:01:48.342Z",
+  "reviewed_at": null
+}

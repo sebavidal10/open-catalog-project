@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194135744700311",
+  "title": "Superman #3",
+  "authors": [
+    "Adam Hughes",
+    "Alex Sinclair",
+    "Brian Cunningham",
+    "Brian Michael Bendis",
+    "David Mack",
+    "Ivan Reis",
+    "Jessica Chen",
+    "Joe Prado",
+    "Joshua Reed",
+    "Mike Cotton",
+    "Oclair Albert"
+  ],
+  "publish_date": "2018-09-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2018/11/14/superman-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/31/",
+  "fetched_at": "2026-05-19T03:01:57.482Z",
+  "reviewed_at": null
+}

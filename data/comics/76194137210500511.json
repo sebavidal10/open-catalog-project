@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194137210500511",
+  "title": "Batman '89 #5",
+  "authors": [
+    "Adam Hughes",
+    "Andrew Marino",
+    "Clayton Cowles",
+    "Jim Lee",
+    "Joe Quinones",
+    "Katie Kubert",
+    "Leonardo Ito",
+    "Marie Javins",
+    "Sam Hamm"
+  ],
+  "publish_date": "2022-04-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/02/13/batman-89-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43953/",
+  "fetched_at": "2026-05-19T02:20:24.096Z",
+  "reviewed_at": null
+}

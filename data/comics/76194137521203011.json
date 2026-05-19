@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194137521203011",
+  "title": "Batman / Superman: World's Finest #30",
+  "authors": [
+    "Alejandro Sánchez",
+    "Chris Rosa",
+    "Daniel Bayliss",
+    "Dan Mora",
+    "Dave Sharpe",
+    "Gleb Melnikov",
+    "Jim Lee",
+    "Jorge Jiménez",
+    "Lucio Parrillo",
+    "Marie Javins",
+    "Mark Waid",
+    "Paul Kaminski",
+    "Puppeteer Lee",
+    "Tamra Bonvillain"
+  ],
+  "publish_date": "2024-08-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/07/29/ae067da0ff1c4aa98bfd5df4c5f60ee8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/125534/",
+  "fetched_at": "2026-05-19T02:42:12.186Z",
+  "reviewed_at": "2024-08-01"
+}

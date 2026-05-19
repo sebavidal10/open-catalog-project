@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194137376800911",
+  "title": "I Am Batman #9",
+  "authors": [
+    "Ben Abernathy",
+    "Christian Duce",
+    "Dave Wielgosz",
+    "Gerardo Zaffino",
+    "Jim Lee",
+    "John Ridley",
+    "Marie Javins",
+    "Mateus Manhanini",
+    "Rain Beredo",
+    "Rex Lokus",
+    "Romulo Fajardo Jr.",
+    "Stephen Segovia",
+    "Troy Peteri"
+  ],
+  "publish_date": "2022-05-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/28/i-am-batman-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47614/",
+  "fetched_at": "2026-05-19T02:21:55.597Z",
+  "reviewed_at": null
+}

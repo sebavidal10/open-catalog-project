@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194138580800111",
+  "title": "Batman: Uncovered #1",
+  "authors": [
+    "David Nakayama",
+    "Ivan Cohen",
+    "Jeff Dekal",
+    "Jim Lee",
+    "Jorge Jiménez",
+    "Katie Kubert",
+    "Marie Javins",
+    "Nathan Fairbairn",
+    "Ryan Christy",
+    "Sabrina Futch",
+    "Steve Lieber",
+    "Vasco Georgiev"
+  ],
+  "publish_date": "2024-11-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/10/27/e7d9b893512144d7abeacc53a9c8a4f1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130153/",
+  "fetched_at": "2026-05-19T02:44:53.532Z",
+  "reviewed_at": null
+}

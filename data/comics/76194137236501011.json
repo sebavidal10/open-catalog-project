@@ -1,0 +1,42 @@
+{
+  "isbn": null,
+  "upc": "76194137236501011",
+  "title": "Batman: Urban Legends #10",
+  "authors": [
+    "Adriano Lucas",
+    "Alberto Alburquerque",
+    "Ariana Maher",
+    "Becca Carey",
+    "Belén Ortega",
+    "Ben Abernathy",
+    "Bengal",
+    "Christian Duce",
+    "Dan Watters",
+    "Dave Wielgosz",
+    "David Baron",
+    "Ivan Plascencia",
+    "Jessica Chen",
+    "Jim Lee",
+    "Karl Mostert",
+    "Marie Javins",
+    "Meghan Fitzmartin",
+    "Nick Filardi",
+    "Nikola Čižmešija",
+    "Pat Brosseau",
+    "Riccardo Federici",
+    "Sam Johns",
+    "Sarah Stern",
+    "Tini Howard",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2021-12-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/01/batman-urban-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41306/",
+  "fetched_at": "2026-05-19T02:17:52.115Z",
+  "reviewed_at": null
+}

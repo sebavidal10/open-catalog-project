@@ -1,0 +1,40 @@
+{
+  "isbn": null,
+  "upc": "76194137895401111",
+  "title": "Batman: The Brave and the Bold #11",
+  "authors": [
+    "Ashley Wood",
+    "Christos N. Gage",
+    "Danny Kim",
+    "Dave Sharpe",
+    "Delilah S. Dawson",
+    "Diego Rodriguez",
+    "Francesco Mattina",
+    "Hassan Otsmane-Elhaou",
+    "Jim Lee",
+    "Karl Kerschl",
+    "Marie Javins",
+    "Matt Herms",
+    "Michael Conrad",
+    "Michael Spicer",
+    "Michele Assarasakorn",
+    "Norm Rapmund",
+    "Pat Brosseau",
+    "P. J. Holden",
+    "Serg Acuña",
+    "Simone Di Meo",
+    "Steve Wands",
+    "Tom Napolitano",
+    "Zac Thompson"
+  ],
+  "publish_date": "2024-03-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/02/23/07c985743cd6450ea0e79eff3512f81f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/111967/",
+  "fetched_at": "2026-05-19T02:38:49.241Z",
+  "reviewed_at": null
+}

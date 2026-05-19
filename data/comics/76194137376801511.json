@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194137376801511",
+  "title": "I Am Batman #15",
+  "authors": [
+    "Ben Abernathy",
+    "Christian Duce",
+    "Cully Hamner",
+    "Dave Wielgosz",
+    "Emilio Lopez",
+    "Jeff Spokes",
+    "Jim Lee",
+    "John Ridley",
+    "Karl Mostert",
+    "Khary Randolph",
+    "Marie Javins",
+    "Rex Lokus",
+    "Romulo Fajardo Jr.",
+    "Troy Peteri"
+  ],
+  "publish_date": "2022-11-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/10/26/i-am-batman-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/52975/",
+  "fetched_at": "2026-05-19T02:27:24.325Z",
+  "reviewed_at": null
+}

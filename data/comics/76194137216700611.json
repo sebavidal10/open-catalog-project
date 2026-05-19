@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194137216700611",
+  "title": "Superman '78 #6",
+  "authors": [
+    "Alejandro Sánchez",
+    "Andrew Marino",
+    "Dave Lanphear",
+    "Jim Lee",
+    "Jordie Bellaire",
+    "Marie Javins",
+    "Mikel Janín",
+    "Rafa Sandoval",
+    "Robert Venditti",
+    "Wilfredo Torres"
+  ],
+  "publish_date": "2022-01-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/17/superman-78-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43112/",
+  "fetched_at": "2026-05-19T03:13:12.542Z",
+  "reviewed_at": null
+}

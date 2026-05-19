@@ -1,0 +1,33 @@
+{
+  "isbn": "9781779527004",
+  "upc": "978177952700451999",
+  "title": "Batman and Robin #1",
+  "authors": [
+    "Ben Abernathy",
+    "Ben Meares",
+    "Howard Porter",
+    "Jeb Woodard",
+    "Jeremy Cox",
+    "Jorge Molina",
+    "Joshua Williamson",
+    "Marie Javins",
+    "Mikel Janín",
+    "Nikola Čižmešija",
+    "Rain Beredo",
+    "Rex Lokus",
+    "Romulo Fajardo Jr.",
+    "Simone Di Meo",
+    "Steve Cook",
+    "Steve Wands"
+  ],
+  "publish_date": "2024-08-06",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/17/Cover-A_Fm7xYsP.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/139017/",
+  "fetched_at": "2026-05-19T02:40:35.625Z",
+  "reviewed_at": "2024-08-01"
+}

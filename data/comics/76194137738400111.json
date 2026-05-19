@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "76194137738400111",
+  "title": "Batman - One Bad Day: Catwoman #1",
+  "authors": [
+    "Alex Sinclair",
+    "Arif Prianto",
+    "Ben Abernathy",
+    "Brian Bolland",
+    "Clayton Cowles",
+    "Darran Robinson",
+    "Dave Wielgosz",
+    "Giuseppe Camuncoli",
+    "G. Willow Wilson",
+    "Jamie McKelvie",
+    "Jessica Berbey",
+    "Jessica Fong",
+    "Jim Lee",
+    "Marie Javins",
+    "Sandy Alonzo",
+    "Scott Williams",
+    "Serg Acuña"
+  ],
+  "publish_date": "2023-01-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/12/05/bat-bad-day-cat-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/53526/",
+  "fetched_at": "2026-05-19T02:28:52.493Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Tall Men",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "12 Dec 1955",
+  "runtime": "122 min",
+  "genre": "Drama, Western",
+  "director": "Raoul Walsh",
+  "writer": "Sydney Boehm, Frank S. Nugent, Heck Allen",
+  "actors": "Clark Gable, Jane Russell, Robert Ryan",
+  "plot": "Two brothers discharged from the Confederate Army join a businessman for a cattle drive from Texas to Montana where they run into raiding Jayhawkers, angry Sioux, rough terrain and bad weather.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGQ2ZTBjOWMtM2IyMy00NTY0LThkMDctZTVlYjllNzQ1NjgxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0048691",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:11:19.221Z"
+}

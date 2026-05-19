@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194136270002011",
+  "title": "Batman / Superman #20",
+  "authors": [
+    "Ben Abernathy",
+    "Ben Meares",
+    "Danny Miki",
+    "Gene Luen Yang",
+    "Ivan Reis",
+    "Jenny Frison",
+    "Jim Lee",
+    "Marie Javins",
+    "Paul Kaminski",
+    "Sabine Rich",
+    "Saida Temofonte"
+  ],
+  "publish_date": "2021-07-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/21/bat-sup-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/34976/",
+  "fetched_at": "2026-05-19T02:12:45.874Z",
+  "reviewed_at": "2021-07-01"
+}

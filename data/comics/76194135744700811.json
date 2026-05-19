@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194135744700811",
+  "title": "Superman #8",
+  "authors": [
+    "Alex Sinclair",
+    "Brandon Peterson",
+    "Brian Cunningham",
+    "Brian Michael Bendis",
+    "Ivan Reis",
+    "Jessica Chen",
+    "Joe Prado",
+    "Joshua Reed",
+    "Mike Cotton",
+    "Rob Liefeld"
+  ],
+  "publish_date": "2019-02-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/12/superman-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1291/",
+  "fetched_at": "2026-05-19T03:02:42.748Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "76194134182815211",
+  "title": "Batman #152",
+  "authors": [
+    "Adriano Di Benedetto",
+    "Belén Ortega",
+    "Chip Zdarsky",
+    "Clayton Cowles",
+    "Dave Johnson",
+    "Guillem March",
+    "Jim Lee",
+    "Joëlle Jones",
+    "Katie Kubert",
+    "Kelly Thompson",
+    "Marie Javins",
+    "Matt Herms",
+    "Mattia De Iulis",
+    "Mike Hawthorne",
+    "Romulo Fajardo Jr.",
+    "Salvador Larroca"
+  ],
+  "publish_date": "2024-09-04",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/08/09/a9340e5a94e84b2ebe38280be512b757.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/125909/",
+  "fetched_at": "2026-05-19T02:42:24.988Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "7619413574401011",
+  "title": "Superman #10",
+  "authors": [
+    "Adam Hughes",
+    "Alex Sinclair",
+    "Brandon Peterson",
+    "Brian Cunningham",
+    "Brian Michael Bendis",
+    "Ivan Reis",
+    "Jessica Chen",
+    "Joe Prado",
+    "Joshua Reed",
+    "Mike Cotton",
+    "Oclair Albert"
+  ],
+  "publish_date": "2019-04-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/08/superman-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1845/",
+  "fetched_at": "2026-05-19T03:03:00.395Z",
+  "reviewed_at": null
+}

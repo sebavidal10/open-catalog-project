@@ -1,0 +1,31 @@
+{
+  "title": "The Desperate Hours",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "12 Oct 1955",
+  "runtime": "112 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "William Wyler",
+  "writer": "Joseph Hayes, Jay Dratler, Marcel Lebreton",
+  "actors": "Humphrey Bogart, Fredric March, Arthur Kennedy",
+  "plot": "Three escaped convicts move in on and terrorize a suburban household.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUwMTI2NTgyMV5BMl5BanBnXkFtZTgwNTc1Nzk1MzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0047985",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:09:48.665Z"
+}

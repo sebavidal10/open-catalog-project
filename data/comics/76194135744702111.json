@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194135744702111",
+  "title": "Superman #21",
+  "authors": [
+    "Alex Sinclair",
+    "Brian Michael Bendis",
+    "Brittany Holzherr",
+    "Bryan Hitch",
+    "Dave Sharpe",
+    "Ivan Reis",
+    "Jamie S. Rich",
+    "Joe Prado",
+    "Oclair Albert"
+  ],
+  "publish_date": "2020-03-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/03/05/superman-21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/10090/",
+  "fetched_at": "2026-05-19T03:06:19.730Z",
+  "reviewed_at": null
+}

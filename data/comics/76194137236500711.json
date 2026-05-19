@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "76194137236500711",
+  "title": "Batman: Urban Legends #7",
+  "authors": [
+    "Aditya Bidikar",
+    "Alejandro Sánchez",
+    "Baldemar Rivas",
+    "Becca Carey",
+    "Ben Abernathy",
+    "Collin Kelly",
+    "Dave Wielgosz",
+    "Guillaume Singelin",
+    "Jackson Lanzing",
+    "Jim Lee",
+    "Juan Ferreyra",
+    "Kenny Porter",
+    "Marie Javins",
+    "Max Dunbar",
+    "Sebastian Cheng",
+    "Tim Seeley",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2021-09-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/02/batman-urban-7.webp",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37437/",
+  "fetched_at": "2026-05-19T02:14:50.470Z",
+  "reviewed_at": null
+}

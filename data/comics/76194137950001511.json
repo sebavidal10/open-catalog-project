@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194137950001511",
+  "title": "Superman #15",
+  "authors": [
+    "Alejandro Sánchez",
+    "Angel Solorzano",
+    "Ariana Maher",
+    "Daniel Earls",
+    "Dave Stewart",
+    "Jillian Grant",
+    "Jim Lee",
+    "Joshua Swaby",
+    "Joshua Williamson",
+    "Marie Javins",
+    "Miguel Mercado",
+    "Paul Kaminski",
+    "Rafa Sandoval",
+    "Stjepan Šejić"
+  ],
+  "publish_date": "2024-06-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/07/83ad544e39984d3888c1160090b15567.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/121606/",
+  "fetched_at": "2026-05-19T03:21:17.717Z",
+  "reviewed_at": null
+}

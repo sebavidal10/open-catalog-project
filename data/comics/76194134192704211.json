@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134192704211",
+  "title": "Superman #42",
+  "authors": [
+    "Alejandro Sánchez",
+    "Jessica Chen",
+    "John Kalisz",
+    "Jonboy Meyers",
+    "Patrick Gleason",
+    "Paul Kaminski",
+    "Peter J. Tomasi",
+    "Rob Leigh"
+  ],
+  "publish_date": "2018-03-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/14/superman-v4-42.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8146/",
+  "fetched_at": "2026-05-19T03:00:58.564Z",
+  "reviewed_at": null
+}

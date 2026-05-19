@@ -1,0 +1,27 @@
+{
+  "title": "Hotel Adlon",
+  "year": "1955",
+  "rated": "N/A",
+  "released": "01 Sep 1955",
+  "runtime": "100 min",
+  "genre": "Drama",
+  "director": "Josef von Báky",
+  "writer": "Emil Burri, Johannes Mario Simmel, Hedda Adlon",
+  "actors": "Sebastian Fischer, Nelly Borgeaud, René Deltgen",
+  "plot": "The story of Germany's most famous hotel, located in central Berlin. It is shown in several plots and subplots showing famous and not so famous guests of the hotel and its demise at the end of World War II.",
+  "language": "German, French",
+  "country": "West Germany",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTZlNWUxNzMtYmZlMy00MmU1LTkxZmQtNzYzOTEwY2IxNWU2XkEyXkFqcGdeQXVyNzQzNDEyOQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0048179",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:15:16.149Z"
+}

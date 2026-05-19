@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134192703911",
+  "title": "Superman #39",
+  "authors": [
+    "Barry Kitson",
+    "Chris Burnham",
+    "Gabe Eltaeb",
+    "Jessica Chen",
+    "Jonboy Meyers",
+    "Nathan Fairbairn",
+    "Patrick Gleason",
+    "Paul Kaminski",
+    "Peter J. Tomasi",
+    "Rob Leigh",
+    "Scott Hanna"
+  ],
+  "publish_date": "2018-01-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/14/superman-v4-39.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8143/",
+  "fetched_at": "2026-05-19T02:59:30.008Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194137376800711",
+  "title": "I Am Batman #7",
+  "authors": [
+    "Ben Abernathy",
+    "Christian Duce",
+    "Dave Wielgosz",
+    "Dike Ruan",
+    "Francesco Mattina",
+    "Jim Lee",
+    "John Ridley",
+    "Juan Fernandez",
+    "Ken Lashley",
+    "Marie Javins",
+    "Rex Lokus",
+    "Troy Peteri"
+  ],
+  "publish_date": "2022-03-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/02/13/i-am-batman-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43957/",
+  "fetched_at": "2026-05-19T02:20:10.379Z",
+  "reviewed_at": null
+}

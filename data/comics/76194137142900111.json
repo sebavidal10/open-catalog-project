@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194137142900111",
+  "title": "Robin & Batman #1",
+  "authors": [
+    "Ben Abernathy",
+    "Dustin Nguyen",
+    "Jeff Lemire",
+    "Jim Lee",
+    "Jordie Bellaire",
+    "José Villarrubia",
+    "Marie Javins",
+    "Rafael Albuquerque",
+    "Steve Wands"
+  ],
+  "publish_date": "2021-11-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/28/robin-batman-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/40000/",
+  "fetched_at": "2026-05-19T02:17:11.520Z",
+  "reviewed_at": null
+}

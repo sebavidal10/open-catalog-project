@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194137129000211",
+  "title": "Batman: The Detective #2",
+  "authors": [
+    "Andy Kubert",
+    "Ben Abernathy",
+    "Brad Anderson",
+    "Clem Robins",
+    "Dave Wielgosz",
+    "Jim Lee",
+    "Marie Javins",
+    "Sandra Hope",
+    "Tom Taylor"
+  ],
+  "publish_date": "2021-05-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/batman-detective-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30397/",
+  "fetched_at": "2026-05-19T02:11:01.978Z",
+  "reviewed_at": null
+}

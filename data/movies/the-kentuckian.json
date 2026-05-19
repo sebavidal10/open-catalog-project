@@ -1,0 +1,35 @@
+{
+  "title": "The Kentuckian",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "11 Aug 1955",
+  "runtime": "104 min",
+  "genre": "Drama, Western",
+  "director": "Burt Lancaster",
+  "writer": "A.B. Guthrie Jr., Felix Holt",
+  "actors": "Burt Lancaster, Diana Lynn, Dianne Foster",
+  "plot": "A Kentucky widower bound for 1820's Texas with his young son is thwarted in his efforts by a corrupt constable, a long-standing family feud, and a beautiful indentured servant.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWFmMWM3YWQtM2M2NC00ZmRkLTg4MTEtNjRiNDQ2NDk2MWJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "14%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "41/100"
+    }
+  ],
+  "metascore": "41",
+  "imdbRating": "6.2",
+  "imdbID": "tt0048248",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:09:35.069Z"
+}

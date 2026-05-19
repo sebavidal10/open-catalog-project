@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194135744702611",
+  "title": "Superman #26",
+  "authors": [
+    "Alex Sinclair",
+    "Bixie Mathieu",
+    "Brian Michael Bendis",
+    "Brittany Holzherr",
+    "Danny Miki",
+    "Dave Sharpe",
+    "Ivan Reis",
+    "Jamie S. Rich",
+    "Joe Prado",
+    "Tomeu Morey",
+    "Tony Daniel"
+  ],
+  "publish_date": "2020-10-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/10/07/superman-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17689/",
+  "fetched_at": "2026-05-19T03:08:33.793Z",
+  "reviewed_at": null
+}

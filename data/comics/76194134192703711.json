@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194134192703711",
+  "title": "Superman #37",
+  "authors": [
+    "Alejandro Sánchez",
+    "Alex Antone",
+    "Brian Cunningham",
+    "Brittany Holzherr",
+    "Ivan Reis",
+    "Jessica Chen",
+    "Jonboy Meyers",
+    "Jorge Jiménez",
+    "Júlio Ferreira",
+    "Marcelo Maiolo",
+    "Patrick Gleason",
+    "Paul Kaminski",
+    "Peter J. Tomasi",
+    "Rob Leigh"
+  ],
+  "publish_date": "2017-12-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/14/superman-v4-37.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8141/",
+  "fetched_at": "2026-05-19T02:59:17.313Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194134182814611",
+  "title": "Batman #146",
+  "authors": [
+    "Alex Sinclair",
+    "Ben Abernathy",
+    "Chip Zdarsky",
+    "Clayton Cowles",
+    "Dan Panosian",
+    "Gabriele Dell'Otto",
+    "Jim Lee",
+    "Jorge Fornés",
+    "Jorge Jiménez",
+    "Katie Kubert",
+    "Marie Javins",
+    "Michele Bandini",
+    "Tomeu Morey",
+    "Yasmine Putri"
+  ],
+  "publish_date": "2024-04-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/08/ff279d145e8a43b5abec6f37194fb222.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/113778/",
+  "fetched_at": "2026-05-19T02:39:05.135Z",
+  "reviewed_at": null
+}

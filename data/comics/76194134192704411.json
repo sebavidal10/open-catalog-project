@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134192704411",
+  "title": "Superman #44",
+  "authors": [
+    "Alejandro Sánchez",
+    "Doug Mahnke",
+    "Jaime Mendoza",
+    "Jessica Chen",
+    "Jonboy Meyers",
+    "Patrick Gleason",
+    "Paul Kaminski",
+    "Peter J. Tomasi",
+    "Rob Leigh",
+    "Wil Quintana"
+  ],
+  "publish_date": "2018-04-04",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/14/superman-v4-44.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8148/",
+  "fetched_at": "2026-05-19T03:01:11.888Z",
+  "reviewed_at": null
+}

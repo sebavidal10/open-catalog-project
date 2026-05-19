@@ -5,5 +5,7 @@
   { "id": "spider-man", "search": "spider-man" },
   { "id": "aquaman", "search": "aquaman" },
   { "id": "flash", "search": "flash" },
-  { "id": "hulk", "search": "hulk" }
+  { "id": "hulk", "search": "hulk" },
+  { "id": "joker", "search": "joker" },
+  { "id": "thor", "search": "thor" }
 ]

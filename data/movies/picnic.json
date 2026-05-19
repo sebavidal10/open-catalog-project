@@ -1,0 +1,31 @@
+{
+  "title": "Picnic",
+  "year": "1955",
+  "rated": "PG",
+  "released": "01 Dec 1955",
+  "runtime": "115 min",
+  "genre": "Drama, Romance",
+  "director": "Joshua Logan",
+  "writer": "Daniel Taradash, William Inge, Max Morise",
+  "actors": "William Holden, Kim Novak, Betty Field",
+  "plot": "Emotions are ignited among the complacent townsfolk when a handsome drifter arrives in a small Kansas community on the morning of the Labor Day picnic.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 5 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2NhZDViNGQtYzQ2MS00Y2M0LWI5MWMtMDVkYTAxYWI2YThlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "45%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0048491",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:09:15.326Z"
+}

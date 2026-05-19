@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194135744702311",
+  "title": "Superman #23",
+  "authors": [
+    "Alex Sinclair",
+    "Bixie Mathieu",
+    "Brian Michael Bendis",
+    "Brittany Holzherr",
+    "Bryan Hitch",
+    "Dave Sharpe",
+    "Jamie S. Rich",
+    "John Timms",
+    "Kevin Maguire"
+  ],
+  "publish_date": "2020-07-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/03/superman-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/14742/",
+  "fetched_at": "2026-05-19T03:07:40.869Z",
+  "reviewed_at": null
+}

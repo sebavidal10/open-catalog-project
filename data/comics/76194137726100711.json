@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194137726100711",
+  "title": "Batman Incorporated #7",
+  "authors": [
+    "Ben Abernathy",
+    "Clayton Cowles",
+    "Ed Brisson",
+    "Jim Lee",
+    "John Timms",
+    "Marie Javins",
+    "Michele Bandini",
+    "Mico Suayan",
+    "Rex Lokus"
+  ],
+  "publish_date": "2023-04-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/03/23/batman-inc-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/59649/",
+  "fetched_at": "2026-05-19T02:31:07.329Z",
+  "reviewed_at": null
+}

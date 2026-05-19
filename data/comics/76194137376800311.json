@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194137376800311",
+  "title": "I Am Batman #3",
+  "authors": [
+    "Ben Abernathy",
+    "Christian Duce",
+    "Dave Wielgosz",
+    "Gerardo Zaffino",
+    "Jim Lee",
+    "John Ridley",
+    "Kim Jacinto",
+    "Marie Javins",
+    "Rex Lokus",
+    "Stephen Segovia",
+    "Troy Peteri"
+  ],
+  "publish_date": "2021-11-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/28/i-am-batman-3.webp",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39997/",
+  "fetched_at": "2026-05-19T02:17:07.652Z",
+  "reviewed_at": null
+}

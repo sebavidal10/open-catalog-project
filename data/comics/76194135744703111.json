@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194135744703111",
+  "title": "Superman #31",
+  "authors": [
+    "Dave Sharpe",
+    "Diego Lopez",
+    "Gabe Eltaeb",
+    "InHyuk Lee",
+    "Jamie S. Rich",
+    "Jim Lee",
+    "John Timms",
+    "Marie Javins",
+    "Norm Rapmund",
+    "Phillip Kennedy Johnson",
+    "Sami Basri",
+    "Scott Godlewski",
+    "Sean Lewis",
+    "Ulises Arreola"
+  ],
+  "publish_date": "2021-05-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/06/superman-31.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30394/",
+  "fetched_at": "2026-05-19T03:10:45.495Z",
+  "reviewed_at": null
+}

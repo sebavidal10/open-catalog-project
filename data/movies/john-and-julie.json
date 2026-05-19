@@ -1,0 +1,27 @@
+{
+  "title": "John and Julie",
+  "year": "1955",
+  "rated": "N/A",
+  "released": "20 Feb 1956",
+  "runtime": "82 min",
+  "genre": "Family, Comedy",
+  "director": "William Fairchild",
+  "writer": "William Fairchild",
+  "actors": "Colin Gibson, Lesley Dudley, Noelle Middleton",
+  "plot": "An English boy and girl run away to London to see the coronation of Elizabeth II.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjc0NWEzNDAtNjg5Yy00YzI3LWJhMmItMDkxZWM0YzBiYmU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0048231",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:19:10.402Z"
+}

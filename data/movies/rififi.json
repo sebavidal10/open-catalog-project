@@ -1,0 +1,35 @@
+{
+  "title": "Rififi",
+  "year": "1955",
+  "rated": "Not Rated",
+  "released": "05 Jun 1956",
+  "runtime": "118 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Jules Dassin",
+  "writer": "Auguste Le Breton, Jules Dassin, René Wheeler",
+  "actors": "Jean Servais, Carl Möhner, Robert Manuel",
+  "plot": "Four men plan a technically perfect crime, but the human element intervenes...",
+  "language": "French, Italian",
+  "country": "France",
+  "awards": "6 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODI4ZDZmOTUtYjFiNi00NDdiLTgwY2ItNjAzODc4N2I4NjljXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "97/100"
+    }
+  ],
+  "metascore": "97",
+  "imdbRating": "8.1",
+  "imdbID": "tt0048021",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:08:40.729Z"
+}

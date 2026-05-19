@@ -1,0 +1,31 @@
+{
+  "title": "Abbott and Costello Meet the Mummy",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "23 Jun 1955",
+  "runtime": "79 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Charles Lamont",
+  "writer": "John Grant, Lee Loeb",
+  "actors": "Bud Abbott, Lou Costello, Marie Windsor",
+  "plot": "Two bumbling Americans stumble on the discovery of a lifetime when their search for a mummy leads them to a sacred medallion that holds the key to buried treasure.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2U2OTRlMDEtNjU1OC00NGY0LWE5OWMtMzYyNzM3NzI2NWNkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "25%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0047795",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:11:25.423Z"
+}

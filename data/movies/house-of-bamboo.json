@@ -1,0 +1,31 @@
+{
+  "title": "House of Bamboo",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "28 Aug 1955",
+  "runtime": "102 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Samuel Fuller",
+  "writer": "Harry Kleiner, Samuel Fuller",
+  "actors": "Robert Ryan, Robert Stack, Shirley Yamaguchi",
+  "plot": "Planted in a Tokyo crime syndicate, a U.S. Army Investigator attempts to probe the coinciding death of a fellow Army official.",
+  "language": "English, Japanese",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGYxMzdjNTUtYTkyNC00NWVjLWI1NjMtOTU0ZTIwMTJmZDIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0048182",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:10:24.543Z"
+}

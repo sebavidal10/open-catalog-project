@@ -1,0 +1,31 @@
+{
+  "title": "Kiss Me Deadly",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "28 Apr 1955",
+  "runtime": "106 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Robert Aldrich",
+  "writer": "Mickey Spillane, A.I. Bezzerides",
+  "actors": "Ralph Meeker, Albert Dekker, Paul Stewart",
+  "plot": "A doomed female hitchhiker pulls Mike Hammer into a deadly whirlpool of intrigue, revolving around a mysterious \"great whatsit\".",
+  "language": "English, Italian, Spanish",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODAyMTQxMjg5Nl5BMl5BanBnXkFtZTcwNzUzNzA2NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0048261",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:08:39.494Z"
+}

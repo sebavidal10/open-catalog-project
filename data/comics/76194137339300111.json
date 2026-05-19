@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "76194137339300111",
+  "title": "Superman: Lost #1",
+  "authors": [
+    "Brittany Holzherr",
+    "Carlo Pagulayan",
+    "Christopher Priest",
+    "Elmer Santos",
+    "Jamie S. Rich",
+    "Jeromy Cox",
+    "Jillian Grant",
+    "Jim Lee",
+    "Joe Quesada",
+    "Kevin Nowlan",
+    "Lee Weeks",
+    "Marie Javins",
+    "Michael Jason Paz",
+    "Paul Kaminski",
+    "Richard Isanove",
+    "Willie Schubert"
+  ],
+  "publish_date": "2023-03-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/03/10/sup-lost-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/58440/",
+  "fetched_at": "2026-05-19T03:16:37.761Z",
+  "reviewed_at": null
+}

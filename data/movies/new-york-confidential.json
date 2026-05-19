@@ -1,0 +1,27 @@
+{
+  "title": "New York Confidential",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "12 Mar 1955",
+  "runtime": "87 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Russell Rouse",
+  "writer": "Jack Lait, Lee Mortimer, Clarence Greene",
+  "actors": "Broderick Crawford, Richard Conte, Anne Bancroft",
+  "plot": "A top syndicate crime boss and his corrupt politicians make multi-million deals and order murders until the vicious pattern finally catches up to them.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjNmMjg3MDItM2UwMi00ZTlhLWFkODItMjc0OWU2ZjYwMTU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0048421",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:10:25.774Z"
+}

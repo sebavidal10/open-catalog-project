@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194137216700511",
+  "title": "Superman '78 #5",
+  "authors": [
+    "Andrew Marino",
+    "Dave Lanphear",
+    "Francis Manapul",
+    "Jamal Campbell",
+    "Jim Lee",
+    "Jordie Bellaire",
+    "Marie Javins",
+    "Robert Venditti",
+    "Wilfredo Torres"
+  ],
+  "publish_date": "2021-12-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/11/superman-78-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41700/",
+  "fetched_at": "2026-05-19T03:12:54.818Z",
+  "reviewed_at": null
+}

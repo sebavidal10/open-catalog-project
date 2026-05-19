@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194135744702211",
+  "title": "Superman #22",
+  "authors": [
+    "Alex Sinclair",
+    "Bixie Mathieu",
+    "Brian Michael Bendis",
+    "Brittany Holzherr",
+    "Bryan Hitch",
+    "Dave Sharpe",
+    "Ivan Reis",
+    "Jamie S. Rich",
+    "Joe Prado",
+    "Kevin Maguire"
+  ],
+  "publish_date": "2020-06-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/06/10/superman-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/13763/",
+  "fetched_at": "2026-05-19T03:07:24.383Z",
+  "reviewed_at": null
+}

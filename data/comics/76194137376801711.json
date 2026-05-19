@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194137376801711",
+  "title": "I Am Batman #17",
+  "authors": [
+    "Ben Abernathy",
+    "Christian Duce",
+    "Dave Wielgosz",
+    "Eduardo Pansica",
+    "Jason Howard",
+    "Jesús Merino",
+    "Jim Lee",
+    "John Ridley",
+    "Júlio Ferreira",
+    "Marie Javins",
+    "Rex Lokus",
+    "Romulo Fajardo Jr.",
+    "Troy Peteri"
+  ],
+  "publish_date": "2023-01-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/12/05/am-batman-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/53529/",
+  "fetched_at": "2026-05-19T02:29:16.218Z",
+  "reviewed_at": null
+}

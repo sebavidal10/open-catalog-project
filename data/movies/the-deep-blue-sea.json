@@ -1,0 +1,27 @@
+{
+  "title": "The Deep Blue Sea",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "01 Nov 1955",
+  "runtime": "100 min",
+  "genre": "Drama, Romance",
+  "director": "Anatole Litvak",
+  "writer": "Terence Rattigan",
+  "actors": "Vivien Leigh, Kenneth More, Eric Portman",
+  "plot": "A woman unhappy in her passionless marriage leaves her husband for a younger and more ardent lover.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 2 BAFTA 1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTAxZjk4MjItYjYyNy00Y2U0LWI2ZTMtOWVhMDAxOThiOWQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0047978",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:10:35.659Z"
+}

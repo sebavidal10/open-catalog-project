@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194137216700111",
+  "title": "Superman '78 #1",
+  "authors": [
+    "Andrew Marino",
+    "Dave Lanphear",
+    "Evan Shaner",
+    "Jim Lee",
+    "Jordie Bellaire",
+    "Marie Javins",
+    "Robert Venditti",
+    "Wilfredo Torres"
+  ],
+  "publish_date": "2021-08-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/12/superman-78-1.png",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/36503/",
+  "fetched_at": "2026-05-19T03:11:32.394Z",
+  "reviewed_at": null
+}

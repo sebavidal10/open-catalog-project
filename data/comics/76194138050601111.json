@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194138050601111",
+  "title": "Batman and Robin #11",
+  "authors": [
+    "Andrew Dalhouse",
+    "Ben Meares",
+    "Christian Ward",
+    "James Reid",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Juan Ferreyra",
+    "Marie Javins",
+    "Rob Levin",
+    "Simone Di Meo",
+    "Steve Wands",
+    "Travis Mercer"
+  ],
+  "publish_date": "2024-07-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/18/8fd9cd7e443b4f73b8b86508a021e769.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/122890/",
+  "fetched_at": "2026-05-19T02:41:11.816Z",
+  "reviewed_at": null
+}

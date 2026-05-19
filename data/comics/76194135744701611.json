@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194135744701611",
+  "title": "Superman #16",
+  "authors": [
+    "Alex Sinclair",
+    "Brian Cunningham",
+    "Brian Michael Bendis",
+    "Bryan Hitch",
+    "Dave Sharpe",
+    "David Lafuente",
+    "Ivan Reis",
+    "Jessica Chen",
+    "Joe Prado",
+    "Mike Cotton",
+    "Paul Mounts"
+  ],
+  "publish_date": "2019-10-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/04/superman-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6148/",
+  "fetched_at": "2026-05-19T03:04:36.488Z",
+  "reviewed_at": null
+}

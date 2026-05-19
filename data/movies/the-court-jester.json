@@ -1,0 +1,31 @@
+{
+  "title": "The Court Jester",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "27 Jan 1956",
+  "runtime": "101 min",
+  "genre": "Adventure, Comedy, Family",
+  "director": "Melvin Frank, Norman Panama",
+  "writer": "Norman Panama, Melvin Frank",
+  "actors": "Danny Kaye, Glynis Johns, Basil Rathbone",
+  "plot": "A hapless carnival performer masquerades as the court jester as part of a plot against an evil ruler who has overthrown the rightful King.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzI4Y2QwZTUtMTc3ZC00M2VmLWExODMtM2I5YWU5NzUwYzc3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0049096",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:09:07.877Z"
+}

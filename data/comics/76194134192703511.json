@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194134192703511",
+  "title": "Superman #35",
+  "authors": [
+    "Art Thibert",
+    "Dean White",
+    "Dinei Ribeiro",
+    "Eddie Berganza",
+    "Jessica Chen",
+    "Patrick Gleason",
+    "Paul Kaminski",
+    "Peter J. Tomasi",
+    "Renato Guedes",
+    "Rob Leigh",
+    "Stephen Segovia",
+    "Travis Moore"
+  ],
+  "publish_date": "2017-11-15",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/13/superman-v4-35.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8139/",
+  "fetched_at": "2026-05-19T02:59:05.222Z",
+  "reviewed_at": null
+}

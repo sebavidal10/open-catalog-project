@@ -1,0 +1,38 @@
+{
+  "isbn": null,
+  "upc": "76194137236502111",
+  "title": "Batman: Urban Legends #21",
+  "authors": [
+    "Alex Guimarães",
+    "Anthony Falcone",
+    "Becca Carey",
+    "Carlos M. Mangual",
+    "Dave Stewart",
+    "Dave Wielgosz",
+    "Dennis Culver",
+    "Hayden Sherman",
+    "Jessica Berbey",
+    "Jessica Chen",
+    "Jim Lee",
+    "Joey Esposito",
+    "Jordie Bellaire",
+    "Julio Anta",
+    "Lucas Gattoni",
+    "Marie Javins",
+    "Michael Cho",
+    "Miguel Mendonça",
+    "Pat Brosseau",
+    "Roman Stevens",
+    "Vasco Georgiev"
+  ],
+  "publish_date": "2022-11-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/10/26/batman-urban-21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/52973/",
+  "fetched_at": "2026-05-19T02:27:12.571Z",
+  "reviewed_at": null
+}

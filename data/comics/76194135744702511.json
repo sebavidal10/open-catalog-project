@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194135744702511",
+  "title": "Superman #25",
+  "authors": [
+    "Alex Sinclair",
+    "Bixie Mathieu",
+    "Brian Michael Bendis",
+    "Brittany Holzherr",
+    "Bryan Hitch",
+    "Danny Miki",
+    "Dave Sharpe",
+    "Ivan Reis",
+    "Jamie S. Rich",
+    "Joe Prado",
+    "Júlio Ferreira"
+  ],
+  "publish_date": "2020-09-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/04/superman-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16881/",
+  "fetched_at": "2026-05-19T03:08:16.198Z",
+  "reviewed_at": null
+}

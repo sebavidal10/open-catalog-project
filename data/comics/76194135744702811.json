@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194135744702811",
+  "title": "Superman #28",
+  "authors": [
+    "Alex Sinclair",
+    "Bixie Mathieu",
+    "Brian Michael Bendis",
+    "Brittany Holzherr",
+    "Danny Miki",
+    "Dave Sharpe",
+    "Ivan Reis",
+    "Jamie S. Rich",
+    "Joe Prado",
+    "Kael Ngu"
+  ],
+  "publish_date": "2020-12-15",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/02/superman-28.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19990/",
+  "fetched_at": "2026-05-19T03:09:08.314Z",
+  "reviewed_at": null
+}

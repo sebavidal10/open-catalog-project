@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134192702811",
+  "title": "Superman #28",
+  "authors": [
+    "Alejandro Sánchez",
+    "Andrew Marino",
+    "Eddie Berganza",
+    "Gabe Eltaeb",
+    "Jorge Jiménez",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Rob Leigh",
+    "Ryan Sook",
+    "Scott Godlewski"
+  ],
+  "publish_date": "2017-08-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/13/superman-v4-28.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8132/",
+  "fetched_at": "2026-05-19T02:58:22.199Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194138050600311",
+  "title": "Batman and Robin #3",
+  "authors": [
+    "Ben Abernathy",
+    "David Finch",
+    "James Stokoe",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Kael Ngu",
+    "Marie Javins",
+    "Simone Di Meo",
+    "Steve Wands",
+    "Sukesha Ray"
+  ],
+  "publish_date": "2023-11-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/10/24/b1e709859e014a8185356b2361e19bfe.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/77853/",
+  "fetched_at": "2026-05-19T02:35:48.573Z",
+  "reviewed_at": null
+}

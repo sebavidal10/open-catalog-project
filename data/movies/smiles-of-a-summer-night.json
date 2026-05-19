@@ -1,0 +1,31 @@
+{
+  "title": "Smiles of a Summer Night",
+  "year": "1955",
+  "rated": "Not Rated",
+  "released": "23 Dec 1957",
+  "runtime": "109 min",
+  "genre": "Comedy, Romance",
+  "director": "Ingmar Bergman",
+  "writer": "Ingmar Bergman",
+  "actors": "Ulla Jacobsson, Eva Dahlbeck, Harriet Andersson",
+  "plot": "In Sweden at the turn of the century, members of the upper class and their servants find themselves in a romantic tangle that they try to work out amidst jealousy and heartbreak.",
+  "language": "Swedish",
+  "country": "Sweden",
+  "awards": "Nominated for 3 BAFTA 2 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGU0MmI5OTAtZGZjZi00ODhjLTkzNDctZjY5MjllODUxOWNlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0048641",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:09:54.875Z"
+}

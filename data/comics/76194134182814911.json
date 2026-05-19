@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194134182814911",
+  "title": "Batman #149",
+  "authors": [
+    "Belén Ortega",
+    "Chip Zdarsky",
+    "Clayton Cowles",
+    "Dan Panosian",
+    "Gabriele Dell'Otto",
+    "Ivan Cohen",
+    "Jim Lee",
+    "Jorge Jiménez",
+    "Katie Kubert",
+    "Marie Javins",
+    "Michele Bandini",
+    "Nathan Fairbairn",
+    "Nick Filardi",
+    "Steve Lieber"
+  ],
+  "publish_date": "2024-06-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/23/4fad214ce67e4730b4ca908eab0d3fb8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/119745/",
+  "fetched_at": "2026-05-19T02:40:27.633Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134192703311",
+  "title": "Superman #33",
+  "authors": [
+    "Doug Mahnke",
+    "Eddie Berganza",
+    "Jaime Mendoza",
+    "Jessica Chen",
+    "Jonboy Meyers",
+    "Patrick Gleason",
+    "Paul Kaminski",
+    "Peter J. Tomasi",
+    "Rob Leigh",
+    "Ryan Sook",
+    "Wil Quintana"
+  ],
+  "publish_date": "2017-10-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/13/superman-v4-33.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8137/",
+  "fetched_at": "2026-05-19T02:58:51.607Z",
+  "reviewed_at": null
+}

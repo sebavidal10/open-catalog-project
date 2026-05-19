@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194135744702711",
+  "title": "Superman #27",
+  "authors": [
+    "Alex Sinclair",
+    "Bixie Mathieu",
+    "Brian Michael Bendis",
+    "Brittany Holzherr",
+    "Danny Miki",
+    "Dave Sharpe",
+    "Ivan Reis",
+    "Jamie S. Rich",
+    "Joe Prado",
+    "Marcelo Maiolo",
+    "Tony Daniel"
+  ],
+  "publish_date": "2020-11-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/04/superman-27.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18850/",
+  "fetched_at": "2026-05-19T03:08:44.781Z",
+  "reviewed_at": null
+}

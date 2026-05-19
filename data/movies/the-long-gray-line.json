@@ -1,0 +1,31 @@
+{
+  "title": "The Long Gray Line",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "04 Jan 1955",
+  "runtime": "138 min",
+  "genre": "Biography, Comedy, Drama",
+  "director": "John Ford",
+  "writer": "Edward Hope, Marty Maher, Nardi Reeder Campion",
+  "actors": "Tyrone Power, Maureen O'Hara, Robert Francis",
+  "plot": "In 1898, Irish immigrant Martin Maher is hired as a civilian employee at West Point where, during a 50-year career, he rises to the rank of NCO and instructor.",
+  "language": "English, Irish Gaelic",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDliZDQ5ZjktNDIwMC00OGEyLTkzNDktZWU1OWY1M2Y0OGE0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0048312",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:09:52.389Z"
+}

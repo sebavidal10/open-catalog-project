@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "76194134182815111",
+  "title": "Batman #151",
+  "authors": [
+    "Adriano Di Benedetto",
+    "Chip Zdarsky",
+    "Clayton Cowles",
+    "Giovanna Niro",
+    "Guillem March",
+    "James Harren",
+    "Jill Thompson",
+    "Jim Lee",
+    "Katie Kubert",
+    "Marianna Ignazzi",
+    "Marie Javins",
+    "Matt Herms",
+    "Mike Hawthorne",
+    "Romulo Fajardo Jr.",
+    "Salvador Larroca",
+    "Stevan Subić",
+    "Tini Howard"
+  ],
+  "publish_date": "2024-08-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/07/19/e8d06458722f4a129dc33f9e07d5a16e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/125119/",
+  "fetched_at": "2026-05-19T02:41:44.650Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194138050601011",
+  "title": "Batman and Robin #10",
+  "authors": [
+    "Ben Meares",
+    "Giovanna Niro",
+    "Gleb Melnikov",
+    "Guillem March",
+    "James Reid",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Marie Javins",
+    "Nikola Čižmešija",
+    "Rex Lokus",
+    "Rob Levin",
+    "Serg Acuña",
+    "Simone Di Meo"
+  ],
+  "publish_date": "2024-06-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/23/ace5ab0d7a3d4d7e8e0d426033d55fbc.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/119728/",
+  "fetched_at": "2026-05-19T02:40:31.605Z",
+  "reviewed_at": null
+}

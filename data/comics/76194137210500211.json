@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194137210500211",
+  "title": "Batman '89 #2",
+  "authors": [
+    "Andrew Marino",
+    "Clayton Cowles",
+    "Jim Lee",
+    "Joe Quinones",
+    "Leonardo Ito",
+    "Marie Javins",
+    "Mitch Gerads",
+    "Sam Hamm"
+  ],
+  "publish_date": "2021-09-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/02/batman-89-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37438/",
+  "fetched_at": "2026-05-19T02:14:11.567Z",
+  "reviewed_at": null
+}

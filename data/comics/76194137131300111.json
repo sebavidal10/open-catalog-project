@@ -1,0 +1,42 @@
+{
+  "isbn": null,
+  "upc": "76194137131300111",
+  "title": "Superman Red and Blue #1",
+  "authors": [
+    "Bixie Mathieu",
+    "Brad Anderson",
+    "Brandon Easton",
+    "Brittany Holzherr",
+    "Clayton Cowles",
+    "Clayton Henry",
+    "Dani Strips",
+    "Dan Watters",
+    "Darran Robinson",
+    "Dave Sharpe",
+    "Deron Bennett",
+    "Diego Lopez",
+    "Gary Frank",
+    "Jamie S. Rich",
+    "Jill Thompson",
+    "Jim Lee",
+    "John Ridley",
+    "Jordie Bellaire",
+    "Lee Bermejo",
+    "Marguerite Bennett",
+    "Marie Javins",
+    "Ron Chan",
+    "Steve Lieber",
+    "Troy Peteri",
+    "Wes Craig"
+  ],
+  "publish_date": "2021-03-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/10/superman-red-blue-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/26993/",
+  "fetched_at": "2026-05-19T03:10:21.441Z",
+  "reviewed_at": null
+}

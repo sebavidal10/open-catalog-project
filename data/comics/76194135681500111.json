@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "76194135681500111",
+  "title": "Superman Special #1",
+  "authors": [
+    "Alejandro Sánchez",
+    "Alex Sinclair",
+    "Andrew Marino",
+    "Bryan Hitch",
+    "Gabe Eltaeb",
+    "Ian Flynn",
+    "Jorge Jiménez",
+    "Kaare Andrews",
+    "Marie Javins",
+    "Mark Russell",
+    "Patrick Gleason",
+    "Paul Kaminski",
+    "Peter J. Tomasi",
+    "Rob Leigh",
+    "Scott Godlewski",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2018-05-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/15/superman-special-v3-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8150/",
+  "fetched_at": "2026-05-19T03:01:25.949Z",
+  "reviewed_at": null
+}

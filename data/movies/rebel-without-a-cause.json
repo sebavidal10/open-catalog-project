@@ -1,0 +1,35 @@
+{
+  "title": "Rebel Without a Cause",
+  "year": "1955",
+  "rated": "PG-13",
+  "released": "27 Oct 1955",
+  "runtime": "111 min",
+  "genre": "Drama",
+  "director": "Nicholas Ray",
+  "writer": "Stewart Stern, Irving Shulman, Nicholas Ray",
+  "actors": "James Dean, Natalie Wood, Sal Mineo",
+  "plot": "A rebellious young man with a troubled past comes to a new town, finding friends and enemies.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 4 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2QzZWUzODQtODUyZi00NDBlLTgzMGEtY2UzNmZhYzI0MTEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "7.6",
+  "imdbID": "tt0048545",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:08:41.967Z"
+}

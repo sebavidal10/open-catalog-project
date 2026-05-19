@@ -1,0 +1,31 @@
+{
+  "title": "Violent Saturday",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "20 Apr 1955",
+  "runtime": "90 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Richard Fleischer",
+  "writer": "Sydney Boehm, William L. Heath",
+  "actors": "Victor Mature, Richard Egan, Stephen McNally",
+  "plot": "Three hoodlums carefully case a small town while planning to rob the bank on the upcoming Saturday. On Saturday, things turn violent and deadly.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjllM2QyZjctNDNkNi00NWExLWE3MjYtYmZmMDA1YmEyZTYxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0048790",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:10:23.310Z"
+}

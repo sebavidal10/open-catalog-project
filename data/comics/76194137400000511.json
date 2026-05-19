@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194137400000511",
+  "title": "Batman: Knightwatch #5",
+  "authors": [
+    "Carrie Strachan",
+    "Jim Lee",
+    "J. Torres",
+    "Marcelo DiChiara",
+    "Marie Javins",
+    "Michael McCalister",
+    "Saida Temofonte"
+  ],
+  "publish_date": "2023-01-03",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/12/05/batman-knightwatch-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/53516/",
+  "fetched_at": "2026-05-19T02:28:40.819Z",
+  "reviewed_at": null
+}

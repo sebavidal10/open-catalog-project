@@ -1,0 +1,27 @@
+{
+  "title": "Queen Bee",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "07 Nov 1955",
+  "runtime": "95 min",
+  "genre": "Drama, Film-Noir, Romance",
+  "director": "Ranald MacDougall",
+  "writer": "Ranald MacDougall, Edna L. Lee",
+  "actors": "Joan Crawford, Barry Sullivan, Betsy Palmer",
+  "plot": "When a young woman arrives at the home of her socialite cousin, she soon gets sucked into the woman's complex web of deceit.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNThjNWQzYTEtYjllNS00N2U1LTllMzUtNjI4NDFmNWM0MjYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0048527",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:09:40.028Z"
+}

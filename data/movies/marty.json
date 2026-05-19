@@ -1,0 +1,35 @@
+{
+  "title": "Marty",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "10 Jun 1955",
+  "runtime": "90 min",
+  "genre": "Drama, Romance",
+  "director": "Delbert Mann",
+  "writer": "Paddy Chayefsky",
+  "actors": "Ernest Borgnine, Betsy Blair, Esther Minciotti",
+  "plot": "A middle-aged butcher and a school teacher who have given up on the idea of love meet at a dance and fall for each other.",
+  "language": "English, German, Italian",
+  "country": "United States",
+  "awards": "Won 4 Oscars. 19 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDk5OWZlNTAtMDU3OC00ZGM3LTgwNWYtMWM3ODEwZjM4ZDY3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "7.7",
+  "imdbID": "tt0048356",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:08:56.761Z"
+}

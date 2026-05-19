@@ -1,0 +1,31 @@
+{
+  "title": "Diabolique",
+  "year": "1955",
+  "rated": "Not Rated",
+  "released": "21 Nov 1955",
+  "runtime": "117 min",
+  "genre": "Crime, Drama, Horror",
+  "director": "Henri-Georges Clouzot",
+  "writer": "Pierre Boileau, Thomas Narcejac, Henri-Georges Clouzot",
+  "actors": "Simone Signoret, Véra Clouzot, Paul Meurisse",
+  "plot": "The wife and mistress of a loathed school principal plan to murder him with what they believe is the perfect alibi.",
+  "language": "French, English",
+  "country": "France",
+  "awards": "5 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDg5OTRmOTgtYzk0ZC00M2E5LWFmNzItMDc5NmNlMDM0MTdmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.1",
+  "imdbID": "tt0046911",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:09:00.453Z"
+}

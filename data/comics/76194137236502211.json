@@ -1,0 +1,41 @@
+{
+  "isbn": null,
+  "upc": "76194137236502211",
+  "title": "Batman: Urban Legends #22",
+  "authors": [
+    "Adriano Lucas",
+    "Alex Guimarães",
+    "Ben Abernathy",
+    "Carlos M. Mangual",
+    "Darran Robinson",
+    "Dave Wielgosz",
+    "Dennis Culver",
+    "Ferran Delgado",
+    "Hayden Sherman",
+    "Jamal Campbell",
+    "Jessica Berbey",
+    "Jessica Chen",
+    "Jim Lee",
+    "Joey Esposito",
+    "Jordie Bellaire",
+    "Lucas Gattoni",
+    "Lucas Silveira",
+    "Marie Javins",
+    "Pat Brosseau",
+    "Sebastian Cheng",
+    "Tiffany Huang",
+    "Travis Mercer",
+    "Vasco Georgiev",
+    "Yedoye Travis"
+  ],
+  "publish_date": "2022-12-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/11/30/bat-urban-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/53410/",
+  "fetched_at": "2026-05-19T02:28:08.218Z",
+  "reviewed_at": null
+}

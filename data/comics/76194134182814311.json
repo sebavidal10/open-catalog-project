@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "76194134182814311",
+  "title": "Batman #143",
+  "authors": [
+    "Alan Quah",
+    "Alejandro Sánchez",
+    "Andrea Sorrentino",
+    "Ben Abernathy",
+    "Chip Zdarsky",
+    "Clayton Cowles",
+    "Dave Stewart",
+    "Derrick Chew",
+    "Giuseppe Camuncoli",
+    "Jim Lee",
+    "Marie Javins",
+    "Stefano Nesi",
+    "Stevan Subić",
+    "Tomeu Morey",
+    "Yasmine Putri"
+  ],
+  "publish_date": "2024-02-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/01/22/a13e6cdd298845019ef2926ab22d12a8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/106934/",
+  "fetched_at": "2026-05-19T02:37:49.118Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,40 @@
+{
+  "isbn": null,
+  "upc": "76194137131300211",
+  "title": "Superman Red and Blue #2",
+  "authors": [
+    "Bixie Mathieu",
+    "Brian Bolland",
+    "Brittany Holzherr",
+    "Chris Sotomayor",
+    "Dan Panosian",
+    "Darran Robinson",
+    "Dave Sharpe",
+    "David Choe",
+    "Denys Cowan",
+    "Diego Lopez",
+    "Duncan Rouleau",
+    "Jamie S. Rich",
+    "Jason Howard",
+    "Jim Lee",
+    "John Stanisci",
+    "Marie Javins",
+    "Marley Zarcone",
+    "Nicola Scott",
+    "Pat Brosseau",
+    "Rob Leigh",
+    "Stephanie Phillips",
+    "Steve Seagle",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2021-04-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/15/superman-reb-blue-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29224/",
+  "fetched_at": "2026-05-19T03:10:35.094Z",
+  "reviewed_at": null
+}

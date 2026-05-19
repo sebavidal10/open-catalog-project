@@ -1,0 +1,31 @@
+{
+  "title": "French Cancan",
+  "year": "1955",
+  "rated": "Not Rated",
+  "released": "16 Apr 1956",
+  "runtime": "102 min",
+  "genre": "Comedy, Drama, Musical",
+  "director": "Jean Renoir",
+  "writer": "Jean Renoir, André-Paul Antoine",
+  "actors": "Jean Gabin, Françoise Arnoul, María Félix",
+  "plot": "This comedy drama from Jean Renoir chronicles the revival of Paris' most notorious dance as it tells the story of a theater producer who turns a humble washerwoman into a star at the Moulin Rouge.",
+  "language": "French",
+  "country": "France, Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE4MTk3MDY5MV5BMl5BanBnXkFtZTgwOTA0NzM3NDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0046998",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:10:49.222Z"
+}

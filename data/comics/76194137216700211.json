@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194137216700211",
+  "title": "Superman '78 #2",
+  "authors": [
+    "Alex Sinclair",
+    "Andrew Marino",
+    "Ben Oliver",
+    "Bryan Hitch",
+    "Dave Lanphear",
+    "Jim Lee",
+    "Jordie Bellaire",
+    "Marie Javins",
+    "Robert Venditti",
+    "Wilfredo Torres"
+  ],
+  "publish_date": "2021-09-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/19/superman-78-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/38400/",
+  "fetched_at": "2026-05-19T03:11:59.531Z",
+  "reviewed_at": null
+}

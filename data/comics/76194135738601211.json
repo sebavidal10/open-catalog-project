@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194135738601211",
+  "title": "Superman's Pal, Jimmy Olsen #12",
+  "authors": [
+    "Ben Oliver",
+    "Bixie Mathieu",
+    "Clayton Cowles",
+    "Jamie S. Rich",
+    "Jessica Chen",
+    "Matt Fraction",
+    "Nathan Fairbairn",
+    "Steve Lieber"
+  ],
+  "publish_date": "2020-07-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/11/jo-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15014/",
+  "fetched_at": "2026-05-19T03:07:52.851Z",
+  "reviewed_at": null
+}

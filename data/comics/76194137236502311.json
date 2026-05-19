@@ -1,0 +1,40 @@
+{
+  "isbn": null,
+  "upc": "76194137236502311",
+  "title": "Batman: Urban Legends #23",
+  "authors": [
+    "Adriano Lucas",
+    "Alex Guimarães",
+    "Ben Abernathy",
+    "Carlos M. Mangual",
+    "Cully Hamner",
+    "Darran Robinson",
+    "Dave Wielgosz",
+    "Dennis Culver",
+    "Deron Bennett",
+    "Hayden Sherman",
+    "Jamal Campbell",
+    "Jessica Berbey",
+    "Jessica Chen",
+    "Jim Lee",
+    "Joey Esposito",
+    "Jordie Bellaire",
+    "Kenny Porter",
+    "Lucas Gattoni",
+    "Marie Javins",
+    "Pat Brosseau",
+    "Simone Di Meo",
+    "Tiffany Huang",
+    "Vasco Georgiev"
+  ],
+  "publish_date": "2023-01-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/12/05/batman-urban-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/53527/",
+  "fetched_at": "2026-05-19T02:29:12.360Z",
+  "reviewed_at": null
+}

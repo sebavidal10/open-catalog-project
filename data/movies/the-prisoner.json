@@ -1,0 +1,31 @@
+{
+  "title": "The Prisoner",
+  "year": "1955",
+  "rated": "Not Rated",
+  "released": "11 Dec 1955",
+  "runtime": "91 min",
+  "genre": "Drama",
+  "director": "Peter Glenville",
+  "writer": "Bridget Boland",
+  "actors": "Alec Guinness, Jack Hawkins, Wilfrid Lawson",
+  "plot": "A Cardinal, a hero of resistance, endures brutal interrogation with unshakable resolve, refusing to confess his supposed treason. As his tormentor's methods fail, the interrogator finds himself unexpectedly moved by pity for indom...",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 5 BAFTA 5 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDA4OWM3ZDAtOGZiMy00YTM2LTk5NTEtNTAwOGZiMGE3ZTVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "63%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0048512",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:11:06.872Z"
+}

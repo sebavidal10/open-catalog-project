@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194134182814711",
+  "title": "Batman #147",
+  "authors": [
+    "Chip Zdarsky",
+    "Clayton Cowles",
+    "Enrica Eren Angiolini",
+    "Ivan Cohen",
+    "Jim Lee",
+    "Jorge Jiménez",
+    "Katie Kubert",
+    "Kendrick Lim",
+    "Marie Javins",
+    "Miguel Mendonça",
+    "Stevan Subić",
+    "Tomeu Morey",
+    "Yasmine Putri"
+  ],
+  "publish_date": "2024-05-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/04/13/50deade7a1934824b3ea8137e4cd5d52.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/115912/",
+  "fetched_at": "2026-05-19T02:39:46.949Z",
+  "reviewed_at": null
+}

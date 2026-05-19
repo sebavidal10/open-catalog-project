@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194137376801111",
+  "title": "I Am Batman #11",
+  "authors": [
+    "Ben Abernathy",
+    "Christian Duce",
+    "Dave Wielgosz",
+    "Jim Lee",
+    "John Ridley",
+    "Marie Javins",
+    "Rafael Albuquerque",
+    "Rex Lokus",
+    "Romulo Fajardo Jr.",
+    "Salvador Larroca",
+    "Tom Derenick",
+    "Troy Peteri"
+  ],
+  "publish_date": "2022-07-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/06/26/i-am-batman-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/49950/",
+  "fetched_at": "2026-05-19T02:23:36.145Z",
+  "reviewed_at": null
+}

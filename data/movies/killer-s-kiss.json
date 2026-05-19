@@ -1,0 +1,31 @@
+{
+  "title": "Killer's Kiss",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "01 Oct 1955",
+  "runtime": "67 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Stanley Kubrick",
+  "writer": "Stanley Kubrick, Howard Sackler",
+  "actors": "Frank Silvera, Irene Kane, Jamie Smith",
+  "plot": "Ready to catch a train to his hometown, a washed-up boxer tells us about the strange and twisty events that happened to him the past couple of days.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMyODMxOTUtZWI0ZS00Y2ZhLWJmMjMtZDIzYThlNmMwYTEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0048254",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:09:27.673Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Swindle",
+  "year": "1955",
+  "rated": "Not Rated",
+  "released": "01 Oct 1962",
+  "runtime": "92 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Federico Fellini",
+  "writer": "Federico Fellini, Ennio Flaiano, Tullio Pinelli",
+  "actors": "Broderick Crawford, Richard Basehart, Giulietta Masina",
+  "plot": "A trio of con-men led by a lonesome swindler must deal with their job and family pressures.",
+  "language": "Italian, Latin, English",
+  "country": "Italy, France",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTM1ZmRlODgtYjE2MC00MzI2LTgzYjktYWE5OWY2MjFmN2Q0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0047876",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:10:41.818Z"
+}

@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "76194137950000411",
+  "title": "Superman #4",
+  "authors": [
+    "Ariana Maher",
+    "Frank Martin",
+    "Gabriel Rodriguez",
+    "Jamal Campbell",
+    "Jillian Grant",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Lee Bermejo",
+    "Marie Javins",
+    "Mico Suayan",
+    "Nathan Szerdy",
+    "Nick Dragotta",
+    "Pamela Hoogeboom",
+    "Paul Kaminski",
+    "Ramona Fradon",
+    "Romulo Fajardo Jr.",
+    "Sandra Hope",
+    "Trish Mulvihill"
+  ],
+  "publish_date": "2023-05-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/04/21/367343330d4f464e891794f9c2ed23e8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/62677/",
+  "fetched_at": "2026-05-19T03:17:11.958Z",
+  "reviewed_at": null
+}

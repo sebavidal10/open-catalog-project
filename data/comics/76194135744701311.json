@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194135744701311",
+  "title": "Superman #13",
+  "authors": [
+    "Adam Hughes",
+    "Alex Sinclair",
+    "Brandon Peterson",
+    "Brian Cunningham",
+    "Brian Michael Bendis",
+    "Dave Sharpe",
+    "Ivan Reis",
+    "Jessica Chen",
+    "Joe Prado",
+    "Mike Cotton"
+  ],
+  "publish_date": "2019-07-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/05/superman-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3326/",
+  "fetched_at": "2026-05-19T03:03:36.951Z",
+  "reviewed_at": null
+}

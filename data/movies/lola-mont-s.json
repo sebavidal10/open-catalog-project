@@ -1,0 +1,31 @@
+{
+  "title": "Lola Montès",
+  "year": "1955",
+  "rated": "Not Rated",
+  "released": "23 Dec 1955",
+  "runtime": "116 min",
+  "genre": "Biography, Drama, Romance",
+  "director": "Max Ophüls",
+  "writer": "Jacques Laurent, Max Ophüls, Annette Wademant",
+  "actors": "Martine Carol, Peter Ustinov, Anton Walbrook",
+  "plot": "When she is reduced to appearing in a circus, a notorious beauty thinks back on her past loves.",
+  "language": "French, German, English",
+  "country": "France, West Germany",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGMxZGNjY2YtY2JmOC00YWY1LTk3YzctYTEwYmQ3MWJiYzFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0048308",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:08:44.430Z"
+}

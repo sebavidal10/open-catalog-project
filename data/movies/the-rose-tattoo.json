@@ -1,0 +1,31 @@
+{
+  "title": "The Rose Tattoo",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "13 Dec 1955",
+  "runtime": "117 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Daniel Mann",
+  "writer": "Tennessee Williams, Hal Kanter",
+  "actors": "Anna Magnani, Burt Lancaster, Marisa Pavan",
+  "plot": "A Sicilian seamstress who idolizes her husband must deal with several family crises upon his sudden death.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 10 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM5YTBjMzctZjlhNi00YWYwLWE4MWMtY2Q2ODdiODhlMmVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0048563",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:10:07.237Z"
+}

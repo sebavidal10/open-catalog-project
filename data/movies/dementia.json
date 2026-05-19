@@ -1,0 +1,31 @@
+{
+  "title": "Dementia",
+  "year": "1955",
+  "rated": "Not Rated",
+  "released": "22 Dec 1955",
+  "runtime": "61 min",
+  "genre": "Drama, Film-Noir, Horror",
+  "director": "John Parker, Bruno VeSota",
+  "writer": "John Parker, Bruno VeSota",
+  "actors": "Adrienne Barrett, Bruno VeSota, Ben Roseman",
+  "plot": "This film, with no dialogue at all, follows a psychotic young woman's nightmarish experiences through one skid-row night.",
+  "language": "None",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWEzMGUyYmYtOTljZS00M2IyLWIyMzgtOGVkNTRkOGU1OWZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0047976",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:09:36.305Z"
+}

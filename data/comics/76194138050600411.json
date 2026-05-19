@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194138050600411",
+  "title": "Batman and Robin #4",
+  "authors": [
+    "Ben Abernathy",
+    "David Finch",
+    "Gleb Melnikov",
+    "Jeromy Cox",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Kael Ngu",
+    "Marie Javins",
+    "Mikel Janín",
+    "Otto Schmidt",
+    "Romulo Fajardo Jr.",
+    "Simone Di Meo",
+    "Steve Wands"
+  ],
+  "publish_date": "2023-12-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/11/19/958c7cfa53434f2d8f5f0b46ca950f44.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/86585/",
+  "fetched_at": "2026-05-19T02:36:20.898Z",
+  "reviewed_at": null
+}

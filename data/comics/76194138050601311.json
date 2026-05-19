@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194138050601311",
+  "title": "Batman and Robin #13",
+  "authors": [
+    "Andrew Dalhouse",
+    "Ben Meares",
+    "Carmine Di Giandomenico",
+    "Christian Ward",
+    "James Reid",
+    "Jim Lee",
+    "Joshua Williamson",
+    "Juan Ferreyra",
+    "Marie Javins",
+    "Rob Levin",
+    "Simone Di Meo",
+    "Steve Wands",
+    "Travis Mercer"
+  ],
+  "publish_date": "2024-09-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/08/24/a6eaee0b2def4404a577ee89ac59f30b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/126455/",
+  "fetched_at": "2026-05-19T02:42:33.180Z",
+  "reviewed_at": null
+}

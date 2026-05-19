@@ -1,0 +1,35 @@
+{
+  "title": "The Trouble with Harry",
+  "year": "1955",
+  "rated": "PG",
+  "released": "03 Oct 1955",
+  "runtime": "99 min",
+  "genre": "Comedy, Mystery",
+  "director": "Alfred Hitchcock",
+  "writer": "John Michael Hayes, Jack Trevor Story",
+  "actors": "John Forsythe, Shirley MacLaine, Edmund Gwenn",
+  "plot": "Harry's dead and, while no one really minds, everyone feels responsible. After Harry's body is found in the woods, several locals must determine not only how and why he was killed but what to do with the body.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 BAFTA Awards. 1 win & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2JmZWE4MjgtNmRiOS00ZDY1LTkyMWQtZDkyMjFiZTc1M2M4XkEyXkFqcGc@._V1_QL75_UX380_CR0,11,380,562_.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.0",
+  "imdbID": "tt0048750",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:09:02.925Z"
+}

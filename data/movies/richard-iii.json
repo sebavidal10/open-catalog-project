@@ -1,0 +1,35 @@
+{
+  "title": "Richard III",
+  "year": "1955",
+  "rated": "Not Rated",
+  "released": "11 Mar 1956",
+  "runtime": "161 min",
+  "genre": "Biography, Drama, History",
+  "director": "Laurence Olivier",
+  "writer": "William Shakespeare, Laurence Olivier, David Garrick",
+  "actors": "Laurence Olivier, Cedric Hardwicke, Nicholas Hannen",
+  "plot": "A tale of the wicked deformed King and his conquests, both on the battlefield and in the boudoir.",
+  "language": "English, Latin",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 Oscar. 9 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWQ0MjE2Y2QtZjcwOS00MDBlLThhZDktNTYwMWEwYmUyNmY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "7.3",
+  "imdbID": "tt0049674",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:09:23.969Z"
+}

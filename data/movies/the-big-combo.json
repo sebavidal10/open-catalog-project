@@ -1,0 +1,31 @@
+{
+  "title": "The Big Combo",
+  "year": "1955",
+  "rated": "Approved",
+  "released": "13 Feb 1955",
+  "runtime": "87 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Joseph H. Lewis",
+  "writer": "Philip Yordan",
+  "actors": "Cornel Wilde, Richard Conte, Jean Wallace",
+  "plot": "A police lieutenant is ordered to stop investigating deadly crime boss Mr. Brown because he hasn't been able to get any hard evidence against him. He goes after Brown's girlfriend, who despises him, for information instead.",
+  "language": "English, Swedish, Latin, German",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzJiYjQ1ODgtZjhjNy00NzZiLWEzZjYtMDk2NWYxYzY4OWIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0047878",
+  "type": "movie",
+  "fetched_at": "2026-05-19T02:09:42.506Z"
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194137950000511",
+  "title": "Superman #5",
+  "authors": [
+    "Ariana Maher",
+    "Hayden Sherman",
+    "Jamal Campbell",
+    "Jillian Grant",
+    "Jim Lee",
+    "John Cassaday",
+    "Jorge Fornés",
+    "Joshua Williamson",
+    "Lee Bermejo",
+    "Marie Javins",
+    "Mikel Janín",
+    "Paul Kaminski",
+    "W. Scott Forbes"
+  ],
+  "publish_date": "2023-06-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/05/25/1f9474070972451e958da6c5f92efe9e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/65868/",
+  "fetched_at": "2026-05-19T03:17:30.696Z",
+  "reviewed_at": null
+}

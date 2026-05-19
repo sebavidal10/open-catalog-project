@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194137142900311",
+  "title": "Robin & Batman #3",
+  "authors": [
+    "Ben Abernathy",
+    "Dustin Nguyen",
+    "Jeff Lemire",
+    "Jim Lee",
+    "Jordie Bellaire",
+    "Marie Javins",
+    "Rafael Albuquerque",
+    "Steve Wands"
+  ],
+  "publish_date": "2022-01-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/03/robin-batman-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42698/",
+  "fetched_at": "2026-05-19T02:18:43.970Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960601321007711",
+  "title": "Spider-Man #77",
+  "authors": [
+    "Bob Harras",
+    "Bud LaRosa",
+    "Cam Smith",
+    "Claudio Castellini",
+    "Comicraft",
+    "Harry Candelario",
+    "Howard Mackie",
+    "Kevin Tinsley",
+    "Mark Farmer",
+    "Ralph Cabrera",
+    "Ralph Macchio"
+  ],
+  "publish_date": "1997-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/01/spider-man-77.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33535/",
+  "fetched_at": "2026-05-19T03:30:26.149Z",
+  "reviewed_at": "1997-02-01"
+}

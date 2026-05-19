@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134192703111",
+  "title": "Superman #31",
+  "authors": [
+    "Arif Prianto",
+    "Dave Sharpe",
+    "Eddie Berganza",
+    "Ian Churchill",
+    "James Bonny",
+    "Jessica Chen",
+    "Jonboy Meyers",
+    "Paul Kaminski",
+    "Tyler Kirkham"
+  ],
+  "publish_date": "2017-09-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/13/superman-v4-31.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8135/",
+  "fetched_at": "2026-05-19T02:58:39.065Z",
+  "reviewed_at": null
+}

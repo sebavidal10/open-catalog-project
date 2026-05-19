@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194135744701511",
+  "title": "Superman #15",
+  "authors": [
+    "Adam Hughes",
+    "Alex Sinclair",
+    "Brandon Peterson",
+    "Brian Cunningham",
+    "Brian Michael Bendis",
+    "Dave Sharpe",
+    "Evan Shaner",
+    "Ivan Reis",
+    "Jessica Chen",
+    "Joe Prado",
+    "Mike Cotton",
+    "Oclair Albert"
+  ],
+  "publish_date": "2019-09-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/09/16/superman-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/5441/",
+  "fetched_at": "2026-05-19T03:04:17.504Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194137129000511",
+  "title": "Batman: The Detective #5",
+  "authors": [
+    "Andy Kubert",
+    "Ben Abernathy",
+    "Brad Anderson",
+    "Clem Robins",
+    "Dave Wielgosz",
+    "Jim Lee",
+    "Marie Javins",
+    "Sandra Hope",
+    "Tom Taylor"
+  ],
+  "publish_date": "2021-09-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/02/batman-detective-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37449/",
+  "fetched_at": "2026-05-19T02:14:42.759Z",
+  "reviewed_at": null
+}

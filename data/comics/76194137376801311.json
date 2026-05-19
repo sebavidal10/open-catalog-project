@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194137376801311",
+  "title": "I Am Batman #13",
+  "authors": [
+    "Ben Abernathy",
+    "Christian Duce",
+    "Dave Wielgosz",
+    "Eduardo Pansica",
+    "Jim Lee",
+    "John Ridley",
+    "Júlio Ferreira",
+    "Marcelo Maiolo",
+    "Marie Javins",
+    "Mike Bowden",
+    "Norm Rapmund",
+    "Rex Lokus",
+    "Roger Cruz",
+    "Troy Peteri"
+  ],
+  "publish_date": "2022-09-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/08/22/i-am-batman-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/51803/",
+  "fetched_at": "2026-05-19T02:25:32.516Z",
+  "reviewed_at": null
+}
