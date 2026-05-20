@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "596060471663411",
+  "title": "The Amazing Spider-Man #634",
+  "authors": [
+    "Alan Fine",
+    "Dan Buckley",
+    "Fabio D'Auria",
+    "J.M. DeMatteis",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Joe Quinones",
+    "Leinil Francis Yu",
+    "Marcos Martín",
+    "Matt Hollingsworth",
+    "Max Fiumara",
+    "Michael Lark",
+    "Stan Lee",
+    "Stefano Gaudiano",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2010-06-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/17/asm-v2-634.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17191/",
+  "fetched_at": "2026-05-20T14:08:39.578Z",
+  "reviewed_at": null
+}

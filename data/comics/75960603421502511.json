@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960603421502511",
+  "title": "The Sensational Spider-Man #25",
+  "authors": [
+    "Al Milgrom",
+    "Atomic Paintbrush",
+    "Bob Harras",
+    "Dan Green",
+    "Gregory Wright",
+    "Joe Bennett",
+    "Kiff Scholl",
+    "Mark Bernardo",
+    "Mike Wieringo",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Todd Dezago"
+  ],
+  "publish_date": "1998-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/04/the-sensational-spider-man-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39172/",
+  "fetched_at": "2026-05-20T03:34:20.495Z",
+  "reviewed_at": "1998-03-01"
+}

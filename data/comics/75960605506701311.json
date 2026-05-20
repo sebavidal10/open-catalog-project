@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605506701311",
+  "title": "Spider-Man Unlimited #13",
+  "authors": [
+    "Aaron Williams",
+    "Andy Schmidt",
+    "Casey Jones",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Don Hillsman",
+    "Joe Quesada",
+    "Tim Smith III"
+  ],
+  "publish_date": "2006-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/30/447735254ac04c5c9c7e8531fc6d6f7e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/134338/",
+  "fetched_at": "2026-05-20T13:41:10.788Z",
+  "reviewed_at": "2006-03-01"
+}

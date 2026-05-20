@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": "75960604711600511",
+  "title": "Spider-Man: Chapter One #5",
+  "authors": [
+    "Bob Harras",
+    "John Byrne",
+    "Ralph Macchio",
+    "Steve Buccellato"
+  ],
+  "publish_date": "1999-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/03/spider-man-chapter-one-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/35982/",
+  "fetched_at": "2026-05-20T03:38:42.506Z",
+  "reviewed_at": "1999-03-01"
+}

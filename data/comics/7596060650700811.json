@@ -1,0 +1,39 @@
+{
+  "isbn": null,
+  "upc": "7596060650700811",
+  "title": "Amazing Spider-Man Family #8",
+  "authors": [
+    "Alan Fine",
+    "Andrew Crossley",
+    "Bruno Hang",
+    "Chad Hardin",
+    "Dan Buckley",
+    "Dave Lanphear",
+    "Dave Sharpe",
+    "Irene Lee",
+    "Javier Pulido",
+    "Javier Rodríguez",
+    "Joe Quesada",
+    "John Kalisz",
+    "Marc Sumerak",
+    "Mark Irwin",
+    "Ron Frenz",
+    "Sal Buscema",
+    "Stephanie Buscema",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Tom DeFalco",
+    "Tom Peyer"
+  ],
+  "publish_date": "2009-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/09/11/87b48573dde24d52948339898dd75b55.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/75183/",
+  "fetched_at": "2026-05-20T14:01:48.347Z",
+  "reviewed_at": null
+}

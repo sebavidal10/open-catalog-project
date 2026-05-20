@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960602199424411",
+  "title": "The Spectacular Spider-Man #244",
+  "authors": [
+    "Bob Harras",
+    "Comicraft",
+    "J.M. DeMatteis",
+    "Joe Andreani",
+    "John Kalisz",
+    "John Stanisci",
+    "Luke Ross",
+    "Ralph Macchio",
+    "Richard Starkings"
+  ],
+  "publish_date": "1997-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/27/the-spectacular-spider-man-244.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/31252/",
+  "fetched_at": "2026-05-20T03:28:50.440Z",
+  "reviewed_at": "1997-03-01"
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960604716104111",
+  "title": "The Amazing Spider-Man #41",
+  "authors": [
+    "Al Rio",
+    "Axel Alonso",
+    "Bill Jemas",
+    "Dan Kemp",
+    "Jason Pearson",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "John Miesegaes",
+    "John Romita Jr.",
+    "Richard Starkings",
+    "Sandu Florea",
+    "Scott Hanna",
+    "Wes Abbott"
+  ],
+  "publish_date": "2002-05-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/10/asm-v2-41.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17029/",
+  "fetched_at": "2026-05-20T03:52:31.717Z",
+  "reviewed_at": null
+}

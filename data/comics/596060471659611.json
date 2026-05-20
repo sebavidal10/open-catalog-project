@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060471659611",
+  "title": "The Amazing Spider-Man #596",
+  "authors": [
+    "Alan Fine",
+    "Amilton Santos",
+    "Andy Lanning",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Jeromy Cox",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Paulo Siqueira",
+    "Phil Jimenez",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-06-03",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/15/asm-v2-596.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17149/",
+  "fetched_at": "2026-05-20T14:00:57.939Z",
+  "reviewed_at": null
+}

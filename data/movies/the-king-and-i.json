@@ -1,0 +1,35 @@
+{
+  "title": "The King and I",
+  "year": "1956",
+  "rated": "G",
+  "released": "29 Jun 1956",
+  "runtime": "133 min",
+  "genre": "Biography, Drama, Musical",
+  "director": "Walter Lang",
+  "writer": "Ernest Lehman, Oscar Hammerstein II, Margaret Landon",
+  "actors": "Yul Brynner, Deborah Kerr, Rita Moreno",
+  "plot": "A widow accepts a job as a live-in governess to the King of Siam's children.",
+  "language": "English, Thai",
+  "country": "United States",
+  "awards": "Won 5 Oscars. 11 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDA5MTVjZDEtYmE3Ni00MTc5LWFlYWMtNzk1YjM5NTUzNzE1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "metascore": "72",
+  "imdbRating": "7.4",
+  "imdbID": "tt0049408",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:26:27.683Z"
+}

@@ -1,0 +1,39 @@
+{
+  "isbn": null,
+  "upc": "75960606986600111",
+  "title": "Web of Spider-Man #1",
+  "authors": [
+    "Alan Fine",
+    "Andres Mossa",
+    "Anthony Dial",
+    "Bruno Hang",
+    "Dan Buckley",
+    "Dan Green",
+    "Dave Lanphear",
+    "Dave Sharpe",
+    "Jared K. Fletcher",
+    "J.M. DeMatteis",
+    "Joe Quesada",
+    "Mirco Pierfederici",
+    "Pasqual Ferry",
+    "Ron Frenz",
+    "Sal Buscema",
+    "Sean McKeever",
+    "Stephanie Buscema",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Tom DeFalco",
+    "Val Semeiks"
+  ],
+  "publish_date": "2009-10-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/30/web-of-spider-man-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/38924/",
+  "fetched_at": "2026-05-20T14:03:41.870Z",
+  "reviewed_at": null
+}

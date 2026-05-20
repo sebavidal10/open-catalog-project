@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "596060471656011",
+  "title": "The Amazing Spider-Man #560",
+  "authors": [
+    "Anthony Dial",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dan Slott",
+    "Javier Rodríguez",
+    "Joe Quesada",
+    "Marcos Martín",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2008-05-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/12/asm-v2-560.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17113/",
+  "fetched_at": "2026-05-20T13:54:36.100Z",
+  "reviewed_at": null
+}

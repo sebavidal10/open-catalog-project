@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605031405111",
+  "title": "Ultimate Spider-Man #51",
+  "authors": [
+    "Art Thibert",
+    "Brian Michael Bendis",
+    "C. B. Cebulski",
+    "Chris Eliopoulos",
+    "Joe Quesada",
+    "Jonathan D. Smith",
+    "MacKenzie Cadenhead",
+    "Mark Bagley",
+    "Nick Lowe",
+    "Ralph Macchio"
+  ],
+  "publish_date": "2003-12-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/08/26/5170f244a99f4400b3d585c9f86418af.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/74010/",
+  "fetched_at": "2026-05-20T04:00:40.489Z",
+  "reviewed_at": null
+}

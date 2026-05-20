@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960604716102711",
+  "title": "The Amazing Spider-Man #27",
+  "authors": [
+    "Axel Alonso",
+    "Gregory Wright",
+    "Howard Mackie",
+    "Jason Levine",
+    "Joe Quesada",
+    "John Romita Jr.",
+    "Richard Starkings",
+    "Scott Hanna"
+  ],
+  "publish_date": "2001-01-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/10/asm-v2-27.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17015/",
+  "fetched_at": "2026-05-20T03:46:54.172Z",
+  "reviewed_at": null
+}

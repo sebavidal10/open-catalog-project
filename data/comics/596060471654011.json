@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "596060471654011",
+  "title": "The Amazing Spider-Man #540",
+  "authors": [
+    "Axel Alonso",
+    "Bill Reinhold",
+    "Cory Petit",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "Matt Milla",
+    "Michael O'Connor",
+    "Ron Garney"
+  ],
+  "publish_date": "2007-03-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/12/asm-v2-540.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17093/",
+  "fetched_at": "2026-05-20T13:48:22.714Z",
+  "reviewed_at": null
+}

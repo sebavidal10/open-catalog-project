@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960605506701511",
+  "title": "Spider-Man Unlimited #15",
+  "authors": [
+    "Andy Schmidt",
+    "Cam Smith",
+    "Dave Sharpe",
+    "Jay Anacleto",
+    "Klaus Janson",
+    "Steve Buccellato"
+  ],
+  "publish_date": "2006-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/30/b2e3fc9082f04bbeb8ab3e5ffc0e358d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/134340/",
+  "fetched_at": "2026-05-20T13:43:26.550Z",
+  "reviewed_at": "2006-07-01"
+}

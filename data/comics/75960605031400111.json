@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960605031400111",
+  "title": "Ultimate Spider-Man #1",
+  "authors": [
+    "Art Thibert",
+    "Bill Jemas",
+    "Bob Harras",
+    "Brian Michael Bendis",
+    "Comicraft",
+    "Mark Bagley",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Steve Buccellato"
+  ],
+  "publish_date": "2000-09-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/08/26/ea269e401db94e929db950d37231414d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/73959/",
+  "fetched_at": "2026-05-20T03:45:13.812Z",
+  "reviewed_at": null
+}

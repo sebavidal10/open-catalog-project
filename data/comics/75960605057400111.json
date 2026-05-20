@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960605057400111",
+  "title": "Spider-Man and Mysterio #1",
+  "authors": [
+    "Bob McLeod",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Lee Weeks",
+    "Ralph Macchio",
+    "Steve Oliff",
+    "Tom DeFalco"
+  ],
+  "publish_date": "2001-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/25/SM-Mysterio-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8269/",
+  "fetched_at": "2026-05-20T03:46:13.015Z",
+  "reviewed_at": "2001-01-01"
+}

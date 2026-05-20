@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960606693300111",
+  "title": "Amazing Spider-Man: Extra! #2",
+  "authors": [
+    "Antonio Fabela",
+    "Chris Bachalo",
+    "Dan Slott",
+    "Jaime Mendoza",
+    "Jonathan Sibal",
+    "Paolo Rivera",
+    "Rus Wooton",
+    "Stéphane Roux",
+    "Stephen Wacker",
+    "Tim Townsend",
+    "Tom Brennan",
+    "Zeb Wells"
+  ],
+  "publish_date": "2009-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/11/Amazing_Spider-Man_-_Extra_2009-_002-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131472/",
+  "fetched_at": "2026-05-20T13:58:32.887Z",
+  "reviewed_at": "2009-03-01"
+}

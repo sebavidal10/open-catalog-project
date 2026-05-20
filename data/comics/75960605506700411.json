@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960605506700411",
+  "title": "Spider-Man Unlimited #4",
+  "authors": [
+    "Allan Jacobsen",
+    "Bill Crabtree",
+    "Cory Walker",
+    "C.P. Smith",
+    "Dave Sharpe",
+    "Erik Larsen",
+    "Robert Kirkman",
+    "Scott Hanna",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2004-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/30/7fdc7e4785ab44eb9bc784f8d3155708.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/134329/",
+  "fetched_at": "2026-05-20T04:03:56.264Z",
+  "reviewed_at": "2004-09-01"
+}

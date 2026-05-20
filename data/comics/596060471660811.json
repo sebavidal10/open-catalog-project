@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060471660811",
+  "title": "The Amazing Spider-Man #608",
+  "authors": [
+    "Adi Granov",
+    "Alan Fine",
+    "Dan Buckley",
+    "Fabio D'Auria",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Luke Ross",
+    "Marc Guggenheim",
+    "Marco Checchetto",
+    "Rick Magyar",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-10-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/16/asm-v2-608.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17161/",
+  "fetched_at": "2026-05-20T14:03:18.543Z",
+  "reviewed_at": null
+}

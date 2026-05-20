@@ -1,0 +1,27 @@
+{
+  "title": "The Sun Also Rises",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "23 Aug 1957",
+  "runtime": "130 min",
+  "genre": "Drama",
+  "director": "Henry King",
+  "writer": "Peter Viertel, Ernest Hemingway",
+  "actors": "Tyrone Power, Ava Gardner, Errol Flynn",
+  "plot": "A group of disillusioned American expatriate writers live a dissolute, hedonistic lifestyle in 1920s France and Spain.",
+  "language": "English, Spanish, French",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzI4NmQ0ODgtMzNhYS00NjQ4LWE1Y2UtMjBlMWRkNzI5Y2ZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0051028",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:39:26.973Z"
+}

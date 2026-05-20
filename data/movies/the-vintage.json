@@ -1,0 +1,27 @@
+{
+  "title": "The Vintage",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "13 Sep 1957",
+  "runtime": "92 min",
+  "genre": "Crime, Drama",
+  "director": "Jeffrey Hayden",
+  "writer": "Michael Blankfort, Ursula Keir",
+  "actors": "Pier Angeli, Mel Ferrer, John Kerr",
+  "plot": "Two Italian brothers flee to France and hide out in a vineyard with two sisters and their family.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWRhNjkzYTMtYjU2ZC00YWI5LThkMzktZWI5YjBkZTZjYWZkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0051167",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:58:28.148Z"
+}

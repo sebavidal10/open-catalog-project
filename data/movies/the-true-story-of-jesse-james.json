@@ -1,0 +1,31 @@
+{
+  "title": "The True Story of Jesse James",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "01 Mar 1957",
+  "runtime": "92 min",
+  "genre": "Biography, Crime, Drama",
+  "director": "Nicholas Ray",
+  "writer": "Walter Newman, Nunnally Johnson",
+  "actors": "Robert Wagner, Jeffrey Hunter, Hope Lange",
+  "plot": "Biopic loosely based on the last 18 years of Jesse James' life and focused on the relationship between brothers Jesse and Frank James.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzFhNjdhMTAtYjYzNS00MDFlLWE5MDItMDNjZTBlODNhMTUyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0051114",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:54:28.487Z"
+}

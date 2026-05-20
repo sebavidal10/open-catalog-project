@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060471660611",
+  "title": "The Amazing Spider-Man #606",
+  "authors": [
+    "Alan Fine",
+    "Andy Lanning",
+    "Chris Chuckry",
+    "Dan Buckley",
+    "Edgar Delgado",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Joe Quesada",
+    "J. Scott Campbell",
+    "Mike McKone",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-09-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/16/asm-v2-606.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17159/",
+  "fetched_at": "2026-05-20T14:02:45.364Z",
+  "reviewed_at": null
+}

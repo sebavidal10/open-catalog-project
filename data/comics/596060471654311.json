@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "596060471654311",
+  "title": "The Amazing Spider-Man #543",
+  "authors": [
+    "Axel Alonso",
+    "Bill Reinhold",
+    "Cory Petit",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "Matt Milla",
+    "Ron Garney"
+  ],
+  "publish_date": "2007-06-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/12/asm-v2-543.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17096/",
+  "fetched_at": "2026-05-20T13:51:09.715Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "596060471659911",
+  "title": "The Amazing Spider-Man #599",
+  "authors": [
+    "Alan Fine",
+    "Amilton Santos",
+    "Andy Lanning",
+    "Chris Chuckry",
+    "Dan Buckley",
+    "Jeromy Cox",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Marco Checchetto",
+    "Paulo Siqueira",
+    "Phil Jimenez",
+    "Stephen Segovia",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-07-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/15/asm-v2-599.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17152/",
+  "fetched_at": "2026-05-20T14:01:34.905Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "596060471653511",
+  "title": "The Amazing Spider-Man #535",
+  "authors": [
+    "Axel Alonso",
+    "Bill Reinhold",
+    "Cory Petit",
+    "Dan Buckley",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "Matt Milla",
+    "Michael O'Connor",
+    "Ron Garney"
+  ],
+  "publish_date": "2006-09-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/12/asm-v2-535.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17088/",
+  "fetched_at": "2026-05-20T13:45:18.293Z",
+  "reviewed_at": null
+}

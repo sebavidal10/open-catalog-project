@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060471656211",
+  "title": "The Amazing Spider-Man #562",
+  "authors": [
+    "Andy Lanning",
+    "Bob Gale",
+    "Cory Petit",
+    "Dan Buckley",
+    "Irene Lee",
+    "Jeromy Cox",
+    "Joe Quesada",
+    "Mike McKone",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2008-06-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/12/asm-v2-562.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17115/",
+  "fetched_at": "2026-05-20T13:54:53.056Z",
+  "reviewed_at": null
+}

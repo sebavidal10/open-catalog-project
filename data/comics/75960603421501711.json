@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960603421501711",
+  "title": "The Sensational Spider-Man #17",
+  "authors": [
+    "Bob Harras",
+    "Gregory Wright",
+    "Joe Andreani",
+    "Kiff Scholl",
+    "Mike Wieringo",
+    "Ralph Macchio",
+    "Richard Case",
+    "Richard Starkings",
+    "Todd Dezago"
+  ],
+  "publish_date": "1997-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/04/the-sensational-spider-man-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39164/",
+  "fetched_at": "2026-05-20T03:30:28.876Z",
+  "reviewed_at": "1997-06-01"
+}

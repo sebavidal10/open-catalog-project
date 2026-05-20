@@ -1,0 +1,27 @@
+{
+  "title": "Gaby",
+  "year": "1956",
+  "rated": "Approved",
+  "released": "17 Oct 1956",
+  "runtime": "96 min",
+  "genre": "Drama",
+  "director": "Curtis Bernhardt",
+  "writer": "Robert E. Sherwood, S.N. Behrman, Hans Rameau",
+  "actors": "Leslie Caron, John Kerr, Cedric Hardwicke",
+  "plot": "A French ballerina (Leslie Caron) in 1944 London falls for an American soldier (John Kerr) who is sent to France in the Normandy Invasion.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODVlYmM5ZjEtNWI0Mi00MjM1LWEzYTctODJhOGIyZmJlYzUxXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0049247",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:32:17.686Z"
+}

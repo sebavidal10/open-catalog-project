@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "75960605106902011",
+  "title": "Spider-Man's Tangled Web #20",
+  "authors": [
+    "Axel Alonso",
+    "Dean Haspiel",
+    "Paul Tutrone",
+    "Steve Buccellato",
+    "Zeb Wells"
+  ],
+  "publish_date": "2003-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/04/Spider-Mans_Tangled_Web_2001-2003_020-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130662/",
+  "fetched_at": "2026-05-20T03:55:29.018Z",
+  "reviewed_at": "2003-01-01"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Time Limit",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "23 Oct 1957",
+  "runtime": "96 min",
+  "genre": "Drama, War",
+  "director": "Karl Malden",
+  "writer": "Henry Denker, Ralph Berkey",
+  "actors": "Richard Widmark, Richard Basehart, Dolores Michaels",
+  "plot": "During the Korean War former prisoner of war, Major Harry Cargill admits to having collaborated with the enemy but military investigator Colonel William Edwards wants the details.",
+  "language": "English, Korean",
+  "country": "United States",
+  "awards": "Nominated for 1 BAFTA Award1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NzU1Nzg5Nl5BMl5BanBnXkFtZTcwMjgyMTM4NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.3",
+  "imdbID": "tt0051083",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:54:11.146Z"
+}

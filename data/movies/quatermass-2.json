@@ -1,0 +1,31 @@
+{
+  "title": "Quatermass 2",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "01 Sep 1957",
+  "runtime": "85 min",
+  "genre": "Sci-Fi, Horror",
+  "director": "Val Guest",
+  "writer": "Nigel Kneale, Val Guest",
+  "actors": "Brian Donlevy, John Longden, Sidney James",
+  "plot": "Professor Quatermass, trying to gather support for his Lunar colonisation project, is intrigued by mysterious traces that have been showing up.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDc0Njg4MmYtZWFlMC00YWMzLWExNGMtZTBkZjdmZWNkNjg4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0050873",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:53:20.453Z"
+}

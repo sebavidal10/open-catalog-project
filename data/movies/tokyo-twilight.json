@@ -1,0 +1,35 @@
+{
+  "title": "Tokyo Twilight",
+  "year": "1957",
+  "rated": "Not Rated",
+  "released": "19 Jul 1972",
+  "runtime": "140 min",
+  "genre": "Drama",
+  "director": "Yasujirô Ozu",
+  "writer": "Kôgo Noda, Yasujirô Ozu",
+  "actors": "Setsuko Hara, Ineko Arima, Chishû Ryû",
+  "plot": "Two sisters find out the existence of their long-lost mother, but the younger cannot take the truth of being abandoned as a child.",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzk2YjcwODktOTc1ZS00YmU4LThlMTMtNDJhNmY5YWNhNTExXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "8.0",
+  "imdbID": "tt0051093",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:53:05.558Z"
+}

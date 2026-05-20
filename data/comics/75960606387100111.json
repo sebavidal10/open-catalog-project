@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960606387100111",
+  "title": "Amazing Spider-Man Annual #1",
+  "authors": [
+    "Andy Lanning",
+    "Bob Gale",
+    "Cory Petit",
+    "Dan Slott",
+    "Jeromy Cox",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Marc Guggenheim",
+    "Mike McKone",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Zeb Wells"
+  ],
+  "publish_date": "2008-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/02/13/b4fb8237412a4582af728f87330f9355.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/135440/",
+  "fetched_at": "2026-05-20T13:56:49.321Z",
+  "reviewed_at": "2008-12-01"
+}

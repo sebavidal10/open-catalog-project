@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060471659311",
+  "title": "The Amazing Spider-Man #593",
+  "authors": [
+    "Alan Fine",
+    "Andy Lanning",
+    "Dan Buckley",
+    "Danny Miki",
+    "Jeromy Cox",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Karl Kesel",
+    "Mark Waid",
+    "Mike McKone",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-05-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/14/asm-v2-593.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17146/",
+  "fetched_at": "2026-05-20T14:00:25.323Z",
+  "reviewed_at": null
+}

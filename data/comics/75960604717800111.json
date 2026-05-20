@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960604717800111",
+  "title": "Peter Parker: Spider-Man #1",
+  "authors": [
+    "Andy Smith",
+    "Bob Harras",
+    "Brad Vancata",
+    "Gregory Wright",
+    "Howard Mackie",
+    "Jimmy Palmiotti",
+    "John Romita Jr.",
+    "Liz Agraphiotis",
+    "Mark Bernardo",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Scott Hanna"
+  ],
+  "publish_date": "1999-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/17/pp-spiderman-v1-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4661/",
+  "fetched_at": "2026-05-20T03:37:57.879Z",
+  "reviewed_at": "1999-01-01"
+}

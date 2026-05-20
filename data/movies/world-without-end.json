@@ -1,0 +1,31 @@
+{
+  "title": "World Without End",
+  "year": "1956",
+  "rated": "Approved",
+  "released": "25 Mar 1956",
+  "runtime": "80 min",
+  "genre": "Adventure, Romance, Sci-Fi",
+  "director": "Edward Bernds",
+  "writer": "Edward Bernds",
+  "actors": "Hugh Marlowe, Nancy Gates, Nelson Leigh",
+  "plot": "Astronauts returning from a voyage to Mars are caught in a time warp and are propelled into a post-Apocalyptic Earth populated by mutants.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjQxOTdhMWItZWI4NS00YmRhLTk0NjQtYjJkMjc4YjZhMjAyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0049964",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:26:57.345Z"
+}

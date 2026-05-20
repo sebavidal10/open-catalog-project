@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604717803711",
+  "title": "Peter Parker: Spider-Man #37",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Humberto Ramos",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Mark Buckingham",
+    "Paul Jenkins",
+    "Richard Starkings",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2002-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/18/pp-spiderman-v1-37.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4721/",
+  "fetched_at": "2026-05-20T03:50:29.976Z",
+  "reviewed_at": "2002-01-01"
+}

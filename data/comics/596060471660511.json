@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "596060471660511",
+  "title": "The Amazing Spider-Man #605",
+  "authors": [
+    "Alan Fine",
+    "Brian Reed",
+    "Dan Buckley",
+    "Fred Van Lente",
+    "Javier Pulido",
+    "Javier Rodríguez",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Luke Ross",
+    "Mark Farmer",
+    "Mike Mayhew",
+    "Nathan Fairbairn",
+    "Rick Magyar",
+    "Rob Schwager",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Yanick Paquette"
+  ],
+  "publish_date": "2009-09-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/16/asm-v2-605.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17158/",
+  "fetched_at": "2026-05-20T14:02:40.995Z",
+  "reviewed_at": null
+}

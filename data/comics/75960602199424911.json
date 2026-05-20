@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960602199424911",
+  "title": "The Spectacular Spider-Man #249",
+  "authors": [
+    "Bob Harras",
+    "Dan Green",
+    "J.M. DeMatteis",
+    "John Kalisz",
+    "Kiff Scholl",
+    "Luke Ross",
+    "Mark Bernardo",
+    "Matt Hicks",
+    "Ralph Macchio",
+    "Richard Starkings"
+  ],
+  "publish_date": "1997-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/27/the-spectacular-spider-man-249.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/31257/",
+  "fetched_at": "2026-05-20T03:32:03.472Z",
+  "reviewed_at": "1997-09-01"
+}

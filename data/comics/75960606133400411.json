@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960606133400411",
+  "title": "Spider-Man and the Fantastic Four #4",
+  "authors": [
+    "Dan Buckley",
+    "Jeff Parker",
+    "Joe Quesada",
+    "Karl Kesel",
+    "Mike Wieringo",
+    "Nate Piekos",
+    "Peter Pantazis",
+    "Rich Ginter",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Wade von Grawbadger"
+  ],
+  "publish_date": "2007-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/03/13/134000e6250b49dda7c82fe617193419.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/58763/",
+  "fetched_at": "2026-05-20T13:50:48.558Z",
+  "reviewed_at": "2007-09-01"
+}

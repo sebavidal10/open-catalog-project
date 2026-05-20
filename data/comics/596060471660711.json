@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "596060471660711",
+  "title": "The Amazing Spider-Man #607",
+  "authors": [
+    "Adriana Melo",
+    "Alan Fine",
+    "Andy Lanning",
+    "Cam Smith",
+    "Chris Chuckry",
+    "Dan Buckley",
+    "Edgar Delgado",
+    "Jeromy Cox",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Joe Quesada",
+    "J. Scott Campbell",
+    "Kris Justice",
+    "Mike McKone",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-09-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/16/asm-v2-607.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17160/",
+  "fetched_at": "2026-05-20T14:02:49.471Z",
+  "reviewed_at": null
+}

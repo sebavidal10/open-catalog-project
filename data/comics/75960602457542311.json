@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960602457542311",
+  "title": "The Amazing Spider-Man #423",
+  "authors": [
+    "Bob Harras",
+    "Bob Sharen",
+    "Bud LaRosa",
+    "Harry Candelario",
+    "Joe Bennett",
+    "Joe Pimentel",
+    "Ralph Cabrera",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1997-03-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/07/asm-v1-423.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16950/",
+  "fetched_at": "2026-05-20T03:29:48.277Z",
+  "reviewed_at": null
+}

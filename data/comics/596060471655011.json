@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "596060471655011",
+  "title": "The Amazing Spider-Man #550",
+  "authors": [
+    "Brad Johansen",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Marc Guggenheim",
+    "Salvador Larroca",
+    "Stephane Peru",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2008-02-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/12/asm-v2-550.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17103/",
+  "fetched_at": "2026-05-20T13:53:13.113Z",
+  "reviewed_at": null
+}

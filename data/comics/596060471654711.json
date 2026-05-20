@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060471654711",
+  "title": "The Amazing Spider-Man #547",
+  "authors": [
+    "Cory Petit",
+    "Dan Buckley",
+    "Dan Slott",
+    "Dexter Vines",
+    "Joe Quesada",
+    "Morry Hollowell",
+    "Paul Acerios",
+    "Stephen Wacker",
+    "Steve McNiven",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2008-01-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/12/asm-v2-547b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17100/",
+  "fetched_at": "2026-05-20T13:53:00.502Z",
+  "reviewed_at": null
+}

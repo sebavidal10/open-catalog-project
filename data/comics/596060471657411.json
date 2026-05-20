@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060471657411",
+  "title": "The Amazing Spider-Man #574",
+  "authors": [
+    "Antonio Fabela",
+    "Barry Kitson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Marc Guggenheim",
+    "Mark Farmer",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2008-10-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/13/asm-v2-574.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17127/",
+  "fetched_at": "2026-05-20T13:56:41.370Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "title": "The Third Key",
+  "year": "1956",
+  "rated": "Not Rated",
+  "released": "01 Jun 1956",
+  "runtime": "96 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Charles Frend",
+  "writer": "Robert Barr, Janet Green, Dorothy Christie",
+  "actors": "Jack Hawkins, John Stratton, Dorothy Alison",
+  "plot": "The sleuths of Scotland Yard try to solve a series of burglaries.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 BAFTA Award1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWFjOTJiZDctZWU3MC00ZWQ5LThjODItZDNmMGRiMzQ2ZDgxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0049845",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:29:44.992Z"
+}

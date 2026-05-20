@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960605521002611",
+  "title": "Sensational Spider-Man #26",
+  "authors": [
+    "Axel Alonso",
+    "Clayton Crain",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dan Kemp",
+    "Joe Quesada",
+    "Roberto Aguirre-Sacasa",
+    "Scott Hanna",
+    "Warren Simons"
+  ],
+  "publish_date": "2006-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/25/a81f94b5f05e4d44bcded393118324ec.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/123367/",
+  "fetched_at": "2026-05-20T13:43:18.613Z",
+  "reviewed_at": "2006-07-01"
+}

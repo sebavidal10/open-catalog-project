@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960605676700511",
+  "title": "Spider-Man / Human Torch #5",
+  "authors": [
+    "Dan Slott",
+    "Drew Geraci",
+    "Greg Adams",
+    "Paul Smith",
+    "Tom Brevoort",
+    "Ty Templeton"
+  ],
+  "publish_date": "2005-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/12/02/23a3a0bd579743b8bdf46ceadd9063ad.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131384/",
+  "fetched_at": "2026-05-20T13:36:27.721Z",
+  "reviewed_at": "2005-07-01"
+}

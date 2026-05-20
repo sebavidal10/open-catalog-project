@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605427501211",
+  "title": "Spectacular Spider-Man #12",
+  "authors": [
+    "Andy Schmidt",
+    "Axel Alonso",
+    "Cory Petit",
+    "Damion Scott",
+    "Dan Buckley",
+    "Frank D'Armata",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Nicole Wiley Boose",
+    "Paul Jenkins",
+    "Robert Campanella",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2004-03-31",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/25/spectacular-spider-man-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42444/",
+  "fetched_at": "2026-05-20T04:01:48.403Z",
+  "reviewed_at": null
+}

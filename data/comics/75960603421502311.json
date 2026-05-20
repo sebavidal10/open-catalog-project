@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960603421502311",
+  "title": "The Sensational Spider-Man #23",
+  "authors": [
+    "Bob Harras",
+    "Gregory Wright",
+    "Kiff Scholl",
+    "Mike Wieringo",
+    "Ralph Macchio",
+    "Richard Case",
+    "Richard Starkings",
+    "Todd Dezago"
+  ],
+  "publish_date": "1998-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/04/the-sensational-spider-man-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39170/",
+  "fetched_at": "2026-05-20T03:33:35.518Z",
+  "reviewed_at": "1998-01-01"
+}

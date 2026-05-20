@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604717801911",
+  "title": "Peter Parker: Spider-Man #19",
+  "authors": [
+    "Bob Harras",
+    "Erik Larsen",
+    "Howard Mackie",
+    "Joe Rosas",
+    "John Romita Jr.",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Scott Hanna",
+    "Troy Peteri"
+  ],
+  "publish_date": "2000-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/18/pp-spiderman-v1-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4702/",
+  "fetched_at": "2026-05-20T03:44:15.032Z",
+  "reviewed_at": "2000-07-01"
+}

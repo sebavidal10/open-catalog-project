@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960601321099911",
+  "title": "Spider-Man #-1",
+  "authors": [
+    "Al Milgrom",
+    "Bob Harras",
+    "Dan Fraga",
+    "Gregory Wright",
+    "Howard Mackie",
+    "Kiff Scholl",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Scott Hanna"
+  ],
+  "publish_date": "1997-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/02/spider-man-negative-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33557/",
+  "fetched_at": "2026-05-20T03:31:15.317Z",
+  "reviewed_at": "1997-07-01"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Brain from Planet Arous",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "01 Oct 1957",
+  "runtime": "71 min",
+  "genre": "Horror, Sci-Fi, Thriller",
+  "director": "Nathan Juran",
+  "writer": "Ray Buffum",
+  "actors": "John Agar, Joyce Meadows, Robert Fuller",
+  "plot": "An evil alien brain from the planet Arous hijacks the body of an Earth scientist in order to control the Earth.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzViZWNiZGUtODU0Mi00YWVkLTgyMWItNTlkZmNmZThmM2NkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "29%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0050210",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:53:45.199Z"
+}

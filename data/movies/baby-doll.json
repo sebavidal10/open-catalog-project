@@ -1,0 +1,35 @@
+{
+  "title": "Baby Doll",
+  "year": "1956",
+  "rated": "R",
+  "released": "29 Dec 1956",
+  "runtime": "114 min",
+  "genre": "Comedy, Drama",
+  "director": "Elia Kazan",
+  "writer": "Tennessee Williams",
+  "actors": "Karl Malden, Carroll Baker, Eli Wallach",
+  "plot": "An immature and naive teenage bride holds her anxious husband at bay while flirting with an amorous Sicilian farmer.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 3 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGZjYWQzYTEtOWQ1OS00ZGVmLWIyMWItZDU4MTU5Yzk3ZmU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.3",
+  "imdbID": "tt0048973",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:26:54.879Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Patterns",
+  "year": "1956",
+  "rated": "Approved",
+  "released": "26 Oct 1956",
+  "runtime": "83 min",
+  "genre": "Drama",
+  "director": "Fielder Cook",
+  "writer": "Rod Serling",
+  "actors": "Van Heflin, Everett Sloane, Ed Begley",
+  "plot": "When Fred Staples is recruited onto the board of a high-powered New York corporation, he finds his ethics and ambition at odds.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 BAFTA Award1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzczMDJiMWEtN2RhOC00NTZhLThhZmUtOTU3OGFmZjI1NzgwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0049601",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:27:03.537Z"
+}

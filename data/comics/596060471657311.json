@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "596060471657311",
+  "title": "The Amazing Spider-Man #573",
+  "authors": [
+    "Cory Petit",
+    "Dan Buckley",
+    "Dean White",
+    "Joe Quesada",
+    "Joe Sabino",
+    "John Romita Jr.",
+    "Klaus Janson",
+    "Mark Waid",
+    "Pat Olliffe",
+    "Rain Beredo",
+    "Serge LaPointe",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2008-10-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/13/asm-v2-573.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17126/",
+  "fetched_at": "2026-05-20T13:56:37.510Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": "75960605106901311",
+  "title": "Spider-Man's Tangled Web #13",
+  "authors": [
+    "Axel Alonso",
+    "Ron Zimmerman",
+    "Sean Phillips",
+    "Steve Buccellato"
+  ],
+  "publish_date": "2002-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/04/Spider-Mans_Tangled_Web_2001-2003_013-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130655/",
+  "fetched_at": "2026-05-20T03:52:15.020Z",
+  "reviewed_at": "2002-06-01"
+}

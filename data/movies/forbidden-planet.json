@@ -1,0 +1,35 @@
+{
+  "title": "Forbidden Planet",
+  "year": "1956",
+  "rated": "G",
+  "released": "13 Jun 1958",
+  "runtime": "98 min",
+  "genre": "Adventure, Sci-Fi",
+  "director": "Fred M. Wilcox",
+  "writer": "Cyril Hume, Irving Block, Allen Adler",
+  "actors": "Walter Pidgeon, Anne Francis, Leslie Nielsen",
+  "plot": "A starship crew in the 23rd century goes to investigate the silence of a distant planet's colony, only to find just two survivors, a powerful robot, and the deadly secret of a lost civilization.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjY4NGVmMzctYjFmYS00MDk3LTlkNDktNDdjMjhlYmY1YmI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "7.5",
+  "imdbID": "tt0049223",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:26:36.322Z"
+}

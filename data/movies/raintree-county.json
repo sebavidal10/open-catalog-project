@@ -1,0 +1,31 @@
+{
+  "title": "Raintree County",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "20 Dec 1957",
+  "runtime": "182 min",
+  "genre": "Drama, Romance, War",
+  "director": "Edward Dmytryk",
+  "writer": "Millard Kaufman, Ross Lockridge Jr., Freddy Savdié",
+  "actors": "Montgomery Clift, Elizabeth Taylor, Eva Marie Saint",
+  "plot": "A student falls in love with a Southern belle, but their relationship is complicated by her troubled past and the onset of the Civil War.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 1 win & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDJlMTg2ZGQtMmQ2Zi00ZjAwLWFjM2ItNjViZjc0MGJmYjkyXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "10%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0050882",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:39:29.442Z"
+}

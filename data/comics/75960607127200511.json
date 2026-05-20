@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "75960607127200511",
+  "title": "Marvel Adventures Spider-Man #5",
+  "authors": [
+    "Chris Sotomayor",
+    "Dave Sharpe",
+    "Patrick Scherberger",
+    "Paul Tobin",
+    "Roberto Di Salvo"
+  ],
+  "publish_date": "2010-08-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/29/772250.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156728/",
+  "fetched_at": "2026-05-20T14:10:24.897Z",
+  "reviewed_at": null
+}

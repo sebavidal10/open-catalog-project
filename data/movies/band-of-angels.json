@@ -1,0 +1,31 @@
+{
+  "title": "Band of Angels",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "03 Aug 1957",
+  "runtime": "125 min",
+  "genre": "Drama, Western",
+  "director": "Raoul Walsh",
+  "writer": "Robert Penn Warren, John Twist, Ivan Goff",
+  "actors": "Clark Gable, Yvonne De Carlo, Sidney Poitier",
+  "plot": "Amantha Starr grows up as a privileged Southern belle in the ante-bellum South, but after her father dies broke, her world is destroyed when she discovers that her mother was Black.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTgzMDRmYzQtOGJlZi00ZmUxLWJkNGItMmJkNzdhMDg3MjMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0050166",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:54:24.778Z"
+}

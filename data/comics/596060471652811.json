@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060471652811",
+  "title": "The Amazing Spider-Man #528",
+  "authors": [
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "J. Michael Straczynski",
+    "Joe Pimentel",
+    "Joe Quesada",
+    "Matt Milla",
+    "Michael O'Connor",
+    "Mike Deodato",
+    "Tom Brevoort",
+    "Warren Simons"
+  ],
+  "publish_date": "2006-01-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/11/asm-v2-528.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17081/",
+  "fetched_at": "2026-05-20T13:40:45.887Z",
+  "reviewed_at": null
+}

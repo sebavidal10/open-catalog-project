@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605704700711",
+  "title": "Friendly Neighborhood Spider-Man #7",
+  "authors": [
+    "Axel Alonso",
+    "Chris Sotomayor",
+    "Joe Quesada",
+    "Michael O'Connor",
+    "Mike Wieringo",
+    "Peter David",
+    "Roger Cruz",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2006-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/21/c99e5881fca54cc6af821ebc743d3979.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/123271/",
+  "fetched_at": "2026-05-20T13:42:37.544Z",
+  "reviewed_at": "2006-06-01"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605506701411",
+  "title": "Spider-Man Unlimited #14",
+  "authors": [
+    "Andy Schmidt",
+    "Bill Reinhold",
+    "C. B. Cebulski",
+    "Danny Miki",
+    "Dave Sharpe",
+    "David Finch",
+    "Frank D'Armata",
+    "Joe Quesada",
+    "Matt Milla",
+    "Ron Garney"
+  ],
+  "publish_date": "2006-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/30/d730a72a5e9540d6a04207e6dac2e3a9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/134339/",
+  "fetched_at": "2026-05-20T13:42:14.948Z",
+  "reviewed_at": "2006-05-01"
+}

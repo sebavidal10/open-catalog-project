@@ -1,0 +1,35 @@
+{
+  "title": "The Harder They Fall",
+  "year": "1956",
+  "rated": "Approved",
+  "released": "31 Mar 1956",
+  "runtime": "109 min",
+  "genre": "Drama, Film-Noir, Sport",
+  "director": "Mark Robson",
+  "writer": "Philip Yordan, Budd Schulberg",
+  "actors": "Humphrey Bogart, Rod Steiger, Jan Sterling",
+  "plot": "An ex-sportswriter is hired by a shady fight promoter to promote his latest find, an unknown but easily exploitable rising star from Argentina.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDI1Mjk3NzYtNDMyYi00OTNjLTk0NWItMGE4OGExMTI3YWE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.5",
+  "imdbID": "tt0049291",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:27:12.208Z"
+}

@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960604716154511",
+  "title": "The Amazing Spider-Man #545",
+  "authors": [
+    "Axel Alonso",
+    "Bob Sharen",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Daniel Ketchum",
+    "Danny Miki",
+    "David Michelinie",
+    "Dean White",
+    "Jim Shooter",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "Paul Ryan",
+    "Richard Isanove",
+    "Rick Parker",
+    "Vince Colletta"
+  ],
+  "publish_date": "2008-11-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/12/asm-v2-545.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17098/",
+  "fetched_at": "2026-05-20T13:52:21.782Z",
+  "reviewed_at": "2008-11-01"
+}

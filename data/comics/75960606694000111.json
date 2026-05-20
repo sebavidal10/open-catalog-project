@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960606694000111",
+  "title": "Amazing Spider-Man: Extra! #3",
+  "authors": [
+    "Allen Passalaqua",
+    "Anthony Dial",
+    "Chris Chuckry",
+    "Dale Eaglesham",
+    "Fabrizio Fiorentino",
+    "Joe Kelly",
+    "John Livesay",
+    "Marc Guggenheim",
+    "Pat Olliffe",
+    "Phil Jimenez",
+    "Rain Beredo",
+    "Rus Wooton",
+    "Serge LaPointe",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tomm Coker"
+  ],
+  "publish_date": "2009-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/11/Amazing_Spider-Man_-_Extra_2009-_003-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131473/",
+  "fetched_at": "2026-05-20T13:59:28.884Z",
+  "reviewed_at": "2009-05-01"
+}

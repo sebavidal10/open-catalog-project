@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960604756700111",
+  "title": "Amazing Spider-Man 1999 #1",
+  "authors": [
+    "Bob Harras",
+    "Howard Mackie",
+    "John Buscema",
+    "Lee Weeks",
+    "Liz Agraphiotis",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Steve Buccellato"
+  ],
+  "publish_date": "1999-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/02/11/Amazing_Spider-Man_001_-_Annual_1999-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/135422/",
+  "fetched_at": "2026-05-20T03:39:44.285Z",
+  "reviewed_at": "1999-06-01"
+}

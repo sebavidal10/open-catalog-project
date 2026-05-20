@@ -1,0 +1,31 @@
+{
+  "title": "The Bachelor Party",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "10 Apr 1957",
+  "runtime": "92 min",
+  "genre": "Drama",
+  "director": "Delbert Mann",
+  "writer": "Paddy Chayefsky",
+  "actors": "Don Murray, E.G. Marshall, Nancy Marchand",
+  "plot": "Five office friends meet up for a night on the town to celebrate the forthcoming marriage of one of them. As the night wears on and the drink starts to tell, they become more confidential in expressing their concerns and hopes.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDljMTQwMDctYzY5MS00MDk0LThiNWYtMDg3NTU1MGU3ZjRhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0050156",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:56:49.591Z"
+}

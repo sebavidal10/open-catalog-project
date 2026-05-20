@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960605506700811",
+  "title": "Spider-Man Unlimited #8",
+  "authors": [
+    "Dave Sharpe",
+    "Joe Hill",
+    "José Villarrubia",
+    "Joshua Ortega",
+    "Ryan Sook",
+    "Seth Fisher",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2005-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/30/6c52045663a94e58a07c3d9d18fdaeff.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/134333/",
+  "fetched_at": "2026-05-20T04:08:01.308Z",
+  "reviewed_at": "2005-05-01"
+}

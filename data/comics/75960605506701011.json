@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605506701011",
+  "title": "Spider-Man Unlimited #10",
+  "authors": [
+    "Cam Smith",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Greg Tocchini",
+    "Joe Quesada",
+    "Karl Kesel",
+    "Liquid!",
+    "Marc Sumerak",
+    "Pia Guerra",
+    "Rob Schwager",
+    "Salvador Larroca",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2005-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/30/36ed1791a24943c0857f00ab8bcaad39.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/134335/",
+  "fetched_at": "2026-05-20T13:37:36.276Z",
+  "reviewed_at": "2005-09-01"
+}

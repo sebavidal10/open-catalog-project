@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060471656711",
+  "title": "The Amazing Spider-Man #567",
+  "authors": [
+    "Andy Lanning",
+    "Chris Chuckry",
+    "Cory Petit",
+    "Dan Buckley",
+    "Irene Lee",
+    "Joe Quesada",
+    "Marc Guggenheim",
+    "Phil Jimenez",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2008-08-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/13/asm-v2-567.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17120/",
+  "fetched_at": "2026-05-20T13:55:37.839Z",
+  "reviewed_at": null
+}

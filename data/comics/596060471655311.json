@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060471655311",
+  "title": "The Amazing Spider-Man #553",
+  "authors": [
+    "Andy Lanning",
+    "Bob Gale",
+    "Cory Petit",
+    "Dan Buckley",
+    "Irene Lee",
+    "Jeromy Cox",
+    "Joe Quesada",
+    "Phil Jimenez",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2008-03-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/12/asm-v2-553.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17106/",
+  "fetched_at": "2026-05-20T13:53:44.735Z",
+  "reviewed_at": null
+}

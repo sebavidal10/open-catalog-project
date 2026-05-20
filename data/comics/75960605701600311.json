@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605701600311",
+  "title": "Spider-Man: House of M #3",
+  "authors": [
+    "Andy Schmidt",
+    "Aubrey Sitterson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Danny Miki",
+    "James Taveras",
+    "Joe Quesada",
+    "Liquid!",
+    "Mark Waid",
+    "Molly Lazer",
+    "Salvador Larroca",
+    "Tom Brevoort",
+    "Tom Peyer"
+  ],
+  "publish_date": "2005-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/04/17/3608b40143454fb5998be5288cf7d850.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/116354/",
+  "fetched_at": "2026-05-20T13:38:06.508Z",
+  "reviewed_at": "2005-10-01"
+}

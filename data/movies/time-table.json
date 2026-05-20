@@ -1,0 +1,27 @@
+{
+  "title": "Time Table",
+  "year": "1956",
+  "rated": "Approved",
+  "released": "08 Feb 1956",
+  "runtime": "80 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Mark Stevens",
+  "writer": "Robert Angus, Aben Kandel",
+  "actors": "Mark Stevens, King Calder, Felicia Farr",
+  "plot": "In Arizona, a train's baggage car is robbed of a large payroll, prompting an investigation led by a railroad official-insurance investigator team.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjc2MTdhMjMtOGI3Ni00MzczLTgzMDktYTFjYzBiNzVlZWQ3XkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0049857",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:29:58.549Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Somebody Up There Likes Me",
+  "year": "1956",
+  "rated": "Approved",
+  "released": "04 Jul 1956",
+  "runtime": "113 min",
+  "genre": "Biography, Drama, Sport",
+  "director": "Robert Wise",
+  "writer": "Ernest Lehman, Rocky Graziano, Rowland Barber",
+  "actors": "Paul Newman, Pier Angeli, Everett Sloane",
+  "plot": "Boxer Rocky Graziano's biopic, based on his autobiography, from childhood to his World Middleweight Championship title win at age 28 in 1947.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 4 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDRkNGZkNTctZWYyMC00ODRiLWFkMGItMmYxMGUzMzkzZmZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0049778",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:27:17.138Z"
+}

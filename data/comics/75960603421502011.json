@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960603421502011",
+  "title": "The Sensational Spider-Man #20",
+  "authors": [
+    "Bob Harras",
+    "Gregory Wright",
+    "Kiff Scholl",
+    "Ralph Macchio",
+    "Richard Case",
+    "Richard Starkings",
+    "Todd Dezago"
+  ],
+  "publish_date": "1997-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/04/the-sensational-spider-man-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39167/",
+  "fetched_at": "2026-05-20T03:32:25.489Z",
+  "reviewed_at": "1997-10-01"
+}

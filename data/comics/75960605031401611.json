@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605031401611",
+  "title": "Ultimate Spider-Man #16",
+  "authors": [
+    "Art Thibert",
+    "Bill Jemas",
+    "Brian Michael Bendis",
+    "Brian Smith",
+    "Chris Eliopoulos",
+    "Joe Quesada",
+    "Mark Bagley",
+    "Ralph Macchio"
+  ],
+  "publish_date": "2001-12-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/08/26/c1414b49c1c947d7a8027e2a2f8fa132.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/73975/",
+  "fetched_at": "2026-05-20T03:51:00.486Z",
+  "reviewed_at": null
+}

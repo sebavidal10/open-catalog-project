@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060471657611",
+  "title": "The Amazing Spider-Man #576",
+  "authors": [
+    "Al Vey",
+    "Antonio Fabela",
+    "Chris Bachalo",
+    "Cory Petit",
+    "Dan Buckley",
+    "Jaime Mendoza",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Stephen Wacker",
+    "Tim Townsend",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2008-11-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/13/asm-v2-576.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17129/",
+  "fetched_at": "2026-05-20T13:57:18.230Z",
+  "reviewed_at": null
+}

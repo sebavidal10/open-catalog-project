@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "596060471662411",
+  "title": "The Amazing Spider-Man #624",
+  "authors": [
+    "Alan Fine",
+    "Andres Mossa",
+    "Dan Buckley",
+    "Fabio D'Auria",
+    "Javier Rodríguez",
+    "Jodi Wynne",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Mark Waid",
+    "Michael Lark",
+    "Pasqual Ferry",
+    "Paul Azaceta",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Tom Peyer"
+  ],
+  "publish_date": "2010-03-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/17/asm-v2-624.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17181/",
+  "fetched_at": "2026-05-20T14:06:37.280Z",
+  "reviewed_at": null
+}

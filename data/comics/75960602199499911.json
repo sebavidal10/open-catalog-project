@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960602199499911",
+  "title": "The Spectacular Spider-Man #-1",
+  "authors": [
+    "Bob Harras",
+    "C. B. Cebulski",
+    "Dan Green",
+    "J.M. DeMatteis",
+    "John Kalisz",
+    "Kiff Scholl",
+    "Luke Ross",
+    "Matt Hicks",
+    "Ralph Macchio",
+    "Richard Starkings"
+  ],
+  "publish_date": "1997-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/28/spectacular-sm-minus-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/31280/",
+  "fetched_at": "2026-05-20T03:31:11.421Z",
+  "reviewed_at": "1997-07-01"
+}

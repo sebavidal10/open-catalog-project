@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960606789300111",
+  "title": "Ultimate Spider-Man #1",
+  "authors": [
+    "Alan Fine",
+    "Brian Michael Bendis",
+    "Cory Petit",
+    "Dan Buckley",
+    "David Lafuente",
+    "Irene Lee",
+    "Joe Quesada",
+    "Justin Ponsor",
+    "Lauren Sankovitch",
+    "Marko Djurdjević",
+    "Mark Paniccia"
+  ],
+  "publish_date": "2009-08-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/08/27/5def695fb1194036bbc48f29581426a5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/74096/",
+  "fetched_at": "2026-05-20T14:02:28.442Z",
+  "reviewed_at": null
+}

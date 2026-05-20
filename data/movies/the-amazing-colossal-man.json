@@ -1,0 +1,31 @@
+{
+  "title": "The Amazing Colossal Man",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "10 Mar 1958",
+  "runtime": "80 min",
+  "genre": "Action, Drama, Horror",
+  "director": "Bert I. Gordon",
+  "writer": "Mark Hanna, Bert I. Gordon, George Worthing Yates",
+  "actors": "Glenn Langan, Cathy Downs, William Hudson",
+  "plot": "A military officer survives a nuclear blast, only to begin to uncontrollably grow into an increasingly unstable giant.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTgwZDA1MjMtOWE5Zi00OGQyLTkzNTEtZjdmYWViMDAyZDk1XkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "38%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.6",
+  "imdbID": "tt0050118",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:53:55.077Z"
+}

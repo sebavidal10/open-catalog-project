@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605701600211",
+  "title": "Spider-Man: House of M #2",
+  "authors": [
+    "Andy Schmidt",
+    "Cory Petit",
+    "Dan Buckley",
+    "Danny Miki",
+    "Joe Quesada",
+    "Liquid!",
+    "Mark Waid",
+    "Molly Lazer",
+    "Omar Otieku",
+    "Salvador Larroca",
+    "Stephanie Moore",
+    "Tom Brevoort",
+    "Tom Peyer"
+  ],
+  "publish_date": "2005-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/04/17/6471c27efb6b494fbf63e099ecd25ca2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/116353/",
+  "fetched_at": "2026-05-20T13:37:32.389Z",
+  "reviewed_at": "2005-09-01"
+}

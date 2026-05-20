@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605521001711",
+  "title": "Marvel Knights: Spider-Man #17",
+  "authors": [
+    "Axel Alonso",
+    "Billy Tan",
+    "Cory Petit",
+    "Cory Sedlmeier",
+    "Dan Buckley",
+    "Ian Hannin",
+    "Joe Quesada",
+    "Jonathan Sibal",
+    "Reginald Hudlin",
+    "Steve McNiven"
+  ],
+  "publish_date": "2007-11-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/25/66572bea54b9488692e5b15cf31f34e1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/123400/",
+  "fetched_at": "2026-05-20T13:37:58.566Z",
+  "reviewed_at": "2007-11-01"
+}

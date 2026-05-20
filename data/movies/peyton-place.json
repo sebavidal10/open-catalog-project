@@ -1,0 +1,35 @@
+{
+  "title": "Peyton Place",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "19 Feb 1958",
+  "runtime": "157 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Mark Robson",
+  "writer": "John Michael Hayes, Grace Metalious",
+  "actors": "Lana Turner, Lee Philips, Lloyd Nolan",
+  "plot": "A peaceful New England town hides secrets and scandals.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 9 Oscars. 2 wins & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTIxMWRiZDctZjVjMi00NGQ2LTlhOTUtOTAxNTZjZmNlNmQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "65%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "7.2",
+  "imdbID": "tt0050839",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:39:19.587Z"
+}

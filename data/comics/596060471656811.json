@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060471656811",
+  "title": "The Amazing Spider-Man #568",
+  "authors": [
+    "Adi Granov",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dan Slott",
+    "Dean White",
+    "Joe Quesada",
+    "Joe Sabino",
+    "John Romita Jr.",
+    "Klaus Janson",
+    "Mark Waid",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2008-08-20",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/13/asm-v2-568.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17121/",
+  "fetched_at": "2026-05-20T13:55:41.838Z",
+  "reviewed_at": null
+}

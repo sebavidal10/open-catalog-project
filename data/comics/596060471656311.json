@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "596060471656311",
+  "title": "The Amazing Spider-Man #563",
+  "authors": [
+    "Antonio Fabela",
+    "Bob Gale",
+    "Cory Petit",
+    "Dan Buckley",
+    "Jeromy Cox",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Marlo Alquiza",
+    "Mike McKone",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2008-06-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/12/asm-v2-563.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17116/",
+  "fetched_at": "2026-05-20T13:54:56.975Z",
+  "reviewed_at": null
+}

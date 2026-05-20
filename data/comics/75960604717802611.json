@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604717802611",
+  "title": "Peter Parker: Spider-Man #26",
+  "authors": [
+    "Axel Alonso",
+    "Joe Bennett",
+    "Joe Quesada",
+    "Joe Rosas",
+    "Mark Pennington",
+    "Paul Jenkins",
+    "Richard Starkings",
+    "Sandu Florea",
+    "Troy Peteri"
+  ],
+  "publish_date": "2001-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/18/pp-spiderman-v1-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4709/",
+  "fetched_at": "2026-05-20T03:46:33.379Z",
+  "reviewed_at": "2001-02-01"
+}

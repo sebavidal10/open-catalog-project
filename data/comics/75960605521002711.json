@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605521002711",
+  "title": "Sensational Spider-Man #27",
+  "authors": [
+    "Angel Medina",
+    "Axel Alonso",
+    "Clayton Crain",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dan Kemp",
+    "Joe Quesada",
+    "Roberto Aguirre-Sacasa",
+    "Scott Hanna",
+    "Warren Simons"
+  ],
+  "publish_date": "2006-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/25/f06dbb9d6fba4fbc8b92ddb48722171d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/123368/",
+  "fetched_at": "2026-05-20T13:43:56.940Z",
+  "reviewed_at": "2006-08-01"
+}

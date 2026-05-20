@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607127200311",
+  "title": "Marvel Adventures Spider-Man #3",
+  "authors": [
+    "Alan Fine",
+    "Chris Sotomayor",
+    "Christian Dalla Vecchia",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Karl Kerschl",
+    "Matteo Lolli",
+    "Nathan Cosby",
+    "Paul Tobin",
+    "Serge LaPointe",
+    "Taylor Esposito",
+    "Terry Pallot"
+  ],
+  "publish_date": "2010-06-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/29/763332.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156726/",
+  "fetched_at": "2026-05-20T14:08:56.322Z",
+  "reviewed_at": null
+}

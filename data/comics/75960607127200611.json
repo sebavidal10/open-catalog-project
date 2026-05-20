@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960607127200611",
+  "title": "Marvel Adventures Spider-Man #6",
+  "authors": [
+    "Chris Sotomayor",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Nathan Cosby",
+    "Patrick Scherberger",
+    "Paul Tobin",
+    "Roberto Di Salvo"
+  ],
+  "publish_date": "2010-09-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/29/780347.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156729/",
+  "fetched_at": "2026-05-20T14:11:01.272Z",
+  "reviewed_at": null
+}

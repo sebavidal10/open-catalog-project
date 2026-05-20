@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960601372201611",
+  "title": "Spider-Man Unlimited #16",
+  "authors": [
+    "Bob Harras",
+    "Christie Scheele",
+    "Jack Morelli",
+    "Joe Bennett",
+    "Joe Pimentel",
+    "Mark Bernardo",
+    "Marlo Alquiza",
+    "Ralph Macchio",
+    "Tim Dzon",
+    "Tony Daniel"
+  ],
+  "publish_date": "1997-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/04/6b40508fbc544f4fb49dabdbcbdff1df.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130730/",
+  "fetched_at": "2026-05-20T03:30:09.354Z",
+  "reviewed_at": "1997-05-01"
+}

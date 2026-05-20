@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605033800211",
+  "title": "Spider-Man: Lifeline #2",
+  "authors": [
+    "Bob Wiacek",
+    "Brian Smith",
+    "Fabian Nicieza",
+    "Gregory Wright",
+    "Joe Quesada",
+    "John Costanza",
+    "Ralph Macchio",
+    "Steve Rude"
+  ],
+  "publish_date": "2001-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/09/11/ab867348b9274511b2f9537b497aa599.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/75212/",
+  "fetched_at": "2026-05-20T03:47:35.365Z",
+  "reviewed_at": "2001-04-01"
+}

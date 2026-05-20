@@ -1,0 +1,31 @@
+{
+  "title": "Pal Joey",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "16 Dec 1957",
+  "runtime": "111 min",
+  "genre": "Drama, Musical, Romance",
+  "director": "George Sidney",
+  "writer": "Dorothy Kingsley, John O'Hara",
+  "actors": "Rita Hayworth, Frank Sinatra, Kim Novak",
+  "plot": "Joey Evans is a charming, handsome, funny, talented 1st class, A-Number 1 heel. When Joey meets the former chorus girl and now rich widow Vera Simpson, the pair of lecherous souls seem made for each other.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 3 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2VkZDdmMzgtMDgxYi00NzY4LWFiYTMtZmNjNjhmNjM5MzhiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0050815",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:52:43.318Z"
+}

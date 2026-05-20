@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960604717801211",
+  "title": "Peter Parker: Spider-Man #12",
+  "authors": [
+    "Bob Harras",
+    "Geof Isherwood",
+    "Gregory Wright",
+    "Howard Mackie",
+    "Joe Rosas",
+    "John Kalisz",
+    "John Romita Jr.",
+    "Liz Agraphiotis",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Rodney Ramos",
+    "Scott Hanna",
+    "Tom Brevoort"
+  ],
+  "publish_date": "1999-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/17/pp-spiderman-v1-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4672/",
+  "fetched_at": "2026-05-20T03:41:50.341Z",
+  "reviewed_at": "1999-12-01"
+}

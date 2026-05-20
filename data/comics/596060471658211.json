@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "596060471658211",
+  "title": "The Amazing Spider-Man #582",
+  "authors": [
+    "Andy Lanning",
+    "Chris Chuckry",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dan Slott",
+    "Jeromy Cox",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Klaus Janson",
+    "Kris Justice",
+    "Mike McKone",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-01-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/14/asm-v2-582.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17135/",
+  "fetched_at": "2026-05-20T13:58:20.625Z",
+  "reviewed_at": null
+}

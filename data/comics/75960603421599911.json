@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960603421599911",
+  "title": "The Sensational Spider-Man #-1",
+  "authors": [
+    "Bob Harras",
+    "Gregory Wright",
+    "Kiff Scholl",
+    "Mike Wieringo",
+    "Ralph Macchio",
+    "Richard Case",
+    "Richard Starkings",
+    "Todd Dezago"
+  ],
+  "publish_date": "1997-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/05/the-sensational-spider-man-negative-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39190/",
+  "fetched_at": "2026-05-20T03:31:07.549Z",
+  "reviewed_at": "1997-07-01"
+}

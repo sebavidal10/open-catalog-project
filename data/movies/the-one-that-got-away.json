@@ -1,0 +1,31 @@
+{
+  "title": "The One That Got Away",
+  "year": "1957",
+  "rated": "Not Rated",
+  "released": "22 Nov 1957",
+  "runtime": "111 min",
+  "genre": "Adventure, Drama, War",
+  "director": "Roy Ward Baker",
+  "writer": "Howard Clewes, Kendal Burt, James Leasor",
+  "actors": "Hardy Krüger, Colin Gordon, Michael Goodliffe",
+  "plot": "A cocky German fighter pilot is shot down over England in 1940 and makes numerous attempts to escape to fight again.",
+  "language": "English, German",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWYzODAzNDAtNjhiOS00ZmY1LTg3NTktNDZjYmM3MGU4MDZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.1",
+  "imdbID": "tt0050803",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:39:13.431Z"
+}

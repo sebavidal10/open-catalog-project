@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "596060471662311",
+  "title": "The Amazing Spider-Man #623",
+  "authors": [
+    "Alan Fine",
+    "Andres Mossa",
+    "Dan Buckley",
+    "Jodi Wynne",
+    "Joe Caramagna",
+    "Joe Jusko",
+    "Joe Quesada",
+    "Joe Quinones",
+    "Mark Waid",
+    "Michael Lark",
+    "Paul Azaceta",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Tom Peyer"
+  ],
+  "publish_date": "2010-03-03",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/17/asm-v2-623.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17180/",
+  "fetched_at": "2026-05-20T14:06:33.242Z",
+  "reviewed_at": null
+}

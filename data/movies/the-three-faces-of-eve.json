@@ -1,0 +1,35 @@
+{
+  "title": "The Three Faces of Eve",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "18 Sep 1957",
+  "runtime": "91 min",
+  "genre": "Drama, Mystery",
+  "director": "Nunnally Johnson",
+  "writer": "Nunnally Johnson, Corbett Thigpen, Hervey M. Cleckley",
+  "actors": "Joanne Woodward, David Wayne, Lee J. Cobb",
+  "plot": "A doctor treats a woman suffering from Multiple Personality Disorder.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 3 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmNiMDhlNzMtMDBmOS00Nzg4LTkzNzYtNDAzNTE1NGFhNmVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "7.2",
+  "imdbID": "tt0051077",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:52:18.686Z"
+}

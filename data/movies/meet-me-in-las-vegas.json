@@ -1,0 +1,27 @@
+{
+  "title": "Meet Me in Las Vegas",
+  "year": "1956",
+  "rated": "Not Rated",
+  "released": "09 Mar 1956",
+  "runtime": "112 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Roy Rowland",
+  "writer": "Isobel Lennart",
+  "actors": "Dan Dailey, Cyd Charisse, Agnes Moorehead",
+  "plot": "In 1950s Las Vegas, a gambling rancher and a ballerina discover that some people have luck at cards while others have luck at love.",
+  "language": "English, French, Japanese",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDA3ZjgxZDEtYWUyMi00YTg2LThjYWYtYjVhOTI4NDY5ODYwXkEyXkFqcGdeQXVyOTg4MDk3MTQ@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0049490",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:28:39.783Z"
+}

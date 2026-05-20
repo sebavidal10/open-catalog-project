@@ -1,0 +1,35 @@
+{
+  "title": "Love in the Afternoon",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "30 Jun 1957",
+  "runtime": "130 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Billy Wilder",
+  "writer": "Billy Wilder, I.A.L. Diamond, Claude Anet",
+  "actors": "Gary Cooper, Audrey Hepburn, Maurice Chevalier",
+  "plot": "A middle-aged playboy becomes fascinated by the daughter of a private detective who has been hired to entrap him with the wife of a client.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "3 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmJlZWRjYjQtNzczMy00YzhjLTg0OGItYzljYTZlZmY3YjY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.1",
+  "imdbID": "tt0050658",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:39:36.866Z"
+}

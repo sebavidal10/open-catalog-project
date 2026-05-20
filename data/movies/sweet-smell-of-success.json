@@ -1,0 +1,35 @@
+{
+  "title": "Sweet Smell of Success",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "04 Jul 1957",
+  "runtime": "96 min",
+  "genre": "Drama, Film-Noir",
+  "director": "Alexander Mackendrick",
+  "writer": "Clifford Odets, Ernest Lehman, Alexander Mackendrick",
+  "actors": "Burt Lancaster, Tony Curtis, Susan Harrison",
+  "plot": "A powerful Broadway columnist coerces an unscrupulous press agent into breaking up his sister's romance with a jazz musician.",
+  "language": "English, Italian, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 1 BAFTA Award3 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWY3NmM5MTMtODczZS00NmE5LTljOGEtNjFmYzVlZThmNDZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "100/100"
+    }
+  ],
+  "metascore": "100",
+  "imdbRating": "8.0",
+  "imdbID": "tt0051036",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:39:14.663Z"
+}

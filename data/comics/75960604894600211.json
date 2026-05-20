@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960604894600211",
+  "title": "Spider-Man: Death and Destiny #2",
+  "authors": [
+    "Agustin Mas",
+    "Bob Harras",
+    "Lee Weeks",
+    "Paul Tutrone",
+    "Ralph Macchio",
+    "Richard Case",
+    "Steve Buccellato"
+  ],
+  "publish_date": "2000-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/09/11/63b87403ed364295a9d2d791253c312b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/75215/",
+  "fetched_at": "2026-05-20T03:44:48.488Z",
+  "reviewed_at": "2000-09-01"
+}

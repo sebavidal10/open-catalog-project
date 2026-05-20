@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960601372202011",
+  "title": "Spider-Man Unlimited #20",
+  "authors": [
+    "Christopher Golden",
+    "Jack Morelli",
+    "Joe Bennett",
+    "Joe Pimentel",
+    "John Kalisz",
+    "Ralph Macchio"
+  ],
+  "publish_date": "1998-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/04/ed326d88a13d4019adf9d51e9f6b98e4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130734/",
+  "fetched_at": "2026-05-20T03:35:14.562Z",
+  "reviewed_at": "1998-05-01"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604717802811",
+  "title": "Peter Parker: Spider-Man #28",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Dan Green",
+    "Joe Quesada",
+    "Joe Rosas",
+    "Kaare Andrews",
+    "Mark Buckingham",
+    "Paul Jenkins",
+    "Richard Starkings",
+    "Rodney Ramos"
+  ],
+  "publish_date": "2001-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/18/pp-spiderman-v1-28.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4711/",
+  "fetched_at": "2026-05-20T03:47:27.576Z",
+  "reviewed_at": "2001-04-01"
+}

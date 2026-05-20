@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604717805411",
+  "title": "Peter Parker: Spider-Man #54",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Francisco Herrera",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Michael O'Hare",
+    "Randy Gentile",
+    "Wayne Faucher",
+    "Zeb Wells"
+  ],
+  "publish_date": "2003-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/19/pp-spiderman-v1-54.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4738/",
+  "fetched_at": "2026-05-20T03:56:57.457Z",
+  "reviewed_at": "2003-05-01"
+}

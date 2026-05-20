@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060471651811",
+  "title": "The Amazing Spider-Man #518",
+  "authors": [
+    "Axel Alonso",
+    "Brian Reber",
+    "Cory Petit",
+    "Dan Buckley",
+    "Jaime Mendoza",
+    "J. Michael Straczynski",
+    "Joe Jusko",
+    "Joe Pimentel",
+    "Joe Quesada",
+    "Mark Brooks",
+    "Matt Milla",
+    "Mike Deodato",
+    "Warren Simons"
+  ],
+  "publish_date": "2005-03-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/11/asm-v2-518.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17071/",
+  "fetched_at": "2026-05-20T04:07:41.329Z",
+  "reviewed_at": null
+}

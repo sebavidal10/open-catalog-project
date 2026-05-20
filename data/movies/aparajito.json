@@ -1,0 +1,31 @@
+{
+  "title": "Aparajito",
+  "year": "1956",
+  "rated": "Not Rated",
+  "released": "11 Oct 1956",
+  "runtime": "110 min",
+  "genre": "Drama",
+  "director": "Satyajit Ray",
+  "writer": "Bibhutibhushan Bandyopadhyay, Satyajit Ray, Kanailal Basu",
+  "actors": "Pinaki Sengupta, Smaran Ghosal, Kamala Adhikari",
+  "plot": "Following his father's death, a boy leaves home to study in Calcutta, while his mother must face a life alone.",
+  "language": "Bengali",
+  "country": "India",
+  "awards": "Nominated for 2 BAFTA 6 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmViYWRlZWEtYjFhZi00Njg4LTg4YmYtMTQ2MTFkYmMwNjRmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.2",
+  "imdbID": "tt0048956",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:26:28.913Z"
+}

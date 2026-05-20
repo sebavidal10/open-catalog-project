@@ -1,0 +1,31 @@
+{
+  "title": "A Man Escaped",
+  "year": "1956",
+  "rated": "Not Rated",
+  "released": "26 Aug 1957",
+  "runtime": "101 min",
+  "genre": "Drama, Thriller, War",
+  "director": "Robert Bresson",
+  "writer": "André Devigny, Robert Bresson",
+  "actors": "François Leterrier, Charles Le Clainche, Maurice Beerblock",
+  "plot": "A captured French Resistance fighter during World War II engineers a daunting escape from a German prison in France.",
+  "language": "French, German",
+  "country": "France",
+  "awards": "Nominated for 1 BAFTA Award4 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjBkODI2NzItODMzMC00Yjc2LWI2NDItZTA5YTE0MTE5NDc2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.2",
+  "imdbID": "tt0049902",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:26:58.582Z"
+}

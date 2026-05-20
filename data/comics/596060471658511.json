@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "596060471658511",
+  "title": "The Amazing Spider-Man #585",
+  "authors": [
+    "Chris Eliopoulos",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dean White",
+    "Joe Quesada",
+    "Joe Sabino",
+    "John Romita Jr.",
+    "Klaus Janson",
+    "Marc Guggenheim",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-02-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/14/asm-v2-585.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17138/",
+  "fetched_at": "2026-05-20T13:58:50.913Z",
+  "reviewed_at": null
+}

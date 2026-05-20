@@ -1,0 +1,35 @@
+{
+  "title": "The Cranes Are Flying",
+  "year": "1957",
+  "rated": "Not Rated",
+  "released": "21 Mar 1960",
+  "runtime": "95 min",
+  "genre": "Drama, Romance, War",
+  "director": "Mikhail Kalatozov",
+  "writer": "Viktor Rozov",
+  "actors": "Tatyana Samoylova, Aleksey Batalov, Vasiliy Merkurev",
+  "plot": "Veronika plans a rendezvous with her lover Boris at the bank of the river, only for him to be drafted into World War II shortly thereafter.",
+  "language": "Russian",
+  "country": "Soviet Union",
+  "awards": "Nominated for 2 BAFTA 4 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjVmNTllYjUtYTc2MS00OTZhLTllMWEtOWYzMGQ2YmYzMzgyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "8.3",
+  "imdbID": "tt0050634",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:38:58.564Z"
+}

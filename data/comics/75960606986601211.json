@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960606986601211",
+  "title": "Web of Spider-Man #12",
+  "authors": [
+    "Alan Fine",
+    "Andres Mossa",
+    "Chris Sotomayor",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Fred Van Lente",
+    "Jelena Djurdjevic",
+    "Joe Quesada",
+    "Pepe Larraz",
+    "Philippe Briones",
+    "Roger Stern",
+    "Stephen Wacker",
+    "Taylor Esposito",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2010-09-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/30/web-of-spider-man-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/38935/",
+  "fetched_at": "2026-05-20T14:11:13.196Z",
+  "reviewed_at": null
+}

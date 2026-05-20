@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960602457543011",
+  "title": "The Amazing Spider-Man #430",
+  "authors": [
+    "Bob Harras",
+    "Bob Sharen",
+    "Bud LaRosa",
+    "Joe Bennett",
+    "Kiff Scholl",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Tom DeFalco",
+    "Tom Lyle"
+  ],
+  "publish_date": "1997-11-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/07/asm-v1-430.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16957/",
+  "fetched_at": "2026-05-20T03:33:31.669Z",
+  "reviewed_at": null
+}

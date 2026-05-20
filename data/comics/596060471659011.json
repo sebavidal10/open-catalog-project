@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060471659011",
+  "title": "The Amazing Spider-Man #590",
+  "authors": [
+    "Alan Fine",
+    "Barry Kitson",
+    "Dan Buckley",
+    "Dan Slott",
+    "Dean White",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Mark Farmer",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/14/asm-v2-590.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17143/",
+  "fetched_at": "2026-05-20T13:59:50.405Z",
+  "reviewed_at": null
+}

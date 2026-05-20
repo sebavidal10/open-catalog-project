@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960602457543711",
+  "title": "The Amazing Spider-Man #435",
+  "authors": [
+    "Bob Harras",
+    "Bob Sharen",
+    "Bud LaRosa",
+    "Joe Bennett",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1998-04-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/07/asm-v1-435.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16962/",
+  "fetched_at": "2026-05-20T03:35:22.954Z",
+  "reviewed_at": null
+}

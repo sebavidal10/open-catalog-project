@@ -1,0 +1,31 @@
+{
+  "title": "I Was a Teenage Frankenstein",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "23 Nov 1957",
+  "runtime": "74 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Herbert L. Strock",
+  "writer": "Herman Cohen, Aben Kandel",
+  "actors": "Whit Bissell, Phyllis Coates, Robert Burton",
+  "plot": "Professor Frankenstein creates a hulking teenager from the body of an accident victim; his \"creation\" awakens and goes on a killing spree.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmVkMTliM2YtNTRkNi00NjE2LWFkZmQtNWRhN2MwMDc5YTdhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.1",
+  "imdbID": "tt0050531",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:55:16.820Z"
+}

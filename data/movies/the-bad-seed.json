@@ -1,0 +1,35 @@
+{
+  "title": "The Bad Seed",
+  "year": "1956",
+  "rated": "Approved",
+  "released": "12 Sep 1956",
+  "runtime": "129 min",
+  "genre": "Drama, Horror, Thriller",
+  "director": "Mervyn LeRoy",
+  "writer": "John Lee Mahin, Maxwell Anderson, William March",
+  "actors": "Nancy Kelly, Patty McCormack, Gage Clarke",
+  "plot": "A woman realizes her daughter was born to kill.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 1 win & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmYxZjY5NDQtZThjOS00MjZmLThlZDktZTIyMGM2NjY4MzMyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "7.4",
+  "imdbID": "tt0048977",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:26:44.984Z"
+}

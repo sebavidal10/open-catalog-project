@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960602199425511",
+  "title": "The Spectacular Spider-Man #255",
+  "authors": [
+    "Al Milgrom",
+    "Bob Harras",
+    "Dan Green",
+    "J.M. DeMatteis",
+    "John Kalisz",
+    "John Romita Jr.",
+    "Kiff Scholl",
+    "Luke Ross",
+    "Mark Bernardo",
+    "Mike Rockwitz",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Scott Hanna",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1998-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/27/the-spectacular-spider-man-255.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/31263/",
+  "fetched_at": "2026-05-20T03:34:24.386Z",
+  "reviewed_at": "1998-03-01"
+}

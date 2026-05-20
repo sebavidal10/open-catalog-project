@@ -1,0 +1,35 @@
+{
+  "title": "Jailhouse Rock",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "08 Nov 1957",
+  "runtime": "96 min",
+  "genre": "Drama, Music, Musical",
+  "director": "Richard Thorpe",
+  "writer": "Guy Trosper, Nedrick Young",
+  "actors": "Elvis Presley, Judy Tyler, Mickey Shaughnessy",
+  "plot": "After serving time for manslaughter, young Vince Everett becomes a teenage rock star.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTMxMzY2ODUtMWEwZi00ZDk0LWFjNTYtNmM4ZjJmMmEyY2QzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "6.5",
+  "imdbID": "tt0050556",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:39:35.631Z"
+}

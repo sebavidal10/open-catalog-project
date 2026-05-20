@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960605427500111",
+  "title": "Spectacular Spider-Man #1",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Humberto Ramos",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Paul Jenkins",
+    "Randy Gentile",
+    "Studio F",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2003-07-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/25/spectacular-spider-man-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42433/",
+  "fetched_at": "2026-05-20T03:58:14.869Z",
+  "reviewed_at": null
+}

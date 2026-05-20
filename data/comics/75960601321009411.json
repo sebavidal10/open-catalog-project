@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601321009411",
+  "title": "Spider-Man #94",
+  "authors": [
+    "Bob Harras",
+    "Gregory Wright",
+    "Howard Mackie",
+    "John Romita Jr.",
+    "Liz Agraphiotis",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Scott Hanna"
+  ],
+  "publish_date": "1998-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/02/spider-man-94.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33552/",
+  "fetched_at": "2026-05-20T03:36:12.859Z",
+  "reviewed_at": "1998-08-01"
+}

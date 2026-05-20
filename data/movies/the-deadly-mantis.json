@@ -1,0 +1,31 @@
+{
+  "title": "The Deadly Mantis",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "26 May 1957",
+  "runtime": "79 min",
+  "genre": "Family, Horror, Sci-Fi",
+  "director": "Nathan Juran",
+  "writer": "Martin Berkeley, William Alland",
+  "actors": "Craig Stevens, William Hopper, Alix Talton",
+  "plot": "A giant prehistoric praying mantis, recently freed from the Arctic ice, voraciously preys on American military at the DEW Line and works its way south.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTk3YWVjMmUtMzA5OS00NmQ0LWFkNTQtMzA3Y2RlMzJkZDliXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.1",
+  "imdbID": "tt0050294",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:53:00.609Z"
+}

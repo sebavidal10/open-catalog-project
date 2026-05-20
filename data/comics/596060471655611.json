@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060471655611",
+  "title": "The Amazing Spider-Man #556",
+  "authors": [
+    "Anthony Dial",
+    "Antonio Fabela",
+    "Chris Bachalo",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Stephen Wacker",
+    "Tim Townsend",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Zeb Wells"
+  ],
+  "publish_date": "2008-04-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/12/asm-v2-556.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17109/",
+  "fetched_at": "2026-05-20T13:54:11.362Z",
+  "reviewed_at": null
+}

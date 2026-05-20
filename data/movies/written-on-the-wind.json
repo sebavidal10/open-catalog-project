@@ -1,0 +1,35 @@
+{
+  "title": "Written on the Wind",
+  "year": "1956",
+  "rated": "Approved",
+  "released": "25 Dec 1956",
+  "runtime": "99 min",
+  "genre": "Drama",
+  "director": "Douglas Sirk",
+  "writer": "George Zuckerman, Robert Wilder",
+  "actors": "Rock Hudson, Lauren Bacall, Robert Stack",
+  "plot": "Alcoholic playboy Kyle Hadley marries the woman secretly loved by his poor but hard-working best friend, who in turn is pursued by Kyle's sister.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 3 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTQzZmYwNjgtZGE2OS00YzcxLTkxOTQtNjZkZmY2Y2EwZThlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.3",
+  "imdbID": "tt0049966",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:27:07.256Z"
+}

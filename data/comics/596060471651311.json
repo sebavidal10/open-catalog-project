@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "596060471651311",
+  "title": "The Amazing Spider-Man #513",
+  "authors": [
+    "Axel Alonso",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "J. Michael Straczynski",
+    "Joe Pimentel",
+    "Joe Quesada",
+    "Matt Milla",
+    "Mike Deodato"
+  ],
+  "publish_date": "2004-10-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/11/asm-v2-513.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17060/",
+  "fetched_at": "2026-05-20T04:05:46.549Z",
+  "reviewed_at": null
+}

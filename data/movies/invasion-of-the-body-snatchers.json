@@ -1,0 +1,35 @@
+{
+  "title": "Invasion of the Body Snatchers",
+  "year": "1956",
+  "rated": "Approved",
+  "released": "05 Feb 1956",
+  "runtime": "80 min",
+  "genre": "Drama, Horror, Sci-Fi",
+  "director": "Don Siegel",
+  "writer": "Daniel Mainwaring, Jack Finney, Richard Collins",
+  "actors": "Kevin McCarthy, Dana Wynter, Larry Gates",
+  "plot": "A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzJkNWI2YTgtNWZkOS00YWE5LWIyZmMtZjI5NjI3NGY5ZGIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "metascore": "92",
+  "imdbRating": "7.7",
+  "imdbID": "tt0049366",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:26:41.264Z"
+}

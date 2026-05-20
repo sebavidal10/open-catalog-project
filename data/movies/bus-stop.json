@@ -1,0 +1,31 @@
+{
+  "title": "Bus Stop",
+  "year": "1956",
+  "rated": "Approved",
+  "released": "20 Sep 1956",
+  "runtime": "96 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Joshua Logan",
+  "writer": "George Axelrod, William Inge, Maurice Griffe",
+  "actors": "Marilyn Monroe, Don Murray, Arthur O'Connell",
+  "plot": "A naive but stubborn cowboy falls in love with a saloon singer and tries to take her away against her will to get married and live on his ranch in Montana.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjc2MDRkMWQtMDE2Yi00MDdhLWFiOTAtODI5MGRhNTA3OWI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0049038",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:27:01.052Z"
+}

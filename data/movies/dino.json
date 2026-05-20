@@ -1,0 +1,27 @@
+{
+  "title": "Dino",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "21 Jul 1957",
+  "runtime": "94 min",
+  "genre": "Crime, Drama",
+  "director": "Thomas Carr",
+  "writer": "Reginald Rose",
+  "actors": "Sal Mineo, Brian Keith, Susan Kohner",
+  "plot": "A juvenile delinquent (Sal Mineo) on parole receives support from a social worker (Brian Keith) and a girl (Susan Kohner) from a slum.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjE2Mzk1YWUtYTE2Ni00ODgzLWIxZGYtOTM4YjZhNjlhN2ZmXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0050316",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:59:43.529Z"
+}

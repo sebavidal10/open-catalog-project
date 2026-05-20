@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960604717801711",
+  "title": "Peter Parker: Spider-Man #17",
+  "authors": [
+    "Bob Harras",
+    "Howard Mackie",
+    "Joe Rosas",
+    "John Romita Jr.",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Scott Hanna",
+    "Troy Peteri"
+  ],
+  "publish_date": "2000-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/18/pp-spiderman-v1-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4700/",
+  "fetched_at": "2026-05-20T03:43:41.612Z",
+  "reviewed_at": "2000-05-01"
+}

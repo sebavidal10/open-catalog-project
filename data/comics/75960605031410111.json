@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605031410111",
+  "title": "Ultimate Spider-Man #101",
+  "authors": [
+    "Andrew Hennessy",
+    "Brian Michael Bendis",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Quesada",
+    "John Barber",
+    "Justin Ponsor",
+    "Mark Bagley",
+    "Ralph Macchio",
+    "Richard Isanove",
+    "Rich Ginter"
+  ],
+  "publish_date": "2006-10-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/08/26/031568c880d040a5a1514962ab9c7ead.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/74060/",
+  "fetched_at": "2026-05-20T13:46:11.484Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060471660211",
+  "title": "The Amazing Spider-Man #602",
+  "authors": [
+    "Adi Granov",
+    "Alan Fine",
+    "Barry Kitson",
+    "Dan Buckley",
+    "Fred Van Lente",
+    "Jeromy Cox",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Mike McKone",
+    "Rick Ketcham",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-08-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/16/asm-v2-602.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17155/",
+  "fetched_at": "2026-05-20T14:02:10.693Z",
+  "reviewed_at": null
+}

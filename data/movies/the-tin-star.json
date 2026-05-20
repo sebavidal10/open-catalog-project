@@ -1,0 +1,31 @@
+{
+  "title": "The Tin Star",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "06 Nov 1957",
+  "runtime": "93 min",
+  "genre": "Western",
+  "director": "Anthony Mann",
+  "writer": "Dudley Nichols, Barney Slater, Joel Kane",
+  "actors": "Henry Fonda, Anthony Perkins, Betsy Palmer",
+  "plot": "A cynical former sheriff turned bounty hunter helps a young, recently appointed acting sheriff with his advice, his experience and his gun.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWE3M2Q0MzAtZTAwMC00ZjVjLTljMGQtNGFhMzVmNDJhMDQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0051087",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:52:48.248Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Spirit of St. Louis",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "20 Apr 1957",
+  "runtime": "135 min",
+  "genre": "Adventure, Biography, Drama",
+  "director": "Billy Wilder",
+  "writer": "Charles A. Lindbergh, Billy Wilder, Wendell Mayes",
+  "actors": "James Stewart, Murray Hamilton, Patricia Smith",
+  "plot": "Charles 'Slim' Lindbergh struggles to finance and design an airplane that will make his New York to Paris flight the first solo transatlantic crossing.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzlmZGFiYjMtYjgzYy00YWNkLWEwNjEtYTYyN2UwYmFhNWY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0051003",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:52:39.431Z"
+}

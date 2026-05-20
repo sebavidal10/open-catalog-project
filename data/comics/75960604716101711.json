@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960604716101711",
+  "title": "The Amazing Spider-Man #17",
+  "authors": [
+    "Bob Harras",
+    "Dan Green",
+    "Howard Mackie",
+    "Joe Rosas",
+    "John Byrne",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Troy Peteri"
+  ],
+  "publish_date": "2000-03-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/08/asm-v2-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16985/",
+  "fetched_at": "2026-05-20T03:43:37.754Z",
+  "reviewed_at": null
+}

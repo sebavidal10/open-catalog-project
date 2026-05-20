@@ -1,0 +1,27 @@
+{
+  "title": "The Snow Queen",
+  "year": "1957",
+  "rated": "Unrated",
+  "released": "20 Nov 1959",
+  "runtime": "74 min",
+  "genre": "Animation, Adventure, Family",
+  "director": "Lev Atamanov",
+  "writer": "Georgiy Grebner, Lev Atamanov, Nikolay Erdman",
+  "actors": "Vladimir Gribkov, Yanina Zheymo, Anna Komolova",
+  "plot": "A young girl embarks on a perilous journey to rescue her friend, who has been taken captive by the Snow Queen and turned cruel by enchanted ice splinters.",
+  "language": "Russian, English",
+  "country": "Soviet Union",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTliZTZhMDQtOGU0NC00OWIxLWI5MjgtMzE5NDdjYWUyOTIzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0050987",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:54:27.249Z"
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604717801811",
+  "title": "Peter Parker: Spider-Man #18",
+  "authors": [
+    "Bob Harras",
+    "Graham Nolan",
+    "Gregory Wright",
+    "Howard Mackie",
+    "John Romita Jr.",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Scott Hanna",
+    "Troy Peteri"
+  ],
+  "publish_date": "2000-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/18/pp-spiderman-v1-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4701/",
+  "fetched_at": "2026-05-20T03:43:57.948Z",
+  "reviewed_at": "2000-06-01"
+}

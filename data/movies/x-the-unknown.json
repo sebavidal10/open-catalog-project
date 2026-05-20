@@ -1,0 +1,31 @@
+{
+  "title": "X the Unknown",
+  "year": "1956",
+  "rated": "Approved",
+  "released": "01 May 1957",
+  "runtime": "81 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Leslie Norman, Joseph Losey",
+  "writer": "Jimmy Sangster",
+  "actors": "Dean Jagger, Edward Chapman, Leo McKern",
+  "plot": "A radioactive, mud-like creature terrorizes a Scottish village.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDNmMmU0NjEtYmVhZC00OTg3LWFlMDgtNmRjZTUxOGFlZWYxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0049967",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:28:38.556Z"
+}

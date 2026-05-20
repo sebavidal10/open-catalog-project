@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605031401511",
+  "title": "Ultimate Spider-Man #15",
+  "authors": [
+    "Art Thibert",
+    "Bill Jemas",
+    "Brian Michael Bendis",
+    "Brian Smith",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Mark Bagley",
+    "Ralph Macchio"
+  ],
+  "publish_date": "2001-11-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/08/26/eba96bdb72e747d0b67455b31a8f2d3c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/73973/",
+  "fetched_at": "2026-05-20T03:50:39.492Z",
+  "reviewed_at": null
+}

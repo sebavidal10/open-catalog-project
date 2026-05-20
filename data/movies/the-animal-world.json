@@ -1,0 +1,27 @@
+{
+  "title": "The Animal World",
+  "year": "1956",
+  "rated": "Approved",
+  "released": "06 Aug 1957",
+  "runtime": "82 min",
+  "genre": "Documentary, Animation, History",
+  "director": "Irwin Allen",
+  "writer": "Irwin Allen",
+  "actors": "Theodore von Eltz, John Storm",
+  "plot": "A documentary showcasing the world's many different animal species, both past and present.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDQyYzZmZWMtZjk0My00NGY3LTg5NTQtZTE4ZDg1YjU4MTFiXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0048950",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:31:55.531Z"
+}

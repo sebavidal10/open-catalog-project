@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604717800511",
+  "title": "Peter Parker: Spider-Man #5",
+  "authors": [
+    "Bart Sears",
+    "Bob Harras",
+    "Howard Mackie",
+    "John Byrne",
+    "Liz Agraphiotis",
+    "Mark Bernardo",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Scott Hanna"
+  ],
+  "publish_date": "1999-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/17/pp-spiderman-v1-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4665/",
+  "fetched_at": "2026-05-20T03:39:20.428Z",
+  "reviewed_at": "1999-05-01"
+}

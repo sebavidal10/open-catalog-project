@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960604716162911",
+  "title": "The Amazing Spider-Man #629",
+  "authors": [
+    "Alan Fine",
+    "Chris Bachalo",
+    "Dan Buckley",
+    "Dean White",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Lee Weeks",
+    "Matt Hollingsworth",
+    "Roger Stern",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Zeb Wells"
+  ],
+  "publish_date": "2010-04-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/17/asm-v2-629.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17186/",
+  "fetched_at": "2026-05-20T14:07:19.408Z",
+  "reviewed_at": null
+}

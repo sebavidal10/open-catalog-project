@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605676700111",
+  "title": "Spider-Man / Human Torch #1",
+  "authors": [
+    "Andy Schmidt",
+    "Dan Slott",
+    "Mark Nelson",
+    "Molly Lazer",
+    "Nicole Wiley Boose",
+    "Paul Smith",
+    "Tom Brevoort",
+    "Ty Templeton"
+  ],
+  "publish_date": "2005-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/12/02/d1aff5210b914c3ab7bf9e4faca54126.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131380/",
+  "fetched_at": "2026-05-20T04:06:59.735Z",
+  "reviewed_at": "2005-03-01"
+}

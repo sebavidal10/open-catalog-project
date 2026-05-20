@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060471658611",
+  "title": "The Amazing Spider-Man #586",
+  "authors": [
+    "Andres Mossa",
+    "Barry Kitson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dean White",
+    "Joe Quesada",
+    "John Romita Jr.",
+    "Karl Kesel",
+    "Klaus Janson",
+    "Marc Guggenheim",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-02-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/14/asm-v2-586.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17139/",
+  "fetched_at": "2026-05-20T13:58:54.906Z",
+  "reviewed_at": null
+}

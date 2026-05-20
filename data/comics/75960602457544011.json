@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960602457544011",
+  "title": "The Amazing Spider-Man #440",
+  "authors": [
+    "Bob Harras",
+    "Bud LaRosa",
+    "Jimmy Palmiotti",
+    "John Byrne",
+    "Liz Agraphiotis",
+    "Mark Bernardo",
+    "Mike Rockwitz",
+    "Mike Wieringo",
+    "Rafael Kayanan",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Rodney Ramos"
+  ],
+  "publish_date": "1998-08-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/07/asm-v1-440.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16967/",
+  "fetched_at": "2026-05-20T03:36:50.259Z",
+  "reviewed_at": null
+}

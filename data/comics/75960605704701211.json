@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605704701211",
+  "title": "Friendly Neighborhood Spider-Man #12",
+  "authors": [
+    "Axel Alonso",
+    "Cory Petit",
+    "Joe Quesada",
+    "Lee Loughridge",
+    "Michael O'Connor",
+    "Mike Manley",
+    "Mike Wieringo",
+    "Peter David",
+    "Robert Campanella",
+    "Todd Nauck"
+  ],
+  "publish_date": "2006-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/21/410e7e2bbb2241649ac3efb6bb75b91c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/123276/",
+  "fetched_at": "2026-05-20T13:45:22.986Z",
+  "reviewed_at": "2006-11-01"
+}

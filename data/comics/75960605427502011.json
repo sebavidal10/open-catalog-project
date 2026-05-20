@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605427502011",
+  "title": "Spectacular Spider-Man #20",
+  "authors": [
+    "Andy Schmidt",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Humberto Ramos",
+    "Joe Quesada",
+    "Juan Vlasco",
+    "Molly Lazer",
+    "Nicole Wiley Boose",
+    "Paco Medina",
+    "Paul Jenkins",
+    "Studio F",
+    "Tom Brevoort",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2004-10-20",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/25/spectacular-spider-man-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42452/",
+  "fetched_at": "2026-05-20T04:05:23.252Z",
+  "reviewed_at": null
+}

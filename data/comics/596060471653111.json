@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "596060471653111",
+  "title": "The Amazing Spider-Man #531",
+  "authors": [
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "John Starr",
+    "Michael O'Connor",
+    "Ron Garney",
+    "Sal Regla",
+    "Tyler Kirkham"
+  ],
+  "publish_date": "2006-04-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/12/asm-v2-531.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17084/",
+  "fetched_at": "2026-05-20T13:42:33.486Z",
+  "reviewed_at": null
+}

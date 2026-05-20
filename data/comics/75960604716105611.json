@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960604716105611",
+  "title": "The Amazing Spider-Man #56",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Dan Kemp",
+    "Fiona Avery",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "John Miesegaes",
+    "John Romita Jr.",
+    "Mike Deodato",
+    "Randy Gentile",
+    "Scott Hanna",
+    "Warren Simons"
+  ],
+  "publish_date": "2003-08-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/10/asm-v2-56.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17044/",
+  "fetched_at": "2026-05-20T03:58:35.153Z",
+  "reviewed_at": null
+}

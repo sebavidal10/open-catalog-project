@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960604716104011",
+  "title": "The Amazing Spider-Man #40",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Dan Kemp",
+    "Jason Pearson",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "John Miesegaes",
+    "John Romita Jr.",
+    "Richard Starkings",
+    "Scott Hanna",
+    "Wes Abbott"
+  ],
+  "publish_date": "2002-04-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/10/asm-v2-40.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17028/",
+  "fetched_at": "2026-05-20T03:52:02.848Z",
+  "reviewed_at": null
+}

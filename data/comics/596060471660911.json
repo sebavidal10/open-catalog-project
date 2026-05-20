@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060471660911",
+  "title": "The Amazing Spider-Man #609",
+  "authors": [
+    "Adi Granov",
+    "Alan Fine",
+    "Dan Buckley",
+    "Fabio D'Auria",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Luke Ross",
+    "Marc Guggenheim",
+    "Marco Checchetto",
+    "Rick Magyar",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-10-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/16/asm-v2-609.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17162/",
+  "fetched_at": "2026-05-20T14:03:22.720Z",
+  "reviewed_at": null
+}

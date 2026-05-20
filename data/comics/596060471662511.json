@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060471662511",
+  "title": "The Amazing Spider-Man #625",
+  "authors": [
+    "Alan Fine",
+    "Dan Buckley",
+    "Fabio D'Auria",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Marko Djurdjević",
+    "Max Fiumara",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2010-03-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/17/asm-v2-625.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17182/",
+  "fetched_at": "2026-05-20T14:06:41.720Z",
+  "reviewed_at": null
+}

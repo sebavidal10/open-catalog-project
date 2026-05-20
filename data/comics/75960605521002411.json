@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960605521002411",
+  "title": "Sensational Spider-Man #24",
+  "authors": [
+    "Angel Medina",
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dan Kemp",
+    "Joe Quesada",
+    "Roberto Aguirre-Sacasa",
+    "Scott Hanna",
+    "Warren Simons"
+  ],
+  "publish_date": "2006-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/25/69b7acfbb57e41818854ddbe5d859dc0.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/123365/",
+  "fetched_at": "2026-05-20T13:42:02.794Z",
+  "reviewed_at": "2006-05-01"
+}

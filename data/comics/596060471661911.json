@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "596060471661911",
+  "title": "The Amazing Spider-Man #619",
+  "authors": [
+    "Alan Fine",
+    "Dan Buckley",
+    "Dan Slott",
+    "Javier Rodríguez",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marcos Martín",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2010-01-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/17/asm-v2-619.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17176/",
+  "fetched_at": "2026-05-20T14:05:23.864Z",
+  "reviewed_at": null
+}

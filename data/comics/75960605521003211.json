@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605521003211",
+  "title": "Sensational Spider-Man #32",
+  "authors": [
+    "Alejandro Arbona",
+    "Clayton Crain",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dan Kemp",
+    "Joe Quesada",
+    "Rich Ginter",
+    "Roberto Aguirre-Sacasa",
+    "Scott Hanna",
+    "Sean Chen",
+    "Warren Simons"
+  ],
+  "publish_date": "2007-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/25/2b67fafcb35c4bd8840d524c926a2dc6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/123373/",
+  "fetched_at": "2026-05-20T13:46:32.182Z",
+  "reviewed_at": "2007-01-01"
+}

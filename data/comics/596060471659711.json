@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "596060471659711",
+  "title": "The Amazing Spider-Man #597",
+  "authors": [
+    "Alan Fine",
+    "Andy Lanning",
+    "Chris Chuckry",
+    "Dan Buckley",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Marco Checchetto",
+    "Phil Jimenez",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-06-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/15/asm-v2-597.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17150/",
+  "fetched_at": "2026-05-20T14:01:02.150Z",
+  "reviewed_at": null
+}

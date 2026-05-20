@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960604792500311",
+  "title": "Spider-Man Unlimited #3",
+  "authors": [
+    "Andy Kuhn",
+    "Eric Stephenson",
+    "Harry Candelario",
+    "Mark Bernardo",
+    "Paul Tutrone",
+    "Ralph Macchio"
+  ],
+  "publish_date": "2000-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/29/00_JxYbP2a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/134273/",
+  "fetched_at": "2026-05-20T03:42:37.596Z",
+  "reviewed_at": "2000-02-01"
+}

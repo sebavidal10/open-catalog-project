@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605506700111",
+  "title": "Spider-Man Unlimited #1",
+  "authors": [
+    "Andy Kubert",
+    "Brian Lynch",
+    "Brian Reber",
+    "Dave Sharpe",
+    "Laura Martin",
+    "Marc Sumerak",
+    "Sandu Florea",
+    "Sean Chen",
+    "Takeshi Miyazawa",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2004-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/30/f52ab6fded6a4dfe8eefbbbc9fc91001.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/134326/",
+  "fetched_at": "2026-05-20T04:01:01.757Z",
+  "reviewed_at": "2004-03-01"
+}

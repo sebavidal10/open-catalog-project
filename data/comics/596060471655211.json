@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060471655211",
+  "title": "The Amazing Spider-Man #552",
+  "authors": [
+    "Andy Lanning",
+    "Anthony Dial",
+    "Bob Gale",
+    "Cory Petit",
+    "Dan Buckley",
+    "Jeromy Cox",
+    "Joe Quesada",
+    "Phil Jimenez",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2008-03-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/12/asm-v2-552.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17105/",
+  "fetched_at": "2026-05-20T13:53:40.820Z",
+  "reviewed_at": null
+}

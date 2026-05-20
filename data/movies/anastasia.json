@@ -1,0 +1,31 @@
+{
+  "title": "Anastasia",
+  "year": "1956",
+  "rated": "Approved",
+  "released": "13 Dec 1956",
+  "runtime": "105 min",
+  "genre": "Biography, Drama, History",
+  "director": "Anatole Litvak",
+  "writer": "Arthur Laurents, Marcelle Maurette, Guy Bolton",
+  "actors": "Ingrid Bergman, Yul Brynner, Helen Hayes",
+  "plot": "An opportunistic businessman tries to pass off a mysterious impostor as the Grand Duchess Anastasia, and she is so convincing that even the biggest skeptics believe her.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 7 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGY2ZjliZWUtYjdlNy00ZDIwLTg1MDYtZTE3NWZjZWI2MDBkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0048947",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:27:09.732Z"
+}

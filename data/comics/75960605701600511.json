@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605701600511",
+  "title": "Spider-Man: House of M #5",
+  "authors": [
+    "Andy Schmidt",
+    "Aubrey Sitterson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Danny Miki",
+    "Joe Quesada",
+    "Liquid!",
+    "Mark Waid",
+    "Molly Lazer",
+    "Salvador Larroca",
+    "Tom Brevoort",
+    "Tom Peyer",
+    "Tom Valente"
+  ],
+  "publish_date": "2005-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/04/17/067141cdda5f471491fac0ee3f8087d5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/116356/",
+  "fetched_at": "2026-05-20T13:39:13.312Z",
+  "reviewed_at": "2005-12-01"
+}

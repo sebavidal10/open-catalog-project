@@ -1,0 +1,31 @@
+{
+  "title": "Bigger Than Life",
+  "year": "1956",
+  "rated": "Approved",
+  "released": "05 Sep 1956",
+  "runtime": "95 min",
+  "genre": "Drama",
+  "director": "Nicholas Ray",
+  "writer": "Cyril Hume, Richard Maibaum, Burton Roueche",
+  "actors": "James Mason, Barbara Rush, Walter Matthau",
+  "plot": "A seriously-ill schoolteacher becomes dependent on a \"miracle\" drug that begins to affect his sanity.",
+  "language": "English, Japanese",
+  "country": "United States",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzkwNzFmNDgtN2UxOS00NmZmLWFkMzItN2JkOWRkY2YwZTg1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0049010",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:27:41.935Z"
+}

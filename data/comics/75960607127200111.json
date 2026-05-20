@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960607127200111",
+  "title": "Marvel Adventures Spider-Man #1",
+  "authors": [
+    "Christian Dalla Vecchia",
+    "Dave Sharpe",
+    "Karl Kerschl",
+    "Matteo Lolli",
+    "Nathan Cosby",
+    "Paul Tobin"
+  ],
+  "publish_date": "2010-04-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/29/755453.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156724/",
+  "fetched_at": "2026-05-20T14:07:27.482Z",
+  "reviewed_at": null
+}

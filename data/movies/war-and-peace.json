@@ -1,0 +1,31 @@
+{
+  "title": "War and Peace",
+  "year": "1956",
+  "rated": "PG",
+  "released": "21 Aug 1956",
+  "runtime": "208 min",
+  "genre": "Drama, Romance, War",
+  "director": "King Vidor",
+  "writer": "Lev Tolstoy, Bridget Boland, Robert Westerby",
+  "actors": "Audrey Hepburn, Henry Fonda, Mel Ferrer",
+  "plot": "Napoleon's tumultuous relations with Russia, including his disastrous 1812 invasion, serve as the backdrop for the tangled personal lives of two aristocratic families.",
+  "language": "English, Russian, French",
+  "country": "Italy, United States",
+  "awards": "Nominated for 3 Oscars. 6 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2NkMzc3YzItM2YxNy00YzQwLTlmMDUtZDVjMDNjMTlhYWIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0049934",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:26:49.949Z"
+}

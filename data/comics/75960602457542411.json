@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960602457542411",
+  "title": "The Amazing Spider-Man #424",
+  "authors": [
+    "Al Milgrom",
+    "Bob Harras",
+    "Bob Sharen",
+    "Bud LaRosa",
+    "Joe Bennett",
+    "Ralph Cabrera",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1997-04-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/07/asm-v1-424.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16951/",
+  "fetched_at": "2026-05-20T03:30:24.882Z",
+  "reviewed_at": null
+}

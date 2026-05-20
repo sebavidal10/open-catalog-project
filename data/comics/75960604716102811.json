@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604716102811",
+  "title": "The Amazing Spider-Man #28",
+  "authors": [
+    "Albert Deschesne",
+    "Axel Alonso",
+    "Gregory Wright",
+    "Howard Mackie",
+    "Joe Bennett",
+    "Joe Quesada",
+    "John Romita Jr.",
+    "Richard Starkings",
+    "Sandu Florea",
+    "Scott Hanna"
+  ],
+  "publish_date": "2001-02-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/10/asm-v2-28.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17016/",
+  "fetched_at": "2026-05-20T03:47:19.471Z",
+  "reviewed_at": null
+}

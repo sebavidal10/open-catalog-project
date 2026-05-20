@@ -1,0 +1,27 @@
+{
+  "title": "The Cyclops",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "28 Jul 1957",
+  "runtime": "66 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Bert I. Gordon",
+  "writer": "Bert I. Gordon",
+  "actors": "James Craig, Gloria Talbott, Lon Chaney Jr.",
+  "plot": "An expedition to Mexico finds and does battle with a mutated 25-foot man with one big eye.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmE0OGM1YTUtYjUwOC00NWM1LWFmNTQtZmVkOTMyY2FkM2NiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.5",
+  "imdbID": "tt0050281",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:55:03.184Z"
+}

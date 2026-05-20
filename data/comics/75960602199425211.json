@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960602199425211",
+  "title": "The Spectacular Spider-Man #252",
+  "authors": [
+    "Al Milgrom",
+    "Bob Harras",
+    "J.M. DeMatteis",
+    "John Kalisz",
+    "Kiff Scholl",
+    "Matt Hicks",
+    "Mike Deodato",
+    "Ralph Macchio",
+    "Richard Starkings"
+  ],
+  "publish_date": "1997-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/27/the-spectacular-spider-man-252.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/31260/",
+  "fetched_at": "2026-05-20T03:33:18.145Z",
+  "reviewed_at": "1997-12-01"
+}

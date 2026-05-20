@@ -1,0 +1,31 @@
+{
+  "title": "Kronos",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "01 Apr 1957",
+  "runtime": "78 min",
+  "genre": "Action, Drama, Horror",
+  "director": "Kurt Neumann",
+  "writer": "Lawrence L. Goldman, Irving Block",
+  "actors": "Jeff Morrow, Barbara Lawrence, John Emery",
+  "plot": "Aliens from another world send a huge robotic accumulator to invade the Earth and absorb all energy it comes in contact with.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIzM2FiYjUtMTMwNC00ZTYyLWEzZDUtZTk0NmE2ZDllOTc4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0050610",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:53:56.312Z"
+}

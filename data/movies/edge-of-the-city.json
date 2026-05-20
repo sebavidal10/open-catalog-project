@@ -1,0 +1,27 @@
+{
+  "title": "Edge of the City",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "04 Jan 1957",
+  "runtime": "85 min",
+  "genre": "Drama",
+  "director": "Martin Ritt",
+  "writer": "Robert Alan Aurthur",
+  "actors": "John Cassavetes, Sidney Poitier, Jack Warden",
+  "plot": "The budding friendship of two NYC longshoremen is threatened by a notably repugnant co-worker.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 BAFTA 1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg2NTczOTA5OF5BMl5BanBnXkFtZTcwMTg5ODM1Mw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0050347",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:54:48.312Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Enemy Below",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "17 Jan 1958",
+  "runtime": "98 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Dick Powell",
+  "writer": "Wendell Mayes, D.A. Rayner",
+  "actors": "Robert Mitchum, Curd Jürgens, David Hedison",
+  "plot": "During WWII an American destroyer discovers a German U-boat, and in the ensuing duel the American captain must draw upon all his experience to defeat the equally experienced German commander.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 3 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWFhMDY1MjItMzkyZS00NmVkLWE1NDYtOTFkMmMwMjdkZjQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0050356",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:39:28.202Z"
+}

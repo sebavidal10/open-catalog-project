@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "596060471664511",
+  "title": "The Amazing Spider-Man #645",
+  "authors": [
+    "Alan Fine",
+    "Dan Buckley",
+    "Javier Rodríguez",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marcos Martín",
+    "Marko Djurdjević",
+    "Mark Waid",
+    "Matthew Southworth",
+    "Paolo Rivera",
+    "Paul Azaceta",
+    "Stan Lee",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2010-10-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/18/asm-v2-645.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17216/",
+  "fetched_at": "2026-05-20T14:11:21.618Z",
+  "reviewed_at": null
+}

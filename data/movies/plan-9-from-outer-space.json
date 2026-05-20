@@ -1,0 +1,35 @@
+{
+  "title": "Plan 9 from Outer Space",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "22 Jul 1959",
+  "runtime": "79 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Edward D. Wood Jr.",
+  "writer": "Edward D. Wood Jr.",
+  "actors": "Gregory Walcott, Tom Keene, Mona McKinnon",
+  "plot": "Evil aliens attack Earth and set their terrible \"Plan 9\" into action. As the aliens resurrect the dead of the Earth, the lives of the living are in danger.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGM4Y2MwMzktODg3MS00ZjVkLTk2NGMtY2Y0M2Y2MWQ0ZDBiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "3.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "66%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "metascore": "56",
+  "imdbRating": "3.9",
+  "imdbID": "tt0052077",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:39:10.966Z"
+}

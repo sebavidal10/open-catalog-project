@@ -1,0 +1,35 @@
+{
+  "title": "Early Spring",
+  "year": "1956",
+  "rated": "N/A",
+  "released": "25 Sep 1974",
+  "runtime": "145 min",
+  "genre": "Drama",
+  "director": "Yasujirô Ozu",
+  "writer": "Kôgo Noda, Yasujirô Ozu",
+  "actors": "Chikage Awashima, Ryô Ikebe, Teiji Takahashi",
+  "plot": "A young man and his wife struggle within the confines of their passionless relationship while he has an extramarital romance.",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDI0YTU3MmItZjcyNy00NjM4LWI2ZWYtN2IyOWU3N2FiMmRmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.7",
+  "imdbID": "tt0049784",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:28:05.317Z"
+}

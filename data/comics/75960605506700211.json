@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960605506700211",
+  "title": "Spider-Man Unlimited #2",
+  "authors": [
+    "Dave Sharpe",
+    "Dean White",
+    "Frank D'Armata",
+    "J.T. Krul",
+    "Marc Sumerak",
+    "Paul Azaceta",
+    "Rick Mays",
+    "Scott Koblish",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2004-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/30/e96ed3cffdea482e84d79a3af90011d2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/134327/",
+  "fetched_at": "2026-05-20T04:01:57.302Z",
+  "reviewed_at": "2004-05-01"
+}

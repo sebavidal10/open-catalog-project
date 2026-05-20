@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "596060471656611",
+  "title": "The Amazing Spider-Man #566",
+  "authors": [
+    "Andy Lanning",
+    "Chris Chuckry",
+    "Cory Petit",
+    "Dan Buckley",
+    "Jeromy Cox",
+    "Joe Quesada",
+    "Marc Guggenheim",
+    "Mark Pennington",
+    "Phil Jimenez",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2008-07-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/13/asm-v2-566.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17119/",
+  "fetched_at": "2026-05-20T13:55:20.248Z",
+  "reviewed_at": null
+}

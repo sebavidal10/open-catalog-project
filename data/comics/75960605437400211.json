@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960605437400211",
+  "title": "Spider-Man & Wolverine #2",
+  "authors": [
+    "Brett Matthews",
+    "Cory Petit",
+    "Joe Quesada",
+    "Nick Lowe",
+    "Paul Mounts",
+    "Vatche Mavlian"
+  ],
+  "publish_date": "2003-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/12/15/226890.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/132913/",
+  "fetched_at": "2026-05-20T03:58:22.941Z",
+  "reviewed_at": "2003-09-01"
+}

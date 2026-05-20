@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605701600411",
+  "title": "Spider-Man: House of M #4",
+  "authors": [
+    "Andy Schmidt",
+    "Aubrey Sitterson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Danny Miki",
+    "Deborah Weinstein",
+    "Joe Quesada",
+    "Liquid!",
+    "Mark Waid",
+    "Molly Lazer",
+    "Salvador Larroca",
+    "Tom Brevoort",
+    "Tom Peyer"
+  ],
+  "publish_date": "2005-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/04/17/2a3a27c0018841a39a9c3b0c3c2f1809.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/116355/",
+  "fetched_at": "2026-05-20T13:38:39.645Z",
+  "reviewed_at": "2005-11-01"
+}

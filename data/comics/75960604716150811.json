@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604716150811",
+  "title": "The Amazing Spider-Man #508",
+  "authors": [
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "John Romita Jr.",
+    "Matt Milla",
+    "Scott Hanna",
+    "Scott Koblish",
+    "Warren Simons"
+  ],
+  "publish_date": "2004-05-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/11/asm-v2-508.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17055/",
+  "fetched_at": "2026-05-20T04:02:42.554Z",
+  "reviewed_at": null
+}

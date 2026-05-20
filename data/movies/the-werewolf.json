@@ -1,0 +1,27 @@
+{
+  "title": "The Werewolf",
+  "year": "1956",
+  "rated": "Approved",
+  "released": "01 Jul 1956",
+  "runtime": "79 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Fred F. Sears",
+  "writer": "Robert E. Kent, James B. Gordon",
+  "actors": "Steven Ritch, Don Megowan, Joyce Holden",
+  "plot": "Two scientists are involved in a car accident and find an unconscious man in the remains. They take him to their lab and inject him with a serum they have been working with. Sadly, the serum turns the man into a murderous werewolf.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTc2ZmRiNTgtZDQzZS00NDllLWFkNjMtN2JiZWE2NDQxYzI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0049944",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:27:44.400Z"
+}

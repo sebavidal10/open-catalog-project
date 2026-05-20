@@ -1,0 +1,37 @@
+{
+  "isbn": null,
+  "upc": "596060471663611",
+  "title": "The Amazing Spider-Man #636",
+  "authors": [
+    "Alan Fine",
+    "Dan Buckley",
+    "Emma Ríos",
+    "Esad Ribić",
+    "Fabio D'Auria",
+    "J.M. DeMatteis",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Marco Checchetto",
+    "Marcos Martín",
+    "Matt Hollingsworth",
+    "Max Fiumara",
+    "Michael Lark",
+    "Stan Lee",
+    "Stefano Gaudiano",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Zeb Wells"
+  ],
+  "publish_date": "2010-07-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/17/asm-v2-636.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17193/",
+  "fetched_at": "2026-05-20T14:09:13.618Z",
+  "reviewed_at": null
+}

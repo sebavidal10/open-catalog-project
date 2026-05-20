@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060445807711",
+  "title": "The Amazing Spider-Man #500",
+  "authors": [
+    "Avalon Studios",
+    "Axel Alonso",
+    "Bill Jemas",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "John Miesegaes",
+    "John Romita Jr.",
+    "John Romita Sr.",
+    "J. Scott Campbell",
+    "Randy Gentile",
+    "Scott Hanna",
+    "Tim Townsend",
+    "Warren Simons"
+  ],
+  "publish_date": "2003-10-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/11/asm-v2-500.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17047/",
+  "fetched_at": "2026-05-20T03:59:23.891Z",
+  "reviewed_at": null
+}

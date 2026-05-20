@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960604716101111",
+  "title": "The Amazing Spider-Man #11",
+  "authors": [
+    "Bob Harras",
+    "Howard Mackie",
+    "Joe Rosas",
+    "John Byrne",
+    "Liz Agraphiotis",
+    "Ralph Macchio",
+    "Richard Starkings"
+  ],
+  "publish_date": "1999-09-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/08/asm-v2-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16979/",
+  "fetched_at": "2026-05-20T03:41:30.003Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "596060471663511",
+  "title": "The Amazing Spider-Man #635",
+  "authors": [
+    "Alan Fine",
+    "Dan Buckley",
+    "Fabio D'Auria",
+    "J.M. DeMatteis",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Marcos Martín",
+    "Matthew Southworth",
+    "Matt Hollingsworth",
+    "Max Fiumara",
+    "Michael Lark",
+    "Stan Lee",
+    "Stefano Gaudiano",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2010-06-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/17/asm-v2-635.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17192/",
+  "fetched_at": "2026-05-20T14:08:43.461Z",
+  "reviewed_at": null
+}

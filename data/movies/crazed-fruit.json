@@ -1,0 +1,31 @@
+{
+  "title": "Crazed Fruit",
+  "year": "1956",
+  "rated": "Not Rated",
+  "released": "12 Jul 1956",
+  "runtime": "86 min",
+  "genre": "Drama, Romance",
+  "director": "Kô Nakahira",
+  "writer": "Shintarô Ishihara",
+  "actors": "Yûjirô Ishihara, Masahiko Tsugawa, Mie Kitahara",
+  "plot": "Spending their summer on an exotic beach, two brothers fall for the same beautiful girl, whose charm and looks may hide more than they they bargained for.",
+  "language": "Japanese, English",
+  "country": "Japan",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGYwMmNjYTktYjU2Yi00OWM0LWIwYzYtMGE0OWEzYjIyYTdhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0160440",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:29:33.945Z"
+}

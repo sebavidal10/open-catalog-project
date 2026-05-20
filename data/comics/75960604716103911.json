@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960604716103911",
+  "title": "The Amazing Spider-Man #39",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Dan Kemp",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "John Miesegaes",
+    "John Romita Jr.",
+    "Kaare Andrews",
+    "Richard Starkings",
+    "Scott Hanna",
+    "Wes Abbott"
+  ],
+  "publish_date": "2002-03-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/10/asm-v2-39.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17027/",
+  "fetched_at": "2026-05-20T03:51:42.266Z",
+  "reviewed_at": null
+}

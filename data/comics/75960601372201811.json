@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960601372201811",
+  "title": "Spider-Man Unlimited #18",
+  "authors": [
+    "Bob Harras",
+    "Jack Morelli",
+    "Joe Bennett",
+    "Joe Pimentel",
+    "John Kalisz",
+    "Ralph Macchio",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1997-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/04/bab3c8d541294ff9aaf770f22483a9ed.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130732/",
+  "fetched_at": "2026-05-20T03:33:01.340Z",
+  "reviewed_at": "1997-11-01"
+}

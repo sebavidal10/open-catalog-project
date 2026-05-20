@@ -1,0 +1,27 @@
+{
+  "title": "Zarak",
+  "year": "1956",
+  "rated": "Approved",
+  "released": "25 Dec 1956",
+  "runtime": "99 min",
+  "genre": "Action, Adventure, Romance",
+  "director": "Terence Young",
+  "writer": "Richard Maibaum",
+  "actors": "Victor Mature, Michael Wilding, Anita Ekberg",
+  "plot": "An Afghan outlaw finally saves a British officer at the cost of his own life.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjc4OTljNGItODZkNy00YzY1LTljZWEtMGM4ZjU0NzVjMGJmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0051219",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:31:21.035Z"
+}

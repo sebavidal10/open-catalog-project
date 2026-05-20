@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": "75960601372201911",
+  "title": "Spider-Man Unlimited #19",
+  "authors": [
+    "Joe Bennett",
+    "Joe Pimentel",
+    "Mark Bernardo",
+    "Ralph Macchio"
+  ],
+  "publish_date": "1998-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/04/7f490dd030dc42beb72d50630b36466f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130733/",
+  "fetched_at": "2026-05-20T03:34:08.199Z",
+  "reviewed_at": "1998-02-01"
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060471652311",
+  "title": "The Amazing Spider-Man #523",
+  "authors": [
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "J. Michael Straczynski",
+    "Joe Pimentel",
+    "Joe Quesada",
+    "Matt Milla",
+    "Mike Deodato",
+    "Rachel Dodson",
+    "Terry Dodson",
+    "Warren Simons"
+  ],
+  "publish_date": "2005-08-31",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/11/asm-v2-523.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17076/",
+  "fetched_at": "2026-05-20T13:37:49.768Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960605685900111",
+  "title": "Marvel Adventures: Spider-Man #1",
+  "authors": [
+    "Dave Sharpe",
+    "Guru-eFX",
+    "Kitty Fross",
+    "MacKenzie Cadenhead",
+    "Norman Lee",
+    "Patrick Scherberger",
+    "Roger Cruz"
+  ],
+  "publish_date": "2005-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/10/Marvel_Adventures_Spider-Man_2005-2010_001-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131305/",
+  "fetched_at": "2026-05-20T04:07:45.253Z",
+  "reviewed_at": "2005-05-01"
+}

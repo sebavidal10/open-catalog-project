@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060471655511",
+  "title": "The Amazing Spider-Man #555",
+  "authors": [
+    "Antonio Fabela",
+    "Chris Bachalo",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Stephen Wacker",
+    "Tim Townsend",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Zeb Wells"
+  ],
+  "publish_date": "2008-04-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/12/asm-v2-555.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17108/",
+  "fetched_at": "2026-05-20T13:54:06.800Z",
+  "reviewed_at": null
+}

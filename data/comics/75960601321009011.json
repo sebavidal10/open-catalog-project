@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601321009011",
+  "title": "Spider-Man #90",
+  "authors": [
+    "Bob Harras",
+    "Gregory Wright",
+    "Howard Mackie",
+    "John Romita Jr.",
+    "Kiff Scholl",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Scott Hanna"
+  ],
+  "publish_date": "1998-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/02/spider-man-90.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33548/",
+  "fetched_at": "2026-05-20T03:34:49.222Z",
+  "reviewed_at": "1998-04-01"
+}

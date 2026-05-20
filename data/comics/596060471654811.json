@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "596060471654811",
+  "title": "The Amazing Spider-Man #548",
+  "authors": [
+    "Cory Petit",
+    "Dan Buckley",
+    "Dan Slott",
+    "Dave Stewart",
+    "Dexter Vines",
+    "Joe Quesada",
+    "Morry Hollowell",
+    "Rich Ginter",
+    "Stephen Wacker",
+    "Steve McNiven",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2008-01-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/12/asm-v2-548.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17101/",
+  "fetched_at": "2026-05-20T13:53:04.635Z",
+  "reviewed_at": null
+}

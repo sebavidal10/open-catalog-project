@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605704700311",
+  "title": "Friendly Neighborhood Spider-Man #3",
+  "authors": [
+    "Andy Schmidt",
+    "Aubrey Sitterson",
+    "Axel Alonso",
+    "Brad Johansen",
+    "Cory Petit",
+    "Dan Buckley",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "Karl Kesel",
+    "Mike Wieringo",
+    "Molly Lazer",
+    "Paul Mounts",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2006-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/21/f49a27dee1d047119a4b023ee7bc8f10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/123267/",
+  "fetched_at": "2026-05-20T13:40:06.379Z",
+  "reviewed_at": "2006-02-01"
+}

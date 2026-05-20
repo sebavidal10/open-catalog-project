@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960605033800111",
+  "title": "Spider-Man: Lifeline #1",
+  "authors": [
+    "Bob Wiacek",
+    "Fabian Nicieza",
+    "Gregory Wright",
+    "Joe Quesada",
+    "John Costanza",
+    "Ralph Macchio",
+    "Steve Rude"
+  ],
+  "publish_date": "2001-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/09/11/699ced3554e5478dac18e884d0cccfd6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/75211/",
+  "fetched_at": "2026-05-20T03:47:31.449Z",
+  "reviewed_at": "2001-04-01"
+}

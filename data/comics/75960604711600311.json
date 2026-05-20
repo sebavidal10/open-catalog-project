@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": "75960604711600311",
+  "title": "Spider-Man: Chapter One #3",
+  "authors": [
+    "Bob Harras",
+    "Joe Andreani",
+    "John Byrne",
+    "Ralph Macchio"
+  ],
+  "publish_date": "1999-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/03/spider-man-chapter-one-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/35980/",
+  "fetched_at": "2026-05-20T03:38:02.062Z",
+  "reviewed_at": "1999-01-01"
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960604716104811",
+  "title": "The Amazing Spider-Man #48",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Comicraft",
+    "Dan Kemp",
+    "Frank Cho",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "John Miesegaes",
+    "John Romita Jr.",
+    "Scott Hanna",
+    "Warren Simons"
+  ],
+  "publish_date": "2002-12-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/10/asm-v2-48.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17036/",
+  "fetched_at": "2026-05-20T03:55:45.375Z",
+  "reviewed_at": null
+}

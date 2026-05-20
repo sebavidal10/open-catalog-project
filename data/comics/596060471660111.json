@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "596060471660111",
+  "title": "The Amazing Spider-Man #601",
+  "authors": [
+    "Alan Fine",
+    "Andres Mossa",
+    "Brian Michael Bendis",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Dean White",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Romita Sr.",
+    "J. Scott Campbell",
+    "Mario Alberti",
+    "Mark Waid",
+    "Morry Hollowell",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-08-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/16/asm-v2-601.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17154/",
+  "fetched_at": "2026-05-20T14:02:06.746Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "596060471651711",
+  "title": "The Amazing Spider-Man #517",
+  "authors": [
+    "Axel Alonso",
+    "Brian Reber",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Gary Frank",
+    "Jaime Mendoza",
+    "J. Michael Straczynski",
+    "Joe Pimentel",
+    "Joe Quesada",
+    "Mark Brooks",
+    "Matt Milla",
+    "Mike Deodato",
+    "Richard Isanove",
+    "Warren Simons"
+  ],
+  "publish_date": "2005-02-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/11/asm-v2-517.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17070/",
+  "fetched_at": "2026-05-20T04:07:16.964Z",
+  "reviewed_at": null
+}

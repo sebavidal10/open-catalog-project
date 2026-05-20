@@ -1,0 +1,31 @@
+{
+  "title": "Rodan",
+  "year": "1956",
+  "rated": "Approved",
+  "released": "06 Aug 1957",
+  "runtime": "74 min",
+  "genre": "Sci-Fi, Thriller",
+  "director": "Ishirô Honda",
+  "writer": "David Duncan, Takeshi Kimura, Ken Kuronuma",
+  "actors": "Kenji Sahara, Yumi Shirakawa, Akihiko Hirata",
+  "plot": "A mining engineer investigates the deaths of his colleagues, discovering prehistoric nymphs and a creature capable of flying - and wreaking havoc - at supersonic speeds.",
+  "language": "Japanese, Mandarin, Tagalog",
+  "country": "Japan",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2EzMDcxMGUtNTJjMC00ODk0LTk5ZmYtZjkzNjJkNThiYmVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0049782",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:28:34.857Z"
+}

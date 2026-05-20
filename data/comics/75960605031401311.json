@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605031401311",
+  "title": "Ultimate Spider-Man #13",
+  "authors": [
+    "Albert Deschesne",
+    "Art Thibert",
+    "Bill Jemas",
+    "Brian Michael Bendis",
+    "Brian Smith",
+    "Joe Quesada",
+    "Mark Bagley",
+    "Ralph Macchio"
+  ],
+  "publish_date": "2001-09-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/08/26/907cef9d55ab4038813d74654c9e1c92.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/73971/",
+  "fetched_at": "2026-05-20T03:49:53.097Z",
+  "reviewed_at": null
+}

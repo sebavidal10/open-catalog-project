@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "596060471663211",
+  "title": "The Amazing Spider-Man #632",
+  "authors": [
+    "Alan Fine",
+    "Bob McLeod",
+    "Brian Haberlin",
+    "Chris Bachalo",
+    "Dan Buckley",
+    "Emma Ríos",
+    "Jaime Mendoza",
+    "Jay Anacleto",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Stephen Wacker",
+    "Tim Townsend",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Victor Olazaba",
+    "Zeb Wells"
+  ],
+  "publish_date": "2010-05-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/17/asm-v2-632.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17189/",
+  "fetched_at": "2026-05-20T14:08:01.891Z",
+  "reviewed_at": null
+}

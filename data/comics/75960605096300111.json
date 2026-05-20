@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605096300111",
+  "title": "The Amazing Spider-Man 2001 #1",
+  "authors": [
+    "Axel Alonso",
+    "Howard Mackie",
+    "Joe Bennett",
+    "Joe Quesada",
+    "Joe Rosas",
+    "Richard Starkings",
+    "Sandu Florea",
+    "Wes Abbott"
+  ],
+  "publish_date": "2001-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/02/11/Amazing_Spider-Man_001_-_Annual_2001-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/135424/",
+  "fetched_at": "2026-05-20T03:47:51.857Z",
+  "reviewed_at": "2001-05-01"
+}

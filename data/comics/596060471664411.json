@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "596060471664411",
+  "title": "The Amazing Spider-Man #644",
+  "authors": [
+    "Alan Fine",
+    "Chris Bachalo",
+    "Dan Buckley",
+    "Javier Rodríguez",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marcos Martín",
+    "Marko Djurdjević",
+    "Mark Waid",
+    "Paul Azaceta",
+    "Stan Lee",
+    "Stephen Wacker",
+    "Tim Townsend",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2010-09-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/18/asm-v2-644.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17215/",
+  "fetched_at": "2026-05-20T14:10:49.298Z",
+  "reviewed_at": null
+}

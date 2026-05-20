@@ -1,0 +1,31 @@
+{
+  "title": "The 27th Day",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "01 Jul 1957",
+  "runtime": "75 min",
+  "genre": "Sci-Fi",
+  "director": "William Asher",
+  "writer": "John Mantley, Robert M. Fresco",
+  "actors": "Gene Barry, Valerie French, George Voskovec",
+  "plot": "Aliens take five people, give them small capsules which can kill mankind without additional damage, with the understanding they will colonize Earth only if they use the weapons.",
+  "language": "English, French, Chinese",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YzEyOWUtOGRlNS00ODc2LTk5YzItM2RkZTdkY2JjY2M1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "20%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0050085",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:52:51.940Z"
+}

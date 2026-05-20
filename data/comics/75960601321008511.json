@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960601321008511",
+  "title": "Spider-Man #85",
+  "authors": [
+    "Andy Smith",
+    "Art Thibert",
+    "Bob Harras",
+    "Howard Mackie",
+    "John Romita Jr.",
+    "Kiff Scholl",
+    "Mark Bernardo",
+    "Ralph Macchio",
+    "Scott Hanna"
+  ],
+  "publish_date": "1997-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/02/spider-man-85.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33543/",
+  "fetched_at": "2026-05-20T03:32:57.373Z",
+  "reviewed_at": "1997-11-01"
+}

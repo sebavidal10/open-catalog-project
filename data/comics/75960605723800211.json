@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605723800211",
+  "title": "Spider-Man: Breakout #2",
+  "authors": [
+    "Axel Alonso",
+    "Chris Sotomayor",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Manuel Garcia",
+    "Mike Deodato",
+    "Omar Otieku",
+    "Raúl Fernández",
+    "Tony Bedard",
+    "Warren Simons"
+  ],
+  "publish_date": "2005-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/21/spider-man-breakout-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/32899/",
+  "fetched_at": "2026-05-20T13:36:23.639Z",
+  "reviewed_at": "2005-07-01"
+}

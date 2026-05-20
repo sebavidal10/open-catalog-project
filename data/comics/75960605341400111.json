@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960605341400111",
+  "title": "Spider-Man: Blue #1",
+  "authors": [
+    "Comicraft",
+    "Jeph Loeb",
+    "Joe Quesada",
+    "Richard Starkings",
+    "Steve Buccellato",
+    "Tim Sale"
+  ],
+  "publish_date": "2002-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/09/000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131219/",
+  "fetched_at": "2026-05-20T03:52:39.510Z",
+  "reviewed_at": "2002-07-01"
+}

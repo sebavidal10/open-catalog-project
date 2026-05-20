@@ -1,0 +1,35 @@
+{
+  "title": "The Burmese Harp",
+  "year": "1956",
+  "rated": "Not Rated",
+  "released": "26 Apr 1957",
+  "runtime": "116 min",
+  "genre": "Drama, Music, War",
+  "director": "Kon Ichikawa",
+  "writer": "Michio Takeyama, Natto Wada",
+  "actors": "Rentarô Mikuni, Shôji Yasui, Tatsuya Mihashi",
+  "plot": "A conscience-driven Japanese soldier traumatized by the events of WWII adopts the lifestyle of a Buddhist monk.",
+  "language": "Japanese, English, Burmese",
+  "country": "Japan",
+  "awards": "Nominated for 1 Oscar. 4 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzI0Mjg0Y2YtMzUyMi00MjY4LWJiNWMtYmQ3NTE1NGIxZDY5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "8.0",
+  "imdbID": "tt0049012",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:26:31.379Z"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960604717800611",
+  "title": "Peter Parker: Spider-Man #6",
+  "authors": [
+    "Bob Harras",
+    "Gregory Wright",
+    "Howard Mackie",
+    "John Byrne",
+    "John Romita Jr.",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Scott Hanna"
+  ],
+  "publish_date": "1999-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/17/pp-spiderman-v1-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4666/",
+  "fetched_at": "2026-05-20T03:39:48.126Z",
+  "reviewed_at": "1999-06-01"
+}

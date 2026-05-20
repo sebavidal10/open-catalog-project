@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604717802411",
+  "title": "Peter Parker: Spider-Man #24",
+  "authors": [
+    "Bob Harras",
+    "Dan Green",
+    "Joe Rosas",
+    "Mark Buckingham",
+    "Paul Jenkins",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Rodney Ramos",
+    "Troy Peteri"
+  ],
+  "publish_date": "2000-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/18/pp-spiderman-v1-24.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4707/",
+  "fetched_at": "2026-05-20T03:45:43.303Z",
+  "reviewed_at": "2000-12-01"
+}

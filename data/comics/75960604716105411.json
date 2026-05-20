@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960604716105411",
+  "title": "The Amazing Spider-Man #54",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Dan Kemp",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "John Miesegaes",
+    "John Romita Jr.",
+    "Rachel Dodson",
+    "Randy Gentile",
+    "Scott Hanna",
+    "Terry Dodson",
+    "Warren Simons"
+  ],
+  "publish_date": "2003-06-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/10/asm-v2-54.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17042/",
+  "fetched_at": "2026-05-20T03:57:50.720Z",
+  "reviewed_at": null
+}

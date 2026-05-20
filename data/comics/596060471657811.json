@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "596060471657811",
+  "title": "The Amazing Spider-Man #578",
+  "authors": [
+    "Dan Buckley",
+    "Javier Rodríguez",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Marcos Martín",
+    "Mark Waid",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2008-11-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/13/asm-v2-578.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17131/",
+  "fetched_at": "2026-05-20T13:57:26.835Z",
+  "reviewed_at": null
+}

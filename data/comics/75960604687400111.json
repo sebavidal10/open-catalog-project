@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960604687400111",
+  "title": "Peter Parker: Spider-Man / Elektra '98 #1",
+  "authors": [
+    "Andy Lanning",
+    "Bob Harras",
+    "Christie Scheele",
+    "Jack Morelli",
+    "Joyce Chin",
+    "Karl Story",
+    "Ralph Macchio"
+  ],
+  "publish_date": "1998-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/02/peter-parker-spider-man-elektra-98-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33560/",
+  "fetched_at": "2026-05-20T03:36:54.140Z",
+  "reviewed_at": "1998-10-01"
+}

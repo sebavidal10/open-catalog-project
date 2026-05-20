@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "596060471653611",
+  "title": "The Amazing Spider-Man #536",
+  "authors": [
+    "Axel Alonso",
+    "Bill Reinhold",
+    "Cory Petit",
+    "Dan Buckley",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "Matt Milla",
+    "Michael O'Connor",
+    "Ron Garney"
+  ],
+  "publish_date": "2006-11-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/12/asm-v2-536.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17089/",
+  "fetched_at": "2026-05-20T13:45:51.139Z",
+  "reviewed_at": null
+}

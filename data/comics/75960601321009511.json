@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960601321009511",
+  "title": "Spider-Man #95",
+  "authors": [
+    "Bob Harras",
+    "Gregory Wright",
+    "Howard Mackie",
+    "John Romita Jr.",
+    "Klaus Janson",
+    "Liz Agraphiotis",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Scott Hanna"
+  ],
+  "publish_date": "1998-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/02/spider-man-95.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33553/",
+  "fetched_at": "2026-05-20T03:36:17.675Z",
+  "reviewed_at": "1998-08-01"
+}

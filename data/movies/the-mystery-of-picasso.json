@@ -1,0 +1,31 @@
+{
+  "title": "The Mystery of Picasso",
+  "year": "1956",
+  "rated": "PG",
+  "released": "18 May 1956",
+  "runtime": "78 min",
+  "genre": "Documentary, Biography, History",
+  "director": "Henri-Georges Clouzot",
+  "writer": "N/A",
+  "actors": "Pablo Picasso, Henri-Georges Clouzot, Claude Renoir",
+  "plot": "A filmed record of Pablo Picasso painting numerous canvases for the camera, allowing us to see his creative process at work.",
+  "language": "French",
+  "country": "France",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjE4YWU2ZTQtNWQ5Yi00Njg5LTgwMTUtYjMxODU0OWNmNjBiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0049531",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:29:17.947Z"
+}

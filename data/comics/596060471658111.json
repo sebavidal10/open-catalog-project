@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "596060471658111",
+  "title": "The Amazing Spider-Man #581",
+  "authors": [
+    "Andy Lanning",
+    "Barry Kitson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dan Slott",
+    "Jeromy Cox",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Mike McKone",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2008-12-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/13/asm-v2-581.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17134/",
+  "fetched_at": "2026-05-20T13:57:50.595Z",
+  "reviewed_at": null
+}

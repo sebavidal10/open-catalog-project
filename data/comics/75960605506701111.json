@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960605506701111",
+  "title": "Spider-Man Unlimited #11",
+  "authors": [
+    "Brian Reed",
+    "Dave Sharpe",
+    "Frank D'Armata",
+    "Michael Lark",
+    "Peter Pantazis",
+    "Rob Schwager",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2005-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/30/fdc0cfc66de045529dda84843de7d310.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/134336/",
+  "fetched_at": "2026-05-20T13:38:43.624Z",
+  "reviewed_at": "2005-11-01"
+}

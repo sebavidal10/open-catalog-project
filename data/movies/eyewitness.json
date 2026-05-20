@@ -1,0 +1,31 @@
+{
+  "title": "Eyewitness",
+  "year": "1956",
+  "rated": "N/A",
+  "released": "21 Jan 1957",
+  "runtime": "82 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Muriel Box",
+  "writer": "Janet Green",
+  "actors": "Donald Sinden, Muriel Pavlow, Belinda Lee",
+  "plot": "Lucy Church, the sole witness to a fatal robbery, is struck by a passing bus and her life lies in the balance as the thieves wait for a chance to finish her off.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjNlMzViZDctYWVhMi00MzIyLWJiYTYtNjQxZDJjZmNjMWUzXkEyXkFqcGdeQXVyNzQzNDEyOQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0049196",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:32:59.540Z"
+}

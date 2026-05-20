@@ -1,0 +1,31 @@
+{
+  "title": "Crime in the Streets",
+  "year": "1956",
+  "rated": "Passed",
+  "released": "10 Jun 1956",
+  "runtime": "91 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Don Siegel",
+  "writer": "Reginald Rose",
+  "actors": "John Cassavetes, Sal Mineo, James Whitmore",
+  "plot": "Social worker tries to befriend local slum gang.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2ZlZjY2ZTktOTM1Zi00MzBkLWFlMTItYjkzNmI0YjQzNTU2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0049107",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:29:10.542Z"
+}

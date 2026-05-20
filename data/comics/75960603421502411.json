@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960603421502411",
+  "title": "The Sensational Spider-Man #24",
+  "authors": [
+    "Andrew Hennessy",
+    "Bob Harras",
+    "Gregory Wright",
+    "Kiff Scholl",
+    "Ralph Macchio",
+    "Richard Case",
+    "Richard Starkings",
+    "Todd Dezago",
+    "Todd Nauck"
+  ],
+  "publish_date": "1998-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/04/the-sensational-spider-man-24.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39171/",
+  "fetched_at": "2026-05-20T03:33:56.305Z",
+  "reviewed_at": "1998-02-01"
+}

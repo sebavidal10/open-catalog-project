@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960602199424611",
+  "title": "The Spectacular Spider-Man #246",
+  "authors": [
+    "Al Milgrom",
+    "Bob Harras",
+    "Comicraft",
+    "Dan Green",
+    "Glenn Greenberg",
+    "J.M. DeMatteis",
+    "John Kalisz",
+    "Luke Ross",
+    "Matt Hicks",
+    "Ralph Macchio",
+    "Richard Starkings"
+  ],
+  "publish_date": "1997-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/27/the-spectacular-spider-man-246.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/31254/",
+  "fetched_at": "2026-05-20T03:29:56.533Z",
+  "reviewed_at": "1997-05-01"
+}

@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "596060471664821",
+  "title": "The Amazing Spider-Man #648",
+  "authors": [
+    "Alan Fine",
+    "Carlos Cuevas",
+    "Chris Sotomayor",
+    "Clayton Henry",
+    "Dan Buckley",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Michael Horwitz",
+    "Nathan Cosby",
+    "Paul Tobin",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2010-11-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/18/asm-v2-648.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17219/",
+  "fetched_at": "2026-05-20T14:11:50.972Z",
+  "reviewed_at": null
+}

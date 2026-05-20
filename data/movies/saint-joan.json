@@ -1,0 +1,31 @@
+{
+  "title": "Saint Joan",
+  "year": "1957",
+  "rated": "Not Rated",
+  "released": "08 May 1957",
+  "runtime": "110 min",
+  "genre": "Biography, Drama, History",
+  "director": "Otto Preminger",
+  "writer": "Graham Greene, George Bernard Shaw",
+  "actors": "Jean Seberg, Richard Widmark, Richard Todd",
+  "plot": "In 1456, French King Charles VII recalls the story of how he met the seventeen-year-old peasant girl Joan of Arc, entrusted her with the command of the French Army, and ultimately burned her at the stake as a heretic.",
+  "language": "English",
+  "country": "United States, United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWQwNjM3ZmItYjA4Yy00MWIwLTk5YTAtNGVmOTdkZWQ4NGI2XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "25%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0050928",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:53:22.925Z"
+}

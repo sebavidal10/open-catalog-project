@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060471661711",
+  "title": "The Amazing Spider-Man #617",
+  "authors": [
+    "Alan Fine",
+    "Dan Buckley",
+    "Fabio D'Auria",
+    "Javier Pulido",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Joe Quinones",
+    "Matt Hollingsworth",
+    "Max Fiumara",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2010-01-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/17/asm-v2-617.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17174/",
+  "fetched_at": "2026-05-20T14:05:16.055Z",
+  "reviewed_at": null
+}

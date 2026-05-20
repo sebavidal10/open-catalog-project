@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "596060471660411",
+  "title": "The Amazing Spider-Man #604",
+  "authors": [
+    "Alan Fine",
+    "Antonio Fabela",
+    "Barry Kitson",
+    "Dan Buckley",
+    "Fred Van Lente",
+    "Jason Keith",
+    "Jeromy Cox",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Joe Rubinstein",
+    "Leinil Francis Yu",
+    "Rick Ketcham",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-09-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/16/asm-v2-604.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17157/",
+  "fetched_at": "2026-05-20T14:02:36.895Z",
+  "reviewed_at": null
+}

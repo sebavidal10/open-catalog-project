@@ -1,0 +1,31 @@
+{
+  "title": "The Black Scorpion",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "11 Oct 1957",
+  "runtime": "88 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Edward Ludwig",
+  "writer": "David Duncan, Robert Blees, Paul Yawitz",
+  "actors": "Richard Denning, Mara Corday, Carlos Rivas",
+  "plot": "Volcanic activity frees giant scorpions from the earth who wreak havoc in the rural countryside and eventually threaten Mexico City.",
+  "language": "English, Spanish",
+  "country": "Mexico, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjdjNGFiZjAtYTQ1My00OTc0LWE5NjYtMDc2MDlmZjcwMzRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.4",
+  "imdbID": "tt0050197",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:53:04.326Z"
+}

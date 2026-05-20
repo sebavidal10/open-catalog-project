@@ -1,0 +1,37 @@
+{
+  "isbn": null,
+  "upc": "596060471663711",
+  "title": "The Amazing Spider-Man #637",
+  "authors": [
+    "Alan Fine",
+    "Dan Buckley",
+    "Fabio D'Auria",
+    "J.M. DeMatteis",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Marco Checchetto",
+    "Marcos Martín",
+    "Mark Morales",
+    "Matthew Southworth",
+    "Matt Hollingsworth",
+    "Max Fiumara",
+    "Michael Lark",
+    "Olivier Coipel",
+    "Stan Lee",
+    "Stefano Gaudiano",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2010-07-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/17/asm-v2-637.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17194/",
+  "fetched_at": "2026-05-20T14:09:17.609Z",
+  "reviewed_at": null
+}

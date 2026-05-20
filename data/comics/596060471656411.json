@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "596060471656411",
+  "title": "The Amazing Spider-Man #564",
+  "authors": [
+    "Amilton Santos",
+    "Antonio Fabela",
+    "Bob Gale",
+    "Chris Bachalo",
+    "Chris Eliopoulos",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dan Slott",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Marc Guggenheim",
+    "Paulo Siqueira",
+    "Stephen Wacker",
+    "Tim Townsend",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2008-07-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/12/asm-v2-564.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17117/",
+  "fetched_at": "2026-05-20T13:55:11.732Z",
+  "reviewed_at": null
+}

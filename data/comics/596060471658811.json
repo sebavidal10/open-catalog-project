@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "596060471658811",
+  "title": "The Amazing Spider-Man #588",
+  "authors": [
+    "Alan Fine",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dean White",
+    "Joe Quesada",
+    "John Romita Jr.",
+    "Klaus Janson",
+    "Marc Guggenheim",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Tom Palmer"
+  ],
+  "publish_date": "2009-03-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/14/asm-v2-588.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17141/",
+  "fetched_at": "2026-05-20T13:59:20.404Z",
+  "reviewed_at": null
+}

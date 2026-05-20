@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "596060471657911",
+  "title": "The Amazing Spider-Man #579",
+  "authors": [
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Javier Rodríguez",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Marcos Martín",
+    "Mark Waid",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2008-12-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/13/asm-v2-579.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17132/",
+  "fetched_at": "2026-05-20T13:57:42.272Z",
+  "reviewed_at": null
+}

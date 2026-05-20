@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604716103211",
+  "title": "The Amazing Spider-Man #32",
+  "authors": [
+    "Axel Alonso",
+    "Dan Kemp",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "John Romita Jr.",
+    "J. Scott Campbell",
+    "Richard Starkings",
+    "Scott Hanna",
+    "Tim Townsend",
+    "Wes Abbott"
+  ],
+  "publish_date": "2001-06-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/10/asm-v2-32.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17020/",
+  "fetched_at": "2026-05-20T03:48:46.134Z",
+  "reviewed_at": null
+}

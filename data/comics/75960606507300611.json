@@ -1,0 +1,42 @@
+{
+  "isbn": null,
+  "upc": "75960606507300611",
+  "title": "Amazing Spider-Man Family #6",
+  "authors": [
+    "Abby Denson",
+    "Adam DeKraker",
+    "Alan Fine",
+    "Andres Mossa",
+    "Andrew Crossley",
+    "Antonio Fabela",
+    "Brian Reed",
+    "Bruno Hang",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "John Kalisz",
+    "Paulo Siqueira",
+    "Paul Tobin",
+    "Ron Frenz",
+    "Sal Buscema",
+    "Shawn Moll",
+    "Stephen Wacker",
+    "Tim Levins",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Tom DeFalco",
+    "Victor Olazaba",
+    "Walden Wong"
+  ],
+  "publish_date": "2009-05-20",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/09/11/7e0cc453a53945ad9d85ec5e266ec9b6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/75181/",
+  "fetched_at": "2026-05-20T14:00:39.376Z",
+  "reviewed_at": null
+}

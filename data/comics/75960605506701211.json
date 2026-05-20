@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960605506701211",
+  "title": "Spider-Man Unlimited #12",
+  "authors": [
+    "Andy Schmidt",
+    "Aubrey Sitterson",
+    "Avalon Studios",
+    "Christos N. Gage",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "James Brown",
+    "Joe Quesada",
+    "Lary Stucker",
+    "Liquid!",
+    "Mike McKone",
+    "Molly Lazer",
+    "Salvador Larroca",
+    "Sean Phillips",
+    "Tom Beland",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2006-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/30/32385e9e7fbc4aa4b63266c14ba1fe99.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/134337/",
+  "fetched_at": "2026-05-20T13:39:43.665Z",
+  "reviewed_at": "2006-01-01"
+}

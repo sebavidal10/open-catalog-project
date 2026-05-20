@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960604716100911",
+  "title": "The Amazing Spider-Man #9",
+  "authors": [
+    "Bob Harras",
+    "Gregory Wright",
+    "Howard Mackie",
+    "John Byrne",
+    "Ralph Macchio",
+    "Ray Kryssing",
+    "Richard Starkings"
+  ],
+  "publish_date": "1999-07-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/08/asm-v2-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16977/",
+  "fetched_at": "2026-05-20T03:40:48.419Z",
+  "reviewed_at": null
+}

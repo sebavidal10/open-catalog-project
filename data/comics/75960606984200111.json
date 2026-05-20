@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960606984200111",
+  "title": "Amazing Spider-Man Presents: Jackpot #1",
+  "authors": [
+    "Adriana Melo",
+    "Alan Fine",
+    "Andrew Dalhouse",
+    "Dan Buckley",
+    "David Yardin",
+    "Frank D'Armata",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marc Guggenheim",
+    "Mariah Benes",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2010-01-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/09/11/9c97613a62954bfe90945c22d4934eae.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/75224/",
+  "fetched_at": "2026-05-20T14:05:27.737Z",
+  "reviewed_at": null
+}

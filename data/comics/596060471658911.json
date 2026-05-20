@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "596060471658911",
+  "title": "The Amazing Spider-Man #589",
+  "authors": [
+    "Alan Fine",
+    "Amilton Santos",
+    "Chris Eliopoulos",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dean White",
+    "Fred Van Lente",
+    "Jeromy Cox",
+    "Joe Quesada",
+    "Klaus Janson",
+    "Paulo Siqueira",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-03-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/14/asm-v2-589.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17142/",
+  "fetched_at": "2026-05-20T13:59:24.681Z",
+  "reviewed_at": null
+}

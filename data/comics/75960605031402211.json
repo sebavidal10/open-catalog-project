@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960605031402211",
+  "title": "Ultimate Spider-Man #22",
+  "authors": [
+    "Art Thibert",
+    "Axel Alonso",
+    "Bill Jemas",
+    "Brian Michael Bendis",
+    "Brian Smith",
+    "C. B. Cebulski",
+    "Chris Eliopoulos",
+    "Dan Kemp",
+    "Danny Miki",
+    "Greg Capullo",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Mark Bagley",
+    "Ralph Macchio",
+    "Ron Zimmerman",
+    "Wes Abbott"
+  ],
+  "publish_date": "2002-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/08/26/6438d7c5732748e2ab36016465fd157e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/73981/",
+  "fetched_at": "2026-05-20T03:52:47.801Z",
+  "reviewed_at": null
+}

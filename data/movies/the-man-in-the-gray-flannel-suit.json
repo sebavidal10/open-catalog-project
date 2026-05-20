@@ -1,0 +1,31 @@
+{
+  "title": "The Man in the Gray Flannel Suit",
+  "year": "1956",
+  "rated": "Approved",
+  "released": "08 May 1956",
+  "runtime": "153 min",
+  "genre": "Drama, Romance, War",
+  "director": "Nunnally Johnson",
+  "writer": "Nunnally Johnson, Sloan Wilson",
+  "actors": "Gregory Peck, Jennifer Jones, Fredric March",
+  "plot": "An ex-soldier faces ethical questions as he tries to earn enough to support his wife and children well.",
+  "language": "English, Italian, German",
+  "country": "United States",
+  "awards": "1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2E1MTUwNmUtMDU0OC00OGJjLTlkN2EtNGExYWJjYmRlMTcwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0049474",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:27:55.490Z"
+}

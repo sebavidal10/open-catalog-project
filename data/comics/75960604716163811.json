@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960604716163811",
+  "title": "The Amazing Spider-Man #638",
+  "authors": [
+    "Alan Fine",
+    "Bob Sharen",
+    "Dan Buckley",
+    "Danny Miki",
+    "David Michelinie",
+    "Jim Salicrup",
+    "Jim Shooter",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marcos Martín",
+    "Paolo Rivera",
+    "Paul Ryan",
+    "Richard Isanove",
+    "Rick Parker",
+    "Stan Lee",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Vince Colletta"
+  ],
+  "publish_date": "2010-07-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/18/asm-v2-638.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17209/",
+  "fetched_at": "2026-05-20T14:09:21.627Z",
+  "reviewed_at": null
+}

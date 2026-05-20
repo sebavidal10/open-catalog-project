@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960604792500111",
+  "title": "Spider-Man Unlimited #1",
+  "authors": [
+    "Andy Kuhn",
+    "Eric Stephenson",
+    "Harry Candelario",
+    "Mark Bernardo",
+    "Paul Tutrone",
+    "Ralph Macchio"
+  ],
+  "publish_date": "1999-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/29/00_roLNade.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/134271/",
+  "fetched_at": "2026-05-20T03:41:54.222Z",
+  "reviewed_at": "1999-12-01"
+}

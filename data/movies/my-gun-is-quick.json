@@ -1,0 +1,27 @@
+{
+  "title": "My Gun Is Quick",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "01 Aug 1957",
+  "runtime": "90 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Victor Saville, George White",
+  "writer": "Mickey Spillane, Richard Collins, Richard Powell",
+  "actors": "Robert Bray, Whitney Blake, Donald Randolph",
+  "plot": "Private eye Mike Hammer passes over beautiful women and corpses to find stolen jewels.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjMwZDVlNzQtZWRmZC00ZWE2LTk0ZjItNTAyN2U3MzMzYThkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0050737",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:56:28.544Z"
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960604716105011",
+  "title": "The Amazing Spider-Man #50",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Dan Kemp",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "John Miesegaes",
+    "John Romita Jr.",
+    "J. Scott Campbell",
+    "Richard Starkings",
+    "Scott Hanna",
+    "Tim Townsend",
+    "Warren Simons"
+  ],
+  "publish_date": "2003-02-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/10/asm-v2-50.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17038/",
+  "fetched_at": "2026-05-20T03:56:33.424Z",
+  "reviewed_at": null
+}

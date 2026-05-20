@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605704701511",
+  "title": "Friendly Neighborhood Spider-Man #15",
+  "authors": [
+    "Axel Alonso",
+    "Cory Petit",
+    "Joe Quesada",
+    "John Dell",
+    "Matt Milla",
+    "Michael O'Connor",
+    "Peter David",
+    "Scot Eaton"
+  ],
+  "publish_date": "2007-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/21/ebbf65eb20aa4c46ad9f751cc35b1eed.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/123279/",
+  "fetched_at": "2026-05-20T13:46:55.436Z",
+  "reviewed_at": "2007-02-01"
+}

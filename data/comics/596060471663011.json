@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060471663011",
+  "title": "The Amazing Spider-Man #630",
+  "authors": [
+    "Alan Fine",
+    "Antonio Fabela",
+    "Chris Bachalo",
+    "Dan Buckley",
+    "Jaime Mendoza",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Joe Quinones",
+    "Stephen Wacker",
+    "Tim Townsend",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Zeb Wells"
+  ],
+  "publish_date": "2010-05-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/17/asm-v2-630.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17187/",
+  "fetched_at": "2026-05-20T14:07:53.770Z",
+  "reviewed_at": null
+}

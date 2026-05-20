@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605031410011",
+  "title": "Ultimate Spider-Man #100",
+  "authors": [
+    "Andrew Hennessy",
+    "Brad Johansen",
+    "Brian Michael Bendis",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Quesada",
+    "John Barber",
+    "John Dell",
+    "Justin Ponsor",
+    "Mark Bagley",
+    "Ralph Macchio",
+    "Richard Isanove"
+  ],
+  "publish_date": "2006-09-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/08/26/898823069c974b49b3451376d24a40a6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/74059/",
+  "fetched_at": "2026-05-20T13:45:42.542Z",
+  "reviewed_at": null
+}

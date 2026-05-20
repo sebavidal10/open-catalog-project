@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604716152211",
+  "title": "The Amazing Spider-Man #522",
+  "authors": [
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "J. Michael Straczynski",
+    "Joe Pimentel",
+    "Joe Quesada",
+    "Kaare Andrews",
+    "Matt Milla",
+    "Mike Deodato",
+    "Warren Simons"
+  ],
+  "publish_date": "2005-07-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/11/asm-v2-522.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17075/",
+  "fetched_at": "2026-05-20T13:37:15.799Z",
+  "reviewed_at": null
+}

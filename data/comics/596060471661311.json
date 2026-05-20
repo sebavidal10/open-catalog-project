@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060471661311",
+  "title": "The Amazing Spider-Man #613",
+  "authors": [
+    "Alan Fine",
+    "Dan Buckley",
+    "Dave Stewart",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marko Djurdjević",
+    "Mark Waid",
+    "Paul Azaceta",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-11-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/17/asm-v2-613.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17170/",
+  "fetched_at": "2026-05-20T14:04:07.641Z",
+  "reviewed_at": null
+}

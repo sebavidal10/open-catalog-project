@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604717804411",
+  "title": "Peter Parker: Spider-Man #44",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Humberto Ramos",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Paul Jenkins",
+    "Richard Starkings",
+    "Wayne Faucher",
+    "Wes Abbott"
+  ],
+  "publish_date": "2002-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/18/pp-spiderman-v1-44.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4728/",
+  "fetched_at": "2026-05-20T03:52:35.616Z",
+  "reviewed_at": "2002-07-01"
+}

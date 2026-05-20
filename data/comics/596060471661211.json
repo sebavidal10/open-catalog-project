@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "596060471661211",
+  "title": "The Amazing Spider-Man #612",
+  "authors": [
+    "Alan Fine",
+    "Dan Buckley",
+    "Dave Stewart",
+    "J. M. Ken Niimura",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Mark Waid",
+    "Paul Azaceta",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-11-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/16/asm-v2-612.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17165/",
+  "fetched_at": "2026-05-20T14:04:03.531Z",
+  "reviewed_at": null
+}

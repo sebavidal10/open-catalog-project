@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960604717805611",
+  "title": "Peter Parker: Spider-Man #56",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Randy Gentile",
+    "Sam Kieth",
+    "Zeb Wells"
+  ],
+  "publish_date": "2003-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/19/pp-spiderman-v1-56.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4740/",
+  "fetched_at": "2026-05-20T03:57:34.320Z",
+  "reviewed_at": "2003-07-01"
+}

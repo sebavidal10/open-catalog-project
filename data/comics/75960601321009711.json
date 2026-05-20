@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960601321009711",
+  "title": "Spider-Man #97",
+  "authors": [
+    "Bob Harras",
+    "Gregory Wright",
+    "Howard Mackie",
+    "John Byrne",
+    "John Romita Jr.",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Scott Hanna",
+    "Siobhan Hanna"
+  ],
+  "publish_date": "1998-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/02/spider-man-97.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33555/",
+  "fetched_at": "2026-05-20T03:37:23.639Z",
+  "reviewed_at": "1998-11-01"
+}

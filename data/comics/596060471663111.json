@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "596060471663111",
+  "title": "The Amazing Spider-Man #631",
+  "authors": [
+    "Alan Fine",
+    "Antonio Fabela",
+    "Chris Bachalo",
+    "Dan Buckley",
+    "Doug Braithwaite",
+    "Emma Ríos",
+    "Jaime Mendoza",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Stephen Wacker",
+    "Tim Townsend",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Zeb Wells"
+  ],
+  "publish_date": "2010-05-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/17/asm-v2-631.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17188/",
+  "fetched_at": "2026-05-20T14:07:57.772Z",
+  "reviewed_at": null
+}

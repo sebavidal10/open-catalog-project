@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960606510300111",
+  "title": "Amazing Spider-Man: Extra! #1",
+  "authors": [
+    "Antonio Fabela",
+    "Chris Bachalo",
+    "Cory Petit",
+    "Frank D'Armata",
+    "Greg Land",
+    "Javier Rodríguez",
+    "Jay Leisten",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Marc Guggenheim",
+    "Marcos Martín",
+    "Pat Olliffe",
+    "Rain Beredo",
+    "Serge LaPointe",
+    "Stephen Wacker",
+    "Tim Townsend",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Zeb Wells"
+  ],
+  "publish_date": "2008-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/11/Amazing_Spider-Man_-_Extra_2009-_001-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131471/",
+  "fetched_at": "2026-05-20T13:55:24.163Z",
+  "reviewed_at": "2008-09-01"
+}

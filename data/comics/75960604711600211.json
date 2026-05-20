@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": "75960604711600211",
+  "title": "Spider-Man: Chapter One #2",
+  "authors": [
+    "Bob Harras",
+    "John Byrne",
+    "John Kalisz",
+    "Ralph Macchio"
+  ],
+  "publish_date": "1998-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/03/spider-man-chapter-one-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/35979/",
+  "fetched_at": "2026-05-20T03:37:44.683Z",
+  "reviewed_at": "1998-12-01"
+}

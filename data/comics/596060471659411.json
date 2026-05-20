@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "596060471659411",
+  "title": "The Amazing Spider-Man #594",
+  "authors": [
+    "Alan Fine",
+    "Andy Lanning",
+    "Barry Kitson",
+    "Dan Buckley",
+    "Jeromy Cox",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Mark Morales",
+    "Mark Waid",
+    "Mike McKone",
+    "Morry Hollowell",
+    "Stephen Wacker",
+    "Tim Townsend",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-05-20",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/15/asm-v2-594.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17147/",
+  "fetched_at": "2026-05-20T14:00:31.427Z",
+  "reviewed_at": null
+}

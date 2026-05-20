@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "596060471663311",
+  "title": "The Amazing Spider-Man #633",
+  "authors": [
+    "Alan Fine",
+    "Antonio Fabela",
+    "Chris Bachalo",
+    "Dan Buckley",
+    "Emma Ríos",
+    "Jaime Mendoza",
+    "Jeromy Cox",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Mark Irwin",
+    "Mike McKone",
+    "Stephen Wacker",
+    "Tim Townsend",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Victor Olazaba",
+    "Zeb Wells"
+  ],
+  "publish_date": "2010-06-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/17/asm-v2-633.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17190/",
+  "fetched_at": "2026-05-20T14:08:05.782Z",
+  "reviewed_at": null
+}

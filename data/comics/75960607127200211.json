@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "75960607127200211",
+  "title": "Marvel Adventures Spider-Man #2",
+  "authors": [
+    "Dave Sharpe",
+    "Karl Kerschl",
+    "Matteo Lolli",
+    "Nathan Cosby",
+    "Paul Tobin"
+  ],
+  "publish_date": "2010-05-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/29/758105.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156725/",
+  "fetched_at": "2026-05-20T14:08:22.076Z",
+  "reviewed_at": null
+}

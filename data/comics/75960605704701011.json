@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960605704701011",
+  "title": "Friendly Neighborhood Spider-Man #10",
+  "authors": [
+    "Axel Alonso",
+    "Cory Petit",
+    "Joe Quesada",
+    "Karl Kesel",
+    "Michael O'Connor",
+    "Mike Manley",
+    "Mike Wieringo",
+    "Paul Mounts",
+    "Peter David"
+  ],
+  "publish_date": "2006-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/21/e221ad23dcf049c996c4d025591017ac.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/123274/",
+  "fetched_at": "2026-05-20T13:44:18.259Z",
+  "reviewed_at": "2006-09-01"
+}

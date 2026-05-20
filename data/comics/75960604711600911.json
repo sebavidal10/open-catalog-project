@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960604711600911",
+  "title": "Spider-Man: Chapter One #9",
+  "authors": [
+    "Al Milgrom",
+    "Bob Harras",
+    "John Byrne",
+    "Mark Bernardo",
+    "Mark McNabb",
+    "Ralph Macchio"
+  ],
+  "publish_date": "1999-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/03/spider-man-chapter-one-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/35986/",
+  "fetched_at": "2026-05-20T03:40:14.289Z",
+  "reviewed_at": "1999-07-01"
+}

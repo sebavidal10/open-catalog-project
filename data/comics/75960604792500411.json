@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960604792500411",
+  "title": "Spider-Man Unlimited #4",
+  "authors": [
+    "Andy Kuhn",
+    "Eric Stephenson",
+    "Harry Candelario",
+    "Mark Bernardo",
+    "Paul Tutrone",
+    "Ralph Macchio"
+  ],
+  "publish_date": "2000-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/29/00_T9QL6rn.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/134274/",
+  "fetched_at": "2026-05-20T03:42:59.478Z",
+  "reviewed_at": "2000-03-01"
+}

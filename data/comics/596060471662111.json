@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "596060471662111",
+  "title": "The Amazing Spider-Man #621",
+  "authors": [
+    "Alan Fine",
+    "Dan Buckley",
+    "Dan Slott",
+    "Dexter Vines",
+    "Ed McGuinness",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Matt Hollingsworth",
+    "Michael Lark",
+    "Morry Hollowell",
+    "Stefano Gaudiano",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2010-02-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/17/asm-v2-621.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17178/",
+  "fetched_at": "2026-05-20T14:05:59.252Z",
+  "reviewed_at": null
+}

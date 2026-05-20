@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605704701111",
+  "title": "Friendly Neighborhood Spider-Man #11",
+  "authors": [
+    "Axel Alonso",
+    "Cory Petit",
+    "Joe Quesada",
+    "Lee Loughridge",
+    "Michael O'Connor",
+    "Mike Wieringo",
+    "Peter David",
+    "Robert Campanella",
+    "Rodney Ramos",
+    "Todd Nauck"
+  ],
+  "publish_date": "2006-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/21/d4675bdebcac4e92b1c0df59b47db9e1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/123275/",
+  "fetched_at": "2026-05-20T13:44:44.877Z",
+  "reviewed_at": "2006-10-01"
+}

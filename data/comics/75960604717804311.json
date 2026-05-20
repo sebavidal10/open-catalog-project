@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604717804311",
+  "title": "Peter Parker: Spider-Man #43",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Jim Mahfood",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Kyle Baker",
+    "Randy Gentile",
+    "Steve Buccellato",
+    "Zeb Wells"
+  ],
+  "publish_date": "2002-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/18/pp-spiderman-v1-43.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4727/",
+  "fetched_at": "2026-05-20T03:52:11.041Z",
+  "reviewed_at": "2002-06-01"
+}

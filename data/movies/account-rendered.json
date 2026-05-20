@@ -1,0 +1,27 @@
+{
+  "title": "Account Rendered",
+  "year": "1957",
+  "rated": "N/A",
+  "released": "08 Aug 1957",
+  "runtime": "59 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Peter Graham Scott",
+  "writer": "Pamela Barrington, Barbara S. Harper",
+  "actors": "Griffith Jones, Ursula Howells, Honor Blackman",
+  "plot": "Police find that everyone had a motive for the murder of a wealthy woman.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2U2NjBjYTctYTc3My00Y2YwLWI2ZmItZThkMzNkMjFmM2JiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0050096",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:57:20.334Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Les Girls",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "26 Dec 1957",
+  "runtime": "114 min",
+  "genre": "Comedy, Musical",
+  "director": "George Cukor",
+  "writer": "John Patrick, Vera Caspary",
+  "actors": "Gene Kelly, Mitzi Gaynor, Kay Kendall",
+  "plot": "The former members of a dance troupe are suing because of recently published memoirs. Each one insists on own point of view.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 7 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTQxMDJkMjAtZTFkNC00MjBkLTgwOGItZWM4ZTQyYmE1MzM3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0050631",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:53:16.732Z"
+}

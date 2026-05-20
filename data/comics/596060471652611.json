@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060471652611",
+  "title": "The Amazing Spider-Man #526",
+  "authors": [
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "Jacob Chabot",
+    "Joe Pimentel",
+    "Joe Quesada",
+    "Matt Milla",
+    "Michael O'Connor",
+    "Mike Deodato",
+    "Rain Beredo",
+    "Reginald Hudlin",
+    "Tom Brevoort",
+    "Warren Simons"
+  ],
+  "publish_date": "2005-11-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/11/asm-v2-526.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17079/",
+  "fetched_at": "2026-05-20T13:39:28.117Z",
+  "reviewed_at": null
+}

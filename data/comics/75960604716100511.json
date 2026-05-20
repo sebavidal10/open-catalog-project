@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960604716100511",
+  "title": "The Amazing Spider-Man #5",
+  "authors": [
+    "Bob Harras",
+    "Gregory Wright",
+    "Howard Mackie",
+    "John Byrne",
+    "Liz Agraphiotis",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Scott Hanna"
+  ],
+  "publish_date": "1999-03-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/08/asm-v2-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16973/",
+  "fetched_at": "2026-05-20T03:39:16.484Z",
+  "reviewed_at": null
+}

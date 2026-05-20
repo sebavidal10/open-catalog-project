@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960606789300311",
+  "title": "Ultimate Spider-Man #3",
+  "authors": [
+    "Alan Fine",
+    "Brian Michael Bendis",
+    "Cory Petit",
+    "Dan Buckley",
+    "David Lafuente",
+    "Joe Quesada",
+    "Justin Ponsor",
+    "Lauren Sankovitch",
+    "Mark Paniccia",
+    "Sana Amanat"
+  ],
+  "publish_date": "2009-10-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/08/27/3a8b63af61e049838e9873ef03b24768.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/74098/",
+  "fetched_at": "2026-05-20T14:03:36.840Z",
+  "reviewed_at": null
+}

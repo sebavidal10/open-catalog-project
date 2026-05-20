@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605685905011",
+  "title": "Marvel Adventures: Spider-Man #50",
+  "authors": [
+    "Adam Street",
+    "Dave Sharpe",
+    "Marc Sumerak",
+    "Nathan Cosby",
+    "Nathan Massengill",
+    "Patrick Scherberger",
+    "Roger Langridge",
+    "Sanford Greene",
+    "Sonny Liew",
+    "Tom Van Cise"
+  ],
+  "publish_date": "2009-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/10/147030e735fd4a66ba767a94e4bb0d84.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131354/",
+  "fetched_at": "2026-05-20T14:00:04.383Z",
+  "reviewed_at": "2009-06-01"
+}

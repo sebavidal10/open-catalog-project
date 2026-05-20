@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "596060471664611",
+  "title": "The Amazing Spider-Man #646",
+  "authors": [
+    "Alan Fine",
+    "Dan Buckley",
+    "Javier Rodríguez",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marko Djurdjević",
+    "Mark Waid",
+    "Matthew Southworth",
+    "Paul Azaceta",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2010-10-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/18/asm-v2-646.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17217/",
+  "fetched_at": "2026-05-20T14:11:25.600Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960602199425411",
+  "title": "The Spectacular Spider-Man #254",
+  "authors": [
+    "Bob Harras",
+    "Dan Green",
+    "J.M. DeMatteis",
+    "John Kalisz",
+    "Kiff Scholl",
+    "Luke Ross",
+    "Matt Hicks",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1998-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/27/the-spectacular-spider-man-254.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/31262/",
+  "fetched_at": "2026-05-20T03:34:00.206Z",
+  "reviewed_at": "1998-02-01"
+}

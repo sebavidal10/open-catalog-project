@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "596060471650511",
+  "title": "The Amazing Spider-Man #505",
+  "authors": [
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "Fiona Avery",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "John Romita Jr.",
+    "Matt Milla",
+    "Scott Hanna",
+    "Warren Simons"
+  ],
+  "publish_date": "2004-03-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/11/asm-v2-505.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17052/",
+  "fetched_at": "2026-05-20T04:01:37.329Z",
+  "reviewed_at": null
+}

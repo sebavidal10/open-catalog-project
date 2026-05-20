@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605506700711",
+  "title": "Spider-Man Unlimited #7",
+  "authors": [
+    "Bill Rosemann",
+    "Christina Strain",
+    "Dave Sharpe",
+    "Karl Moline",
+    "Matthew K. Manning",
+    "Mike Perkins",
+    "Nick Bell",
+    "Robert Campanella",
+    "Studio F",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2005-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/30/9c6db8de6d3848dcaead51ea2d424e0d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/134332/",
+  "fetched_at": "2026-05-20T04:07:04.067Z",
+  "reviewed_at": "2005-03-01"
+}

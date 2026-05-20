@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604717803411",
+  "title": "Peter Parker: Spider-Man #34",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Humberto Ramos",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Mark Buckingham",
+    "Paul Jenkins",
+    "Richard Starkings",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2001-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/18/pp-spiderman-v1-34.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4717/",
+  "fetched_at": "2026-05-20T03:49:24.635Z",
+  "reviewed_at": "2001-10-01"
+}

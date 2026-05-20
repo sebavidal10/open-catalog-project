@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960604716152711",
+  "title": "The Amazing Spider-Man #527",
+  "authors": [
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "Jacob Chabot",
+    "J. Michael Straczynski",
+    "Joe Pimentel",
+    "Joe Quesada",
+    "Matt Milla",
+    "Michael O'Connor",
+    "Mike Deodato",
+    "Tom Brevoort",
+    "Warren Simons"
+  ],
+  "publish_date": "2005-12-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/11/asm-v2-527.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17080/",
+  "fetched_at": "2026-05-20T13:40:01.083Z",
+  "reviewed_at": null
+}

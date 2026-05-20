@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605701600111",
+  "title": "Spider-Man: House of M #1",
+  "authors": [
+    "Andy Schmidt",
+    "Cory Petit",
+    "Dan Buckley",
+    "Danny Miki",
+    "James Taveras",
+    "Joe Quesada",
+    "Liquid!",
+    "Mark Waid",
+    "Molly Lazer",
+    "Salvador Larroca",
+    "Stephanie Moore",
+    "Tom Brevoort",
+    "Tom Peyer"
+  ],
+  "publish_date": "2005-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/04/17/d510ef08414d41039b27fa4fe72c1ae3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/116352/",
+  "fetched_at": "2026-05-20T13:37:01.413Z",
+  "reviewed_at": "2005-08-01"
+}

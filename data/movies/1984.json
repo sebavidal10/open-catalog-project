@@ -1,0 +1,27 @@
+{
+  "title": "1984",
+  "year": "1956",
+  "rated": "Not Rated",
+  "released": "01 Sep 1956",
+  "runtime": "90 min",
+  "genre": "Drama, Sci-Fi",
+  "director": "Michael Anderson",
+  "writer": "William Templeton, Ralph Gilbert Bettison, George Orwell",
+  "actors": "Edmond O'Brien, Michael Redgrave, Jan Sterling",
+  "plot": "In a totalitarian future society, Winston Smith, whose daily work is re-writing history, tries to rebel by falling in love.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWM1ZmRiM2EtOWQ3Ny00MzRiLTkxMWEtN2VlYzM1OGYyZGI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0048918",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:26:52.419Z"
+}

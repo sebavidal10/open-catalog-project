@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604717802511",
+  "title": "Peter Parker: Spider-Man #25",
+  "authors": [
+    "Dan Green",
+    "Joe Quesada",
+    "Joe Rosas",
+    "Lara Castle",
+    "Mark Buckingham",
+    "Paul Jenkins",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Rodney Ramos",
+    "Troy Peteri"
+  ],
+  "publish_date": "2000-11-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/18/pp-spiderman-v1-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4708/",
+  "fetched_at": "2026-05-20T03:46:08.914Z",
+  "reviewed_at": null
+}

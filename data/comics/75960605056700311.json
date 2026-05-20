@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605056700311",
+  "title": "Daredevil / Spider-Man #3",
+  "authors": [
+    "Alex Ross",
+    "Comicraft",
+    "Jason Levine",
+    "Joe Quesada",
+    "Kelly Lamy",
+    "Matt Milla",
+    "Nanci Dakesian",
+    "Paul Jenkins",
+    "Phil Winslade",
+    "Richard Starkings",
+    "Stuart Moore",
+    "Tom Palmer"
+  ],
+  "publish_date": "2001-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/03/Daredevil-Spider-Man_03_of_04-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130468/",
+  "fetched_at": "2026-05-20T03:46:58.440Z",
+  "reviewed_at": "2001-03-01"
+}

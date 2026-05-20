@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960605033800311",
+  "title": "Spider-Man: Lifeline #3",
+  "authors": [
+    "Bob Wiacek",
+    "Fabian Nicieza",
+    "Gregory Wright",
+    "Joe Quesada",
+    "John Costanza",
+    "Ralph Macchio",
+    "Steve Rude"
+  ],
+  "publish_date": "2001-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/09/11/7ac1c79533b84639858c161ad4f329ce.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/75213/",
+  "fetched_at": "2026-05-20T03:47:59.849Z",
+  "reviewed_at": "2001-05-01"
+}

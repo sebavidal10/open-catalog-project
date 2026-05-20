@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605506700311",
+  "title": "Spider-Man Unlimited #3",
+  "authors": [
+    "Alé Garza",
+    "Brandon Thomas",
+    "Chris Walker",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Marc Sumerak",
+    "Mark Morales",
+    "Morry Hollowell",
+    "Scott Kolins",
+    "Sean Parsons",
+    "Steve McNiven",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2004-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/30/48e1de4d98b34840a3e398fa6ffaaeb2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/134328/",
+  "fetched_at": "2026-05-20T04:02:54.946Z",
+  "reviewed_at": "2004-07-01"
+}

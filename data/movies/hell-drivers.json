@@ -1,0 +1,31 @@
+{
+  "title": "Hell Drivers",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "26 Aug 1957",
+  "runtime": "91 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Cy Endfield",
+  "writer": "John Kruse, Cy Endfield",
+  "actors": "Stanley Baker, Herbert Lom, Peggy Cummins",
+  "plot": "A rookie trucker tries to expose his boss' rackets.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 BAFTA Award1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjAyOTYxZjAtOGYwYS00Mjk1LWEyOTQtYzVkZjk3NzNmMzQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0051713",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:39:31.915Z"
+}

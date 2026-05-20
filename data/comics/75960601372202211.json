@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960601372202211",
+  "title": "Spider-Man Unlimited #22",
+  "authors": [
+    "Bob Harras",
+    "Jack Morelli",
+    "Joe Pimentel",
+    "John Kalisz",
+    "Mark Bernardo",
+    "Mike Deodato",
+    "Ralph Macchio"
+  ],
+  "publish_date": "1998-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/04/f4a5fdbecb0e405cbaa06f88f58af6ff.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130736/",
+  "fetched_at": "2026-05-20T03:37:31.482Z",
+  "reviewed_at": "1998-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "596060471655811",
+  "title": "The Amazing Spider-Man #558",
+  "authors": [
+    "Barry Kitson",
+    "Bob Gale",
+    "Cory Petit",
+    "Dan Buckley",
+    "Deborah Weinstein",
+    "Ian Hannin",
+    "Joe Quesada",
+    "Mark Farmer",
+    "Matt Milla",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2008-05-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/12/asm-v2-558.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17111/",
+  "fetched_at": "2026-05-20T13:54:28.311Z",
+  "reviewed_at": null
+}

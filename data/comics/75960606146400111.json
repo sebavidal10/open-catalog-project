@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960606146400111",
+  "title": "Spider-Man / Red Sonja #1",
+  "authors": [
+    "Alejandro Arbona",
+    "Bill Rosemann",
+    "Brian Buccellato",
+    "Joe Quesada",
+    "Mel Rubi",
+    "Michael Avon Oeming",
+    "Michael Turner",
+    "Simon Bowland"
+  ],
+  "publish_date": "2007-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/30/SM_RS_1_0000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/134341/",
+  "fetched_at": "2026-05-20T13:51:29.801Z",
+  "reviewed_at": null
+}

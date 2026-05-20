@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "596060471651511",
+  "title": "The Amazing Spider-Man #515",
+  "authors": [
+    "Axel Alonso",
+    "Brian Reber",
+    "Cory Petit",
+    "Dan Buckley",
+    "Gary Frank",
+    "Jaime Mendoza",
+    "J. Michael Straczynski",
+    "Joe Pimentel",
+    "Joe Quesada",
+    "Mark Brooks",
+    "Matt Milla",
+    "Mike Deodato",
+    "Richard Isanove",
+    "Warren Simons"
+  ],
+  "publish_date": "2004-12-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/11/asm-v2-515.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17062/",
+  "fetched_at": "2026-05-20T04:06:20.965Z",
+  "reviewed_at": null
+}

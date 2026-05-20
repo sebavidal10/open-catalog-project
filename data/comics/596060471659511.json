@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060471659511",
+  "title": "The Amazing Spider-Man #595",
+  "authors": [
+    "Alan Fine",
+    "Andy Lanning",
+    "Chris Chuckry",
+    "Dan Buckley",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Phil Jimenez",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-05-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/15/asm-v2-595.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17148/",
+  "fetched_at": "2026-05-20T14:00:35.458Z",
+  "reviewed_at": null
+}

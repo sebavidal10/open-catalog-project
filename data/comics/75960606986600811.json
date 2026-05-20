@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960606986600811",
+  "title": "Web of Spider-Man #8",
+  "authors": [
+    "Alan Fine",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Dan Green",
+    "Dave Sharpe",
+    "Fred Van Lente",
+    "Javier Rodríguez",
+    "Jelena Djurdjevic",
+    "J.M. DeMatteis",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Muntsa Vicente",
+    "Stephen Wacker",
+    "Taylor Esposito",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Val Semeiks"
+  ],
+  "publish_date": "2010-05-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/30/web-of-spider-man-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/38931/",
+  "fetched_at": "2026-05-20T14:08:30.240Z",
+  "reviewed_at": null
+}

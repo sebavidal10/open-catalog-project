@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960605685905211",
+  "title": "Marvel Adventures: Spider-Man #52",
+  "authors": [
+    "Adam Street",
+    "Alan Fine",
+    "Carlos Ferreira",
+    "Dave Sharpe",
+    "Joe Sabino",
+    "Marc Sumerak",
+    "Nathan Cosby",
+    "Nathan Massengill",
+    "Sanford Greene"
+  ],
+  "publish_date": "2009-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/10/e18be77ecc02417f9407068d8ff10444.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131356/",
+  "fetched_at": "2026-05-20T14:01:20.825Z",
+  "reviewed_at": "2009-08-01"
+}

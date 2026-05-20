@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "596060471659111",
+  "title": "The Amazing Spider-Man #591",
+  "authors": [
+    "Alan Fine",
+    "Andy Troy",
+    "Barry Kitson",
+    "Chris Chuckry",
+    "Dale Eaglesham",
+    "Dan Buckley",
+    "Dan Slott",
+    "Dean White",
+    "Jesse Delperdang",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-04-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/14/asm-v2-591.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17144/",
+  "fetched_at": "2026-05-20T13:59:54.316Z",
+  "reviewed_at": null
+}

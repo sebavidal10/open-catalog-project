@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605723800111",
+  "title": "Spider-Man: Breakout #1",
+  "authors": [
+    "Axel Alonso",
+    "Chris Sotomayor",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Manuel Garcia",
+    "Mike Deodato",
+    "Raúl Fernández",
+    "Tony Bedard",
+    "Warren Simons"
+  ],
+  "publish_date": "2005-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/21/spider-man-breakout-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/32898/",
+  "fetched_at": "2026-05-20T13:35:31.876Z",
+  "reviewed_at": "2005-06-01"
+}

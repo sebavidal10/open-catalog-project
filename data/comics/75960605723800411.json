@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605723800411",
+  "title": "Spider-Man: Breakout #4",
+  "authors": [
+    "Axel Alonso",
+    "Chris Sotomayor",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Manuel Garcia",
+    "Omar Otieku",
+    "Raúl Fernández",
+    "Tony Bedard",
+    "Warren Simons"
+  ],
+  "publish_date": "2005-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/21/spider-man-breakout-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/32901/",
+  "fetched_at": "2026-05-20T13:37:28.448Z",
+  "reviewed_at": "2005-09-01"
+}

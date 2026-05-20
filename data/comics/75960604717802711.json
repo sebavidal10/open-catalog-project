@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604717802711",
+  "title": "Peter Parker: Spider-Man #27",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Dan Green",
+    "Joe Quesada",
+    "Joe Rosas",
+    "Kaare Andrews",
+    "Mark Buckingham",
+    "Paul Jenkins",
+    "Richard Starkings",
+    "Rodney Ramos"
+  ],
+  "publish_date": "2001-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/18/pp-spiderman-v1-27.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4710/",
+  "fetched_at": "2026-05-20T03:47:02.461Z",
+  "reviewed_at": "2001-03-01"
+}

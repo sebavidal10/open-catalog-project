@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960604716104711",
+  "title": "The Amazing Spider-Man #47",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Dan Kemp",
+    "Frank Cho",
+    "Jimmy Betancourt",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "John Miesegaes",
+    "John Romita Jr.",
+    "Richard Starkings",
+    "Scott Hanna"
+  ],
+  "publish_date": "2002-11-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/10/asm-v2-47.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17035/",
+  "fetched_at": "2026-05-20T03:55:21.298Z",
+  "reviewed_at": null
+}

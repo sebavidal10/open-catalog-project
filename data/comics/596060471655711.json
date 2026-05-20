@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "596060471655711",
+  "title": "The Amazing Spider-Man #557",
+  "authors": [
+    "Al Vey",
+    "Antonio Fabela",
+    "Chris Bachalo",
+    "Cory Petit",
+    "Dan Buckley",
+    "Jaime Mendoza",
+    "Joe Quesada",
+    "Mark Irwin",
+    "Paul Acerios",
+    "Stephen Wacker",
+    "Tim Townsend",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Wayne Faucher",
+    "Zeb Wells"
+  ],
+  "publish_date": "2008-04-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/12/asm-v2-557.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17110/",
+  "fetched_at": "2026-05-20T13:54:15.353Z",
+  "reviewed_at": null
+}

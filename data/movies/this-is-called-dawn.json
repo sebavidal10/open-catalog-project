@@ -1,0 +1,27 @@
+{
+  "title": "This is Called Dawn",
+  "year": "1956",
+  "rated": "N/A",
+  "released": "09 May 1956",
+  "runtime": "102 min",
+  "genre": "Drama",
+  "director": "Luis Buñuel",
+  "writer": "Emmanuel Roblès, Luis Buñuel, Jean Ferry",
+  "actors": "Georges Marchal, Lucia Bosè, Julien Bertheau",
+  "plot": "On a Mediterranean island, an honorable doctor hides a hunted criminal. The doctor is soon hunted by a police commissioner.",
+  "language": "French, Italian",
+  "country": "France, Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDVhMmU2ZjEtZWE0Yi00OTU2LTkzNGQtNmYzZTRkNmY4ZmY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0047925",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:30:46.591Z"
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604717804011",
+  "title": "Peter Parker: Spider-Man #40",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Humberto Ramos",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Mark Buckingham",
+    "Paul Jenkins",
+    "Richard Starkings",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2002-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/18/pp-spiderman-v1-40.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4724/",
+  "fetched_at": "2026-05-20T03:51:25.677Z",
+  "reviewed_at": "2002-04-01"
+}

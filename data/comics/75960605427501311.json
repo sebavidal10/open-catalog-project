@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605427501311",
+  "title": "Spectacular Spider-Man #13",
+  "authors": [
+    "Andy Schmidt",
+    "Axel Alonso",
+    "Cory Petit",
+    "Damion Scott",
+    "Dan Buckley",
+    "Edgar Delgado",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Nicole Wiley Boose",
+    "Paul Jenkins",
+    "Robert Campanella",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2004-04-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/25/spectacular-spider-man-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42445/",
+  "fetched_at": "2026-05-20T04:02:21.995Z",
+  "reviewed_at": null
+}

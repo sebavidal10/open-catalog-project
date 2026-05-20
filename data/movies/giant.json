@@ -1,0 +1,35 @@
+{
+  "title": "Giant",
+  "year": "1956",
+  "rated": "G",
+  "released": "24 Nov 1956",
+  "runtime": "201 min",
+  "genre": "Drama, Western",
+  "director": "George Stevens",
+  "writer": "Edna Ferber, Fred Guiol, Ivan Moffat",
+  "actors": "Elizabeth Taylor, Rock Hudson, James Dean",
+  "plot": "Sprawling epic covering the life of a Texas cattle rancher and his family and associates.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 8 wins & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTRjYjQ4ZjktZWVkNS00YmRkLTkwMjYtOTA5ZDUxM2UzNDk1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.6",
+  "imdbID": "tt0049261",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:26:26.443Z"
+}

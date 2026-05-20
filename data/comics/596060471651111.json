@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "596060471651111",
+  "title": "The Amazing Spider-Man #511",
+  "authors": [
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "J. Michael Straczynski",
+    "Joe Pimentel",
+    "Joe Quesada",
+    "Matt Milla",
+    "Mike Deodato",
+    "Warren Simons"
+  ],
+  "publish_date": "2004-08-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/11/asm-v2-511.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17058/",
+  "fetched_at": "2026-05-20T04:04:39.888Z",
+  "reviewed_at": null
+}

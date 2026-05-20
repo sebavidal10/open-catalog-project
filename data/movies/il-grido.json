@@ -1,0 +1,31 @@
+{
+  "title": "Il Grido",
+  "year": "1957",
+  "rated": "Not Rated",
+  "released": "09 Oct 1958",
+  "runtime": "116 min",
+  "genre": "Drama",
+  "director": "Michelangelo Antonioni",
+  "writer": "Michelangelo Antonioni, Elio Bartolini, Ennio De Concini",
+  "actors": "Gabriella Pallotta, Steve Cochran, Alida Valli",
+  "plot": "A man wanders aimlessly away from his town, away from the woman he loves, emotionally and socially inactive.",
+  "language": "Italian",
+  "country": "Italy, United States",
+  "awards": "3 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWU5N2QyYTAtYTg4MC00ODIyLTkxNDEtOGZhNjg2MTVhYzdhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0050458",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:38:59.854Z"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604716104511",
+  "title": "The Amazing Spider-Man #45",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Dan Kemp",
+    "Jimmy Betancourt",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "John Miesegaes",
+    "John Romita Jr.",
+    "Richard Starkings",
+    "Scott Hanna"
+  ],
+  "publish_date": "2002-09-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/10/asm-v2-45.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17033/",
+  "fetched_at": "2026-05-20T03:54:26.721Z",
+  "reviewed_at": null
+}

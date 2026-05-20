@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960601321008111",
+  "title": "Spider-Man #81",
+  "authors": [
+    "Bob Harras",
+    "Gregory Wright",
+    "Howard Mackie",
+    "John Romita Jr.",
+    "Kiff Scholl",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Scott Hanna"
+  ],
+  "publish_date": "1997-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/02/spider-man-81.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33539/",
+  "fetched_at": "2026-05-20T03:30:36.883Z",
+  "reviewed_at": "1997-06-01"
+}

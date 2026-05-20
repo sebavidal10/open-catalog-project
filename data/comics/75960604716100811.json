@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604716100811",
+  "title": "The Amazing Spider-Man #8",
+  "authors": [
+    "Bob Harras",
+    "Howard Mackie",
+    "Joe Rosas",
+    "John Byrne",
+    "John Romita Jr.",
+    "Liz Agraphiotis",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Scott Hanna"
+  ],
+  "publish_date": "1999-06-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/08/asm-v2-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16976/",
+  "fetched_at": "2026-05-20T03:40:26.989Z",
+  "reviewed_at": null
+}

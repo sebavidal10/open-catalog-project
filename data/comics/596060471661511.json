@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060471661511",
+  "title": "The Amazing Spider-Man #615",
+  "authors": [
+    "Alan Fine",
+    "Dan Buckley",
+    "Fred Van Lente",
+    "Javier Pulido",
+    "Javier Rodríguez",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Paolo Rivera",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-12-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/17/asm-v2-615.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17172/",
+  "fetched_at": "2026-05-20T14:04:35.763Z",
+  "reviewed_at": null
+}

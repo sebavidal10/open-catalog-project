@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "596060471662711",
+  "title": "The Amazing Spider-Man #627",
+  "authors": [
+    "Alan Fine",
+    "Dan Buckley",
+    "Dean White",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Lee Weeks",
+    "Roger Stern",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2010-03-31",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/17/asm-v2-627.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17184/",
+  "fetched_at": "2026-05-20T14:06:49.823Z",
+  "reviewed_at": null
+}

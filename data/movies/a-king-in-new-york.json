@@ -1,0 +1,31 @@
+{
+  "title": "A King in New York",
+  "year": "1957",
+  "rated": "G",
+  "released": "23 Sep 1957",
+  "runtime": "105 min",
+  "genre": "Comedy, Drama",
+  "director": "Charles Chaplin",
+  "writer": "Charles Chaplin",
+  "actors": "Charles Chaplin, Maxine Audley, Jerry Desmonde",
+  "plot": "A recently-deposed European monarch seeks shelter in New York City, where he becomes an accidental television celebrity and is later wrongly accused of being a Communist.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGYxNzc3YjYtZDk3MC00YTZkLWJhYTMtY2UxYTY3ZmJhMDhlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0050598",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:39:18.359Z"
+}

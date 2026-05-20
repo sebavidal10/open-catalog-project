@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060471657011",
+  "title": "The Amazing Spider-Man #570",
+  "authors": [
+    "Cory Petit",
+    "Dan Buckley",
+    "Dan Slott",
+    "Dean White",
+    "Joe Quesada",
+    "Joe Sabino",
+    "John Romita Jr.",
+    "Klaus Janson",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2008-09-03",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/13/asm-v2-570.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17123/",
+  "fetched_at": "2026-05-20T13:56:05.186Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604716105311",
+  "title": "The Amazing Spider-Man #53",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Chris Eliopoulos",
+    "Dan Kemp",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "John Miesegaes",
+    "John Romita Jr.",
+    "Scott Hanna",
+    "Warren Simons"
+  ],
+  "publish_date": "2003-05-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/10/asm-v2-53.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17041/",
+  "fetched_at": "2026-05-20T03:57:30.327Z",
+  "reviewed_at": null
+}

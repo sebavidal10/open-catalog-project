@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960602457544111",
+  "title": "The Amazing Spider-Man #441",
+  "authors": [
+    "Bob Harras",
+    "Bud LaRosa",
+    "John Byrne",
+    "Liz Agraphiotis",
+    "Matt Hicks",
+    "Mike Rockwitz",
+    "Rafael Kayanan",
+    "Ralph Macchio",
+    "Richard Starkings"
+  ],
+  "publish_date": "1998-09-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/07/asm-v1-441.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16968/",
+  "fetched_at": "2026-05-20T03:37:12.005Z",
+  "reviewed_at": null
+}

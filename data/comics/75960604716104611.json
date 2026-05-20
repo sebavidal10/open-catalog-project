@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960604716104611",
+  "title": "The Amazing Spider-Man #46",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Dan Kemp",
+    "Frank Cho",
+    "Jimmy Betancourt",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "John Miesegaes",
+    "John Romita Jr.",
+    "Richard Starkings",
+    "Scott Hanna"
+  ],
+  "publish_date": "2002-10-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/10/asm-v2-46.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17034/",
+  "fetched_at": "2026-05-20T03:54:54.792Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "596060471651211",
+  "title": "The Amazing Spider-Man #512",
+  "authors": [
+    "Axel Alonso",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "J. Michael Straczynski",
+    "Joe Pimentel",
+    "Joe Quesada",
+    "Matt Milla",
+    "Mike Deodato",
+    "Warren Simons"
+  ],
+  "publish_date": "2004-09-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/11/asm-v2-512.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17059/",
+  "fetched_at": "2026-05-20T04:05:14.902Z",
+  "reviewed_at": null
+}

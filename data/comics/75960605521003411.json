@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960605521003411",
+  "title": "Sensational Spider-Man #34",
+  "authors": [
+    "Alejandro Arbona",
+    "Clayton Crain",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Roberto Aguirre-Sacasa",
+    "Scott Hanna",
+    "Sean Chen",
+    "Warren Simons"
+  ],
+  "publish_date": "2007-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/25/3825acdd8cb14b35a9184995b1870669.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/123375/",
+  "fetched_at": "2026-05-20T13:47:34.804Z",
+  "reviewed_at": "2007-03-01"
+}

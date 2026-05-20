@@ -1,0 +1,27 @@
+{
+  "title": "Tomahawk Trail",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "01 Feb 1957",
+  "runtime": "60 min",
+  "genre": "Western",
+  "director": "Lesley Selander",
+  "writer": "Gerald Drayson Adams, David Chandler",
+  "actors": "Chuck Connors, John Smith, Susan Cummings",
+  "plot": "An incompetent cavalry lieutenant leads his patrol into an Apache ambush on the Tomahawk Trail, gets wounded in a skirmish, and loses the command to his sergeant.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGU1NTQ4YjctNmI4NS00MDBlLTk0YTEtNDMyZGZmZTg5MDJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0165990",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:57:25.256Z"
+}

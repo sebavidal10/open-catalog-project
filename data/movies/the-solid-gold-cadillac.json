@@ -1,0 +1,31 @@
+{
+  "title": "The Solid Gold Cadillac",
+  "year": "1956",
+  "rated": "Approved",
+  "released": "22 Aug 1956",
+  "runtime": "99 min",
+  "genre": "Comedy, Romance",
+  "director": "Richard Quine",
+  "writer": "Abe Burrows, George S. Kaufman, Howard Teichmann",
+  "actors": "Judy Holliday, John Williams, Paul Douglas",
+  "plot": "A minority stockholder takes on the crooked board of directors at a billion dollar corporation.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 2 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWVjYjQ3MmYtOWQ3Zi00ZGQzLTlhMzktMmY0ZjEwN2M4OGU1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0049777",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:29:40.086Z"
+}

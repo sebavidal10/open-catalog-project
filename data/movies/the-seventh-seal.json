@@ -1,0 +1,35 @@
+{
+  "title": "The Seventh Seal",
+  "year": "1957",
+  "rated": "Not Rated",
+  "released": "13 Oct 1958",
+  "runtime": "96 min",
+  "genre": "Drama, Fantasy",
+  "director": "Ingmar Bergman",
+  "writer": "Ingmar Bergman",
+  "actors": "Max von Sydow, Gunnar Björnstrand, Bengt Ekerot",
+  "plot": "A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",
+  "language": "Swedish, Latin",
+  "country": "Sweden",
+  "awards": "9 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDlmYTkzOWUtODQ0MS00MmM4LWE3ZjMtYTEwNGUwMmJkYzIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "8.1",
+  "imdbID": "tt0050976",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:39:02.327Z"
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605704700211",
+  "title": "Friendly Neighborhood Spider-Man #2",
+  "authors": [
+    "Andy Schmidt",
+    "Aubrey Sitterson",
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Karl Kesel",
+    "Mike Wieringo",
+    "Molly Lazer",
+    "Omar Otieku",
+    "Paul Mounts",
+    "Reginald Hudlin",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2006-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/21/c986de26d506444194a78248a212e082.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/123266/",
+  "fetched_at": "2026-05-20T13:39:31.980Z",
+  "reviewed_at": "2006-01-01"
+}

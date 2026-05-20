@@ -1,0 +1,31 @@
+{
+  "title": "Night Passage",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "26 Aug 1957",
+  "runtime": "90 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "James Neilson",
+  "writer": "Borden Chase, Norman A. Fox",
+  "actors": "James Stewart, Audie Murphy, Dan Duryea",
+  "plot": "A fired railroad man is re-hired and entrusted to carry a ten thousand dollar payroll in secret, even though he is suspected of being connected to outlaws.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzcwYTlmNzctZjRiMy00N2QwLWIzZDUtMzhkOTQxYWM2OTAxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0050763",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:53:31.606Z"
+}

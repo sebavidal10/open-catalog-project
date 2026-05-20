@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960602457542711",
+  "title": "The Amazing Spider-Man #427",
+  "authors": [
+    "Bob Harras",
+    "Bob Sharen",
+    "Bud LaRosa",
+    "Ralph Macchio",
+    "Richard Starkings",
+    "Steve Skroce",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1997-08-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/07/asm-v1-427.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16954/",
+  "fetched_at": "2026-05-20T03:32:21.098Z",
+  "reviewed_at": null
+}

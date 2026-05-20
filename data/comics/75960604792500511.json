@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960604792500511",
+  "title": "Spider-Man Unlimited #5",
+  "authors": [
+    "Andy Kuhn",
+    "Eric Stephenson",
+    "Harry Candelario",
+    "Mark Bernardo",
+    "Paul Tutrone",
+    "Ralph Macchio"
+  ],
+  "publish_date": "2000-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/29/00_xDxiUfb.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/134275/",
+  "fetched_at": "2026-05-20T03:43:25.107Z",
+  "reviewed_at": "2000-04-01"
+}

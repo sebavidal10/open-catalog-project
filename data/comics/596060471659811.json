@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "596060471659811",
+  "title": "The Amazing Spider-Man #598",
+  "authors": [
+    "Alan Fine",
+    "Amilton Santos",
+    "Andy Lanning",
+    "Chris Chuckry",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Jeromy Cox",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Marco Checchetto",
+    "Paulo Siqueira",
+    "Phil Jimenez",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-06-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/15/asm-v2-598.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17151/",
+  "fetched_at": "2026-05-20T14:01:06.992Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "596060471662811",
+  "title": "The Amazing Spider-Man #628",
+  "authors": [
+    "Alan Fine",
+    "Andres Mossa",
+    "Dan Buckley",
+    "Dean White",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Lee Weeks",
+    "Mark Waid",
+    "Michael Del Mundo",
+    "Roger Stern",
+    "Stephen Wacker",
+    "Todd Nauck",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Tom Peyer"
+  ],
+  "publish_date": "2010-04-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/17/asm-v2-628.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17185/",
+  "fetched_at": "2026-05-20T14:07:15.443Z",
+  "reviewed_at": null
+}

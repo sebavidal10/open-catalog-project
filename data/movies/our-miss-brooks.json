@@ -1,0 +1,27 @@
+{
+  "title": "Our Miss Brooks",
+  "year": "1956",
+  "rated": "Not Rated",
+  "released": "24 Apr 1956",
+  "runtime": "85 min",
+  "genre": "Comedy",
+  "director": "Al Lewis",
+  "writer": "Al Lewis, Joseph Quillan, Robert Mann",
+  "actors": "Eve Arden, Gale Gordon, Don Porter",
+  "plot": "Follows the story of an English teacher that flusters the principal and flirts with a colleague.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWQ0ODIwZjctN2RlNS00NmQ4LThhODYtZTMxNGIyNDJkNTgzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0048459",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:30:35.505Z"
+}

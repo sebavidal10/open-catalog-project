@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "75960605106900511",
+  "title": "Spider-Man's Tangled Web #5",
+  "authors": [
+    "Axel Alonso",
+    "Comicraft",
+    "Duncan Fegredo",
+    "Peter Milligan",
+    "Richard Starkings",
+    "Steve Buccellato"
+  ],
+  "publish_date": "2001-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/04/Spider-Mans_Tangled_Web_2001-2003_005-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130647/",
+  "fetched_at": "2026-05-20T03:49:28.640Z",
+  "reviewed_at": "2001-10-01"
+}

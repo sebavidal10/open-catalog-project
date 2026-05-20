@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960604717803111",
+  "title": "Peter Parker: Spider-Man #31",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Humberto Ramos",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Jung Choi",
+    "Mark Buckingham",
+    "Paul Jenkins",
+    "Richard Starkings",
+    "Wayne Faucher",
+    "Wes Abbott"
+  ],
+  "publish_date": "2001-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/18/pp-spiderman-v1-31.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4714/",
+  "fetched_at": "2026-05-20T03:48:33.648Z",
+  "reviewed_at": "2001-07-01"
+}

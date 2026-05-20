@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060471660311",
+  "title": "The Amazing Spider-Man #603",
+  "authors": [
+    "Alan Fine",
+    "Dan Buckley",
+    "Fred Van Lente",
+    "Jeromy Cox",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Mike Mayhew",
+    "Robert Atkins",
+    "Stéphane Roux",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2009-08-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/16/asm-v2-603.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17156/",
+  "fetched_at": "2026-05-20T14:02:15.127Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960605031402511",
+  "title": "Ultimate Spider-Man #25",
+  "authors": [
+    "Art Thibert",
+    "Bill Jemas",
+    "Brian Michael Bendis",
+    "Brian Smith",
+    "C. B. Cebulski",
+    "Chris Eliopoulos",
+    "Joe Quesada",
+    "Mark Bagley",
+    "Ralph Macchio"
+  ],
+  "publish_date": "2002-08-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/08/26/usm-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/73984/",
+  "fetched_at": "2026-05-20T03:54:18.119Z",
+  "reviewed_at": null
+}

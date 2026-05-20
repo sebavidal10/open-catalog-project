@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605506700611",
+  "title": "Spider-Man Unlimited #6",
+  "authors": [
+    "Chris Sotomayor",
+    "Dave Sharpe",
+    "Jim Cheung",
+    "John Dell",
+    "Laura Allred",
+    "Mike Allred",
+    "Scott M. Gimple",
+    "Stuart Immonen",
+    "Tom Brevoort",
+    "Wade von Grawbadger",
+    "Wil Quintana"
+  ],
+  "publish_date": "2005-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/30/7157312cfc974ba1a76150873275e7ae.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/134331/",
+  "fetched_at": "2026-05-20T04:05:59.642Z",
+  "reviewed_at": "2005-01-01"
+}

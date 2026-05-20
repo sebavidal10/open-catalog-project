@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604717805511",
+  "title": "Peter Parker: Spider-Man #55",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Francisco Herrera",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Khary Randolph",
+    "Randy Gentile",
+    "Wayne Faucher",
+    "Zeb Wells"
+  ],
+  "publish_date": "2003-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/19/pp-spiderman-v1-55.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4739/",
+  "fetched_at": "2026-05-20T03:57:17.732Z",
+  "reviewed_at": "2003-06-01"
+}

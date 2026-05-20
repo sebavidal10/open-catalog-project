@@ -1,0 +1,27 @@
+{
+  "title": "Lizzie",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "24 Jan 1958",
+  "runtime": "81 min",
+  "genre": "Drama",
+  "director": "Hugo Haas",
+  "writer": "Mel Dinelli, Shirley Jackson",
+  "actors": "Eleanor Parker, Richard Boone, Joan Blondell",
+  "plot": "During the 1950s, a Los Angeles psychiatrist uses hypnosis to treat a 25 year old woman who's suffering from multiple personality disorder.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGE4ZTBiNDYtMDhmYi00MGRlLWIzZmYtYzQwMzAxMTJlYTRjXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0050650",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:57:10.455Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Designing Woman",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "26 Apr 1957",
+  "runtime": "118 min",
+  "genre": "Comedy, Romance",
+  "director": "Vincente Minnelli",
+  "writer": "George Wells, Helen Rose",
+  "actors": "Gregory Peck, Lauren Bacall, Dolores Gray",
+  "plot": "A sportswriter and a fashion-designer marry after a whirlwind romance, and discover they have little in common.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDQwYzk3ZDMtOWRkZS00YmI2LTllOTMtNDIzOWZlYmNhMTFlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0050306",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:52:33.151Z"
+}

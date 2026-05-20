@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060471652911",
+  "title": "The Amazing Spider-Man #529",
+  "authors": [
+    "Axel Alonso",
+    "Bill Reinhold",
+    "Bryan Hitch",
+    "Cory Petit",
+    "Dan Buckley",
+    "J. Michael Straczynski",
+    "Joe Quesada",
+    "Matt Milla",
+    "Michael O'Connor",
+    "Ron Garney",
+    "Warren Simons"
+  ],
+  "publish_date": "2006-02-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/12/asm-v2-529.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17082/",
+  "fetched_at": "2026-05-20T13:41:24.631Z",
+  "reviewed_at": null
+}

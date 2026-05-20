@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060471661111",
+  "title": "The Amazing Spider-Man #611",
+  "authors": [
+    "Alan Fine",
+    "Andres Mossa",
+    "Dan Buckley",
+    "Eric Canete",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Skottie Young",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2009-11-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/16/asm-v2-611.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17164/",
+  "fetched_at": "2026-05-20T14:03:59.351Z",
+  "reviewed_at": null
+}

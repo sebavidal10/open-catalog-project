@@ -1,0 +1,27 @@
+{
+  "title": "The Abominable Snowman",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "19 Oct 1957",
+  "runtime": "85 min",
+  "genre": "Adventure, Horror",
+  "director": "Val Guest",
+  "writer": "Nigel Kneale, Val Guest",
+  "actors": "Forrest Tucker, Peter Cushing, Maureen Connell",
+  "plot": "A kindly English botanist and a gruff American scientist lead an expedition to the Himalayas in search of the legendary Yeti.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDc0NWIyOGMtNzk5Mi00NDMzLThiOTYtZWNkMWQ4YzRkOGY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0050095",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:52:23.218Z"
+}

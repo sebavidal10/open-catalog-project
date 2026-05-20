@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960604717805711",
+  "title": "Peter Parker: Spider-Man #57",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Randy Gentile",
+    "Sam Kieth",
+    "Zeb Wells"
+  ],
+  "publish_date": "2003-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/19/pp-spiderman-v1-57.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4741/",
+  "fetched_at": "2026-05-20T03:57:54.597Z",
+  "reviewed_at": "2003-08-01"
+}

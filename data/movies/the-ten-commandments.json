@@ -1,0 +1,31 @@
+{
+  "title": "The Ten Commandments",
+  "year": "1956",
+  "rated": "G",
+  "released": "05 Oct 1956",
+  "runtime": "220 min",
+  "genre": "Adventure, Drama, Family",
+  "director": "Cecil B. DeMille",
+  "writer": "Dorothy Clarke Wilson, J.H. Ingraham, A.E. Southon",
+  "actors": "Charlton Heston, Yul Brynner, Anne Baxter",
+  "plot": "Moses, raised as a prince of Egypt in the Pharaoh's household, learns of his true heritage as a Hebrew and his divine mission as the deliverer of his people from slavery.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 13 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDRiZmNjZDAtN2I0Ny00YjIyLTk3NTUtODUyYTJlMTJhY2U0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.9",
+  "imdbID": "tt0049833",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:26:20.666Z"
+}

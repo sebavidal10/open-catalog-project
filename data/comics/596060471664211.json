@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060471664211",
+  "title": "The Amazing Spider-Man #642",
+  "authors": [
+    "Alan Fine",
+    "Dan Buckley",
+    "Javier Rodríguez",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marcos Martín",
+    "Marko Djurdjević",
+    "Mark Waid",
+    "Paul Azaceta",
+    "Stan Lee",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2010-09-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/18/asm-v2-642.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17213/",
+  "fetched_at": "2026-05-20T14:10:41.293Z",
+  "reviewed_at": null
+}

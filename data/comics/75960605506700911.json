@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605506700911",
+  "title": "Spider-Man Unlimited #9",
+  "authors": [
+    "Christopher Yost",
+    "Cully Hamner",
+    "Dave Sharpe",
+    "Drew Johnson",
+    "John Rauch",
+    "Liquid!",
+    "Ray Snyder",
+    "Rob Schwager",
+    "Salvador Larroca",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2005-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/30/dea4a8e4b54b4f21942e549aabab8c60.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/134334/",
+  "fetched_at": "2026-05-20T13:36:31.744Z",
+  "reviewed_at": "2005-07-01"
+}

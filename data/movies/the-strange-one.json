@@ -1,0 +1,31 @@
+{
+  "title": "The Strange One",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "20 Sep 1957",
+  "runtime": "100 min",
+  "genre": "Drama, Film-Noir",
+  "director": "Jack Garfein",
+  "writer": "Calder Willingham",
+  "actors": "Ben Gazzara, Pat Hingle, Peter Mark Richman",
+  "plot": "Students faced with an ethical dilemma about the dehumanization associated with the tradition of hazing, at a military college in the Southern United States, take matters in their own hands.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTFmMjk1YjEtNjk5Yi00ZWI4LTlkZjEtZWViZmU1MzgyMjkyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0051019",
+  "type": "movie",
+  "fetched_at": "2026-05-20T13:55:20.538Z"
+}

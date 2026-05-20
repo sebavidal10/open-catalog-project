@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960605685904911",
+  "title": "Marvel Adventures: Spider-Man #49",
+  "authors": [
+    "Dave Sharpe",
+    "Francis Tsai",
+    "Marc Sumerak",
+    "Nathan Cosby",
+    "Nathan Massengill",
+    "Sanford Greene",
+    "Tom Van Cise"
+  ],
+  "publish_date": "2009-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/10/7e3e5a2462e34b84836769b28fe54f2e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131353/",
+  "fetched_at": "2026-05-20T13:59:37.090Z",
+  "reviewed_at": "2009-05-01"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Incredible Shrinking Man",
+  "year": "1957",
+  "rated": "Approved",
+  "released": "10 Apr 1957",
+  "runtime": "81 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Jack Arnold",
+  "writer": "Richard Matheson, Richard Alan Simmons",
+  "actors": "Grant Williams, Randy Stuart, April Kent",
+  "plot": "After Scott Carey begins to shrink because of exposure to a combination of radiation and insecticide, medical science is powerless to help him.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzM5MjE2ZmUtODA4Yi00YTg3LTk0NTAtYzc2NzY5ZWRjNDgxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.6",
+  "imdbID": "tt0050539",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:39:25.734Z"
+}

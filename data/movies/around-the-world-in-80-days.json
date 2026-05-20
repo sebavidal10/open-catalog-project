@@ -1,0 +1,35 @@
+{
+  "title": "Around the World in 80 Days",
+  "year": "1956",
+  "rated": "G",
+  "released": "17 Oct 1956",
+  "runtime": "175 min",
+  "genre": "Adventure, Comedy, Family",
+  "director": "Michael Anderson, John Farrow",
+  "writer": "James Poe, John Farrow, S.J. Perelman",
+  "actors": "David Niven, Cantinflas, Finlay Currie",
+  "plot": "A Victorian Englishman bets that with the new steamships and railways he can circumnavigate the globe in eighty days.",
+  "language": "English, Spanish, French, Cantonese",
+  "country": "United States",
+  "awards": "Won 5 Oscars. 15 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTNmOTdlYzUtMGEyOC00YzBmLWFmYzAtMTBiM2UwOWQwZGJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "6.7",
+  "imdbID": "tt0048960",
+  "type": "movie",
+  "fetched_at": "2026-05-20T03:26:25.209Z"
+}

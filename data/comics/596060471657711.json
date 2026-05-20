@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "596060471657711",
+  "title": "The Amazing Spider-Man #577",
+  "authors": [
+    "Barry Kitson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dean White",
+    "Javier Rodríguez",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Mark Farmer",
+    "Paolo Rivera",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Tom Brevoort",
+    "Zeb Wells"
+  ],
+  "publish_date": "2008-11-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/13/asm-v2-577.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17130/",
+  "fetched_at": "2026-05-20T13:57:22.571Z",
+  "reviewed_at": null
+}
