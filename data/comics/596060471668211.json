@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060471668211",
+  "title": "The Amazing Spider-Man #682",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dan Slott",
+    "Ellie Pyle",
+    "Frank Martin",
+    "Gabriele Dell'Otto",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Stefano Caselli",
+    "Stephen Wacker"
+  ],
+  "publish_date": "2012-03-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/21/asm-v2-682.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17263/",
+  "fetched_at": "2026-05-26T16:33:01.878Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Cowboy",
+  "year": "1958",
+  "rated": "Approved",
+  "released": "23 Mar 1958",
+  "runtime": "92 min",
+  "genre": "Drama, Western",
+  "director": "Delmer Daves",
+  "writer": "Frank Harris, Edmund H. North, Dalton Trumbo",
+  "actors": "Glenn Ford, Jack Lemmon, Anna Kashfi",
+  "plot": "An idealistic tenderfoot Chicago hotel clerk is taken on a cattle-drive to Mexico by famous trail boss Tom Reece but discovers that cowboy life isn't what he expected.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjhkNWIzNjAtM2ZjZC00ODBlLThkYWMtZGUyNzExNjM3MzM4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0051496",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:25:45.442Z"
+}

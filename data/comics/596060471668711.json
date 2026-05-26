@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060471668711",
+  "title": "The Amazing Spider-Man #687",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dan Slott",
+    "Ellie Pyle",
+    "Frank D'Armata",
+    "Frank Martin",
+    "Gabriele Dell'Otto",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Mike Perkins",
+    "Stefano Caselli",
+    "Stephen Wacker"
+  ],
+  "publish_date": "2012-06-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/22/asm-v2-687.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17269/",
+  "fetched_at": "2026-05-26T16:34:23.131Z",
+  "reviewed_at": null
+}

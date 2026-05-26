@@ -1,0 +1,31 @@
+{
+  "title": "The Brothers Karamazov",
+  "year": "1958",
+  "rated": "Approved",
+  "released": "26 Feb 1958",
+  "runtime": "145 min",
+  "genre": "Drama, Romance",
+  "director": "Richard Brooks",
+  "writer": "Julius J. Epstein, Fyodor Dostoevsky, Constance Garnett",
+  "actors": "Yul Brynner, Maria Schell, Claire Bloom",
+  "plot": "Drama based on Russian writer Fyodor Dostoevsky's homonymous novel about the proud Karamazov family in 1870s Russia.",
+  "language": "English, Polish, Russian",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmRjZTUzYmItZjIzNi00Y2MyLTk1NDItNWIwODEzNjhkZTk3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "25%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0051435",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:25:07.086Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Elevator to the Gallows",
+  "year": "1958",
+  "rated": "Not Rated",
+  "released": "01 Feb 1958",
+  "runtime": "91 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Louis Malle",
+  "writer": "Roger Nimier, Louis Malle, Noël Calef",
+  "actors": "Jeanne Moreau, Maurice Ronet, Georges Poujouly",
+  "plot": "A self-assured businessman murders his employer, the husband of his mistress, which unintentionally provokes an ill-fated chain of events.",
+  "language": "French, German",
+  "country": "France",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODk4MTkxMDE1Ml5BMl5BanBnXkFtZTgwNjE0NjEzOTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "7.9",
+  "imdbID": "tt0051378",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:24:10.287Z"
+}

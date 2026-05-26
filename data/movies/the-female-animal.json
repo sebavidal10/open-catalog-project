@@ -1,0 +1,27 @@
+{
+  "title": "The Female Animal",
+  "year": "1958",
+  "rated": "Approved",
+  "released": "05 Sep 1958",
+  "runtime": "84 min",
+  "genre": "Drama, Film-Noir, Romance",
+  "director": "Harry Keller",
+  "writer": "Robert Hill, Albert Zugsmith",
+  "actors": "Hedy Lamarr, Jane Powell, Jan Sterling",
+  "plot": "An aging film star and her alcoholic daughter compete for a handsome extra.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzcyNWUxZTUtMTYwYi00NmFjLTk5MGQtZmRjZWJlZjFhZWU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0050385",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:27:46.675Z"
+}

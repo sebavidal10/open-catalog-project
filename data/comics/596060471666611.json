@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060471666611",
+  "title": "The Amazing Spider-Man #666",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dan Slott",
+    "Ellie Pyle",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marte Gracia",
+    "Mirco Pierfederici",
+    "Stefano Caselli",
+    "Stephen Wacker"
+  ],
+  "publish_date": "2011-07-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/20/asm-v2-666.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17246/",
+  "fetched_at": "2026-05-26T16:29:33.351Z",
+  "reviewed_at": null
+}

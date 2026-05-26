@@ -1,0 +1,35 @@
+{
+  "title": "Cat on a Hot Tin Roof",
+  "year": "1958",
+  "rated": "Approved",
+  "released": "29 Aug 1958",
+  "runtime": "108 min",
+  "genre": "Drama",
+  "director": "Richard Brooks",
+  "writer": "Richard Brooks, James Poe, Tennessee Williams",
+  "actors": "Elizabeth Taylor, Paul Newman, Burl Ives",
+  "plot": "Brick is an alcoholic ex-football player who drinks his days away and resists the affections of his wife. A reunion with his terminally ill father jogs a host of memories and revelations for both father and son.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 6 Oscars. 3 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzNjY1YjYtNDQzMi00M2JjLTgwMDEtMDc3ZWE3ZmI2NjNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.9",
+  "imdbID": "tt0051459",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:24:21.424Z"
+}

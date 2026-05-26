@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607716800111",
+  "title": "The Amazing Spider-Man #679.1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Christopher Yost",
+    "Dan Buckley",
+    "Dan Slott",
+    "Ellie Pyle",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Tyler Christopher",
+    "Matthew Clark",
+    "Rob Schwager",
+    "Stephen Wacker",
+    "Tom Palmer"
+  ],
+  "publish_date": "2012-02-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/21/asm-v2-679-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17268/",
+  "fetched_at": "2026-05-26T16:32:28.555Z",
+  "reviewed_at": null
+}

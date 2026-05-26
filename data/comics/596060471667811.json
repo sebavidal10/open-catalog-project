@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060471667811",
+  "title": "The Amazing Spider-Man #678",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Ellie Pyle",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Joe Quinones",
+    "Michael Del Mundo",
+    "Stephen Wacker",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2012-01-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/21/asm-v2-678.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17259/",
+  "fetched_at": "2026-05-26T16:32:03.760Z",
+  "reviewed_at": null
+}

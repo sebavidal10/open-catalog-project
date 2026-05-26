@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607127200811",
+  "title": "Marvel Adventures Spider-Man #8",
+  "authors": [
+    "Alan Fine",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Edgar Delgado",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Mark Paniccia",
+    "Mayela Gutierrez",
+    "Michael Horwitz",
+    "Nathan Cosby",
+    "Patrick Scherberger",
+    "Paul Tobin",
+    "Roberto Di Salvo",
+    "Terry Pallot"
+  ],
+  "publish_date": "2010-11-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/29/790310.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156731/",
+  "fetched_at": "2026-05-26T16:25:38.921Z",
+  "reviewed_at": null
+}

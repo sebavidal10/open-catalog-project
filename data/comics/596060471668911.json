@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "596060471668911",
+  "title": "The Amazing Spider-Man #689",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dan Slott",
+    "Ellie Pyle",
+    "Frank D'Armata",
+    "Frank Martin",
+    "Giuseppe Camuncoli",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Klaus Janson",
+    "Matthew Clark",
+    "Stephen Wacker",
+    "Tom Palmer"
+  ],
+  "publish_date": "2012-07-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/22/asm-v2-689.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17271/",
+  "fetched_at": "2026-05-26T16:34:47.542Z",
+  "reviewed_at": null
+}

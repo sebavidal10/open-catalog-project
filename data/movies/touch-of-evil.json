@@ -1,0 +1,35 @@
+{
+  "title": "Touch of Evil",
+  "year": "1958",
+  "rated": "PG-13",
+  "released": "23 Apr 1958",
+  "runtime": "95 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Orson Welles",
+  "writer": "Orson Welles, Whit Masterson, Franklin Coen",
+  "actors": "Charlton Heston, Orson Welles, Janet Leigh",
+  "plot": "A Mexican official and his American wife are targeted in a Texas border town by the crime family he's trying to put behind bars for drug trafficking, as his concern grows over the tactics of the local detective whose cooperation h...",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "7 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzBkNTQzODUtNzcxMy00ZGNhLThmOWMtMTcyYzY4ZTU2NDM3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "99/100"
+    }
+  ],
+  "metascore": "99",
+  "imdbRating": "8.0",
+  "imdbID": "tt0052311",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:24:07.811Z"
+}

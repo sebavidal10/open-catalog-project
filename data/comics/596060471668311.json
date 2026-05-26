@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "596060471668311",
+  "title": "The Amazing Spider-Man #683",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dan Slott",
+    "Ellie Pyle",
+    "Frank Martin",
+    "Gabriele Dell'Otto",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Michael Del Mundo",
+    "Stefano Caselli",
+    "Stephen Wacker"
+  ],
+  "publish_date": "2012-04-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/21/asm-v2-683.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17264/",
+  "fetched_at": "2026-05-26T16:33:06.068Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,35 @@
+{
+  "title": "My Uncle",
+  "year": "1958",
+  "rated": "Not Rated",
+  "released": "03 Nov 1958",
+  "runtime": "116 min",
+  "genre": "Comedy",
+  "director": "Jacques Tati",
+  "writer": "Jacques Lagrange, Jean L'Hôte, Jacques Tati",
+  "actors": "Jacques Tati, Jean-Pierre Zola, Adrienne Servantie",
+  "plot": "Monsieur Hulot visits the technology-driven world of his sister, brother-in-law, and nephew, but he can't quite fit into the surroundings.",
+  "language": "French",
+  "country": "France, Italy",
+  "awards": "Won 1 Oscar. 7 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjdiZjAwMDUtNjBkMy00MGMzLWI4NTYtODJkNjk5OTQ3NTlkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.7",
+  "imdbID": "tt0050706",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:24:39.944Z"
+}

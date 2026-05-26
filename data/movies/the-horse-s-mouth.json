@@ -1,0 +1,31 @@
+{
+  "title": "The Horse's Mouth",
+  "year": "1958",
+  "rated": "Approved",
+  "released": "11 Nov 1958",
+  "runtime": "97 min",
+  "genre": "Comedy",
+  "director": "Ronald Neame",
+  "writer": "Joyce Cary, Alec Guinness",
+  "actors": "Alec Guinness, Kay Walsh, Renee Houston",
+  "plot": "An ill-behaved, lovably scruffy painter, Gulley Jimson, searches for a perfect canvas, determined to let nothing come between himself and the realization of his exalted vision.",
+  "language": "English, French, Italian, Spanish, Cantonese, Norse, Old, Portuguese",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 Oscar. 5 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGNiNWYwMGQtMDg2ZS00ZDNkLTg4MDAtMjE1MjZhMjc0MTg0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0051739",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:26:31.508Z"
+}

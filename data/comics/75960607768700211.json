@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607768700211",
+  "title": "Marvel Universe Ultimate Spider-Man #2",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Ellie Pyle",
+    "Eugene Son",
+    "Herb Trimpe",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Ramón Bachs",
+    "Roy Thomas",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Wil Quintana"
+  ],
+  "publish_date": "2012-05-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/05/7f7005af33a24cac86494193d7df4176.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/133649/",
+  "fetched_at": "2026-05-26T16:34:10.690Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Black Orpheus",
+  "year": "1959",
+  "rated": "PG",
+  "released": "21 Dec 1959",
+  "runtime": "100 min",
+  "genre": "Drama, Musical, Romance",
+  "director": "Marcel Camus",
+  "writer": "Jacques Viot, Vinicius de Moraes, Marcel Camus",
+  "actors": "Breno Mello, Marpessa Dawn, Lourdes de Oliveira",
+  "plot": "A retelling of the Orpheus and Eurydice myth, set during the time of the Carnaval in Rio de Janeiro.",
+  "language": "Portuguese",
+  "country": "Brazil, France, Italy",
+  "awards": "Won 1 Oscar. 4 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWI2ZmRhNTItNzhiMC00YWIyLWJmNGItZjNjOTY1MDEyY2VmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.4",
+  "imdbID": "tt0053146",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:37:01.476Z"
+}

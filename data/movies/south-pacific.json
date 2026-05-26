@@ -1,0 +1,31 @@
+{
+  "title": "South Pacific",
+  "year": "1958",
+  "rated": "Approved",
+  "released": "14 Apr 1958",
+  "runtime": "157 min",
+  "genre": "Drama, Musical, Romance",
+  "director": "Joshua Logan",
+  "writer": "Paul Osborn, Richard Rodgers, Oscar Hammerstein II",
+  "actors": "Rossano Brazzi, Mitzi Gaynor, John Kerr",
+  "plot": "On a South Pacific island during World War II, love blooms between a young nurse and a secretive Frenchman who's being courted for a dangerous military mission.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 1 win & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjc1MDM0MDM4Nl5BMl5BanBnXkFtZTgwMDMwMTgxMTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0052225",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:24:09.047Z"
+}

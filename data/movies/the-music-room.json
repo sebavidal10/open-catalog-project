@@ -1,0 +1,31 @@
+{
+  "title": "The Music Room",
+  "year": "1958",
+  "rated": "Not Rated",
+  "released": "10 Oct 1958",
+  "runtime": "95 min",
+  "genre": "Drama, Music",
+  "director": "Satyajit Ray",
+  "writer": "Tarashankar Banerjee, Satyajit Ray, Santi P. Choudhury",
+  "actors": "Chhabi Biswas, Gangapada Basu, Padmadevi",
+  "plot": "Depicts the end days of a decadent zamindar (landlord) in Bengal, and his efforts to uphold his family prestige even when faced with economic adversity.",
+  "language": "Bengali, English",
+  "country": "India",
+  "awards": "2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTQ3ZGEyYjQtMWI5Mi00Zjc2LTk0YTYtZmY2OGQzNDc1ZDFkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.9",
+  "imdbID": "tt0051792",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:26:17.556Z"
+}

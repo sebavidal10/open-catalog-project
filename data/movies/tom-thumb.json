@@ -1,0 +1,31 @@
+{
+  "title": "Tom Thumb",
+  "year": "1958",
+  "rated": "G",
+  "released": "19 Feb 1959",
+  "runtime": "98 min",
+  "genre": "Family, Fantasy, Musical",
+  "director": "George Pal",
+  "writer": "Ladislas Fodor, Jacob Grimm, Wilhelm Grimm",
+  "actors": "Russ Tamblyn, June Thorburn, Peter Sellers",
+  "plot": "A boy (Russ Tamblyn), no bigger than a thumb, manages to outwit two thieves (Terry-Thomas and Peter Sellers) determined to make a fortune from him.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Won 1 Oscar. 1 win & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTBmYWY0ZmEtMmM2Yi00Njk1LTkxNjEtYmNhMTFhYzA3ODE0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0052427",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:25:39.273Z"
+}

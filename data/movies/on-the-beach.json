@@ -1,0 +1,35 @@
+{
+  "title": "On the Beach",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "17 Dec 1959",
+  "runtime": "134 min",
+  "genre": "Drama, Romance, Sci-Fi",
+  "director": "Stanley Kramer",
+  "writer": "John Paxton, Nevil Shute",
+  "actors": "Gregory Peck, Ava Gardner, Fred Astaire",
+  "plot": "After a global nuclear war, the residents of Australia must come to terms with the fact that all life will be destroyed in a matter of months.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 4 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGEzOGU2MzMtOWJmYS00OTIwLWIxY2ItOGYyNDA4MGIyYzUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "7.1",
+  "imdbID": "tt0053137",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:36:38.106Z"
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960607671000111",
+  "title": "Amazing Spider-Man: Infested #1",
+  "authors": [
+    "Barry Kitson",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Emma Ríos",
+    "Giuseppe Camuncoli",
+    "Humberto Ramos",
+    "Javier Rodríguez",
+    "Joe Caramagna",
+    "Lee Garbett",
+    "Marte Gracia",
+    "Max Fiumara",
+    "Stephen Wacker"
+  ],
+  "publish_date": "2011-08-31",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/12/07/asm-infested-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131546/",
+  "fetched_at": "2026-05-26T16:30:02.494Z",
+  "reviewed_at": null
+}

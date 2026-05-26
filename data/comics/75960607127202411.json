@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607127202411",
+  "title": "Marvel Adventures Spider-Man #24",
+  "authors": [
+    "Alan Fine",
+    "Alé Garza",
+    "Antonio Fabela",
+    "Axel Alonso",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Matteo Lolli",
+    "Paul Tobin",
+    "Roberto Di Salvo",
+    "Stephen Wacker",
+    "Terry Pallot",
+    "Tom Brennan"
+  ],
+  "publish_date": "2012-03-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/29/933525.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156747/",
+  "fetched_at": "2026-05-26T16:33:13.901Z",
+  "reviewed_at": null
+}

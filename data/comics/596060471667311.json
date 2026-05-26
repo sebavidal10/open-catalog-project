@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "596060471667311",
+  "title": "The Amazing Spider-Man #673",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dan Slott",
+    "Ellie Pyle",
+    "Frank Martin",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Stefano Caselli",
+    "Stephen Wacker"
+  ],
+  "publish_date": "2011-11-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/20/asm-v2-673.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17253/",
+  "fetched_at": "2026-05-26T16:31:11.795Z",
+  "reviewed_at": null
+}

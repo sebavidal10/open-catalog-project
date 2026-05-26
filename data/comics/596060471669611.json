@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060471669611",
+  "title": "The Amazing Spider-Man #696",
+  "authors": [
+    "Alan Fine",
+    "Antonio Fabela",
+    "Axel Alonso",
+    "Chris Eliopoulos",
+    "Christos N. Gage",
+    "Dan Buckley",
+    "Dan Green",
+    "Dan Slott",
+    "Ellie Pyle",
+    "Giuseppe Camuncoli",
+    "Joe Quesada",
+    "Stephen Wacker",
+    "Steve McNiven"
+  ],
+  "publish_date": "2012-10-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/22/asm-v2-696.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17278/",
+  "fetched_at": "2026-05-26T16:36:18.178Z",
+  "reviewed_at": null
+}

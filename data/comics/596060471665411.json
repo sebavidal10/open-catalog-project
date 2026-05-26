@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "596060471665411",
+  "title": "The Amazing Spider-Man #654",
+  "authors": [
+    "Alan Fine",
+    "Dan Buckley",
+    "Dan Slott",
+    "Ellie Pyle",
+    "Fabio D'Auria",
+    "Fred Van Lente",
+    "Greg Adams",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marte Gracia",
+    "Paulo Siqueira",
+    "Roland Paris",
+    "Ronan Cliquet",
+    "Stefano Caselli",
+    "Stephen Wacker"
+  ],
+  "publish_date": "2011-02-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/19/asm-v2-654.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17225/",
+  "fetched_at": "2026-05-26T16:27:06.644Z",
+  "reviewed_at": null
+}

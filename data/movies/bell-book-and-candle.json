@@ -1,0 +1,31 @@
+{
+  "title": "Bell Book and Candle",
+  "year": "1958",
+  "rated": "Approved",
+  "released": "19 Dec 1958",
+  "runtime": "106 min",
+  "genre": "Comedy, Fantasy, Romance",
+  "director": "Richard Quine",
+  "writer": "Daniel Taradash, John Van Druten",
+  "actors": "James Stewart, Kim Novak, Jack Lemmon",
+  "plot": "A modern-day witch likes her neighbor but despises his fiancée, so she enchants him to love her instead.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGM5ZjVjOTctMTc2Zi00MDRhLWE0ZDMtMGJlYTE5ZjZiNWEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0051406",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:24:33.767Z"
+}

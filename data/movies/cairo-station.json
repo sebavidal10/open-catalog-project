@@ -1,0 +1,31 @@
+{
+  "title": "Cairo Station",
+  "year": "1958",
+  "rated": "Not Rated",
+  "released": "20 Jan 1958",
+  "runtime": "77 min",
+  "genre": "Crime, Drama",
+  "director": "Youssef Chahine",
+  "writer": "Abdel Hai Adib, Mohamed Abu Youssef",
+  "actors": "Farid Shawqi, Hind Rustum, Youssef Chahine",
+  "plot": "A newspaper salesman at the train station in Cairo develops an unhealthy obsession with a woman who sells refreshments.",
+  "language": "Arabic",
+  "country": "Egypt",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTRjN2JiMGUtMGM4YS00OWIxLWE5YTItNTkxYWNlN2ExY2UyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0051390",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:26:35.218Z"
+}

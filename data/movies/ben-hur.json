@@ -1,0 +1,35 @@
+{
+  "title": "Ben-Hur",
+  "year": "1959",
+  "rated": "G",
+  "released": "18 Nov 1959",
+  "runtime": "212 min",
+  "genre": "Adventure, Drama",
+  "director": "William Wyler",
+  "writer": "Lew Wallace, Karl Tunberg, Maxwell Anderson",
+  "actors": "Charlton Heston, Jack Hawkins, Stephen Boyd",
+  "plot": "A Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, but it's not long before he regains his freedom and comes back for revenge.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 11 Oscars. 29 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjg2M2E1YzYtOThmMC00NjAyLWI5MzgtMDEwOGFiODdlOGUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "8.1",
+  "imdbID": "tt0052618",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:36:20.847Z"
+}

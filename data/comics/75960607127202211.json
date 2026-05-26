@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960607127202211",
+  "title": "Marvel Adventures Spider-Man #22",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Derec Donovan",
+    "Joe Quesada",
+    "Paul Tobin",
+    "Stephen Wacker",
+    "Todd Nauck",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2012-01-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/29/906613.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156745/",
+  "fetched_at": "2026-05-26T16:32:11.519Z",
+  "reviewed_at": null
+}

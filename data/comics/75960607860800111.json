@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607860800111",
+  "title": "The Amazing Spider-Man #699.1",
+  "authors": [
+    "Alan Fine",
+    "Antonio Fabela",
+    "Axel Alonso",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Dan Slott",
+    "Ellie Pyle",
+    "Joe Keatinge",
+    "Joe Quesada",
+    "Marco Checchetto",
+    "Sana Amanat",
+    "Stefano Caselli",
+    "Stephen Wacker",
+    "Valentine De Landro"
+  ],
+  "publish_date": "2012-12-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/22/asm-v2-699-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17283/",
+  "fetched_at": "2026-05-26T16:37:12.631Z",
+  "reviewed_at": null
+}

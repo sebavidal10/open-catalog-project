@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607127202011",
+  "title": "Marvel Adventures Spider-Man #20",
+  "authors": [
+    "Alan Fine",
+    "Alé Garza",
+    "Axel Alonso",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Matteo Lolli",
+    "Paul Tobin",
+    "Roberto Di Salvo",
+    "Stephen Wacker",
+    "Terry Pallot",
+    "Tom Brennan",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2011-11-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/29/898423.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156743/",
+  "fetched_at": "2026-05-26T16:31:23.578Z",
+  "reviewed_at": null
+}

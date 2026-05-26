@@ -1,0 +1,35 @@
+{
+  "title": "The Hidden Fortress",
+  "year": "1958",
+  "rated": "Not Rated",
+  "released": "06 Oct 1960",
+  "runtime": "126 min",
+  "genre": "Adventure, Drama",
+  "director": "Akira Kurosawa",
+  "writer": "Ryûzô Kikushima, Hideo Oguni, Shinobu Hashimoto",
+  "actors": "Toshirô Mifune, Misa Uehara, Minoru Chiaki",
+  "plot": "Lured by gold, two greedy peasants unknowingly escort a princess and her general across enemy lines.",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "4 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGNmMGQ4YTQtYjA2My00ZDMyLWIzYzYtYmNhOGRjM2RjNTZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "8.0",
+  "imdbID": "tt0051808",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:24:11.536Z"
+}

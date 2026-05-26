@@ -1,0 +1,35 @@
+{
+  "title": "Pillow Talk",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "07 Oct 1959",
+  "runtime": "102 min",
+  "genre": "Comedy, Romance",
+  "director": "Michael Gordon",
+  "writer": "Stanley Shapiro, Maurice Richlin, Russell Rouse",
+  "actors": "Rock Hudson, Doris Day, Tony Randall",
+  "plot": "An interior decorator and a playboy songwriter share a telephone party line and size each other up.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 8 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NDg1NzU1OV5BMl5BanBnXkFtZTgwMDQyODgxMTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.4",
+  "imdbID": "tt0053172",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:36:45.489Z"
+}

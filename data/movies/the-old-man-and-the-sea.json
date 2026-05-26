@@ -1,0 +1,35 @@
+{
+  "title": "The Old Man and the Sea",
+  "year": "1958",
+  "rated": "Not Rated",
+  "released": "11 Oct 1958",
+  "runtime": "86 min",
+  "genre": "Adventure, Drama",
+  "director": "John Sturges, Fred Zinnemann",
+  "writer": "Ernest Hemingway, Peter Viertel",
+  "actors": "Spencer Tracy, Felipe Pazos, Harry Bellaver",
+  "plot": "An old Cuban fisherman's dry spell is broken when he hooks a gigantic fish that drags him out to sea.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 6 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzI0NWRkMTMtMWY3NS00MDMwLWFiMzItMWRiMDk0MDcyOGZlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "metascore": "49",
+  "imdbRating": "6.9",
+  "imdbID": "tt0052027",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:25:02.144Z"
+}

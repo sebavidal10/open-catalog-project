@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "596060471668111",
+  "title": "The Amazing Spider-Man #681",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Christopher Yost",
+    "Dan Buckley",
+    "Dan Slott",
+    "Ellie Pyle",
+    "Frank D'Armata",
+    "Giuseppe Camuncoli",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Klaus Janson",
+    "Stephen Wacker"
+  ],
+  "publish_date": "2012-03-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/21/asm-v2-681.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17262/",
+  "fetched_at": "2026-05-26T16:32:36.769Z",
+  "reviewed_at": null
+}

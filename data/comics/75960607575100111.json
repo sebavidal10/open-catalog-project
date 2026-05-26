@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960607575100111",
+  "title": "Free Comic Book Day 2011 (Spider-Man) #1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Carlos Cuevas",
+    "Dan Buckley",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Ellie Pyle",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Stephen Wacker",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2011-05-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/12/31/21552c317e124315861bcbe8fbd4470e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/159484/",
+  "fetched_at": "2026-05-26T16:27:45.951Z",
+  "reviewed_at": "2011-05-01"
+}

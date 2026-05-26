@@ -1,0 +1,35 @@
+{
+  "title": "Equinox Flower",
+  "year": "1958",
+  "rated": "N/A",
+  "released": "01 Jun 1977",
+  "runtime": "118 min",
+  "genre": "Comedy, Drama",
+  "director": "Yasujirô Ozu",
+  "writer": "Ton Satomi, Yasujirô Ozu, Kôgo Noda",
+  "actors": "Shin Saburi, Kinuyo Tanaka, Ineko Arima",
+  "plot": "A businessman clashes with his elder daughter over her choice of a husband.",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "2 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTIyY2UyZWEtOWE1NS00NjNjLWIzYzYtMjI4NDc5MjZiOGY3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.8",
+  "imdbID": "tt0051720",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:27:06.092Z"
+}

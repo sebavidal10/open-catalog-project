@@ -1,0 +1,31 @@
+{
+  "title": "The Best of Everything",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "09 Oct 1959",
+  "runtime": "121 min",
+  "genre": "Drama, Romance",
+  "director": "Jean Negulesco",
+  "writer": "Edith Sommer, Mann Rubin, Rona Jaffe",
+  "actors": "Hope Lange, Stephen Boyd, Suzy Parker",
+  "plot": "An expose of the lives and loves of Madison Avenue working girls and their higher ups.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWU2ZjJkNTEtODQzZi00YjI1LTgwZDktMjI4MDk4MTIyZmEzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0052619",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:36:49.182Z"
+}

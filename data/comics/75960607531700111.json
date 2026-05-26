@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960607531700111",
+  "title": "The Amazing Spider-Man #654.1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Carlos Cuevas",
+    "Dan Buckley",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Ellie Pyle",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Paulo Siqueira",
+    "Stephen Wacker"
+  ],
+  "publish_date": "2011-02-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/21/asm-v2-654-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17255/",
+  "fetched_at": "2026-05-26T16:27:10.530Z",
+  "reviewed_at": null
+}

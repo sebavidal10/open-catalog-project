@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607127201411",
+  "title": "Marvel Adventures Spider-Man #14",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Edgar Delgado",
+    "Joe Quesada",
+    "Matteo Lolli",
+    "Patrick Scherberger",
+    "Paul Tobin",
+    "Rachel Pinnelas",
+    "Stephen Wacker",
+    "Terry Pallot",
+    "Tom Brennan"
+  ],
+  "publish_date": "2011-05-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/29/839702.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156737/",
+  "fetched_at": "2026-05-26T16:28:51.055Z",
+  "reviewed_at": null
+}

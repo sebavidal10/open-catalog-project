@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960607127201811",
+  "title": "Marvel Adventures Spider-Man #18",
+  "authors": [
+    "Dave Sharpe",
+    "Matteo Lolli",
+    "Paul Tobin",
+    "Roberto Di Salvo",
+    "Stephen Wacker",
+    "Terry Pallot",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2011-09-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/29/879979.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156741/",
+  "fetched_at": "2026-05-26T16:30:32.385Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Queen of Outer Space",
+  "year": "1958",
+  "rated": "Unrated",
+  "released": "07 Sep 1958",
+  "runtime": "80 min",
+  "genre": "Adventure, Fantasy, Sci-Fi",
+  "director": "Edward Bernds",
+  "writer": "Charles Beaumont, Ben Hecht, Edward Bernds",
+  "actors": "Zsa Zsa Gabor, Eric Fleming, Dave Willock",
+  "plot": "American astronauts are drawn by a mysterious force to the planet Venus, which they find to be inhabited only by beautiful women and their despotic queen.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzAwM2NmYmEtOWNjYi00ZWYzLTgzMmMtNjU3MmJkNmJkMWY1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "15%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.6",
+  "imdbID": "tt0052104",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:25:19.452Z"
+}

@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "596060471666311",
+  "title": "The Amazing Spider-Man #663",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Ellie Pyle",
+    "Emma Ríos",
+    "Frank Cho",
+    "Giuseppe Camuncoli",
+    "Javier Rodríguez",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Klaus Janson",
+    "Matt Hollingsworth",
+    "Stephen Wacker",
+    "Todd Nauck",
+    "Tony DeZuñiga"
+  ],
+  "publish_date": "2011-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/20/asm-v2-663.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17243/",
+  "fetched_at": "2026-05-26T16:29:04.742Z",
+  "reviewed_at": null
+}

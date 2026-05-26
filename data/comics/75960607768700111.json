@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960607768700111",
+  "title": "Marvel Universe Ultimate Spider-Man #1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Dan Slott",
+    "Ellie Pyle",
+    "Harrison Wilcox",
+    "Jeph Loeb",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Nuno Plati",
+    "Stan Lee",
+    "Stephen Wacker",
+    "Steve Ditko",
+    "Todd Casey",
+    "Tom Brennan",
+    "Ty Templeton"
+  ],
+  "publish_date": "2012-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/05/dd1b838010944c1db3ef51b0be428699.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/133648/",
+  "fetched_at": "2026-05-26T16:33:42.555Z",
+  "reviewed_at": "2012-06-01"
+}

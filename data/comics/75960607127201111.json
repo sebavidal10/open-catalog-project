@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960607127201111",
+  "title": "Marvel Adventures Spider-Man #11",
+  "authors": [
+    "Chris Sotomayor",
+    "Edgar Delgado",
+    "Jordan D. White",
+    "Matteo Lolli",
+    "Patrick Scherberger",
+    "Paul Tobin",
+    "Roberto Di Salvo",
+    "Terry Pallot"
+  ],
+  "publish_date": "2011-02-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/29/808146.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156734/",
+  "fetched_at": "2026-05-26T16:27:18.292Z",
+  "reviewed_at": null
+}

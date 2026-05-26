@@ -1,0 +1,31 @@
+{
+  "title": "The Last Hurrah",
+  "year": "1958",
+  "rated": "Approved",
+  "released": "N/A",
+  "runtime": "121 min",
+  "genre": "Drama",
+  "director": "John Ford",
+  "writer": "Frank S. Nugent, Edwin O'Connor",
+  "actors": "Spencer Tracy, Jeffrey Hunter, Dianne Foster",
+  "plot": "Frank Skeffington is an old Irish-American political boss, running for re-election as mayor of a U.S. town for the last time.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 BAFTA Award3 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGNiYzRkYTUtOTc0Yy00NzM5LTgzY2QtNTRlZTk4ZTQ0OWY3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0051845",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:25:59.027Z"
+}

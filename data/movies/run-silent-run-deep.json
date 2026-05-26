@@ -1,0 +1,35 @@
+{
+  "title": "Run Silent Run Deep",
+  "year": "1958",
+  "rated": "Approved",
+  "released": "27 Mar 1958",
+  "runtime": "93 min",
+  "genre": "Action, Drama, War",
+  "director": "Robert Wise",
+  "writer": "John Gay, Edward L. Beach",
+  "actors": "Clark Gable, Burt Lancaster, Jack Warden",
+  "plot": "A U.S. submarine commander who's obsessed with sinking a particular Japanese ship butts heads with his first officer and crew.",
+  "language": "English, Japanese",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2ZmNTFkNjAtODY1Yi00ODlhLWE0NzEtOWFhN2RiNzU4NzBhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.3",
+  "imdbID": "tt0052151",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:24:38.707Z"
+}

@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "596060471666111",
+  "title": "The Amazing Spider-Man #661",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Ed McGuinness",
+    "Ellie Pyle",
+    "Javier Pulido",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Rauch",
+    "Matt Hollingsworth",
+    "Morry Hollowell",
+    "Paul Benjamin",
+    "Reilly Brown",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2011-05-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/19/asm-v2-661.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17232/",
+  "fetched_at": "2026-05-26T16:28:35.333Z",
+  "reviewed_at": null
+}

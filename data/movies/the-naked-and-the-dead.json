@@ -1,0 +1,31 @@
+{
+  "title": "The Naked and the Dead",
+  "year": "1958",
+  "rated": "Approved",
+  "released": "28 Oct 1958",
+  "runtime": "131 min",
+  "genre": "Drama, War",
+  "director": "Raoul Walsh",
+  "writer": "Denis Sanders, Terry Sanders, Norman Mailer",
+  "actors": "Aldo Ray, Cliff Robertson, Raymond Massey",
+  "plot": "Set during the Pacific War against the Japanese, this WW2 drama discerns between achieving one's mission at any cost versus preserving the lives under one's command and enforcing discipline through fear as opposed to mutual respect.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmUzNTIyYzQtYWIzMy00NDU3LWI2NDMtNGE3YzQ1YWZhOWRhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0051978",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:25:10.789Z"
+}

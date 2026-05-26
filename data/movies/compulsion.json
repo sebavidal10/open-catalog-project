@@ -1,0 +1,31 @@
+{
+  "title": "Compulsion",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "01 May 1959",
+  "runtime": "103 min",
+  "genre": "Biography, Crime, Drama",
+  "director": "Richard Fleischer",
+  "writer": "Richard Murphy, Meyer Levin",
+  "actors": "Orson Welles, Dean Stockwell, Diane Varsi",
+  "plot": "Two wealthy law-school students go on trial for murder in this version of the Leopold-Loeb case.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 BAFTA Award1 win & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWUzNDljMGQtZTEwZi00NGE2LTlmYjMtNjdjOTNjMzk1ZTY3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0052700",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:37:08.866Z"
+}

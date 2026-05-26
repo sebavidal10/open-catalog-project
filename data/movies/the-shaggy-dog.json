@@ -1,0 +1,35 @@
+{
+  "title": "The Shaggy Dog",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "19 Mar 1959",
+  "runtime": "104 min",
+  "genre": "Comedy, Family, Fantasy",
+  "director": "Charles Barton",
+  "writer": "Bill Walsh, Lillie Hayward, Felix Salten",
+  "actors": "Fred MacMurray, Jean Hagen, Tommy Kirk",
+  "plot": "A teenage boy is cursed with periodically turning into a sheepdog.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjc5Mjg5YWMtMjA2Ni00Yjk4LTk5NjQtZjAwN2I3MjIyYjdiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "68%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "45/100"
+    }
+  ],
+  "metascore": "45",
+  "imdbRating": "6.4",
+  "imdbID": "tt0053271",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:36:44.261Z"
+}

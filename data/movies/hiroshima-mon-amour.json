@@ -1,0 +1,31 @@
+{
+  "title": "Hiroshima Mon Amour",
+  "year": "1959",
+  "rated": "Not Rated",
+  "released": "16 May 1960",
+  "runtime": "90 min",
+  "genre": "Drama, Romance",
+  "director": "Alain Resnais",
+  "writer": "Marguerite Duras",
+  "actors": "Emmanuelle Riva, Eiji Okada, Stella Dassas",
+  "plot": "A French actress filming an anti-war film in Hiroshima has an affair with a married Japanese architect as they share their differing perspectives on war.",
+  "language": "French, Japanese, English",
+  "country": "France, Japan",
+  "awards": "Nominated for 1 Oscar. 7 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzY2NTA1MzUwN15BMl5BanBnXkFtZTgwOTc4NTU4MjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0052893",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:36:24.536Z"
+}

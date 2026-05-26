@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "596060471668011",
+  "title": "The Amazing Spider-Man #680",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Christopher Yost",
+    "Dan Buckley",
+    "Dan Slott",
+    "Ellie Pyle",
+    "Frank D'Armata",
+    "Giuseppe Camuncoli",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Klaus Janson",
+    "Stephen Wacker"
+  ],
+  "publish_date": "2012-02-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/21/asm-v2-680.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17261/",
+  "fetched_at": "2026-05-26T16:32:32.862Z",
+  "reviewed_at": null
+}

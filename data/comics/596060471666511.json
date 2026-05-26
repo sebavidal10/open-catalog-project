@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "596060471666511",
+  "title": "The Amazing Spider-Man #665",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dan Slott",
+    "Ellie Pyle",
+    "Giuseppe Camuncoli",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Rauch",
+    "Marte Gracia",
+    "Michael Babinski",
+    "Paolo Rivera",
+    "Ryan Stegman",
+    "Stephen Wacker",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2011-07-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/20/asm-v2-665.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17245/",
+  "fetched_at": "2026-05-26T16:29:29.485Z",
+  "reviewed_at": null
+}

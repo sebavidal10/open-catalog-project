@@ -1,0 +1,35 @@
+{
+  "title": "Room at the Top",
+  "year": "1958",
+  "rated": "Not Rated",
+  "released": "22 Jan 1959",
+  "runtime": "115 min",
+  "genre": "Drama, Romance",
+  "director": "Jack Clayton",
+  "writer": "Neil Paterson, John Braine, Mordecai Richler",
+  "actors": "Laurence Harvey, Simone Signoret, Heather Sears",
+  "plot": "An ambitious young accountant plots to wed a wealthy factory owner's daughter despite falling in love with a married older woman.",
+  "language": "English, French",
+  "country": "United Kingdom",
+  "awards": "Won 2 Oscars. 10 wins & 15 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODRhNWI1ZmEtMTMzZC00NzcwLTljOWUtOTE1MWMzMjQ1ODg3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.5",
+  "imdbID": "tt0053226",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:24:54.735Z"
+}

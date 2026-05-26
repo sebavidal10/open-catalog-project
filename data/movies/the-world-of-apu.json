@@ -1,0 +1,31 @@
+{
+  "title": "The World of Apu",
+  "year": "1959",
+  "rated": "Not Rated",
+  "released": "04 Oct 1960",
+  "runtime": "105 min",
+  "genre": "Drama",
+  "director": "Satyajit Ray",
+  "writer": "Bibhutibhushan Bandyopadhyay, Satyajit Ray",
+  "actors": "Soumitra Chatterjee, Sharmila Tagore, Alok Chakravarty",
+  "plot": "An orphaned young man in India pursues his dream of becoming a writer while navigating life's challenges and personal growth.",
+  "language": "Bengali",
+  "country": "India",
+  "awards": "Nominated for 1 BAFTA Award4 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjQwMDk3NGMtYzg2ZC00MWNmLTliZDUtM2MwYjZjM2E0MWYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.4",
+  "imdbID": "tt0052572",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:36:23.311Z"
+}

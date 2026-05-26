@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "596060471668611",
+  "title": "The Amazing Spider-Man #686",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dan Slott",
+    "Ellie Pyle",
+    "Frank Martin",
+    "Gabriele Dell'Otto",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Lorenzo De Felici",
+    "Stefano Caselli",
+    "Stephen Wacker"
+  ],
+  "publish_date": "2012-05-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/21/asm-v2-686.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17267/",
+  "fetched_at": "2026-05-26T16:33:54.665Z",
+  "reviewed_at": null
+}

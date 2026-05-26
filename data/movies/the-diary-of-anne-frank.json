@@ -1,0 +1,35 @@
+{
+  "title": "The Diary of Anne Frank",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "17 Apr 1959",
+  "runtime": "180 min",
+  "genre": "Biography, Drama, Family",
+  "director": "George Stevens",
+  "writer": "Frances Goodrich, Albert Hackett, Anne Frank",
+  "actors": "Millie Perkins, Shelley Winters, Joseph Schildkraut",
+  "plot": "During World War II, a teenage Jewish girl named Anne Frank and her family are forced into hiding in the Nazi-occupied Netherlands.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 9 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjVmYTIzM2UtNDY4Ny00MzJmLWJhODMtMDVmZGQ0NWI3ZDNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "metascore": "59",
+  "imdbRating": "7.4",
+  "imdbID": "tt0052738",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:36:52.876Z"
+}

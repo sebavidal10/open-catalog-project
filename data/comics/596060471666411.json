@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "596060471666411",
+  "title": "The Amazing Spider-Man #664",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Christos N. Gage",
+    "Dan Buckley",
+    "Dan Slott",
+    "Ellie Pyle",
+    "Frank Cho",
+    "Giuseppe Camuncoli",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Klaus Janson",
+    "Matt Hollingsworth",
+    "Max Fiumara",
+    "Stephen Wacker"
+  ],
+  "publish_date": "2011-06-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/20/asm-v2-664.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17244/",
+  "fetched_at": "2026-05-26T16:29:08.666Z",
+  "reviewed_at": null
+}

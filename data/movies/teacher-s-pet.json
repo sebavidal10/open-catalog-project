@@ -1,0 +1,31 @@
+{
+  "title": "Teacher's Pet",
+  "year": "1958",
+  "rated": "Approved",
+  "released": "01 Apr 1958",
+  "runtime": "120 min",
+  "genre": "Comedy, Romance",
+  "director": "George Seaton",
+  "writer": "Fay Kanin, Michael Kanin",
+  "actors": "Clark Gable, Doris Day, Gig Young",
+  "plot": "A hard-nosed newspaper editor poses as a night school student in order to woo a journalism teacher who cannot stand him.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWMyZTFkZWYtMTIwNi00Y2Y4LWFlYmEtOTcwMGUzYzM0ZDdkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0052278",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:25:23.169Z"
+}

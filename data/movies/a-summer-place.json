@@ -1,0 +1,31 @@
+{
+  "title": "A Summer Place",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "18 Nov 1959",
+  "runtime": "130 min",
+  "genre": "Drama, Romance",
+  "director": "Delmer Daves",
+  "writer": "Sloan Wilson, Delmer Daves",
+  "actors": "Richard Egan, Dorothy McGuire, Sandra Dee",
+  "plot": "A self-made businessman rekindles a romance with a former flame while their two teenage children begin a romance of their own with drastic consequences for both couples.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 3 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmEwMzkzODAtYWIzZC00YzVlLWFjZDQtMThlMGRiYzZjMzQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0053320",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:36:56.565Z"
+}

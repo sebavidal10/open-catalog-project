@@ -1,0 +1,35 @@
+{
+  "title": "The Blob",
+  "year": "1958",
+  "rated": "Approved",
+  "released": "10 Sep 1958",
+  "runtime": "86 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Irvin S. Yeaworth Jr., Russell S. Doughten Jr.",
+  "writer": "Theodore Simonson, Kay Linaker, Irvine H. Millgate",
+  "actors": "Steve McQueen, Aneta Corsaut, Earl Rowe",
+  "plot": "An alien lifeform consumes everything in its path as it grows and grows.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGIzMjdlZDMtMDYzMy00ZjE0LWIxZmMtZDFkOTBlNTY5ZmQ3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "68%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "6.3",
+  "imdbID": "tt0051418",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:24:23.875Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Rock-a-Bye Baby",
+  "year": "1958",
+  "rated": "Approved",
+  "released": "23 Jul 1958",
+  "runtime": "103 min",
+  "genre": "Comedy, Musical",
+  "director": "Frank Tashlin",
+  "writer": "Frank Tashlin, Preston Sturges",
+  "actors": "Jerry Lewis, Marilyn Maxwell, Connie Stevens",
+  "plot": "A TV repair man must care for the newborn triplets of his former hometown sweetheart, now a famous movie star, so her career will not suffer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTRkY2NkN2QtNmFlMy00ODUzLWE1NzYtMjQ0OGZmODUzMzJiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "63%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0052141",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:25:26.982Z"
+}

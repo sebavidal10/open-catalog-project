@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "596060471667111",
+  "title": "The Amazing Spider-Man #671",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Carlos Cuevas",
+    "Dan Buckley",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Ellie Pyle",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Stephen Wacker",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2011-10-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/20/asm-v2-671.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17251/",
+  "fetched_at": "2026-05-26T16:30:49.146Z",
+  "reviewed_at": null
+}

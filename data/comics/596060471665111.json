@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060471665111",
+  "title": "The Amazing Spider-Man #651",
+  "authors": [
+    "Alan Fine",
+    "Carlos Cuevas",
+    "Dan Buckley",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Ellie Pyle",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Joseph M. Damon",
+    "Stefano Caselli",
+    "Stephen Wacker",
+    "Tom Brennan"
+  ],
+  "publish_date": "2011-01-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/19/asm-v2-651.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17222/",
+  "fetched_at": "2026-05-26T16:25:55.847Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960604716169711",
+  "title": "The Amazing Spider-Man #697",
+  "authors": [
+    "Alan Fine",
+    "Antonio Fabela",
+    "Axel Alonso",
+    "Chris Eliopoulos",
+    "Christos N. Gage",
+    "Dan Buckley",
+    "Dan Green",
+    "Dan Slott",
+    "Ellie Pyle",
+    "Giuseppe Camuncoli",
+    "Joe Quesada",
+    "John Dell",
+    "Stephen Wacker",
+    "Steve McNiven"
+  ],
+  "publish_date": "2012-11-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/22/asm-v2-697.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17279/",
+  "fetched_at": "2026-05-26T16:36:47.570Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,39 @@
+{
+  "isbn": null,
+  "upc": "75960607912400111",
+  "title": "Superior Spider-Man #1",
+  "authors": [
+    "Adi Granov",
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Eliopoulos",
+    "Danny Miki",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Ed McGuinness",
+    "Ellie Pyle",
+    "Giuseppe Camuncoli",
+    "Humberto Ramos",
+    "Joe Quesada",
+    "John Dell",
+    "J. Scott Campbell",
+    "Manny Mederos",
+    "Mike Deodato",
+    "Rain Beredo",
+    "Richard Isanove",
+    "Ryan Stegman",
+    "Skottie Young",
+    "Stephen Wacker",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2013-01-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/05/superior-spider-man-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37616/",
+  "fetched_at": "2026-05-26T16:37:48.944Z",
+  "reviewed_at": null
+}

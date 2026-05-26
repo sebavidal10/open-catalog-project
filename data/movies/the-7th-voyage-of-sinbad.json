@@ -1,0 +1,31 @@
+{
+  "title": "The 7th Voyage of Sinbad",
+  "year": "1958",
+  "rated": "G",
+  "released": "23 Dec 1958",
+  "runtime": "88 min",
+  "genre": "Action, Adventure, Family",
+  "director": "Nathan Juran",
+  "writer": "Ken Kolb, Ray Harryhausen",
+  "actors": "Kerwin Mathews, Kathryn Grant, Richard Eyer",
+  "plot": "When a princess is shrunken by an evil wizard, Sinbad must undertake a quest to an island of monsters to cure her and prevent a war.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTQ2NjEwYzMtOGFjMy00MTU1LThjYmItODkyNmY1NGRiZWIzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0051337",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:24:36.241Z"
+}

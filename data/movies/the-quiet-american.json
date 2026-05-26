@@ -1,0 +1,31 @@
+{
+  "title": "The Quiet American",
+  "year": "1958",
+  "rated": "TV-PG",
+  "released": "08 Feb 1958",
+  "runtime": "122 min",
+  "genre": "Drama, Romance, Thriller",
+  "director": "Joseph L. Mankiewicz",
+  "writer": "Graham Greene, Joseph L. Mankiewicz",
+  "actors": "Audie Murphy, Michael Redgrave, Claude Dauphin",
+  "plot": "A young naive American and a cynical older British diplomat disagree over politics in 1952 Vietnam and over a beautiful young native girl.",
+  "language": "English, French, Vietnamese",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGM3ZWI5YTEtZDg2OS00MDc0LWIwZTUtYWIwMGJmMTAwZmQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0052106",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:26:30.271Z"
+}

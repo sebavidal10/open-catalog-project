@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "596060471665811",
+  "title": "The Amazing Spider-Man #658",
+  "authors": [
+    "Alan Fine",
+    "Alejandro Sicat",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dan Slott",
+    "Ellie Pyle",
+    "Fabio D'Auria",
+    "Javier Pulido",
+    "Javier Rodríguez",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Lee Garbett",
+    "Marko Djurdjević",
+    "Muntsa Vicente",
+    "Paul Renaud",
+    "Rob Williams",
+    "Stephen Wacker"
+  ],
+  "publish_date": "2011-04-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/19/asm-v2-658.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17229/",
+  "fetched_at": "2026-05-26T16:28:06.527Z",
+  "reviewed_at": null
+}

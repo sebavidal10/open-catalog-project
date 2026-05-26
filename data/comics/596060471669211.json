@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "596060471669211",
+  "title": "The Amazing Spider-Man #692",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Eliopoulos",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Dan Slott",
+    "Dean Haspiel",
+    "Edgar Delgado",
+    "Ellie Pyle",
+    "Giulia Brusco",
+    "Humberto Ramos",
+    "Joe Quesada",
+    "Joshua Hale Fialkov",
+    "J. Scott Campbell",
+    "Marcos Martín",
+    "Nuno Plati",
+    "Stephen Wacker",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2012-08-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/22/asm-v2-692.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17274/",
+  "fetched_at": "2026-05-26T16:35:19.557Z",
+  "reviewed_at": null
+}

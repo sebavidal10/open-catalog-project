@@ -1,0 +1,35 @@
+{
+  "title": "Darby O'Gill and the Little People",
+  "year": "1959",
+  "rated": "G",
+  "released": "22 Jun 1960",
+  "runtime": "93 min",
+  "genre": "Adventure, Family, Fantasy",
+  "director": "Robert Stevenson",
+  "writer": "Lawrence Edward Watkin, H.T. Kavanagh",
+  "actors": "Albert Sharpe, Janet Munro, Sean Connery",
+  "plot": "A wily old codger matches wits with the King of the Leprechauns and helps play matchmaker for his daughter and the strapping lad who has replaced him as caretaker.",
+  "language": "English, Irish Gaelic",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTJmYjM1M2YtMWI0NC00MzVlLWE2ZTMtZTdhYjZlYTkzY2UzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "7.1",
+  "imdbID": "tt0052722",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:36:31.937Z"
+}

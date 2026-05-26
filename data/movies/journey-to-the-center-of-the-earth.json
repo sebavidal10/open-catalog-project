@@ -1,0 +1,31 @@
+{
+  "title": "Journey to the Center of the Earth",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "01 Dec 1959",
+  "runtime": "129 min",
+  "genre": "Adventure, Family, Fantasy",
+  "director": "Henry Levin",
+  "writer": "Walter Reisch, Charles Brackett, Jules Verne",
+  "actors": "James Mason, Pat Boone, Arlene Dahl",
+  "plot": "An Edinburgh professor and assorted colleagues follow an explorer's trail down an extinct Icelandic volcano to the earth's center.",
+  "language": "English, Swedish, French, Italian, Russian, Icelandic",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTZmYWUzNTEtYjgzNy00YjNjLWIyMTAtMTQyZTIxYWRjOTA4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0052948",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:36:39.343Z"
+}

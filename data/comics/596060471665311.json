@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060471665311",
+  "title": "The Amazing Spider-Man #653",
+  "authors": [
+    "Alan Fine",
+    "Andres Mossa",
+    "Dan Buckley",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Ellie Pyle",
+    "Fred Van Lente",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Reilly Brown",
+    "Stefano Caselli",
+    "Stephen Wacker",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2011-02-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/19/asm-v2-653.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17224/",
+  "fetched_at": "2026-05-26T16:27:02.743Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "596060471668811",
+  "title": "The Amazing Spider-Man #688",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Ellie Pyle",
+    "Frank D'Armata",
+    "Giuseppe Camuncoli",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "J. Scott Campbell",
+    "Klaus Janson",
+    "Stephen Wacker"
+  ],
+  "publish_date": "2012-06-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/22/asm-v2-688.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17270/",
+  "fetched_at": "2026-05-26T16:34:27.013Z",
+  "reviewed_at": null
+}

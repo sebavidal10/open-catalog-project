@@ -1,0 +1,31 @@
+{
+  "title": "I Want to Live!",
+  "year": "1958",
+  "rated": "Approved",
+  "released": "03 Dec 1958",
+  "runtime": "120 min",
+  "genre": "Biography, Crime, Drama",
+  "director": "Robert Wise",
+  "writer": "Nelson Gidding, Don Mankiewicz, Ed Montgomery",
+  "actors": "Susan Hayward, Simon Oakland, Virginia Vincent",
+  "plot": "A prostitute sentenced to death for murder pleads her innocence.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 6 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY2MzMwNzgzNF5BMl5BanBnXkFtZTcwOTk2MTI0NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0051758",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:24:37.476Z"
+}

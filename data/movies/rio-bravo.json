@@ -1,0 +1,35 @@
+{
+  "title": "Rio Bravo",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "04 Apr 1959",
+  "runtime": "141 min",
+  "genre": "Western",
+  "director": "Howard Hawks",
+  "writer": "Jules Furthman, Leigh Brackett, B.H. McCampbell",
+  "actors": "John Wayne, Dean Martin, Ricky Nelson",
+  "plot": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "4 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmRiNWY3ZDQtZTJkNi00NjlkLWI3NTQtZDEzZTE0YmNhYTk2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "93/100"
+    }
+  ],
+  "metascore": "93",
+  "imdbRating": "8.0",
+  "imdbID": "tt0053221",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:36:35.627Z"
+}

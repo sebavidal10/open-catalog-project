@@ -1,0 +1,31 @@
+{
+  "title": "The Young Lions",
+  "year": "1958",
+  "rated": "Approved",
+  "released": "02 Apr 1958",
+  "runtime": "167 min",
+  "genre": "Action, Drama, War",
+  "director": "Edward Dmytryk",
+  "writer": "Edward Anhalt, Irwin Shaw",
+  "actors": "Marlon Brando, Montgomery Clift, Dean Martin",
+  "plot": "The lives of three young men, a German and two Americans, during WWII.",
+  "language": "English, French, German",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 1 win & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzUxMDM4M2QtOGFhNC00ZmUzLWFlNWYtZmFlNTUwZWMwYWEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0052415",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:24:32.524Z"
+}

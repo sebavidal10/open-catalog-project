@@ -1,0 +1,35 @@
+{
+  "title": "Anatomy of a Murder",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "13 Jul 1959",
+  "runtime": "161 min",
+  "genre": "Drama, Mystery",
+  "director": "Otto Preminger",
+  "writer": "Wendell Mayes, John D. Voelker",
+  "actors": "James Stewart, Lee Remick, Ben Gazzara",
+  "plot": "An upstate Michigan lawyer defends a soldier who claims he killed an innkeeper due to temporary insanity after the victim raped his wife. What is the truth and will he win his case?",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 7 Oscars. 10 wins & 18 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWRiNmViOGEtODY5OC00YTgxLWI3NjktZjBlOTBhM2ExNTU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "95/100"
+    }
+  ],
+  "metascore": "95",
+  "imdbRating": "8.0",
+  "imdbID": "tt0052561",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:36:36.866Z"
+}

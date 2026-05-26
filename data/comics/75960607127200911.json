@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607127200911",
+  "title": "Marvel Adventures Spider-Man #9",
+  "authors": [
+    "Alan Fine",
+    "Dan Buckley",
+    "Dave Sharpe",
+    "Edgar Delgado",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Mark Paniccia",
+    "Matteo Lolli",
+    "Mayela Gutierrez",
+    "Michael Horwitz",
+    "Nathan Cosby",
+    "Patrick Scherberger",
+    "Paul Tobin",
+    "Terry Pallot"
+  ],
+  "publish_date": "2010-12-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/29/794327.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156732/",
+  "fetched_at": "2026-05-26T16:26:28.464Z",
+  "reviewed_at": null
+}

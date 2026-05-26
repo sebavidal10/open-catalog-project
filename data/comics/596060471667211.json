@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "596060471667211",
+  "title": "The Amazing Spider-Man #672",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Ellie Pyle",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Karl Kesel",
+    "Stephen Wacker",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2011-10-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/20/asm-v2-672.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17252/",
+  "fetched_at": "2026-05-26T16:30:53.366Z",
+  "reviewed_at": null
+}

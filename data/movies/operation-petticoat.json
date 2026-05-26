@@ -1,0 +1,31 @@
+{
+  "title": "Operation Petticoat",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "24 Dec 1959",
+  "runtime": "124 min",
+  "genre": "Comedy, Romance, War",
+  "director": "Blake Edwards",
+  "writer": "Stanley Shapiro, Maurice Richlin, Paul King",
+  "actors": "Cary Grant, Tony Curtis, Joan O'Brien",
+  "plot": "During World War II, a commander finds himself stuck with a decrepit (and pink) submarine, a con man executive officer, and a group of army nurses.",
+  "language": "English, Filipino",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzg3Yzc4MzktYjUyNC00MTI3LWEwNjQtYTQ5ZDIxMTBhZjBhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0053143",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:36:47.952Z"
+}

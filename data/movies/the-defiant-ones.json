@@ -1,0 +1,35 @@
+{
+  "title": "The Defiant Ones",
+  "year": "1958",
+  "rated": "Approved",
+  "released": "27 Sep 1958",
+  "runtime": "96 min",
+  "genre": "Crime, Drama",
+  "director": "Stanley Kramer",
+  "writer": "Nedrick Young, Harold Jacob Smith",
+  "actors": "Tony Curtis, Sidney Poitier, Cara Williams",
+  "plot": "Two chained-together escaped convicts, one white and one black, must learn to get along in order to elude capture.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 16 wins & 21 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2RlOTA0MGQtNTg3Yi00NmRkLTgxNDAtYTFlMzQ3MzZmMTBlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.6",
+  "imdbID": "tt0051525",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:24:35.001Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Bonjour Tristesse",
+  "year": "1958",
+  "rated": "Not Rated",
+  "released": "01 Feb 1958",
+  "runtime": "94 min",
+  "genre": "Drama, Romance",
+  "director": "Otto Preminger",
+  "writer": "Arthur Laurents, Françoise Sagan",
+  "actors": "Jean Seberg, David Niven, Deborah Kerr",
+  "plot": "Spoiled Cecile, 17, spends her summer at the French Riviera with her rich, widower, playboy dad and Elsa. Anne, her late mom's friend, visits and brings changes to all.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 1 BAFTA Award2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAzOTY5NTU2NDJeQTJeQWpwZ15BbWU4MDAyNzMyMTAx._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0051429",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:24:47.318Z"
+}

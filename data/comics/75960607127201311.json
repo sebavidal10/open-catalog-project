@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960607127201311",
+  "title": "Marvel Adventures Spider-Man #13",
+  "authors": [
+    "Barry Kitson",
+    "Chris Sotomayor",
+    "Dave Sharpe",
+    "Paul Tobin",
+    "Roberto Di Salvo",
+    "Stephen Wacker",
+    "Terry Pallot"
+  ],
+  "publish_date": "2011-04-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/29/824325.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156736/",
+  "fetched_at": "2026-05-26T16:28:18.693Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "596060471666911",
+  "title": "The Amazing Spider-Man #669",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Carlos Cuevas",
+    "Dan Buckley",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Ellie Pyle",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Stephen Wacker"
+  ],
+  "publish_date": "2011-09-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/20/asm-v2-669.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17249/",
+  "fetched_at": "2026-05-26T16:30:23.437Z",
+  "reviewed_at": null
+}

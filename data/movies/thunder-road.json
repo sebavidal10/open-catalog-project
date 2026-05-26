@@ -1,0 +1,35 @@
+{
+  "title": "Thunder Road",
+  "year": "1958",
+  "rated": "Approved",
+  "released": "10 May 1958",
+  "runtime": "92 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Arthur Ripley",
+  "writer": "James Atlee Phillips, Walter Wise, Robert Mitchum",
+  "actors": "Robert Mitchum, Gene Barry, Jacques Aubuchon",
+  "plot": "A veteran comes home from the Korean War to the mountains and takes over the family moonshining business. He has to battle big-city gangsters who are trying to take over the business and the police who are trying to put him in pri...",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWMyMjJiZDEtY2Y0Ny00ZDkzLWFiNzMtY2UwZGFmMGFlMDBjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "6.6",
+  "imdbID": "tt0052293",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:25:03.381Z"
+}

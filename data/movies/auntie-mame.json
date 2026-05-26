@@ -1,0 +1,31 @@
+{
+  "title": "Auntie Mame",
+  "year": "1958",
+  "rated": "Approved",
+  "released": "27 Dec 1958",
+  "runtime": "143 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Morton DaCosta",
+  "writer": "Betty Comden, Adolph Green, Patrick Dennis",
+  "actors": "Rosalind Russell, Forrest Tucker, Coral Browne",
+  "plot": "An orphan goes to live with his free-spirited aunt. Conflict ensues when the executor of his father's estate objects to the aunt's lifestyle.",
+  "language": "English, French, Russian, Hindi",
+  "country": "United States",
+  "awards": "Nominated for 6 Oscars. 5 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGI1ODUyZTgtOWRmNy00YzBmLWFjODctOTE4ZTc4OGY5ZDRhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.9",
+  "imdbID": "tt0051383",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:24:44.859Z"
+}

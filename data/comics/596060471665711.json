@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "596060471665711",
+  "title": "The Amazing Spider-Man #657",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dan Slott",
+    "Ellie Pyle",
+    "Javier Rodríguez",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marcos Martín",
+    "Marte Gracia",
+    "Muntsa Vicente",
+    "Nuno Plati",
+    "Stefano Caselli",
+    "Stephen Wacker",
+    "Ty Templeton"
+  ],
+  "publish_date": "2011-03-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/19/asm-v2-657.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17228/",
+  "fetched_at": "2026-05-26T16:27:38.180Z",
+  "reviewed_at": null
+}

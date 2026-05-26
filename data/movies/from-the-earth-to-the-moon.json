@@ -1,0 +1,31 @@
+{
+  "title": "From the Earth to the Moon",
+  "year": "1958",
+  "rated": "Approved",
+  "released": "29 Mar 1964",
+  "runtime": "101 min",
+  "genre": "Adventure, Fantasy, Sci-Fi",
+  "director": "Byron Haskin",
+  "writer": "Robert Blees, James Leicester, Jules Verne",
+  "actors": "Joseph Cotten, George Sanders, Debra Paget",
+  "plot": "In 1868, American inventor Victor Barbicane develops a powerful military explosive that he also uses as fuel for a moon-bound rocket manned by himself and a motley crew.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjVmMzAyOTItMTBjNC00MzQzLWJiODgtZTZkNGEzZWU0ZjNmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.1",
+  "imdbID": "tt0051638",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:26:05.229Z"
+}

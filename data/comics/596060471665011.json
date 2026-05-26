@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "596060471665011",
+  "title": "The Amazing Spider-Man #650",
+  "authors": [
+    "Alan Fine",
+    "Carlos Cuevas",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Morry Hollowell",
+    "Neil Edwards",
+    "Scott Hanna",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2010-12-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/18/asm-v2-650.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17221/",
+  "fetched_at": "2026-05-26T16:25:51.988Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Lineup",
+  "year": "1958",
+  "rated": "Approved",
+  "released": "11 Jun 1958",
+  "runtime": "86 min",
+  "genre": "Crime, Drama, Film-Noir",
+  "director": "Don Siegel",
+  "writer": "Stirling Silliphant, Fred Eggers, Lawrence M. Klee",
+  "actors": "Eli Wallach, Robert Keith, Richard Jaeckel",
+  "plot": "In San Francisco, a psychopathic gangster and his mentor retrieve heroin packages carried to the U. S. by unsuspecting overseas travelers.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGUxNjc0YzAtODExYy00YWYyLThkMGMtMjY2NGNiMmQyZjRmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0051866",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:25:09.551Z"
+}

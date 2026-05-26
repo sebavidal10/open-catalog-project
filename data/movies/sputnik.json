@@ -1,0 +1,27 @@
+{
+  "title": "Sputnik",
+  "year": "1958",
+  "rated": "N/A",
+  "released": "27 Aug 1958",
+  "runtime": "110 min",
+  "genre": "Comedy",
+  "director": "Jean Dréville",
+  "writer": "Jacques Grello, Noël-Noël, Robert Rocca",
+  "actors": "Noël-Noël, Denise Grey, Francis Blanche",
+  "plot": "In USSR ,Monsieur Martin had a dreadful flight.",
+  "language": "French",
+  "country": "France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODUzMWEzYTUtYmE0ZS00YzY4LThkYzAtMjRmNGQwOTk3NmQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.3",
+  "imdbID": "tt0052232",
+  "type": "movie",
+  "fetched_at": "2026-05-26T16:35:41.422Z"
+}

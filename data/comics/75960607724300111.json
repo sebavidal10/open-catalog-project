@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960607724300111",
+  "title": "Amazing Fantasy #15: Spider-Man! #1",
+  "authors": [
+    "Artie Simek",
+    "Dean White",
+    "Jean-Francois Beaulieu",
+    "John Duffy",
+    "Jon D'Agostino",
+    "Stan Lee",
+    "Steve Ditko"
+  ],
+  "publish_date": "2012-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/05/23/2818654-amazing_fantasy___spider_man_015__2012__pagecover.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/170577/",
+  "fetched_at": "2026-05-26T16:32:57.786Z",
+  "reviewed_at": "2012-05-01"
+}
