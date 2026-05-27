@@ -1,0 +1,35 @@
+{
+  "title": "Porgy and Bess",
+  "year": "1959",
+  "rated": "Not Rated",
+  "released": "14 Oct 1959",
+  "runtime": "138 min",
+  "genre": "Drama, Musical, Romance",
+  "director": "Otto Preminger, Rouben Mamoulian",
+  "writer": "Dorothy Heyward, DuBose Heyward, N. Richard Nash",
+  "actors": "Sidney Poitier, Dorothy Dandridge, Sammy Davis Jr.",
+  "plot": "A woman whose past is scorned by nearly everyone around her meets a man who'd love her regardlessly- if only everyone else would allow them to.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 4 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2ZjNTcyYTYtNWI0OC00NjkyLTlkNjktMjhlMTQ2MzNlM2U5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.0",
+  "imdbID": "tt0053182",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:18:23.188Z"
+}

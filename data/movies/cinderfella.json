@@ -1,0 +1,31 @@
+{
+  "title": "Cinderfella",
+  "year": "1960",
+  "rated": "Not Rated",
+  "released": "18 Dec 1960",
+  "runtime": "91 min",
+  "genre": "Comedy, Family, Fantasy",
+  "director": "Frank Tashlin",
+  "writer": "Frank Tashlin, Jerry Lewis, Joe Besser",
+  "actors": "Jerry Lewis, Ed Wynn, Judith Anderson",
+  "plot": "A gender-swapped retelling of Charles Perrault's classic, where Cinderfella is visited by a fairy godfather to help him escape from his wicked stepmother and stepbrothers.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDI4NDYzMjEtZDc1My00YjYwLWJmMWEtMmI4YzFiNTM3NjdkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0053716",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:30:58.843Z"
+}

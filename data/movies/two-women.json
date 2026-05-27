@@ -1,0 +1,31 @@
+{
+  "title": "Two Women",
+  "year": "1960",
+  "rated": "Not Rated",
+  "released": "09 May 1961",
+  "runtime": "101 min",
+  "genre": "Drama, War",
+  "director": "Vittorio De Sica",
+  "writer": "Alberto Moravia, Cesare Zavattini",
+  "actors": "Sophia Loren, Jean-Paul Belmondo, Raf Vallone",
+  "plot": "In WWII Italy, a widow and her lonely daughter seek distance between themselves and the horrors of war.",
+  "language": "Italian, German, English",
+  "country": "Italy, France",
+  "awards": "Won 1 Oscar. 11 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTAxNmNlNzctM2ZkZi00ZTdlLWI3NzctZGEwOGU0N2I2NGJmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0054749",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:30:12.886Z"
+}

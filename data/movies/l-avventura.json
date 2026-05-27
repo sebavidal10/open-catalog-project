@@ -1,0 +1,31 @@
+{
+  "title": "L'Avventura",
+  "year": "1960",
+  "rated": "Not Rated",
+  "released": "04 Mar 1961",
+  "runtime": "144 min",
+  "genre": "Drama, Mystery, Romance",
+  "director": "Michelangelo Antonioni",
+  "writer": "Michelangelo Antonioni, Elio Bartolini, Tonino Guerra",
+  "actors": "Gabriele Ferzetti, Monica Vitti, Lea Massari",
+  "plot": "A woman disappears during a Mediterranean boating trip. During the search, her lover and her best friend become attracted to each other.",
+  "language": "Italian, English, Greek",
+  "country": "Italy, France",
+  "awards": "Nominated for 2 BAFTA 6 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWExNWNkZTUtZjYzNi00NTAyLTk3YzAtNzcxNTRmZDExZTljXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0053619",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:30:02.956Z"
+}

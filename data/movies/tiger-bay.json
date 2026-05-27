@@ -1,0 +1,31 @@
+{
+  "title": "Tiger Bay",
+  "year": "1959",
+  "rated": "Not Rated",
+  "released": "14 Dec 1959",
+  "runtime": "105 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "J. Lee Thompson",
+  "writer": "Noël Calef, John Hawkesworth, Shelley Smith",
+  "actors": "Hayley Mills, Horst Buchholz, John Mills",
+  "plot": "A twelve-year-old tomboy witnesses the murder of a woman by her Polish merchant marine boyfriend, but bonds with him and thwarts the police in their investigation.",
+  "language": "English, Polish, Spanish",
+  "country": "United Kingdom",
+  "awards": "Won 1 BAFTA Award2 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzE0YzkyMzEtMjYzZi00ZmY1LWI4MTctMDYzY2FjMmY5MmE3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0053361",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:18:26.881Z"
+}

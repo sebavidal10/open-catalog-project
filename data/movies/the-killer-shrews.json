@@ -1,0 +1,31 @@
+{
+  "title": "The Killer Shrews",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "06 Apr 1962",
+  "runtime": "69 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Ray Kellogg",
+  "writer": "Jay Simms",
+  "actors": "James Best, Ingrid Goude, Ken Curtis",
+  "plot": "On an isolated island, a small group of people is terrorized by giant voracious shrews during a hurricane.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTg3ZDkzMWQtMDBhZC00M2VhLTljYWEtMTMwMDcwMjA4ZDVmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.1",
+  "imdbID": "tt0052969",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:18:47.925Z"
+}

@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960607985800511",
+  "title": "The Amazing Spider-Man #700.5",
+  "authors": [
+    "Alan Fine",
+    "Alejandro Arbona",
+    "Axel Alonso",
+    "Brian Reed",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "InHyuk Lee",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Kevin Grevioux",
+    "Lee Weeks",
+    "Morry Hollowell",
+    "Pasqual Ferry",
+    "Rico Renzi",
+    "Sandu Florea",
+    "Sean Chen",
+    "Sergio Cariello",
+    "Stephen Wacker",
+    "Tom Brennan"
+  ],
+  "publish_date": "2013-12-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/22/asm-v2-700-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17289/",
+  "fetched_at": "2026-05-27T17:28:40.016Z",
+  "reviewed_at": null
+}

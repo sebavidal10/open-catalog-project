@@ -1,0 +1,31 @@
+{
+  "title": "Dinosaurus!",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "10 Aug 1960",
+  "runtime": "83 min",
+  "genre": "Adventure, Comedy, Fantasy",
+  "director": "Irvin S. Yeaworth Jr.",
+  "writer": "Jack H. Harris, Dan E. Weisburd, Jean Yeaworth",
+  "actors": "Ward Ramsey, Kristina Hanson, Paul Lukather",
+  "plot": "After undersea explosions near a Caribbean island, prehistoric creatures are unleashed on the population. A boy teams up with a Neanderthal and an irritated dinosaur try to stop the dinosaurs.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzFkNzVhODEtYmFmNy00NGY2LTlkOGQtMzBhMjk2YjZlMmQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.9",
+  "imdbID": "tt0053768",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:30:53.900Z"
+}

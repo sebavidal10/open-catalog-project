@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960607985800111",
+  "title": "The Amazing Spider-Man #700.1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "David Morrell",
+    "Dean White",
+    "Fred Van Lente",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Joe Sabino",
+    "John Romita Jr.",
+    "Klaus Janson",
+    "Lee Loughridge",
+    "Morry Hollowell",
+    "Nate Piekos",
+    "Pasqual Ferry",
+    "Stephen Wacker",
+    "Steve Buccellato",
+    "Tom Brennan"
+  ],
+  "publish_date": "2013-12-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/22/asm-v2-700-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17285/",
+  "fetched_at": "2026-05-27T17:28:24.262Z",
+  "reviewed_at": null
+}

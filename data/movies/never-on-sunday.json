@@ -1,0 +1,31 @@
+{
+  "title": "Never on Sunday",
+  "year": "1960",
+  "rated": "Not Rated",
+  "released": "01 Oct 1960",
+  "runtime": "97 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Jules Dassin",
+  "writer": "Jules Dassin",
+  "actors": "Melina Mercouri, Jules Dassin, Giorgos Foundas",
+  "plot": "An American scholar in Greece sets about improving the prostitute with whom he is infatuated.",
+  "language": "English, Greek, Russian",
+  "country": "Greece",
+  "awards": "Won 1 Oscar. 3 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjY2MzNhOTUtNDFiZi00OGIxLWJiMzEtZTY5YmNkN2VkM2EwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0054198",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:30:35.437Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Young Philadelphians",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "30 May 1959",
+  "runtime": "136 min",
+  "genre": "Drama",
+  "director": "Vincent Sherman",
+  "writer": "James Gunn, Richard P. Powell",
+  "actors": "Paul Newman, Barbara Rush, Alexis Smith",
+  "plot": "A promising lawyer tries to handle his social and professional problems while climbing the ranks in Philadelphia.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzIwNmVlMzAtMzM3MC00OTczLWI0YWQtNjI4M2QyYjMxZDZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0053462",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:18:36.790Z"
+}

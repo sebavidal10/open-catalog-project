@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607901801311",
+  "title": "The Amazing Spider-Man #13",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Cam Smith",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Ellie Pyle",
+    "Giuseppe Camuncoli",
+    "Joe Quesada",
+    "Justin Ponsor",
+    "Nick Lowe",
+    "Olivier Coipel",
+    "Wade von Grawbadger"
+  ],
+  "publish_date": "2015-01-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/25/asm-v3-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17323/",
+  "fetched_at": "2026-05-27T17:36:04.793Z",
+  "reviewed_at": null
+}

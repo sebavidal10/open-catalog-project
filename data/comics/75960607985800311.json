@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960607985800311",
+  "title": "The Amazing Spider-Man #700.3",
+  "authors": [
+    "Alan Fine",
+    "Andres Mossa",
+    "Axel Alonso",
+    "Brad Simpson",
+    "Dan Buckley",
+    "Ellie Pyle",
+    "Emma Ríos",
+    "Jen Van Meter",
+    "Joe Caramagna",
+    "Joe Casey",
+    "Joe Quesada",
+    "Joe Quinones",
+    "Jordie Bellaire",
+    "Pasqual Ferry",
+    "Stephen Wacker",
+    "Timothy Green II",
+    "Tom Brennan",
+    "Walden Wong"
+  ],
+  "publish_date": "2013-12-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/22/asm-v2-700-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17287/",
+  "fetched_at": "2026-05-27T17:28:32.184Z",
+  "reviewed_at": null
+}

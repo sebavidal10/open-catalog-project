@@ -1,0 +1,31 @@
+{
+  "title": "The Great War",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "28 Oct 1959",
+  "runtime": "137 min",
+  "genre": "Comedy, Drama, War",
+  "director": "Mario Monicelli",
+  "writer": "Agenore Incrocci, Furio Scarpelli, Luciano Vincenzoni",
+  "actors": "Alberto Sordi, Vittorio Gassman, Bernard Blier",
+  "plot": "The Italian Army fought against the Austrians during World War I.",
+  "language": "Italian, German",
+  "country": "Italy, France",
+  "awards": "Nominated for 1 Oscar. 6 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTY0Y2FjMjUtZmMzZS00MDQ3LWJjY2MtN2M0NTQ3ZGIxYjdjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.1",
+  "imdbID": "tt0052861",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:19:57.938Z"
+}

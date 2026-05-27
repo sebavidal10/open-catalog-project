@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960607901801411",
+  "title": "The Amazing Spider-Man #14",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Cam Smith",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Ellie Pyle",
+    "Giuseppe Camuncoli",
+    "Joe Quesada",
+    "John Livesay",
+    "Justin Ponsor",
+    "Nick Lowe",
+    "Olivier Coipel",
+    "Wade von Grawbadger"
+  ],
+  "publish_date": "2015-02-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/25/asm-v3-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17324/",
+  "fetched_at": "2026-05-27T17:36:32.178Z",
+  "reviewed_at": null
+}

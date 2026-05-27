@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960607901801511",
+  "title": "The Amazing Spider-Man #15",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Cam Smith",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Giuseppe Camuncoli",
+    "Joe Quesada",
+    "Justin Ponsor",
+    "Nick Lowe",
+    "Roberto Poggi"
+  ],
+  "publish_date": "2015-02-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/25/asm-v3-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17325/",
+  "fetched_at": "2026-05-27T17:36:36.019Z",
+  "reviewed_at": null
+}

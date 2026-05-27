@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960607985800411",
+  "title": "The Amazing Spider-Man #700.4",
+  "authors": [
+    "Alan Fine",
+    "Andres Mossa",
+    "Axel Alonso",
+    "Brad Simpson",
+    "Clay McLeod Chapman",
+    "Dan Buckley",
+    "Ellie Pyle",
+    "Javier Rodríguez",
+    "Joe Caramagna",
+    "Joe Casey",
+    "Joe Quesada",
+    "John Tyler Christopher",
+    "Pasqual Ferry",
+    "Stephen Wacker",
+    "Timothy Green II",
+    "Tom Brennan",
+    "Walden Wong"
+  ],
+  "publish_date": "2013-12-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/22/asm-v2-700-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17288/",
+  "fetched_at": "2026-05-27T17:28:36.040Z",
+  "reviewed_at": null
+}

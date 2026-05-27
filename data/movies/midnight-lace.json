@@ -1,0 +1,35 @@
+{
+  "title": "Midnight Lace",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "25 Nov 1960",
+  "runtime": "103 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "David Miller",
+  "writer": "Ivan Goff, Ben Roberts, Janet Green",
+  "actors": "Doris Day, Rex Harrison, John Gavin",
+  "plot": "In London, a recently-wed American woman's sanity comes into question after she claims to be the victim of a threatening stalker.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTg0ZjJiMWQtZjZmNS00MzdhLTkzNzYtODcwNzY4ZjczZjhiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "6.8",
+  "imdbID": "tt0054084",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:30:48.983Z"
+}

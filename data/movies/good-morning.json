@@ -1,0 +1,35 @@
+{
+  "title": "Good Morning",
+  "year": "1959",
+  "rated": "Not Rated",
+  "released": "01 Feb 1962",
+  "runtime": "94 min",
+  "genre": "Comedy, Drama, Family",
+  "director": "Yasujirô Ozu",
+  "writer": "Kôgo Noda, Yasujirô Ozu",
+  "actors": "Keiji Sada, Yoshiko Kuga, Chishû Ryû",
+  "plot": "Two boys begin a silence strike to press their parents into buying them a television set.",
+  "language": "Japanese, English",
+  "country": "Japan",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTEwZjUwMjctMmNkMi00YTQxLWFlOTUtZDBhYjVjOTZhMmE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.8",
+  "imdbID": "tt0053134",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:18:10.765Z"
+}

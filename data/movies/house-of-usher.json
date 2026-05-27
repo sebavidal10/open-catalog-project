@@ -1,0 +1,35 @@
+{
+  "title": "House of Usher",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "23 Sep 1960",
+  "runtime": "79 min",
+  "genre": "Drama, Horror",
+  "director": "Roger Corman",
+  "writer": "Edgar Allan Poe, Richard Matheson",
+  "actors": "Vincent Price, Mark Damon, Myrna Fahey",
+  "plot": "Upon entering his fiancée's family mansion, a man discovers a savage family curse and fears that his future brother-in-law has entombed his bride-to-be prematurely.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjA1ZTRmYjYtMTE0MC00ZGQzLWE3YjctNWQ1MzNkMTRjZjZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "6.9",
+  "imdbID": "tt0053925",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:30:31.626Z"
+}

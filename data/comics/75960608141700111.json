@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608141700111",
+  "title": "The Amazing Spider-Man #16.1",
+  "authors": [
+    "Alan Fine",
+    "Arthur Adams",
+    "Axel Alonso",
+    "Carlo Barberi",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Gerry Conway",
+    "Israel Silva",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Juan Vlasco",
+    "Nick Lowe",
+    "Simone Bianchi",
+    "Sonia Oback"
+  ],
+  "publish_date": "2015-03-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/27/asm-v3-16-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17351/",
+  "fetched_at": "2026-05-27T17:37:01.523Z",
+  "reviewed_at": null
+}

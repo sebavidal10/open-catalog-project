@@ -1,0 +1,35 @@
+{
+  "title": "Exodus",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "02 Jan 1961",
+  "runtime": "208 min",
+  "genre": "Action, Drama, War",
+  "director": "Otto Preminger",
+  "writer": "Dalton Trumbo, Leon Uris",
+  "actors": "Paul Newman, Eva Marie Saint, Ralph Richardson",
+  "plot": "The State of Israel is created in 1948, resulting in war with its Arab neighbors.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 5 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk4NjMxNjcyOV5BMl5BanBnXkFtZTgwNDAwNTIxMDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "65%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "6.7",
+  "imdbID": "tt0053804",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:30:05.444Z"
+}

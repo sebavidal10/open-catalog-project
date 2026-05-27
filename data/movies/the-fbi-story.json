@@ -1,0 +1,31 @@
+{
+  "title": "The FBI Story",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "01 Oct 1959",
+  "runtime": "149 min",
+  "genre": "Crime, Drama, History",
+  "director": "Mervyn LeRoy",
+  "writer": "Richard L. Breen, John Twist, Don Whitehead",
+  "actors": "James Stewart, Vera Miles, Murray Hamilton",
+  "plot": "A dedicated FBI agent recalls the agency's battles against the Klan, organized crime and Communist spies.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDk5NjE5YWMtNzg2ZS00YTFhLThhZmItYzVkMjQ4YjhiNzNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0052792",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:19:31.376Z"
+}

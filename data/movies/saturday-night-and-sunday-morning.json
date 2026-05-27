@@ -1,0 +1,31 @@
+{
+  "title": "Saturday Night and Sunday Morning",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "03 Apr 1961",
+  "runtime": "89 min",
+  "genre": "Drama, Romance",
+  "director": "Karel Reisz",
+  "writer": "Alan Sillitoe",
+  "actors": "Albert Finney, Shirley Anne Field, Rachel Roberts",
+  "plot": "A rebellious, hard-living factory worker juggles relationships with two women, one of whom is married to another man but pregnant with his child.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Won 3 BAFTA 10 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTIwZTc0ODgtOGJhOS00ZWQ0LWIyNTQtN2FlNWIyMzQ5ZDEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0054269",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:31:01.317Z"
+}

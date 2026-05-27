@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608248300111",
+  "title": "The Amazing Spider-Man Special #1",
+  "authors": [
+    "Adam Kubert",
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Jamal Campbell",
+    "Jeff Loveness",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Luca Pizzari",
+    "Nick Lowe",
+    "Nolan Woodard",
+    "Sonia Oback"
+  ],
+  "publish_date": "2015-03-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/12/14/c262c699ef1a4a2184b4c92e517aeb68.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131783/",
+  "fetched_at": "2026-05-27T17:37:18.626Z",
+  "reviewed_at": null
+}

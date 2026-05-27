@@ -1,0 +1,27 @@
+{
+  "title": "The Hangman",
+  "year": "1959",
+  "rated": "Not Rated",
+  "released": "17 Jun 1959",
+  "runtime": "87 min",
+  "genre": "Drama, Western",
+  "director": "Michael Curtiz",
+  "writer": "W.R. Burnett, Dudley Nichols, Luke Short",
+  "actors": "Robert Taylor, Tina Louise, Fess Parker",
+  "plot": "U.S. Marshal Bovard comes to a small border town to identify and arrest a fugitive, but the whole town seems determined to prevent the Marshal from doing his job.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTMwNmZmMjMtNmI0NC00Y2UyLTliNTEtY2M1YjRmM2IyZmVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0052877",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:19:42.570Z"
+}

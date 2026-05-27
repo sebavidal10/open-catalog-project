@@ -1,0 +1,31 @@
+{
+  "title": "Peeping Tom",
+  "year": "1960",
+  "rated": "Not Rated",
+  "released": "16 May 1960",
+  "runtime": "101 min",
+  "genre": "Drama, Horror, Thriller",
+  "director": "Michael Powell",
+  "writer": "Leo Marks",
+  "actors": "Karlheinz Böhm, Anna Massey, Moira Shearer",
+  "plot": "A young man murders women, using a movie camera to film their dying expressions of terror.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTkwYmQyZmMtYmZkMi00NTlhLTlhNmUtMDBmYzQ1YWIxNDBiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0054167",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:29:42.765Z"
+}

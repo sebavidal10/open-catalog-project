@@ -1,0 +1,31 @@
+{
+  "title": "Beast from Haunted Cave",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "30 Oct 1959",
+  "runtime": "72 min",
+  "genre": "Crime, Horror, Thriller",
+  "director": "Monte Hellman",
+  "writer": "Charles B. Griffith",
+  "actors": "Michael Forest, Sheila Noonan, Frank Wolff",
+  "plot": "A group of gold thieves pull of a heist and flee into the snowy wilderness, only to be pursued by a horrible, spider-like monster.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYwNTIxOTMxMF5BMl5BanBnXkFtZTgwNzQ3MDgxMDI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.3",
+  "imdbID": "tt0052609",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:19:00.319Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "First Spaceship on Venus",
+  "year": "1960",
+  "rated": "Unrated",
+  "released": "31 Oct 1962",
+  "runtime": "79 min",
+  "genre": "Sci-Fi",
+  "director": "Kurt Maetzig",
+  "writer": "Stanislaw Lem, Jan Fethke, Wolfgang Kohlhaase",
+  "actors": "Yôko Tani, Oldrich Lukes, Ignacy Machowski",
+  "plot": "When an alien artifact discovered on Earth is found to have come from Venus, an international team of astronauts embarks to investigate its origins.",
+  "language": "German",
+  "country": "East Germany, Poland",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTMxMTlhYzgtMmU0ZC00MTZmLTg1ZTktOTc4Y2YxNDRkZTdlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.6",
+  "imdbID": "tt0053250",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:31:06.227Z"
+}

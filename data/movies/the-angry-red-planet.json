@@ -1,0 +1,31 @@
+{
+  "title": "The Angry Red Planet",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "23 Nov 1959",
+  "runtime": "83 min",
+  "genre": "Adventure, Horror, Sci-Fi",
+  "director": "Ib Melchior",
+  "writer": "Ib Melchior, Sidney W. Pink",
+  "actors": "Gerald Mohr, Nora Hayden, Les Tremayne",
+  "plot": "One of only two survivors from a Martian expedition is so traumatized she doesn't remember the circumstances of the trip.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTg4NGM2NjMtYzAzNS00MjQ0LWI2NmYtNTJhNDEzMTM5YWFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "0%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.3",
+  "imdbID": "tt0052564",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:19:16.529Z"
+}

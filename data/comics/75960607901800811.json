@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960607901800811",
+  "title": "The Amazing Spider-Man #8",
+  "authors": [
+    "Alan Fine",
+    "Antonio Fabela",
+    "Axel Alonso",
+    "Cam Smith",
+    "Chris Eliopoulos",
+    "Christos N. Gage",
+    "Dan Buckley",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Ellie Pyle",
+    "Giuseppe Camuncoli",
+    "Humberto Ramos",
+    "Joe Quesada",
+    "J. Scott Campbell",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Ryan Ottley",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2014-10-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/25/asm-v3-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17318/",
+  "fetched_at": "2026-05-27T17:34:38.639Z",
+  "reviewed_at": null
+}

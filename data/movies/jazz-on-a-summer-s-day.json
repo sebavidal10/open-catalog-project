@@ -1,0 +1,31 @@
+{
+  "title": "Jazz on a Summer's Day",
+  "year": "1959",
+  "rated": "Not Rated",
+  "released": "11 Feb 1960",
+  "runtime": "88 min",
+  "genre": "Documentary, Music",
+  "director": "Bert Stern, Aram Avakian",
+  "writer": "Albert D'Annibale, Arnold Perl",
+  "actors": "Louis Armstrong, Mahalia Jackson, Chuck Berry",
+  "plot": "The highlights of the 1958 Newport Jazz Festival.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODNiODM0MzAtMmJmMS00NTNkLTg2OGYtMDlmZjg3ZTdiMGRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.9",
+  "imdbID": "tt0052942",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:21:17.118Z"
+}

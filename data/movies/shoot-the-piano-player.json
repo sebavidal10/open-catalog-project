@@ -1,0 +1,31 @@
+{
+  "title": "Shoot the Piano Player",
+  "year": "1960",
+  "rated": "Not Rated",
+  "released": "23 Jul 1962",
+  "runtime": "92 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "François Truffaut",
+  "writer": "David Goodis, François Truffaut, Marcel Moussy",
+  "actors": "Charles Aznavour, Marie Dubois, Nicole Berger",
+  "plot": "A pianist helps his brother escape from two gangsters, who retaliate by abducting their kid brother.",
+  "language": "French, English",
+  "country": "France",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTNjYTcxZjEtOWE1ZC00YTY0LThmMjctMDM1OGExOGEzYTVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0054389",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:29:45.581Z"
+}

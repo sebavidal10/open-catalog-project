@@ -1,0 +1,31 @@
+{
+  "title": "The Sound and the Fury",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "06 Apr 1959",
+  "runtime": "110 min",
+  "genre": "Drama",
+  "director": "Martin Ritt",
+  "writer": "Irving Ravetch, Harriet Frank Jr., William Faulkner",
+  "actors": "Yul Brynner, Joanne Woodward, Margaret Leighton",
+  "plot": "Drama focusing on a family of Southern aristocrats who are trying to deal with the dissolution of their clan and the loss of its reputation, faith, fortunes, and respect.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjc5NjUzNjItMGVjZC00NGFjLTkxYjEtYWNkZmMzOGQ3YmI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0053298",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:19:45.060Z"
+}

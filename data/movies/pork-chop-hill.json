@@ -1,0 +1,31 @@
+{
+  "title": "Pork Chop Hill",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "14 Jun 1959",
+  "runtime": "97 min",
+  "genre": "Drama, War",
+  "director": "Lewis Milestone",
+  "writer": "S.L.A. Marshall, James R. Webb",
+  "actors": "Gregory Peck, Harry Guardino, Rip Torn",
+  "plot": "During the Korean War peace talks in Panmunjom, U.S. troops fight and die trying to retake a worthless hill from the Communist Chinese forces.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjhhNDU4ZGEtZTdkYS00MzhkLTk4M2QtYzFiOTEyYWExZjBhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0053183",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:18:24.417Z"
+}

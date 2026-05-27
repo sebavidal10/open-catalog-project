@@ -1,0 +1,31 @@
+{
+  "title": "The Unforgiven",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "06 Apr 1960",
+  "runtime": "125 min",
+  "genre": "Drama, Romance, Western",
+  "director": "John Huston",
+  "writer": "Ben Maddow, Alan Le May",
+  "actors": "Burt Lancaster, Audrey Hepburn, Audie Murphy",
+  "plot": "The neighbors of a frontier family turn on them when it is suspected that their adopted daughter was stolen from the local Kiowa tribe.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmNlNmQzMWEtNjQ4NS00NGIwLWE2YTEtZDc1YzQ2ODhkNTJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0054428",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:30:15.377Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Ballad of a Soldier",
+  "year": "1959",
+  "rated": "Not Rated",
+  "released": "26 Dec 1960",
+  "runtime": "88 min",
+  "genre": "Drama, Romance, War",
+  "director": "Grigoriy Chukhray",
+  "writer": "Grigoriy Chukhray, Valentin Yezhov",
+  "actors": "Vladimir Ivashov, Zhanna Prokhorenko, Antonina Maksimova",
+  "plot": "Young Russian soldier Alyosha earns a medal, but asks to visit his mother instead. His journey recounts various kinds of love during wartime.",
+  "language": "Russian, Ukrainian",
+  "country": "Soviet Union",
+  "awards": "Nominated for 1 Oscar. 6 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjYxMjg5YWUtNmU0OS00YjU1LTlkZDAtMmNjM2MxODQ2NjcxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.2",
+  "imdbID": "tt0052600",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:18:46.694Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "4D Man",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "07 Oct 1959",
+  "runtime": "85 min",
+  "genre": "Action, Horror, Romance",
+  "director": "Irvin S. Yeaworth Jr.",
+  "writer": "Theodore Simonson, Cy Chermak, Jack H. Harris",
+  "actors": "Robert Lansing, Lee Meriwether, James Congdon",
+  "plot": "A scientist discovers a formula enabling him to pass through solid surfaces, but he also rapidly ages, which forces him to kill humans in order to reverse the aging process by absorbing his victims' energies.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzg5ZTJkMmUtY2QzOS00NGJlLTkxOWUtMjg0NWE0N2QxNzc0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0052530",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:20:38.746Z"
+}

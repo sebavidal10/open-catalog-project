@@ -1,0 +1,35 @@
+{
+  "title": "BUtterfield 8",
+  "year": "1960",
+  "rated": "Not Rated",
+  "released": "04 Nov 1960",
+  "runtime": "109 min",
+  "genre": "Drama, Romance",
+  "director": "Daniel Mann",
+  "writer": "John O'Hara, Charles Schnee, John Michael Hayes",
+  "actors": "Elizabeth Taylor, Laurence Harvey, Eddie Fisher",
+  "plot": "A beautiful New York model and socialite enjoys a very active night-life, but all things change when she falls for a married man and the consequences are tragic.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 1 win & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzEzNjJmOWItODEzZC00NmFiLTgyMzQtNTJhNDk1ZDAzZTJiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "47%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "48/100"
+    }
+  ],
+  "metascore": "48",
+  "imdbRating": "6.3",
+  "imdbID": "tt0053622",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:30:21.632Z"
+}

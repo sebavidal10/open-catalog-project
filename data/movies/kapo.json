@@ -1,0 +1,31 @@
+{
+  "title": "Kapo",
+  "year": "1960",
+  "rated": "N/A",
+  "released": "29 Sep 1960",
+  "runtime": "116 min",
+  "genre": "Drama, War",
+  "director": "Gillo Pontecorvo",
+  "writer": "Franco Solinas, Gillo Pontecorvo, Suso Cecchi D'Amico",
+  "actors": "Susan Strasberg, Laurent Terzieff, Emmanuelle Riva",
+  "plot": "A young Jewish girl leads an escape attempt from a concentration camp.",
+  "language": "Italian, German, Russian, Polish",
+  "country": "Italy, France, Yugoslavia",
+  "awards": "Nominated for 1 Oscar. 3 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTU1N2JiNjMtMTljMC00ZTEzLTg0ZTQtMDY5MjZjNmQzNDc2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0052961",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:30:57.596Z"
+}

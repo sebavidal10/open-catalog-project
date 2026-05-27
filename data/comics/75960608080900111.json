@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608080900111",
+  "title": "Amazing Spider-Man Annual #1",
+  "authors": [
+    "Alan Fine",
+    "Antonio Fabela",
+    "Axel Alonso",
+    "Brandon Peterson",
+    "Cale Atkinson",
+    "Dan Buckley",
+    "Ellie Pyle",
+    "Jai Nitz",
+    "Joe Quesada",
+    "Nick Lowe",
+    "Rico Renzi",
+    "Ron Salas",
+    "Sean Ryan",
+    "Simone Bianchi",
+    "Travis Lanham"
+  ],
+  "publish_date": "2014-12-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/15/The_Amazing_Spider-Man_Annual_01-000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131735/",
+  "fetched_at": "2026-05-27T17:35:42.532Z",
+  "reviewed_at": null
+}

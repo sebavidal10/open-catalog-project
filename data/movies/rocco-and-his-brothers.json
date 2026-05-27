@@ -1,0 +1,35 @@
+{
+  "title": "Rocco and His Brothers",
+  "year": "1960",
+  "rated": "Not Rated",
+  "released": "10 Mar 1961",
+  "runtime": "179 min",
+  "genre": "Crime, Drama, Sport",
+  "director": "Luchino Visconti",
+  "writer": "Luchino Visconti, Suso Cecchi D'Amico, Vasco Pratolini",
+  "actors": "Alain Delon, Renato Salvatori, Annie Girardot",
+  "plot": "Having recently been uprooted to Milan, Rocco and his four brothers each look for a new way in life when a prostitute comes between Rocco and his brother Simone.",
+  "language": "Italian",
+  "country": "Italy, France",
+  "awards": "Nominated for 2 BAFTA 10 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTkyMjczYWUtZjFiMi00YWNlLWJlYjctNzc3YmM5YjVhY2UyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "8.2",
+  "imdbID": "tt0054248",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:30:07.927Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "A Bucket of Blood",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "21 Oct 1959",
+  "runtime": "66 min",
+  "genre": "Comedy, Crime, Horror",
+  "director": "Roger Corman",
+  "writer": "Charles B. Griffith",
+  "actors": "Dick Miller, Barboura Morris, Antony Carbone",
+  "plot": "A dimwitted busboy at a beatnik cafe passes off a cat he accidentally killed and covered in plaster as a sculpture, prompting a demand for more art that compels him to commit murders.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDA4NTI0ZDAtYTNiMS00MDE3LTk4ZDgtNGQyNGQ0Y2M4OWM1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0052655",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:18:04.555Z"
+}

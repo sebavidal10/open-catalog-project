@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960607961200411",
+  "title": "The Amazing Spider-Man #1.4",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dan Slott",
+    "Ellie Pyle",
+    "Ian Herring",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Nick Lowe",
+    "Ramón Pérez"
+  ],
+  "publish_date": "2014-08-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/25/asm-v3-1-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17310/",
+  "fetched_at": "2026-05-27T17:33:31.808Z",
+  "reviewed_at": null
+}

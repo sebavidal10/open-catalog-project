@@ -1,0 +1,27 @@
+{
+  "title": "The Atomic Submarine",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "29 Nov 1959",
+  "runtime": "72 min",
+  "genre": "Sci-Fi, Thriller",
+  "director": "Spencer Gordon Bennet",
+  "writer": "Orville H. Hampton, Irving Block, Jack Rabin",
+  "actors": "Arthur Franz, Dick Foran, Brett Halsey",
+  "plot": "Ships mysteriously disappear on route across the Arctic Sea, and a specially-equipped submarine is sent to investigate.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjI4NzRkYTgtNzI5Zi00ZDhlLTk1ZTQtNWZkZmRjZDYyYzdkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.1",
+  "imdbID": "tt0052587",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:18:56.615Z"
+}

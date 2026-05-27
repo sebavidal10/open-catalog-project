@@ -1,0 +1,31 @@
+{
+  "title": "Nazarin",
+  "year": "1959",
+  "rated": "Not Rated",
+  "released": "20 Jun 1968",
+  "runtime": "94 min",
+  "genre": "Drama",
+  "director": "Luis Buñuel",
+  "writer": "Julio Alejandro, Luis Buñuel, Benito Pérez Galdós",
+  "actors": "Francisco Rabal, Marga López, Rita Macedo",
+  "plot": "A priest in a poor community lives a charitable life in accordance with his religious principles, but many others do not return the favor.",
+  "language": "Spanish",
+  "country": "Mexico",
+  "awards": "2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjNkZGRjZDUtNGVlNi00MDQyLTlhNWItZWIwMzdiMWE1MDRkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0051983",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:20:59.778Z"
+}

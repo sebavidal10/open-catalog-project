@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607901800711",
+  "title": "The Amazing Spider-Man #7",
+  "authors": [
+    "Alan Fine",
+    "Antonio Fabela",
+    "Axel Alonso",
+    "Cam Smith",
+    "Chris Eliopoulos",
+    "Christos N. Gage",
+    "Dan Buckley",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Ellie Pyle",
+    "Giuseppe Camuncoli",
+    "Joe Quesada",
+    "Nick Lowe"
+  ],
+  "publish_date": "2014-10-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/25/asm-v3-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17317/",
+  "fetched_at": "2026-05-27T17:34:34.693Z",
+  "reviewed_at": null
+}

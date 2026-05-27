@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607901800311",
+  "title": "The Amazing Spider-Man #3",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Ellie Pyle",
+    "Frank Cho",
+    "Humberto Ramos",
+    "Joe Quesada",
+    "Nick Lowe",
+    "Tim Sale",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2014-06-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/25/asm-v3-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17313/",
+  "fetched_at": "2026-05-27T17:32:23.949Z",
+  "reviewed_at": null
+}

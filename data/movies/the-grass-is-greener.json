@@ -1,0 +1,35 @@
+{
+  "title": "The Grass Is Greener",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "23 Dec 1960",
+  "runtime": "104 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Stanley Donen",
+  "writer": "Hugh Williams, Margaret Vyner",
+  "actors": "Cary Grant, Deborah Kerr, Robert Mitchum",
+  "plot": "Victor and Hilary have guided tours in their English mansion. A US oil tycoon \"bumps\" into Hilary during a tour and charms his way into her heart. Meanwhile, Hattie pursues Victor.",
+  "language": "English, French",
+  "country": "United Kingdom",
+  "awards": "4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmNmYjg4YjktM2E2OC00MzgxLWE2NmYtZDlmNWVlMzE0N2JjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "6.4",
+  "imdbID": "tt0053877",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:30:56.363Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Giant Gila Monster",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "27 Nov 1962",
+  "runtime": "74 min",
+  "genre": "Horror, Sci-Fi, Thriller",
+  "director": "Ray Kellogg",
+  "writer": "Ray Kellogg, Jay Simms",
+  "actors": "Don Sullivan, Fred Graham, Lisa Simone",
+  "plot": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2RhOGEyZWQtYzk5YS00ZWU3LWIyZTAtMjkyYzllNTE0ZDZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "3.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "20%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "3.7",
+  "imdbID": "tt0052846",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:18:57.853Z"
+}

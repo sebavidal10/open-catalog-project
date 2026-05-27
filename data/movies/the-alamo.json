@@ -1,0 +1,31 @@
+{
+  "title": "The Alamo",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "27 Oct 1960",
+  "runtime": "162 min",
+  "genre": "Adventure, Drama, History",
+  "director": "John Wayne",
+  "writer": "James Edward Grant",
+  "actors": "John Wayne, Richard Widmark, Laurence Harvey",
+  "plot": "In 1836, a small band of soldiers sacrifice their lives in hopeless combat against a massive army in order to prevent a tyrant from smashing the new Republic of Texas.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 7 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2IwMDcwZGYtNDRhMy00MTJlLWEwMWItMWQ4MTBhZTU5MWQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "55%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0053580",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:29:51.758Z"
+}

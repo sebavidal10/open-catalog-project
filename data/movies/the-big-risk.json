@@ -1,0 +1,35 @@
+{
+  "title": "The Big Risk",
+  "year": "1960",
+  "rated": "Not Rated",
+  "released": "01 Apr 1960",
+  "runtime": "103 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "Claude Sautet",
+  "writer": "José Giovanni, Claude Sautet, Pascal Jardin",
+  "actors": "Lino Ventura, Sandra Milo, Jean-Paul Belmondo",
+  "plot": "A ruthless criminal flees from the pursuit, involving more and more casualties.",
+  "language": "French, Italian",
+  "country": "France, Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIyOWYwOTItMjlkMC00OWQ0LTgzNDEtMDUzN2E5NGMyNDUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.5",
+  "imdbID": "tt0052698",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:29:39.035Z"
+}

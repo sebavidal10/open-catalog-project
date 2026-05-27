@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960607901801611",
+  "title": "The Amazing Spider-Man #16",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Eliopoulos",
+    "Christos N. Gage",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Edgar Delgado",
+    "Humberto Ramos",
+    "Joe Quesada",
+    "Nick Lowe",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2015-03-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/25/asm-v3-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17326/",
+  "fetched_at": "2026-05-27T17:36:57.325Z",
+  "reviewed_at": null
+}

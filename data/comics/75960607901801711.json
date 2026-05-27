@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960607901801711",
+  "title": "The Amazing Spider-Man #17",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Eliopoulos",
+    "Christos N. Gage",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Edgar Delgado",
+    "Humberto Ramos",
+    "Joe Quesada",
+    "Nick Lowe",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2015-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/27/asm-v3-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17352/",
+  "fetched_at": "2026-05-27T17:37:27.148Z",
+  "reviewed_at": null
+}

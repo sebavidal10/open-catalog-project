@@ -1,0 +1,31 @@
+{
+  "title": "The Bridge",
+  "year": "1959",
+  "rated": "Not Rated",
+  "released": "01 May 1961",
+  "runtime": "103 min",
+  "genre": "Drama, History, War",
+  "director": "Bernhard Wicki",
+  "writer": "Manfred Gregor, Michael Mansfeld, Heinz Pauck",
+  "actors": "Volker Bohnet, Fritz Wepper, Michael Hinz",
+  "plot": "In 1945, Germany is being overrun, and nobody is left to fight but teenagers.",
+  "language": "German, English",
+  "country": "West Germany",
+  "awards": "Nominated for 1 Oscar. 16 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTYzMGQ0MzgtZTQzZi00MjM0LWFhNDgtODZhNTdhNWRlZDAwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.0",
+  "imdbID": "tt0052654",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:19:09.020Z"
+}

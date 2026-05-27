@@ -1,0 +1,31 @@
+{
+  "title": "Purple Noon",
+  "year": "1960",
+  "rated": "PG-13",
+  "released": "10 Mar 1960",
+  "runtime": "118 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "René Clément",
+  "writer": "Patricia Highsmith, René Clément, Paul Gégauff",
+  "actors": "Alain Delon, Maurice Ronet, Marie Laforêt",
+  "plot": "Tom Ripley is a talented mimic, moocher, forger and all-around criminal improviser; but there's more to Tom Ripley than even he can guess.",
+  "language": "French, Italian, English",
+  "country": "France, Italy",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjEyYWE3ZGItNDFkMy00MzBmLWFlNTEtYzQ3MDRjN2FkZGUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0054189",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:29:55.489Z"
+}

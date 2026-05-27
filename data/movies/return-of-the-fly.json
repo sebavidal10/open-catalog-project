@@ -1,0 +1,31 @@
+{
+  "title": "Return of the Fly",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "22 Jul 1959",
+  "runtime": "80 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Edward Bernds",
+  "writer": "Edward Bernds, George Langelaan",
+  "actors": "Vincent Price, Brett Halsey, David Frankham",
+  "plot": "Philippe Delambre, the now-adult son of \"The Fly\", does some transportation experimentation of his own.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWE0OGMwNDAtYWRlNC00MWJhLWFlMzQtYzlhM2RiNzRjZDQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "36%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0053219",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:19:06.519Z"
+}

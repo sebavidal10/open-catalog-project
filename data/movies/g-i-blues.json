@@ -1,0 +1,31 @@
+{
+  "title": "G.I. Blues",
+  "year": "1960",
+  "rated": "PG",
+  "released": "23 Nov 1960",
+  "runtime": "104 min",
+  "genre": "Comedy, Musical",
+  "director": "Norman Taurog",
+  "writer": "Edmund Beloin, Henry Garson",
+  "actors": "Elvis Presley, Juliet Prowse, Robert Ivers",
+  "plot": "Tulsa McLean, a soldier with dreams of running his own nightclub, places a bet with his friend Dynamite that he can win the heart of an untouchable dancer. But when Dynamite is transferred, Tulsa must replace him in the bet.",
+  "language": "English, German, Italian",
+  "country": "United States",
+  "awards": "3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTk1YzUzNWQtYzcwMS00OGVkLWFhMjgtM2Q1YzlhYWFkNzU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "0%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0053848",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:30:36.664Z"
+}

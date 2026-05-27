@@ -1,0 +1,31 @@
+{
+  "title": "Santa Claus",
+  "year": "1959",
+  "rated": "G",
+  "released": "01 Oct 1960",
+  "runtime": "94 min",
+  "genre": "Comedy, Family, Fantasy",
+  "director": "René Cardona",
+  "writer": "Adolfo Torres Portillo, René Cardona",
+  "actors": "José Elías Moreno, Cesáreo Quezadas 'Pulgarcito', José Luis Aguirre 'Trotsky'",
+  "plot": "With Merlin's aid, Santa Claus must defeat the evil machinations of the devil Pitch to ruin Christmas.",
+  "language": "Spanish, Cantonese, English, Japanese, Russian, French, German, Italian",
+  "country": "Mexico",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTdlNGVkMTAtOGU3Yi00ZTAyLTllZjMtMmRhZmU4MjY1MmI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "2.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "2.7",
+  "imdbID": "tt0053241",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:20:02.887Z"
+}

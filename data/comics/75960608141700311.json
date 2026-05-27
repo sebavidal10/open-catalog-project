@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608141700311",
+  "title": "The Amazing Spider-Man #18.1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Carlo Barberi",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Gerry Conway",
+    "Greg Land",
+    "Israel Silva",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Juan Vlasco",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Yasmine Putri"
+  ],
+  "publish_date": "2015-06-03",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/27/asm-v3-18-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17355/",
+  "fetched_at": "2026-05-27T17:38:09.645Z",
+  "reviewed_at": null
+}

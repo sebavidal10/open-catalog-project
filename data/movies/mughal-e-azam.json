@@ -1,0 +1,31 @@
+{
+  "title": "Mughal-E-Azam",
+  "year": "1960",
+  "rated": "Not Rated",
+  "released": "05 Aug 1960",
+  "runtime": "197 min",
+  "genre": "Drama, Romance, War",
+  "director": "K. Asif",
+  "writer": "K. Asif, Aman, Kamal Amrohi",
+  "actors": "Prithviraj Kapoor, Madhubala, Dilip Kumar",
+  "plot": "A 16th century prince falls in love with a court dancer and battles with his emperor father.",
+  "language": "Hindi, Urdu",
+  "country": "India",
+  "awards": "3 wins & 3 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWE0M2M0NTQtMTNkMS00ODgyLTg4MDMtODEwZjZjOTE1MDhjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.1",
+  "imdbID": "tt0054098",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:29:37.792Z"
+}

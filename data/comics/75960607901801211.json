@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607901801211",
+  "title": "The Amazing Spider-Man #12",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Cam Smith",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Ellie Pyle",
+    "Giuseppe Camuncoli",
+    "Joe Quesada",
+    "Justin Ponsor",
+    "Nick Lowe",
+    "Olivier Coipel"
+  ],
+  "publish_date": "2015-01-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/25/asm-v3-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17322/",
+  "fetched_at": "2026-05-27T17:36:00.600Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Tingler",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "29 Jul 1959",
+  "runtime": "82 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "William Castle",
+  "writer": "Robb White",
+  "actors": "Vincent Price, Judith Evelyn, Darryl Hickman",
+  "plot": "An obsessed pathologist discovers and captures a parasitic creature that grows when fear grips its host.",
+  "language": "English, American Sign ",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWZmN2VlMmEtN2EyNy00YTQ0LWI1OGQtYjhmNjhkNDAyMzhjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0053363",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:18:12.008Z"
+}

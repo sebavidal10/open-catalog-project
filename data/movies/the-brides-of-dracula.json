@@ -1,0 +1,35 @@
+{
+  "title": "The Brides of Dracula",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "05 Sep 1960",
+  "runtime": "85 min",
+  "genre": "Horror",
+  "director": "Terence Fisher",
+  "writer": "Jimmy Sangster, Peter Bryan, Edward Percy",
+  "actors": "Peter Cushing, Martita Hunt, Yvonne Monlaur",
+  "plot": "Vampire hunter Dr. Van Helsing returns to Transylvania to destroy handsome bloodsucker Baron Meinster, who has designs on a beautiful young schoolteacher.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWYxNzc0NzMtM2VkYS00ZWNmLTk2ZmMtODUwY2EzYWQyNzMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "6.6",
+  "imdbID": "tt0053677",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:30:30.378Z"
+}

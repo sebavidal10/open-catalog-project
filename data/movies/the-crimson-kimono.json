@@ -1,0 +1,31 @@
+{
+  "title": "The Crimson Kimono",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "05 May 1960",
+  "runtime": "82 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Samuel Fuller",
+  "writer": "Samuel Fuller",
+  "actors": "Victoria Shaw, Glenn Corbett, James Shigeta",
+  "plot": "Two detectives seek a stripper's killer in the Japanese quarter of Los Angeles, but a love triangle threatens their friendship.",
+  "language": "English, Japanese, Italian, French, Latin",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjEyYzE5ZDktYzFlNC00ZTk0LTk4YWItM2JkYTI0MjdiZmEzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0052713",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:20:36.280Z"
+}

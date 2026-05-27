@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960607901800611",
+  "title": "The Amazing Spider-Man #6",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dan Slott",
+    "Edgar Delgado",
+    "Ellie Pyle",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Nick Lowe",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2014-09-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/25/asm-v3-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17316/",
+  "fetched_at": "2026-05-27T17:33:59.991Z",
+  "reviewed_at": null
+}

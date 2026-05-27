@@ -1,0 +1,31 @@
+{
+  "title": "From the Terrace",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "10 Jun 1960",
+  "runtime": "149 min",
+  "genre": "Drama, Romance",
+  "director": "Mark Robson",
+  "writer": "John O'Hara, Ernest Lehman",
+  "actors": "Paul Newman, Joanne Woodward, Myrna Loy",
+  "plot": "An ambitious young executive chooses a loveless marriage and an unfulfilling personal life in exchange for a successful Wall Street career.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGQ3YTE0ZWUtOWJkNC00YjVkLWE0OTMtNjU2OTkxNTg5ZjhlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "31%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0053841",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:30:10.401Z"
+}

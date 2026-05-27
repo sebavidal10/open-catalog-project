@@ -1,0 +1,27 @@
+{
+  "title": "The Gazebo",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "01 Jan 1960",
+  "runtime": "100 min",
+  "genre": "Comedy, Thriller",
+  "director": "George Marshall",
+  "writer": "George Wells, Alec Coppel, Myra Coppel",
+  "actors": "Glenn Ford, Debbie Reynolds, Carl Reiner",
+  "plot": "TV writer Elliott Nash buries something under the new gazebo in his suburban backyard. But the nervous man can't let it rest there.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMThjYjQ3MDgtMDZlMi00ZWE1LTgwMTUtOWMyNGZjMzQ3OGFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0052837",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:20:53.565Z"
+}

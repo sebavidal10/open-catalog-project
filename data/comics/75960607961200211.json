@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607961200211",
+  "title": "The Amazing Spider-Man #1.2",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dan Slott",
+    "Ellie Pyle",
+    "Ian Herring",
+    "J.G. Jones",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Nick Lowe",
+    "Pasqual Ferry",
+    "Ramón Pérez"
+  ],
+  "publish_date": "2014-06-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/25/asm-v3-1-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17308/",
+  "fetched_at": "2026-05-27T17:32:20.054Z",
+  "reviewed_at": null
+}

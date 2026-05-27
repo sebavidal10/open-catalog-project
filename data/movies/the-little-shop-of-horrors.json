@@ -1,0 +1,31 @@
+{
+  "title": "The Little Shop of Horrors",
+  "year": "1960",
+  "rated": "Not Rated",
+  "released": "05 Aug 1960",
+  "runtime": "73 min",
+  "genre": "Comedy, Horror",
+  "director": "Roger Corman",
+  "writer": "Charles B. Griffith, Roger Corman",
+  "actors": "Jonathan Haze, Jackie Joseph, Mel Welles",
+  "plot": "A clumsy young man working at an impoverished flower shop discovers that the strange plant he has been nurturing has an insatiable appetite for blood, forcing him to kill to feed it.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDY1YjQ3ZWItNDJkNC00YjBkLWI4MDAtYzc0MWM2Mjk1MDg1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0054033",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:29:56.737Z"
+}

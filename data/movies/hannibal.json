@@ -1,0 +1,27 @@
+{
+  "title": "Hannibal",
+  "year": "1959",
+  "rated": "Approved",
+  "released": "18 Jun 1960",
+  "runtime": "103 min",
+  "genre": "Action, Adventure, Biography",
+  "director": "Carlo Ludovico Bragaglia, Edgar G. Ulmer",
+  "writer": "Ottavio Poggi, Mortimer Braus, Sandro Continenza",
+  "actors": "Victor Mature, Gabriele Ferzetti, Rita Gam",
+  "plot": "During the Second Punic War in 218 BC, Carthaginian general Hannibal attacks the Roman Republic by crossing the Pyrenees and the Alps with his vast army.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2MyZTY1YzgtZDk2OC00YmQyLTgzYjgtZDJhODU2MjdiOGQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0053891",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:20:06.626Z"
+}

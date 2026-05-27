@@ -1,0 +1,35 @@
+{
+  "title": "The Entertainer",
+  "year": "1960",
+  "rated": "Not Rated",
+  "released": "02 Dec 1960",
+  "runtime": "96 min",
+  "genre": "Drama",
+  "director": "Tony Richardson",
+  "writer": "John Osborne, Nigel Kneale",
+  "actors": "Laurence Olivier, Brenda de Banzie, Roger Livesey",
+  "plot": "Archie Rice, an old-time British music hall performer sinking into final defeat, schemes to stay in show business.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 Oscar. 1 win & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTQwNzJlNTgtODNiMC00ZDk4LTkxYmYtOTI1Zjk3MzE3MTM1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "7.1",
+  "imdbID": "tt0053796",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:31:00.082Z"
+}

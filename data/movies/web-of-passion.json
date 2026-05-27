@@ -1,0 +1,31 @@
+{
+  "title": "Web of Passion",
+  "year": "1959",
+  "rated": "Not Rated",
+  "released": "14 Nov 1959",
+  "runtime": "110 min",
+  "genre": "Crime, Drama",
+  "director": "Claude Chabrol",
+  "writer": "Stanley Ellin, Paul Gégauff, Claude Chabrol",
+  "actors": "Madeleine Robinson, Antonella Lualdi, Jean-Paul Belmondo",
+  "plot": "A wealthy wine grower has trouble with his wife, his children, his best friend, and his mistress across the way, who is murdered.",
+  "language": "French",
+  "country": "France, Italy",
+  "awards": "2 wins & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGM5N2Y4MDQtYzI0NC00ZDY1LTk4ZWUtZWZhZDk0ZjQzNzYyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0053473",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:21:34.439Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Inherit the Wind",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "30 Aug 1960",
+  "runtime": "128 min",
+  "genre": "Biography, Drama, History",
+  "director": "Stanley Kramer",
+  "writer": "Nedrick Young, Harold Jacob Smith, Jerome Lawrence",
+  "actors": "Spencer Tracy, Fredric March, Gene Kelly",
+  "plot": "Based on a real-life case in 1925; two great lawyers argue the case for, and against, a Tennessee science teacher accused of the crime of teaching Darwin's theory of evolution.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 3 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWM5NDBlNTAtNDMzNy00ZjMyLTg4ZTYtYWYxNmU2YjVkMzNmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "8.1",
+  "imdbID": "tt0053946",
+  "type": "movie",
+  "fetched_at": "2026-05-27T17:29:57.978Z"
+}
