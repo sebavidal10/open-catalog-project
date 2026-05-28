@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960621383200111",
+  "title": "Amazing Spider-Man Annual #1",
+  "authors": [
+    "C. B. Cebulski",
+    "Chris Sotomayor",
+    "Dean White",
+    "Federico Vicentini",
+    "Francesco Mobili",
+    "Gabriele Dell'Otto",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Kaitlyn Lindtvedt",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Nicoletta Baldari",
+    "Roi Mercado",
+    "Saladin Ahmed",
+    "Tom Groneman"
+  ],
+  "publish_date": "2026-01-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/16/afcf469416f64f36867d22f2b0966114.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160472/",
+  "fetched_at": "2026-05-28T15:23:59.713Z",
+  "reviewed_at": null
+}

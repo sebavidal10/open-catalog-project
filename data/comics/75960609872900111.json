@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960609872900111",
+  "title": "Free Comic Book Day 2020 (Spider-Man/Venom) #1",
+  "authors": [
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Danny Khazem",
+    "David Curiel",
+    "Devin Lewis",
+    "Donny Cates",
+    "Frank Martin",
+    "Jed MacKay",
+    "J. P. Mayer",
+    "Kathleen Wisneski",
+    "Nick Lowe",
+    "Patrick Gleason",
+    "Ryan Stegman"
+  ],
+  "publish_date": "2020-07-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/05/02/14a792995bc349638265aa00ed737dec.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/169267/",
+  "fetched_at": "2026-05-28T14:38:40.311Z",
+  "reviewed_at": "2020-07-01"
+}

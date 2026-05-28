@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960621258301011",
+  "title": "Spider-Man & Wolverine #10",
+  "authors": [
+    "Adam Del Re",
+    "Brian Reber",
+    "C. B. Cebulski",
+    "Cy Pedro Beltran",
+    "Erick Arciniega",
+    "Gerardo Sandoval",
+    "Kaare Andrews",
+    "Marc Guggenheim",
+    "Mark Basso",
+    "Nick Lowe",
+    "Tom Brevoort",
+    "Travis Lanham",
+    "Victor Nava"
+  ],
+  "publish_date": "2026-02-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/02/13/af7a119b273342f8aa9658cc80139c64.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/162641/",
+  "fetched_at": "2026-05-28T15:25:00.205Z",
+  "reviewed_at": null
+}

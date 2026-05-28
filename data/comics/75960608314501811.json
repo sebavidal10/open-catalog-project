@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960608314501811",
+  "title": "Spider-Man #18",
+  "authors": [
+    "Alan Fine",
+    "Allison Stock",
+    "Axel Alonso",
+    "Brian Michael Bendis",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Idette Winecoor",
+    "Israel Silva",
+    "Jim Lee",
+    "Joe Quesada",
+    "Justin Ponsor",
+    "Michael Kelleher",
+    "Nick Lowe",
+    "Oscar Bazaldua",
+    "Patrick Brown",
+    "Rain Beredo"
+  ],
+  "publish_date": "2017-07-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/29/spider-man-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33345/",
+  "fetched_at": "2026-05-28T14:20:04.838Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Mothra",
+  "year": "1961",
+  "rated": "Approved",
+  "released": "10 May 1962",
+  "runtime": "101 min",
+  "genre": "Adventure, Fantasy, Sci-Fi",
+  "director": "Ishirô Honda",
+  "writer": "Shin'ichi Sekizawa, Shin'ichirô Nakamura, Takehiko Fukunaga",
+  "actors": "Furankî Sakai, Hiroshi Koizumi, Kyôko Kagawa",
+  "plot": "An expedition to Infant Island uncovers a native tribe and twin tiny fairy priestesses of a mythical deity, who sets out to rescue the pair after they are kidnapped by a greedy businessman.",
+  "language": "Japanese, English, Indonesian",
+  "country": "Japan",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTdlMjI5N2ItOWUwMS00MmViLWFlM2QtYWFkZGNmMDZhYmQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0055198",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:15:49.816Z"
+}

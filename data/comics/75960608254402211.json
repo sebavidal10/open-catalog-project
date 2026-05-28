@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608254402211",
+  "title": "Spider-Man / Deadpool #22",
+  "authors": [
+    "Alan Fine",
+    "Allison Stock",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Elliott Kalan",
+    "Frank D'Armata",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Jordan D. White",
+    "Nick Lowe",
+    "Rachelle Rosenberg",
+    "Todd Nauck",
+    "Will Robson"
+  ],
+  "publish_date": "2017-10-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/16/spider-man-deadpool-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43018/",
+  "fetched_at": "2026-05-28T14:21:39.874Z",
+  "reviewed_at": null
+}

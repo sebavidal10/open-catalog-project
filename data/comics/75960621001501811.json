@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960621001501811",
+  "title": "The Amazing Spider-Man #18",
+  "authors": [
+    "Benjamin Su",
+    "C. B. Cebulski",
+    "Corin Howell",
+    "Jay Bowen",
+    "Jeremy Wilson",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "John Romita Jr.",
+    "Kaitlyn Lindtvedt",
+    "Lee Bermejo",
+    "Marcio Menyz",
+    "Nick Lowe",
+    "Rachelle Rosenberg",
+    "Scott Hanna",
+    "Simone Di Meo",
+    "Tom Groneman"
+  ],
+  "publish_date": "2025-12-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/12/12/7bb526b971d348ba8d011f5a21246822.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/158544/",
+  "fetched_at": "2026-05-28T15:22:56.248Z",
+  "reviewed_at": null
+}

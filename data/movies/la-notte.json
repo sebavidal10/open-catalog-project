@@ -1,0 +1,31 @@
+{
+  "title": "La Notte",
+  "year": "1961",
+  "rated": "Not Rated",
+  "released": "19 Feb 1962",
+  "runtime": "122 min",
+  "genre": "Drama",
+  "director": "Michelangelo Antonioni",
+  "writer": "Michelangelo Antonioni, Ennio Flaiano, Tonino Guerra",
+  "actors": "Jeanne Moreau, Marcello Mastroianni, Monica Vitti",
+  "plot": "A day in the life of an unfaithful married couple and their steadily deteriorating relationship.",
+  "language": "Italian, English, French",
+  "country": "Italy, France",
+  "awards": "6 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyODI2OTg4OF5BMl5BanBnXkFtZTgwNjkwMzg4OTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.9",
+  "imdbID": "tt0054130",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:14:46.168Z"
+}

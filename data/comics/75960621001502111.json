@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960621001502111",
+  "title": "The Amazing Spider-Man #21",
+  "authors": [
+    "C. B. Cebulski",
+    "David Nakayama",
+    "Erick Arciniega",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "John Romita Jr.",
+    "Kaitlyn Lindtvedt",
+    "Lee Bermejo",
+    "Marcio Menyz",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Paul Mounts",
+    "Scott Hanna",
+    "Steve Rude",
+    "Todd Nauck",
+    "Tom Groneman"
+  ],
+  "publish_date": "2026-02-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/24/e3ed4be8839c4982a66c40354de58ced.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/161146/",
+  "fetched_at": "2026-05-28T15:24:37.858Z",
+  "reviewed_at": null
+}

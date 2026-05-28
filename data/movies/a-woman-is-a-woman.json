@@ -1,0 +1,35 @@
+{
+  "title": "A Woman Is a Woman",
+  "year": "1961",
+  "rated": "Not Rated",
+  "released": "06 Sep 1961",
+  "runtime": "84 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Jean-Luc Godard",
+  "writer": "Jean-Luc Godard, Geneviève Cluny",
+  "actors": "Anna Karina, Jean-Claude Brialy, Jean-Paul Belmondo",
+  "plot": "A stripper who's desperate to become a mother accepts her reluctant boyfriend's suggestion that she be impregnated by his best friend.",
+  "language": "French",
+  "country": "France, Italy",
+  "awards": "2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmIwMDg0N2EtZTRiZi00MTA2LWE1MDItOTJjNjA2MDViZDU1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.3",
+  "imdbID": "tt0055572",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:14:40.100Z"
+}

@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960609433200111",
+  "title": "The Amazing Spider-Man #19.HU",
+  "authors": [
+    "Alan Fine",
+    "Al Vey",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Chris Bachalo",
+    "Dan Buckley",
+    "Erick Arciniega",
+    "Frank D'Armata",
+    "Greg Land",
+    "Jaime Mendoza",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Livesay",
+    "Kathleen Wisneski",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Tim Townsend",
+    "Victor Olazaba",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2019-04-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/14/amazing-spiderman-19hu.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1914/",
+  "fetched_at": "2026-05-28T14:30:59.261Z",
+  "reviewed_at": null
+}

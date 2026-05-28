@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960608314500111",
+  "title": "Spider-Man #1",
+  "authors": [
+    "Adi Granov",
+    "Alan Fine",
+    "Andrew Crossley",
+    "Axel Alonso",
+    "Brian Michael Bendis",
+    "Cory Petit",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Dexter Vines",
+    "Gaetano Carlucci",
+    "Idette Winecoor",
+    "Joe Quesada",
+    "Justin Ponsor",
+    "Khoi Pham",
+    "Mark Bagley",
+    "Michael Cho",
+    "Nick Lowe",
+    "Sara Pichelli",
+    "Skottie Young"
+  ],
+  "publish_date": "2016-02-03",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/29/spider-man-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33328/",
+  "fetched_at": "2026-05-28T14:10:27.355Z",
+  "reviewed_at": null
+}

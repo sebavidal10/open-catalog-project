@@ -1,0 +1,31 @@
+{
+  "title": "The Young One",
+  "year": "1960",
+  "rated": "N/A",
+  "released": "18 Jan 1961",
+  "runtime": "96 min",
+  "genre": "Drama",
+  "director": "Luis Buñuel",
+  "writer": "Peter Matthiessen, Hugo Butler, Luis Buñuel",
+  "actors": "Zachary Scott, Bernie Hamilton, Key Meersman",
+  "plot": "A jazz musician seeks refuge from a lynch mob on a remote island, where he meets a hostile game warden and the young object of his attentions.",
+  "language": "English",
+  "country": "Mexico",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjFiY2I4MjMtMjBmZC00ZTQyLTliZGEtOGUxYmFmOTEwNTk2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0053967",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:05:41.320Z"
+}

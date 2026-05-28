@@ -1,0 +1,27 @@
+{
+  "title": "My Dog, Buddy",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "01 Aug 1960",
+  "runtime": "76 min",
+  "genre": "Drama, Family",
+  "director": "Ray Kellogg",
+  "writer": "Ray Kellogg",
+  "actors": "London, Travis Lemmond, Ken Curtis",
+  "plot": "Ten-year old Ted Dodd is on a driving trip with his parents and his beloved German shepherd dog Buddy, when a reckless driver swerves into the path of his parents' car, sending the vehicle plunging into a ravine, where it bursts i...",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzNkZDYyZDctODkxMi00NGZiLTk1ZGQtZGQ4YWRjNTYyNDQ4XkEyXkFqcGdeQXVyNjYwODc3ODk@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0169062",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:11:22.542Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Splendor in the Grass",
+  "year": "1961",
+  "rated": "Approved",
+  "released": "20 Oct 1961",
+  "runtime": "124 min",
+  "genre": "Drama, Romance",
+  "director": "Elia Kazan",
+  "writer": "William Inge",
+  "actors": "Natalie Wood, Warren Beatty, Pat Hingle",
+  "plot": "The love of high school sweethearts Deanie and Bud is weighed down by the oppressive expectations of their parents and society in smalltown Kansas in 1928, threatening the future of their relationship.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 3 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2RkM2EzNDMtM2I4Mi00M2YzLWI5YWMtYmRjMmZmMmE4ZTMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.7",
+  "imdbID": "tt0055471",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:15:04.462Z"
+}

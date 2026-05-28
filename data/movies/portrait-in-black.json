@@ -1,0 +1,31 @@
+{
+  "title": "Portrait in Black",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "03 Sep 1960",
+  "runtime": "112 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Michael Gordon",
+  "writer": "Ivan Goff, Ben Roberts",
+  "actors": "Lana Turner, Anthony Quinn, Richard Basehart",
+  "plot": "After repressed wealthy Sheila Cabot and her physician lover Dr. David Rivera murder her cruel invalid husband Matthew, they are targeted by someone who is aware of their crime.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjUwN2M0MmQtNzg0Mi00MmZhLTkyNDItN2I3NjIxYzIzZTVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0054197",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:06:55.518Z"
+}

@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960608297102411",
+  "title": "The Amazing Spider-Man #24",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Allison Stock",
+    "Anthony Gambino",
+    "Axel Alonso",
+    "Cam Smith",
+    "Christos N. Gage",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Gabriele Dell'Otto",
+    "Giuseppe Camuncoli",
+    "Jason Keith",
+    "Joe Caramagna",
+    "Joe Jusko",
+    "Joe Quesada",
+    "Nick Lowe"
+  ],
+  "publish_date": "2017-02-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-24.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37329/",
+  "fetched_at": "2026-05-28T14:17:01.484Z",
+  "reviewed_at": null
+}

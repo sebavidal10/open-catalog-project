@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960609129400111",
+  "title": "Amazing Spider-Man Annual #1",
+  "authors": [
+    "ACO",
+    "Alan Fine",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Gabriele Dell'Otto",
+    "Garry Brown",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Lee Loughridge",
+    "Marcelo Maiolo",
+    "Mark Basso",
+    "Nick Lowe",
+    "Saladin Ahmed"
+  ],
+  "publish_date": "2018-09-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/26/asm-annual-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39910/",
+  "fetched_at": "2026-05-28T14:26:50.025Z",
+  "reviewed_at": null
+}

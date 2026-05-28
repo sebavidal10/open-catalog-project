@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960621029900111",
+  "title": "Your Friendly Neighborhood Spider-Man #1",
+  "authors": [
+    "C. B. Cebulski",
+    "Christos N. Gage",
+    "Emerald Bensadoun",
+    "Eric Gapstur",
+    "InHyuk Lee",
+    "Jim Campbell",
+    "Joe Caramagna",
+    "Jordan D. White",
+    "Leonardo Romero",
+    "Natacha Bustos",
+    "Stacie Zucker"
+  ],
+  "publish_date": "2024-12-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/12/06/6a9f787094eb4a53a76ea11f8eec3b3d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/132679/",
+  "fetched_at": "2026-05-28T15:14:48.177Z",
+  "reviewed_at": null
+}

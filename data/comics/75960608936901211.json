@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960608936901211",
+  "title": "The Amazing Spider-Man #12",
+  "authors": [
+    "Adi Granov",
+    "Alan Fine",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Cliff Rathburn",
+    "Dan Buckley",
+    "Dave McCaig",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Dell",
+    "Kathleen Wisneski",
+    "Laura Martin",
+    "Mark Bagley",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Ryan Ottley"
+  ],
+  "publish_date": "2018-12-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2018/12/19/ams-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/501/",
+  "fetched_at": "2026-05-28T14:28:24.756Z",
+  "reviewed_at": null
+}

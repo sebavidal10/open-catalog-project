@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960621001500411",
+  "title": "The Amazing Spider-Man #4",
+  "authors": [
+    "Alex Ross",
+    "C. B. Cebulski",
+    "Greg Land",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Kaitlyn Lindtvedt",
+    "Mark Chiarello",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Pepe Larraz",
+    "Rachelle Rosenberg",
+    "Tom Groneman"
+  ],
+  "publish_date": "2025-05-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/08/1f847f11002844d18eae411ab0c67be6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145408/",
+  "fetched_at": "2026-05-28T15:17:14.863Z",
+  "reviewed_at": null
+}

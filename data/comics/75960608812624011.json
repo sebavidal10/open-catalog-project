@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960608812624011",
+  "title": "Spider-Man #240",
+  "authors": [
+    "Alan Fine",
+    "Brian Michael Bendis",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dan Buckley",
+    "David Marquez",
+    "Idette Winecoor",
+    "Joe Quesada",
+    "Justin Ponsor",
+    "Kathleen Wisneski",
+    "Laura Martin",
+    "Matt Milla",
+    "Nick Lowe",
+    "Oscar Bazaldua",
+    "Peter Pantazis",
+    "Sara Pichelli"
+  ],
+  "publish_date": "2018-05-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/29/spider-man-240.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33355/",
+  "fetched_at": "2026-05-28T14:25:27.487Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608297101611",
+  "title": "The Amazing Spider-Man #16",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Axel Alonso",
+    "Cam Smith",
+    "Chris Samnee",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Giuseppe Camuncoli",
+    "Guillem March",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marte Gracia",
+    "Matthew Wilson",
+    "Nick Lowe"
+  ],
+  "publish_date": "2016-08-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37321/",
+  "fetched_at": "2026-05-28T14:13:34.752Z",
+  "reviewed_at": null
+}

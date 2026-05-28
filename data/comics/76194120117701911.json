@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120117701911",
+  "title": "Aquaman #19",
+  "authors": [
+    "Dan Nakrosis",
+    "Dave Johnson",
+    "Eddie Berganza",
+    "Howard Shum",
+    "Kevin Dooley",
+    "Martin Egeland",
+    "Peter David",
+    "Tom McCraw"
+  ],
+  "publish_date": "1996-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/05/aquaman-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1803/",
+  "fetched_at": "2026-05-28T15:50:27.063Z",
+  "reviewed_at": "1996-04-01"
+}

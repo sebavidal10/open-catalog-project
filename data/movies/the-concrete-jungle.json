@@ -1,0 +1,31 @@
+{
+  "title": "The Concrete Jungle",
+  "year": "1960",
+  "rated": "TV-14",
+  "released": "24 May 1962",
+  "runtime": "86 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Joseph Losey",
+  "writer": "Alun Owen, Jimmy Sangster",
+  "actors": "Stanley Baker, Sam Wanamaker, Grégoire Aslan",
+  "plot": "In the UK, after pulling a racetrack robbery, repeat offender Johnny Bannion hides the loot in a farmer's field but the police and the local mob come looking for Johnny and the money.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTg5OTM4MzAtODIzNS00ZmY5LWJlOGEtMjFmOTllODFiNzNjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0053740",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:05:49.358Z"
+}

@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620200305511",
+  "title": "The Amazing Spider-Man #55",
+  "authors": [
+    "Bryan Valenza",
+    "C. B. Cebulski",
+    "Donald Soffritti",
+    "Emilio Laiso",
+    "Joe Caramagna",
+    "John Romita Jr.",
+    "Kaeden McGahey",
+    "Luciano Vecchio",
+    "Marcio Menyz",
+    "Michael Cho",
+    "Nick Lowe",
+    "Scott Hanna",
+    "Tom Groneman",
+    "Zeb Wells"
+  ],
+  "publish_date": "2024-08-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/08/10/9a2d80dc746546738429969c9aef5bb9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/125928/",
+  "fetched_at": "2026-05-28T15:11:15.034Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608314501311",
+  "title": "Spider-Man #13",
+  "authors": [
+    "Alan Fine",
+    "Allison Stock",
+    "Axel Alonso",
+    "Brian Michael Bendis",
+    "Cory Petit",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Idette Winecoor",
+    "Jason Keith",
+    "Joe Quesada",
+    "Justin Ponsor",
+    "Nick Lowe",
+    "Sara Pichelli"
+  ],
+  "publish_date": "2017-02-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/29/spider-man-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33340/",
+  "fetched_at": "2026-05-28T14:17:13.406Z",
+  "reviewed_at": null
+}

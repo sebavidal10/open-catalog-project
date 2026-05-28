@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120117701511",
+  "title": "Aquaman #15",
+  "authors": [
+    "Charles Barnett III",
+    "Dan Nakrosis",
+    "Eddie Berganza",
+    "Jim Calafiore",
+    "Kevin Dooley",
+    "Mark McKenna",
+    "Peter David",
+    "Tom McCraw",
+    "Walter Simonson"
+  ],
+  "publish_date": "1995-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/05/aquaman-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1799/",
+  "fetched_at": "2026-05-28T15:49:35.121Z",
+  "reviewed_at": "1995-12-01"
+}

@@ -1,0 +1,39 @@
+{
+  "isbn": null,
+  "upc": "75960621001501511",
+  "title": "The Amazing Spider-Man #15",
+  "authors": [
+    "Aaron Kuder",
+    "Adam Kubert",
+    "C. B. Cebulski",
+    "Dean White",
+    "Emilio Laiso",
+    "Erick Arciniega",
+    "Giuseppe Camuncoli",
+    "InHyuk Lee",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Kaitlyn Lindtvedt",
+    "Lee Bermejo",
+    "Lorenzo Ruggiero",
+    "Marcio Menyz",
+    "Marte Gracia",
+    "Mike Esposito",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Pepe Larraz",
+    "Ross Andru",
+    "Tom Groneman"
+  ],
+  "publish_date": "2025-11-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/26/e0c837fb66f44cef8f20c0fd6f116352.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156562/",
+  "fetched_at": "2026-05-28T15:21:59.716Z",
+  "reviewed_at": null
+}

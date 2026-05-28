@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620796102211",
+  "title": "Ultimate Spider-Man #22",
+  "authors": [
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Declan Shalvey",
+    "Erick Arciniega",
+    "Javier Fernandez",
+    "Jay Bowen",
+    "Jesus Aburtov",
+    "Jonathan Hickman",
+    "Marco Checchetto",
+    "Marguerite Sauvage",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Taurin Clarke",
+    "Wil Moss"
+  ],
+  "publish_date": "2025-10-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/10/0bab9cbb5f4d4a6cb5ee4aeacd95d2c0.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156109/",
+  "fetched_at": "2026-05-28T15:21:41.355Z",
+  "reviewed_at": null
+}

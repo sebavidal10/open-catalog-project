@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608314500511",
+  "title": "Spider-Man #5",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Brian Michael Bendis",
+    "Cory Petit",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Gaetano Carlucci",
+    "Idette Winecoor",
+    "Joe Quesada",
+    "Justin Ponsor",
+    "Nick Lowe",
+    "Sara Pichelli"
+  ],
+  "publish_date": "2016-06-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/29/spider-man-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33332/",
+  "fetched_at": "2026-05-28T14:12:35.532Z",
+  "reviewed_at": null
+}

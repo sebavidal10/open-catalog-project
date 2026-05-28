@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608254402011",
+  "title": "Spider-Man / Deadpool #20",
+  "authors": [
+    "Alan Fine",
+    "Allison Stock",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Jordan Boyd",
+    "Jordan D. White",
+    "Joshua Corin",
+    "Richard Isanove",
+    "Scott Hanna",
+    "Will Robson"
+  ],
+  "publish_date": "2017-08-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/16/spider-man-deadpool-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43016/",
+  "fetched_at": "2026-05-28T14:20:40.408Z",
+  "reviewed_at": null
+}

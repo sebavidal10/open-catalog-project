@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960620796100311",
+  "title": "Ultimate Spider-Man #3",
+  "authors": [
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Edgar Delgado",
+    "Elizabeth Torque",
+    "Greg Land",
+    "Jay Bowen",
+    "Jonathan Hickman",
+    "Marco Checchetto",
+    "Mark Bagley",
+    "Mateus Manhanini",
+    "Matthew Wilson",
+    "Michael Del Mundo",
+    "Michelle Marchese",
+    "Paul Mounts",
+    "Tamra Bonvillain",
+    "Wil Moss"
+  ],
+  "publish_date": "2024-03-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/21/3f0a2c6575544be88f83b1bb2ff87026.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114809/",
+  "fetched_at": "2026-05-28T15:07:31.671Z",
+  "reviewed_at": null
+}

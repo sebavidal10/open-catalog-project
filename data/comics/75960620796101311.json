@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960620796101311",
+  "title": "Ultimate Spider-Man #13",
+  "authors": [
+    "Benjamin Su",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Espen Grundetjern",
+    "Gavin Guidry",
+    "Greg Land",
+    "Jay Bowen",
+    "Jonathan Hickman",
+    "Marco Checchetto",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Paul Mounts",
+    "Wil Moss"
+  ],
+  "publish_date": "2025-01-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/16/5231c01046a1407e97449fa2ad71ade5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/133789/",
+  "fetched_at": "2026-05-28T15:15:22.018Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608314501611",
+  "title": "Spider-Man #16",
+  "authors": [
+    "Alan Fine",
+    "Allison Stock",
+    "Axel Alonso",
+    "Brian Michael Bendis",
+    "Cory Petit",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Idette Winecoor",
+    "Joe Quesada",
+    "Justin Ponsor",
+    "Nick Lowe",
+    "Oscar Bazaldua",
+    "Patrick Brown"
+  ],
+  "publish_date": "2017-05-03",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/29/spider-man-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33343/",
+  "fetched_at": "2026-05-28T14:18:41.684Z",
+  "reviewed_at": null
+}

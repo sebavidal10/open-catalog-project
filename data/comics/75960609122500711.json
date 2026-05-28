@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960609122500711",
+  "title": "Superior Spider-Man #7",
+  "authors": [
+    "Alan Fine",
+    "Andy Troy",
+    "Brian Reber",
+    "Cam Smith",
+    "C. B. Cebulski",
+    "Christos N. Gage",
+    "Dan Buckley",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Kathleen Wisneski",
+    "Lan Medina",
+    "Mike Hawthorne",
+    "Nick Lowe"
+  ],
+  "publish_date": "2019-06-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/09/superior-spiderman-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2744/",
+  "fetched_at": "2026-05-28T14:33:25.699Z",
+  "reviewed_at": null
+}

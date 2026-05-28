@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960608765579611",
+  "title": "The Amazing Spider-Man #796",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Cam Smith",
+    "C. B. Cebulski",
+    "Christos N. Gage",
+    "Clayton Crain",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Erick Arciniega",
+    "Idette Winecoor",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Mike Hawthorne",
+    "Nick Lowe",
+    "Terry Pallot",
+    "Tom Groneman"
+  ],
+  "publish_date": "2018-02-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/01/the-amazing-spider-man-796.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37352/",
+  "fetched_at": "2026-05-28T14:23:31.071Z",
+  "reviewed_at": null
+}

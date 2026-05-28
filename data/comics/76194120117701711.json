@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120117701711",
+  "title": "Aquaman #17",
+  "authors": [
+    "Dan Nakrosis",
+    "Eddie Berganza",
+    "Jim Calafiore",
+    "Kevin Dooley",
+    "Peter David",
+    "Peter Palmiotti",
+    "Tom McCraw"
+  ],
+  "publish_date": "1996-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/05/aquaman-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1801/",
+  "fetched_at": "2026-05-28T15:49:59.320Z",
+  "reviewed_at": "1996-02-01"
+}

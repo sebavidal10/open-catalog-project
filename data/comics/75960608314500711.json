@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608314500711",
+  "title": "Spider-Man #7",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Brian Michael Bendis",
+    "Cory Petit",
+    "Dan Buckley",
+    "Declan Shalvey",
+    "Devin Lewis",
+    "Jason Keith",
+    "Joe Quesada",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Nico Leon",
+    "Sara Pichelli"
+  ],
+  "publish_date": "2016-08-31",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/29/spider-man-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33334/",
+  "fetched_at": "2026-05-28T14:13:50.607Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608254404711",
+  "title": "Spider-Man / Deadpool #47",
+  "authors": [
+    "Alan Fine",
+    "Brian Reber",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Jake Thomas",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Kathleen Wisneski",
+    "Manny Mederos",
+    "Matt Horak",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Robbie Thompson",
+    "Scott Hanna",
+    "Will Robson"
+  ],
+  "publish_date": "2019-03-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/16/spider-man-deadpool-47.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43043/",
+  "fetched_at": "2026-05-28T14:30:26.093Z",
+  "reviewed_at": null
+}

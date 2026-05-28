@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608346600111",
+  "title": "The Amazing Spider-Man #1.1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Israel Silva",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jose Molina",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Robbi Rodriguez",
+    "Ryan Stegman",
+    "Simone Bianchi"
+  ],
+  "publish_date": "2015-12-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/31/the-amazing-spider-man-1-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37339/",
+  "fetched_at": "2026-05-28T14:09:25.855Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608254401311",
+  "title": "Spider-Man / Deadpool #13",
+  "authors": [
+    "Alan Fine",
+    "Allison Stock",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Ed McGuinness",
+    "Jason Keith",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Joe Sabino",
+    "John Dell",
+    "Jordan D. White",
+    "Mark Morales",
+    "Nick Lowe"
+  ],
+  "publish_date": "2017-01-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/16/spider-man-deadpool-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43009/",
+  "fetched_at": "2026-05-28T14:16:47.433Z",
+  "reviewed_at": null
+}

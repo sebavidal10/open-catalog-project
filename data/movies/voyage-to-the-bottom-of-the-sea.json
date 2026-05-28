@@ -1,0 +1,35 @@
+{
+  "title": "Voyage to the Bottom of the Sea",
+  "year": "1961",
+  "rated": "PG",
+  "released": "12 Jul 1961",
+  "runtime": "105 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Irwin Allen",
+  "writer": "Irwin Allen, Charles Bennett",
+  "actors": "Walter Pidgeon, Joan Fontaine, Barbara Eden",
+  "plot": "When the Earth is threatened by a burning Van Allen Radiation Belt, U.S. Navy Admiral Harriman Nelson plans to shoot a nuclear missile at the Belt, using his experimental atomic submarine, the Seaview.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTAxMTUwOTktMjVlZS00YmNkLTgwODAtNmQyN2M1YjM5YzgyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "metascore": "49",
+  "imdbRating": "6.0",
+  "imdbID": "tt0055608",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:15:21.854Z"
+}

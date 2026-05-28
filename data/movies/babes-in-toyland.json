@@ -1,0 +1,35 @@
+{
+  "title": "Babes in Toyland",
+  "year": "1961",
+  "rated": "Approved",
+  "released": "14 Dec 1961",
+  "runtime": "106 min",
+  "genre": "Comedy, Family, Fantasy",
+  "director": "Jack Donohue",
+  "writer": "Victor Herbert, Glen MacDonough, Ward Kimball",
+  "actors": "Ray Bolger, Tommy Sands, Annette Funicello",
+  "plot": "Mary Contrary is set to marry Tom Piper when he is kidnapped by Roderigo and Gonzorgo, two goons working for the evil Barnaby who wants to marry Mary for her inheritance.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 1 win & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDkzNTYxZTYtMDgxMi00ZDcyLWE1YTMtZWI0YmZkMGE4MzZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "36%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "6.1",
+  "imdbID": "tt0054649",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:15:13.300Z"
+}

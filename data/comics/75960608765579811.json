@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960608765579811",
+  "title": "The Amazing Spider-Man #798",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Edgar Delgado",
+    "Humberto Ramos",
+    "Javier Garrón",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Rachel Dodson",
+    "Romulo Fajardo Jr.",
+    "Stuart Immonen",
+    "Terry Dodson",
+    "Tom Groneman",
+    "Wade von Grawbadger"
+  ],
+  "publish_date": "2018-04-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/01/the-amazing-spider-man-798.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37354/",
+  "fetched_at": "2026-05-28T14:24:42.608Z",
+  "reviewed_at": null
+}

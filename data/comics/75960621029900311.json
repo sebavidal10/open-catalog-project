@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960621029900311",
+  "title": "Your Friendly Neighborhood Spider-Man #3",
+  "authors": [
+    "Benjamin Su",
+    "C. B. Cebulski",
+    "Christos N. Gage",
+    "Emerald Bensadoun",
+    "Eric Gapstur",
+    "Jim Campbell",
+    "Joe Caramagna",
+    "Jordan D. White",
+    "Leonardo Romero",
+    "Stacie Zucker"
+  ],
+  "publish_date": "2025-02-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/02/09/aa54b1f97a734c7d86ac045a6276a5c5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/135301/",
+  "fetched_at": "2026-05-28T15:15:57.338Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960620200306211",
+  "title": "The Amazing Spider-Man #62",
+  "authors": [
+    "Alex Saviuk",
+    "C. B. Cebulski",
+    "Cliff Rathburn",
+    "Dean White",
+    "Ed McGuinness",
+    "Erick Arciniega",
+    "Francesco Mobili",
+    "Frank Martin",
+    "Gleb Melnikov",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Kaitlyn Lindtvedt",
+    "Marcio Menyz",
+    "Mark Farmer",
+    "Nick Lowe",
+    "Rachelle Rosenberg",
+    "Skottie Young",
+    "Tom Groneman",
+    "Wade von Grawbadger"
+  ],
+  "publish_date": "2024-11-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/15/d3d206ae17b84a6bb3fa2f69261b7d0f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131604/",
+  "fetched_at": "2026-05-28T15:13:58.399Z",
+  "reviewed_at": null
+}

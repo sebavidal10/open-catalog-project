@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960621001502011",
+  "title": "The Amazing Spider-Man #20",
+  "authors": [
+    "Benjamin Su",
+    "C. B. Cebulski",
+    "Clayton Crain",
+    "Dean White",
+    "Erick Arciniega",
+    "Gabriele Dell'Otto",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "John Romita Jr.",
+    "Kaitlyn Lindtvedt",
+    "Lee Bermejo",
+    "Marcio Menyz",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Paco Díaz",
+    "Scott Hanna",
+    "Todd Nauck",
+    "Tom Groneman"
+  ],
+  "publish_date": "2026-01-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/04/d204c5d11e3e400cbdc97ab009ebd2e6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/159721/",
+  "fetched_at": "2026-05-28T15:23:55.524Z",
+  "reviewed_at": null
+}

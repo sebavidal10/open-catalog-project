@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608254400211",
+  "title": "Spider-Man / Deadpool #2",
+  "authors": [
+    "Alan Fine",
+    "Andrew Crossley",
+    "Axel Alonso",
+    "Dan Buckley",
+    "David Marquez",
+    "Devin Lewis",
+    "Ed McGuinness",
+    "Jason Keith",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Jordan D. White",
+    "Mark Morales",
+    "Marte Gracia",
+    "Nick Lowe"
+  ],
+  "publish_date": "2016-02-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/16/spider-man-deadpool-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42998/",
+  "fetched_at": "2026-05-28T14:10:39.653Z",
+  "reviewed_at": null
+}

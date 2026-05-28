@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960620200306311",
+  "title": "The Amazing Spider-Man #63",
+  "authors": [
+    "C. B. Cebulski",
+    "Ed McGuinness",
+    "Francesco D'Ippolito",
+    "Gleb Melnikov",
+    "Joe Caramagna",
+    "Justina Ireland",
+    "Kaitlyn Lindtvedt",
+    "Lucas Werneck",
+    "Marcio Menyz",
+    "Nick Lowe",
+    "Rafael Albuquerque",
+    "Skottie Young",
+    "Tom Groneman"
+  ],
+  "publish_date": "2024-12-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/12/06/264c13ca59ad4f6f8be3d09e8c0b39c8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/132663/",
+  "fetched_at": "2026-05-28T15:14:32.199Z",
+  "reviewed_at": null
+}

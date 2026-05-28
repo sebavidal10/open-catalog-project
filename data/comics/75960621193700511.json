@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960621193700511",
+  "title": "Amazing Spider-Man: Torn #5",
+  "authors": [
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Dean White",
+    "Guru-eFX",
+    "Ivan Tao",
+    "J. Michael Straczynski",
+    "Joe Caramagna",
+    "Kaitlyn Lindtvedt",
+    "Mark Bagley",
+    "Matteo Della Fonte",
+    "Mattia Iacono",
+    "Nick Lowe",
+    "Pere Pérez"
+  ],
+  "publish_date": "2026-02-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/30/7afefa7689b04ab5aa619a004346d2cc.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/161508/",
+  "fetched_at": "2026-05-28T15:24:46.405Z",
+  "reviewed_at": null
+}

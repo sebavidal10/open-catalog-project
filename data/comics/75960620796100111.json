@@ -1,0 +1,39 @@
+{
+  "isbn": null,
+  "upc": "75960620796100111",
+  "title": "Ultimate Spider-Man #1",
+  "authors": [
+    "C. B. Cebulski",
+    "Cory Petit",
+    "David Marquez",
+    "Edgar Delgado",
+    "Elizabeth Torque",
+    "Jay Bowen",
+    "Jay David Ramos",
+    "Jonathan Hickman",
+    "J. P. Mayer",
+    "J. Scott Campbell",
+    "Marco Checchetto",
+    "Mark Bagley",
+    "Marte Gracia",
+    "Mateus Manhanini",
+    "Matthew Wilson",
+    "Matt Milla",
+    "Michelle Marchese",
+    "Nic Klein",
+    "Ryan Stegman",
+    "Sabine Rich",
+    "Tony Daniel",
+    "Wil Moss"
+  ],
+  "publish_date": "2024-01-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/01/04/f68a1e8eedc34b989b0adc8e015782ea.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/101076/",
+  "fetched_at": "2026-05-28T15:06:04.742Z",
+  "reviewed_at": null
+}

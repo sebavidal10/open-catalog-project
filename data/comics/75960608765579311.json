@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960608765579311",
+  "title": "The Amazing Spider-Man #793",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Allison Stock",
+    "Anthony Gambino",
+    "Axel Alonso",
+    "Brian Reber",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Jay Leisten",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Mike Costa",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Ryan Stegman",
+    "Tom Groneman"
+  ],
+  "publish_date": "2017-12-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/01/the-amazing-spider-man-793.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37349/",
+  "fetched_at": "2026-05-28T14:22:27.582Z",
+  "reviewed_at": null
+}

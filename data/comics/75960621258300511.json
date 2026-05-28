@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960621258300511",
+  "title": "Spider-Man & Wolverine #5",
+  "authors": [
+    "Adam Del Re",
+    "Andrei Bressan",
+    "Ario Anindito",
+    "Brian Reber",
+    "C. B. Cebulski",
+    "Ceci de la Cruz",
+    "Cory Smith",
+    "Cy Pedro Beltran",
+    "Jesus Aburtov",
+    "Kaare Andrews",
+    "Marc Guggenheim",
+    "Mark Basso",
+    "Nick Lowe",
+    "Tom Brevoort",
+    "Travis Lanham"
+  ],
+  "publish_date": "2025-09-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/09/12/fc1f94d848d640728c39d5fd3dc60bd8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/153835/",
+  "fetched_at": "2026-05-28T15:20:36.756Z",
+  "reviewed_at": null
+}

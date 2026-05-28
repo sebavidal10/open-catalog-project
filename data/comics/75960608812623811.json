@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608812623811",
+  "title": "Spider-Man #238",
+  "authors": [
+    "Alan Fine",
+    "Brian Michael Bendis",
+    "Brian Reber",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dan Buckley",
+    "Idette Winecoor",
+    "Joe Quesada",
+    "Kathleen Wisneski",
+    "Nick Lowe",
+    "Oscar Bazaldua",
+    "Patrick Brown"
+  ],
+  "publish_date": "2018-03-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/29/spider-man-238.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33353/",
+  "fetched_at": "2026-05-28T14:24:24.372Z",
+  "reviewed_at": null
+}

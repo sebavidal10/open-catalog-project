@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608141700411",
+  "title": "The Amazing Spider-Man #19.1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Carlo Barberi",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Gerry Conway",
+    "Israel Silva",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Juan Vlasco",
+    "Justin Ponsor",
+    "Nick Lowe",
+    "Yasmine Putri"
+  ],
+  "publish_date": "2015-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/27/asm-v3-19-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17356/",
+  "fetched_at": "2026-05-28T14:07:36.514Z",
+  "reviewed_at": null
+}

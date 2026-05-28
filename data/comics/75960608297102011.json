@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960608297102011",
+  "title": "The Amazing Spider-Man #20",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Allison Stock",
+    "Anthony Gambino",
+    "Axel Alonso",
+    "Cam Smith",
+    "Christos N. Gage",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Giuseppe Camuncoli",
+    "Jason Keith",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Nick Lowe",
+    "Simone Bianchi"
+  ],
+  "publish_date": "2016-10-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37325/",
+  "fetched_at": "2026-05-28T14:14:49.178Z",
+  "reviewed_at": null
+}

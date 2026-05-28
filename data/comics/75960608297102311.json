@@ -1,0 +1,37 @@
+{
+  "isbn": null,
+  "upc": "75960608297102311",
+  "title": "The Amazing Spider-Man #23",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Allison Stock",
+    "Anthony Gambino",
+    "Axel Alonso",
+    "Cam Smith",
+    "Chris Sotomayor",
+    "Christos N. Gage",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Edgar Delgado",
+    "Giuseppe Camuncoli",
+    "Jason Keith",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "J. Scott Campbell",
+    "Keith Pollard",
+    "Nick Lowe",
+    "Simone Bianchi"
+  ],
+  "publish_date": "2017-01-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37328/",
+  "fetched_at": "2026-05-28T14:16:26.140Z",
+  "reviewed_at": null
+}

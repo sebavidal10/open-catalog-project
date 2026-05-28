@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608812623911",
+  "title": "Spider-Man #239",
+  "authors": [
+    "Alan Fine",
+    "Brian Michael Bendis",
+    "Brian Reber",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dan Buckley",
+    "Idette Winecoor",
+    "Joe Quesada",
+    "Kathleen Wisneski",
+    "Nick Lowe",
+    "Oscar Bazaldua",
+    "Patrick Brown"
+  ],
+  "publish_date": "2018-04-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/29/spider-man-239.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33354/",
+  "fetched_at": "2026-05-28T14:24:59.263Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960608936903211",
+  "title": "The Amazing Spider-Man #32",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "Arthur Adams",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Edgar Delgado",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Kathleen Wisneski",
+    "Mahmud A. Asrar",
+    "Matthew Wilson",
+    "Nathan Fairbairn",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Patrick Gleason",
+    "Ryan Ottley"
+  ],
+  "publish_date": "2019-10-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/18/asm-32.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6653/",
+  "fetched_at": "2026-05-28T14:35:53.255Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,38 @@
+{
+  "isbn": null,
+  "upc": "75960608812623411",
+  "title": "Spider-Man #234",
+  "authors": [
+    "Alan Fine",
+    "Andy Troy",
+    "Axel Alonso",
+    "Brian Michael Bendis",
+    "Cory Petit",
+    "Dan Buckley",
+    "Darren Shan",
+    "Frank D'Armata",
+    "Jesus Aburtov",
+    "Joe Quesada",
+    "John Dell",
+    "Justin Ponsor",
+    "Kathleen Wisneski",
+    "Mark Bagley",
+    "Mike McKone",
+    "Nick Lowe",
+    "Oscar Bazaldua",
+    "Patrick Brown",
+    "Robbie Thompson",
+    "Sanford Greene",
+    "Valerio Schiti"
+  ],
+  "publish_date": "2017-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/29/spider-man-234.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33349/",
+  "fetched_at": "2026-05-28T14:22:06.225Z",
+  "reviewed_at": null
+}

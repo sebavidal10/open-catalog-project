@@ -1,0 +1,35 @@
+{
+  "title": "The Hustler",
+  "year": "1961",
+  "rated": "Approved",
+  "released": "25 Sep 1961",
+  "runtime": "134 min",
+  "genre": "Drama, Sport",
+  "director": "Robert Rossen",
+  "writer": "Sidney Carroll, Robert Rossen, Walter Tevis",
+  "actors": "Paul Newman, Jackie Gleason, Piper Laurie",
+  "plot": "An up-and-coming pool player plays a long-time champion in a single high-stakes match.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 13 wins & 21 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjhjMWVhODAtZDhlYi00ZjIzLTk0ODItOGU0MDM3Njc5ODA0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "7.9",
+  "imdbID": "tt0054997",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:14:53.455Z"
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960609329800311",
+  "title": "Spider-Man: Life Story #3",
+  "authors": [
+    "ACO",
+    "Alan Fine",
+    "Alanna Smith",
+    "C. B. Cebulski",
+    "Chip Zdarsky",
+    "Dan Buckley",
+    "Frank D'Armata",
+    "Joe Quesada",
+    "John Dell",
+    "Mark Bagley",
+    "Shannon Andrews Ballesteros",
+    "Tom Brevoort",
+    "Travis Lanham"
+  ],
+  "publish_date": "2019-05-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/15/spiderman-lifestory-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2418/",
+  "fetched_at": "2026-05-28T14:32:14.921Z",
+  "reviewed_at": null
+}

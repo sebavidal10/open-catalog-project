@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960608936901511",
+  "title": "The Amazing Spider-Man #15",
+  "authors": [
+    "Alan Fine",
+    "Al Vey",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Chris Bachalo",
+    "Dan Buckley",
+    "Jim Campbell",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Livesay",
+    "Kathleen Wisneski",
+    "Lee Garbett",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Paolo Rivera",
+    "Tim Townsend",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2019-02-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/12/asm-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1297/",
+  "fetched_at": "2026-05-28T14:29:31.004Z",
+  "reviewed_at": null
+}

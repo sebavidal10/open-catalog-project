@@ -1,0 +1,27 @@
+{
+  "title": "Oscar Wilde",
+  "year": "1960",
+  "rated": "Not Rated",
+  "released": "01 May 1960",
+  "runtime": "96 min",
+  "genre": "Biography, Drama, History",
+  "director": "Gregory Ratoff",
+  "writer": "Jo Eisinger, Leslie Stokes, Frank Harris",
+  "actors": "Robert Morley, Phyllis Calvert, Ralph Richardson",
+  "plot": "Playwright Oscar Wilde's homosexuality is exposed when he brings a libel action against his lover's father, leading to his own prosecution.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjU3NWY0Y2QtNDg1OS00NTI0LWFmODEtNGJjY2UzNTIyNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0053149",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:07:15.540Z"
+}

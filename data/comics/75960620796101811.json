@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960620796101811",
+  "title": "Ultimate Spider-Man #18",
+  "authors": [
+    "C. B. Cebulski",
+    "Cory Petit",
+    "David Curiel",
+    "Erick Arciniega",
+    "Gerardo Sandoval",
+    "Iban Coello",
+    "Jay Bowen",
+    "Jesus Aburtov",
+    "Jonathan Hickman",
+    "Marco Checchetto",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Rachel Dodson",
+    "Terry Dodson",
+    "Wil Moss"
+  ],
+  "publish_date": "2025-06-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/06/10/781ac0a6064247ce9e070fb087ebac2b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/148925/",
+  "fetched_at": "2026-05-28T15:18:16.900Z",
+  "reviewed_at": null
+}

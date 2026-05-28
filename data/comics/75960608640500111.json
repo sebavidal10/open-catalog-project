@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608640500111",
+  "title": "Spider-Man / Deadpool #1.MU",
+  "authors": [
+    "Alan Fine",
+    "Allison Stock",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dave Johnson",
+    "Devin Lewis",
+    "Gustavo Duarte",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Jordan D. White",
+    "Joshua Corin",
+    "Nick Lowe",
+    "Rachelle Rosenberg",
+    "Tigh Walker"
+  ],
+  "publish_date": "2017-01-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/16/spider-man-deadpool-1MU.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43047/",
+  "fetched_at": "2026-05-28T14:16:51.941Z",
+  "reviewed_at": null
+}

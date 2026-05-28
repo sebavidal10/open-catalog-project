@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960609329800111",
+  "title": "Spider-Man: Life Story #1",
+  "authors": [
+    "Alan Fine",
+    "Alanna Smith",
+    "C. B. Cebulski",
+    "Chip Zdarsky",
+    "Dan Buckley",
+    "Frank D'Armata",
+    "Greg Smallwood",
+    "Joe Quesada",
+    "John Dell",
+    "Marcos Martín",
+    "Mark Bagley",
+    "Skottie Young",
+    "Tom Brevoort",
+    "Travis Lanham"
+  ],
+  "publish_date": "2019-03-20",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/03/20/sm-life-story-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1598/",
+  "fetched_at": "2026-05-28T14:30:35.205Z",
+  "reviewed_at": null
+}

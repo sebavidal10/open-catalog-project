@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960620200305211",
+  "title": "The Amazing Spider-Man #52",
+  "authors": [
+    "Adi Granov",
+    "C. B. Cebulski",
+    "Davi Go",
+    "Ed McGuinness",
+    "Erick Arciniega",
+    "Joe Caramagna",
+    "Kaeden McGahey",
+    "Marcio Menyz",
+    "Mark Farmer",
+    "Nick Lowe",
+    "Pablo Villalobos",
+    "Skottie Young",
+    "Todd Nauck",
+    "Tom Groneman",
+    "Wade von Grawbadger",
+    "Zeb Wells"
+  ],
+  "publish_date": "2024-06-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/13/097bc9450e4a481681d72977621286e6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/122306/",
+  "fetched_at": "2026-05-28T15:09:35.326Z",
+  "reviewed_at": null
+}

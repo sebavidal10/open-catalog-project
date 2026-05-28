@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960620200304311",
+  "title": "The Amazing Spider-Man #43",
+  "authors": [
+    "C. B. Cebulski",
+    "David Curiel",
+    "Emanuela Lupacchino",
+    "Federico Blee",
+    "Joe Caramagna",
+    "John Romita Jr.",
+    "Justin Mason",
+    "Kaeden McGahey",
+    "Lorenzo Pastrovicchio",
+    "Marcio Menyz",
+    "Nick Lowe",
+    "Scott Hanna",
+    "Zeb Wells"
+  ],
+  "publish_date": "2024-02-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/02/03/514f5c27b76844b48150a1ef8ae121f6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/107637/",
+  "fetched_at": "2026-05-28T15:06:15.693Z",
+  "reviewed_at": null
+}

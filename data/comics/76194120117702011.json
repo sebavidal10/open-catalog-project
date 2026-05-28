@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120117702011",
+  "title": "Aquaman #20",
+  "authors": [
+    "Dan Nakrosis",
+    "Eddie Berganza",
+    "Howard Shum",
+    "Kevin Dooley",
+    "Martin Egeland",
+    "Peter David",
+    "Phil Jimenez",
+    "Tom McCraw"
+  ],
+  "publish_date": "1996-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/05/aquaman-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1804/",
+  "fetched_at": "2026-05-28T15:50:37.373Z",
+  "reviewed_at": null
+}

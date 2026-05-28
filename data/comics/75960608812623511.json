@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608812623511",
+  "title": "Spider-Man #235",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Brian Michael Bendis",
+    "Brian Reber",
+    "Cory Petit",
+    "Dan Buckley",
+    "Idette Winecoor",
+    "Joe Quesada",
+    "Kathleen Wisneski",
+    "Nick Lowe",
+    "Oscar Bazaldua",
+    "Patrick Brown"
+  ],
+  "publish_date": "2017-12-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/29/spider-man-235.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33350/",
+  "fetched_at": "2026-05-28T14:22:43.581Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120117700811",
+  "title": "Aquaman #8",
+  "authors": [
+    "Casey Jones",
+    "Craig Gilmore",
+    "Dan Nakrosis",
+    "Eddie Berganza",
+    "Howard Shum",
+    "Kevin Dooley",
+    "Martin Egeland",
+    "Peter David",
+    "Tom McCraw"
+  ],
+  "publish_date": "1995-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/02/aquaman-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1784/",
+  "fetched_at": "2026-05-28T15:48:15.712Z",
+  "reviewed_at": "1995-04-01"
+}

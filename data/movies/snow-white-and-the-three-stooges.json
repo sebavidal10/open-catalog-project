@@ -1,0 +1,27 @@
+{
+  "title": "Snow White and the Three Stooges",
+  "year": "1961",
+  "rated": "PG",
+  "released": "21 Jun 1961",
+  "runtime": "107 min",
+  "genre": "Adventure, Comedy, Family",
+  "director": "Walter Lang, Frank Tashlin",
+  "writer": "Noel Langley, Elwood Ullman, Charles Wick",
+  "actors": "Moe Howard, Larry Fine, Carol Heiss",
+  "plot": "An ice-skating Snow White finds refuge from the Wicked Queen with the Three Stooges.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2ZlMmJlYzgtY2Y3ZS00ODk1LTkwMTMtMTY1ZDdlY2M2NWQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0055458",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:16:15.629Z"
+}

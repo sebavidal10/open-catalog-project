@@ -1,0 +1,27 @@
+{
+  "title": "Sarhad",
+  "year": "1960",
+  "rated": "Not Rated",
+  "released": "N/A",
+  "runtime": "118 min",
+  "genre": "Drama",
+  "director": "Shankar Mukherjee",
+  "writer": "Ranjan Bose, Vrajendra Gaur",
+  "actors": "Dev Anand, Suchitra Sen, Ragini",
+  "plot": "Four people embroiled in complicated relationships look for closure.",
+  "language": "Hindi",
+  "country": "India",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmU2ZGM2YjUtODRhYS00NGU3LTllNzctYmI3NzA1M2MzMTY4XkEyXkFqcGdeQXVyNjgyOTU0ODU@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0274791",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:14:34.964Z"
+}

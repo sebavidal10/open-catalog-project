@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960608936902111",
+  "title": "The Amazing Spider-Man #21",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Edgar Delgado",
+    "Erick Arciniega",
+    "Gerardo Sandoval",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Kathleen Wisneski",
+    "Leinil Francis Yu",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Sunny Gho",
+    "Victor Nava"
+  ],
+  "publish_date": "2019-05-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/12/amazing-spiderman-21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2344/",
+  "fetched_at": "2026-05-28T14:31:48.176Z",
+  "reviewed_at": null
+}

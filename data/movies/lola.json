@@ -1,0 +1,35 @@
+{
+  "title": "Lola",
+  "year": "1961",
+  "rated": "Not Rated",
+  "released": "14 Oct 1962",
+  "runtime": "90 min",
+  "genre": "Drama, Romance",
+  "director": "Jacques Demy",
+  "writer": "Jacques Demy",
+  "actors": "Anouk Aimée, Marc Michel, Jacques Harden",
+  "plot": "A bored young man meets with his former girlfriend, now a cabaret dancer and single mother, and soon finds himself falling back in love with her.",
+  "language": "French, English",
+  "country": "France, Italy",
+  "awards": "Nominated for 2 BAFTA 2 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA2NTQxNjAtZWZiOS00OGJjLWE5NmItMjBlMGU4ZTA2NWU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.4",
+  "imdbID": "tt0055093",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:14:41.310Z"
+}

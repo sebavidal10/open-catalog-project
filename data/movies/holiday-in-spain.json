@@ -1,0 +1,31 @@
+{
+  "title": "Holiday in Spain",
+  "year": "1960",
+  "rated": "Not Rated",
+  "released": "06 Jan 1960",
+  "runtime": "125 min",
+  "genre": "Adventure, Crime, Mystery",
+  "director": "Jack Cardiff",
+  "writer": "Audrey Roos, William Roos",
+  "actors": "Denholm Elliott, Peter Lorre, Beverly Bentley",
+  "plot": "Vacationing Englishman Oliver Larker stumbles upon a plot to kill a young American tourist in Spain.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTA3NTZlM2YtM2E1Ni00Njk2LThhMzQtMjVkMjY5NzllZmNmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0054271",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:04:20.386Z"
+}

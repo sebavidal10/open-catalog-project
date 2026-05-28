@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960620200305111",
+  "title": "The Amazing Spider-Man #51",
+  "authors": [
+    "Bryan Valenza",
+    "C. B. Cebulski",
+    "Cliff Rathburn",
+    "Ed McGuinness",
+    "Erick Arciniega",
+    "Ivan Bidarella",
+    "Joe Caramagna",
+    "Kaeden McGahey",
+    "Marcio Menyz",
+    "Mark Farmer",
+    "Nick Lowe",
+    "Skottie Young",
+    "Todd Nauck",
+    "Tom Groneman",
+    "Tony Harris",
+    "Wade von Grawbadger",
+    "Zeb Wells"
+  ],
+  "publish_date": "2024-06-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/27/c5309265f5524368bdc8142e5b7cb5c0.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/120342/",
+  "fetched_at": "2026-05-28T15:09:31.054Z",
+  "reviewed_at": null
+}

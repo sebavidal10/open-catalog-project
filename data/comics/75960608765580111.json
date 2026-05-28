@@ -1,0 +1,39 @@
+{
+  "isbn": null,
+  "upc": "75960608765580111",
+  "title": "The Amazing Spider-Man #801",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Edgar Delgado",
+    "Gabriele Dell'Otto",
+    "Humberto Ramos",
+    "InHyuk Lee",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "J. Scott Campbell",
+    "Kathleen Wisneski",
+    "Marcos Martín",
+    "Matthew Wilson",
+    "Mike Mayhew",
+    "Muntsa Vicente",
+    "Nick Lowe",
+    "Russell Dauterman",
+    "Tom Groneman",
+    "Tyler Kirkham"
+  ],
+  "publish_date": "2018-06-20",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/01/the-amazing-spider-man-801.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37357/",
+  "fetched_at": "2026-05-28T14:25:47.709Z",
+  "reviewed_at": null
+}

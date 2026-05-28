@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960608936902011",
+  "title": "The Amazing Spider-Man #20",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Edgar Delgado",
+    "Erick Arciniega",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Dell",
+    "Justin Ponsor",
+    "Kathleen Wisneski",
+    "Leinil Francis Yu",
+    "Mark Bagley",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Sunny Gho",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2019-04-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/21/amazing-spiderman-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2061/",
+  "fetched_at": "2026-05-28T14:31:03.676Z",
+  "reviewed_at": null
+}

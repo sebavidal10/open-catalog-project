@@ -1,0 +1,43 @@
+{
+  "isbn": null,
+  "upc": "75960608765579711",
+  "title": "The Amazing Spider-Man #797",
+  "authors": [
+    "Aaron Kuder",
+    "Alan Fine",
+    "Alex Ross",
+    "C. B. Cebulski",
+    "Clayton Crain",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Edgar Delgado",
+    "Ed McGuinness",
+    "Gabriele Dell'Otto",
+    "Humberto Ramos",
+    "Jason Keith",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marte Gracia",
+    "Michael Kelleher",
+    "Mike Esposito",
+    "Mike Mayhew",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Ross Andru",
+    "Stuart Immonen",
+    "Tom Groneman",
+    "Tyler Kirkham",
+    "Wade von Grawbadger"
+  ],
+  "publish_date": "2018-03-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/01/the-amazing-spider-man-797.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37353/",
+  "fetched_at": "2026-05-28T14:24:03.313Z",
+  "reviewed_at": null
+}

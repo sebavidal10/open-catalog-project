@@ -1,0 +1,31 @@
+{
+  "title": "A Taste of Honey",
+  "year": "1961",
+  "rated": "Approved",
+  "released": "30 Apr 1962",
+  "runtime": "101 min",
+  "genre": "Drama",
+  "director": "Tony Richardson",
+  "writer": "Shelagh Delaney, Tony Richardson",
+  "actors": "Rita Tushingham, Dora Bryan, Robert Stephens",
+  "plot": "A pregnant teenage girl must fend for herself when her mother remarries, leaving the girl with only a new male friend for support.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Won 4 BAFTA 10 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGQyZmZkNGEtOGM3YS00OWE5LTg5NDMtMDA3MDllZmJiZDIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0055506",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:15:14.513Z"
+}

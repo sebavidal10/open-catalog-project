@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960609123200711",
+  "title": "Miles Morales: Spider-Man #7",
+  "authors": [
+    "Alan Fine",
+    "Alitha Martinez",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dan Buckley",
+    "David Curiel",
+    "Dexter Vines",
+    "Erick Arciniega",
+    "Javier Garrón",
+    "Joe Quesada",
+    "Kathleen Wisneski",
+    "Nick Lowe",
+    "Patrick O'Keefe",
+    "Ron Ackins",
+    "Saladin Ahmed",
+    "Vanesa R. Del Rey"
+  ],
+  "publish_date": "2019-06-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/20/miles-morales-spider-man-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/32769/",
+  "fetched_at": "2026-05-28T14:33:05.256Z",
+  "reviewed_at": null
+}

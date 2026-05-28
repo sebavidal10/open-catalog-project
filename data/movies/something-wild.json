@@ -1,0 +1,31 @@
+{
+  "title": "Something Wild",
+  "year": "1961",
+  "rated": "Not Rated",
+  "released": "01 Jan 1962",
+  "runtime": "113 min",
+  "genre": "Drama",
+  "director": "Jack Garfein",
+  "writer": "Jack Garfein, Alex Karmel",
+  "actors": "Carroll Baker, Ralph Meeker, Mildred Dunnock",
+  "plot": "A simple mechanic's love saves a rape victim in Manhattan.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjQ5M2Q4ZjQtODRiYi00ZmNlLTg1MWUtNDI3OGMwZDg2ZDY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0055464",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:16:08.101Z"
+}

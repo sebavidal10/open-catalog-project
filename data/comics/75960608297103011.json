@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960608297103011",
+  "title": "The Amazing Spider-Man #30",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Allison Stock",
+    "Axel Alonso",
+    "Chris Sotomayor",
+    "Christos N. Gage",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Jim Lee",
+    "Joe Caramagna",
+    "Joe Frontirre",
+    "Joe Quesada",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Stuart Immonen",
+    "Wade von Grawbadger"
+  ],
+  "publish_date": "2017-07-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-30.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37335/",
+  "fetched_at": "2026-05-28T14:19:42.518Z",
+  "reviewed_at": null
+}

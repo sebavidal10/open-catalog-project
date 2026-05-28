@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608297100311",
+  "title": "The Amazing Spider-Man #3",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Axel Alonso",
+    "Cam Smith",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Gabriele Dell'Otto",
+    "Giuseppe Camuncoli",
+    "Joe Quesada",
+    "Marte Gracia",
+    "Nick Lowe"
+  ],
+  "publish_date": "2015-11-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37308/",
+  "fetched_at": "2026-05-28T14:09:06.256Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960609432500111",
+  "title": "Spider-Man & The League of Realms #1",
+  "authors": [
+    "Alan Fine",
+    "Brian Reber",
+    "Carlos Lopez",
+    "C. B. Cebulski",
+    "Cully Hamner",
+    "Dan Buckley",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Kathleen Wisneski",
+    "Ken Lashley",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Nico Leon",
+    "Sean Ryan"
+  ],
+  "publish_date": "2019-05-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/12/spiderman-league-realms-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2354/",
+  "fetched_at": "2026-05-28T14:32:19.490Z",
+  "reviewed_at": null
+}

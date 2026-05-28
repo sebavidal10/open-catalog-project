@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608936901011",
+  "title": "The Amazing Spider-Man #10",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Edgar Delgado",
+    "Humberto Ramos",
+    "Jason Keith",
+    "Joe Quesada",
+    "J. Scott Campbell",
+    "Kathleen Wisneski",
+    "Michele Bandini",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2018-11-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2018/12/08/asm-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/335/",
+  "fetched_at": "2026-05-28T14:27:57.074Z",
+  "reviewed_at": null
+}

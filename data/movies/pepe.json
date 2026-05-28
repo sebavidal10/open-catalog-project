@@ -1,0 +1,27 @@
+{
+  "title": "Pepe",
+  "year": "1960",
+  "rated": "Unrated",
+  "released": "27 Feb 1961",
+  "runtime": "180 min",
+  "genre": "Comedy, Musical",
+  "director": "George Sidney",
+  "writer": "Dorothy Kingsley, Claude Binyon, Leonard Spigelgass",
+  "actors": "Cantinflas, Dan Dailey, Shirley Jones",
+  "plot": "The young Mexican Pepe's beloved horse is sold to Hollywood director Ted Holt, leading to Pepe's journey to Hollywood to get the horse back, and Pepe's encounter with half the stars working in Hollywood at the time.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 7 Oscars. 2 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTY3MjVkZDItMGQ4Ni00MjMzLWI4YzMtYjBkZjJjZDNlNGVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.4",
+  "imdbID": "tt0054172",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:04:26.724Z"
+}

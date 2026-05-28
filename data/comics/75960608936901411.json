@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960608936901411",
+  "title": "The Amazing Spider-Man #14",
+  "authors": [
+    "Alan Fine",
+    "Al Vey",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Chris Bachalo",
+    "Dan Buckley",
+    "Gerald Parel",
+    "Greg Land",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Livesay",
+    "Kathleen Wisneski",
+    "Nathan Fairbairn",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Ryan Ottley",
+    "Tim Townsend",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2019-01-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/29/asm-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1197/",
+  "fetched_at": "2026-05-28T14:28:56.501Z",
+  "reviewed_at": null
+}

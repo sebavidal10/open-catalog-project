@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608765579111",
+  "title": "The Amazing Spider-Man #791",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Allison Stock",
+    "Axel Alonso",
+    "Carlos Lao",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Idette Winecoor",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Nick Lowe",
+    "Rain Beredo",
+    "Stuart Immonen",
+    "Wade von Grawbadger"
+  ],
+  "publish_date": "2017-11-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/01/the-amazing-spider-man-791.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37347/",
+  "fetched_at": "2026-05-28T14:21:50.224Z",
+  "reviewed_at": null
+}

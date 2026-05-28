@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960608314501011",
+  "title": "Spider-Man #10",
+  "authors": [
+    "Alan Fine",
+    "Allison Stock",
+    "Axel Alonso",
+    "Brian Michael Bendis",
+    "Cory Petit",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Jason Keith",
+    "Joe Quesada",
+    "Justin Ponsor",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Nico Leon",
+    "Pasqual Ferry",
+    "Rachelle Rosenberg",
+    "Sara Pichelli"
+  ],
+  "publish_date": "2016-12-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/29/spider-man-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33337/",
+  "fetched_at": "2026-05-28T14:15:57.824Z",
+  "reviewed_at": null
+}

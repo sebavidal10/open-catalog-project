@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960621001501911",
+  "title": "The Amazing Spider-Man #19",
+  "authors": [
+    "C. B. Cebulski",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Kaitlyn Lindtvedt",
+    "Lee Bermejo",
+    "Lee Garbett",
+    "Marcio Menyz",
+    "Marte Gracia",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Pepe Larraz",
+    "Sara Pichelli",
+    "Tom Groneman"
+  ],
+  "publish_date": "2026-01-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/12/21/1ca3d05d92974f2cb482987b3238ba1b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/158808/",
+  "fetched_at": "2026-05-28T15:23:51.018Z",
+  "reviewed_at": null
+}

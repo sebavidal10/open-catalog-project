@@ -1,0 +1,31 @@
+{
+  "title": "The Last Voyage",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "19 Feb 1960",
+  "runtime": "91 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Andrew L. Stone",
+  "writer": "Andrew L. Stone",
+  "actors": "Robert Stack, Dorothy Malone, George Sanders",
+  "plot": "After a boiler explosion aboard an aging ocean liner, a man struggles to free his injured wife from the wreckage of their cabin and ensure the safety of their four-year-old daughter as the ship begins to sink.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzhkMGI5MDEtMjkyNC00NWEyLWEyODgtMTM1NzI5MmY4YjAxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0054016",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:05:22.581Z"
+}

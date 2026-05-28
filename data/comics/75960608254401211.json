@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608254401211",
+  "title": "Spider-Man / Deadpool #12",
+  "authors": [
+    "Alan Fine",
+    "Allison Stock",
+    "Anthony Gambino",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dave Johnson",
+    "Devin Lewis",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Jordan D. White",
+    "Nick Giovannetti",
+    "Nick Lowe",
+    "Paul Scheer",
+    "Rachelle Rosenberg",
+    "Todd Nauck"
+  ],
+  "publish_date": "2016-12-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/16/spider-man-deadpool-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43008/",
+  "fetched_at": "2026-05-28T14:16:10.247Z",
+  "reviewed_at": null
+}

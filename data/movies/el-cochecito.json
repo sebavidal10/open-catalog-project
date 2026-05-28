@@ -1,0 +1,31 @@
+{
+  "title": "El cochecito",
+  "year": "1960",
+  "rated": "PG",
+  "released": "20 Apr 1961",
+  "runtime": "85 min",
+  "genre": "Comedy, Drama",
+  "director": "Marco Ferreri",
+  "writer": "Rafael Azcona, Marco Ferreri",
+  "actors": "José Isbert, Pedro Porcel, José Luis López Vázquez",
+  "plot": "Seventy-something Don Anselmo, a retired minister, becomes obsessed with owning a motorized wheelchair and fakes infirmity to get it.",
+  "language": "Spanish, French, German",
+  "country": "Spain",
+  "awards": "3 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWI3OWNlNTMtYWFjMC00ZTk0LThmOWUtOGRmZTMxMzNiZjg4XkEyXkFqcGdeQXVyMzIzNDU1NTY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0053724",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:05:01.284Z"
+}

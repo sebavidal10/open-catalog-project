@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960609407300111",
+  "title": "The Amazing Spider-Man #18.HU",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Erick Arciniega",
+    "Frank D'Armata",
+    "Greg Land",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Kathleen Wisneski",
+    "Ken Lashley",
+    "Nick Lowe",
+    "Nick Spencer"
+  ],
+  "publish_date": "2019-04-03",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/01/asm-18hu.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1767/",
+  "fetched_at": "2026-05-28T14:30:50.390Z",
+  "reviewed_at": null
+}

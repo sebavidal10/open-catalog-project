@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960608254402511",
+  "title": "Spider-Man / Deadpool #25",
+  "authors": [
+    "Alan Fine",
+    "Al Vey",
+    "Axel Alonso",
+    "Chris Bachalo",
+    "Chris O'Halloran",
+    "Dan Buckley",
+    "Dave Johnson",
+    "Joe Quesada",
+    "Joe Sabino",
+    "John Livesay",
+    "Jordan D. White",
+    "Kathleen Wisneski",
+    "Nick Lowe",
+    "Robbie Thompson",
+    "Scott Hepburn",
+    "Victor Olazaba",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2017-12-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/16/spider-man-deadpool-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43021/",
+  "fetched_at": "2026-05-28T14:22:47.520Z",
+  "reviewed_at": null
+}

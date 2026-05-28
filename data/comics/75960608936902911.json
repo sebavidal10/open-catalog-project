@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960608936902911",
+  "title": "The Amazing Spider-Man #29",
+  "authors": [
+    "Alan Fine",
+    "Andrew Hennessy",
+    "Anthony Gambino",
+    "Carlos Lopez",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Francesco Manna",
+    "Frank D'Armata",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Kathleen Wisneski",
+    "Mark Bagley",
+    "Nathan Fairbairn",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Ryan Ottley"
+  ],
+  "publish_date": "2019-09-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/09/06/asm-29.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/5206/",
+  "fetched_at": "2026-05-28T14:35:17.183Z",
+  "reviewed_at": null
+}

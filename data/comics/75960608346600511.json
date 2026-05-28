@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608346600511",
+  "title": "The Amazing Spider-Man #1.5",
+  "authors": [
+    "Alan Fine",
+    "Andrea Broccardo",
+    "Axel Alonso",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "David Curiel",
+    "Devin Lewis",
+    "Joe Quesada",
+    "Jose Molina",
+    "Lorenzo Ruggiero",
+    "Nick Lowe",
+    "Simone Bianchi"
+  ],
+  "publish_date": "2016-05-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/31/the-amazing-spider-man-1-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37343/",
+  "fetched_at": "2026-05-28T14:11:53.475Z",
+  "reviewed_at": null
+}

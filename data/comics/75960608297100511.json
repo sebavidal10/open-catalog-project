@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608297100511",
+  "title": "The Amazing Spider-Man #5",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Axel Alonso",
+    "Cam Smith",
+    "Christos N. Gage",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Giuseppe Camuncoli",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marte Gracia",
+    "Nick Lowe"
+  ],
+  "publish_date": "2015-12-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37310/",
+  "fetched_at": "2026-05-28T14:09:29.795Z",
+  "reviewed_at": null
+}

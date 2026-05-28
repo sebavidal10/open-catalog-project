@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960608297102111",
+  "title": "The Amazing Spider-Man #21",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Allison Stock",
+    "Anthony Gambino",
+    "Axel Alonso",
+    "Cam Smith",
+    "Christos N. Gage",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Giuseppe Camuncoli",
+    "Jason Keith",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Nick Lowe",
+    "Paolo Rivera",
+    "Roberto Poggi"
+  ],
+  "publish_date": "2016-11-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37326/",
+  "fetched_at": "2026-05-28T14:15:14.282Z",
+  "reviewed_at": null
+}

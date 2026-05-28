@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608812623611",
+  "title": "Spider-Man #236",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Brian Michael Bendis",
+    "Brian Reber",
+    "Cory Petit",
+    "Dan Buckley",
+    "Idette Winecoor",
+    "Joe Quesada",
+    "Kathleen Wisneski",
+    "Nick Lowe",
+    "Oscar Bazaldua",
+    "Patrick Brown"
+  ],
+  "publish_date": "2018-01-03",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/29/spider-man-236.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33351/",
+  "fetched_at": "2026-05-28T14:23:13.076Z",
+  "reviewed_at": null
+}

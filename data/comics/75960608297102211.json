@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960608297102211",
+  "title": "The Amazing Spider-Man #22",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Allison Stock",
+    "Anthony Gambino",
+    "Axel Alonso",
+    "Cam Smith",
+    "Christos N. Gage",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Giuseppe Camuncoli",
+    "Jason Keith",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Nick Lowe",
+    "Simone Bianchi",
+    "Tyler Kirkham"
+  ],
+  "publish_date": "2016-12-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37327/",
+  "fetched_at": "2026-05-28T14:15:45.622Z",
+  "reviewed_at": null
+}

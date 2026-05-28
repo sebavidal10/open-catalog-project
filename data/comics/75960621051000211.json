@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960621051000211",
+  "title": "Spider-Man '94 #2",
+  "authors": [
+    "Adam Del Re",
+    "C. B. Cebulski",
+    "Chris Campana",
+    "Chris Sotomayor",
+    "Danny Khazem",
+    "Jay Leisten",
+    "Jim Campbell",
+    "Jim Towe",
+    "J.M. DeMatteis",
+    "Joe Caramagna",
+    "John Tyler Christopher",
+    "Nick Bradshaw"
+  ],
+  "publish_date": "2025-10-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/09/26/de5e2bdef9534af0a80a3b605934afcf.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/155603/",
+  "fetched_at": "2026-05-28T15:21:27.523Z",
+  "reviewed_at": null
+}

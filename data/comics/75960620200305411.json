@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960620200305411",
+  "title": "The Amazing Spider-Man #54",
+  "authors": [
+    "C. B. Cebulski",
+    "Edgar Delgado",
+    "Ed McGuinness",
+    "Federica Mancin",
+    "Gabriele Dell'Otto",
+    "Javier Garrón",
+    "Jesus Aburtov",
+    "Joe Caramagna",
+    "Kaeden McGahey",
+    "Marcio Menyz",
+    "Mark Farmer",
+    "Nick Lowe",
+    "Tom Groneman",
+    "Wade von Grawbadger",
+    "Yasmine Putri",
+    "Zeb Wells"
+  ],
+  "publish_date": "2024-07-31",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/07/29/asm-54-fixed.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/125566/",
+  "fetched_at": "2026-05-28T15:10:32.351Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608297100711",
+  "title": "The Amazing Spider-Man #7",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marte Gracia",
+    "Matteo Buffagni",
+    "Michael Cho",
+    "Nick Lowe"
+  ],
+  "publish_date": "2016-02-03",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37312/",
+  "fetched_at": "2026-05-28T14:10:12.544Z",
+  "reviewed_at": null
+}

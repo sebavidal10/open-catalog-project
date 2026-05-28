@@ -1,0 +1,41 @@
+{
+  "isbn": null,
+  "upc": "75960620200306011",
+  "title": "The Amazing Spider-Man #60",
+  "authors": [
+    "Adam Hughes",
+    "Alessandro Cappuccio",
+    "C. B. Cebulski",
+    "Dave McCaig",
+    "Edgar Delgado",
+    "Ed McGuinness",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "John Romita Jr.",
+    "Kaeden McGahey",
+    "Kaitlyn Lindtvedt",
+    "Marcio Menyz",
+    "Mark Buckingham",
+    "Mark Farmer",
+    "Mattia Iacono",
+    "Nick Lowe",
+    "Paolo Rivera",
+    "Patrick Gleason",
+    "Rachelle Rosenberg",
+    "Scott Hanna",
+    "Stephen Platt",
+    "Todd Nauck",
+    "Tom Groneman",
+    "Zeb Wells"
+  ],
+  "publish_date": "2024-10-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/10/28/55c95d14e90744969bd57cf35bbf187a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130278/",
+  "fetched_at": "2026-05-28T15:13:19.967Z",
+  "reviewed_at": null
+}

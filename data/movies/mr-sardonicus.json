@@ -1,0 +1,31 @@
+{
+  "title": "Mr. Sardonicus",
+  "year": "1961",
+  "rated": "Approved",
+  "released": "18 Oct 1961",
+  "runtime": "89 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "William Castle",
+  "writer": "Ray Russell",
+  "actors": "Oscar Homolka, Ronald Lewis, Audrey Dalton",
+  "plot": "A mysterious and cruel Baron, whose face has become frozen in a horrifying grin, demands that a prominent London physician apply experimental treatments on him to restore his face.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGFiYzUwNzYtZmJjYy00MWU5LTg5MjEtNTFiMjU5YmJkZjE3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0055200",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:15:51.040Z"
+}

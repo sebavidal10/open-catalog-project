@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608254403011",
+  "title": "Spider-Man / Deadpool #30",
+  "authors": [
+    "Alan Fine",
+    "Al Vey",
+    "Brian Reber",
+    "C. B. Cebulski",
+    "Chris Bachalo",
+    "Dan Buckley",
+    "Elmo Bondoc",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Jordan D. White",
+    "Kathleen Wisneski",
+    "Nick Lowe",
+    "Robbie Thompson"
+  ],
+  "publish_date": "2018-03-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/16/spider-man-deadpool-30.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43026/",
+  "fetched_at": "2026-05-28T14:24:32.630Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960620200304811",
+  "title": "The Amazing Spider-Man #48",
+  "authors": [
+    "Annie Wu",
+    "C. B. Cebulski",
+    "David Marquez",
+    "Francesco Mobili",
+    "Jesus Aburtov",
+    "Joe Caramagna",
+    "John Romita Jr.",
+    "Kaeden McGahey",
+    "Marcio Menyz",
+    "Nick Lowe",
+    "Peach Momoko",
+    "Scott Hanna",
+    "Sonia Oback",
+    "Todd Nauck",
+    "Tom Groneman",
+    "Zeb Wells"
+  ],
+  "publish_date": "2024-04-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/04/13/975558c5354a497ba8d04dfc72f2c5c3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/115894/",
+  "fetched_at": "2026-05-28T15:07:49.943Z",
+  "reviewed_at": null
+}

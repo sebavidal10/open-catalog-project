@@ -1,0 +1,35 @@
+{
+  "title": "El Cid",
+  "year": "1961",
+  "rated": "Approved",
+  "released": "14 Dec 1961",
+  "runtime": "182 min",
+  "genre": "Biography, Drama, History",
+  "director": "Anthony Mann",
+  "writer": "Fredric M. Frank, Philip Yordan, Ben Barzman",
+  "actors": "Charlton Heston, Sophia Loren, Raf Vallone",
+  "plot": "The fabled Spanish hero Rodrigo Diaz de Vivar (a.k.a. El Cid) overcomes a family vendetta and court intrigue to defend Christian Spain against the Moors.",
+  "language": "Italian, Arabic, English, Latin",
+  "country": "Italy, United States",
+  "awards": "Nominated for 3 Oscars. 7 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmEyYzJkOTItMDQ3MC00MDA2LWIwZmMtNTczNzYyZTk3NWQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.2",
+  "imdbID": "tt0054847",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:15:03.244Z"
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608936902311",
+  "title": "The Amazing Spider-Man #23",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Cliff Rathburn",
+    "Dan Buckley",
+    "Daniel Acuña",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Kathleen Wisneski",
+    "Nathan Fairbairn",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Ryan Ottley"
+  ],
+  "publish_date": "2019-06-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/09/asm-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2737/",
+  "fetched_at": "2026-05-28T14:32:44.892Z",
+  "reviewed_at": null
+}

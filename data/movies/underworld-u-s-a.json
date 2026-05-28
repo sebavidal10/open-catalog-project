@@ -1,0 +1,31 @@
+{
+  "title": "Underworld U.S.A.",
+  "year": "1961",
+  "rated": "Not Rated",
+  "released": "01 Mar 1961",
+  "runtime": "99 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Samuel Fuller",
+  "writer": "Samuel Fuller, Joseph Dineen",
+  "actors": "Cliff Robertson, Dolores Dorn, Beatrice Kay",
+  "plot": "A teenager who witnesses the murder of his father vows to exact revenge on the four mobsters involved in the killing.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzVmMjdkMDgtMTU0ZC00NzcwLWI4ZDAtNjk2ZTExYTEwYTdkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0055571",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:16:11.737Z"
+}

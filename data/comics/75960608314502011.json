@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608314502011",
+  "title": "Spider-Man #20",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Brian Michael Bendis",
+    "Cory Petit",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Idette Winecoor",
+    "Joe Quesada",
+    "Justin Ponsor",
+    "Kathleen Wisneski",
+    "Ming Doyle",
+    "Nick Lowe",
+    "Nico Leon",
+    "Patrick Brown"
+  ],
+  "publish_date": "2017-09-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/29/spider-man-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33347/",
+  "fetched_at": "2026-05-28T14:21:03.530Z",
+  "reviewed_at": null
+}

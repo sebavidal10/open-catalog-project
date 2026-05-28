@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608936900811",
+  "title": "The Amazing Spider-Man #8",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Edgar Delgado",
+    "Humberto Ramos",
+    "J.G. Jones",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Kathleen Wisneski",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Victor Olazaba",
+    "Yoon Lee"
+  ],
+  "publish_date": "2018-10-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2018/12/08/asm-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/333/",
+  "fetched_at": "2026-05-28T14:27:26.848Z",
+  "reviewed_at": null
+}

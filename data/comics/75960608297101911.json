@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960608297101911",
+  "title": "The Amazing Spider-Man #19",
+  "authors": [
+    "Aaron Kuder",
+    "Alan Fine",
+    "Alex Ross",
+    "Allison Stock",
+    "Axel Alonso",
+    "Cam Smith",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Frank D'Armata",
+    "Giuseppe Camuncoli",
+    "Humberto Ramos",
+    "Jason Keith",
+    "Javier Garrón",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Nick Lowe"
+  ],
+  "publish_date": "2016-10-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37324/",
+  "fetched_at": "2026-05-28T14:14:45.057Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960620200304511",
+  "title": "The Amazing Spider-Man #45",
+  "authors": [
+    "Alejandro Sánchez",
+    "Alex Maleev",
+    "Carmen Nunez Carnero",
+    "C. B. Cebulski",
+    "Joe Caramagna",
+    "John Romita Jr.",
+    "Kaeden McGahey",
+    "Marcio Menyz",
+    "Nick Lowe",
+    "Scott Hanna",
+    "Tom Groneman",
+    "Vitale Mangiatordi",
+    "Zeb Wells"
+  ],
+  "publish_date": "2024-03-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/07/4020c3b85432458a9cf8d4919e60425b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/113753/",
+  "fetched_at": "2026-05-28T15:06:58.375Z",
+  "reviewed_at": null
+}

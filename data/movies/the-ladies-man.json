@@ -1,0 +1,31 @@
+{
+  "title": "The Ladies Man",
+  "year": "1961",
+  "rated": "Approved",
+  "released": "01 Aug 1961",
+  "runtime": "95 min",
+  "genre": "Comedy",
+  "director": "Jerry Lewis",
+  "writer": "Jerry Lewis, Bill Richmond, Mel Brooks",
+  "actors": "Jerry Lewis, Helen Traubel, Pat Stanley",
+  "plot": "A clueless, recently-single graduate unwittingly takes a job as a servant in a mansion inhabited by dozens of young women.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTUyZTk2ODItNDc4Mi00MjkyLWE1ZTUtYmU2Mzg5NzlkYmUyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0055069",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:15:54.703Z"
+}

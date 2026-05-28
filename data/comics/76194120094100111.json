@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120094100111",
+  "title": "Aquaman: Time and Tide #1",
+  "authors": [
+    "Brad Vancata",
+    "Dan Nakrosis",
+    "Eddie Berganza",
+    "Kevin Dooley",
+    "Kirk Jarvinen",
+    "Peter David",
+    "Tom McCraw"
+  ],
+  "publish_date": "1993-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/27/f664fd8f9c374f52b513b0801bbe3a7d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152399/",
+  "fetched_at": "2026-05-28T15:46:01.687Z",
+  "reviewed_at": "1993-12-01"
+}

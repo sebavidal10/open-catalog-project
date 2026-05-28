@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960608297100811",
+  "title": "The Amazing Spider-Man #8",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Joe Quesada",
+    "Marte Gracia",
+    "Matteo Buffagni",
+    "Nick Lowe"
+  ],
+  "publish_date": "2016-02-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37313/",
+  "fetched_at": "2026-05-28T14:10:16.655Z",
+  "reviewed_at": null
+}

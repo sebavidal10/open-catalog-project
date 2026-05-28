@@ -1,0 +1,35 @@
+{
+  "title": "One Hundred and One Dalmatians",
+  "year": "1961",
+  "rated": "G",
+  "released": "25 Jan 1961",
+  "runtime": "79 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Clyde Geronimi, Hamilton Luske, Wolfgang Reitherman",
+  "writer": "Bill Peet, Dodie Smith",
+  "actors": "Rod Taylor, Betty Lou Gerson, J. Pat O'Malley",
+  "plot": "When a litter of Dalmatian puppies are abducted by the minions of Cruella De Vil, the owners must find them before she uses them for a diabolical fashion statement.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 BAFTA Award2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTIyMzVmNmItYWFkNS00YWJkLTk3YTEtNTVhMmQ0ODFjYmY1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.3",
+  "imdbID": "tt0055254",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:14:36.181Z"
+}

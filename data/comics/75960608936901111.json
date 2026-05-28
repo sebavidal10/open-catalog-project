@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608936901111",
+  "title": "The Amazing Spider-Man #11",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Cliff Rathburn",
+    "Dan Buckley",
+    "David Curiel",
+    "Gabriele Dell'Otto",
+    "Giuseppe Camuncoli",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Kathleen Wisneski",
+    "Laura Martin",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Ryan Ottley"
+  ],
+  "publish_date": "2018-12-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2018/12/12/asm-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/411/",
+  "fetched_at": "2026-05-28T14:28:20.789Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Murder She Said",
+  "year": "1961",
+  "rated": "Approved",
+  "released": "07 Jan 1962",
+  "runtime": "87 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "George Pollock",
+  "writer": "Agatha Christie, David D. Osborn, David Pursall",
+  "actors": "Margaret Rutherford, Arthur Kennedy, Muriel Pavlow",
+  "plot": "When Miss Jane Marple reports witnessing a murder through the window of a passing train, the police dismiss her as a dotty spinster when no trace of the crime can be found.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2JkYjMxYTktZmI3Zi00ZTg4LTg3YTAtMWY0ZmYwMWFlNDI4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0055205",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:15:36.448Z"
+}

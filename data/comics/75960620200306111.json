@@ -1,0 +1,37 @@
+{
+  "isbn": null,
+  "upc": "75960620200306111",
+  "title": "The Amazing Spider-Man #61",
+  "authors": [
+    "Aaron Kuder",
+    "C. B. Cebulski",
+    "Ed McGuinness",
+    "Gleb Melnikov",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "John Romita Jr.",
+    "Kaeden McGahey",
+    "Kaitlyn Lindtvedt",
+    "Marcio Menyz",
+    "Mark Farmer",
+    "Nick Lowe",
+    "Niko Henrichon",
+    "Paolo Mottura",
+    "Paul Mounts",
+    "Richard Isanove",
+    "Scott Hanna",
+    "Simone Bianchi",
+    "Skottie Young",
+    "Tom Groneman"
+  ],
+  "publish_date": "2024-11-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/09/d726fa7ba8dd402884cbc3ddcb6ef63a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131176/",
+  "fetched_at": "2026-05-28T15:13:54.169Z",
+  "reviewed_at": null
+}

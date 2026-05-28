@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960621051000111",
+  "title": "Spider-Man '94 #1",
+  "authors": [
+    "Adam Del Re",
+    "C. B. Cebulski",
+    "Danny Khazem",
+    "Israel Silva",
+    "Jim Campbell",
+    "Jim Towe",
+    "J.M. DeMatteis",
+    "Joe Caramagna",
+    "John Tyler Christopher",
+    "Nick Bradshaw",
+    "Rachelle Rosenberg",
+    "Rickie Yagawa",
+    "Ron Lim",
+    "Tamra Bonvillain"
+  ],
+  "publish_date": "2025-09-03",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/19/2acf4dd88cb74602ad979049edc9fa28.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151952/",
+  "fetched_at": "2026-05-28T15:20:32.619Z",
+  "reviewed_at": null
+}

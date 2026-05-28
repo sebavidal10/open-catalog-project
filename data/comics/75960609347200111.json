@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960609347200111",
+  "title": "Spider-Man Annual #1",
+  "authors": [
+    "Alan Fine",
+    "C. B. Cebulski",
+    "Christopher Miller",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Danny Khazem",
+    "David Lafuente",
+    "Devin Lewis",
+    "Jason Latour",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Nick Lowe",
+    "Phil Lord",
+    "Rico Renzi"
+  ],
+  "publish_date": "2019-06-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/26/spider-man-annual-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3029/",
+  "fetched_at": "2026-05-28T14:33:10.177Z",
+  "reviewed_at": null
+}

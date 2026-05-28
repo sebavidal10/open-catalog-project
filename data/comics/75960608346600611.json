@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608346600611",
+  "title": "The Amazing Spider-Man #1.6",
+  "authors": [
+    "Alan Fine",
+    "Andrea Broccardo",
+    "Axel Alonso",
+    "Dan Buckley",
+    "David Curiel",
+    "Devin Lewis",
+    "Giuseppe Camuncoli",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Jose Molina",
+    "Matt Yackey",
+    "Nick Lowe",
+    "Simone Bianchi"
+  ],
+  "publish_date": "2016-07-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/31/the-amazing-spider-man-1-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37344/",
+  "fetched_at": "2026-05-28T14:12:57.935Z",
+  "reviewed_at": null
+}

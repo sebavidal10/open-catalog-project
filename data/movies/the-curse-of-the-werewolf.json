@@ -1,0 +1,31 @@
+{
+  "title": "The Curse of the Werewolf",
+  "year": "1961",
+  "rated": "Approved",
+  "released": "07 Jun 1961",
+  "runtime": "93 min",
+  "genre": "Horror",
+  "director": "Terence Fisher",
+  "writer": "Anthony Hinds, Guy Endore",
+  "actors": "Clifford Evans, Oliver Reed, Yvonne Romain",
+  "plot": "In eighteenth-century Spain, an adopted boy becomes a werewolf and terrorizes the inhabitants of his town.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmM1OThlODMtOWI4Ni00NGM0LTk3YTktMjY4ZTZmYjEwOWY1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0054777",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:15:20.625Z"
+}

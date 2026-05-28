@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608254404211",
+  "title": "Spider-Man / Deadpool #42",
+  "authors": [
+    "Alan Fine",
+    "Brian Reber",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Dave Johnson",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Kathleen Wisneski",
+    "Matt Horak",
+    "Nick Lowe",
+    "Nick Roche",
+    "Robbie Thompson"
+  ],
+  "publish_date": "2018-11-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/16/spider-man-deadpool-42.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43038/",
+  "fetched_at": "2026-05-28T14:28:10.051Z",
+  "reviewed_at": null
+}

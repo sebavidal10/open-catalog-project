@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620200304711",
+  "title": "The Amazing Spider-Man #47",
+  "authors": [
+    "C. B. Cebulski",
+    "Frank D'Armata",
+    "Greg Land",
+    "Joe Caramagna",
+    "John Romita Jr.",
+    "Kaeden McGahey",
+    "Marcio Menyz",
+    "Nick Lowe",
+    "Peach Momoko",
+    "Scott Hanna",
+    "Sonia Oback",
+    "Todd Nauck",
+    "Tom Groneman",
+    "Zeb Wells"
+  ],
+  "publish_date": "2024-04-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/29/a9fba37c41134c39841fb9cfd52427ea.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/115248/",
+  "fetched_at": "2026-05-28T15:07:44.933Z",
+  "reviewed_at": null
+}

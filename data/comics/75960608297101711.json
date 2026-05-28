@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608297101711",
+  "title": "The Amazing Spider-Man #17",
+  "authors": [
+    "Adriano Di Benedetto",
+    "Alan Fine",
+    "Alex Ross",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marte Gracia",
+    "Nick Lowe",
+    "R. B. Silva"
+  ],
+  "publish_date": "2016-08-31",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37322/",
+  "fetched_at": "2026-05-28T14:13:38.729Z",
+  "reviewed_at": null
+}

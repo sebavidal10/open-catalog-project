@@ -1,0 +1,31 @@
+{
+  "title": "Primary",
+  "year": "1960",
+  "rated": "Not Rated",
+  "released": "N/A",
+  "runtime": "60 min",
+  "genre": "Documentary, History, News",
+  "director": "Robert Drew",
+  "writer": "Robert Drew",
+  "actors": "Robert Drew, Hubert H. Humphrey, Muriel Buck Humphrey",
+  "plot": "Cinéma vérité feature that follows presidential hopefuls John F. Kennedy and Hubert H. Humphrey during the 1960 Wisconsin primary.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkyODI3NTYzN15BMl5BanBnXkFtZTgwNjY2MTI1OTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0054205",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:07:16.752Z"
+}

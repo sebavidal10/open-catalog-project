@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608936906511",
+  "title": "The Amazing Spider-Man #65",
+  "authors": [
+    "Alex Sinclair",
+    "Anthony Gambino",
+    "Brian Reber",
+    "C. B. Cebulski",
+    "Federico Sabbatini",
+    "Federico Vicentini",
+    "Joe Caramagna",
+    "John Dell",
+    "Lindsey Cohick",
+    "Mark Bagley",
+    "Nick Lowe",
+    "Nick Spencer"
+  ],
+  "publish_date": "2021-05-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/04/29/asm-65.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/29919/",
+  "fetched_at": "2026-05-28T14:44:51.788Z",
+  "reviewed_at": null
+}

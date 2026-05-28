@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960609122500511",
+  "title": "Superior Spider-Man #5",
+  "authors": [
+    "Alan Fine",
+    "Andy Owens",
+    "Annalise Bissa",
+    "Anthony Gambino",
+    "Carlos Pacheco",
+    "C. B. Cebulski",
+    "Christos N. Gage",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Jordie Bellaire",
+    "Kathleen Wisneski",
+    "Mike Hawthorne",
+    "Nick Lowe",
+    "Travis Charest",
+    "Wade von Grawbadger"
+  ],
+  "publish_date": "2019-04-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/24/superior-spiderman-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2070/",
+  "fetched_at": "2026-05-28T14:31:29.085Z",
+  "reviewed_at": null
+}

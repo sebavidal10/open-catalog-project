@@ -1,0 +1,31 @@
+{
+  "title": "The Amazing Transparent Man",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "01 Jul 1960",
+  "runtime": "58 min",
+  "genre": "Crime, Horror, Sci-Fi",
+  "director": "Edgar G. Ulmer",
+  "writer": "Jack Lewis",
+  "actors": "Marguerite Chapman, Douglas Kennedy, James Griffith",
+  "plot": "A crazed scientist invents an invisibility formula. He plans to use the formula to create an army of invisible zombies.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODI3MjU0YTktZDFmNi00YmNlLWFmNGQtNjk4MTc2Yjc5OTA2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.1",
+  "imdbID": "tt0053593",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:05:43.989Z"
+}

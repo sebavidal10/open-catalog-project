@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608936900611",
+  "title": "The Amazing Spider-Man #6",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Edgar Delgado",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Kathleen Wisneski",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Paul Renaud",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2018-09-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2018/12/08/asm-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/331/",
+  "fetched_at": "2026-05-28T14:26:45.897Z",
+  "reviewed_at": null
+}

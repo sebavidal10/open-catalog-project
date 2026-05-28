@@ -1,0 +1,31 @@
+{
+  "title": "Macario",
+  "year": "1960",
+  "rated": "N/A",
+  "released": "09 Jun 1960",
+  "runtime": "91 min",
+  "genre": "Drama, Fantasy, Mystery",
+  "director": "Roberto Gavaldón",
+  "writer": "B. Traven, Emilio Carballido, Roberto Gavaldón",
+  "actors": "Ignacio López Tarso, Pina Pellicer, Enrique Lucero",
+  "plot": "Poor and hungry peasant Macario wishes to have a good meal for All Saint's Day. After his wife cooks him a turkey he has three apparitions: The Devil, God, and the Death.",
+  "language": "Spanish",
+  "country": "Mexico",
+  "awards": "Nominated for 1 Oscar. 3 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTVmOWJkNWYtYWJkYy00MDQ3LTlhY2UtMWIyYzcwNDVmYjA3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.3",
+  "imdbID": "tt0054042",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:04:11.567Z"
+}

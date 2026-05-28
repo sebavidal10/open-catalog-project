@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960608297101211",
+  "title": "The Amazing Spider-Man #12",
+  "authors": [
+    "Alex Ross",
+    "Cam Smith",
+    "Chris Eliopoulos",
+    "Dan Slott",
+    "Devin Lewis",
+    "Giuseppe Camuncoli",
+    "Guillem March",
+    "Jamal Campbell",
+    "Marte Gracia",
+    "Nick Lowe"
+  ],
+  "publish_date": "2016-05-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37317/",
+  "fetched_at": "2026-05-28T14:11:49.508Z",
+  "reviewed_at": null
+}

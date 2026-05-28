@@ -1,0 +1,38 @@
+{
+  "isbn": null,
+  "upc": "75960621001501411",
+  "title": "The Amazing Spider-Man #14",
+  "authors": [
+    "C. B. Cebulski",
+    "Cory Smith",
+    "Edgar Delgado",
+    "Ed McGuinness",
+    "Erick Arciniega",
+    "Jay Anacleto",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Joshua Cassara",
+    "Kaitlyn Lindtvedt",
+    "Lee Bermejo",
+    "Marcio Menyz",
+    "Mark Farmer",
+    "Matthew Wilson",
+    "Nick Lowe",
+    "Patrick Gleason",
+    "Romulo Fajardo Jr.",
+    "Todd Nauck",
+    "Tom Groneman",
+    "Wade von Grawbadger"
+  ],
+  "publish_date": "2025-10-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/09/29/10f03866f2b94047ac05b1a9866f8a79.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/155708/",
+  "fetched_at": "2026-05-28T15:21:07.472Z",
+  "reviewed_at": null
+}

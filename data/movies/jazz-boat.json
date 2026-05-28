@@ -1,0 +1,27 @@
+{
+  "title": "Jazz Boat",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "01 Nov 1960",
+  "runtime": "96 min",
+  "genre": "Comedy, Musical",
+  "director": "Ken Hughes",
+  "writer": "Ken Hughes, John Antrobus, Rex Rienits",
+  "actors": "Anthony Newley, Anne Aubrey, Lionel Jeffries",
+  "plot": "An electrician is summoned to assist a gang in a big robbery.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTVjMmI2OGMtMjdhNi00ODU0LThmZDctMmJhMDQwYzA3MmJiXkEyXkFqcGdeQXVyMjIyNjE2NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0053963",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:11:44.025Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Bells Are Ringing",
+  "year": "1960",
+  "rated": "Not Rated",
+  "released": "01 Jul 1960",
+  "runtime": "126 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Vincente Minnelli",
+  "writer": "Betty Comden, Adolph Green, Gerald Devriès",
+  "actors": "Judy Holliday, Dean Martin, Fred Clark",
+  "plot": "A Brooklyn answering service operator becomes involved in the lives of her clients, including a struggling playwright with whom she begins to fall in love.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTE4NmEwN2YtMDgyOC00OTAxLTk5ZDAtMzRjMTZmMmRmOGNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "6.9",
+  "imdbID": "tt0053645",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:04:42.794Z"
+}

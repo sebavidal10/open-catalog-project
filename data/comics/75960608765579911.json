@@ -1,0 +1,42 @@
+{
+  "isbn": null,
+  "upc": "75960608765579911",
+  "title": "The Amazing Spider-Man #799",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "C. B. Cebulski",
+    "Chris Stevens",
+    "Clayton Crain",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Edgar Delgado",
+    "Ed McGuinness",
+    "Frank Cho",
+    "Gabriele Dell'Otto",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Tyler Christopher",
+    "Joseph Michael Linsner",
+    "Lucio Parrillo",
+    "Marte Gracia",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Stuart Immonen",
+    "Tom Groneman",
+    "Tyler Kirkham",
+    "Wade von Grawbadger"
+  ],
+  "publish_date": "2018-04-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/01/the-amazing-spider-man-799.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37355/",
+  "fetched_at": "2026-05-28T14:24:47.099Z",
+  "reviewed_at": null
+}

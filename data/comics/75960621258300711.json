@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960621258300711",
+  "title": "Spider-Man & Wolverine #7",
+  "authors": [
+    "Adam Del Re",
+    "Alessandro Cappuccio",
+    "Arif Prianto",
+    "Brian Reber",
+    "C. B. Cebulski",
+    "Cy Pedro Beltran",
+    "Kaare Andrews",
+    "Marc Guggenheim",
+    "Mark Basso",
+    "Neeraj Menon",
+    "Nick Lowe",
+    "Sergio Fernandez Davila",
+    "Tom Brevoort",
+    "Travis Lanham"
+  ],
+  "publish_date": "2025-11-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/31/87c1bd6e16244b8ebc35b397c62262ef.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156769/",
+  "fetched_at": "2026-05-28T15:22:41.205Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Blue Hawaii",
+  "year": "1961",
+  "rated": "PG",
+  "released": "13 Dec 1961",
+  "runtime": "102 min",
+  "genre": "Comedy, Musical",
+  "director": "Norman Taurog",
+  "writer": "Allan Weiss, Hal Kanter",
+  "actors": "Elvis Presley, Joan Blackman, Angela Lansbury",
+  "plot": "After arriving back in Hawaii from the Army, Chad Gates defies his parents' wishes for him to work at the family business and instead goes to work as a tour guide at his girlfriend's agency.",
+  "language": "English, Hawaiian, French",
+  "country": "United States",
+  "awards": "1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTUwMTg1YmYtZDM2MC00MzJhLWEyZGItYWJhMzVjZjI1MWI4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "30%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "6.1",
+  "imdbID": "tt0054692",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:15:09.358Z"
+}

@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960620200305811",
+  "title": "The Amazing Spider-Man #58",
+  "authors": [
+    "C. B. Cebulski",
+    "Chris Allen",
+    "Frank D'Armata",
+    "Giuseppe Camuncoli",
+    "Joe Caramagna",
+    "John Romita Jr.",
+    "Kaeden McGahey",
+    "Leonardo Romero",
+    "Marcio Menyz",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Romulo Fajardo Jr.",
+    "Ryan Meinerding",
+    "Scott Hanna",
+    "Zeb Wells"
+  ],
+  "publish_date": "2024-09-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/09/14/a378376f2f5e42f9ae9abb2c575acaf4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/127689/",
+  "fetched_at": "2026-05-28T15:12:31.884Z",
+  "reviewed_at": null
+}

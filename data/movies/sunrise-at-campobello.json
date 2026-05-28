@@ -1,0 +1,35 @@
+{
+  "title": "Sunrise at Campobello",
+  "year": "1960",
+  "rated": "Not Rated",
+  "released": "26 Sep 1960",
+  "runtime": "144 min",
+  "genre": "Biography, Drama",
+  "director": "Vincent J. Donehue",
+  "writer": "Dore Schary",
+  "actors": "Ralph Bellamy, Greer Garson, Hume Cronyn",
+  "plot": "After a bout with polio, future president Franklin D. Roosevelt fights to save his political career.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 3 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjk0NzVmZDAtYTA2ZS00NzdmLTgwN2UtYjgyNWY5YWI4MGIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "6.8",
+  "imdbID": "tt0054354",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:05:17.335Z"
+}

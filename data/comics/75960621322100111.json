@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960621322100111",
+  "title": "Spider-Man Noir #1",
+  "authors": [
+    "Andrea Broccardo",
+    "Andrea Sorrentino",
+    "C. B. Cebulski",
+    "David Mack",
+    "Dean White",
+    "Erik Larsen",
+    "Jerome Opeña",
+    "Joe Sabino",
+    "Kaitlyn Lindtvedt",
+    "Nick Lowe",
+    "Rachelle Rosenberg",
+    "Simone Di Meo"
+  ],
+  "publish_date": "2025-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/09/22/af4e8c190b9c4020b42d5d746b40cdd7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/155163/",
+  "fetched_at": "2026-05-28T15:21:32.425Z",
+  "reviewed_at": null
+}

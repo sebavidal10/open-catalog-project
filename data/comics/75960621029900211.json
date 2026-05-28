@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960621029900211",
+  "title": "Your Friendly Neighborhood Spider-Man #2",
+  "authors": [
+    "C. B. Cebulski",
+    "Christos N. Gage",
+    "Emerald Bensadoun",
+    "Eric Gapstur",
+    "Jim Campbell",
+    "Joe Caramagna",
+    "Jordan D. White",
+    "Stacie Zucker"
+  ],
+  "publish_date": "2025-01-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/03/47bc261132284195ac930d90c0fe8e37.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/133383/",
+  "fetched_at": "2026-05-28T15:15:26.207Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608297103111",
+  "title": "The Amazing Spider-Man #31",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Allison Stock",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Israel Silva",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Stuart Immonen",
+    "Wade von Grawbadger",
+    "Will Sliney"
+  ],
+  "publish_date": "2017-08-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-31.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37336/",
+  "fetched_at": "2026-05-28T14:20:24.086Z",
+  "reviewed_at": null
+}

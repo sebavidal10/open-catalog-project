@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960609122500111",
+  "title": "Superior Spider-Man #1",
+  "authors": [
+    "Alan Fine",
+    "Annalise Bissa",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Christos N. Gage",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Joe Quesada",
+    "John Buscema",
+    "Jordie Bellaire",
+    "Kathleen Wisneski",
+    "Marko Djurdjević",
+    "Mike Hawthorne",
+    "Nick Lowe",
+    "Travis Charest",
+    "Wade von Grawbadger"
+  ],
+  "publish_date": "2018-12-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2018/12/26/ss-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/654/",
+  "fetched_at": "2026-05-28T14:28:42.592Z",
+  "reviewed_at": null
+}

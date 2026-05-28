@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608936902711",
+  "title": "The Amazing Spider-Man #27",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Dell",
+    "Kathleen Wisneski",
+    "Kevin Walker",
+    "Laura Martin",
+    "Nathan Fairbairn",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Ryan Ottley",
+    "Woo-Chul Lee"
+  ],
+  "publish_date": "2019-08-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/10/amazing-spiderman-27.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4499/",
+  "fetched_at": "2026-05-28T14:34:24.245Z",
+  "reviewed_at": null
+}

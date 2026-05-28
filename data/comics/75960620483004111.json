@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960620483004111",
+  "title": "Miles Morales: Spider-Man #41",
+  "authors": [
+    "Bryan Valenza",
+    "C. B. Cebulski",
+    "Ceci de la Cruz",
+    "Cody Ziglar",
+    "Cory Petit",
+    "Federico Vicentini",
+    "Francesco Manna",
+    "Jay Bowen",
+    "Kaitlyn Lindtvedt",
+    "Luigi Zagaria",
+    "Marco Renna",
+    "Mattia Iacono",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Tom Groneman"
+  ],
+  "publish_date": "2025-12-03",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/11/21/c9f707d53cee42dda28000335255495c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/157375/",
+  "fetched_at": "2026-05-28T15:23:06.848Z",
+  "reviewed_at": null
+}

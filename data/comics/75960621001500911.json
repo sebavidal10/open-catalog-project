@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960621001500911",
+  "title": "The Amazing Spider-Man #9",
+  "authors": [
+    "Alex Guimarães",
+    "C. B. Cebulski",
+    "David Curiel",
+    "Emanuela Lupacchino",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "John Romita Jr.",
+    "J. Scott Campbell",
+    "Kaitlyn Lindtvedt",
+    "Marcio Menyz",
+    "Marte Gracia",
+    "Mike Dowling",
+    "Netho Diaz",
+    "Nick Lowe",
+    "Sabine Rich",
+    "Scott Hanna",
+    "Tom Groneman"
+  ],
+  "publish_date": "2025-08-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/07/26/7f7f3ca38e3144318ce8a4ce52420bd1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/150754/",
+  "fetched_at": "2026-05-28T15:19:27.753Z",
+  "reviewed_at": null
+}

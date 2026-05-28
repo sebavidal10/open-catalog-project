@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120117701811",
+  "title": "Aquaman #18",
+  "authors": [
+    "Dan Nakrosis",
+    "Eddie Berganza",
+    "Howard Shum",
+    "Kevin Dooley",
+    "Martin Egeland",
+    "Peter David",
+    "Tom McCraw"
+  ],
+  "publish_date": "1996-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/05/aquaman-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1802/",
+  "fetched_at": "2026-05-28T15:50:13.500Z",
+  "reviewed_at": "1996-03-01"
+}

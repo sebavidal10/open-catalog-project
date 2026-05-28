@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960621001500811",
+  "title": "The Amazing Spider-Man #8",
+  "authors": [
+    "C. B. Cebulski",
+    "Dan Panosian",
+    "Edgar Delgado",
+    "Erick Arciniega",
+    "Gabriele Dell'Otto",
+    "Humberto Ramos",
+    "Jay Bowen",
+    "Jeff Dekal",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "John Romita Jr.",
+    "Kaitlyn Lindtvedt",
+    "Marcio Menyz",
+    "Nick Lowe",
+    "Scott Hanna",
+    "Todd Nauck",
+    "Tom Groneman"
+  ],
+  "publish_date": "2025-07-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/07/09/4b7222553f3f489fab69bb3ac8774759.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/150128/",
+  "fetched_at": "2026-05-28T15:18:34.333Z",
+  "reviewed_at": null
+}

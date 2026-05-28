@@ -1,0 +1,40 @@
+{
+  "isbn": null,
+  "upc": "75960608765578911",
+  "title": "The Amazing Spider-Man #789",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Allison Stock",
+    "Axel Alonso",
+    "Dan Brown",
+    "Dan Buckley",
+    "Dan Slott",
+    "Darren Shan",
+    "Devin Lewis",
+    "Idette Winecoor",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Dell",
+    "Kathleen Wisneski",
+    "Mark Bagley",
+    "Marte Gracia",
+    "Michael Kelleher",
+    "Mike McKone",
+    "Nick Lowe",
+    "Robbie Thompson",
+    "Steve Ditko",
+    "Stuart Immonen",
+    "Wade von Grawbadger"
+  ],
+  "publish_date": "2017-10-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/01/the-amazing-spider-man-789.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37345/",
+  "fetched_at": "2026-05-28T14:21:18.153Z",
+  "reviewed_at": null
+}

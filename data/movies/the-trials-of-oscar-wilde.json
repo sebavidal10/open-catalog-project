@@ -1,0 +1,31 @@
+{
+  "title": "The Trials of Oscar Wilde",
+  "year": "1960",
+  "rated": "PG",
+  "released": "N/A",
+  "runtime": "123 min",
+  "genre": "Biography, Drama, History",
+  "director": "Ken Hughes",
+  "writer": "Ken Hughes, Montgomery Hyde, John Furnell",
+  "actors": "Peter Finch, Yvonne Mitchell, James Mason",
+  "plot": "A chronicle of Oscar Wilde's libel suit against the Marquis of Queensberry and the tragic turn his life takes because of it.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Won 1 BAFTA Award4 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWMxMWIzOGItMGU3Ni00NDc2LTk3MDYtNjcxZDAwNmZlOWViXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0054403",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:05:32.345Z"
+}

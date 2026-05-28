@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960608297100611",
+  "title": "The Amazing Spider-Man #6",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marte Gracia",
+    "Matteo Buffagni",
+    "Nick Lowe"
+  ],
+  "publish_date": "2016-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37311/",
+  "fetched_at": "2026-05-28T14:09:46.643Z",
+  "reviewed_at": null
+}

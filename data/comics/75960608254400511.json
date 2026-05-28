@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608254400511",
+  "title": "Spider-Man / Deadpool #5",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Ed McGuinness",
+    "Jason Keith",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Jordan D. White",
+    "Mark Morales",
+    "Nick Lowe"
+  ],
+  "publish_date": "2016-05-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/16/spider-man-deadpool-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43001/",
+  "fetched_at": "2026-05-28T14:12:09.861Z",
+  "reviewed_at": null
+}

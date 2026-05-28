@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608297100411",
+  "title": "The Amazing Spider-Man #4",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Axel Alonso",
+    "Cam Smith",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Giuseppe Camuncoli",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marte Gracia",
+    "Nick Lowe"
+  ],
+  "publish_date": "2015-12-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37309/",
+  "fetched_at": "2026-05-28T14:09:21.952Z",
+  "reviewed_at": null
+}

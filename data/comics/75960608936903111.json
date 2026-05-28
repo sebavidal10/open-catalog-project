@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608936903111",
+  "title": "The Amazing Spider-Man #31",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Cliff Rathburn",
+    "Dan Buckley",
+    "Greg Smallwood",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Kathleen Wisneski",
+    "Nathan Fairbairn",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Rachel Dodson",
+    "Ryan Ottley",
+    "Terry Dodson"
+  ],
+  "publish_date": "2019-10-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/04/asm-31.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6146/",
+  "fetched_at": "2026-05-28T14:35:49.029Z",
+  "reviewed_at": null
+}

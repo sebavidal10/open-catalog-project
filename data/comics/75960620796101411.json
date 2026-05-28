@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960620796101411",
+  "title": "Ultimate Spider-Man #14",
+  "authors": [
+    "Carmen Nunez Carnero",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "David Curiel",
+    "Gerardo Sandoval",
+    "Jay Bowen",
+    "John Giang",
+    "Jonathan Hickman",
+    "Mahmud A. Asrar",
+    "Marco Checchetto",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Mirka Andolfo",
+    "Nolan Woodard",
+    "Wil Moss"
+  ],
+  "publish_date": "2025-02-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/02/17/80e92df8af4443b7bbf71f94b99a0a85.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/135957/",
+  "fetched_at": "2026-05-28T15:15:53.341Z",
+  "reviewed_at": null
+}

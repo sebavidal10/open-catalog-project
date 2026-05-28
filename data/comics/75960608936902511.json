@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608936902511",
+  "title": "The Amazing Spider-Man #25",
+  "authors": [
+    "Alan Fine",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Dan Hipp",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Keaton Patti",
+    "Kevin Walker",
+    "Nathan Fairbairn",
+    "Nick Spencer",
+    "Rachelle Rosenberg",
+    "Ryan Ottley",
+    "Todd Nauck",
+    "Zeb Wells"
+  ],
+  "publish_date": "2019-07-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/05/asm-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3323/",
+  "fetched_at": "2026-05-28T14:33:45.483Z",
+  "reviewed_at": null
+}

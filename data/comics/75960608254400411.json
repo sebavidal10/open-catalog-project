@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608254400411",
+  "title": "Spider-Man / Deadpool #4",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Cliff Chiang",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Ed McGuinness",
+    "Jason Keith",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Jordan D. White",
+    "Mark Morales",
+    "Nick Lowe"
+  ],
+  "publish_date": "2016-04-20",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/16/spider-man-deadpool-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43000/",
+  "fetched_at": "2026-05-28T14:11:40.571Z",
+  "reviewed_at": null
+}

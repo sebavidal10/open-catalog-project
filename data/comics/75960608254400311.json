@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608254400311",
+  "title": "Spider-Man / Deadpool #3",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Cliff Chiang",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Ed McGuinness",
+    "Jason Keith",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Jordan D. White",
+    "Mark Morales",
+    "Nick Lowe",
+    "Rob Liefeld"
+  ],
+  "publish_date": "2016-03-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/16/spider-man-deadpool-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42999/",
+  "fetched_at": "2026-05-28T14:11:10.759Z",
+  "reviewed_at": null
+}

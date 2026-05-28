@@ -1,0 +1,35 @@
+{
+  "title": "Victim",
+  "year": "1961",
+  "rated": "Not Rated",
+  "released": "11 Oct 1961",
+  "runtime": "100 min",
+  "genre": "Drama, Thriller",
+  "director": "Basil Dearden",
+  "writer": "Janet Green, John McCormick",
+  "actors": "Dirk Bogarde, Sylvia Syms, Dennis Price",
+  "plot": "A closeted lawyer risks his career to bring a blackmailer to justice.",
+  "language": "English, Latin",
+  "country": "United Kingdom",
+  "awards": "Nominated for 2 BAFTA 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2Y2ZWY3YjYtODFmMS00ZTk0LWFmYmItYjZmZjllZGVmZTlkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "7.7",
+  "imdbID": "tt0055597",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:15:59.578Z"
+}

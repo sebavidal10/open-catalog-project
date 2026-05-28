@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608314501511",
+  "title": "Spider-Man #15",
+  "authors": [
+    "Alan Fine",
+    "Allison Stock",
+    "Axel Alonso",
+    "Brian Michael Bendis",
+    "Cory Petit",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Elizabeth Torque",
+    "Idette Winecoor",
+    "Joe Quesada",
+    "Justin Ponsor",
+    "Nick Lowe",
+    "Patrick Brown",
+    "Szymon Kudrański"
+  ],
+  "publish_date": "2017-04-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/29/spider-man-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33342/",
+  "fetched_at": "2026-05-28T14:18:16.367Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Pit and the Pendulum",
+  "year": "1961",
+  "rated": "Approved",
+  "released": "23 Aug 1961",
+  "runtime": "80 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Roger Corman",
+  "writer": "Richard Matheson, Edgar Allan Poe",
+  "actors": "Vincent Price, Barbara Steele, John Kerr",
+  "plot": "In the sixteenth century, Francis Barnard travels to Spain to clarify the strange circumstances of his sister's death after she had married the son of a cruel Spanish Inquisitor.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDBiNjRhMDctMDA5Zi00YmVkLWEzMTMtMGU5NjI5MTE4Y2E0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.0",
+  "imdbID": "tt0055304",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:15:23.069Z"
+}

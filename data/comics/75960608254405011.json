@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608254405011",
+  "title": "Spider-Man / Deadpool #50",
+  "authors": [
+    "Alan Fine",
+    "Brian Reber",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Dave Johnson",
+    "Jake Thomas",
+    "Jim Towe",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Lindsey Cohick",
+    "Manny Mederos",
+    "Matt Horak",
+    "Robbie Thompson",
+    "Sean Parsons"
+  ],
+  "publish_date": "2019-05-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/16/spider-man-deadpool-50.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43046/",
+  "fetched_at": "2026-05-28T14:32:10.161Z",
+  "reviewed_at": null
+}

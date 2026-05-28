@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960620200306811",
+  "title": "The Amazing Spider-Man #68",
+  "authors": [
+    "Andrea Broccardo",
+    "C. B. Cebulski",
+    "Cory Smith",
+    "Edgar Delgado",
+    "Joe Caramagna",
+    "Justina Ireland",
+    "Kaitlyn Lindtvedt",
+    "Luciano Vecchio",
+    "Marcio Menyz",
+    "Nick Lowe",
+    "Patrick Gleason",
+    "Richard Isanove",
+    "Scott Hanna",
+    "Skottie Young",
+    "Tom Groneman"
+  ],
+  "publish_date": "2025-02-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/02/09/8384df8beb9440b99378716cda4734d0.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/135279/",
+  "fetched_at": "2026-05-28T15:15:40.535Z",
+  "reviewed_at": null
+}

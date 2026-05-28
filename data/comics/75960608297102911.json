@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608297102911",
+  "title": "The Amazing Spider-Man #29",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Allison Stock",
+    "Axel Alonso",
+    "Christos N. Gage",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Stuart Immonen",
+    "Wade von Grawbadger"
+  ],
+  "publish_date": "2017-06-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-29.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37334/",
+  "fetched_at": "2026-05-28T14:19:03.468Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608314501711",
+  "title": "Spider-Man #17",
+  "authors": [
+    "Alan Fine",
+    "Allison Stock",
+    "Axel Alonso",
+    "Brian Michael Bendis",
+    "Cory Petit",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Idette Winecoor",
+    "Joe Quesada",
+    "Justin Ponsor",
+    "Nick Lowe",
+    "Oscar Bazaldua",
+    "Patrick Brown"
+  ],
+  "publish_date": "2017-06-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/06/29/spider-man-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33344/",
+  "fetched_at": "2026-05-28T14:19:20.013Z",
+  "reviewed_at": null
+}

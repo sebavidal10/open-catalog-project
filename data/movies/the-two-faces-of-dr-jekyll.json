@@ -1,0 +1,31 @@
+{
+  "title": "The Two Faces of Dr. Jekyll",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "03 May 1961",
+  "runtime": "88 min",
+  "genre": "Horror",
+  "director": "Terence Fisher",
+  "writer": "Wolf Mankowitz, Robert Louis Stevenson",
+  "actors": "Paul Massie, Dawn Addams, Christopher Lee",
+  "plot": "Dr. Henry Jekyll experiments with scientific means of revealing the hidden, dark side of man and releases a murderer from within himself.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2E0YmRmN2EtNDJiZC00NzMxLThiZTEtZDE1NjM0ZDhmOTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0054416",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:04:57.028Z"
+}

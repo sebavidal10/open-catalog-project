@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960620200306711",
+  "title": "The Amazing Spider-Man #67",
+  "authors": [
+    "Andrea Broccardo",
+    "C. B. Cebulski",
+    "Joe Caramagna",
+    "Justina Ireland",
+    "Kaitlyn Lindtvedt",
+    "Marcelo Maiolo",
+    "Marcio Menyz",
+    "Nick Lowe",
+    "Niko Henrichon",
+    "Patrick Gleason",
+    "Richard Isanove",
+    "Rogê Antônio",
+    "Scott Hanna",
+    "Skottie Young",
+    "Tom Groneman"
+  ],
+  "publish_date": "2025-02-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/31/a26c1ad3ca414afc880440ec4fda268e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/134379/",
+  "fetched_at": "2026-05-28T15:15:36.502Z",
+  "reviewed_at": null
+}

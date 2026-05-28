@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960620796102311",
+  "title": "Ultimate Spider-Man #23",
+  "authors": [
+    "Bryan Valenza",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "David Messina",
+    "Federico Vicentini",
+    "Jay Bowen",
+    "Jonathan Hickman",
+    "Marco Checchetto",
+    "Mark Bagley",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Richard Isanove",
+    "Wil Moss"
+  ],
+  "publish_date": "2025-12-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/11/29/0af1abbff8234caf95bf2bc97aa1b1bc.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/157737/",
+  "fetched_at": "2026-05-28T15:23:40.723Z",
+  "reviewed_at": null
+}

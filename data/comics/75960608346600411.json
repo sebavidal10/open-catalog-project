@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608346600411",
+  "title": "The Amazing Spider-Man #1.4",
+  "authors": [
+    "Alan Fine",
+    "Andrea Broccardo",
+    "Axel Alonso",
+    "Bryan Hitch",
+    "Dan Buckley",
+    "David Curiel",
+    "Devin Lewis",
+    "Francesco Francavilla",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jose Molina",
+    "Nick Lowe",
+    "Rachelle Rosenberg",
+    "Simone Bianchi"
+  ],
+  "publish_date": "2016-03-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/31/the-amazing-spider-man-1-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37342/",
+  "fetched_at": "2026-05-28T14:10:53.531Z",
+  "reviewed_at": null
+}

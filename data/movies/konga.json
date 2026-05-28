@@ -1,0 +1,31 @@
+{
+  "title": "Konga",
+  "year": "1961",
+  "rated": "Approved",
+  "released": "26 Mar 1961",
+  "runtime": "90 min",
+  "genre": "Horror, Sci-Fi, Thriller",
+  "director": "John Lemont",
+  "writer": "Aben Kandel, Herman Cohen",
+  "actors": "Michael Gough, Margo Johns, Jess Conrad",
+  "plot": "Dr. Decker comes back from Africa. During one year, he came across a way of growing plants and animals to an enormous size. He brings back a baby chimpanzee and he decides to use his chimp, Konga, to get rid of them.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzY5YTExODItNDM1NC00NGY4LWE5MTktNjdjNWU2MDExMzZkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.5",
+  "imdbID": "tt0055058",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:16:40.561Z"
+}

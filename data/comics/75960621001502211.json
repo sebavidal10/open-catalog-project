@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960621001502211",
+  "title": "The Amazing Spider-Man #22",
+  "authors": [
+    "Ario Anindito",
+    "C. B. Cebulski",
+    "David Nakayama",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Kaitlyn Lindtvedt",
+    "Lee Bermejo",
+    "Mark Bagley",
+    "Marte Gracia",
+    "Nathan Stockman",
+    "Nick Bradshaw",
+    "Nick Lowe",
+    "Rachelle Rosenberg",
+    "Scott Hanna",
+    "Simone Bianchi",
+    "Simone Di Meo",
+    "Todd Nauck",
+    "Tom Groneman"
+  ],
+  "publish_date": "2026-02-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/02/05/3a00b68102864ea1b621671dd50b1cd2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/162195/",
+  "fetched_at": "2026-05-28T15:24:41.999Z",
+  "reviewed_at": null
+}

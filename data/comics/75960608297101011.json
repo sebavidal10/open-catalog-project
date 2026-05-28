@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608297101011",
+  "title": "The Amazing Spider-Man #10",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Axel Alonso",
+    "Cam Smith",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Giuseppe Camuncoli",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marte Gracia",
+    "Mike Perkins",
+    "Nick Lowe"
+  ],
+  "publish_date": "2016-04-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37315/",
+  "fetched_at": "2026-05-28T14:11:20.185Z",
+  "reviewed_at": null
+}

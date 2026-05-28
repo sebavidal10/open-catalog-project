@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960620200304411",
+  "title": "The Amazing Spider-Man #44",
+  "authors": [
+    "Carlos Gómez",
+    "C. B. Cebulski",
+    "Joe Caramagna",
+    "John Romita Jr.",
+    "Kaeden McGahey",
+    "Marcio Menyz",
+    "Marcos Martín",
+    "Nick Lowe",
+    "Rachelle Rosenberg",
+    "Romulo Fajardo Jr.",
+    "Scott Hanna",
+    "Tadam Gyadu",
+    "Zeb Wells"
+  ],
+  "publish_date": "2024-02-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/02/15/2da9a3f71cb8496cb317d677745f2d6d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/110046/",
+  "fetched_at": "2026-05-28T15:06:20.960Z",
+  "reviewed_at": null
+}

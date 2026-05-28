@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960621258300911",
+  "title": "Spider-Man & Wolverine #9",
+  "authors": [
+    "Adam Del Re",
+    "Brian Reber",
+    "C. B. Cebulski",
+    "Chad Hardin",
+    "Cy Pedro Beltran",
+    "Edgar Delgado",
+    "Gerardo Sandoval",
+    "Kaare Andrews",
+    "Marc Guggenheim",
+    "Mark Basso",
+    "Nick Lowe",
+    "Tom Brevoort",
+    "Travis Lanham",
+    "Victor Nava"
+  ],
+  "publish_date": "2026-01-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/04/d3fceb2f54ac4c33a9b688314f568f90.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/159733/",
+  "fetched_at": "2026-05-28T15:24:27.081Z",
+  "reviewed_at": null
+}

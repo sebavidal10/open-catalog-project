@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960621001501711",
+  "title": "The Amazing Spider-Man #17",
+  "authors": [
+    "C. B. Cebulski",
+    "Clayton Crain",
+    "Dean White",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Kaitlyn Lindtvedt",
+    "Lee Bermejo",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Pepe Larraz",
+    "Rachel Dodson",
+    "Stefano Caselli",
+    "Terry Dodson",
+    "Tom Groneman"
+  ],
+  "publish_date": "2025-12-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/11/29/0b87717f9fe941d8ade043427afad553.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/157724/",
+  "fetched_at": "2026-05-28T15:22:51.492Z",
+  "reviewed_at": null
+}

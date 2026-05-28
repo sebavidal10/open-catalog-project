@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608297100211",
+  "title": "The Amazing Spider-Man #2",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Axel Alonso",
+    "Cam Smith",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Giuseppe Camuncoli",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Paolo Rivera"
+  ],
+  "publish_date": "2015-10-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37307/",
+  "fetched_at": "2026-05-28T14:08:41.662Z",
+  "reviewed_at": null
+}

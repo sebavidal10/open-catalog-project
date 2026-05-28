@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960621001500211",
+  "title": "The Amazing Spider-Man #2",
+  "authors": [
+    "C. B. Cebulski",
+    "Chris Giarrusso",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Kaitlyn Lindtvedt",
+    "Marcelo Maiolo",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Pablo Villalobos",
+    "Paolo Rivera",
+    "Pepe Larraz",
+    "Tom Groneman",
+    "Tony Daniel"
+  ],
+  "publish_date": "2025-04-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/04/08/9329ca8b187743b4ac320966b90c547b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/142571/",
+  "fetched_at": "2026-05-28T15:16:39.579Z",
+  "reviewed_at": null
+}

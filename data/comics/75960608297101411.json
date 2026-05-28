@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608297101411",
+  "title": "The Amazing Spider-Man #14",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Axel Alonso",
+    "Cam Smith",
+    "Christos N. Gage",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Giuseppe Camuncoli",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marte Gracia",
+    "Nick Lowe"
+  ],
+  "publish_date": "2016-06-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37319/",
+  "fetched_at": "2026-05-28T14:12:23.292Z",
+  "reviewed_at": null
+}

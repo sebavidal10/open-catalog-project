@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960620971200111",
+  "title": "The Amazing Spider-Man Annual #1",
+  "authors": [
+    "C. B. Cebulski",
+    "Dean White",
+    "Derek Landy",
+    "Don Ho",
+    "Edgar Delgado",
+    "Israel Silva",
+    "Joe Caramagna",
+    "Kaeden McGahey",
+    "Kat Gregorowicz",
+    "Mattia Iacono",
+    "Mike McKone",
+    "Nick Lowe",
+    "R. B. Silva",
+    "Ron Lim",
+    "Salvador Larroca",
+    "Sara Pichelli"
+  ],
+  "publish_date": "2024-07-03",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/27/bef7d845db0042dfb2e301463e8228e8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/123409/",
+  "fetched_at": "2026-05-28T15:10:36.665Z",
+  "reviewed_at": null
+}

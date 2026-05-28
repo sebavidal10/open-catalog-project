@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608936900711",
+  "title": "The Amazing Spider-Man #7",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Edgar Delgado",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Kathleen Wisneski",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Rachel Dodson",
+    "Sujin Jo",
+    "Terry Dodson",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2018-10-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2018/12/08/asm-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/332/",
+  "fetched_at": "2026-05-28T14:27:22.688Z",
+  "reviewed_at": null
+}

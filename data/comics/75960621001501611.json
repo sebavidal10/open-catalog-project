@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960621001501611",
+  "title": "The Amazing Spider-Man #16",
+  "authors": [
+    "C. B. Cebulski",
+    "David Marquez",
+    "Giuseppe Camuncoli",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "John Romita Jr.",
+    "Kaitlyn Lindtvedt",
+    "Lee Bermejo",
+    "Marcio Menyz",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Scott Hanna",
+    "Simone Di Meo",
+    "Tom Groneman"
+  ],
+  "publish_date": "2025-11-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/11/07/1ca418d84cf9404590d77e4fb347a58a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156890/",
+  "fetched_at": "2026-05-28T15:22:03.986Z",
+  "reviewed_at": null
+}

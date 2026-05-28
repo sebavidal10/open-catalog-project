@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960608297101511",
+  "title": "The Amazing Spider-Man #15",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Axel Alonso",
+    "Cam Smith",
+    "Christos N. Gage",
+    "Dan Buckley",
+    "Dan Slott",
+    "David López",
+    "Devin Lewis",
+    "Giuseppe Camuncoli",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "J. Scott Campbell",
+    "Marte Gracia",
+    "Michael Turner",
+    "Nick Lowe",
+    "Paco Medina",
+    "Peter Steigerwald"
+  ],
+  "publish_date": "2016-07-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37320/",
+  "fetched_at": "2026-05-28T14:12:53.990Z",
+  "reviewed_at": null
+}

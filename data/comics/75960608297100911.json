@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608297100911",
+  "title": "The Amazing Spider-Man #9",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Axel Alonso",
+    "Bob McLeod",
+    "Cam Smith",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Giuseppe Camuncoli",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Tula Lotay"
+  ],
+  "publish_date": "2016-03-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37314/",
+  "fetched_at": "2026-05-28T14:10:49.496Z",
+  "reviewed_at": null
+}

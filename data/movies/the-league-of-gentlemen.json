@@ -1,0 +1,31 @@
+{
+  "title": "The League of Gentlemen",
+  "year": "1960",
+  "rated": "Unrated",
+  "released": "24 Jan 1961",
+  "runtime": "116 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Basil Dearden",
+  "writer": "Bryan Forbes, John Boland",
+  "actors": "Jack Hawkins, Nigel Patrick, Roger Livesey",
+  "plot": "A disgruntled veteran recruits a group of disgraced colleagues to perform a bank robbery with military precision.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 BAFTA Award1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTMyZjE4MzktNGIzOS00ODRjLTgxMDAtOWJjYmQ2YmEwYTJjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0052997",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:03:58.183Z"
+}

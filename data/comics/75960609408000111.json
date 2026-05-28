@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960609408000111",
+  "title": "The Amazing Spider-Man #20.HU",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Cory Smith",
+    "Dan Buckley",
+    "Erick Arciniega",
+    "Frank D'Armata",
+    "Greg Land",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Kathleen Wisneski",
+    "Mark Morales",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Tyler Crook"
+  ],
+  "publish_date": "2019-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/28/asm-20hu.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2151/",
+  "fetched_at": "2026-05-28T14:31:43.785Z",
+  "reviewed_at": null
+}

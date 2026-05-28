@@ -1,0 +1,35 @@
+{
+  "title": "Through a Glass Darkly",
+  "year": "1961",
+  "rated": "Not Rated",
+  "released": "16 Oct 1961",
+  "runtime": "90 min",
+  "genre": "Drama",
+  "director": "Ingmar Bergman",
+  "writer": "Ingmar Bergman",
+  "actors": "Harriet Andersson, Gunnar Björnstrand, Max von Sydow",
+  "plot": "Recently released from a mental hospital, Karin rejoins her emotionally disconnected family in their island home, only to slip from reality as she begins to believe she is being visited by God.",
+  "language": "Swedish, Latin",
+  "country": "Sweden",
+  "awards": "Won 1 Oscar. 3 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMThmYzA0MjEtOTU1Yi00YTk4LThlNjEtN2MwZThiOGIxNWViXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.9",
+  "imdbID": "tt0055499",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:15:16.964Z"
+}

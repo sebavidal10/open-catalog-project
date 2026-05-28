@@ -1,0 +1,35 @@
+{
+  "title": "One, Two, Three",
+  "year": "1961",
+  "rated": "Approved",
+  "released": "16 Dec 1961",
+  "runtime": "104 min",
+  "genre": "Comedy",
+  "director": "Billy Wilder",
+  "writer": "Billy Wilder, I.A.L. Diamond, Ferenc Molnár",
+  "actors": "James Cagney, Horst Buchholz, Pamela Tiffin",
+  "plot": "In West Berlin during the Cold War, a Coca-Cola executive is given the task of taking care of his boss' socialite daughter.",
+  "language": "English, German, Russian",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjVlOTAxZDctMmM1Ny00ZGIwLTgwYTItZjIwYjAxNDg5OWFlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.8",
+  "imdbID": "tt0055256",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:15:05.689Z"
+}

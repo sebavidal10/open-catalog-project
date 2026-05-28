@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608936900511",
+  "title": "The Amazing Spider-Man #5",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Cliff Rathburn",
+    "Dan Buckley",
+    "Daryl Mandryk",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Kathleen Wisneski",
+    "Laura Martin",
+    "Morry Hollowell",
+    "Nick Bradshaw",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Ryan Ottley"
+  ],
+  "publish_date": "2018-09-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2018/12/08/asm-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/330/",
+  "fetched_at": "2026-05-28T14:26:41.289Z",
+  "reviewed_at": null
+}

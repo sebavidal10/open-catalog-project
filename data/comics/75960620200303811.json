@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960620200303811",
+  "title": "The Amazing Spider-Man #38",
+  "authors": [
+    "Alejandro Sánchez",
+    "C. B. Cebulski",
+    "Dike Ruan",
+    "Ed McGuinness",
+    "Emilio Laiso",
+    "Erick Arciniega",
+    "Joe Caramagna",
+    "Kaeden McGahey",
+    "Marcio Menyz",
+    "Mark Farmer",
+    "Mattia Iacono",
+    "Nick Lowe",
+    "Richard Isanove",
+    "Steve Skroce",
+    "Tom Groneman",
+    "Valerio Giangiordano",
+    "Victoria Ying",
+    "Wade von Grawbadger",
+    "Zeb Wells"
+  ],
+  "publish_date": "2023-11-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/11/17/12dbc7114ffd4a428e755523f419d729.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/86415/",
+  "fetched_at": "2026-05-28T15:02:44.258Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,37 @@
+{
+  "isbn": null,
+  "upc": "75960608254402311",
+  "title": "Spider-Man / Deadpool #23",
+  "authors": [
+    "Alan Fine",
+    "Al Vey",
+    "Axel Alonso",
+    "Chris Bachalo",
+    "Dan Buckley",
+    "Darren Shan",
+    "Giuseppe Camuncoli",
+    "Ian Herring",
+    "Jim Campbell",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Jordan D. White",
+    "Kathleen Wisneski",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Rachelle Rosenberg",
+    "Richard Friend",
+    "Robbie Thompson",
+    "Tim Townsend",
+    "Todd Nauck"
+  ],
+  "publish_date": "2017-11-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/16/spider-man-deadpool-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43019/",
+  "fetched_at": "2026-05-28T14:22:10.293Z",
+  "reviewed_at": null
+}

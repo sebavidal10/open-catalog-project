@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608297103211",
+  "title": "The Amazing Spider-Man #32",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Allison Stock",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dan Slott",
+    "Devin Lewis",
+    "Francesco Mattina",
+    "Greg Smallwood",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jordie Bellaire",
+    "Nick Lowe"
+  ],
+  "publish_date": "2017-09-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/08/30/the-amazing-spider-man-32.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37337/",
+  "fetched_at": "2026-05-28T14:20:49.942Z",
+  "reviewed_at": null
+}

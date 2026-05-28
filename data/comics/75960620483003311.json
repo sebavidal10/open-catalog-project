@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960620483003311",
+  "title": "Miles Morales: Spider-Man #33",
+  "authors": [
+    "Bryan Valenza",
+    "C. B. Cebulski",
+    "Cody Ziglar",
+    "Cory Petit",
+    "Federico Vicentini",
+    "Gabriel Mata",
+    "Kaitlyn Lindtvedt",
+    "Logan Lubera",
+    "Marcelo Maiolo",
+    "Marco Renna",
+    "Neeraj Menon",
+    "Nick Lowe",
+    "Rachelle Rosenberg",
+    "Rogê Antônio",
+    "Taurin Clarke",
+    "Tom Groneman"
+  ],
+  "publish_date": "2025-05-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/04/29/miles-33.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/144582/",
+  "fetched_at": "2026-05-28T15:17:20.336Z",
+  "reviewed_at": null
+}

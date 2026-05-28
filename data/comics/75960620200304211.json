@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960620200304211",
+  "title": "The Amazing Spider-Man #42",
+  "authors": [
+    "Alex Saviuk",
+    "C. B. Cebulski",
+    "Greg Hildebrandt",
+    "Joe Caramagna",
+    "John Romita Jr.",
+    "Kaeden McGahey",
+    "Marcio Menyz",
+    "Marcos Martín",
+    "Nick Lowe",
+    "Rachel Dodson",
+    "Rachelle Rosenberg",
+    "Scott Hanna",
+    "Terry Dodson",
+    "Tim Hildebrandt",
+    "Zeb Wells"
+  ],
+  "publish_date": "2024-01-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/01/11/7b3e327da1534999b9981d57c982223b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/104089/",
+  "fetched_at": "2026-05-28T15:04:52.648Z",
+  "reviewed_at": null
+}

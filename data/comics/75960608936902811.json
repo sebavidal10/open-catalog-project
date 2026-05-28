@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960608936902811",
+  "title": "The Amazing Spider-Man #28",
+  "authors": [
+    "Alan Fine",
+    "Andrew Crossley",
+    "Anthony Gambino",
+    "Bengal",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "John Dell",
+    "Kathleen Wisneski",
+    "Kevin Walker",
+    "Laura Martin",
+    "Nathan Fairbairn",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Ryan Ottley"
+  ],
+  "publish_date": "2019-08-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/24/asm-28.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4870/",
+  "fetched_at": "2026-05-28T14:34:29.340Z",
+  "reviewed_at": null
+}

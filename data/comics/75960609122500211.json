@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960609122500211",
+  "title": "Superior Spider-Man #2",
+  "authors": [
+    "Alan Fine",
+    "Annalise Bissa",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Christos N. Gage",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Jesus Aburtov",
+    "Joe Quesada",
+    "Jordie Bellaire",
+    "Kathleen Wisneski",
+    "Mike Hawthorne",
+    "Mike McKone",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Travis Charest",
+    "Victor Olazaba",
+    "Wade von Grawbadger"
+  ],
+  "publish_date": "2019-01-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/23/superior-spiderman-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1105/",
+  "fetched_at": "2026-05-28T14:29:21.495Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Jungle Cat",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "27 Jun 1960",
+  "runtime": "69 min",
+  "genre": "Documentary, Family",
+  "director": "James Algar",
+  "writer": "James Algar",
+  "actors": "Winston Hibler",
+  "plot": "This documentary chronicles the life of a female spotted jaguar in the South American jungle.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDU3ODIzOGMtYWM3OC00N2NmLTgwM2ItYjQ1MWI1M2M5MDVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0053977",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:08:18.082Z"
+}

@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608936901811",
+  "title": "The Amazing Spider-Man #18",
+  "authors": [
+    "Alan Fine",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Edgar Delgado",
+    "Erick Arciniega",
+    "Humberto Ramos",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Kathleen Wisneski",
+    "Leinil Francis Yu",
+    "Nick Lowe",
+    "Nick Spencer",
+    "Sunny Gho",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2019-03-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/03/27/asm-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1704/",
+  "fetched_at": "2026-05-28T14:30:10.857Z",
+  "reviewed_at": null
+}

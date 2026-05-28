@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608254404511",
+  "title": "Spider-Man / Deadpool #45",
+  "authors": [
+    "Alan Fine",
+    "Brian Reber",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Dave Johnson",
+    "Jake Thomas",
+    "Jim Towe",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Kathleen Wisneski",
+    "Manny Mederos",
+    "Nick Lowe",
+    "Robbie Thompson",
+    "Sean Parsons"
+  ],
+  "publish_date": "2019-01-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/16/spider-man-deadpool-45.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43041/",
+  "fetched_at": "2026-05-28T14:29:17.535Z",
+  "reviewed_at": null
+}

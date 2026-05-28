@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608254401811",
+  "title": "Spider-Man / Deadpool #18",
+  "authors": [
+    "Alan Fine",
+    "Allison Stock",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Ed McGuinness",
+    "Jason Keith",
+    "Jay Leisten",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Jordan D. White",
+    "Mark Morales",
+    "Nick Lowe",
+    "Pasqual Ferry"
+  ],
+  "publish_date": "2017-06-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/16/spider-man-deadpool-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43014/",
+  "fetched_at": "2026-05-28T14:19:28.148Z",
+  "reviewed_at": null
+}

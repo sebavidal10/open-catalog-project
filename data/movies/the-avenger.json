@@ -1,0 +1,27 @@
+{
+  "title": "The Avenger",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "05 Aug 1960",
+  "runtime": "99 min",
+  "genre": "Crime, Horror, Mystery",
+  "director": "Karl Anton",
+  "writer": "Edgar Wallace, Gustav Kampendonk, Rudolph Cartier",
+  "actors": "Heinz Drache, Ingrid van Bergen, Benno Sterzenbach",
+  "plot": "A maniac is loose in London, decapitating his victims and sending the heads to Scotland Yard.",
+  "language": "Dutch, German",
+  "country": "West Germany",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzU5YzM3MmEtNTE2MS00MzVjLWI5Y2EtNGU3M2YwMGYzMGQ0XkEyXkFqcGdeQXVyMDExMzA0Mw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0054257",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:11:36.222Z"
+}

@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960621193700111",
+  "title": "Amazing Spider-Man: Torn #1",
+  "authors": [
+    "Aaron Kuder",
+    "Adam Hughes",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Frank D'Armata",
+    "Guru-eFX",
+    "Javier Garrón",
+    "J. Michael Straczynski",
+    "Joe Caramagna",
+    "Kaitlyn Lindtvedt",
+    "Lee Garbett",
+    "Mark Bagley",
+    "Mark Chiarello",
+    "Marte Gracia",
+    "Morry Hollowell",
+    "Nick Lowe",
+    "Pere Pérez",
+    "Rachelle Rosenberg"
+  ],
+  "publish_date": "2025-10-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/09/26/eeffb22b565e4ca8b9be8eb30c65036e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/155588/",
+  "fetched_at": "2026-05-28T15:21:12.641Z",
+  "reviewed_at": null
+}

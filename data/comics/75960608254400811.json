@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608254400811",
+  "title": "Spider-Man / Deadpool #8",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Ed McGuinness",
+    "Jason Keith",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Joe Sabino",
+    "John Livesay",
+    "Jordan D. White",
+    "Mark Morales",
+    "Nick Lowe",
+    "Tradd Moore"
+  ],
+  "publish_date": "2016-08-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/16/spider-man-deadpool-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43004/",
+  "fetched_at": "2026-05-28T14:14:03.060Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Sons and Lovers",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "22 Jul 1960",
+  "runtime": "103 min",
+  "genre": "Drama",
+  "director": "Jack Cardiff",
+  "writer": "Gavin Lambert, T.E.B. Clarke, D.H. Lawrence",
+  "actors": "Trevor Howard, Dean Stockwell, Wendy Hiller",
+  "plot": "A young man with artistic talent lives in a close-knit coal-mining town and finds himself inhibited by his emotionally manipulative mother.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Won 1 Oscar. 8 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTBiZTE4NTEtYTMzNS00MGZhLThhYzEtZWQ0OTUwZWZmZGEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0054326",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:04:07.927Z"
+}

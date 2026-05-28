@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960621001500311",
+  "title": "The Amazing Spider-Man #3",
+  "authors": [
+    "Alex Maleev",
+    "Ario Anindito",
+    "C. B. Cebulski",
+    "Ed McGuinness",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Kaitlyn Lindtvedt",
+    "Marcio Menyz",
+    "Marte Gracia",
+    "Nick Lowe",
+    "Pepe Larraz",
+    "Rose Besch",
+    "Tom Groneman"
+  ],
+  "publish_date": "2025-05-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/04/21/af06bb9826294680aa1e6108d7887232.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/143793/",
+  "fetched_at": "2026-05-28T15:17:10.803Z",
+  "reviewed_at": null
+}

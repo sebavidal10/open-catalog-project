@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960609329800211",
+  "title": "Spider-Man: Life Story #2",
+  "authors": [
+    "Alan Fine",
+    "Alanna Smith",
+    "Andrew Hennessy",
+    "C. B. Cebulski",
+    "Chip Zdarsky",
+    "Dan Buckley",
+    "Frank D'Armata",
+    "Joe Quesada",
+    "Mark Bagley",
+    "Michael Cho",
+    "Shannon Andrews Ballesteros",
+    "Tom Brevoort",
+    "Travis Lanham"
+  ],
+  "publish_date": "2019-04-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/15/spiderman-life-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1930/",
+  "fetched_at": "2026-05-28T14:31:23.256Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,38 @@
+{
+  "isbn": null,
+  "upc": "75960620200307011",
+  "title": "The Amazing Spider-Man #70",
+  "authors": [
+    "Alex Sinclair",
+    "Björn Barends",
+    "Brent Schoonover",
+    "CAFU",
+    "C. B. Cebulski",
+    "Cliff Rathburn",
+    "Ed McGuinness",
+    "Frank D'Armata",
+    "Frank Miller",
+    "Iban Coello",
+    "Jesus Aburtov",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Kaitlyn Lindtvedt",
+    "Marcio Menyz",
+    "Mark Farmer",
+    "Nick Lowe",
+    "Peach Momoko",
+    "Rachelle Rosenberg",
+    "Skottie Young",
+    "Tom Groneman"
+  ],
+  "publish_date": "2025-03-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/16/90e0194cf7c249f1b6001f61a978a35e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/138707/",
+  "fetched_at": "2026-05-28T15:16:12.207Z",
+  "reviewed_at": null
+}

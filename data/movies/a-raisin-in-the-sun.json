@@ -1,0 +1,35 @@
+{
+  "title": "A Raisin in the Sun",
+  "year": "1961",
+  "rated": "Approved",
+  "released": "18 May 1961",
+  "runtime": "128 min",
+  "genre": "Drama",
+  "director": "Daniel Petrie",
+  "writer": "Lorraine Hansberry",
+  "actors": "Sidney Poitier, Claudia McNeil, Ruby Dee",
+  "plot": "A substantial insurance payment could mean either financial salvation or personal ruin for a poor black family.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 BAFTA 4 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmUwODU3NzMtMGMxZC00NzEyLTg4YmEtNDI4MzYzMTMzZTE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "8.0",
+  "imdbID": "tt0055353",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:14:54.697Z"
+}

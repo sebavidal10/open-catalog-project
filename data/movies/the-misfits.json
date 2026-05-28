@@ -1,0 +1,35 @@
+{
+  "title": "The Misfits",
+  "year": "1961",
+  "rated": "Approved",
+  "released": "01 Feb 1961",
+  "runtime": "125 min",
+  "genre": "Drama, Romance, Western",
+  "director": "John Huston",
+  "writer": "Arthur Miller",
+  "actors": "Clark Gable, Marilyn Monroe, Montgomery Clift",
+  "plot": "A divorcée falls for an over-the-hill cowboy who is struggling to maintain his romantically-independent lifestyle.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDFiZmEwN2QtN2Y1Ny00ODM2LTgyZjYtMTI2YzdmNmJhMDUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.2",
+  "imdbID": "tt0055184",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:14:58.336Z"
+}

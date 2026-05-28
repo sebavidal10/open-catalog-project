@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960620843200111",
+  "title": "Giant-Size Spider-Man #1",
+  "authors": [
+    "Alexander Lozano",
+    "Alex Sinclair",
+    "Brian Michael Bendis",
+    "Bryan Hitch",
+    "C. B. Cebulski",
+    "Cody Ziglar",
+    "Cory Petit",
+    "Guru-eFX",
+    "Iban Coello",
+    "Jee-Hyung Lee",
+    "Joe Caramagna",
+    "Justin Ponsor",
+    "Romulo Fajardo Jr.",
+    "Sara Pichelli",
+    "Tom Groneman"
+  ],
+  "publish_date": "2024-01-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/01/04/50522e0ca113426eb9b7c640cdbc6cf7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/101064/",
+  "fetched_at": "2026-05-28T15:04:58.642Z",
+  "reviewed_at": null
+}

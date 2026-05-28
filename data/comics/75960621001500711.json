@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960621001500711",
+  "title": "The Amazing Spider-Man #7",
+  "authors": [
+    "C. B. Cebulski",
+    "Erick Arciniega",
+    "Jay Bowen",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "John Romita Jr.",
+    "Kaitlyn Lindtvedt",
+    "Lee Bermejo",
+    "Leonardo Romero",
+    "Marcio Menyz",
+    "Nick Lowe",
+    "Scott Hanna",
+    "Simone Bianchi",
+    "Tom Groneman"
+  ],
+  "publish_date": "2025-07-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/06/16/d1663abbf31b4ba2a7417a6723ac624b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/149080/",
+  "fetched_at": "2026-05-28T15:18:30.344Z",
+  "reviewed_at": null
+}

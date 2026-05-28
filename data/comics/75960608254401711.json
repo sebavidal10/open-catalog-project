@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608254401711",
+  "title": "Spider-Man / Deadpool #17",
+  "authors": [
+    "Alan Fine",
+    "Allison Stock",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Devin Lewis",
+    "Ed McGuinness",
+    "Jason Keith",
+    "Joe Kelly",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Jordan D. White",
+    "Mark Morales",
+    "Matt Yackey",
+    "Nick Lowe",
+    "Walden Wong"
+  ],
+  "publish_date": "2017-05-03",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/16/spider-man-deadpool-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43013/",
+  "fetched_at": "2026-05-28T14:18:49.878Z",
+  "reviewed_at": null
+}

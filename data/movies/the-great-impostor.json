@@ -1,0 +1,31 @@
+{
+  "title": "The Great Impostor",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "01 Feb 1961",
+  "runtime": "113 min",
+  "genre": "Comedy, Drama",
+  "director": "Robert Mulligan",
+  "writer": "Robert Crichton, Liam O'Brien",
+  "actors": "Tony Curtis, Karl Malden, Edmond O'Brien",
+  "plot": "Ferdinand Waldo Demara Jr. is a versatile man who gets his kicks out of impersonating a marine, a monk, a navy surgeon and a prison warden, eventually getting in trouble with the law for it.",
+  "language": "English, Korean",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzY5ZWE2YWEtNGEwNC00MDY3LWJmYjEtOTk0NmY1Mjg0ZWM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "6.9",
+  "imdbID": "tt0053879",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:05:46.888Z"
+}

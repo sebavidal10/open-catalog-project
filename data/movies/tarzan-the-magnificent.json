@@ -1,0 +1,27 @@
+{
+  "title": "Tarzan the Magnificent",
+  "year": "1960",
+  "rated": "Approved",
+  "released": "24 Jul 1960",
+  "runtime": "82 min",
+  "genre": "Action, Adventure",
+  "director": "Robert Day",
+  "writer": "Berne Giler, Robert Day, Edgar Rice Burroughs",
+  "actors": "Gordon Scott, Jock Mahoney, Betta St. John",
+  "plot": "A clever crook and a romantic triangle complicate Tarzan's efforts to bring a wanted criminal to justice.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGU2YWRhZDAtNTk2Ni00M2NiLThmYjMtMWMyYzFlNDcyYThiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0054368",
+  "type": "movie",
+  "fetched_at": "2026-05-28T14:05:42.775Z"
+}
