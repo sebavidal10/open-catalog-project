@@ -1,0 +1,35 @@
+{
+  "title": "Sanjuro",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "07 May 1963",
+  "runtime": "96 min",
+  "genre": "Action, Drama, Thriller",
+  "director": "Akira Kurosawa",
+  "writer": "Ryûzô Kikushima, Hideo Oguni, Akira Kurosawa",
+  "actors": "Toshirô Mifune, Tatsuya Nakadai, Keiju Kobayashi",
+  "plot": "A crafty samurai helps a young man and his fellow clansmen trying to save his uncle, who has been framed and imprisoned by a corrupt superintendent.",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzllNDdhYmEtMGI5YS00YTk0LTlmNzMtNmM0MjNjYjBiN2JkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "8.0",
+  "imdbID": "tt0056443",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:40:39.094Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Long Day's Journey Into Night",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "27 Nov 1963",
+  "runtime": "174 min",
+  "genre": "Drama",
+  "director": "Sidney Lumet",
+  "writer": "Eugene O'Neill",
+  "actors": "Katharine Hepburn, Ralph Richardson, Jason Robards",
+  "plot": "At the end of a long and hot summer day, members of one family gather in a large house. Everyone has something painful and offensive to say, and their silence is even worse.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 5 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjhiNDAyMjctNzhkZS00NTZhLTkyMzMtZmY2OGEyMDllYTkwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0056196",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:41:20.774Z"
+}

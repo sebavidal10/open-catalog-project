@@ -1,0 +1,27 @@
+{
+  "title": "Striped Trip",
+  "year": "1961",
+  "rated": "N/A",
+  "released": "27 Jun 1961",
+  "runtime": "87 min",
+  "genre": "Adventure, Comedy, Family",
+  "director": "Vladimir Fetin",
+  "writer": "Aleksei Kapler, Viktor Konetskiy",
+  "actors": "Aleksey Gribov, Ivan Dmitriev, Margarita Nazarova",
+  "plot": "A comedy about tigers and lions running around a cruise ship full of passengers.",
+  "language": "Russian",
+  "country": "Soviet Union",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2QyZTljZDEtMDc2NC00NTQ1LWIyMzktMTU0N2NjN2M2MThhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0056357",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:30:50.505Z"
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194120117705811",
+  "title": "Aquaman #58",
+  "authors": [
+    "Andy Smith",
+    "Eric Battle",
+    "Erik Larsen",
+    "Gary Carlson",
+    "Harvey Richards",
+    "John Workman",
+    "Jonathan Sibal",
+    "Kevin Dooley",
+    "Norm Rapmund",
+    "Richard Horie",
+    "Tanya Horie"
+  ],
+  "publish_date": "1999-06-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/14/aquaman-58.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2406/",
+  "fetched_at": "2026-05-29T19:48:18.206Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120117704111",
+  "title": "Aquaman #41",
+  "authors": [
+    "Albert De Guzman",
+    "Brian Stelfreeze",
+    "Dana Kurtin",
+    "Jim Calafiore",
+    "Kevin Dooley",
+    "Mark McKenna",
+    "Peter David",
+    "Tom McCraw"
+  ],
+  "publish_date": "1998-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/07/aquaman-41.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1838/",
+  "fetched_at": "2026-05-29T19:45:28.173Z",
+  "reviewed_at": "1998-02-01"
+}

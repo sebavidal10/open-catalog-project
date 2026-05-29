@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120416100411",
+  "title": "Aquaman Annual #4",
+  "authors": [
+    "Albert De Guzman",
+    "Bernie Wrightson",
+    "Chuck Kim",
+    "Jonathan Sibal",
+    "Kevin Dooley",
+    "Peter David",
+    "Vince Giarrano"
+  ],
+  "publish_date": "1998-07-15",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/29/aquaman-annual-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2618/",
+  "fetched_at": "2026-05-29T19:45:17.147Z",
+  "reviewed_at": "1998-07-01"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194120117706111",
+  "title": "Aquaman #61",
+  "authors": [
+    "Eric Battle",
+    "Erik Larsen",
+    "Gary Carlson",
+    "John Workman",
+    "Kevin Dooley",
+    "Moose Baumann",
+    "Norm Rapmund",
+    "Richard Horie",
+    "Tanya Horie",
+    "Tony Bedard"
+  ],
+  "publish_date": "1999-09-15",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/14/aquaman-61.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2409/",
+  "fetched_at": "2026-05-29T19:48:44.890Z",
+  "reviewed_at": null
+}

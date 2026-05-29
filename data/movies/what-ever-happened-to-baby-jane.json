@@ -1,0 +1,35 @@
+{
+  "title": "What Ever Happened to Baby Jane?",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "31 Oct 1962",
+  "runtime": "134 min",
+  "genre": "Drama, Horror, Thriller",
+  "director": "Robert Aldrich",
+  "writer": "Henry Farrell, Lukas Heller",
+  "actors": "Bette Davis, Joan Crawford, Victor Buono",
+  "plot": "A former vaudeville child star torments her paraplegic sister, who eclipsed her as a movie star, in their decaying Hollywood mansion while desperately clinging to hopes of a comeback.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 5 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmQ0MjAwOGUtZjUzNy00MzQ1LWJkZGYtNWNhOGVjNzA2MTRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "8.0",
+  "imdbID": "tt0056687",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:40:45.163Z"
+}

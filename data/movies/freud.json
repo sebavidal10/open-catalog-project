@@ -1,0 +1,31 @@
+{
+  "title": "Freud",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "12 Dec 1962",
+  "runtime": "140 min",
+  "genre": "Biography, Drama",
+  "director": "John Huston",
+  "writer": "Charles Kaufman, Wolfgang Reinhardt, Jean-Paul Sartre",
+  "actors": "Montgomery Clift, Susannah York, Larry Parks",
+  "plot": "An examination of Czech-Austrian psychologist Sigmund Freud's career when he began to treat patients diagnosed with hysteria, using the radical technique of hypnosis.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjZjMWE5NTItY2JhZS00MmQ5LWI1NmItNGFkZjg1NDRjMjk3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0055998",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:42:14.303Z"
+}

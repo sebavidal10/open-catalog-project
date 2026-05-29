@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194120416100311",
+  "title": "Aquaman Annual #3",
+  "authors": [
+    "Albert De Guzman",
+    "Andy Lanning",
+    "Anthony Williams",
+    "Bill Messner-Loebs",
+    "Dan Abnett",
+    "Glen Orbik",
+    "Howard Shum",
+    "John Lowe",
+    "Kirk Van Wormer",
+    "Martin Egeland",
+    "Pat Garrahy",
+    "Peter David",
+    "Tom McCraw"
+  ],
+  "publish_date": "1997-05-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/29/aquaman-annual-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2617/",
+  "fetched_at": "2026-05-29T19:43:19.076Z",
+  "reviewed_at": "1997-05-01"
+}

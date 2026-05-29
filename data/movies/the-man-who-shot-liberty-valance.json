@@ -1,0 +1,35 @@
+{
+  "title": "The Man Who Shot Liberty Valance",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "22 Apr 1962",
+  "runtime": "123 min",
+  "genre": "Drama, Western",
+  "director": "John Ford",
+  "writer": "James Warner Bellah, Willis Goldbeck, Dorothy M. Johnson",
+  "actors": "James Stewart, John Wayne, Vera Miles",
+  "plot": "A senator returns to a Western town for the funeral of an old friend and tells the story of his origins.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 4 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmYzNjljYjgtNzY1MS00MjYwLWIwMmItOGJjOGNhNmZiZmYxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "8.1",
+  "imdbID": "tt0056217",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:40:49.093Z"
+}

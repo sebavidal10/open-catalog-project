@@ -1,0 +1,31 @@
+{
+  "title": "L'Eclisse",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "20 Dec 1962",
+  "runtime": "126 min",
+  "genre": "Drama, Romance",
+  "director": "Michelangelo Antonioni",
+  "writer": "Michelangelo Antonioni, Tonino Guerra, Elio Bartolini",
+  "actors": "Monica Vitti, Alain Delon, Francisco Rabal",
+  "plot": "A young woman meets a vital young man, but their love affair is doomed because of the man's materialistic nature.",
+  "language": "Italian, English",
+  "country": "Italy, France",
+  "awards": "1 win & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGFhOWE1NzAtZjVlMC00YTA5LWE5ZjYtNTUxNGU2MGQ1ODQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0056736",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:41:00.087Z"
+}

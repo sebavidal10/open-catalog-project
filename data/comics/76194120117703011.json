@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120117703011",
+  "title": "Aquaman #30",
+  "authors": [
+    "Albert De Guzman",
+    "Eddie Berganza",
+    "Howard Shum",
+    "Jim Calafiore",
+    "Kevin Dooley",
+    "Martin Egeland",
+    "Peter David",
+    "Peter Palmiotti",
+    "Tom McCraw"
+  ],
+  "publish_date": "1997-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/06/aquaman-30.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1826/",
+  "fetched_at": "2026-05-29T19:43:37.814Z",
+  "reviewed_at": "1997-03-01"
+}

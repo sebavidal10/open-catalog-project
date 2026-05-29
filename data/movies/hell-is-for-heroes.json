@@ -1,0 +1,35 @@
+{
+  "title": "Hell Is for Heroes",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "26 Jun 1962",
+  "runtime": "90 min",
+  "genre": "Drama, War",
+  "director": "Don Siegel",
+  "writer": "Robert Pirosh, Richard Carr",
+  "actors": "Steve McQueen, Bobby Darin, Fess Parker",
+  "plot": "Small squad must hold off German attack.",
+  "language": "English, Polish, German",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjllZjI2NzYtZjM2Mi00MWZhLWI3ZTEtMjM5MGM5ZTVkOGZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "6.9",
+  "imdbID": "tt0056062",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:42:00.920Z"
+}

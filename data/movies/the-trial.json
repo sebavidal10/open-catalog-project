@@ -1,0 +1,31 @@
+{
+  "title": "The Trial",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "21 Dec 1962",
+  "runtime": "119 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "Orson Welles",
+  "writer": "Pierre Cholot, Franz Kafka, Orson Welles",
+  "actors": "Anthony Perkins, Arnoldo Foà, Jess Hahn",
+  "plot": "An unassuming office worker is arrested and stands trial, but he is never made aware of his charges.",
+  "language": "English",
+  "country": "France, Italy, West Germany",
+  "awards": "2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmJmNDM5ZmYtODIwNS00YjM4LTlkYzktZTFjNTg3ODg0NDcwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0057427",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:40:34.221Z"
+}

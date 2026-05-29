@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120117702111",
+  "title": "Aquaman #21",
+  "authors": [
+    "Dan Nakrosis",
+    "Eddie Berganza",
+    "Jim Calafiore",
+    "Kevin Dooley",
+    "Mike Zeck",
+    "Peter David",
+    "Peter Palmiotti",
+    "Tom McCraw"
+  ],
+  "publish_date": "1996-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/05/aquaman-21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1805/",
+  "fetched_at": "2026-05-29T19:42:11.212Z",
+  "reviewed_at": "1996-06-01"
+}

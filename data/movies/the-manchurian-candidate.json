@@ -1,0 +1,35 @@
+{
+  "title": "The Manchurian Candidate",
+  "year": "1962",
+  "rated": "PG-13",
+  "released": "24 Oct 1962",
+  "runtime": "126 min",
+  "genre": "Drama, Thriller",
+  "director": "John Frankenheimer",
+  "writer": "Richard Condon, George Axelrod, John Frankenheimer",
+  "actors": "Frank Sinatra, Laurence Harvey, Janet Leigh",
+  "plot": "An American POW in the Korean War is brainwashed as an unwitting assassin for an international Communist conspiracy.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 6 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg2NTM1ZDktNTM4My00NzM0LWE3ZjctMTUyZTk0N2EwMGNjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "7.9",
+  "imdbID": "tt0056218",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:40:30.564Z"
+}

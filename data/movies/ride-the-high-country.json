@@ -1,0 +1,35 @@
+{
+  "title": "Ride the High Country",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "09 May 1962",
+  "runtime": "94 min",
+  "genre": "Drama, Western",
+  "director": "Sam Peckinpah",
+  "writer": "N.B. Stone Jr., Sam Peckinpah, William Roberts",
+  "actors": "Joel McCrea, Randolph Scott, Mariette Hartley",
+  "plot": "An ex-union soldier is hired to transport gold from a mining community through dangerous territory. But what he doesn't realize is that his partner and old friend is plotting to double-cross him.",
+  "language": "English, Chinese",
+  "country": "United States",
+  "awards": "Nominated for 1 BAFTA Award2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDlhNzFjMTItZTM3My00NzQ2LWJiNmItYTFlZGRlMjlhZDQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "metascore": "92",
+  "imdbRating": "7.4",
+  "imdbID": "tt0056412",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:41:07.396Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "How the West Was Won",
+  "year": "1962",
+  "rated": "G",
+  "released": "20 Feb 1963",
+  "runtime": "164 min",
+  "genre": "Action, Adventure, War",
+  "director": "John Ford, Henry Hathaway, George Marshall",
+  "writer": "James R. Webb, John Gay",
+  "actors": "James Stewart, John Wayne, Gregory Peck",
+  "plot": "A family saga covering several decades of Westward expansion in the 19th century, including the Gold Rush, the Civil War, and the building of the railroads.",
+  "language": "English, Arapaho",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 10 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzk1OTllN2YtMTkwNi00OGY2LWIyMzEtMDIwODM3YWMxMzg1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "metascore": "56",
+  "imdbRating": "7.1",
+  "imdbID": "tt0056085",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:40:36.660Z"
+}

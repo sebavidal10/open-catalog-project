@@ -1,0 +1,31 @@
+{
+  "title": "Billy Budd",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "12 Nov 1962",
+  "runtime": "123 min",
+  "genre": "Adventure, Drama, War",
+  "director": "Peter Ustinov",
+  "writer": "Peter Ustinov, DeWitt Bodeen, Louis O. Coxe",
+  "actors": "Terence Stamp, Robert Ryan, Peter Ustinov",
+  "plot": "When a kind-hearted sailor is made to join an English vessel at war in 1797, he finds himself caught between devotion to his crewmates and obedience to their hated, cruel master-at-arms.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 Oscar. 2 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDZmNDZiMjQtMThmYy00YzFkLWJiOTgtMzM0NzE2MzM3YTFkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0055796",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:41:48.792Z"
+}

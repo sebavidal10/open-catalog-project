@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120117704611",
+  "title": "Aquaman #46",
+  "authors": [
+    "Albert De Guzman",
+    "Dana Kurtin",
+    "Jim Calafiore",
+    "Kevin Dooley",
+    "Mark McKenna",
+    "Peter David",
+    "Peter Palmiotti",
+    "Ron Lim",
+    "Tom McCraw"
+  ],
+  "publish_date": "1998-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/09/aquaman-46.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1858/",
+  "fetched_at": "2026-05-29T19:46:13.369Z",
+  "reviewed_at": "1998-07-01"
+}

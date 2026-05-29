@@ -1,0 +1,31 @@
+{
+  "title": "Ivan's Childhood",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "27 Jun 1963",
+  "runtime": "95 min",
+  "genre": "Drama, War",
+  "director": "Andrei Tarkovsky, Eduard Abalov",
+  "writer": "Vladimir Bogomolov, Mikhail Papava, Andrei Konchalovsky",
+  "actors": "Nikolay Burlyaev, Valentin Zubkov, Evgeniy Zharikov",
+  "plot": "During WWII, Soviet orphan Ivan Bondarev strikes up a friendship with three sympathetic Soviet officers while working as a scout behind the German lines.",
+  "language": "Russian, German",
+  "country": "Soviet Union",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGZjMDJkZTgtOThmYy00Mjk2LWFkMWMtMGY1YTRhZDdmMjI5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.0",
+  "imdbID": "tt0056111",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:40:41.515Z"
+}

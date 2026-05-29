@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120117703111",
+  "title": "Aquaman #31",
+  "authors": [
+    "Albert De Guzman",
+    "Eddie Berganza",
+    "Jim Calafiore",
+    "Ken Branch",
+    "Kevin Dooley",
+    "Mark McKenna",
+    "Peter David",
+    "Roger Robinson",
+    "Tom McCraw"
+  ],
+  "publish_date": "1997-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/07/aquaman-31.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1827/",
+  "fetched_at": "2026-05-29T19:43:46.728Z",
+  "reviewed_at": "1997-04-01"
+}

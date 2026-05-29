@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120117702211",
+  "title": "Aquaman #22",
+  "authors": [
+    "Brian Stelfreeze",
+    "Dan Nakrosis",
+    "Eddie Berganza",
+    "Howard Shum",
+    "Kevin Dooley",
+    "Martin Egeland",
+    "Peter David",
+    "Tom McCraw"
+  ],
+  "publish_date": "1996-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/05/aquaman-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1806/",
+  "fetched_at": "2026-05-29T19:42:20.198Z",
+  "reviewed_at": "1996-07-01"
+}

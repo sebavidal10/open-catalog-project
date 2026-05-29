@@ -1,0 +1,35 @@
+{
+  "title": "Lolita",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "21 Jun 1962",
+  "runtime": "153 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "Stanley Kubrick",
+  "writer": "Vladimir Nabokov, James B. Harris, Stanley Kubrick",
+  "actors": "James Mason, Shelley Winters, Sue Lyon",
+  "plot": "A middle-aged college professor becomes infatuated with a 14-year-old girl.",
+  "language": "English, French, Spanish, German",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 1 Oscar. 2 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmY2ZTEwZTAtOThkZS00MzkxLTk3MDUtOTJiMTgzOGI1MzdjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.5",
+  "imdbID": "tt0056193",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:40:46.372Z"
+}

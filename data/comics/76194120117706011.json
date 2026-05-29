@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120117706011",
+  "title": "Aquaman #60",
+  "authors": [
+    "Eric Battle",
+    "Erik Larsen",
+    "Gary Carlson",
+    "Harvey Richards",
+    "John Workman",
+    "Kevin Dooley",
+    "Norm Rapmund",
+    "Richard Horie",
+    "Tanya Horie"
+  ],
+  "publish_date": "1999-08-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/14/aquaman-60.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2408/",
+  "fetched_at": "2026-05-29T19:48:36.011Z",
+  "reviewed_at": null
+}

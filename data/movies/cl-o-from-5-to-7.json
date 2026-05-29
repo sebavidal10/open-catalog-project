@@ -1,0 +1,35 @@
+{
+  "title": "Cléo from 5 to 7",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "11 Apr 1962",
+  "runtime": "90 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "Agnès Varda",
+  "writer": "Agnès Varda",
+  "actors": "Corinne Marchand, Antoine Bourseiller, Dominique Davray",
+  "plot": "Cleo, a singer and hypochondriac, becomes increasingly worried that she might have cancer while awaiting test results from her doctor.",
+  "language": "French",
+  "country": "France, Italy",
+  "awards": "2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjVhMzAyY2YtMmNmMS00YzQ0LTllM2EtNWJjNDhiODNmNjBjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.8",
+  "imdbID": "tt0055852",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:40:54.011Z"
+}

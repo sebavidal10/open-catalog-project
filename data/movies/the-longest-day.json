@@ -1,0 +1,35 @@
+{
+  "title": "The Longest Day",
+  "year": "1962",
+  "rated": "G",
+  "released": "04 Oct 1962",
+  "runtime": "178 min",
+  "genre": "Action, Drama, History",
+  "director": "Ken Annakin, Andrew Marton, Gerd Oswald",
+  "writer": "Cornelius Ryan, Romain Gary, James Jones",
+  "actors": "John Wayne, Robert Ryan, Richard Burton",
+  "plot": "The events of D-Day, told on a grand scale from both the Allied and German points of view.",
+  "language": "English, German, French",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 8 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmM0NjAzZWUtMGZmYi00Nzc4LTk4Y2YtOWQ1NmE4ZTlkOTFmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "7.7",
+  "imdbID": "tt0056197",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:40:52.739Z"
+}

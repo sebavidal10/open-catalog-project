@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194120117705211",
+  "title": "Aquaman #52",
+  "authors": [
+    "Alisande Morales",
+    "Bill Sienkiewicz",
+    "Chris Eliopoulos",
+    "Eric Battle",
+    "Erik Larsen",
+    "Jim Aparo",
+    "Kevin Dooley",
+    "Ray McCarthy",
+    "Richard Horie",
+    "Tanya Horie"
+  ],
+  "publish_date": "1999-12-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/12/aquaman-52.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2339/",
+  "fetched_at": "2026-05-29T19:47:23.822Z",
+  "reviewed_at": null
+}

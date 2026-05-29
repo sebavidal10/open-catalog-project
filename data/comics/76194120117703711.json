@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120117703711",
+  "title": "Aquaman #37",
+  "authors": [
+    "Albert De Guzman",
+    "Dana Kurtin",
+    "Jim Calafiore",
+    "Kevin Dooley",
+    "Mark McKenna",
+    "Peter David",
+    "Peter Palmiotti",
+    "Tom McCraw"
+  ],
+  "publish_date": "1997-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/07/aquaman-37.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1833/",
+  "fetched_at": "2026-05-29T19:44:41.919Z",
+  "reviewed_at": "1997-10-01"
+}

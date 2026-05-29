@@ -1,0 +1,35 @@
+{
+  "title": "Mafioso",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "04 Mar 1965",
+  "runtime": "105 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Alberto Lattuada",
+  "writer": "Rafael Azcona, Bruno Caruso, Marco Ferreri",
+  "actors": "Alberto Sordi, Norma Bengell, Gabriella Conti",
+  "plot": "When a good-natured factory supervisor living in Milan with his Northern wife returns to his native Sicily, a decades'-old oath forces him to fulfill a nightmarish obligation.",
+  "language": "Italian, English, French, German",
+  "country": "Italy",
+  "awards": "1 win & 2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzQwMTU5MjAtMDRiMC00NTAzLWIzZTMtNmM3MzIxMmZmZTIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "7.6",
+  "imdbID": "tt0056210",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:40:32.989Z"
+}

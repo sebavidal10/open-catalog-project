@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120117705711",
+  "title": "Aquaman #57",
+  "authors": [
+    "Chris Eliopoulos",
+    "Eric Battle",
+    "Erik Larsen",
+    "Harvey Richards",
+    "Jack Morelli",
+    "Kevin Dooley",
+    "Norm Rapmund",
+    "Richard Horie",
+    "Tanya Horie"
+  ],
+  "publish_date": "1999-05-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/14/aquaman-57.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2405/",
+  "fetched_at": "2026-05-29T19:48:09.566Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121566200111",
+  "title": "Aquaman #1000000",
+  "authors": [
+    "Albert De Guzman",
+    "Andy Lanning",
+    "Chuck Kim",
+    "Dan Abnett",
+    "Kevin Dooley",
+    "Pat Garrahy",
+    "Tom Grindberg",
+    "Tom McCraw"
+  ],
+  "publish_date": "1998-09-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/15/aquaman-1000000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2428/",
+  "fetched_at": "2026-05-29T19:46:49.411Z",
+  "reviewed_at": null
+}

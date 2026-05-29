@@ -1,0 +1,35 @@
+{
+  "title": "Days of Wine and Roses",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "04 Feb 1963",
+  "runtime": "117 min",
+  "genre": "Drama",
+  "director": "Blake Edwards",
+  "writer": "J.P. Miller",
+  "actors": "Jack Lemmon, Lee Remick, Charles Bickford",
+  "plot": "An alcoholic marries a young woman and systematically addicts her to booze so that they can share his \"passion\" together.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 10 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzNjMTc2YzEtNTM1YS00ODc3LTk0MjgtYTY3ZWIwNzdkYjI1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.8",
+  "imdbID": "tt0055895",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:41:04.950Z"
+}

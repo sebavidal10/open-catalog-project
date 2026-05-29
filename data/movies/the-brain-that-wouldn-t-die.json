@@ -1,0 +1,31 @@
+{
+  "title": "The Brain That Wouldn't Die",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "10 Aug 1962",
+  "runtime": "82 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Joseph Green",
+  "writer": "Doris Brent, Joseph Green, Rex Carlton",
+  "actors": "Jason Evers, Virginia Leith, Anthony La Penna",
+  "plot": "A doctor experimenting with transplant techniques keeps his girlfriend's head alive when she is decapitated in a car crash, then goes hunting for a new body.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWQ4MzE2OGQtZDg5OS00NTQzLTg5NTMtZjU5ZGUxMTlhZDk0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.5",
+  "imdbID": "tt0052646",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:41:47.583Z"
+}

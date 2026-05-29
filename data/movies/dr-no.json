@@ -1,0 +1,35 @@
+{
+  "title": "Dr. No",
+  "year": "1962",
+  "rated": "PG",
+  "released": "10 Oct 1962",
+  "runtime": "110 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "Terence Young",
+  "writer": "Richard Maibaum, Johanna Harwood, Berkely Mather",
+  "actors": "Sean Connery, Ursula Andress, Bernard Lee",
+  "plot": "A resourceful British government agent seeks answers in a case involving the disappearance of a colleague and the disruption of the American space program.",
+  "language": "English, French, Italian",
+  "country": "United Kingdom, United States, Jamaica",
+  "awards": "5 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2Q0ODAxYTgtN2E3My00Yzc2LWI2NDUtOGU0YzgzYzM4OWMwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.2",
+  "imdbID": "tt0055928",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:40:29.341Z"
+}

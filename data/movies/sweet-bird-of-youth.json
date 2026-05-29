@@ -1,0 +1,35 @@
+{
+  "title": "Sweet Bird of Youth",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "03 May 1962",
+  "runtime": "120 min",
+  "genre": "Drama, Romance",
+  "director": "Richard Brooks",
+  "writer": "Tennessee Williams, Richard Brooks",
+  "actors": "Paul Newman, Geraldine Page, Shirley Knight",
+  "plot": "A drifter and a faded film star, both traumatized by Hollywood, arrive to the guy's hometown, where the old bitter memories revive again.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 3 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzNjNzFlY2ItNDcwNy00MDUyLThkMWUtMGQyOTY3OTlmYWMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "metascore": "53",
+  "imdbRating": "7.1",
+  "imdbID": "tt0056541",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:41:19.561Z"
+}

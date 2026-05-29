@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120117702611",
+  "title": "Aquaman #26",
+  "authors": [
+    "Albert De Guzman",
+    "Eddie Berganza",
+    "Jim Calafiore",
+    "Kevin Dooley",
+    "Peter David",
+    "Peter Palmiotti",
+    "Phyllis Novin",
+    "Tom McCraw"
+  ],
+  "publish_date": "1996-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/05/aquaman-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1810/",
+  "fetched_at": "2026-05-29T19:42:55.933Z",
+  "reviewed_at": "1996-11-01"
+}

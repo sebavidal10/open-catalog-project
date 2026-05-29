@@ -1,0 +1,35 @@
+{
+  "title": "Night of the Eagle",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "25 Apr 1962",
+  "runtime": "90 min",
+  "genre": "Drama, Horror",
+  "director": "Sidney Hayers",
+  "writer": "Fritz Leiber Jr., Charles Beaumont, Richard Matheson",
+  "actors": "Peter Wyngarde, Janet Blair, Margaret Johnston",
+  "plot": "A woman who may be a witch defends her husband from forces attempting to harm him.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTIyZWUxZTgtOWE5NS00ZDUxLWE2NTQtMDQ2ZmJhMjBlMzg3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "6.9",
+  "imdbID": "tt0056279",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:42:20.418Z"
+}

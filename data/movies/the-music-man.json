@@ -1,0 +1,35 @@
+{
+  "title": "The Music Man",
+  "year": "1962",
+  "rated": "G",
+  "released": "19 Jun 1962",
+  "runtime": "151 min",
+  "genre": "Comedy, Family, Musical",
+  "director": "Morton DaCosta",
+  "writer": "Meredith Willson, Franklin Lacey, Marion Hargrove",
+  "actors": "Robert Preston, Shirley Jones, Buddy Hackett",
+  "plot": "Traveling con artist Harold Hill targets the naïve residents of a small town in 1910s Iowa by posing as a boys' band leader to raise money before he can skip town.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 6 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODBmODNmNTMtY2M5ZC00MjI0LWFkYjUtOTAwMTk3MThjYmNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.7",
+  "imdbID": "tt0056262",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:40:51.522Z"
+}

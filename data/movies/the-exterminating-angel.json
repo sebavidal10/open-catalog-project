@@ -1,0 +1,31 @@
+{
+  "title": "The Exterminating Angel",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "21 Aug 1967",
+  "runtime": "95 min",
+  "genre": "Drama, Fantasy",
+  "director": "Luis Buñuel",
+  "writer": "Luis Buñuel, Luis Alcoriza",
+  "actors": "Silvia Pinal, Jacqueline Andere, Enrique Rambal",
+  "plot": "The guests at an upper-class dinner party find themselves unable to leave.",
+  "language": "Spanish",
+  "country": "Mexico",
+  "awards": "4 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTk0YjNmMjEtMjZjOC00MDNhLTg2NzUtMmFlYzY0YWJkMzA2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.0",
+  "imdbID": "tt0056732",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:41:03.730Z"
+}

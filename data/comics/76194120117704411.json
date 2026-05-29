@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120117704411",
+  "title": "Aquaman #44",
+  "authors": [
+    "Albert De Guzman",
+    "Bill Mumy",
+    "Dana Kurtin",
+    "Jim Calafiore",
+    "Kevin Dooley",
+    "Peter David",
+    "Peter Palmiotti",
+    "Tom McCraw"
+  ],
+  "publish_date": "1998-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/07/aquaman-44.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1841/",
+  "fetched_at": "2026-05-29T19:45:55.444Z",
+  "reviewed_at": "1998-05-01"
+}

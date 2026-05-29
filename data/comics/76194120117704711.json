@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120117704711",
+  "title": "Aquaman #47",
+  "authors": [
+    "Albert De Guzman",
+    "Andy Lanning",
+    "Chris Renaud",
+    "Dan Abnett",
+    "Dana Kurtin",
+    "Jim Calafiore",
+    "Kevin Dooley",
+    "Peter Palmiotti",
+    "Tom McCraw"
+  ],
+  "publish_date": "1998-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/09/aquaman-47.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1859/",
+  "fetched_at": "2026-05-29T19:46:22.333Z",
+  "reviewed_at": "1998-08-01"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Le Doulos",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "02 Mar 1964",
+  "runtime": "108 min",
+  "genre": "Crime, Thriller",
+  "director": "Jean-Pierre Melville",
+  "writer": "Pierre Lesou, Jean-Pierre Melville",
+  "actors": "Jean-Paul Belmondo, Serge Reggiani, Jean Desailly",
+  "plot": "A burglar betraying other criminals prepares for a big heist with a trusted friend who might be as untrustworthy as he.",
+  "language": "French",
+  "country": "France, Italy",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDc3MjkzMDAtM2ExYi00ZTNlLWI1NjAtZjM3YzdmOWI2NzdkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0054821",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:40:35.439Z"
+}

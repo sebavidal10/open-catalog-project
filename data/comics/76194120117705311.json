@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120117705311",
+  "title": "Aquaman #53",
+  "authors": [
+    "Alisande Morales",
+    "Chris Eliopoulos",
+    "Danny Miki",
+    "Eric Battle",
+    "Erik Larsen",
+    "Kevin Dooley",
+    "Norm Rapmund",
+    "Richard Horie",
+    "Tanya Horie"
+  ],
+  "publish_date": "1999-01-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/12/aquaman-53.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2340/",
+  "fetched_at": "2026-05-29T19:47:33.339Z",
+  "reviewed_at": null
+}

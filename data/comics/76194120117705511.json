@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120117705511",
+  "title": "Aquaman #55",
+  "authors": [
+    "Chris Eliopoulos",
+    "Erik Larsen",
+    "Harvey Richards",
+    "John Workman",
+    "Kevin Dooley",
+    "Mike S. Miller",
+    "Richard Horie",
+    "Saleem Crawford",
+    "Tanya Horie"
+  ],
+  "publish_date": "1999-03-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/12/aquaman-55.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2342/",
+  "fetched_at": "2026-05-29T19:47:51.672Z",
+  "reviewed_at": null
+}

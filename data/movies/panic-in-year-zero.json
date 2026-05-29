@@ -1,0 +1,31 @@
+{
+  "title": "Panic in Year Zero!",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "05 Jul 1962",
+  "runtime": "93 min",
+  "genre": "Action, Sci-Fi, Thriller",
+  "director": "Ray Milland",
+  "writer": "Jay Simms, John Morton, Ward Moore",
+  "actors": "Ray Milland, Jean Hagen, Frankie Avalon",
+  "plot": "A family leaves Los Angeles for a camping trip just before hydrogen bombs destroy the city. In the midst of the chaos, the father must fight to keep his family alive along the highway.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzVlYjAzZmYtOGIwNS00ZmU5LWE4NWEtYWVjOGU1ZWI0ZDNjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0056331",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:41:57.284Z"
+}

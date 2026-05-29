@@ -1,0 +1,31 @@
+{
+  "title": "King Kong vs. Godzilla",
+  "year": "1962",
+  "rated": "N/A",
+  "released": "11 Aug 1962",
+  "runtime": "97 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Ishirô Honda",
+  "writer": "Shin'ichi Sekizawa, Willis H. O'Brien",
+  "actors": "Tadao Takashima, Yû Fujiki, Kenji Sahara",
+  "plot": "The advertising director of a pharmaceutical company seeks to boost the ratings of their sponsored TV program by capturing the legendary monster King Kong just as Godzilla re-emerges.",
+  "language": "Japanese, English",
+  "country": "Japan, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWMxNjc0YzMtMTQ1ZC00YzIxLThhM2UtNzMzYWFmYmM4MjM1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "52%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt13364334",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:41:30.582Z"
+}

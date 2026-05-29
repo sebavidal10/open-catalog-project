@@ -1,0 +1,35 @@
+{
+  "title": "Tales of Terror",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "18 Dec 1962",
+  "runtime": "89 min",
+  "genre": "Comedy, Horror, Mystery",
+  "director": "Roger Corman",
+  "writer": "Richard Matheson, Edgar Allan Poe",
+  "actors": "Vincent Price, Maggie Pierce, Leona Gage",
+  "plot": "Three tales of terror involve a grieving widower and the daughter he abandoned; a drunkard and his wife's black cat; and a hypnotist who prolongs the moment of a man's death.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2ZkMzg1NWMtMzg0YS00NThiLTllMGMtYjUwMTlhYzc5MTdkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "6.8",
+  "imdbID": "tt0056552",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:42:17.985Z"
+}

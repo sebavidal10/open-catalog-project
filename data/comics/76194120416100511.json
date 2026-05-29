@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120416100511",
+  "title": "Aquaman Annual #5",
+  "authors": [
+    "Alex Bleyaert",
+    "Arthur Adams",
+    "Dick Giordano",
+    "Harvey Richards",
+    "Janice Chiang",
+    "John Ostrander",
+    "Kevin Dooley",
+    "Mark Bright"
+  ],
+  "publish_date": "1999-07-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/29/aquaman-annual-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2619/",
+  "fetched_at": "2026-05-29T19:47:14.085Z",
+  "reviewed_at": "1999-07-01"
+}

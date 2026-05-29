@@ -1,0 +1,31 @@
+{
+  "title": "Eegah",
+  "year": "1962",
+  "rated": "Unrated",
+  "released": "01 Apr 1965",
+  "runtime": "92 min",
+  "genre": "Adventure, Comedy, Fantasy",
+  "director": "Arch Hall Sr.",
+  "writer": "Bob Wehling, Arch Hall Sr.",
+  "actors": "Arch Hall Jr., Marilyn Manning, Richard Kiel",
+  "plot": "Teenagers stumble across a prehistoric caveman who goes on a rampage.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmVlNGQ0MDktYjMwMC00OTQyLTk3YjEtMWU3NGQyYzRjNDU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "2.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "0%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "2.3",
+  "imdbID": "tt0055946",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:42:15.517Z"
+}

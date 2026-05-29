@@ -1,0 +1,27 @@
+{
+  "title": "Romanoff and Juliet",
+  "year": "1961",
+  "rated": "Approved",
+  "released": "08 Jun 1961",
+  "runtime": "103 min",
+  "genre": "Comedy",
+  "director": "Peter Ustinov",
+  "writer": "William Shakespeare, Peter Ustinov",
+  "actors": "Peter Ustinov, Sandra Dee, John Gavin",
+  "plot": "Concordia, a powerless European country, holds the deciding vote in a UN resolution. The U.S. and Soviet Union manipulate Concordia, but its leader challenges them by playing matchmaker.",
+  "language": "English, Russian",
+  "country": "United States",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGM5NTlhNGEtMGQ3NS00NjJlLWI4ZDEtNGIxYjAzM2E1NWRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0055383",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:32:06.530Z"
+}

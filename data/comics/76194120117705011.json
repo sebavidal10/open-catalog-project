@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120117705011",
+  "title": "Aquaman #50",
+  "authors": [
+    "Chris Eliopoulos",
+    "Chuck Kim",
+    "Eric Battle",
+    "Erik Larsen",
+    "Kevin Dooley",
+    "Norm Rapmund",
+    "Richard Horie",
+    "Tanya Horie"
+  ],
+  "publish_date": "1998-10-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/11/aquaman-50.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2337/",
+  "fetched_at": "2026-05-29T19:46:59.193Z",
+  "reviewed_at": null
+}

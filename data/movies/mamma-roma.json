@@ -1,0 +1,31 @@
+{
+  "title": "Mamma Roma",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "18 Jan 1965",
+  "runtime": "110 min",
+  "genre": "Drama",
+  "director": "Pier Paolo Pasolini",
+  "writer": "Pier Paolo Pasolini",
+  "actors": "Anna Magnani, Ettore Garofolo, Franco Citti",
+  "plot": "An ex-prostitute reunites with her son, but an extortion scheme threatens her aspirations for a decent life.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "2 wins & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTJkZmVkNmItNDVjYS00ZTkyLTlhNWEtYWRhZjQxNTE0YmY3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0056215",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:41:24.515Z"
+}

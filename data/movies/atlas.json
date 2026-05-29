@@ -1,0 +1,27 @@
+{
+  "title": "Atlas",
+  "year": "1961",
+  "rated": "Not Rated",
+  "released": "01 May 1961",
+  "runtime": "79 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Roger Corman",
+  "writer": "Charles B. Griffith",
+  "actors": "Michael Forest, Frank Wolff, Barboura Morris",
+  "plot": "Evil king Praximedes convinces superhero Atlas to fight for him, but Atlas eventually sees the king's true nature and turns against him.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzI0MWRlOGEtNTc5NC00OThiLTliZDgtYTA5ZTg2NGMzMWU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "3.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "3.9",
+  "imdbID": "tt0053610",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:33:54.729Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Miracle Worker",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "28 Jul 1962",
+  "runtime": "106 min",
+  "genre": "Biography, Drama",
+  "director": "Arthur Penn",
+  "writer": "William Gibson, Helen Keller",
+  "actors": "Anne Bancroft, Patty Duke, Victor Jory",
+  "plot": "The story of Anne Sullivan's struggle to teach the blind, deaf and mute child Helen Keller how to understand and communicate.",
+  "language": "English, American Sign ",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 13 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQzODc4MTE1MF5BMl5BanBnXkFtZTcwMjYyODI1NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "8.1",
+  "imdbID": "tt0056241",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:40:50.304Z"
+}

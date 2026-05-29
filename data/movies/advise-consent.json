@@ -1,0 +1,31 @@
+{
+  "title": "Advise & Consent",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "06 Jun 1962",
+  "runtime": "139 min",
+  "genre": "Drama, Thriller",
+  "director": "Otto Preminger",
+  "writer": "Allen Drury, Wendell Mayes",
+  "actors": "Franchot Tone, Lew Ayres, Henry Fonda",
+  "plot": "The polarizing search for a new Secretary of State has far-reaching consequences.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 BAFTA Award1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTU1NDViNTItNTA4Zi00YWNmLWE5MmYtNWFkZDM2Y2I4YzVmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0055728",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:41:53.644Z"
+}

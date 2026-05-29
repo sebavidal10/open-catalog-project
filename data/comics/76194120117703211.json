@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120117703211",
+  "title": "Aquaman #32",
+  "authors": [
+    "Albert De Guzman",
+    "Eddie Berganza",
+    "Jim Calafiore",
+    "John Totleben",
+    "Kevin Dooley",
+    "Mark McKenna",
+    "Peter David",
+    "Peter Palmiotti",
+    "Tom McCraw"
+  ],
+  "publish_date": "1997-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/07/aquaman-32.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1828/",
+  "fetched_at": "2026-05-29T19:43:56.735Z",
+  "reviewed_at": "1997-05-01"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "An Autumn Afternoon",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "N/A",
+  "runtime": "113 min",
+  "genre": "Drama",
+  "director": "Yasujirô Ozu",
+  "writer": "Kôgo Noda, Yasujirô Ozu",
+  "actors": "Chishû Ryû, Shima Iwashita, Keiji Sada",
+  "plot": "An aging widower arranges a marriage for his only daughter.",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "4 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTg1ZjAzOWEtNGMyYS00ODA1LTgxMGUtNTA2YTM2OGU0NjM1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "metascore": "91",
+  "imdbRating": "8.0",
+  "imdbID": "tt0056444",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:41:50.008Z"
+}

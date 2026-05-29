@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120117704911",
+  "title": "Aquaman #49",
+  "authors": [
+    "Albert De Guzman",
+    "Andy Lanning",
+    "Chuck Kim",
+    "Dan Abnett",
+    "Jim Calafiore",
+    "Kevin Dooley",
+    "Mark McKenna",
+    "Tom McCraw"
+  ],
+  "publish_date": "1998-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/09/aquaman-49.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1861/",
+  "fetched_at": "2026-05-29T19:46:40.199Z",
+  "reviewed_at": "1998-10-01"
+}

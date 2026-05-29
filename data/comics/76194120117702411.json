@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120117702411",
+  "title": "Aquaman #24",
+  "authors": [
+    "Albert De Guzman",
+    "Eddie Berganza",
+    "Howard Shum",
+    "Jim Calafiore",
+    "Kevin Dooley",
+    "Martin Egeland",
+    "Peter David",
+    "Peter Palmiotti",
+    "Tom McCraw"
+  ],
+  "publish_date": "1996-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/05/aquaman-24.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1808/",
+  "fetched_at": "2026-05-29T19:42:38.602Z",
+  "reviewed_at": "1996-09-01"
+}

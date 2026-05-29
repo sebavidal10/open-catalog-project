@@ -1,0 +1,31 @@
+{
+  "title": "The Premature Burial",
+  "year": "1962",
+  "rated": "Unrated",
+  "released": "15 Aug 1962",
+  "runtime": "81 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Roger Corman",
+  "writer": "Charles Beaumont, Ray Russell, Edgar Allan Poe",
+  "actors": "Ray Milland, Hazel Court, Richard Ney",
+  "plot": "An artist grows distant from his new wife as an irrational horror of premature burial consumes him.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzkyNGViOTEtM2YyYy00ODk5LTgwODEtNGRhZjIwNTA4MmVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0056368",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:42:31.422Z"
+}

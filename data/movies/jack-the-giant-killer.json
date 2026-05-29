@@ -1,0 +1,31 @@
+{
+  "title": "Jack the Giant Killer",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "13 Jun 1962",
+  "runtime": "94 min",
+  "genre": "Adventure, Family, Fantasy",
+  "director": "Nathan Juran",
+  "writer": "Orville H. Hampton, Nathan Juran",
+  "actors": "Kerwin Mathews, Judi Meredith, Torin Thatcher",
+  "plot": "A farmboy-turned-knight must protect a princess from the schemes of an evil wizard.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjcwMGY3MzMtNDY5Ny00MGNlLTlhNWQtNjY5N2EzODU5M2VhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0056112",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:41:08.605Z"
+}

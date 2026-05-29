@@ -1,0 +1,27 @@
+{
+  "title": "The Cabinet of Caligari",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "27 Jun 1962",
+  "runtime": "106 min",
+  "genre": "Horror, Thriller",
+  "director": "Roger Kay",
+  "writer": "Robert Bloch",
+  "actors": "Glynis Johns, Dan O'Herlihy, Richard Davalos",
+  "plot": "A stranded young woman finds herself at a mysterious mansion where nothing is what it seems.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTkxMjZiMTAtMmZlOS00ZmQzLWI4NmUtMjY2YmUzNTBiNjM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0055819",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:42:44.864Z"
+}

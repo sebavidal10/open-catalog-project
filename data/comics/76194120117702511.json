@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120117702511",
+  "title": "Aquaman #25",
+  "authors": [
+    "Albert De Guzman",
+    "Eddie Berganza",
+    "Glen Orbik",
+    "Howard Shum",
+    "Kevin Dooley",
+    "Martin Egeland",
+    "Peter David",
+    "Tom McCraw"
+  ],
+  "publish_date": "1996-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/05/aquaman-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1809/",
+  "fetched_at": "2026-05-29T19:42:47.108Z",
+  "reviewed_at": "1996-10-01"
+}

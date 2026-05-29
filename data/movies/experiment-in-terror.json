@@ -1,0 +1,35 @@
+{
+  "title": "Experiment in Terror",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "09 Jun 1962",
+  "runtime": "123 min",
+  "genre": "Crime, Mystery, Thriller",
+  "director": "Blake Edwards",
+  "writer": "Gordon Gordon, Mildred Gordon",
+  "actors": "Glenn Ford, Lee Remick, Stefanie Powers",
+  "plot": "A man with an asthmatic voice telephones and assaults clerk Kelly Sherwood at home and coerces her into helping him steal a large sum from her bank.",
+  "language": "English, Cantonese",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDY3ZjczNDEtMDg4Yy00N2UyLTg3MzctYTAxNTMwM2QzYTMwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.3",
+  "imdbID": "tt0055972",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:41:36.648Z"
+}

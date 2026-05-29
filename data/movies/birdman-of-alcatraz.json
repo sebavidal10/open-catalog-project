@@ -1,0 +1,35 @@
+{
+  "title": "Birdman of Alcatraz",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "04 Jul 1962",
+  "runtime": "147 min",
+  "genre": "Biography, Crime, Drama",
+  "director": "John Frankenheimer",
+  "writer": "Guy Trosper, Thomas E. Gaddis",
+  "actors": "Burt Lancaster, Karl Malden, Thelma Ritter",
+  "plot": "A surly convicted murderer held in permanent isolation redeems himself when he becomes a renowned bird expert.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 4 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc4NDc3MjIyMV5BMl5BanBnXkFtZTcwMTEyNDcyNA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.8",
+  "imdbID": "tt0055798",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:41:02.517Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120117705111",
+  "title": "Aquaman #51",
+  "authors": [
+    "Chris Eliopoulos",
+    "Eric Battle",
+    "Erik Larsen",
+    "Kevin Dooley",
+    "Norm Rapmund",
+    "Richard Horie",
+    "Tanya Horie"
+  ],
+  "publish_date": "1998-11-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/12/aquaman-51.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2338/",
+  "fetched_at": "2026-05-29T19:47:10.032Z",
+  "reviewed_at": null
+}

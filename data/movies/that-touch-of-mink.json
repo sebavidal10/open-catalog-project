@@ -1,0 +1,31 @@
+{
+  "title": "That Touch of Mink",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "14 Jun 1962",
+  "runtime": "99 min",
+  "genre": "Comedy, Romance",
+  "director": "Delbert Mann",
+  "writer": "Stanley Shapiro, Nate Monaster",
+  "actors": "Cary Grant, Doris Day, Gig Young",
+  "plot": "A rich businessman and a young woman are attracted to each other, but he only wants an affair while she wants to save herself for marriage.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 6 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI4NDIwODI4NF5BMl5BanBnXkFtZTgwMDQ2NjQzMTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0056575",
+  "type": "movie",
+  "fetched_at": "2026-05-29T19:41:12.279Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120117703511",
+  "title": "Aquaman #35",
+  "authors": [
+    "Albert De Guzman",
+    "Dana Kurtin",
+    "Jim Calafiore",
+    "Kevin Dooley",
+    "Peter David",
+    "Peter Palmiotti",
+    "Tom McCraw"
+  ],
+  "publish_date": "1997-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/07/aquaman-35.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1831/",
+  "fetched_at": "2026-05-29T19:44:24.365Z",
+  "reviewed_at": "1997-08-01"
+}

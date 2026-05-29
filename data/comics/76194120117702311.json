@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120117702311",
+  "title": "Aquaman #23",
+  "authors": [
+    "Albert De Guzman",
+    "Derec Donovan",
+    "Eddie Berganza",
+    "Howard Shum",
+    "Kevin Dooley",
+    "Martin Egeland",
+    "Peter David",
+    "Tom McCraw"
+  ],
+  "publish_date": "1996-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/05/aquaman-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1807/",
+  "fetched_at": "2026-05-29T19:42:29.028Z",
+  "reviewed_at": "1996-08-01"
+}
