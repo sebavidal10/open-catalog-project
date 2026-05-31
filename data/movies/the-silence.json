@@ -1,0 +1,31 @@
+{
+  "title": "The Silence",
+  "year": "1963",
+  "rated": "R",
+  "released": "03 Feb 1964",
+  "runtime": "96 min",
+  "genre": "Drama",
+  "director": "Ingmar Bergman",
+  "writer": "Ingmar Bergman",
+  "actors": "Ingrid Thulin, Gunnel Lindblom, Birger Malmsten",
+  "plot": "Two estranged sisters, Ester and Anna, and Anna's 10-year-old son travel to the Central European country on the verge of war. Ester becomes seriously ill and the three of them move into a hotel in a small town called Timoka.",
+  "language": "Swedish, English, German, French, Spanish",
+  "country": "Sweden",
+  "awards": "3 wins & 2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMThjMDQ2YTMtZjdmNy00NmI2LTliY2EtMTcxM2RjM2JjOGZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0057611",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:02:21.409Z"
+}

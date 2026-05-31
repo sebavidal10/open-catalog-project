@@ -1,0 +1,31 @@
+{
+  "title": "Johnny Cool",
+  "year": "1963",
+  "rated": "Approved",
+  "released": "02 Oct 1963",
+  "runtime": "103 min",
+  "genre": "Action, Crime, Drama",
+  "director": "William Asher",
+  "writer": "Joseph Landon, John McPartland",
+  "actors": "Henry Silva, Elizabeth Montgomery, Richard Anderson",
+  "plot": "Exiled American gangster Colini sends his protégé-killer Giordano to the USA to eliminate Colini's mob enemies.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAxMjY5OTQzMDleQTJeQWpwZ15BbWU4MDgyMzA5MDMx._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0057200",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:03:23.477Z"
+}

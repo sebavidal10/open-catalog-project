@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194123532503411",
+  "title": "Aquaman #34",
+  "authors": [
+    "Andy Clarke",
+    "Christian Alamy",
+    "John Arcudi",
+    "Leonard Kirk",
+    "Michael Siglain",
+    "Nathan Eyring",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Travis Lanham"
+  ],
+  "publish_date": "2005-09-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/19/aquaman-v6-34.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2465/",
+  "fetched_at": "2026-05-31T18:12:59.167Z",
+  "reviewed_at": null
+}

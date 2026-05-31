@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120117706611",
+  "title": "Aquaman #66",
+  "authors": [
+    "Dan Jurgens",
+    "John Workman",
+    "Michael Kaluta",
+    "Noelle Giddings",
+    "Norm Rapmund",
+    "Paul Ryan",
+    "Tony Bedard"
+  ],
+  "publish_date": "2000-02-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/14/aquaman-66.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2414/",
+  "fetched_at": "2026-05-31T18:04:58.133Z",
+  "reviewed_at": null
+}

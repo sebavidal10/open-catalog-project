@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194123532500411",
+  "title": "Aquaman #4",
+  "authors": [
+    "Dan Raspler",
+    "Joshua Hood",
+    "Mark Propst",
+    "Michael Heisler",
+    "Nathan Eyring",
+    "Rick Veitch",
+    "Sean Parsons",
+    "Valerie D'Orazio",
+    "Yvel Guichet"
+  ],
+  "publish_date": "2003-03-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/16/aquaman-v6-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2432/",
+  "fetched_at": "2026-05-31T18:08:08.238Z",
+  "reviewed_at": null
+}

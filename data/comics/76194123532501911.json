@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194123532501911",
+  "title": "Aquaman #19",
+  "authors": [
+    "Alan Davis",
+    "Christian Alamy",
+    "Jared K. Fletcher",
+    "Mark Farmer",
+    "Nathan Eyring",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Stephen Wacker",
+    "Will Pfeifer"
+  ],
+  "publish_date": "2004-06-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/17/aquaman-v6-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2448/",
+  "fetched_at": "2026-05-31T18:10:46.738Z",
+  "reviewed_at": null
+}

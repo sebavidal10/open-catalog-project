@@ -1,0 +1,27 @@
+{
+  "title": "Gorath",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "15 May 1964",
+  "runtime": "83 min",
+  "genre": "Sci-Fi, Thriller",
+  "director": "Ishirô Honda",
+  "writer": "Takeshi Kimura, Jôjirô Okami, John Meredyth Lucas",
+  "actors": "Ryô Ikebe, Yumi Shirakawa, Akira Kubo",
+  "plot": "A Tokyo scientist and his colleagues shift Earth to avoid a red-hot planet on a collision course.",
+  "language": "Japanese, English",
+  "country": "Japan",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTljNjZkZDctMjg3MS00NDZkLThlZjctZmY1ZWE4NzMwYWJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0056709",
+  "type": "movie",
+  "fetched_at": "2026-05-31T17:53:43.359Z"
+}

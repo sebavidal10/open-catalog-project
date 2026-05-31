@@ -1,0 +1,35 @@
+{
+  "title": "The Sword in the Stone",
+  "year": "1963",
+  "rated": "G",
+  "released": "21 Jun 1964",
+  "runtime": "79 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Wolfgang Reitherman, Clyde Geronimi, David Hand",
+  "writer": "Bill Peet, T.H. White",
+  "actors": "Rickie Sorensen, Sebastian Cabot, Karl Swenson",
+  "plot": "A poor boy named Arthur learns the power of love, kindness, knowledge and bravery with the help of a wizard called Merlin in the path to become one of the most beloved kings in English history.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2U1ZDI3OGMtOTU0Ni00MTAxLTgwYWEtN2QwZDI4ZTQ5MTQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "65%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "7.1",
+  "imdbID": "tt0057546",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:01:35.515Z"
+}

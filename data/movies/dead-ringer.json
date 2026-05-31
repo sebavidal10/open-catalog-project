@@ -1,0 +1,35 @@
+{
+  "title": "Dead Ringer",
+  "year": "1963",
+  "rated": "Approved",
+  "released": "19 Feb 1964",
+  "runtime": "116 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Paul Henreid",
+  "writer": "Albert Beich, Oscar Millard, Rian James",
+  "actors": "Bette Davis, Karl Malden, Peter Lawford",
+  "plot": "The working-class twin sister of a callous, wealthy woman impulsively murders her out of revenge and assumes her identity. But impersonating her dead twin is more complicated and risky than she anticipated.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjY3YjNjYWEtNGNjYy00Y2Y5LTljOWEtOTU2OGQ5NjFhYjljXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "7.3",
+  "imdbID": "tt0057997",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:01:59.105Z"
+}

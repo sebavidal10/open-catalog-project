@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194123532501711",
+  "title": "Aquaman #17",
+  "authors": [
+    "Alan Davis",
+    "Christian Alamy",
+    "Mark Farmer",
+    "Nathan Eyring",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Rob Leigh",
+    "Stephen Wacker",
+    "Will Pfeifer"
+  ],
+  "publish_date": "2004-04-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/17/aquaman-v6-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2446/",
+  "fetched_at": "2026-05-31T18:10:28.775Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Jason and the Argonauts",
+  "year": "1963",
+  "rated": "G",
+  "released": "15 Aug 1963",
+  "runtime": "104 min",
+  "genre": "Action, Adventure, Family",
+  "director": "Don Chaffey",
+  "writer": "Jan Read, Beverley Cross, Apollonios Rhodios",
+  "actors": "Todd Armstrong, Nancy Kovack, Gary Raymond",
+  "plot": "The legendary Greek hero leads a team of intrepid adventurers in a perilous quest for the legendary Golden Fleece.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2YzZmFhNDgtOTE0MS00NTA1LTgzZDYtMGZiZWJiNTQxMGM3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.3",
+  "imdbID": "tt0057197",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:01:56.603Z"
+}

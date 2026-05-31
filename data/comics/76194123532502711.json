@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123532502711",
+  "title": "Aquaman #27",
+  "authors": [
+    "Christian Alamy",
+    "Harvey Richards",
+    "Jared K. Fletcher",
+    "John Arcudi",
+    "Mick Gray",
+    "Nathan Eyring",
+    "Patrick Gleason",
+    "Peter J. Tomasi"
+  ],
+  "publish_date": "2005-02-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/18/aquaman-v6-27.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2456/",
+  "fetched_at": "2026-05-31T18:11:57.106Z",
+  "reviewed_at": null
+}

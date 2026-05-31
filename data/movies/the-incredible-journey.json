@@ -1,0 +1,35 @@
+{
+  "title": "The Incredible Journey",
+  "year": "1963",
+  "rated": "G",
+  "released": "20 Nov 1963",
+  "runtime": "80 min",
+  "genre": "Adventure, Drama, Family",
+  "director": "Fletcher Markle",
+  "writer": "James Algar, Sheila Burnford",
+  "actors": "Émile Genest, John Drainie, Tommy Tweed",
+  "plot": "Two dogs and a cat set off on a treacherous 200-mile journey towards home.",
+  "language": "English",
+  "country": "Canada, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWMyMGQ3NTktODVlYy00ZWE5LTgyNzgtZTJlNDZjYjlkMTMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.0",
+  "imdbID": "tt0057180",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:02:25.130Z"
+}

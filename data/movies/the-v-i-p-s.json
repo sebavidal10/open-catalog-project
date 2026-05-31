@@ -1,0 +1,35 @@
+{
+  "title": "The V.I.P.s",
+  "year": "1963",
+  "rated": "Not Rated",
+  "released": "19 Sep 1963",
+  "runtime": "119 min",
+  "genre": "Drama",
+  "director": "Anthony Asquith",
+  "writer": "Terence Rattigan",
+  "actors": "Elizabeth Taylor, Richard Burton, Louis Jourdan",
+  "plot": "As fog delays departure for a group of travelers bound for New York City, they wait at the lounge of London's Heathrow airport, each passenger at a moment of crisis in his or her life.",
+  "language": "English, Italian",
+  "country": "United Kingdom",
+  "awards": "Won 1 Oscar. 4 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTlmZjA0MjQtMWIzMy00OWJjLWE4OGUtZjlkYjRiZWQ2Y2U4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "0%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "6.3",
+  "imdbID": "tt0057634",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:02:58.681Z"
+}

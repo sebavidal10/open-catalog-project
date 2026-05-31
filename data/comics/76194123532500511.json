@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123532500511",
+  "title": "Aquaman #5",
+  "authors": [
+    "Dan Raspler",
+    "Mark Propst",
+    "Michael Heisler",
+    "Nathan Eyring",
+    "Rick Veitch",
+    "Rob Leigh",
+    "Valerie D'Orazio",
+    "Yvel Guichet"
+  ],
+  "publish_date": "2004-04-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/16/aquaman-v6-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2433/",
+  "fetched_at": "2026-05-31T18:08:18.764Z",
+  "reviewed_at": "2004-04-01"
+}

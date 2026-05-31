@@ -1,0 +1,35 @@
+{
+  "title": "8½",
+  "year": "1963",
+  "rated": "Not Rated",
+  "released": "24 Jun 1963",
+  "runtime": "138 min",
+  "genre": "Drama",
+  "director": "Federico Fellini",
+  "writer": "Federico Fellini, Ennio Flaiano, Tullio Pinelli",
+  "actors": "Marcello Mastroianni, Anouk Aimée, Claudia Cardinale",
+  "plot": "Guido seeks peace after his success but faces pressure from past collaborators. As he struggles with creativity, he reflects on his life and past romances.",
+  "language": "Italian, French, English, German",
+  "country": "Italy, France",
+  "awards": "Won 2 Oscars. 19 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTc0OTg1MjU3OV5BMl5BanBnXkFtZTgwMDkyNzM3OTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "93/100"
+    }
+  ],
+  "metascore": "93",
+  "imdbRating": "8.0",
+  "imdbID": "tt0056801",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:01:40.472Z"
+}

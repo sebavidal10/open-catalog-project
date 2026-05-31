@@ -1,0 +1,27 @@
+{
+  "title": "This Is Not a Test",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "N/A",
+  "runtime": "73 min",
+  "genre": "Drama, Sci-Fi",
+  "director": "Fredric Gadette",
+  "writer": "Peter Abenheim, Betty Lasky, Fredric Gadette",
+  "actors": "Seamon Glass, Thayer Roberts, Aubrey Martin",
+  "plot": "A deputy sheriff stops motorists on a mountain road after police dispatch reports of a possible nuclear attack.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTU5MDkwNDAzOV5BMl5BanBnXkFtZTgwNjE4NDgwMzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.3",
+  "imdbID": "tt0183884",
+  "type": "movie",
+  "fetched_at": "2026-05-31T17:56:06.050Z"
+}

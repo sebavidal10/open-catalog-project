@@ -1,0 +1,35 @@
+{
+  "title": "Dementia 13",
+  "year": "1963",
+  "rated": "Unrated",
+  "released": "31 Aug 1963",
+  "runtime": "75 min",
+  "genre": "Horror, Thriller",
+  "director": "Francis Ford Coppola",
+  "writer": "Francis Ford Coppola, Jack Hill, Al Locatelli",
+  "actors": "William Campbell, Luana Anders, Bart Patton",
+  "plot": "A scheming widow hatches a bold plan to acquire her late husband's inheritance, unaware that she is being targeted by an ax murderer who lurks in the family's estate.",
+  "language": "English",
+  "country": "Ireland, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzAwZWZlY2YtOWVlZS00MDFhLWExZjEtMGFiOWExMDc3YThhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "5.7",
+  "imdbID": "tt0056983",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:02:32.683Z"
+}

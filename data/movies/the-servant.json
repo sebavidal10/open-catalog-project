@@ -1,0 +1,35 @@
+{
+  "title": "The Servant",
+  "year": "1963",
+  "rated": "Unrated",
+  "released": "16 Mar 1964",
+  "runtime": "116 min",
+  "genre": "Drama",
+  "director": "Joseph Losey",
+  "writer": "Harold Pinter, Robin Maugham",
+  "actors": "Dirk Bogarde, Sarah Miles, Wendy Craig",
+  "plot": "Upper-class Tony hires servant Hugo Barrett, who turns out to have a hidden agenda.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Won 3 BAFTA 8 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGU4YjNmMDktNmUxYS00MWQ1LTlmZDAtMWY0YzRmNzUzNjUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "7.7",
+  "imdbID": "tt0057490",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:01:46.654Z"
+}

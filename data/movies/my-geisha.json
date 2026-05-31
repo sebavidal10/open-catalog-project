@@ -1,0 +1,27 @@
+{
+  "title": "My Geisha",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "12 Feb 1962",
+  "runtime": "119 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Jack Cardiff",
+  "writer": "Norman Krasna",
+  "actors": "Shirley MacLaine, Yves Montand, Edward G. Robinson",
+  "plot": "An actress disguises herself as a geisha in order to land the lead role in her director husband's film version of 'Madam Butterfly'.",
+  "language": "English, Japanese",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWRkOGU4NjktM2NmNS00ZTI5LTlmOGYtMTQwZmJiMWEzM2YwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0056267",
+  "type": "movie",
+  "fetched_at": "2026-05-31T17:52:11.337Z"
+}

@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120117707511",
+  "title": "Aquaman #75",
+  "authors": [
+    "Dan Jurgens",
+    "John Workman",
+    "Michael Kaluta",
+    "Norm Rapmund",
+    "Steve Epting",
+    "Tony Bedard"
+  ],
+  "publish_date": "2000-11-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/15/aquaman-75.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2427/",
+  "fetched_at": "2026-05-31T18:06:35.472Z",
+  "reviewed_at": null
+}

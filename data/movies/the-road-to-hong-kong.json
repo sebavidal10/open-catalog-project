@@ -1,0 +1,35 @@
+{
+  "title": "The Road to Hong Kong",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "22 May 1962",
+  "runtime": "91 min",
+  "genre": "Comedy, Musical, Sci-Fi",
+  "director": "Norman Panama",
+  "writer": "Norman Panama, Melvin Frank",
+  "actors": "Bing Crosby, Bob Hope, Joan Collins",
+  "plot": "Mistaken identity and the acquisition of a rare Tibetan herb put two buffoonish con men on the wrong side of a secret organization geared toward world domination.",
+  "language": "English",
+  "country": "United Kingdom, Hong Kong, China, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzY2NjgzMDk4N15BMl5BanBnXkFtZTcwNzI0NzI5NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "6.1",
+  "imdbID": "tt0056417",
+  "type": "movie",
+  "fetched_at": "2026-05-31T17:53:13.635Z"
+}

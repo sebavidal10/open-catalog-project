@@ -1,0 +1,27 @@
+{
+  "title": "Bon Voyage!",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "17 May 1962",
+  "runtime": "130 min",
+  "genre": "Adventure, Comedy, Drama",
+  "director": "James Neilson",
+  "writer": "Marrijane Hayes, Joseph Hayes, Bill Walsh",
+  "actors": "Fred MacMurray, Jane Wyman, Michael Callan",
+  "plot": "A family takes a long delayed trip to Europe and finds an unending series of comedy adventures.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGE3OWY0MmEtYTM1Ni00MzI4LWE1ZmYtOGYzNWVhMDA4NTlmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0055807",
+  "type": "movie",
+  "fetched_at": "2026-05-31T17:52:23.690Z"
+}

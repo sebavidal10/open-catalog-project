@@ -1,0 +1,27 @@
+{
+  "title": "Marco Polo",
+  "year": "1962",
+  "rated": "N/A",
+  "released": "01 Aug 1962",
+  "runtime": "95 min",
+  "genre": "Adventure, Drama, History",
+  "director": "Hugo Fregonese, Richard McNamara, Piero Pierotti",
+  "writer": "Piero Pierotti, Oreste Biancoli, Duccio Tessari",
+  "actors": "Rory Calhoun, Yôko Tani, Robert Hundar",
+  "plot": "Italian explorer rescues the daughter of the Mongol leader Kublai Khan, meets a hermit who has invented gunpowder and builds a cannon.",
+  "language": "Italian",
+  "country": "Italy, France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTViZjkxYjYtYmFlNS00NzAwLWI3OGQtOGIzYjMwZTg2NTdhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0055141",
+  "type": "movie",
+  "fetched_at": "2026-05-31T17:52:35.192Z"
+}

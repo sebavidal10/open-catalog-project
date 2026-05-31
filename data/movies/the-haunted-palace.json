@@ -1,0 +1,31 @@
+{
+  "title": "The Haunted Palace",
+  "year": "1963",
+  "rated": "Approved",
+  "released": "22 Apr 1964",
+  "runtime": "87 min",
+  "genre": "Horror",
+  "director": "Roger Corman",
+  "writer": "Charles Beaumont, Edgar Allan Poe, H.P. Lovecraft",
+  "actors": "Vincent Price, Debra Paget, Lon Chaney Jr.",
+  "plot": "Charles Dexter Ward arrives at a small village to visit the house he inherited from his ancestor who died there 100 years ago.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzI1NDE2N15BMl5BanBnXkFtZTgwNTYwNjAxNzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0057128",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:02:45.078Z"
+}

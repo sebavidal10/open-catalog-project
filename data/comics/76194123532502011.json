@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194123532502011",
+  "title": "Aquaman #20",
+  "authors": [
+    "Alan Davis",
+    "Christian Alamy",
+    "Mark Farmer",
+    "Nathan Eyring",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Rob Leigh",
+    "Stephen Wacker",
+    "Will Pfeifer"
+  ],
+  "publish_date": "2004-07-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/17/aquaman-v6-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2449/",
+  "fetched_at": "2026-05-31T18:10:55.464Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194123532501611",
+  "title": "Aquaman #16",
+  "authors": [
+    "Alan Davis",
+    "Christian Alamy",
+    "Mark Farmer",
+    "Nathan Eyring",
+    "Nick J. Napolitano",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Stephen Wacker",
+    "Will Pfeifer"
+  ],
+  "publish_date": "2004-03-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/17/aquaman-v6-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2445/",
+  "fetched_at": "2026-05-31T18:10:16.152Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Beach Party",
+  "year": "1963",
+  "rated": "Approved",
+  "released": "07 Aug 1963",
+  "runtime": "101 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "William Asher",
+  "writer": "Lou Rusoff",
+  "actors": "Robert Cummings, Dorothy Malone, Frankie Avalon",
+  "plot": "A bearded anthropologist studies the habits of swingin' American teens while they enjoy the summer surfing, loving, and partying at the beach.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2U1ZjcxZTUtMjNhNC00OGRhLThmOGUtNmQ2NTFmMjA3MzE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0056860",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:02:52.490Z"
+}

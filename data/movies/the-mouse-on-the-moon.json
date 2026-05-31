@@ -1,0 +1,31 @@
+{
+  "title": "The Mouse on the Moon",
+  "year": "1963",
+  "rated": "Approved",
+  "released": "17 Jun 1963",
+  "runtime": "82 min",
+  "genre": "Comedy, Romance, Sci-Fi",
+  "director": "Richard Lester",
+  "writer": "Leonard Wibberley, Michael Pertwee",
+  "actors": "Margaret Rutherford, Ron Moody, Bernard Cribbins",
+  "plot": "A tiny country persuades the Americans and Soviets that they're starting a space program, when they really just want some money for new plumbing.",
+  "language": "English, Russian",
+  "country": "United Kingdom",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTc4NTk4NDgyN15BMl5BanBnXkFtZTcwODY2NjE2NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0057328",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:03:42.052Z"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123532503111",
+  "title": "Aquaman #31",
+  "authors": [
+    "Andy Clarke",
+    "Christian Alamy",
+    "Harvey Richards",
+    "Marc Guggenheim",
+    "Nathan Eyring",
+    "Nick J. Napolitano",
+    "Patrick Gleason",
+    "Peter J. Tomasi"
+  ],
+  "publish_date": "2005-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/19/aquaman-v6-31.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2462/",
+  "fetched_at": "2026-05-31T18:12:32.552Z",
+  "reviewed_at": null
+}

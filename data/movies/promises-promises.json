@@ -1,0 +1,27 @@
+{
+  "title": "Promises..... Promises!",
+  "year": "1963",
+  "rated": "Not Rated",
+  "released": "15 Sep 1966",
+  "runtime": "75 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "King Donovan",
+  "writer": "William Welch, Tommy Noonan, Edna Sheklow",
+  "actors": "Jayne Mansfield, Tommy Noonan, Marie McDonald",
+  "plot": "After a drunken spree on a cruise ship, two women discover that they're pregnant, and set out to find who the fathers are.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDE0YTA2ZDUtNTUzMi00MTMwLTg3ZTQtMWEyMGU5ODI2MmYwXkEyXkFqcGdeQXVyMTA3NzE5MzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.9",
+  "imdbID": "tt0057428",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:02:12.729Z"
+}

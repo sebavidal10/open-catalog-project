@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194123532503811",
+  "title": "Aquaman #38",
+  "authors": [
+    "Andy Clarke",
+    "Don Kramer",
+    "John Arcudi",
+    "Keith Champagne",
+    "Leonard Kirk",
+    "Michael Siglain",
+    "Nathan Eyring",
+    "Peter J. Tomasi",
+    "Rob Leigh"
+  ],
+  "publish_date": "2006-01-04",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/19/aquaman-v6-38.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2469/",
+  "fetched_at": "2026-05-31T18:13:35.108Z",
+  "reviewed_at": null
+}

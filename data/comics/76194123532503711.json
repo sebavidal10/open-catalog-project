@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194123532503711",
+  "title": "Aquaman #37",
+  "authors": [
+    "Andy Clarke",
+    "John Arcudi",
+    "Leonard Kirk",
+    "Michael Siglain",
+    "Nathan Eyring",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Prentis Rollins",
+    "Travis Lanham"
+  ],
+  "publish_date": "2005-12-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/19/aquaman-v6-37.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2468/",
+  "fetched_at": "2026-05-31T18:13:26.194Z",
+  "reviewed_at": null
+}

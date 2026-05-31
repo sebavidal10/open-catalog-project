@@ -1,0 +1,31 @@
+{
+  "title": "Shock Corridor",
+  "year": "1963",
+  "rated": "Approved",
+  "released": "25 Sep 1963",
+  "runtime": "101 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "Samuel Fuller",
+  "writer": "Samuel Fuller",
+  "actors": "Peter Breck, Constance Towers, Gene Evans",
+  "plot": "Bent on winning a Pulitzer Prize, a journalist commits himself to a mental institution to solve a strange and unclear murder.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWQ3NDE3NDQtZGVlYS00YTljLTk3YzktOGRlMWU0MjZiOTMwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0057495",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:02:41.364Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Billy Liar",
+  "year": "1963",
+  "rated": "Not Rated",
+  "released": "16 Dec 1963",
+  "runtime": "98 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "John Schlesinger",
+  "writer": "Keith Waterhouse, Willis Hall",
+  "actors": "Tom Courtenay, Julie Christie, Wilfred Pickles",
+  "plot": "A lazy, irresponsible young clerk (Sir Tom Courtenay) in provincial Northern England lives in his own fantasy world and makes emotionally immature decisions as he alienates friends and family.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 6 BAFTA 1 win & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTYyMTMxZGQtNDU2ZS00YTMzLWFhNmItZmUxZmE3MGE5YmY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "metascore": "82",
+  "imdbRating": "7.2",
+  "imdbID": "tt0056868",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:03:04.863Z"
+}

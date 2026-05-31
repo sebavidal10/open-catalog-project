@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123532500211",
+  "title": "Aquaman #2",
+  "authors": [
+    "Alex Maleev",
+    "Dan Raspler",
+    "Mark Propst",
+    "Michael Heisler",
+    "Nathan Eyring",
+    "Rick Veitch",
+    "Valerie D'Orazio",
+    "Yvel Guichet"
+  ],
+  "publish_date": "2003-01-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/16/aquaman-v6-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2430/",
+  "fetched_at": "2026-05-31T18:07:50.009Z",
+  "reviewed_at": null
+}

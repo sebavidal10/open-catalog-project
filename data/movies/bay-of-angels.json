@@ -1,0 +1,35 @@
+{
+  "title": "Bay of Angels",
+  "year": "1963",
+  "rated": "Not Rated",
+  "released": "01 Mar 1963",
+  "runtime": "90 min",
+  "genre": "Drama, Romance",
+  "director": "Jacques Demy",
+  "writer": "Jacques Demy",
+  "actors": "Jeanne Moreau, Claude Mann, Paul Guers",
+  "plot": "Jean is a clerk in a bank. His colleague Caron is a gambler and gives him the virus. In the casinos, Jean meets Jackie. Their love affair will follow their luck at the roulette.",
+  "language": "French",
+  "country": "France, Monaco",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODVhOTQ1YTEtMmUwMi00ODU5LTljOWQtZTBhMjQ3MjU3NTczXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.2",
+  "imdbID": "tt0056846",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:01:41.706Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Professor",
+  "year": "1962",
+  "rated": "N/A",
+  "released": "11 May 1962",
+  "runtime": "166 min",
+  "genre": "Comedy, Drama, Musical",
+  "director": "Lekh Tandon",
+  "writer": "Abrar Alvi, Shashi Bhushan",
+  "actors": "Shammi Kapoor, Lalita Pawar, Parveen Choudhary",
+  "plot": "A college grad in need of money must disguise himself as an old man to tutor two young women who are under the watchful eye of their strict aunt.",
+  "language": "Hindi",
+  "country": "India",
+  "awards": "1 win & 4 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzkzMzk4YzMtY2YzNi00ODQ3LWExZGQtYzhiNzI0NWU4ZDFlXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0056379",
+  "type": "movie",
+  "fetched_at": "2026-05-31T17:54:55.688Z"
+}

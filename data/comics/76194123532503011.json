@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123532503011",
+  "title": "Aquaman #30",
+  "authors": [
+    "Andy Clarke",
+    "Christian Alamy",
+    "Harvey Richards",
+    "Jared K. Fletcher",
+    "Marc Guggenheim",
+    "Nathan Eyring",
+    "Patrick Gleason",
+    "Peter J. Tomasi"
+  ],
+  "publish_date": "2005-05-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/18/aquaman-v6-30.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2459/",
+  "fetched_at": "2026-05-31T18:12:23.014Z",
+  "reviewed_at": null
+}

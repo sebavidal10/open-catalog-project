@@ -1,0 +1,35 @@
+{
+  "title": "Donovan's Reef",
+  "year": "1963",
+  "rated": "Approved",
+  "released": "19 Jul 1963",
+  "runtime": "109 min",
+  "genre": "Adventure, Comedy, Romance",
+  "director": "John Ford",
+  "writer": "Frank S. Nugent, James Edward Grant, Edmund Beloin",
+  "actors": "John Wayne, Lee Marvin, Elizabeth Allen",
+  "plot": "In an ideal society on a picturesque South Seas isle, diverse people live in harmony until an outsider disrupts the balance.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYThhY2M1ZDQtM2M5YS00YzcyLWJmODMtNzVmNjBlZjVkYTUyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "6.7",
+  "imdbID": "tt0057007",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:02:09.025Z"
+}

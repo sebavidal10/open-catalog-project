@@ -1,0 +1,31 @@
+{
+  "title": "Voyage to the End of the Universe",
+  "year": "1963",
+  "rated": "N/A",
+  "released": "25 Nov 1964",
+  "runtime": "81 min",
+  "genre": "Sci-Fi",
+  "director": "Jindrich Polák",
+  "writer": "Pavel Jurácek, Stanislaw Lem, Jindrich Polák",
+  "actors": "Zdenek Stepánek, Frantisek Smolík, Dana Medrická",
+  "plot": "The year is 2163. Starship Ikarie XB 1 embarks on a long journey across the universe to search for life on the planets of Alpha Centauri.",
+  "language": "Czech",
+  "country": "Czechoslovakia",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjJjNDNhYjktODk0OS00ODcxLWIxNzItY2JmZWQ1MmJmN2Q5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0122111",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:03:29.688Z"
+}

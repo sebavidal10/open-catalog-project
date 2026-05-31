@@ -1,0 +1,27 @@
+{
+  "title": "Horror Castle",
+  "year": "1963",
+  "rated": "Unrated",
+  "released": "15 Aug 1963",
+  "runtime": "84 min",
+  "genre": "Horror",
+  "director": "Antonio Margheriti",
+  "writer": "Frank Bogart, Ernesto Gastaldi, Edmond T. Gréville",
+  "actors": "Rossana Podestà, Georges Rivière, Christopher Lee",
+  "plot": "Women are being tortured to death with various torture devices in the dungeon of an old castle by a deformed, hooded, holocaust survivor.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODc2YjQyYWYtMzRkNi00MDk2LWJhZmItMmQ1MzEyN2FjOGEzXkEyXkFqcGdeQXVyODA0MDg5NTg@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0057646",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:03:38.335Z"
+}

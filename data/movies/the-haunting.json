@@ -1,0 +1,35 @@
+{
+  "title": "The Haunting",
+  "year": "1963",
+  "rated": "G",
+  "released": "22 Aug 1963",
+  "runtime": "112 min",
+  "genre": "Horror",
+  "director": "Robert Wise",
+  "writer": "Nelson Gidding, Shirley Jackson",
+  "actors": "Julie Harris, Claire Bloom, Richard Johnson",
+  "plot": "Hill House has stood for about 90 years and appears haunted: its inhabitants have always met strange, tragic ends. Now Dr. John Markway has assembled a team of people who he thinks will prove whether or not the house is haunted.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU0MTkzMDI0MV5BMl5BanBnXkFtZTgwODI5NTAxNzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.4",
+  "imdbID": "tt0057129",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:02:06.554Z"
+}

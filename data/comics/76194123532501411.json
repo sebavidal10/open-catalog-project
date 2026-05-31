@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123532501411",
+  "title": "Aquaman #14",
+  "authors": [
+    "Howard Porter",
+    "John Ostrander",
+    "Nathan Eyring",
+    "Peter J. Tomasi",
+    "Rob Leigh",
+    "Stephen Wacker",
+    "Tom Grummett",
+    "Wade von Grawbadger"
+  ],
+  "publish_date": "2004-01-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/17/aquaman-v6-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2443/",
+  "fetched_at": "2026-05-31T18:09:50.129Z",
+  "reviewed_at": null
+}

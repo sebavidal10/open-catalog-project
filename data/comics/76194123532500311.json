@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123532500311",
+  "title": "Aquaman #3",
+  "authors": [
+    "Alex Maleev",
+    "Dan Raspler",
+    "Mark Propst",
+    "Michael Heisler",
+    "Nathan Eyring",
+    "Rick Veitch",
+    "Valerie D'Orazio",
+    "Yvel Guichet"
+  ],
+  "publish_date": "2003-02-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/16/aquaman-v6-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2431/",
+  "fetched_at": "2026-05-31T18:07:59.134Z",
+  "reviewed_at": null
+}

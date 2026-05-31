@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194123532502211",
+  "title": "Aquaman #22",
+  "authors": [
+    "Christian Alamy",
+    "Jared K. Fletcher",
+    "Nathan Eyring",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Stephen Wacker",
+    "Will Pfeifer"
+  ],
+  "publish_date": "2004-09-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/17/aquaman-v6-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2451/",
+  "fetched_at": "2026-05-31T18:11:12.611Z",
+  "reviewed_at": null
+}

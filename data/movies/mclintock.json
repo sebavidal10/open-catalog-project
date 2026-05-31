@@ -1,0 +1,35 @@
+{
+  "title": "McLintock!",
+  "year": "1963",
+  "rated": "Approved",
+  "released": "13 Nov 1963",
+  "runtime": "126 min",
+  "genre": "Comedy, Western",
+  "director": "Andrew V. McLaglen",
+  "writer": "James Edward Grant",
+  "actors": "John Wayne, Maureen O'Hara, Patrick Wayne",
+  "plot": "Wealthy rancher G. W. McLintock uses his power and influence in the territory to keep the peace between farmers, ranchers, land-grabbers, Indians and corrupt government officials.",
+  "language": "English, Chinese, Navajo",
+  "country": "United States",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGQwOTdlOWUtZWIxNC00NWI0LTk4MWEtNzgyOWE0M2VmZjAwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.1",
+  "imdbID": "tt0057298",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:01:52.865Z"
+}

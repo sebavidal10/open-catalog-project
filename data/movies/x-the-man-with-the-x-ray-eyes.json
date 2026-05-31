@@ -1,0 +1,31 @@
+{
+  "title": "X: The Man with the X-Ray Eyes",
+  "year": "1963",
+  "rated": "Approved",
+  "released": "19 Sep 1963",
+  "runtime": "79 min",
+  "genre": "Horror, Sci-Fi, Thriller",
+  "director": "Roger Corman",
+  "writer": "Robert Dillon, Ray Russell",
+  "actors": "Ray Milland, Diana Van der Vlis, Harold J. Stone",
+  "plot": "An ambitious scientist invents an eye drop formula that grants him X-ray vision, but his new powers have disastrous consequences.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGZjZmM3YmMtODA0My00MzUzLWEwZDMtZmU4YTgzN2U1MzZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0057693",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:03:02.389Z"
+}

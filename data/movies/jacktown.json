@@ -1,0 +1,27 @@
+{
+  "title": "Jacktown",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "01 Jul 1962",
+  "runtime": "62 min",
+  "genre": "Drama",
+  "director": "William Martin",
+  "writer": "William Martin",
+  "actors": "Patty McCormack, Richard Meade, Douglas Rutherford",
+  "plot": "A young delinquent is sent to prison for a statutory rape.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNzQ5MjAxMF5BMl5BanBnXkFtZTcwNjU5MTUxMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.9",
+  "imdbID": "tt0182253",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:00:55.403Z"
+}

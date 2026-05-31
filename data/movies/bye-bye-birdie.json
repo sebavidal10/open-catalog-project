@@ -1,0 +1,31 @@
+{
+  "title": "Bye Bye Birdie",
+  "year": "1963",
+  "rated": "G",
+  "released": "27 May 1963",
+  "runtime": "112 min",
+  "genre": "Comedy, Musical",
+  "director": "George Sidney",
+  "writer": "Michael Stewart, Irving Brecher, George Sidney",
+  "actors": "Dick Van Dyke, Ann-Margret, Janet Leigh",
+  "plot": "A rock singer travels to a small Ohio town to make his \"farewell\" television performance and kiss his biggest fan before he is drafted.",
+  "language": "English, Russian, Cantonese",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGI2ZWRhZTUtOTg0NC00ZjQ1LWI2MGQtMzBkNThmZjMxMmQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0056891",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:01:57.847Z"
+}

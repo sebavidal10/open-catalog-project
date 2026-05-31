@@ -1,0 +1,35 @@
+{
+  "title": "It's a Mad Mad Mad Mad World",
+  "year": "1963",
+  "rated": "Approved",
+  "released": "07 Nov 1963",
+  "runtime": "210 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Stanley Kramer",
+  "writer": "William Rose, Tania Rose",
+  "actors": "Spencer Tracy, Milton Berle, Ethel Merman",
+  "plot": "Several different motorists witness a single car crash in the California desert and, after the driver's dying words indicate the location of a hidden stash of loot, turn against each other in a mad dash across the state to get to it.",
+  "language": "English, Chinese",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 3 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzVhY2Y4MTUtMDJmYi00MmMyLWFhY2UtMzk4NjEyYWFlZWFkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "metascore": "59",
+  "imdbRating": "7.5",
+  "imdbID": "tt0057193",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:01:33.035Z"
+}

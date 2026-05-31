@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123532500811",
+  "title": "Aquaman #8",
+  "authors": [
+    "Ethan Van Sciver",
+    "Kurt Hathaway",
+    "Mark Propst",
+    "Nathan Eyring",
+    "Peter J. Tomasi",
+    "Rick Veitch",
+    "Stephen Wacker",
+    "Yvel Guichet"
+  ],
+  "publish_date": "2003-07-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/16/aquaman-v6-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2437/",
+  "fetched_at": "2026-05-31T18:08:47.457Z",
+  "reviewed_at": null
+}

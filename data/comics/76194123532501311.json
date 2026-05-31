@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194123532501311",
+  "title": "Aquaman #13",
+  "authors": [
+    "Jim Fern",
+    "John Ostrander",
+    "Nathan Eyring",
+    "Peter J. Tomasi",
+    "Ray Snyder",
+    "Rob Leigh",
+    "Stephen Wacker"
+  ],
+  "publish_date": "2003-12-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/17/aquaman-v6-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2442/",
+  "fetched_at": "2026-05-31T18:09:40.654Z",
+  "reviewed_at": null
+}

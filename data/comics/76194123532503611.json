@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194123532503611",
+  "title": "Aquaman #36",
+  "authors": [
+    "Andy Clarke",
+    "Christian Alamy",
+    "John Arcudi",
+    "Leonard Kirk",
+    "Michael Siglain",
+    "Nathan Eyring",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Travis Lanham"
+  ],
+  "publish_date": "2006-11-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/19/aquaman-v6-36.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2467/",
+  "fetched_at": "2026-05-31T18:13:17.665Z",
+  "reviewed_at": "2006-11-01"
+}

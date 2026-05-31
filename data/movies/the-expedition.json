@@ -1,0 +1,27 @@
+{
+  "title": "The Expedition",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "28 Sep 1962",
+  "runtime": "150 min",
+  "genre": "Crime, Family, Romance",
+  "director": "Satyajit Ray",
+  "writer": "Tarashankar Banerjee, Satyajit Ray",
+  "actors": "Soumitra Chatterjee, Waheeda Rehman, Ruma Guha Thakurta",
+  "plot": "A taxi driver attempts to introduce his cab service in rural Bengal against many odds.",
+  "language": "Bengali",
+  "country": "India",
+  "awards": "4 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmUzNzU2MzEtYmMxMi00MzY3LWEzMmYtNjIwOWI2NGFhNzc2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.9",
+  "imdbID": "tt0055724",
+  "type": "movie",
+  "fetched_at": "2026-05-31T17:56:31.926Z"
+}

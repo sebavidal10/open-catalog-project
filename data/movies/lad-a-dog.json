@@ -1,0 +1,27 @@
+{
+  "title": "Lad: A Dog",
+  "year": "1962",
+  "rated": "G",
+  "released": "02 Jun 1962",
+  "runtime": "98 min",
+  "genre": "Drama",
+  "director": "Aram Avakian, Leslie H. Martinson",
+  "writer": "Albert Payson Terhune, Lillie Hayward, Roberta Hodes",
+  "actors": "Peter Breck, Peggy McCay, Carroll O'Connor",
+  "plot": "A Wonder dog wins the hearts of a young child and saves his owners from danger.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODBmNjFhOTEtZDg5ZC00YjI0LWIyOTAtN2E3MTZjZTcwNDUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0056162",
+  "type": "movie",
+  "fetched_at": "2026-05-31T17:55:47.516Z"
+}

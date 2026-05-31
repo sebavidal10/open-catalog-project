@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194123532504211",
+  "title": "Aquaman: Sword of Atlantis #42",
+  "authors": [
+    "Dan Brown",
+    "Jackson Butch Guice",
+    "Joey Cavalieri",
+    "Kurt Busiek",
+    "Michael Wright",
+    "Todd Klein"
+  ],
+  "publish_date": "2006-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/19/aquaman-sword-42.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2477/",
+  "fetched_at": "2026-05-31T18:14:10.025Z",
+  "reviewed_at": "2006-07-01"
+}

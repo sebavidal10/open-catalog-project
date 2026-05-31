@@ -1,0 +1,31 @@
+{
+  "title": "Yesterday, Today and Tomorrow",
+  "year": "1963",
+  "rated": "Not Rated",
+  "released": "17 Mar 1964",
+  "runtime": "119 min",
+  "genre": "Comedy, Romance",
+  "director": "Vittorio De Sica",
+  "writer": "Eduardo De Filippo, Isabella Quarantotti, Alberto Moravia",
+  "actors": "Sophia Loren, Marcello Mastroianni, Aldo Giuffrè",
+  "plot": "Stories about three very different women and the men they attract.",
+  "language": "Italian",
+  "country": "Italy, France",
+  "awards": "Won 1 Oscar. 8 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzI5M2Q3NGItOGExOC00MTUyLWEyNTMtNmIxZTI2ZWMxN2JiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0057171",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:02:10.263Z"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194123532500611",
+  "title": "Aquaman #6",
+  "authors": [
+    "Bob Almond",
+    "Kurt Hathaway",
+    "Mark Propst",
+    "Michael Heisler",
+    "Nathan Eyring",
+    "Peter J. Tomasi",
+    "Rick Veitch",
+    "Sal Velluto",
+    "Stephen Wacker",
+    "Yvel Guichet"
+  ],
+  "publish_date": "2003-05-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/16/aquaman-v6-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2435/",
+  "fetched_at": "2026-05-31T18:08:28.071Z",
+  "reviewed_at": null
+}

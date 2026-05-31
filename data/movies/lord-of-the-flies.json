@@ -1,0 +1,35 @@
+{
+  "title": "Lord of the Flies",
+  "year": "1963",
+  "rated": "Not Rated",
+  "released": "13 Aug 1963",
+  "runtime": "92 min",
+  "genre": "Adventure, Drama, Thriller",
+  "director": "Peter Brook",
+  "writer": "William Golding, Peter Brook",
+  "actors": "James Aubrey, Tom Chapin, Hugh Edwards",
+  "plot": "Schoolboys marooned on a Pacific island create their own savage civilization.",
+  "language": "English, Latin",
+  "country": "United Kingdom, United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2RiOTM0ZDgtNDRlMi00MDMzLWI1NDYtY2NjZDM4YTkwNWVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "6.9",
+  "imdbID": "tt0057261",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:02:00.347Z"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120117707411",
+  "title": "Aquaman #74",
+  "authors": [
+    "Dan Jurgens",
+    "John Workman",
+    "Michael Kaluta",
+    "Noelle Giddings",
+    "Norm Rapmund",
+    "Prentis Rollins",
+    "Steve Epting",
+    "Tony Bedard"
+  ],
+  "publish_date": "2000-10-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/15/aquaman-74.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2426/",
+  "fetched_at": "2026-05-31T18:06:23.678Z",
+  "reviewed_at": null
+}

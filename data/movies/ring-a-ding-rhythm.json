@@ -1,0 +1,31 @@
+{
+  "title": "Ring-A-Ding Rhythm!",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "01 Sep 1962",
+  "runtime": "78 min",
+  "genre": "Comedy, Musical",
+  "director": "Richard Lester",
+  "writer": "Milton Subotsky",
+  "actors": "Helen Shapiro, Craig Douglas, John Leyton",
+  "plot": "Two teens organize a jazz festival despite objections from the mayor.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGMzZGQxNmMtMDdjYy00NWUwLWFmNGUtZDVmN2MyYmYyZjliXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0055026",
+  "type": "movie",
+  "fetched_at": "2026-05-31T17:56:04.823Z"
+}

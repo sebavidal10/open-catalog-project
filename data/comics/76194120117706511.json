@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120117706511",
+  "title": "Aquaman #65",
+  "authors": [
+    "Dan Jurgens",
+    "John Workman",
+    "Marlo Alquiza",
+    "Michael Kaluta",
+    "Noelle Giddings",
+    "Norm Rapmund",
+    "Steve Epting",
+    "Tony Bedard"
+  ],
+  "publish_date": "2000-01-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/14/aquaman-65.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2413/",
+  "fetched_at": "2026-05-31T18:04:48.909Z",
+  "reviewed_at": null
+}

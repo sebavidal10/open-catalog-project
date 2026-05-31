@@ -1,0 +1,27 @@
+{
+  "title": "Black Test Car",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "01 Jul 1962",
+  "runtime": "95 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Yasuzô Masumura",
+  "writer": "Toshiyuki Kajiyama, Kazuo Funahashi, Yoshihiro Ishimatsu",
+  "actors": "Jirô Tamiya, Junko Kanô, Eiji Funakoshi",
+  "plot": "Two car manufacturers spy on each other to try to find out details and prices of a new sports car each is about to launch.",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjdmZjQ2NzQtODRiOC00NTIyLTg3MzAtM2Q4MGVkOWEyZjc1XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0056158",
+  "type": "movie",
+  "fetched_at": "2026-05-31T17:55:03.100Z"
+}

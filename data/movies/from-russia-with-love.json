@@ -1,0 +1,35 @@
+{
+  "title": "From Russia with Love",
+  "year": "1963",
+  "rated": "PG",
+  "released": "27 May 1964",
+  "runtime": "115 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "Terence Young",
+  "writer": "Richard Maibaum, Johanna Harwood, Ian Fleming",
+  "actors": "Sean Connery, Robert Shaw, Lotte Lenya",
+  "plot": "James Bond willingly inserts himself into an assassination plot involving a naive Russian beauty in order to retrieve a Soviet encryption device that was stolen by the evil SPECTRE organization.",
+  "language": "English, Russian, Turkish, French, Romany, Italian",
+  "country": "United Kingdom, United States, Italy, Turkey",
+  "awards": "Won 1 BAFTA Award3 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWY2MWY2ODAtMTY5Ny00MzA2LWFkMWYtODU2MjE0MmM4ZTQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.3",
+  "imdbID": "tt0057076",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:01:34.274Z"
+}

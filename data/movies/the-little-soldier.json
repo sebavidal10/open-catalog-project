@@ -1,0 +1,35 @@
+{
+  "title": "The Little Soldier",
+  "year": "1963",
+  "rated": "Not Rated",
+  "released": "25 Jan 1963",
+  "runtime": "88 min",
+  "genre": "Drama, War",
+  "director": "Jean-Luc Godard",
+  "writer": "Jean-Luc Godard",
+  "actors": "Anna Karina, Michel Subor, Henri-Jacques Huet",
+  "plot": "During the Algerian War, a man and woman from opposing sides fall in love with one another.",
+  "language": "French, German",
+  "country": "France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NzczMjQyN15BMl5BanBnXkFtZTcwMzU0NDAyOQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "97/100"
+    }
+  ],
+  "metascore": "97",
+  "imdbRating": "7.1",
+  "imdbID": "tt0054177",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:01:47.898Z"
+}

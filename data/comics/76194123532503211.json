@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194123532503211",
+  "title": "Aquaman #32",
+  "authors": [
+    "Christian Alamy",
+    "Harvey Richards",
+    "John Arcudi",
+    "Nathan Eyring",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Phil Balsman"
+  ],
+  "publish_date": "2005-07-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/19/aquaman-v6-32.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2463/",
+  "fetched_at": "2026-05-31T18:12:44.426Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Strongroom",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "01 Dec 1962",
+  "runtime": "80 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Vernon Sewell",
+  "writer": "Max Marquis, Richard Harris",
+  "actors": "Colin Gordon, John Chappell, Ann Lynn",
+  "plot": "Bank robbery goes awry, manager and cashier locked in vault. Robbers return after failed rescue attempt, race against time to free hostages before police arrive.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmM4OWE1MjYtYjBhYi00NjZiLWI0ZDctYjZlNDZjNDc3MTg4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0055484",
+  "type": "movie",
+  "fetched_at": "2026-05-31T17:55:10.491Z"
+}

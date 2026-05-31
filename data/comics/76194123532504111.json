@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123532504111",
+  "title": "Aquaman: Sword of Atlantis #41",
+  "authors": [
+    "Carlos Pacheco",
+    "Dan Brown",
+    "Jackson Butch Guice",
+    "Jesús Merino",
+    "Joey Cavalieri",
+    "Kurt Busiek",
+    "Michael Wright",
+    "Todd Klein"
+  ],
+  "publish_date": "2006-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/19/aquaman-sword-41.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2476/",
+  "fetched_at": "2026-05-31T18:14:01.219Z",
+  "reviewed_at": "2006-06-01"
+}

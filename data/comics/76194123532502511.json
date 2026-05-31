@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194123532502511",
+  "title": "Aquaman #25",
+  "authors": [
+    "Christian Alamy",
+    "Harvey Richards",
+    "John Arcudi",
+    "Mick Gray",
+    "Nathan Eyring",
+    "Patrick Gleason",
+    "Peter J. Tomasi",
+    "Phil Balsman"
+  ],
+  "publish_date": "2004-12-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/17/aquaman-v6-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2454/",
+  "fetched_at": "2026-05-31T18:11:39.875Z",
+  "reviewed_at": null
+}

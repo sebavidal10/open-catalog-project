@@ -1,0 +1,27 @@
+{
+  "title": "Big Red",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "06 Jun 1962",
+  "runtime": "89 min",
+  "genre": "Adventure, Drama, Family",
+  "director": "Norman Tokar",
+  "writer": "Jim Kjelgaard, Louis Pelletier",
+  "actors": "Walter Pidgeon, Gilles Payant, Émile Genest",
+  "plot": "A wealthy sportsman's decision to hire a backwoods orphan to exercise a champion Irish Setter has unexpected consequences.",
+  "language": "French, English",
+  "country": "Canada, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODcxNTE4YWYtN2U3Ny00YjZhLTg5Y2EtOGQzZDYzYzM5MzMwXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0055793",
+  "type": "movie",
+  "fetched_at": "2026-05-31T17:52:33.962Z"
+}

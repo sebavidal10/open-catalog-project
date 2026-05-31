@@ -1,0 +1,35 @@
+{
+  "title": "Period of Adjustment",
+  "year": "1962",
+  "rated": "Approved",
+  "released": "31 Oct 1962",
+  "runtime": "112 min",
+  "genre": "Comedy, Drama",
+  "director": "George Roy Hill",
+  "writer": "Isobel Lennart, Tennessee Williams",
+  "actors": "Anthony Franciosa, Jane Fonda, Jim Hutton",
+  "plot": "A newlywed couple's honeymoon is disrupted by their friends' marital problems.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzk0MmM1NjEtZTIxMi00Y2VmLTk5OGItMDQzZDJlNzlkNjNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "6.2",
+  "imdbID": "tt0056341",
+  "type": "movie",
+  "fetched_at": "2026-05-31T17:52:36.425Z"
+}

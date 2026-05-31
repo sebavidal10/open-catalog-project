@@ -1,0 +1,31 @@
+{
+  "title": "The Grim Reaper",
+  "year": "1962",
+  "rated": "Not Rated",
+  "released": "06 May 1982",
+  "runtime": "88 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Bernardo Bertolucci",
+  "writer": "Pier Paolo Pasolini, Bernardo Bertolucci, Sergio Citti",
+  "actors": "Francesco Ruiu, Giancarlo De Rosa, Vincenzo Ciccora",
+  "plot": "When a woman is killed in a park, the police bring in everyone suspected of being there when the incident occurred and question them. One of them is the killer.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTdhMjgwNDItMGY2Zi00NDkyLWJiYWUtZmNhZGRiMDUxODE3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0055858",
+  "type": "movie",
+  "fetched_at": "2026-05-31T17:53:03.674Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194123532503911",
+  "title": "Aquaman #39",
+  "authors": [
+    "Brian Bolland",
+    "Freddie E. Williams II",
+    "Jared K. Fletcher",
+    "John Arcudi",
+    "Michael Siglain",
+    "Nathan Eyring",
+    "Peter J. Tomasi"
+  ],
+  "publish_date": "2006-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/19/aquaman-v6-39.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2470/",
+  "fetched_at": "2026-05-31T18:13:43.712Z",
+  "reviewed_at": null
+}

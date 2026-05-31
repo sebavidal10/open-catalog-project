@@ -1,0 +1,27 @@
+{
+  "title": "Mr. Peters' Pets",
+  "year": "1962",
+  "rated": "R",
+  "released": "07 Dec 1962",
+  "runtime": "70 min",
+  "genre": "Comedy, Fantasy",
+  "director": "Peter Perry Jr.",
+  "writer": "N/A",
+  "actors": "Al Hopson, Denise Daniels, Mickey Frantz",
+  "plot": "A man orders some \"animal ambrosia\" so he can turn into animals and be able to watch naked women.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmJiMWMzOTUtYzc5My00OWMwLTk5OGQtZjM2MTcxNTNhNDgwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0056257",
+  "type": "movie",
+  "fetched_at": "2026-05-31T17:55:04.331Z"
+}

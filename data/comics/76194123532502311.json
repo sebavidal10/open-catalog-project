@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194123532502311",
+  "title": "Aquaman #23",
+  "authors": [
+    "Chris Batista",
+    "Christian Alamy",
+    "Dave Meikis",
+    "Harvey Richards",
+    "Jared K. Fletcher",
+    "John Ostrander",
+    "Nathan Eyring",
+    "Patrick Gleason",
+    "Peter J. Tomasi"
+  ],
+  "publish_date": "2004-10-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/17/aquaman-v6-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2452/",
+  "fetched_at": "2026-05-31T18:11:21.778Z",
+  "reviewed_at": null
+}

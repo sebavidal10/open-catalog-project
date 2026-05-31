@@ -1,0 +1,35 @@
+{
+  "title": "The Thrill of It All",
+  "year": "1963",
+  "rated": "Approved",
+  "released": "17 Jul 1963",
+  "runtime": "108 min",
+  "genre": "Comedy, Romance",
+  "director": "Norman Jewison",
+  "writer": "Carl Reiner, Larry Gelbart, Georges Péclet",
+  "actors": "Doris Day, James Garner, Arlene Francis",
+  "plot": "A homemaker's sudden rise to fame as a soap spokesperson leads to chaos in her home life.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2NkYjNiNjQtYWM2My00YmY5LWE5ZTEtY2UxYmFkMWVhYzQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "6.9",
+  "imdbID": "tt0057581",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:02:17.691Z"
+}

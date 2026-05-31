@@ -1,0 +1,31 @@
+{
+  "title": "Captain Newman, M.D.",
+  "year": "1963",
+  "rated": "Approved",
+  "released": "25 Dec 1963",
+  "runtime": "126 min",
+  "genre": "Comedy, Drama, War",
+  "director": "David Miller",
+  "writer": "Richard L. Breen, Phoebe Ephron, Henry Ephron",
+  "actors": "Gregory Peck, Tony Curtis, Angie Dickinson",
+  "plot": "In 1944, an Army doctor is in charge of a neuropsychiatric ward at an Army Air Corps hospital in Arizona, and he must deal with a variety of tough cases.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTI5YWJkN2YtNzRiZi00ZmQ4LWIxZGUtNjU3NzYyOGQ5YzMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0056903",
+  "type": "movie",
+  "fetched_at": "2026-05-31T18:03:01.150Z"
+}
