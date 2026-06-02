@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130497705011",
+  "title": "Aquaman #50",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Dalhouse",
+    "Brett Booth",
+    "Brian Cunningham",
+    "Dan Abnett",
+    "José Luis García-López",
+    "Moreno DiNisio",
+    "Norm Rapmund",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2016-03-30",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/29/aquaman-v7-50.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2613/",
+  "fetched_at": "2026-06-02T16:54:42.883Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Critic's Choice",
+  "year": "1963",
+  "rated": "Approved",
+  "released": "13 Apr 1963",
+  "runtime": "100 min",
+  "genre": "Comedy",
+  "director": "Don Weis",
+  "writer": "Ira Levin, Jack Sher",
+  "actors": "Bob Hope, Lucille Ball, Marilyn Maxwell",
+  "plot": "Parker Ballantine is a New York theater critic and his wife writes a play that may or may not be very good. Now Parker must either get out of reviewing the play or cause the breakup of his marriage.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGJiN2YyYWYtNGUyMC00NmJkLWI5NDktZmU4OGViYTZmYmE1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0056964",
+  "type": "movie",
+  "fetched_at": "2026-06-02T15:29:48.546Z"
+}

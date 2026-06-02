@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960620917002511",
+  "title": "Uncanny X-Men #25",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "David Marquez",
+    "David Messina",
+    "Ejikure",
+    "Gail Simone",
+    "Jay Bowen",
+    "Lelio Bonaccorso",
+    "Lindsey Cohick",
+    "Matthew Wilson",
+    "Pete Woods",
+    "Rachelle Rosenberg",
+    "Tom Brevoort",
+    "Travis Lanham"
+  ],
+  "publish_date": "2026-03-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/03/10/71a310db4fa84cdbb9bbb81c578228be.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/163491/",
+  "fetched_at": "2026-06-02T15:28:28.224Z",
+  "reviewed_at": null
+}

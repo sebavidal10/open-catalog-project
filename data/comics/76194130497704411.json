@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130497704411",
+  "title": "Aquaman #44",
+  "authors": [
+    "Alec Morgan",
+    "Amedeo Turturro",
+    "Art Thibert",
+    "Brian Cunningham",
+    "Cullen Bunn",
+    "Francis Manapul",
+    "Guy Major",
+    "Jesús Merino",
+    "Tom Napolitano",
+    "Trevor McCarthy"
+  ],
+  "publish_date": "2015-09-30",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/28/aquaman-v7-44.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2605/",
+  "fetched_at": "2026-06-02T16:53:46.979Z",
+  "reviewed_at": null
+}

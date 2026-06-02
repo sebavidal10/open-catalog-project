@@ -1,0 +1,35 @@
+{
+  "title": "Seven Days in May",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "13 Feb 1964",
+  "runtime": "118 min",
+  "genre": "Drama, Thriller",
+  "director": "John Frankenheimer",
+  "writer": "Fletcher Knebel, Charles W. Bailey II, Rod Serling",
+  "actors": "Burt Lancaster, Kirk Douglas, Fredric March",
+  "plot": "United States military leaders plot to overthrow the President because he supports a nuclear disarmament treaty and they fear a Soviet sneak attack.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 4 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzg4ZTA0YWEtZDllNi00MmJlLTlhYTctZTlmMWY0MDMwMDFmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.8",
+  "imdbID": "tt0058576",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:40:58.944Z"
+}

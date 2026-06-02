@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130497701911",
+  "title": "Aquaman #19",
+  "authors": [
+    "Brad Anderson",
+    "Brian Cunningham",
+    "Dezi Sienty",
+    "Geoff Johns",
+    "Kate Durré",
+    "Paul Pelletier",
+    "Rod Reis",
+    "Sean Parsons",
+    "Tom Bunk"
+  ],
+  "publish_date": "2013-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/27/aquaman-v7-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2571/",
+  "fetched_at": "2026-06-02T16:48:17.160Z",
+  "reviewed_at": null
+}

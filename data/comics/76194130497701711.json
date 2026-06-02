@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130497701711",
+  "title": "Aquaman #17",
+  "authors": [
+    "Art Thibert",
+    "Brian Cunningham",
+    "Dezi Sienty",
+    "Geoff Johns",
+    "Katie Kubert",
+    "Paul Pelletier",
+    "Rod Reis",
+    "Sean Parsons"
+  ],
+  "publish_date": "2013-02-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/27/aquaman-v7-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2569/",
+  "fetched_at": "2026-06-02T16:47:58.466Z",
+  "reviewed_at": null
+}

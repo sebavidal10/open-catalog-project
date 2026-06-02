@@ -1,0 +1,31 @@
+{
+  "title": "The Fiances",
+  "year": "1963",
+  "rated": "Not Rated",
+  "released": "16 May 1963",
+  "runtime": "77 min",
+  "genre": "Drama",
+  "director": "Ermanno Olmi",
+  "writer": "Ermanno Olmi",
+  "actors": "Anna Canzi, Carlo Cabrini",
+  "plot": "Despite his fiancee's reluctance, a young man moves to Sicily for a better job, but soon starts questioning his decision.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmVmOTg1ZDItNDcxMy00ZDUyLWJhMTEtNmQzYzc1ZmRjNWQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0055981",
+  "type": "movie",
+  "fetched_at": "2026-06-02T15:28:35.625Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Gertrud",
+  "year": "1964",
+  "rated": "Not Rated",
+  "released": "02 Jun 1966",
+  "runtime": "116 min",
+  "genre": "Drama, Romance",
+  "director": "Carl Theodor Dreyer",
+  "writer": "Hjalmar Söderberg, Carl Theodor Dreyer",
+  "actors": "Nina Pens Rode, Bendt Rothe, Ebbe Rode",
+  "plot": "In the elegant world of artists and musicians, Gertrud ends her marriage to Gustav and takes a lover, the composer Erland Jansson.",
+  "language": "Danish",
+  "country": "Denmark",
+  "awards": "3 wins & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmVkYTI5N2MtOGZjZC00ZmQ5LWEwZmUtOWIyMDA2N2U5NWU1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0058138",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:43:09.731Z"
+}

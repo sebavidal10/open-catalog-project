@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134183500711",
+  "title": "Aquaman #7",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Hennessy",
+    "Brad Walker",
+    "Brian Cunningham",
+    "Dan Abnett",
+    "Diego Lopez",
+    "Gabe Eltaeb",
+    "Joshua Middleton",
+    "Pat Brosseau",
+    "Scot Eaton",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2016-09-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/20/aquaman-v8-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2904/",
+  "fetched_at": "2026-06-02T16:55:56.557Z",
+  "reviewed_at": null
+}

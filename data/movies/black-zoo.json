@@ -1,0 +1,27 @@
+{
+  "title": "Black Zoo",
+  "year": "1963",
+  "rated": "Approved",
+  "released": "15 May 1963",
+  "runtime": "88 min",
+  "genre": "Drama, Horror",
+  "director": "Robert Gordon",
+  "writer": "Herman Cohen, Aben Kandel",
+  "actors": "Michael Gough, Jeanne Cooper, Rod Lauren",
+  "plot": "The owner of a small zoo uses the animals to kill his enemies.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjlhNWZiODktZDc2Yi00ODAzLTk2MWYtMjRiZjVlN2JlMWRhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0056872",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:34:25.415Z"
+}

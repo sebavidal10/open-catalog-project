@@ -1,0 +1,31 @@
+{
+  "title": "Lilith",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "01 Oct 1964",
+  "runtime": "114 min",
+  "genre": "Drama",
+  "director": "Robert Rossen",
+  "writer": "Robert Alan Aurthur, Robert Rossen, J.R. Salamanca",
+  "actors": "Warren Beatty, Jean Seberg, Peter Fonda",
+  "plot": "A war veteran gets work at a mental institution, where he meets the beautiful and eccentric Lilith.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGQ2NmU3MmUtZDAyNS00NDg4LTg2MjUtOTY3NTQ4NzBmOTZkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0058294",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:41:02.697Z"
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134183506411",
+  "title": "Aquaman #64",
+  "authors": [
+    "Alex R. Carr",
+    "Andrea Shea",
+    "Clayton Cowles",
+    "Daniel Henriques",
+    "Gilbert Vigonte",
+    "Ivan Nunes",
+    "Kelly Sue DeConnick",
+    "Marcelo Maiolo",
+    "Miguel Mendonça",
+    "Robson Rocha",
+    "Romulo Fajardo Jr."
+  ],
+  "publish_date": "2020-10-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/10/14/aquaman-64.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18022/",
+  "fetched_at": "2026-06-02T17:11:50.820Z",
+  "reviewed_at": null
+}

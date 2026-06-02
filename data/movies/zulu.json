@@ -1,0 +1,35 @@
+{
+  "title": "Zulu",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "17 Jun 1964",
+  "runtime": "138 min",
+  "genre": "Drama, History, War",
+  "director": "Cy Endfield",
+  "writer": "John Prebble, Cy Endfield",
+  "actors": "Stanley Baker, Jack Hawkins, Ulla Jacobsson",
+  "plot": "Outnumbered British soldiers do battle with Zulu warriors at Rorke's Drift.",
+  "language": "English, Zulu",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 BAFTA Award1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzBkOTE1MjktMDQ4NS00YTYxLWIwZGMtNDMyN2QwMjMzZDI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.7",
+  "imdbID": "tt0058777",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:40:35.077Z"
+}

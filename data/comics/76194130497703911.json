@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194130497703911",
+  "title": "Aquaman #39",
+  "authors": [
+    "Amanda Conner",
+    "Brian Cunningham",
+    "Frank Pittarese",
+    "Harvey Richards",
+    "Jeff Parker",
+    "Paul Mounts",
+    "Paul Pelletier",
+    "Peter Pantazis",
+    "Rain Beredo",
+    "Sandra Hope",
+    "Sean Parsons",
+    "Travis Lanham",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2015-02-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/28/aquaman-v7-39.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2599/",
+  "fetched_at": "2026-06-02T16:52:37.784Z",
+  "reviewed_at": null
+}

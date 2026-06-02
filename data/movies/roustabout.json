@@ -1,0 +1,35 @@
+{
+  "title": "Roustabout",
+  "year": "1964",
+  "rated": "PG",
+  "released": "11 Nov 1964",
+  "runtime": "101 min",
+  "genre": "Drama, Music, Musical",
+  "director": "John Rich",
+  "writer": "Anthony Lawrence, Allan Weiss",
+  "actors": "Elvis Presley, Barbara Stanwyck, Joan Freeman",
+  "plot": "After a singer loses his job at a coffee shop, he finds employment at a struggling carnival, but his attempted romance with a teenager leads to friction with her father.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGNjNzQwZDItMGM4YS00YWRkLThhNDYtODczODM5MWFiYjQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "56%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "metascore": "50",
+  "imdbRating": "6.0",
+  "imdbID": "tt0058534",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:42:05.326Z"
+}

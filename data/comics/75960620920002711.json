@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960620920002711",
+  "title": "X-Men #27",
+  "authors": [
+    "Annalise Bissa",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Fer Sifuentes-Sujo",
+    "Gerald Parel",
+    "Jay Bowen",
+    "Jed MacKay",
+    "Lindsey Cohick",
+    "Luciano Vecchio",
+    "Netho Diaz",
+    "Rachelle Rosenberg",
+    "Sean Parsons",
+    "Todd Nauck",
+    "Tom Brevoort",
+    "Yasmine Putri"
+  ],
+  "publish_date": "2026-03-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/03/01/7665013df9164b679dd178ae2fee4317.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/163110/",
+  "fetched_at": "2026-06-02T15:28:37.043Z",
+  "reviewed_at": null
+}

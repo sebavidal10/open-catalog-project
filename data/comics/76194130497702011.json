@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194130497702011",
+  "title": "Aquaman #20",
+  "authors": [
+    "Brian Cunningham",
+    "Dezi Sienty",
+    "John Ostrander",
+    "Kate Durré",
+    "Manuel Garcia",
+    "Paul Pelletier",
+    "Peter Pantazis",
+    "Ray McCarthy",
+    "Rob Hunter",
+    "Rod Reis",
+    "Sandra Hope",
+    "Sean Parsons",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2013-05-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/27/aquaman-v7-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2572/",
+  "fetched_at": "2026-06-02T16:48:25.844Z",
+  "reviewed_at": null
+}

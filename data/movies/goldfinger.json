@@ -1,0 +1,35 @@
+{
+  "title": "Goldfinger",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "09 Jan 1965",
+  "runtime": "110 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "Guy Hamilton",
+  "writer": "Richard Maibaum, Paul Dehn, Ian Fleming",
+  "actors": "Sean Connery, Gert Fröbe, Honor Blackman",
+  "plot": "While investigating a gold magnate's smuggling, James Bond uncovers a plot to contaminate the Fort Knox gold reserve.",
+  "language": "English, Chinese, Spanish",
+  "country": "United Kingdom, United States",
+  "awards": "Won 1 Oscar. 7 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MzE0OTU3NV5BMl5BanBnXkFtZTcwNjQxNTgzNA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.7",
+  "imdbID": "tt0058150",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:40:15.925Z"
+}

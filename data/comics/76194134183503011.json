@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134183503011",
+  "title": "Aquaman #30",
+  "authors": [
+    "Alex Antone",
+    "Brian Cunningham",
+    "Dan Abnett",
+    "Dave Wielgosz",
+    "Liam Sharp",
+    "Steve Wands",
+    "Stjepan Šejić"
+  ],
+  "publish_date": "2017-11-15",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/24/aquaman-v8-30.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2970/",
+  "fetched_at": "2026-06-02T16:57:03.617Z",
+  "reviewed_at": null
+}

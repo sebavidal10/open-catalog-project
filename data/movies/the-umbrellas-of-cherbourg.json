@@ -1,0 +1,35 @@
+{
+  "title": "The Umbrellas of Cherbourg",
+  "year": "1964",
+  "rated": "Not Rated",
+  "released": "16 Dec 1964",
+  "runtime": "91 min",
+  "genre": "Drama, Musical, Romance",
+  "director": "Jacques Demy",
+  "writer": "Jacques Demy",
+  "actors": "Catherine Deneuve, Nino Castelnuovo, Anne Vernon",
+  "plot": "A young woman separated from her lover by war faces a life-altering decision.",
+  "language": "French, English",
+  "country": "France, West Germany",
+  "awards": "Nominated for 5 Oscars. 6 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmY3NWE5YWYtMGFkNC00Y2JhLWI5MTYtMTA0OWE5NjZlNGY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.8",
+  "imdbID": "tt0058450",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:40:25.035Z"
+}

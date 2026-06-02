@@ -1,0 +1,31 @@
+{
+  "title": "Santa Claus Conquers the Martians",
+  "year": "1964",
+  "rated": "Not Rated",
+  "released": "10 Nov 1966",
+  "runtime": "81 min",
+  "genre": "Adventure, Comedy, Family",
+  "director": "Nicholas Webster",
+  "writer": "Glenville Mareth, Paul L. Jacobson",
+  "actors": "John Call, Leonard Hicks, Vincent Beck",
+  "plot": "The Martians kidnap Santa Claus because there is nobody on Mars to give their children presents.",
+  "language": "English",
+  "country": "United States, Denmark",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzZiNDM3MDgtM2VhOS00NWFiLTkyYzEtNjUwODQ0OTc4NzNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "2.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "25%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "2.7",
+  "imdbID": "tt0058548",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:42:12.910Z"
+}

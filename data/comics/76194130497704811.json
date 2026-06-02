@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194130497704811",
+  "title": "Aquaman #48",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Dalhouse",
+    "Andy Kuhn",
+    "Brett Booth",
+    "Brian Cunningham",
+    "Cullen Bunn",
+    "Guy Major",
+    "John Dell",
+    "Juan Castro",
+    "Norm Rapmund",
+    "Tom Napolitano",
+    "Vicente Cifuentes"
+  ],
+  "publish_date": "2016-01-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/29/aquaman-v7-48.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2611/",
+  "fetched_at": "2026-06-02T16:54:25.456Z",
+  "reviewed_at": null
+}

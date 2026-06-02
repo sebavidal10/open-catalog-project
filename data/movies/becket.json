@@ -1,0 +1,35 @@
+{
+  "title": "Becket",
+  "year": "1964",
+  "rated": "PG-13",
+  "released": "11 Mar 1964",
+  "runtime": "148 min",
+  "genre": "Biography, Drama, History",
+  "director": "Peter Glenville",
+  "writer": "Jean Anouilh, Lucienne Hill, Edward Anhalt",
+  "actors": "Richard Burton, Peter O'Toole, John Gielgud",
+  "plot": "King Henry II of England comes to terms with his affection for his close friend and confidant Thomas Becket, who finds his true honor by observing God's divine will rather than the King's.",
+  "language": "English, Latin, Welsh",
+  "country": "United Kingdom, United States",
+  "awards": "Won 1 Oscar. 14 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWIyNGI0MWMtOTkyMi00MzYyLWJkOWQtY2E1ZjgxNjQwNWZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "7.7",
+  "imdbID": "tt0057877",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:40:23.783Z"
+}

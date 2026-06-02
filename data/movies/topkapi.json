@@ -1,0 +1,31 @@
+{
+  "title": "Topkapi",
+  "year": "1964",
+  "rated": "Unrated",
+  "released": "04 Sep 1964",
+  "runtime": "120 min",
+  "genre": "Adventure, Comedy, Crime",
+  "director": "Jules Dassin",
+  "writer": "Monja Danischewsky, Eric Ambler",
+  "actors": "Melina Mercouri, Peter Ustinov, Maximilian Schell",
+  "plot": "A conman gets mixed up with a group of thieves who plan to rob an Istanbul museum to steal a jewelled dagger.",
+  "language": "English, French, Turkish, German, Greek, Italian",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 4 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM2MTcyNDQ4Nl5BMl5BanBnXkFtZTcwMzQxNDY3NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0058672",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:41:27.726Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Bikini Beach",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "22 Jul 1964",
+  "runtime": "99 min",
+  "genre": "Comedy, Music, Romance",
+  "director": "William Asher",
+  "writer": "William Asher, Leo Townsend, Robert Dillon",
+  "actors": "Frankie Avalon, Annette Funicello, Martha Hyer",
+  "plot": "A millionaire sets out to prove his theory that his pet chimpanzee is as intelligent as the teenagers who hang out on the local beach, where he is intending to build a retirement home.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzhmMTc0N2EtMWUzNS00OTkxLWI3ODEtM2QxOWY4NjljNzcwXkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.4",
+  "imdbID": "tt0057887",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:41:21.484Z"
+}

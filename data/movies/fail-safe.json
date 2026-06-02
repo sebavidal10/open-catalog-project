@@ -1,0 +1,35 @@
+{
+  "title": "Fail Safe",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "07 Oct 1964",
+  "runtime": "112 min",
+  "genre": "Drama, Thriller",
+  "director": "Sidney Lumet",
+  "writer": "Walter Bernstein, Eugene Burdick, Harvey Wheeler",
+  "actors": "Henry Fonda, Walter Matthau, Fritz Weaver",
+  "plot": "A technical malfunction sends American planes to Moscow to deliver a nuclear attack. Can all-out war be averted?",
+  "language": "English, Russian",
+  "country": "United States",
+  "awards": "Nominated for 1 BAFTA Award3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDFhNjQ3NjUtMDUwZS00ZjkzLTljYjMtYmMzNzZiYTc1NDdmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "8.0",
+  "imdbID": "tt0058083",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:40:43.841Z"
+}

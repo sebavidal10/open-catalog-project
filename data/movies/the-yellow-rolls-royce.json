@@ -1,0 +1,27 @@
+{
+  "title": "The Yellow Rolls-Royce",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "13 May 1965",
+  "runtime": "122 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Anthony Asquith",
+  "writer": "Terence Rattigan",
+  "actors": "Ingrid Bergman, Rex Harrison, Shirley MacLaine",
+  "plot": "Anthology movie about three owners of a yellow Rolls-Royce: a British diplomat buys the car for his French wife; a mobster's girlfriend has an affair in Italy; an American woman drives a Yugoslavian partisan.",
+  "language": "English, Italian",
+  "country": "United Kingdom",
+  "awards": "Nominated for 2 BAFTA 1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTJiZTAxZmQtZDk1Yi00MTEzLWJlNzQtNGRmYzRiY2E5NDUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0059927",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:42:14.153Z"
+}

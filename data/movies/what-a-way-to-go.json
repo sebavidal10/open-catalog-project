@@ -1,0 +1,31 @@
+{
+  "title": "What a Way to Go!",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "26 Jun 1964",
+  "runtime": "111 min",
+  "genre": "Comedy, Romance",
+  "director": "J. Lee Thompson",
+  "writer": "Gwen Davis, Betty Comden, Adolph Green",
+  "actors": "Shirley MacLaine, Paul Newman, Robert Mitchum",
+  "plot": "Four-time widow Louisa May Foster sees a psychologist to discuss her marriages, in which her husbands (humble businessman Edgar, blase millionaire Rod, bohemian painter Larry, and nightclub singer Pinky) got rich and died because ...",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 1 win & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzJjNTBkZDQtMzE5My00ZmNlLTlkNDktMzEwYjkwM2I3YjZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "25%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0058743",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:40:45.097Z"
+}

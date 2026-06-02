@@ -1,0 +1,31 @@
+{
+  "title": "Zorba the Greek",
+  "year": "1964",
+  "rated": "Not Rated",
+  "released": "14 Dec 1964",
+  "runtime": "142 min",
+  "genre": "Comedy, Drama",
+  "director": "Michael Cacoyannis",
+  "writer": "Nikos Kazantzakis, Michael Cacoyannis",
+  "actors": "Anthony Quinn, Alan Bates, Irene Papas",
+  "plot": "A reserved English writer travelling to Crete on a matter of business finds his life changed forever when he meets the gregarious Alexis Zorba.",
+  "language": "English, Greek",
+  "country": "United States, Greece",
+  "awards": "Won 3 Oscars. 8 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWFhMGZmZTUtMzI0Yi00MzUwLTkzOWUtMWRmODZmYWY5YWE3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0057831",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:40:47.639Z"
+}

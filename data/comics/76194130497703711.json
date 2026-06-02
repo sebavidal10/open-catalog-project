@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130497703711",
+  "title": "Aquaman #37",
+  "authors": [
+    "Brian Cunningham",
+    "Darwyn Cooke",
+    "Dezi Sienty",
+    "Frank Pittarese",
+    "Harvey Richards",
+    "Jeff Parker",
+    "Paul Pelletier",
+    "Rain Beredo",
+    "Sean Parsons"
+  ],
+  "publish_date": "2014-12-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/28/aquaman-v7-37.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2597/",
+  "fetched_at": "2026-06-02T16:52:11.903Z",
+  "reviewed_at": null
+}

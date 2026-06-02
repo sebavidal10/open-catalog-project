@@ -1,0 +1,31 @@
+{
+  "title": "A Boy Ten Feet Tall",
+  "year": "1963",
+  "rated": "G",
+  "released": "21 Apr 1963",
+  "runtime": "118 min",
+  "genre": "Adventure",
+  "director": "Alexander Mackendrick",
+  "writer": "Denis Cannan, W.H. Canaway",
+  "actors": "Edward G. Robinson, Fergus McClelland, Constance Cummings",
+  "plot": "Ten year old Sammy travels 4500 miles on his own from the Suez Canal to Durban, South Africa.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 BAFTA Award2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjFiOTFlNjctNmU2Mi00OGU3LTliMzAtZTBhOTA2OTIzZWQyXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0056886",
+  "type": "movie",
+  "fetched_at": "2026-06-02T15:29:26.341Z"
+}

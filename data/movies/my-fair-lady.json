@@ -1,0 +1,35 @@
+{
+  "title": "My Fair Lady",
+  "year": "1964",
+  "rated": "G",
+  "released": "25 Dec 1964",
+  "runtime": "170 min",
+  "genre": "Drama, Family, Musical",
+  "director": "George Cukor",
+  "writer": "Alan Jay Lerner, George Bernard Shaw",
+  "actors": "Audrey Hepburn, Rex Harrison, Stanley Holloway",
+  "plot": "In 1910s London, snobbish phonetics professor Henry Higgins agrees to a wager that he can make a crude flower girl, Eliza Doolittle, presentable in high society.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 8 Oscars. 26 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmMxZmFjZmQtMDRiOC00MDQxLTlhNDktZTkxMmRiYWM1ZDUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "95/100"
+    }
+  ],
+  "metascore": "95",
+  "imdbRating": "7.7",
+  "imdbID": "tt0058385",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:40:14.668Z"
+}

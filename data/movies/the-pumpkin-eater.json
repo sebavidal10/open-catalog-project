@@ -1,0 +1,31 @@
+{
+  "title": "The Pumpkin Eater",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "09 Nov 1964",
+  "runtime": "118 min",
+  "genre": "Drama",
+  "director": "Jack Clayton",
+  "writer": "Harold Pinter, Penelope Mortimer",
+  "actors": "Anne Bancroft, Peter Finch, James Mason",
+  "plot": "Beautiful mother of five Jo leaves the banality of her marriage to second husband Giles to wed her passionate screenwriter lover, Jake Armitage. As her suspicion of Jake's philandering grows, Jo's sanity spirals.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 Oscar. 6 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmI2OWVkMDItYjk4Mi00MDU1LTlmMzEtOTgwYTVmZDc0MDczXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0058500",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:42:09.116Z"
+}

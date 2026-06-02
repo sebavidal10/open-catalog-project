@@ -1,0 +1,31 @@
+{
+  "title": "The Last Man on Earth",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "06 May 1964",
+  "runtime": "86 min",
+  "genre": "Drama, Horror, Sci-Fi",
+  "director": "Ubaldo Ragona, Sidney Salkow",
+  "writer": "Richard Matheson, William F. Leicester, Furio M. Monetti",
+  "actors": "Vincent Price, Franca Bettoia, Emma Danieli",
+  "plot": "When a disease turns all of humanity into the living dead, the last man on earth becomes a reluctant vampire hunter.",
+  "language": "English, Italian",
+  "country": "Italy, United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmYzYWQxNmQtMDg0ZS00MTQyLTk3YmEtNzA2NTQwMTJkYmZlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0058700",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:41:03.945Z"
+}

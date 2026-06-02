@@ -1,0 +1,35 @@
+{
+  "title": "The Chalk Garden",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "21 May 1964",
+  "runtime": "106 min",
+  "genre": "Drama, Mystery",
+  "director": "Ronald Neame",
+  "writer": "John Michael Hayes, Enid Bagnold",
+  "actors": "Deborah Kerr, Hayley Mills, John Mills",
+  "plot": "An elderly woman hires a governess with a mysterious past to look after her disturbed, spoiled teenage granddaughter, who eventually understands the meaning of self-sacrifice as an example of love and grows into a better person.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 1 Oscar. 3 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTU2ZTVhNjAtZWU4Ni00MzI0LWEyZTUtYjU2NzA0MGEzOGExXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "7.2",
+  "imdbID": "tt0057933",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:42:06.587Z"
+}

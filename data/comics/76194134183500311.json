@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134183500311",
+  "title": "Aquaman #3",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Hennessy",
+    "Brad Walker",
+    "Brian Cunningham",
+    "Dan Abnett",
+    "Gabe Eltaeb",
+    "Joshua Middleton",
+    "Pat Brosseau",
+    "Philippe Briones"
+  ],
+  "publish_date": "2016-07-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/19/aquaman-v8-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2898/",
+  "fetched_at": "2026-06-02T16:55:30.531Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,37 @@
+{
+  "isbn": null,
+  "upc": "75960621001502411",
+  "title": "The Amazing Spider-Man #24",
+  "authors": [
+    "C. B. Cebulski",
+    "Charles Soule",
+    "Dean White",
+    "Edgar Delgado",
+    "Giuseppe Camuncoli",
+    "Iban Coello",
+    "Jesus Aburtov",
+    "Jesús Saiz",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Kaitlyn Lindtvedt",
+    "Lee Bermejo",
+    "Lorenzo Ruggiero",
+    "Mark Bagley",
+    "Matt Hollingsworth",
+    "Mike Hawthorne",
+    "Nick Lowe",
+    "Rod Reis",
+    "Sarah Spadaccini",
+    "Tom Groneman"
+  ],
+  "publish_date": "2026-03-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/03/01/7f10fbba5f25438ba4ed6178764361b7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/163097/",
+  "fetched_at": "2026-06-02T16:42:55.071Z",
+  "reviewed_at": null
+}

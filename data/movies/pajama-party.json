@@ -1,0 +1,31 @@
+{
+  "title": "Pajama Party",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "11 Nov 1964",
+  "runtime": "82 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Don Weis",
+  "writer": "Louis M. Heyward",
+  "actors": "Tommy Kirk, Annette Funicello, Elsa Lanchester",
+  "plot": "Sent to Earth to prepare for an invasion, a Martian scout lands amidst a swim party and tries to convince everyone that he really is who he says.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc4MDE2MDAwMV5BMl5BanBnXkFtZTcwNzUwOTc2NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.9",
+  "imdbID": "tt0058440",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:42:07.854Z"
+}

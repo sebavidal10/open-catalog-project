@@ -1,0 +1,31 @@
+{
+  "title": "The Cool World",
+  "year": "1963",
+  "rated": "N/A",
+  "released": "02 Nov 1964",
+  "runtime": "105 min",
+  "genre": "Crime, Drama",
+  "director": "Shirley Clarke",
+  "writer": "Shirley Clarke, Carl Lee, Warren Miller",
+  "actors": "Rony Clanton, Carl Lee, Yolanda Rodríguez",
+  "plot": "A look at the horrors of Harlem ghetto slum life filled with drugs, violence, human misery, and a sense of despair due to the racial prejudices of American society.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTM3ZGUxZmItNTQ0MS00MmI3LTk1OTAtMDJhODk2YWUyM2IxXkEyXkFqcGdeQXVyNTUxODQ0MDk@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0056952",
+  "type": "movie",
+  "fetched_at": "2026-06-02T15:29:43.610Z"
+}

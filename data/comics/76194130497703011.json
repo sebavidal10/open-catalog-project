@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194130497703011",
+  "title": "Aquaman #30",
+  "authors": [
+    "Álvaro Martínez Bueno",
+    "Chris Conroy",
+    "Dezi Sienty",
+    "Jeff Parker",
+    "John Caldwell",
+    "Matt Idelson",
+    "Paul Pelletier",
+    "Rain Beredo",
+    "Raúl Fernández",
+    "Rod Reis",
+    "Sean Parsons"
+  ],
+  "publish_date": "2014-04-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/27/aquaman-v7-30.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2590/",
+  "fetched_at": "2026-06-02T16:50:23.576Z",
+  "reviewed_at": null
+}

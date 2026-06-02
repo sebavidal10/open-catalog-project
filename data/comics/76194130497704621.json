@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194130497704621",
+  "title": "Aquaman #46",
+  "authors": [
+    "Amedeo Turturro",
+    "Brad Anderson",
+    "Brian Cunningham",
+    "Cullen Bunn",
+    "Guy Major",
+    "Ivan Reis",
+    "John Dell",
+    "John Livesay",
+    "Marc Deering",
+    "Spike Brandt",
+    "Tom Napolitano",
+    "Trevor McCarthy",
+    "Vicente Cifuentes"
+  ],
+  "publish_date": "2015-11-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/29/aquaman-v7-46.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2609/",
+  "fetched_at": "2026-06-02T16:54:07.426Z",
+  "reviewed_at": null
+}

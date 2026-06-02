@@ -1,0 +1,27 @@
+{
+  "title": "Act One",
+  "year": "1963",
+  "rated": "Not Rated",
+  "released": "26 Dec 1963",
+  "runtime": "110 min",
+  "genre": "Biography, Drama",
+  "director": "Dore Schary",
+  "writer": "Moss Hart, Dore Schary",
+  "actors": "George Hamilton, Jason Robards, Jack Klugman",
+  "plot": "Story of the life of writer/playwright Moss Hart.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGQxZGI4ZDgtOGQ3ZC00NzRlLWE3MmEtMmIyZjA5YzgyODkyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0056810",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:35:20.615Z"
+}

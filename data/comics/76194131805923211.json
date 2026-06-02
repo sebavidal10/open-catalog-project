@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194131805923211",
+  "title": "Aquaman #23.2",
+  "authors": [
+    "Brian Cunningham",
+    "Geoff Johns",
+    "Geraldo Borges",
+    "Kate Durré",
+    "Rod Reis",
+    "Ruy José",
+    "Tony Bedard",
+    "Travis Lanham"
+  ],
+  "publish_date": "2013-09-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/27/aquaman-v7-23-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2583/",
+  "fetched_at": "2026-06-02T16:49:08.387Z",
+  "reviewed_at": null
+}

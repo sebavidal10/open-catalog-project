@@ -1,0 +1,31 @@
+{
+  "title": "Savage Sam",
+  "year": "1963",
+  "rated": "Approved",
+  "released": "01 Jun 1963",
+  "runtime": "103 min",
+  "genre": "Adventure, Drama, Family",
+  "director": "Norman Tokar",
+  "writer": "Fred Gipson, William Tunberg",
+  "actors": "Brian Keith, Tommy Kirk, Kevin Corcoran",
+  "plot": "Travis, Arliss, and Lisbeth are captured by Apaches while their dog, Sam, tracks their trail.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzU1MGMyNjgtNmY0OC00MGU1LWE3ZDQtYTdlNzVhZmI5YTdhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0057473",
+  "type": "movie",
+  "fetched_at": "2026-06-02T15:27:30.754Z"
+}

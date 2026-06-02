@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194123532505311",
+  "title": "Aquaman: Sword of Atlantis #53",
+  "authors": [
+    "Dan Brown",
+    "Joey Cavalieri",
+    "Paul Rivoche",
+    "Shawn McManus",
+    "Stephanie Buscema",
+    "Tad Williams",
+    "Todd Klein"
+  ],
+  "publish_date": "2007-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/20/aquaman-sword-53.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2505/",
+  "fetched_at": "2026-06-02T16:43:29.955Z",
+  "reviewed_at": "2007-08-01"
+}

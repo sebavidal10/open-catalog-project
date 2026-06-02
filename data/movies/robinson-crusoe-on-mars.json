@@ -1,0 +1,31 @@
+{
+  "title": "Robinson Crusoe on Mars",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "01 Jun 1964",
+  "runtime": "110 min",
+  "genre": "Adventure, Sci-Fi",
+  "director": "Byron Haskin",
+  "writer": "Ib Melchior, John C. Higgins, Daniel Defoe",
+  "actors": "Paul Mantee, Victor Lundin, Adam West",
+  "plot": "Stranded on Mars with only a monkey as a companion, an astronaut must figure out how to find oxygen, water, and food on the lifeless planet.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDUzYjhiMmEtZjY1MC00NTRiLWJiY2YtZWZkOTA5ZmRjM2ZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0058530",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:41:56.511Z"
+}

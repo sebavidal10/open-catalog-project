@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134183501311",
+  "title": "Aquaman #13",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Hennessy",
+    "Brad Walker",
+    "Brian Cunningham",
+    "Dan Abnett",
+    "Diego Lopez",
+    "Gabe Eltaeb",
+    "Joshua Middleton",
+    "Pat Brosseau",
+    "Scot Eaton",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2016-12-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/20/aquaman-v8-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2911/",
+  "fetched_at": "2026-06-02T20:37:04.169Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130497703811",
+  "title": "Aquaman #38",
+  "authors": [
+    "Brian Cunningham",
+    "Frank Pittarese",
+    "Harvey Richards",
+    "Jeff Parker",
+    "Paul Pelletier",
+    "Rain Beredo",
+    "Sandra Hope",
+    "Sean Parsons",
+    "Steve Rude",
+    "Travis Lanham"
+  ],
+  "publish_date": "2015-01-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/28/aquaman-v7-38.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2598/",
+  "fetched_at": "2026-06-02T16:52:24.864Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130497702611",
+  "title": "Aquaman #26",
+  "authors": [
+    "Andrew Dalhouse",
+    "Chris Conroy",
+    "Dezi Sienty",
+    "Jeff Parker",
+    "Matt Idelson",
+    "Netho Diaz",
+    "Paul Pelletier",
+    "Ruy José",
+    "Sean Parsons",
+    "Wil Quintana"
+  ],
+  "publish_date": "2013-12-31",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/27/aquaman-v7-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2586/",
+  "fetched_at": "2026-06-02T16:49:40.165Z",
+  "reviewed_at": null
+}

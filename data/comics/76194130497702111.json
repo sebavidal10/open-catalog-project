@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130497702111",
+  "title": "Aquaman #21",
+  "authors": [
+    "Brian Cunningham",
+    "Dezi Sienty",
+    "Geoff Johns",
+    "Kate Durré",
+    "Paul Pelletier",
+    "Rod Reis",
+    "Sean Parsons"
+  ],
+  "publish_date": "2013-06-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/27/aquaman-v7-21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2579/",
+  "fetched_at": "2026-06-02T16:48:34.681Z",
+  "reviewed_at": null
+}

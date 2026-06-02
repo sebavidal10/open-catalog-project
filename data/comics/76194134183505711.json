@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134183505711",
+  "title": "Aquaman #57",
+  "authors": [
+    "Alex Antone",
+    "Alex R. Carr",
+    "Andrea Shea",
+    "Clayton Cowles",
+    "Daniel Henriques",
+    "Kelly Sue DeConnick",
+    "Kris Anka",
+    "Marcelo Maiolo",
+    "Robson Rocha",
+    "Romulo Fajardo Jr."
+  ],
+  "publish_date": "2020-02-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/02/14/aquaman-57.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9645/",
+  "fetched_at": "2026-06-02T17:06:47.582Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Unsinkable Molly Brown",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "11 Jun 1964",
+  "runtime": "128 min",
+  "genre": "Comedy, Musical, Romance",
+  "director": "Charles Walters",
+  "writer": "Helen Deutsch, Richard Morris, Meredith Willson",
+  "actors": "Debbie Reynolds, Harve Presnell, Ed Begley",
+  "plot": "A poor, uneducated mountain girl leaves her cabin in search of respect, a wealthy husband, and a better life in this fictionalized biopic of Margaret \"Molly\" Brown, who survived the 1912 sinking of the RMS Titanic.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 6 Oscars. 5 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmVkYzUzNTEtMDNhNC00MjQxLTliYWQtODYyYzNjNzg2OGMyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0058708",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:41:15.185Z"
+}

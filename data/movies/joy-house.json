@@ -1,0 +1,31 @@
+{
+  "title": "Joy House",
+  "year": "1964",
+  "rated": "TV-MA",
+  "released": "01 Nov 1964",
+  "runtime": "97 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "René Clément",
+  "writer": "René Clément, Pascal Jardin, Charles Williams",
+  "actors": "Alain Delon, Jane Fonda, Lola Albright",
+  "plot": "A petty criminal seeks refuge in a house owned by two wealthy American women.",
+  "language": "French, English",
+  "country": "France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjM5OTJmZWItOGFjZS00Yzc2LWI1NWItZjE0YmMxODUxYmYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0058123",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:42:21.656Z"
+}

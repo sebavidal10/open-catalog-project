@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134183500511",
+  "title": "Aquaman #5",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Hennessy",
+    "Brad Walker",
+    "Brian Cunningham",
+    "Dan Abnett",
+    "Gabe Eltaeb",
+    "Joshua Middleton",
+    "Pat Brosseau",
+    "Philippe Briones"
+  ],
+  "publish_date": "2016-08-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/20/aquaman-v8-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2902/",
+  "fetched_at": "2026-06-02T16:55:43.748Z",
+  "reviewed_at": null
+}

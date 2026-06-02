@@ -1,0 +1,31 @@
+{
+  "title": "The Young Racers",
+  "year": "1963",
+  "rated": "Not Rated",
+  "released": "01 Jan 1963",
+  "runtime": "84 min",
+  "genre": "Action, Drama",
+  "director": "Roger Corman",
+  "writer": "R. Wright Campbell",
+  "actors": "Mark Damon, William Campbell, Luana Anders",
+  "plot": "A former race car driver-turned-writer attempts to expose a ruthless, womanizing Grand Prix racer - who may actually be sensitive and misunderstood.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWIxY2MwZmQtOWRhZS00YjVmLTgwYTUtN2I1NDJhZmFlMGYyXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.9/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "47/100"
+    }
+  ],
+  "metascore": "47",
+  "imdbRating": "4.9",
+  "imdbID": "tt0057706",
+  "type": "movie",
+  "fetched_at": "2026-06-02T15:30:57.676Z"
+}

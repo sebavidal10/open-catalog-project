@@ -1,0 +1,27 @@
+{
+  "title": "The Quick Gun",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "01 Apr 1964",
+  "runtime": "87 min",
+  "genre": "Drama, Western",
+  "director": "Sidney Salkow",
+  "writer": "Robert E. Kent, Steve Fisher",
+  "actors": "Audie Murphy, Merry Anders, James Best",
+  "plot": "Gunslinger Clint Cooper returns to his hometown to help fight off a raid by his former gang.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTE4MzY0ODEzN15BMl5BanBnXkFtZTgwOTk5Nzk1MDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0058507",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:44:04.929Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Father Goose",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "24 Dec 1964",
+  "runtime": "118 min",
+  "genre": "Adventure, Comedy, Romance",
+  "director": "Ralph Nelson",
+  "writer": "Peter Stone, Frank Tarloff, S.H. Barnett",
+  "actors": "Cary Grant, Leslie Caron, Trevor Howard",
+  "plot": "During World War II, a man persuaded to live on an isolated island and spot aircraft finds himself responsible for a teacher and several students, all female.",
+  "language": "English, French, Japanese",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 2 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWNiODllMzEtYTM0OC00NzIxLWI4ZDEtMjcwNTZkN2Y4MGE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0058092",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:40:57.693Z"
+}

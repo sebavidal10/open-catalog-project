@@ -1,0 +1,35 @@
+{
+  "title": "Mary Poppins",
+  "year": "1964",
+  "rated": "G",
+  "released": "18 Jun 1965",
+  "runtime": "139 min",
+  "genre": "Comedy, Family, Fantasy",
+  "director": "Robert Stevenson",
+  "writer": "Bill Walsh, Don DaGradi, P.L. Travers",
+  "actors": "Julie Andrews, Dick Van Dyke, David Tomlinson",
+  "plot": "In turn of the century London, a magical nanny employs music and adventure to help two neglected children become closer to their father.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 5 Oscars. 23 wins & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNThiNjgzMTYtZjUzMC00YTVlLTg4MDItMmFjMDIwYjg4ZDAwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "7.8",
+  "imdbID": "tt0058331",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:40:13.418Z"
+}

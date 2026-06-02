@@ -1,0 +1,31 @@
+{
+  "title": "Judex",
+  "year": "1963",
+  "rated": "Not Rated",
+  "released": "04 Dec 1963",
+  "runtime": "98 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Georges Franju",
+  "writer": "Arthur Bernède, Louis Feuillade, Jacques Champreux",
+  "actors": "Channing Pollock, Francine Bergé, Edith Scob",
+  "plot": "After abducting a corrupt banker to make him pay back the people he swindled, a conjuring vigilante must rescue the man's daughter when she is kidnapped by the scheming family governess.",
+  "language": "French",
+  "country": "France, Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzliOWUwNTAtNmU0Mi00Mzg2LWE4MjUtOGRhMjJmYWQ4NzM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0057207",
+  "type": "movie",
+  "fetched_at": "2026-06-02T15:27:05.860Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Marnie",
+  "year": "1964",
+  "rated": "PG",
+  "released": "17 Jul 1964",
+  "runtime": "130 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Alfred Hitchcock",
+  "writer": "Winston Graham, Jay Presson Allen",
+  "actors": "Tippi Hedren, Sean Connery, Martin Gabel",
+  "plot": "Mark marries Marnie although she is a habitual thief and has serious psychological problems, and tries to help her confront and resolve them.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIyMmJmOGUtODMzMy00NTUxLWJmZTQtMWQ4NWM1ZTg5MjZlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.1",
+  "imdbID": "tt0058329",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:40:37.589Z"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134183506211",
+  "title": "Aquaman #62",
+  "authors": [
+    "Alex R. Carr",
+    "Andrea Shea",
+    "Clayton Cowles",
+    "Daniel Henriques",
+    "Jordan Clark",
+    "Marcelo Maiolo",
+    "Marco Santucci",
+    "Robson Rocha",
+    "Romulo Fajardo Jr.",
+    "Tyler Kirkham"
+  ],
+  "publish_date": "2020-08-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/08/14/aquaman-62.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16251/",
+  "fetched_at": "2026-06-02T17:11:12.062Z",
+  "reviewed_at": null
+}

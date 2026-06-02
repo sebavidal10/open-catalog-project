@@ -1,0 +1,31 @@
+{
+  "title": "Paris When It Sizzles",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "08 Apr 1964",
+  "runtime": "110 min",
+  "genre": "Comedy, Romance",
+  "director": "Richard Quine",
+  "writer": "Julien Duvivier, Henri Jeanson, George Axelrod",
+  "actors": "William Holden, Audrey Hepburn, Grégoire Aslan",
+  "plot": "The sprightly young assistant of a Hollywood screenwriter helps him over his writer's block by acting out his fantasies of possible plots.",
+  "language": "English, French, Spanish, Italian",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTlmMGM4N2QtODZhMC00ODcwLWJkOTMtMzljMGNkZjMyYzA4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0058453",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:41:20.227Z"
+}

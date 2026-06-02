@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130497704511",
+  "title": "Aquaman #45",
+  "authors": [
+    "Amedeo Turturro",
+    "Art Thibert",
+    "Brian Cunningham",
+    "Cullen Bunn",
+    "Guy Major",
+    "John Dell",
+    "Michael Golden",
+    "Tom Napolitano",
+    "Trevor McCarthy",
+    "Vicente Cifuentes"
+  ],
+  "publish_date": "2015-10-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/28/aquaman-v7-45.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2606/",
+  "fetched_at": "2026-06-02T16:53:55.941Z",
+  "reviewed_at": null
+}

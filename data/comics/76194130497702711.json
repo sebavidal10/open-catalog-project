@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130497702711",
+  "title": "Aquaman #27",
+  "authors": [
+    "Chris Conroy",
+    "Jeff Parker",
+    "Matt Idelson",
+    "Netho Diaz",
+    "Paul Pelletier",
+    "Rod Reis",
+    "Ruy José",
+    "Sean Parsons",
+    "Steve Wands",
+    "Wil Quintana"
+  ],
+  "publish_date": "2014-01-29",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/27/aquaman-v7-27.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2587/",
+  "fetched_at": "2026-06-02T16:49:48.954Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "title": "That Man from Rio",
+  "year": "1964",
+  "rated": "Not Rated",
+  "released": "05 Feb 1964",
+  "runtime": "112 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Philippe de Broca",
+  "writer": "Jean-Paul Rappeneau, Ariane Mnouchkine, Daniel Boulanger",
+  "actors": "Jean-Paul Belmondo, Françoise Dorléac, Jean Servais",
+  "plot": "A young private on military leave comes to the rescue of his girlfriend who's been abducted by thieves and brought to Rio de Janeiro. An extravagant adventure ensues.",
+  "language": "French, English, Portuguese",
+  "country": "France, Italy",
+  "awards": "Nominated for 1 Oscar. 2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQzMDE3ODk2N15BMl5BanBnXkFtZTcwMzcyMTM4NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0058203",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:40:27.565Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Balcony",
+  "year": "1963",
+  "rated": "Not Rated",
+  "released": "17 Oct 1963",
+  "runtime": "84 min",
+  "genre": "Drama",
+  "director": "Joseph Strick",
+  "writer": "Bernard Frechtman, Jean Genet, Ben Maddow",
+  "actors": "Shelley Winters, Peter Falk, Lee Grant",
+  "plot": "In a fictional country, the Madam of a brothel satisfies the erotic fantasies of her customers, while a revolution is sweeping the nation.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODEyZjAyNGEtNDhjZi00YjU1LWFlMzItY2E4ZmNjMjdkNGY3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0056847",
+  "type": "movie",
+  "fetched_at": "2026-06-02T15:27:25.740Z"
+}

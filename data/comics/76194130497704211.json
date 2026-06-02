@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130497704211",
+  "title": "Aquaman #42",
+  "authors": [
+    "Amedeo Turturro",
+    "Brian Cunningham",
+    "Craig Rousseau",
+    "Cullen Bunn",
+    "Guy Major",
+    "Jesús Merino",
+    "Tom Napolitano",
+    "Trevor McCarthy",
+    "Walden Wong"
+  ],
+  "publish_date": "2015-07-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/28/aquaman-v7-42.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2603/",
+  "fetched_at": "2026-06-02T16:53:29.537Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130497700011",
+  "title": "Aquaman #0",
+  "authors": [
+    "Geoff Johns",
+    "Ivan Reis",
+    "Joe Prado",
+    "Kate Durré",
+    "Nick J. Napolitano",
+    "Patrick McCallum",
+    "Rod Reis"
+  ],
+  "publish_date": "2012-09-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/21/aquaman-v7-0.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2527/",
+  "fetched_at": "2026-06-02T16:47:13.391Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130497703611",
+  "title": "Aquaman #36",
+  "authors": [
+    "Brian Cunningham",
+    "Carlos M. Mangual",
+    "Frank Pittarese",
+    "Harvey Richards",
+    "Jeff Parker",
+    "Paul Pelletier",
+    "Rain Beredo",
+    "Sean Parsons"
+  ],
+  "publish_date": "2015-11-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/28/aquaman-v7-36.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2596/",
+  "fetched_at": "2026-06-02T16:51:59.137Z",
+  "reviewed_at": "2015-11-01"
+}

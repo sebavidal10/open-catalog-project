@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130497703411",
+  "title": "Aquaman #34",
+  "authors": [
+    "Amedeo Turturro",
+    "Brian Cunningham",
+    "Carlos Rodriguez",
+    "Dan Panosian",
+    "Dezi Sienty",
+    "Jeff Parker",
+    "Paul Pelletier",
+    "Rain Beredo",
+    "Sean Parsons"
+  ],
+  "publish_date": "2014-08-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/28/aquaman-v7-34.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2594/",
+  "fetched_at": "2026-06-02T16:51:18.850Z",
+  "reviewed_at": null
+}

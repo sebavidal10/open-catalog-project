@@ -1,0 +1,31 @@
+{
+  "title": "Send Me No Flowers",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "14 Oct 1964",
+  "runtime": "100 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Norman Jewison",
+  "writer": "Julius J. Epstein, Norman Barasch, Carroll Moore",
+  "actors": "Rock Hudson, Doris Day, Tony Randall",
+  "plot": "When a hypochondriac believes he is dying, he makes plans for his wife--which she discovers and misunderstands.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE1ODE2MzIzOF5BMl5BanBnXkFtZTgwNzIyNjIzMTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0058571",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:40:38.844Z"
+}

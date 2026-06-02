@@ -1,0 +1,27 @@
+{
+  "title": "Yellowstone Cubs",
+  "year": "1963",
+  "rated": "Approved",
+  "released": "01 Jun 1963",
+  "runtime": "48 min",
+  "genre": "Adventure, Family",
+  "director": "Charles L. Draper",
+  "writer": "Ralph Wright",
+  "actors": "Rex Allen, Joe Way",
+  "plot": "Two bear cubs, Tuffy and Tubby, are separated from their mother and spend an entire summer romping through Yellowstone National Park. In the meantime, the mother bear follows their trail as she searches for them.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGI5NzYwMTQtMzAwOC00ZDE3LTk3NWUtNzA1YmY4ZTlhYWVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0206446",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:34:40.577Z"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134183506511",
+  "title": "Aquaman #65",
+  "authors": [
+    "Alex R. Carr",
+    "Andrea Shea",
+    "Clayton Cowles",
+    "Daniel Henriques",
+    "Joshua Middleton",
+    "Kelly Sue DeConnick",
+    "Marcelo Maiolo",
+    "Miguel Mendonça",
+    "Robson Rocha",
+    "Romulo Fajardo Jr."
+  ],
+  "publish_date": "2020-11-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/04/aquaman-65.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18865/",
+  "fetched_at": "2026-06-02T17:12:13.032Z",
+  "reviewed_at": null
+}

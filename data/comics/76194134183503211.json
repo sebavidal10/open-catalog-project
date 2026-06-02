@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134183503211",
+  "title": "Aquaman #32",
+  "authors": [
+    "Alex Antone",
+    "Brian Cunningham",
+    "Dan Abnett",
+    "Dave Wielgosz",
+    "Joshua Middleton",
+    "Riccardo Federici",
+    "Rick Leonardi",
+    "Steve Wands",
+    "Stjepan Šejić",
+    "Sunny Gho"
+  ],
+  "publish_date": "2018-01-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/24/aquaman-v8-32.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2973/",
+  "fetched_at": "2026-06-02T16:57:36.429Z",
+  "reviewed_at": null
+}

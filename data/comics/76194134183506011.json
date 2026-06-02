@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134183506011",
+  "title": "Aquaman #60",
+  "authors": [
+    "Alex R. Carr",
+    "Andrea Shea",
+    "Clayton Cowles",
+    "Daniel Henriques",
+    "Kelly Sue DeConnick",
+    "Marcelo Maiolo",
+    "Miguel Mendonça",
+    "Robson Rocha",
+    "Romulo Fajardo Jr.",
+    "Tyler Kirkham"
+  ],
+  "publish_date": "2020-06-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/06/22/aquaman-60.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/14329/",
+  "fetched_at": "2026-06-02T17:10:33.206Z",
+  "reviewed_at": null
+}

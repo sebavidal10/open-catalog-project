@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130497701211",
+  "title": "Aquaman #12",
+  "authors": [
+    "Andy Lanning",
+    "Geoff Johns",
+    "Ivan Reis",
+    "Joe Prado",
+    "Nick J. Napolitano",
+    "Oclair Albert",
+    "Patrick McCallum",
+    "Rod Reis",
+    "Sean Mackiewicz"
+  ],
+  "publish_date": "2012-08-29",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/21/aquaman-v7-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2536/",
+  "fetched_at": "2026-06-02T16:47:04.373Z",
+  "reviewed_at": null
+}

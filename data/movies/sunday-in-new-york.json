@@ -1,0 +1,35 @@
+{
+  "title": "Sunday in New York",
+  "year": "1963",
+  "rated": "Approved",
+  "released": "05 Feb 1964",
+  "runtime": "105 min",
+  "genre": "Comedy, Romance",
+  "director": "Peter Tewksbury",
+  "writer": "Norman Krasna",
+  "actors": "Rod Taylor, Jane Fonda, Cliff Robertson",
+  "plot": "On a Sunday, Eileen Tyler, still a virgin, leaves Albany to visit her airline pilot brother in New York but a chance encounter with a man on a city bus threatens to derail her upcoming marriage to boyfriend Russ.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI0Y2QwYmEtM2I1Ni00MmU1LWEyYTYtNGJmN2NlMWIzNjIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "6.7",
+  "imdbID": "tt0057543",
+  "type": "movie",
+  "fetched_at": "2026-06-02T15:27:02.150Z"
+}

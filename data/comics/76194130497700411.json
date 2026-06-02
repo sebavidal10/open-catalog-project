@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130497700411",
+  "title": "Aquaman #4",
+  "authors": [
+    "Eber Ferreira",
+    "Geoff Johns",
+    "Ivan Reis",
+    "Joe Prado",
+    "Nick J. Napolitano",
+    "Patrick McCallum",
+    "Rod Reis",
+    "Sean Mackiewicz"
+  ],
+  "publish_date": "2011-12-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/21/aquaman-v7-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2526/",
+  "fetched_at": "2026-06-02T16:45:52.875Z",
+  "reviewed_at": null
+}

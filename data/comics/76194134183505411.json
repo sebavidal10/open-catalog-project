@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194134183505411",
+  "title": "Aquaman #54",
+  "authors": [
+    "Alex Antone",
+    "Andrea Shea",
+    "Brian Cunningham",
+    "Clayton Cowles",
+    "Daniel Henriques",
+    "Dan Panosian",
+    "Jesús Merino",
+    "Kelly Sue DeConnick",
+    "Michelle Delecki",
+    "Morry Hollowell",
+    "Robson Rocha",
+    "Shane Davis",
+    "Sunny Gho",
+    "Vicente Cifuentes"
+  ],
+  "publish_date": "2019-11-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/15/aquaman-54.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7479/",
+  "fetched_at": "2026-06-02T17:00:50.962Z",
+  "reviewed_at": null
+}

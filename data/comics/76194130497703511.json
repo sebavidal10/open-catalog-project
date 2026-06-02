@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130497703511",
+  "title": "Aquaman #35",
+  "authors": [
+    "Brian Cunningham",
+    "Harvey Richards",
+    "Jeff Parker",
+    "Mark Nelson",
+    "Paul Pelletier",
+    "Rain Beredo",
+    "Sean Parsons",
+    "Taylor Esposito"
+  ],
+  "publish_date": "2014-10-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/28/aquaman-v7-35.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2595/",
+  "fetched_at": "2026-06-02T16:51:44.440Z",
+  "reviewed_at": null
+}

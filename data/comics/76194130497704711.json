@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130497704711",
+  "title": "Aquaman #47",
+  "authors": [
+    "Amedeo Turturro",
+    "Brian Cunningham",
+    "Cullen Bunn",
+    "Don Ho",
+    "Guy Major",
+    "Jesús Merino",
+    "John Dell",
+    "Tom Napolitano",
+    "Vicente Cifuentes"
+  ],
+  "publish_date": "2015-12-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/29/aquaman-v7-47.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2610/",
+  "fetched_at": "2026-06-02T16:54:16.582Z",
+  "reviewed_at": null
+}

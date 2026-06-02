@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194131686400211",
+  "title": "Aquaman Annual #2",
+  "authors": [
+    "Álvaro Martínez Bueno",
+    "Brian Cunningham",
+    "Chris Conroy",
+    "Danny Miki",
+    "Harvey Richards",
+    "Jason Gorder",
+    "Jeff Parker",
+    "Nathan Eyring",
+    "Rain Beredo",
+    "Raúl Fernández",
+    "Rob Leigh",
+    "Wayne Faucher",
+    "Yvel Guichet"
+  ],
+  "publish_date": "2014-07-30",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/24/aquaman-annual-v2-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2981/",
+  "fetched_at": "2026-06-02T16:51:09.389Z",
+  "reviewed_at": null
+}

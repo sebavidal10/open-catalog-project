@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130497702511",
+  "title": "Aquaman #25",
+  "authors": [
+    "Chris Conroy",
+    "Dezi Sienty",
+    "Geoff Johns",
+    "Matt Idelson",
+    "Paul Pelletier",
+    "Rod Reis",
+    "Sean Parsons"
+  ],
+  "publish_date": "2013-11-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/27/aquaman-v7-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2585/",
+  "fetched_at": "2026-06-02T16:49:31.528Z",
+  "reviewed_at": null
+}

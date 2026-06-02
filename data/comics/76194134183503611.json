@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134183503611",
+  "title": "Aquaman #36",
+  "authors": [
+    "Alex Antone",
+    "Andrea Shea",
+    "Brian Cunningham",
+    "Brian Miller",
+    "Dan Abnett",
+    "Howard Porter",
+    "Joshua Middleton",
+    "Riccardo Federici",
+    "Steve Wands",
+    "Sunny Gho"
+  ],
+  "publish_date": "2018-05-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/24/aquaman-v8-36.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2977/",
+  "fetched_at": "2026-06-02T16:58:31.006Z",
+  "reviewed_at": null
+}

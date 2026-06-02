@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194134183503911",
+  "title": "Aquaman #39",
+  "authors": [
+    "Adriano Lucas",
+    "Alex Antone",
+    "Andrea Shea",
+    "Brian Cunningham",
+    "Dan Abnett",
+    "Ivan Plascencia",
+    "Joe Bennett",
+    "Joshua Middleton",
+    "Katie Kubert",
+    "Rafa Sandoval",
+    "Rob Williams",
+    "Steve Wands",
+    "Vicente Cifuentes"
+  ],
+  "publish_date": "2018-08-15",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/25/aquaman-v8-39.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2982/",
+  "fetched_at": "2026-06-02T16:59:39.791Z",
+  "reviewed_at": null
+}

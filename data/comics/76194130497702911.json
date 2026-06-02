@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130497702911",
+  "title": "Aquaman #29",
+  "authors": [
+    "Chris Conroy",
+    "Dezi Sienty",
+    "Jeff Parker",
+    "Matt Idelson",
+    "Norm Rapmund",
+    "Paul Pelletier",
+    "Rain Beredo",
+    "Sean Parsons",
+    "Wil Quintana"
+  ],
+  "publish_date": "2014-03-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/27/aquaman-v7-29.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2589/",
+  "fetched_at": "2026-06-02T16:50:11.532Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Red Desert",
+  "year": "1964",
+  "rated": "Not Rated",
+  "released": "08 Feb 1965",
+  "runtime": "117 min",
+  "genre": "Drama",
+  "director": "Michelangelo Antonioni",
+  "writer": "Michelangelo Antonioni, Tonino Guerra, Bruno Guillaume",
+  "actors": "Monica Vitti, Richard Harris, Carlo Chionetti",
+  "plot": "In an industrial area, unstable Giuliana attempts to cope with life by starting an affair with a co-worker at the plant her husband manages.",
+  "language": "Italian, Turkish",
+  "country": "Italy, France",
+  "awards": "7 wins & 4 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGI2YzgyNjgtNDcxZi00ZTVjLThhMDAtMTdlYTBlNmIxYzExXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0058003",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:41:08.952Z"
+}

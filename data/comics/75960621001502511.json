@@ -1,0 +1,43 @@
+{
+  "isbn": null,
+  "upc": "75960621001502511",
+  "title": "The Amazing Spider-Man #25",
+  "authors": [
+    "Alex Guimarães",
+    "Alex Sinclair",
+    "C. B. Cebulski",
+    "Chris Campana",
+    "Cliff Rathburn",
+    "Dean White",
+    "Ed McGuinness",
+    "Erick Arciniega",
+    "Iban Coello",
+    "Jesus Aburtov",
+    "Joe Caramagna",
+    "Joe Kelly",
+    "Jonas Scharf",
+    "Kaitlyn Lindtvedt",
+    "Lee Bermejo",
+    "Marcio Menyz",
+    "Mark Bagley",
+    "Mark Chiarello",
+    "Nick Lowe",
+    "Patrick Gleason",
+    "Pere Pérez",
+    "Rachelle Rosenberg",
+    "Roberto Poggi",
+    "Rose Besch",
+    "Sarah Spadaccini",
+    "Tom Groneman"
+  ],
+  "publish_date": "2026-03-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/03/10/5d0def721e00450890f736655cb71357.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/163473/",
+  "fetched_at": "2026-06-02T16:42:59.123Z",
+  "reviewed_at": null
+}

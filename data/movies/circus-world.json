@@ -1,0 +1,31 @@
+{
+  "title": "Circus World",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "25 Jun 1964",
+  "runtime": "135 min",
+  "genre": "Drama, Western",
+  "director": "Henry Hathaway",
+  "writer": "Ben Hecht, Julian Zimet, James Edward Grant",
+  "actors": "John Wayne, Rita Hayworth, Claudia Cardinale",
+  "plot": "When circus proprietor Matt Masters decides to take his show on a European tour, it is beset by problems, while he searches for Lili, the mother of his adopted daughter, who disappeared years before.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI5MmI4MjQtYzE5Ni00YWU1LTg1MTQtYTcyNzM4NDcwYmY3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0057952",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:42:39.758Z"
+}

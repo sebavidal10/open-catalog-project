@@ -1,0 +1,35 @@
+{
+  "title": "The Masque of the Red Death",
+  "year": "1964",
+  "rated": "Not Rated",
+  "released": "30 Oct 1964",
+  "runtime": "89 min",
+  "genre": "Drama, Horror",
+  "director": "Roger Corman",
+  "writer": "Charles Beaumont, R. Wright Campbell, Edgar Allan Poe",
+  "actors": "Vincent Price, Hazel Court, Jane Asher",
+  "plot": "A European prince terrorizes the local peasantry while using his castle as a refuge against the \"Red Death\" plague that stalks the land.",
+  "language": "English, Latin",
+  "country": "United States, United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzUyYTM3MDYtNmZhZC00MTc1LTliNzUtYmNjNTBiZWI4MzUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "6.9",
+  "imdbID": "tt0058333",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:40:55.169Z"
+}

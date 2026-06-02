@@ -1,0 +1,27 @@
+{
+  "title": "Operation Bikini",
+  "year": "1963",
+  "rated": "Approved",
+  "released": "27 Apr 1964",
+  "runtime": "84 min",
+  "genre": "Drama, War",
+  "director": "Anthony Carras",
+  "writer": "John Tomerlin",
+  "actors": "Tab Hunter, Frankie Avalon, Scott Brady",
+  "plot": "In 1944, an American submarine must transport an Underwater Demolition Team on a secret mission in the Japanese-infested waters of the South Pacific.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg5MjMzNjQxOF5BMl5BanBnXkFtZTcwMjkwOTc2NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "3.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "3.7",
+  "imdbID": "tt0057387",
+  "type": "movie",
+  "fetched_at": "2026-06-02T15:29:10.283Z"
+}

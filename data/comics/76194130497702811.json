@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130497702811",
+  "title": "Aquaman #28",
+  "authors": [
+    "Andrew Hennessy",
+    "Chris Conroy",
+    "Dezi Sienty",
+    "Jeff Parker",
+    "Jeromy Cox",
+    "Matt Idelson",
+    "Paul Pelletier",
+    "Richard Horie",
+    "Sean Parsons",
+    "Wil Quintana"
+  ],
+  "publish_date": "2014-02-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/27/aquaman-v7-28.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2588/",
+  "fetched_at": "2026-06-02T16:49:57.613Z",
+  "reviewed_at": null
+}

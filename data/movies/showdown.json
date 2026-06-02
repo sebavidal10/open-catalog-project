@@ -1,0 +1,27 @@
+{
+  "title": "Showdown",
+  "year": "1963",
+  "rated": "Approved",
+  "released": "03 May 1963",
+  "runtime": "79 min",
+  "genre": "Western",
+  "director": "R.G. Springsteen",
+  "writer": "Ric Hardman",
+  "actors": "Audie Murphy, Kathleen Crowley, Charles Drake",
+  "plot": "A cowboy has to get 12,000 dollars in stolen bonds from the ex-girlfriend of his partner, or the gang holding him hostage will kill him.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjdkOWYwODMtMzhhZC00M2E4LWI0NTktOTBhMDFiYzhjYTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0057497",
+  "type": "movie",
+  "fetched_at": "2026-06-02T15:28:26.974Z"
+}

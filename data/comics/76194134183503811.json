@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134183503811",
+  "title": "Aquaman #38",
+  "authors": [
+    "Alex Antone",
+    "Andrea Shea",
+    "Brian Cunningham",
+    "Dan Abnett",
+    "Joshua Middleton",
+    "Riccardo Federici",
+    "Steve Wands",
+    "Stjepan Šejić",
+    "Sunny Gho"
+  ],
+  "publish_date": "2018-07-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/24/aquaman-v8-38.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2979/",
+  "fetched_at": "2026-06-02T16:59:29.397Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134183501411",
+  "title": "Aquaman #14",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Hennessy",
+    "Brad Walker",
+    "Brian Cunningham",
+    "Dan Abnett",
+    "Diego Lopez",
+    "Gabe Eltaeb",
+    "Joshua Middleton",
+    "Pat Brosseau",
+    "Philippe Briones"
+  ],
+  "publish_date": "2017-01-04",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/20/aquaman-v8-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2912/",
+  "fetched_at": "2026-06-02T20:37:18.624Z",
+  "reviewed_at": null
+}

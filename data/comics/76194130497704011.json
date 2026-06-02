@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130497704011",
+  "title": "Aquaman #40",
+  "authors": [
+    "Brian Cunningham",
+    "Frank Pittarese",
+    "Harvey Richards",
+    "Jeff Parker",
+    "Paul Pelletier",
+    "Rain Beredo",
+    "Sandra Hope",
+    "Tony Kordos",
+    "Travis Lanham",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2015-03-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/28/aquaman-v7-40.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2600/",
+  "fetched_at": "2026-06-02T16:52:50.450Z",
+  "reviewed_at": null
+}

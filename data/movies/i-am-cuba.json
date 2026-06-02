@@ -1,0 +1,35 @@
+{
+  "title": "I Am Cuba",
+  "year": "1964",
+  "rated": "Not Rated",
+  "released": "01 Dec 1995",
+  "runtime": "141 min",
+  "genre": "Drama",
+  "director": "Mikhail Kalatozov",
+  "writer": "Enrique Pineda Barnet, Yevgeniy Yevtushenko",
+  "actors": "Sergio Corrieri, Salvador Wood, José Gallardo",
+  "plot": "Four vignettes about the lives of the Cuban people set during the pre-revolutionary era.",
+  "language": "Spanish, English",
+  "country": "Cuba, Soviet Union",
+  "awards": "2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGM0OTgwNjItNDViZC00ODI5LWI5MDMtZjNmNGFhN2ZlNDU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "metascore": "91",
+  "imdbRating": "8.2",
+  "imdbID": "tt0058604",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:40:22.546Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130497702211",
+  "title": "Aquaman #22",
+  "authors": [
+    "Chris Conroy",
+    "Dezi Sienty",
+    "Geoff Johns",
+    "Matt Idelson",
+    "Paul Pelletier",
+    "Rod Reis",
+    "Sean Parsons"
+  ],
+  "publish_date": "2013-07-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/27/aquaman-v7-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2580/",
+  "fetched_at": "2026-06-02T16:48:43.819Z",
+  "reviewed_at": null
+}

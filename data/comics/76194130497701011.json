@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130497701011",
+  "title": "Aquaman #10",
+  "authors": [
+    "Andy Lanning",
+    "Geoff Johns",
+    "Ivan Reis",
+    "Joe Prado",
+    "Nick J. Napolitano",
+    "Patrick McCallum",
+    "Rod Reis",
+    "Sean Mackiewicz"
+  ],
+  "publish_date": "2012-06-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/21/aquaman-v7-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2534/",
+  "fetched_at": "2026-06-02T16:46:46.544Z",
+  "reviewed_at": null
+}

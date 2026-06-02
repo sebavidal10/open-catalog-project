@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194130497703211",
+  "title": "Aquaman #31",
+  "authors": [
+    "Álvaro Martínez Bueno",
+    "Chris Conroy",
+    "Jeff Parker",
+    "Laura Allred",
+    "Matt Idelson",
+    "Mike Allred",
+    "Paul Pelletier",
+    "Rain Beredo",
+    "Raúl Fernández",
+    "Sean Parsons",
+    "Travis Lanham",
+    "Wil Quintana"
+  ],
+  "publish_date": "2014-05-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/27/aquaman-v7-31.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2591/",
+  "fetched_at": "2026-06-02T16:50:37.159Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130497701811",
+  "title": "Aquaman #18",
+  "authors": [
+    "Brian Cunningham",
+    "Dezi Sienty",
+    "Geoff Johns",
+    "Kate Durré",
+    "Paul Pelletier",
+    "Rod Reis",
+    "Sean Parsons"
+  ],
+  "publish_date": "2013-03-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/27/aquaman-v7-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2570/",
+  "fetched_at": "2026-06-02T16:48:07.728Z",
+  "reviewed_at": null
+}

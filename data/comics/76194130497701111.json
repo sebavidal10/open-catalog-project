@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130497701111",
+  "title": "Aquaman #11",
+  "authors": [
+    "Andy Lanning",
+    "Geoff Johns",
+    "Ivan Reis",
+    "Joe Prado",
+    "Jonathan Glapion",
+    "Nick J. Napolitano",
+    "Patrick McCallum",
+    "Rod Reis",
+    "Sean Mackiewicz"
+  ],
+  "publish_date": "2012-07-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/21/aquaman-v7-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2535/",
+  "fetched_at": "2026-06-02T16:46:55.403Z",
+  "reviewed_at": null
+}

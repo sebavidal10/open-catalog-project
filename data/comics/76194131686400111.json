@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "76194131686400111",
+  "title": "Aquaman Annual #1",
+  "authors": [
+    "Allen Martinez",
+    "Brian Cunningham",
+    "Brian Miller",
+    "Geraldo Borges",
+    "Jay Leisten",
+    "John Ostrander",
+    "J. P. Mayer",
+    "Júlio Ferreira",
+    "Kate Durré",
+    "Mariah Benes",
+    "Netho Diaz",
+    "Oclair Albert",
+    "Paul Pelletier",
+    "Rob Hunter",
+    "Rod Reis",
+    "Ruy José",
+    "Travis Lanham"
+  ],
+  "publish_date": "2013-10-30",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/24/aquaman-annual-v2-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2980/",
+  "fetched_at": "2026-06-02T16:49:21.156Z",
+  "reviewed_at": null
+}

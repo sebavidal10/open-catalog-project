@@ -1,0 +1,27 @@
+{
+  "title": "Beschreibung eines Sommers",
+  "year": "1963",
+  "rated": "N/A",
+  "released": "15 Jan 1963",
+  "runtime": "80 min",
+  "genre": "Drama, Romance",
+  "director": "Ralf Kirsten",
+  "writer": "Gudrun Deubener, Karl-Heinz Jakobs, Ralf Kirsten",
+  "actors": "Manfred Krug, Christel Bodenstein, Peter Reusse",
+  "plot": "N/A",
+  "language": "German",
+  "country": "East Germany",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmFiZjgyM2QtYTI2Yi00MDdlLWEzOGQtMGUxYjc0OWRhYmVhXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0056865",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:38:54.934Z"
+}

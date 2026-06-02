@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130497701611",
+  "title": "Aquaman #16",
+  "authors": [
+    "Art Thibert",
+    "Brian Cunningham",
+    "Geoff Johns",
+    "Katie Kubert",
+    "Nick J. Napolitano",
+    "Paul Pelletier",
+    "Rod Reis",
+    "Sean Parsons"
+  ],
+  "publish_date": "2013-01-30",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/23/aquaman-v7-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2540/",
+  "fetched_at": "2026-06-02T16:47:49.424Z",
+  "reviewed_at": null
+}

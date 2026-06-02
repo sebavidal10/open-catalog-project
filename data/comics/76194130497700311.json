@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130497700311",
+  "title": "Aquaman #3",
+  "authors": [
+    "Geoff Johns",
+    "Ivan Reis",
+    "Joe Prado",
+    "Nick J. Napolitano",
+    "Patrick McCallum",
+    "Rod Reis",
+    "Sean Mackiewicz"
+  ],
+  "publish_date": "2011-11-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/21/aquaman-v7-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2525/",
+  "fetched_at": "2026-06-02T16:45:44.065Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Pawnbroker",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "20 Apr 1965",
+  "runtime": "116 min",
+  "genre": "Drama",
+  "director": "Sidney Lumet",
+  "writer": "Morton S. Fine, David Friedkin, Edward Lewis Wallant",
+  "actors": "Rod Steiger, Geraldine Fitzgerald, Brock Peters",
+  "plot": "A Jewish pawnbroker, victim of Nazi persecution, loses all faith in his fellow man until he realizes too late the tragedy of his actions.",
+  "language": "English, Spanish, German",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 6 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDhjYWJhNjEtODg3My00MWMzLTg3MGItN2YzYTY1NjllZmE3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.6",
+  "imdbID": "tt0059575",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:41:01.445Z"
+}

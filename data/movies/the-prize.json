@@ -1,0 +1,31 @@
+{
+  "title": "The Prize",
+  "year": "1963",
+  "rated": "Approved",
+  "released": "25 Dec 1963",
+  "runtime": "134 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Mark Robson",
+  "writer": "Ernest Lehman, Irving Wallace",
+  "actors": "Paul Newman, Edward G. Robinson, Elke Sommer",
+  "plot": "As the Nobel Prize winners come to Stockholm to receive their awards, their lives are overturned and perturbed in various ways.",
+  "language": "English, French, German, Swedish, Italian",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmI1M2I2YWMtMmMzMy00ZDJmLTgyYjAtNTYxZDUwODMwYzE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "45%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0057426",
+  "type": "movie",
+  "fetched_at": "2026-06-02T15:26:57.198Z"
+}

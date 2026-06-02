@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134183506111",
+  "title": "Aquaman #61",
+  "authors": [
+    "Alex R. Carr",
+    "Andrea Shea",
+    "Clayton Cowles",
+    "Daniel Henriques",
+    "Kelly Sue DeConnick",
+    "Marcelo Maiolo",
+    "Miguel Mendonça",
+    "Robson Rocha",
+    "Romulo Fajardo Jr.",
+    "Tyler Kirkham"
+  ],
+  "publish_date": "2020-07-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/07/11/aquaman-61.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/15009/",
+  "fetched_at": "2026-06-02T17:10:55.348Z",
+  "reviewed_at": null
+}

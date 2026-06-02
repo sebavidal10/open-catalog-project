@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134183500111",
+  "title": "Aquaman #1",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Hennessy",
+    "Brad Walker",
+    "Brian Cunningham",
+    "Dan Abnett",
+    "Gabe Eltaeb",
+    "Joshua Middleton",
+    "Pat Brosseau"
+  ],
+  "publish_date": "2016-06-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/19/aquaman-v8-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2896/",
+  "fetched_at": "2026-06-02T16:55:13.670Z",
+  "reviewed_at": null
+}

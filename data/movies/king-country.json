@@ -1,0 +1,35 @@
+{
+  "title": "King & Country",
+  "year": "1964",
+  "rated": "Not Rated",
+  "released": "30 Nov 1965",
+  "runtime": "86 min",
+  "genre": "Drama, War",
+  "director": "Joseph Losey",
+  "writer": "Evan Jones, John Wilson, J.L. Hodson",
+  "actors": "Dirk Bogarde, Tom Courtenay, Leo McKern",
+  "plot": "During World War I, Army Private Arthur James Hamp is accused of desertion during battle. The officer assigned to defend him at his court-martial, Captain Hargreaves, finds out there is more to the case than meets the eye.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 4 BAFTA 2 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTIxZmU1NzctYWVkZC00NzFmLWFmMmItY2U5ZTNlYWVmZThmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.5",
+  "imdbID": "tt0058263",
+  "type": "movie",
+  "fetched_at": "2026-06-02T16:43:21.441Z"
+}
