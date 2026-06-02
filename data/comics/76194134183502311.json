@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134183502311",
+  "title": "Aquaman #23",
+  "authors": [
+    "Andrew Hennessy",
+    "Andy Khouri",
+    "Brad Walker",
+    "Brian Cunningham",
+    "Dan Abnett",
+    "Gabe Eltaeb",
+    "Harvey Richards",
+    "Joshua Middleton",
+    "Pat Brosseau",
+    "Scot Eaton",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2017-05-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/24/aquaman-v8-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2960/",
+  "fetched_at": "2026-06-02T20:38:20.556Z",
+  "reviewed_at": null
+}

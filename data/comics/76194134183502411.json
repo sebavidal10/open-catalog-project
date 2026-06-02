@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194134183502411",
+  "title": "Aquaman #24",
+  "authors": [
+    "Andrew Hennessy",
+    "Andy Khouri",
+    "Brad Walker",
+    "Brian Cunningham",
+    "Dan Abnett",
+    "Gabe Eltaeb",
+    "Harvey Richards",
+    "Joshua Middleton",
+    "Pat Brosseau",
+    "Philippe Briones",
+    "Scot Eaton",
+    "Scott Hanna",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2017-06-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/24/aquaman-v8-24.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2961/",
+  "fetched_at": "2026-06-02T20:38:30.242Z",
+  "reviewed_at": null
+}

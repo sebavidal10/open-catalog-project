@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194134183502111",
+  "title": "Aquaman #21",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Hennessy",
+    "Andy Khouri",
+    "Brad Walker",
+    "Brian Cunningham",
+    "Dan Abnett",
+    "Diego Lopez",
+    "Gabe Eltaeb",
+    "Joshua Middleton",
+    "Pat Brosseau",
+    "Scot Eaton",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2017-04-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/23/aquaman-v8-21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2958/",
+  "fetched_at": "2026-06-02T20:38:06.301Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134183502011",
+  "title": "Aquaman #20",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Hennessy",
+    "Brad Walker",
+    "Brian Cunningham",
+    "Dan Abnett",
+    "Diego Lopez",
+    "Gabe Eltaeb",
+    "Joshua Middleton",
+    "Pat Brosseau",
+    "Philippe Briones"
+  ],
+  "publish_date": "2017-04-05",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/23/aquaman-v8-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2957/",
+  "fetched_at": "2026-06-02T20:38:01.922Z",
+  "reviewed_at": null
+}

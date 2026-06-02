@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134183502211",
+  "title": "Aquaman #22",
+  "authors": [
+    "Andrew Hennessy",
+    "Andy Khouri",
+    "Brad Walker",
+    "Brian Cunningham",
+    "Dan Abnett",
+    "Gabe Eltaeb",
+    "Harvey Richards",
+    "Joshua Middleton",
+    "Pat Brosseau",
+    "Philippe Briones"
+  ],
+  "publish_date": "2017-05-03",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/23/aquaman-v8-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2959/",
+  "fetched_at": "2026-06-02T20:38:16.157Z",
+  "reviewed_at": null
+}
