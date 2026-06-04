@@ -1,0 +1,31 @@
+{
+  "title": "A Married Woman",
+  "year": "1964",
+  "rated": "Not Rated",
+  "released": "04 Dec 1964",
+  "runtime": "94 min",
+  "genre": "Drama, Romance",
+  "director": "Jean-Luc Godard",
+  "writer": "Jean-Luc Godard",
+  "actors": "Bernard Noël, Macha Méril, Philippe Leroy",
+  "plot": "A superifical woman finds conflict choosing between her abusive husband and her vain lover.",
+  "language": "French",
+  "country": "France",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjVkNWMyYTMtNzg2Ny00ZTU0LWFmNjktNGExYmI1MTgxODRhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0058701",
+  "type": "movie",
+  "fetched_at": "2026-06-04T15:14:46.412Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "It Happened Here",
+  "year": "1964",
+  "rated": "Not Rated",
+  "released": "08 Aug 1966",
+  "runtime": "93 min",
+  "genre": "Drama, Sci-Fi, War",
+  "director": "Kevin Brownlow, Andrew Mollo",
+  "writer": "Kevin Brownlow, Andrew Mollo, Dinah Brooke",
+  "actors": "Pauline Murray, Sebastian Shaw, Bart Allison",
+  "plot": "In 1940, Germany invades Britain and transforms it into a Fascist state where some Britons collaborate and others resist. In 1944, Pauline, an apolitical Irish nurse becomes a reluctant player in the fight between the two sides.",
+  "language": "English, German",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 BAFTA Award3 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGQ1OTJlNjctNjIxMi00M2ZjLWFjNzMtNmY4ZGUxYWUzNjVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0055024",
+  "type": "movie",
+  "fetched_at": "2026-06-04T15:15:50.637Z"
+}

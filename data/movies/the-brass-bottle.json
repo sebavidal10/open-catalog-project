@@ -1,0 +1,31 @@
+{
+  "title": "The Brass Bottle",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "15 Jun 1964",
+  "runtime": "89 min",
+  "genre": "Comedy, Fantasy",
+  "director": "Harry Keller",
+  "writer": "Oscar Brodney, Thomas Anstey Guthrie",
+  "actors": "Tony Randall, Burl Ives, Barbara Eden",
+  "plot": "An architect buys an antique brass bottle that contains an ancient genie who's determined to fulfill his new master's every wish.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjU3NTg1YjYtZWY2Yy00MzBlLThhMDItMmE5ZDYwNDM2NDg4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0057897",
+  "type": "movie",
+  "fetched_at": "2026-06-04T15:14:43.947Z"
+}

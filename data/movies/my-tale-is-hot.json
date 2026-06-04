@@ -1,0 +1,27 @@
+{
+  "title": "My Tale Is Hot",
+  "year": "1964",
+  "rated": "Not Rated",
+  "released": "N/A",
+  "runtime": "60 min",
+  "genre": "Comedy, Fantasy",
+  "director": "Peter Perry Jr.",
+  "writer": "Peter Perry Jr.",
+  "actors": "Jack Little, Max Gardens, Candy Barr",
+  "plot": "The devil emerges from the ground in a suburbanite's garden and tries to tempt him with a variety of naked women.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTExMjc4ODI1MTReQTJeQWpwZ15BbWU3MDg2Njk0NTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.6",
+  "imdbID": "tt0126478",
+  "type": "movie",
+  "fetched_at": "2026-06-04T15:20:29.340Z"
+}

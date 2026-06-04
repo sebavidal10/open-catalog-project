@@ -1,0 +1,27 @@
+{
+  "title": "Apache Fury",
+  "year": "1964",
+  "rated": "N/A",
+  "released": "01 Oct 1964",
+  "runtime": "90 min",
+  "genre": "Western",
+  "director": "José María Elorrieta",
+  "writer": "José María Elorrieta, Eduardo Guzmán",
+  "actors": "Frank Latimore, Nuria Torray, Jesús Puente",
+  "plot": "A judge encounters a man (Frank Latimore) he once wronged after an Apache attack. The attack forces him, his fiancée and their fellow stagecoach passengers to take refuge at a rest stop.",
+  "language": "Spanish",
+  "country": "Spain, Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTlhNzRlYjAtYmY2Mi00MDUwLWJhNmItNWJhNWVjYmY2YTEwXkEyXkFqcGdeQXVyNTI2Njg2OTI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.1",
+  "imdbID": "tt0058198",
+  "type": "movie",
+  "fetched_at": "2026-06-04T15:18:58.103Z"
+}

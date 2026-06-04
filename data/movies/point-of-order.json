@@ -1,0 +1,31 @@
+{
+  "title": "Point of Order!",
+  "year": "1964",
+  "rated": "Not Rated",
+  "released": "14 Jan 1964",
+  "runtime": "97 min",
+  "genre": "Documentary",
+  "director": "Emile de Antonio",
+  "writer": "N/A",
+  "actors": "John G. Adams, Roy M. Cohn, Ray Jenkins",
+  "plot": "An unfiltered, unflinching document of the notorious 1954 Army-McCarthy hearings, compiled entirely from raw TV footage (with no narration, music, or added scenes).",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODQwOTU3MDE4Ml5BMl5BanBnXkFtZTcwODIzNzAzMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0058481",
+  "type": "movie",
+  "fetched_at": "2026-06-04T15:19:53.706Z"
+}

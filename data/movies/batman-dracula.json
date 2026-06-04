@@ -1,0 +1,27 @@
+{
+  "title": "Batman Dracula",
+  "year": "1964",
+  "rated": "Approved",
+  "released": "N/A",
+  "runtime": "54 min",
+  "genre": "Drama",
+  "director": "Andy Warhol",
+  "writer": "N/A",
+  "actors": "Gregory Battcock, David Bourdon, Tally Brown",
+  "plot": "Andy Warhol's infamous lost campy classic charting the adventures of Batman two years before Adam West donned the Caped Crusader's wings in the classic TV show.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzhiYTYyMWQtZmNmMy00YzU2LWFkNjctOTA5MmZlNzVjMzI5XkEyXkFqcGdeQXVyNjUzNTMxNDY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.9",
+  "imdbID": "tt0057875",
+  "type": "movie",
+  "fetched_at": "2026-06-04T15:18:33.037Z"
+}
