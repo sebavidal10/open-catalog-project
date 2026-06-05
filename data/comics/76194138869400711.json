@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194138869400711",
+  "title": "Aquaman #7",
+  "authors": [
+    "Dave Sharpe",
+    "Edwin Galmon",
+    "Gleb Melnikov",
+    "Jeremy Adams",
+    "Jim Lee",
+    "Leirix Li",
+    "Marie Javins",
+    "Mark Spears",
+    "Michael McCalister",
+    "Michael Shelfer",
+    "Özgür Yıldırım",
+    "Paul Kaminski",
+    "Rex Lokus"
+  ],
+  "publish_date": "2025-07-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/06/16/b19d2dbb8f184a46a424acc363b84703.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/149063/",
+  "fetched_at": "2026-06-05T18:48:38.776Z",
+  "reviewed_at": null
+}

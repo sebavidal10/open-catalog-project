@@ -1,0 +1,31 @@
+{
+  "title": "The Bedford Incident",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "12 Nov 1965",
+  "runtime": "102 min",
+  "genre": "Drama, Thriller",
+  "director": "James B. Harris",
+  "writer": "Mark Rascovich, James Poe",
+  "actors": "Richard Widmark, Sidney Poitier, James MacArthur",
+  "plot": "An American destroyer Captain is determined to confront a Soviet submarine caught violating territorial waters. Perhaps too determined.",
+  "language": "English, Russian",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 1 BAFTA Award1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjk0YTU0NjItMTE4ZS00YTZiLWFkMzYtYzZmODc4ZWE0MGVhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0058962",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:15:00.493Z"
+}

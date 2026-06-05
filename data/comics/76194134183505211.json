@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134183505211",
+  "title": "Aquaman #52",
+  "authors": [
+    "Alex Antone",
+    "Alex Sinclair",
+    "Andrea Shea",
+    "Brian Cunningham",
+    "Clayton Cowles",
+    "Daniel Henriques",
+    "Joshua Middleton",
+    "Kelly Sue DeConnick",
+    "Michael Jason Paz",
+    "Robson Rocha",
+    "Sunny Gho"
+  ],
+  "publish_date": "2019-09-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/09/16/aquaman-52.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/5440/",
+  "fetched_at": "2026-06-05T18:40:21.116Z",
+  "reviewed_at": null
+}

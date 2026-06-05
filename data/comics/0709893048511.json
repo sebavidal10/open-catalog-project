@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "0709893048511",
+  "title": "The Flash #245",
+  "authors": [
+    "Cary Bates",
+    "Dennis O'Neil",
+    "Dick Dillin",
+    "Ernie Chan",
+    "Frank McLaughlin",
+    "Irv Novick",
+    "Julius Schwartz",
+    "Tatjana Wood",
+    "Terry Austin"
+  ],
+  "publish_date": "1976-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/03/28/flash-v1-245.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/10886/",
+  "fetched_at": "2026-06-05T19:11:12.382Z",
+  "reviewed_at": "1976-11-01"
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "0709893048506",
+  "title": "The Flash #242",
+  "authors": [
+    "Cary Bates",
+    "Dennis O'Neil",
+    "Ernie Chan",
+    "Frank McLaughlin",
+    "Irv Novick",
+    "Julius Schwartz",
+    "Mike Grell",
+    "Tatjana Wood",
+    "Tex Blaisdell"
+  ],
+  "publish_date": "1976-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/03/28/flash-v1-242.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/10883/",
+  "fetched_at": "2026-06-05T19:10:37.228Z",
+  "reviewed_at": "1976-06-01"
+}

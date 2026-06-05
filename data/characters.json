@@ -9,5 +9,7 @@
   { "id": "joker", "search": "joker" },
   { "id": "thor", "search": "thor" },
   { "id": "thanos", "search": "thanos" },
-  { "id": "justice-league", "search": "justice league" }
+  { "id": "justice-league", "search": "justice league" },
+  { "id": "avengers", "search": "avengers" },
+  { "id": "deadpool", "search": "deadpool" }
 ]

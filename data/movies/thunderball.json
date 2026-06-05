@@ -1,0 +1,35 @@
+{
+  "title": "Thunderball",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "22 Dec 1965",
+  "runtime": "130 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "Terence Young",
+  "writer": "Richard Maibaum, John Hopkins, Jack Whittingham",
+  "actors": "Sean Connery, Claudine Auger, Adolfo Celi",
+  "plot": "James Bond heads to the Bahamas to recover two nuclear warheads stolen by S.P.E.C.T.R.E. Agent Emilio Largo in an international extortion scheme.",
+  "language": "English, French",
+  "country": "United Kingdom",
+  "awards": "Won 1 Oscar. 5 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjJiYmRhZjUtZTg5Zi00YjYwLTlmZWYtODZhMzQzMWZlYTRhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "6.9",
+  "imdbID": "tt0059800",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:13:59.905Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Operation Crossbow",
+  "year": "1965",
+  "rated": "PG-13",
+  "released": "01 Apr 1965",
+  "runtime": "115 min",
+  "genre": "Action, Drama, War",
+  "director": "Michael Anderson",
+  "writer": "Duilio Coletti, Vittoriano Petrilli, Emeric Pressburger",
+  "actors": "Sophia Loren, George Peppard, Trevor Howard",
+  "plot": "Allied agents attempt to infiltrate a German rocket research site.",
+  "language": "English, German",
+  "country": "United Kingdom, Italy",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjhmMWQ5MWUtMzU1OS00OGRiLTkyY2ItYjZhZjYyZjA4MGQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "6.6",
+  "imdbID": "tt0059549",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:15:41.358Z"
+}

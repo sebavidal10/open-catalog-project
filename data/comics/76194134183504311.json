@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134183504311",
+  "title": "Aquaman #43",
+  "authors": [
+    "Alex Antone",
+    "Andrea Shea",
+    "Annette Kwok",
+    "Brian Cunningham",
+    "Clayton Cowles",
+    "Daniel Henriques",
+    "Kelly Sue DeConnick",
+    "Nicola Scott",
+    "Robson Rocha",
+    "Sunny Gho"
+  ],
+  "publish_date": "2018-12-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/25/aquaman-v8-43.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2988/",
+  "fetched_at": "2026-06-05T18:38:44.134Z",
+  "reviewed_at": null
+}

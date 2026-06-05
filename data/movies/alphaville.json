@@ -1,0 +1,35 @@
+{
+  "title": "Alphaville",
+  "year": "1965",
+  "rated": "Not Rated",
+  "released": "05 May 1965",
+  "runtime": "99 min",
+  "genre": "Comedy, Drama, Mystery",
+  "director": "Jean-Luc Godard",
+  "writer": "Jean-Luc Godard, Paul Éluard",
+  "actors": "Eddie Constantine, Anna Karina, Akim Tamiroff",
+  "plot": "An agent wrecks the main computer on another planet.",
+  "language": "French, English, Spanish",
+  "country": "France, Italy",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjk3MmMwMjktMzg3NC00YmJiLTg2YjMtMGZkMDI0MzBiOTNkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "metascore": "92",
+  "imdbRating": "7.0",
+  "imdbID": "tt0058898",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:14:05.169Z"
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134183504711",
+  "title": "Aquaman #47",
+  "authors": [
+    "Alex Antone",
+    "Andrea Shea",
+    "Brian Cunningham",
+    "Clayton Cowles",
+    "Daniel Henriques",
+    "Joshua Middleton",
+    "Kelly Sue DeConnick",
+    "Robson Rocha",
+    "Sunny Gho"
+  ],
+  "publish_date": "2019-04-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/25/aquaman-v8-47.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2992/",
+  "fetched_at": "2026-06-05T18:39:27.532Z",
+  "reviewed_at": null
+}

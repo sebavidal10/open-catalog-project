@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134183502811",
+  "title": "Aquaman #28",
+  "authors": [
+    "Alex Antone",
+    "Brian Cunningham",
+    "Dan Abnett",
+    "Dave Wielgosz",
+    "Joshua Middleton",
+    "Steve Wands",
+    "Stjepan Šejić"
+  ],
+  "publish_date": "2017-09-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/24/aquaman-v8-28.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2965/",
+  "fetched_at": "2026-06-05T18:36:31.335Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Mi héroe",
+  "year": "1965",
+  "rated": "N/A",
+  "released": "01 Apr 1965",
+  "runtime": "85 min",
+  "genre": "Comedy, Crime, Musical",
+  "director": "Gilberto Martínez Solares",
+  "writer": "Raquel Alcoriza",
+  "actors": "Julio Alemán, Angélica María, Dacia González",
+  "plot": "N/A",
+  "language": "Spanish",
+  "country": "Mexico",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2JkZTgxOWItYjUyYi00ZTRjLWJmN2MtYzViNjg5ZTRiZjhlXkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0058347",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:17:48.895Z"
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194138869400611",
+  "title": "Aquaman #6",
+  "authors": [
+    "Afu Chan",
+    "Dave Sharpe",
+    "George Pérez",
+    "Jeremy Adams",
+    "Jim Lee",
+    "John Timms",
+    "Marcio Takara",
+    "Marie Javins",
+    "Michael McCalister",
+    "Michael Shelfer",
+    "Paris Alleyne",
+    "Paul Kaminski",
+    "Rex Lokus"
+  ],
+  "publish_date": "2025-06-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/23/806bc57cd3a442ec90e3b96c03905b04.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/147398/",
+  "fetched_at": "2026-06-05T18:48:30.204Z",
+  "reviewed_at": null
+}

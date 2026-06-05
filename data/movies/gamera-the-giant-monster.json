@@ -1,0 +1,31 @@
+{
+  "title": "Gamera: The Giant Monster",
+  "year": "1965",
+  "rated": "Not Rated",
+  "released": "27 Nov 1965",
+  "runtime": "81 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Noriaki Yuasa",
+  "writer": "Niisan Takahashi",
+  "actors": "Eiji Funakoshi, Harumi Kiritachi, Junichiro Yamashita",
+  "plot": "From out of the arctic comes a gigantic flying, fire-breathing turtle that sets its sights on destroying Tokyo.",
+  "language": "Japanese, English",
+  "country": "Japan",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzU1OGE2NzEtN2NjZi00OTRhLThkMGMtOTdkMmJhYWNhYjg4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0059080",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:16:50.776Z"
+}

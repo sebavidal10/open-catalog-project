@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194138869401311",
+  "title": "Aquaman #13",
+  "authors": [
+    "Clarice Menguito",
+    "Daniel Bayliss",
+    "Dave Sharpe",
+    "Jeremy Adams",
+    "Jim Lee",
+    "John Timms",
+    "Kyuyong Eom",
+    "Marie Javins",
+    "Michael McCalister",
+    "Nathan Szerdy",
+    "Paul Kaminski",
+    "Rex Lokus"
+  ],
+  "publish_date": "2026-01-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/12/06/4a6a74a694274e1195cace9999319718.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/158299/",
+  "fetched_at": "2026-06-05T18:49:33.956Z",
+  "reviewed_at": null
+}

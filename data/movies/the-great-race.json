@@ -1,0 +1,35 @@
+{
+  "title": "The Great Race",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "17 Dec 1965",
+  "runtime": "160 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Blake Edwards",
+  "writer": "Arthur A. Ross, Blake Edwards",
+  "actors": "Tony Curtis, Natalie Wood, Jack Lemmon",
+  "plot": "In the early 20th century, heroic Leslie Gallant and his despicable rival Professor Fate engage in an epic automobile race from New York to Paris while enthusiastic suffragette Maggie Dubois enters the race to report on every step...",
+  "language": "English, Russian, Latin",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 3 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmQwOWFlZjgtY2QwZS00OWZkLWI0YTEtOTMzMjBhNjExZTlkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "68%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.2",
+  "imdbID": "tt0059243",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:14:23.681Z"
+}

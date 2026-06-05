@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194138869401411",
+  "title": "Aquaman #14",
+  "authors": [
+    "Daniel Bayliss",
+    "Dave Sharpe",
+    "Jeremy Adams",
+    "Jim Lee",
+    "John Timms",
+    "Marie Javins",
+    "Michael McCalister",
+    "Nathan Szerdy",
+    "Özgür Yıldırım",
+    "Paul Kaminski",
+    "Rex Lokus"
+  ],
+  "publish_date": "2026-02-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/22/996c256c4b4947438009bd885d7fb023.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160953/",
+  "fetched_at": "2026-06-05T18:49:42.595Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194138869401011",
+  "title": "Aquaman #10",
+  "authors": [
+    "Dave Sharpe",
+    "Derrick Chew",
+    "Guillem March",
+    "Jeremy Adams",
+    "Jim Lee",
+    "John Timms",
+    "Marcio Takara",
+    "Marie Javins",
+    "Matt Herms",
+    "Michael McCalister",
+    "Paul Kaminski",
+    "Rex Lokus"
+  ],
+  "publish_date": "2025-10-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/09/12/dcae01cad04541e6b6611635b6685403.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/153860/",
+  "fetched_at": "2026-06-05T18:49:05.987Z",
+  "reviewed_at": null
+}

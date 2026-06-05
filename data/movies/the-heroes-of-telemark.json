@@ -1,0 +1,31 @@
+{
+  "title": "The Heroes of Telemark",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "03 Dec 1965",
+  "runtime": "131 min",
+  "genre": "Action, Drama, History",
+  "director": "Anthony Mann",
+  "writer": "Ivan Moffat, Ben Barzman, Harold Pinter",
+  "actors": "Kirk Douglas, Richard Harris, Ulla Jacobsson",
+  "plot": "Norwegian resistance tries to stop German efforts to produce heavy water needed for making atomic bombs during World War II.",
+  "language": "English, German, Norwegian",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjU1MTIyM2YtZTA1My00NmI1LWJhZmYtMTU1Y2NlMjY1NGI1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0059263",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:14:49.831Z"
+}

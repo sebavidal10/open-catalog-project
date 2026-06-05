@@ -1,0 +1,31 @@
+{
+  "title": "Dr. Who and the Daleks",
+  "year": "1965",
+  "rated": "Not Rated",
+  "released": "01 Jul 1966",
+  "runtime": "82 min",
+  "genre": "Adventure, Drama, Sci-Fi",
+  "director": "Gordon Flemyng",
+  "writer": "Terry Nation, Milton Subotsky, Sydney Newman",
+  "actors": "Peter Cushing, Roy Castle, Jennie Linden",
+  "plot": "An eccentric inventor and his companions travel in his TARDIS to the Planet Skaro and battle the evil menace of the Daleks.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzc0YTY2NjAtOGI2NC00YmEzLWJlNTQtNjIwNDA3ZTJkNDY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "48%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0059126",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:15:54.982Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Major Dundee",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "15 Mar 1965",
+  "runtime": "123 min",
+  "genre": "Adventure, Drama, War",
+  "director": "Sam Peckinpah",
+  "writer": "Harry Julian Fink, Oscar Saul, Sam Peckinpah",
+  "actors": "Charlton Heston, Richard Harris, Jim Hutton",
+  "plot": "In 1864, due to frequent Apache raids from Mexico into the U.S., a Union officer decides to illegally cross the border and destroy the Apache, using a mixed army of Union troops, Confederate POWs, civilian mercenaries, and scouts.",
+  "language": "English, French, Spanish",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmQ3MzA4NzktMGM2Ni00NzA4LThjMWEtMzY4MzhkYmM4OGU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "6.7",
+  "imdbID": "tt0059418",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:14:07.635Z"
+}

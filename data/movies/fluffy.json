@@ -1,0 +1,27 @@
+{
+  "title": "Fluffy",
+  "year": "1965",
+  "rated": "N/A",
+  "released": "27 Jun 1965",
+  "runtime": "92 min",
+  "genre": "Comedy",
+  "director": "Earl Bellamy",
+  "writer": "Samuel Roeca",
+  "actors": "Tony Randall, Shirley Jones, Edward Andrews",
+  "plot": "Fluffy the lion is the subject of scientist Dan Potter's experiment to prove wild animals can be tamed. Wherever he goes, Fluffy incites mayhem. Our heroes go on the run from the law when Fluffy is accused of eating someone.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGU0YjA0NTYtNmI5NC00MTY0LWExMjUtYjM2NWMwMmIzYWVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0059188",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:21:53.721Z"
+}

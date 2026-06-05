@@ -1,0 +1,31 @@
+{
+  "title": "A Thousand Clowns",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "09 Sep 1966",
+  "runtime": "118 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Fred Coe",
+  "writer": "Herb Gardner",
+  "actors": "Jason Robards, Barbara Harris, Martin Balsam",
+  "plot": "A middle-aged iconoclast, doggedly avoiding the tedium of employment and conventional life, faces the prospect of losing custody of his young ward.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 4 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGJiOGZmZmYtODg3Yi00ZTk1LWI3OWUtYTMzNDQwOWM2MTEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0059798",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:15:50.026Z"
+}

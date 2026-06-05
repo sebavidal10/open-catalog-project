@@ -1,0 +1,31 @@
+{
+  "title": "Pierrot le fou",
+  "year": "1965",
+  "rated": "PG-13",
+  "released": "08 Jan 1969",
+  "runtime": "110 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "Jean-Luc Godard",
+  "writer": "Jean-Luc Godard, Rémo Forlani, Lionel White",
+  "actors": "Jean-Paul Belmondo, Anna Karina, Graziella Galvani",
+  "plot": "Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run.",
+  "language": "French, English, Italian",
+  "country": "France, Italy",
+  "awards": "Nominated for 1 BAFTA Award2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0OTc4MDcxMl5BMl5BanBnXkFtZTgwNjIzMjA0NzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0059592",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:14:03.938Z"
+}

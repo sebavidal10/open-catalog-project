@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194134183505311",
+  "title": "Aquaman #53",
+  "authors": [
+    "Alex Antone",
+    "Alex Sinclair",
+    "Andrea Shea",
+    "Brian Cunningham",
+    "Clayton Cowles",
+    "Daniel Henriques",
+    "Eduardo Pansica",
+    "Júlio Ferreira",
+    "Kelly Sue DeConnick",
+    "Michael Jason Paz",
+    "Rafa Sandoval",
+    "Rex Lokus",
+    "Robson Rocha",
+    "Sunny Gho"
+  ],
+  "publish_date": "2019-10-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/11/aquaman-53.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6407/",
+  "fetched_at": "2026-06-05T18:40:31.365Z",
+  "reviewed_at": null
+}

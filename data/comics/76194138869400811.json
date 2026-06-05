@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194138869400811",
+  "title": "Aquaman #8",
+  "authors": [
+    "Dave Sharpe",
+    "Edwin Galmon",
+    "Guillem March",
+    "Jeremy Adams",
+    "Jim Lee",
+    "John Timms",
+    "Marie Javins",
+    "Michael McCalister",
+    "Paul Kaminski",
+    "Rex Lokus",
+    "Tirso Cons"
+  ],
+  "publish_date": "2025-08-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/07/19/6d10c75b9bd14e9494bcd46540f9100f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/150472/",
+  "fetched_at": "2026-06-05T18:48:47.711Z",
+  "reviewed_at": null
+}

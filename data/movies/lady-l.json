@@ -1,0 +1,31 @@
+{
+  "title": "Lady L",
+  "year": "1965",
+  "rated": "Not Rated",
+  "released": "17 Dec 1965",
+  "runtime": "117 min",
+  "genre": "Comedy",
+  "director": "Peter Ustinov",
+  "writer": "Peter Ustinov, Romain Gary",
+  "actors": "Sophia Loren, Paul Newman, David Niven",
+  "plot": "L's elegant, elderly lady who recalls her past loves and lusty adventures of her life.",
+  "language": "English, French, Polish",
+  "country": "United Kingdom, France, Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWMzNDM2ZjYtZDJmNC00YjMzLWFmZDctOTYxNjgxZjJkZWFhXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "29%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0059377",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:16:02.403Z"
+}

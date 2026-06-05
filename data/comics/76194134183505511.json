@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134183505511",
+  "title": "Aquaman #55",
+  "authors": [
+    "Alex Antone",
+    "Alex Sinclair",
+    "Andrea Shea",
+    "Brian Cunningham",
+    "Chris Stevens",
+    "Clayton Cowles",
+    "Daniel Henriques",
+    "Kelly Sue DeConnick",
+    "Michael Jason Paz",
+    "Robson Rocha",
+    "Sunny Gho"
+  ],
+  "publish_date": "2019-12-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/12/aqauman-55.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8087/",
+  "fetched_at": "2026-06-05T18:40:51.949Z",
+  "reviewed_at": null
+}

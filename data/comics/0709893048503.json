@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "0709893048503",
+  "title": "The Flash #247",
+  "authors": [
+    "Cary Bates",
+    "Frank McLaughlin",
+    "Frank Springer",
+    "Irv Novick",
+    "Julius Schwartz",
+    "Rich Buckler",
+    "Tatjana Wood"
+  ],
+  "publish_date": "1977-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/03/28/flash-v1-247.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/10888/",
+  "fetched_at": "2026-06-05T19:11:39.141Z",
+  "reviewed_at": "1977-03-01"
+}

@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "76194138869401111",
+  "title": "Aquaman #11",
+  "authors": [
+    "Arif Prianto",
+    "Dave Sharpe",
+    "Edwin Galmon",
+    "Gleb Melnikov",
+    "Jeremy Adams",
+    "Jim Lee",
+    "Joe Lalich",
+    "Jonboy Meyers",
+    "Marie Javins",
+    "Michael McCalister",
+    "Nimit Malavia",
+    "Norm Rapmund",
+    "Özgür Yıldırım",
+    "Paul Kaminski",
+    "Rex Lokus"
+  ],
+  "publish_date": "2025-11-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/17/c1adcdc4addb45ba9c4c750b14487fe1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156290/",
+  "fetched_at": "2026-06-05T18:49:16.562Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Family Jewels",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "04 Oct 1965",
+  "runtime": "99 min",
+  "genre": "Comedy",
+  "director": "Jerry Lewis",
+  "writer": "Jerry Lewis, Bill Richmond",
+  "actors": "Jerry Lewis, Sebastian Cabot, Neil Hamilton",
+  "plot": "A young heiress must choose among six uncles, one of whom is up to no good and out to harm the girl's beloved bodyguard who practically raised her.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGM4MjhiMDUtOWQ3ZC00OTJhLThiM2ItNzZhNGJjOWIyYWM3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0059166",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:16:14.823Z"
+}

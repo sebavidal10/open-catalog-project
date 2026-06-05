@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134183504511",
+  "title": "Aquaman #45",
+  "authors": [
+    "Alex Antone",
+    "Andrea Shea",
+    "Brian Cunningham",
+    "Clayton Cowles",
+    "Cully Hamner",
+    "Daniel Henriques",
+    "Kelly Sue DeConnick",
+    "Robson Rocha",
+    "Sunny Gho"
+  ],
+  "publish_date": "2019-02-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/25/aquaman-v8-45.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2990/",
+  "fetched_at": "2026-06-05T18:39:08.685Z",
+  "reviewed_at": null
+}

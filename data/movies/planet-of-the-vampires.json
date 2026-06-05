@@ -1,0 +1,31 @@
+{
+  "title": "Planet of the Vampires",
+  "year": "1965",
+  "rated": "Not Rated",
+  "released": "27 Oct 1965",
+  "runtime": "88 min",
+  "genre": "Action, Adventure, Horror",
+  "director": "Mario Bava",
+  "writer": "Renato Pestriniero, Ib Melchior, Alberto Bevilacqua",
+  "actors": "Barry Sullivan, Norma Bengell, Ángel Aranda",
+  "plot": "After landing on a mysterious planet, a team of astronauts begin to turn on each other, swayed by the uncertain influence of the planet and its strange inhabitants.",
+  "language": "Italian, English",
+  "country": "Italy, Spain",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM4YWNhMjgtNDI4OS00ZjZmLWI1Y2MtOTJkOWU0ZWExNDliXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0059792",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:14:53.548Z"
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194134183504211",
+  "title": "Aquaman #42",
+  "authors": [
+    "Adriano Lucas",
+    "Alex Antone",
+    "Andrea Shea",
+    "Ben Oliver",
+    "Brian Cunningham",
+    "Dan Abnett",
+    "Eber Ferreira",
+    "Eduardo Pansica",
+    "Gabe Eltaeb",
+    "Lan Medina",
+    "Steve Wands",
+    "Vicente Cifuentes"
+  ],
+  "publish_date": "2018-11-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/25/aquaman-v8-42.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2985/",
+  "fetched_at": "2026-06-05T18:38:29.222Z",
+  "reviewed_at": null
+}

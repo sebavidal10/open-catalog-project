@@ -1,0 +1,31 @@
+{
+  "title": "Von Ryan's Express",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "23 Jun 1965",
+  "runtime": "117 min",
+  "genre": "Action, Adventure, War",
+  "director": "Mark Robson",
+  "writer": "David Westheimer, Wendell Mayes, Joseph Landon",
+  "actors": "Frank Sinatra, Trevor Howard, Raffaella Carrà",
+  "plot": "An American POW leads a group of mainly British prisoners to escape from the Germans in WWII.",
+  "language": "English, German, Italian",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODlkNjJmN2ItOWE3Yy00MTkxLThjNTUtMWRiNDFhOWM5ZTAzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0059885",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:14:34.858Z"
+}

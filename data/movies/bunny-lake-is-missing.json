@@ -1,0 +1,35 @@
+{
+  "title": "Bunny Lake Is Missing",
+  "year": "1965",
+  "rated": "Not Rated",
+  "released": "27 Feb 1966",
+  "runtime": "107 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "Otto Preminger",
+  "writer": "John Mortimer, Penelope Mortimer, Marryam Modell",
+  "actors": "Keir Dullea, Carol Lynley, Laurence Olivier",
+  "plot": "A woman reports that her young daughter is missing, but there seems to be no evidence that she ever existed.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 2 BAFTA 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDQ5MzEzN2EtNDliOS00NmY5LWI0MWEtNjBlMGI5MjQ2NzNjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.3",
+  "imdbID": "tt0058997",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:15:22.786Z"
+}

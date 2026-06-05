@@ -1,0 +1,27 @@
+{
+  "title": "Day of the Nightmare",
+  "year": "1965",
+  "rated": "Not Rated",
+  "released": "N/A",
+  "runtime": "94 min",
+  "genre": "Horror, Mystery",
+  "director": "John A. Bushelman",
+  "writer": "Leonard Goldstein",
+  "actors": "John Ireland, Beverly Bain, Cliff Fields",
+  "plot": "A dead woman returns from the grave to wreak vengeance upon her enemies.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NDA5NTUyN15BMl5BanBnXkFtZTgwMjkwMTkwMzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.6",
+  "imdbID": "tt0059087",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:22:42.416Z"
+}

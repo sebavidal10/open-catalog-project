@@ -1,0 +1,35 @@
+{
+  "title": "Red Beard",
+  "year": "1965",
+  "rated": "Not Rated",
+  "released": "19 Dec 1968",
+  "runtime": "185 min",
+  "genre": "Drama",
+  "director": "Akira Kurosawa",
+  "writer": "Masato Ide, Hideo Oguni, Ryûzô Kikushima",
+  "actors": "Toshirô Mifune, Yûzô Kayama, Tsutomu Yamazaki",
+  "plot": "In 19th-century Japan, a rough-tempered yet charitable town doctor trains a young intern.",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "11 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MDRlMmQtYTU1Mi00YzY2LTkxNGQtZGMyZTNkN2U1M2VjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "8.3",
+  "imdbID": "tt0058888",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:14:06.406Z"
+}

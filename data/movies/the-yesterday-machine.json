@@ -1,0 +1,27 @@
+{
+  "title": "The Yesterday Machine",
+  "year": "1965",
+  "rated": "Not Rated",
+  "released": "03 Jun 1965",
+  "runtime": "85 min",
+  "genre": "Sci-Fi",
+  "director": "Russ Marker",
+  "writer": "Russ Marker",
+  "actors": "Tim Holt, James Britton, Ann Pellegrino",
+  "plot": "A Nazi scientist invents a time machine enabling him to go back to alter the events of WWII.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY0OTMxMjMzOV5BMl5BanBnXkFtZTgwMDU4MDkyOTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "3.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "3.9",
+  "imdbID": "tt0057701",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:18:49.584Z"
+}

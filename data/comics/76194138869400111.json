@@ -1,0 +1,37 @@
+{
+  "isbn": null,
+  "upc": "76194138869400111",
+  "title": "Aquaman #1",
+  "authors": [
+    "Alejandro Sánchez",
+    "Andrew Hennessy",
+    "Brad Anderson",
+    "Brad Walker",
+    "Christian Ward",
+    "Daniel Sampere",
+    "Danny Miki",
+    "Dave Sharpe",
+    "Ivan Reis",
+    "Jeremy Adams",
+    "Jim Lee",
+    "John Timms",
+    "Marcelo Maiolo",
+    "Marie Javins",
+    "Marquis Draper",
+    "Pasquale Ferrara",
+    "Paul Kaminski",
+    "Rex Lokus",
+    "Salvador Larroca",
+    "Tula Lotay"
+  ],
+  "publish_date": "2025-01-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/30/cee089e7f4e64427a4a7c3a001156608.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/132480/",
+  "fetched_at": "2026-06-05T18:47:45.346Z",
+  "reviewed_at": null
+}

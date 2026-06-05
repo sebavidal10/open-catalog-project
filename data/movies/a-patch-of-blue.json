@@ -1,0 +1,35 @@
+{
+  "title": "A Patch of Blue",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "10 Dec 1965",
+  "runtime": "105 min",
+  "genre": "Drama, Romance",
+  "director": "Guy Green",
+  "writer": "Elizabeth Kata, Guy Green",
+  "actors": "Sidney Poitier, Shelley Winters, Elizabeth Hartman",
+  "plot": "A blind, uneducated white girl is befriended by a black man who becomes determined to help her escape her impoverished and abusive home life by introducing her to the outside world.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 4 wins & 15 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQwYmRjMGEtY2Y4OS00YjRjLThmZjItMDAzOWZhN2QxZmRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "8.0",
+  "imdbID": "tt0059573",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:15:04.222Z"
+}

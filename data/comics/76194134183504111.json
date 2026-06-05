@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134183504111",
+  "title": "Aquaman #41",
+  "authors": [
+    "Alex Antone",
+    "Andrea Shea",
+    "Brian Cunningham",
+    "Dan Abnett",
+    "Gabe Eltaeb",
+    "Joshua Middleton",
+    "Lan Medina",
+    "Riccardo Federici",
+    "Steve Wands",
+    "Vicente Cifuentes"
+  ],
+  "publish_date": "2018-10-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/25/aquaman-v8-41.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2984/",
+  "fetched_at": "2026-06-05T18:38:13.301Z",
+  "reviewed_at": null
+}

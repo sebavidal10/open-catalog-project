@@ -1,0 +1,31 @@
+{
+  "title": "The Flight of the Phoenix",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "15 Dec 1965",
+  "runtime": "142 min",
+  "genre": "Adventure, Drama",
+  "director": "Robert Aldrich",
+  "writer": "Lukas Heller, Elleston Trevor",
+  "actors": "James Stewart, Richard Attenborough, Peter Finch",
+  "plot": "After an oil company plane crashes in the Sahara, the survivors' hopes are buoyed by one of the passengers, an airplane designer who comes up with a plan to build a flyable plane from the wreckage.",
+  "language": "English, Italian, Arabic",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmRhMTkzNzctODAxMS00YTI0LTk1NDQtM2Y0OWU3OGNmZjBmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0059183",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:14:39.839Z"
+}

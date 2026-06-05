@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134183505111",
+  "title": "Aquaman #51",
+  "authors": [
+    "Alex Antone",
+    "Alex Sinclair",
+    "Andrea Shea",
+    "Brian Cunningham",
+    "Clayton Cowles",
+    "Daniel Henriques",
+    "Joshua Middleton",
+    "Kelly Sue DeConnick",
+    "Michael Jason Paz",
+    "Robson Rocha",
+    "Sunny Gho"
+  ],
+  "publish_date": "2019-08-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/18/aquaman-51.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4675/",
+  "fetched_at": "2026-06-05T18:40:08.429Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Help!",
+  "year": "1965",
+  "rated": "G",
+  "released": "25 Aug 1965",
+  "runtime": "92 min",
+  "genre": "Adventure, Comedy, Musical",
+  "director": "Richard Lester",
+  "writer": "Marc Behm, Charles Wood",
+  "actors": "John Lennon, Paul McCartney, George Harrison",
+  "plot": "When Ringo Starr receives a sacrificial ring that gets stuck on his hand, his fellow Beatles must protect him from a murderous cult and an obsessed scientist.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 2 BAFTA 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODZlNjBkYTAtNGQ3OC00MWNhLTk4MjQtNjg4MzI5ZDQ1Y2E0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "7.1",
+  "imdbID": "tt0059260",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:14:33.618Z"
+}

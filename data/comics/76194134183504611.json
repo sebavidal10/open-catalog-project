@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134183504611",
+  "title": "Aquaman #46",
+  "authors": [
+    "Alex Antone",
+    "Andrea Shea",
+    "Brian Cunningham",
+    "Clayton Cowles",
+    "Daniel Henriques",
+    "Esteban Maroto",
+    "Kelly Sue DeConnick",
+    "Robson Rocha",
+    "Sunny Gho"
+  ],
+  "publish_date": "2019-03-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/25/aquaman-v8-46.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2991/",
+  "fetched_at": "2026-06-05T18:39:17.843Z",
+  "reviewed_at": null
+}

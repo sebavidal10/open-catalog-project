@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134183504411",
+  "title": "Aquaman #44",
+  "authors": [
+    "Alex Antone",
+    "Andrea Shea",
+    "Brian Cunningham",
+    "Clayton Cowles",
+    "Daniel Henriques",
+    "Kelly Sue DeConnick",
+    "Rafael Albuquerque",
+    "Robson Rocha",
+    "Sunny Gho"
+  ],
+  "publish_date": "2019-01-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/25/aquaman-v8-44.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2989/",
+  "fetched_at": "2026-06-05T18:38:53.736Z",
+  "reviewed_at": null
+}

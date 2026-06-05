@@ -1,0 +1,31 @@
+{
+  "title": "The Spy Who Came in from the Cold",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "16 Dec 1965",
+  "runtime": "112 min",
+  "genre": "Drama, Thriller",
+  "director": "Martin Ritt",
+  "writer": "John le Carré, Paul Dehn, Guy Trosper",
+  "actors": "Richard Burton, Oskar Werner, Claire Bloom",
+  "plot": "Instead of coming in from field work during the Cold War and taking a desk job, British intelligence agent Alec Leamas chooses to take on another assignment.",
+  "language": "English, Dutch",
+  "country": "United Kingdom",
+  "awards": "Nominated for 2 Oscars. 10 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjVmYTMxZWItMzM3OS00N2I5LTkyOTUtNWZiZjNmOTVhYmNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0059749",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:14:36.104Z"
+}

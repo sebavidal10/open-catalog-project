@@ -1,0 +1,31 @@
+{
+  "title": "Shakespeare-Wallah",
+  "year": "1965",
+  "rated": "Not Rated",
+  "released": "01 Dec 1965",
+  "runtime": "120 min",
+  "genre": "Drama, Romance",
+  "director": "James Ivory",
+  "writer": "Ruth Prawer Jhabvala, James Ivory",
+  "actors": "Shashi Kapoor, Felicity Kendal, Geoffrey Kendal",
+  "plot": "The family troupe of English actors in India, performing Shakespearean plays, witness India's transformation as Maharajas shift to hotel owners, sports dominate, and theater replaced by Bolliwood movies.",
+  "language": "English, Hindi",
+  "country": "United States, India",
+  "awards": "2 wins & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDkxOWZmZWQtN2M5Ni00MDU5LThiNDItMzhiOTk5MTg3M2Q2XkEyXkFqcGdeQXVyNDg3NzM0NzY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0059709",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:14:11.333Z"
+}

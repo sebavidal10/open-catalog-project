@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194137124500111",
+  "title": "Future State: Aquaman #1",
+  "authors": [
+    "Adriano Lucas",
+    "Andrea Shea",
+    "Brandon Thomas",
+    "Chris Conroy",
+    "Clayton Cowles",
+    "Daniel Sampere",
+    "Emilio Lopez",
+    "Jim Lee",
+    "Khary Randolph",
+    "Marie Javins"
+  ],
+  "publish_date": "2021-01-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/22/fs-aquaman-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/23664/",
+  "fetched_at": "2026-06-05T18:42:44.181Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Nanny",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "20 Jan 1966",
+  "runtime": "93 min",
+  "genre": "Mystery, Thriller",
+  "director": "Seth Holt",
+  "writer": "Jimmy Sangster, Marryam Modell",
+  "actors": "Bette Davis, Wendy Craig, Jill Bennett",
+  "plot": "There's just something not quite right when Bette Davis stars as an English nanny. And is her 10-year-old charge an emotionally disturbed murderer or just an insolent brat?",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTJhMmQ5MzktOGI3YS00NzI2LTg0Y2YtNTEzZjI5MDU1ODQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0059496",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:16:04.887Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The War Lord",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "17 Nov 1965",
+  "runtime": "123 min",
+  "genre": "Drama, History, Romance",
+  "director": "Franklin J. Schaffner",
+  "writer": "John Collier, Millard Kaufman, Leslie Stevens",
+  "actors": "Charlton Heston, Richard Boone, Rosemary Forsyth",
+  "plot": "In 11th century Normandy, a Norman duke sends one of his knights to build a defensive fortress in order to guard the borders against Frisian raiders.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2JkMWVmODctNTJiMS00M2M4LTk0NTgtYmUxZjQ0OGNiZWZmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0059896",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:17:14.304Z"
+}

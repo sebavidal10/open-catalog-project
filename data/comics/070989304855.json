@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "070989304855",
+  "title": "The Flash #273",
+  "authors": [
+    "Alex Saviuk",
+    "Ben Oda",
+    "Cary Bates",
+    "Dick Giordano",
+    "Frank Chiaramonte",
+    "Gene D'Angelo",
+    "Ross Andru",
+    "Tatjana Wood"
+  ],
+  "publish_date": "1979-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/03/29/flash-v1-273.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/10914/",
+  "fetched_at": "2026-06-05T19:14:34.552Z",
+  "reviewed_at": "1979-05-01"
+}

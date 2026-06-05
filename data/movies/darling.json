@@ -1,0 +1,31 @@
+{
+  "title": "Darling",
+  "year": "1965",
+  "rated": "TV-MA",
+  "released": "03 Aug 1965",
+  "runtime": "128 min",
+  "genre": "Drama, Romance",
+  "director": "John Schlesinger",
+  "writer": "Frederic Raphael, John Schlesinger, Joseph Janni",
+  "actors": "Julie Christie, Dirk Bogarde, Laurence Harvey",
+  "plot": "Beautiful but amoral model Diana Scott sleeps her way to the top of the London fashion scene at the height of the Swinging Sixties.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Won 3 Oscars. 17 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgzMGM0ZWItOWE1OC00MGEzLWE3ZjEtYWE3MTM1YjAwNjdkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0059084",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:14:44.791Z"
+}

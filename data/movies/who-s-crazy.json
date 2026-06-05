@@ -1,0 +1,35 @@
+{
+  "title": "Who's Crazy?",
+  "year": "1965",
+  "rated": "N/A",
+  "released": "10 Mar 2017",
+  "runtime": "73 min",
+  "genre": "Drama",
+  "director": "Thomas White, Allan Zion",
+  "writer": "Thomas White, Allan Zion",
+  "actors": "Wimme Andre, Melvin Clay, Tom Edmonston",
+  "plot": "Patients from an insane asylum find refuge at a farmhouse after escaping from a bus.",
+  "language": "English",
+  "country": "Belgium, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmM3YmY3N2YtMDI1Ni00ZThlLWE1ODktODUxYjMxYjM1ODMzXkEyXkFqcGdeQXVyODM3MjA1NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "5.8",
+  "imdbID": "tt4775814",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:14:12.563Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Repulsion",
+  "year": "1965",
+  "rated": "Not Rated",
+  "released": "03 Oct 1965",
+  "runtime": "105 min",
+  "genre": "Drama, Horror, Thriller",
+  "director": "Roman Polanski",
+  "writer": "Roman Polanski, Gérard Brach, David Stone",
+  "actors": "Catherine Deneuve, Ian Hendry, John Fraser",
+  "plot": "A withdrawn manicurist who disapproves of her sister's boyfriend sinks into depression and experiences horrific visions of violence.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 BAFTA Award2 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTE0YzBjNWEtZTE4NC00ZmM5LTllZmUtZGYwOGFlYWVjOGU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "metascore": "91",
+  "imdbRating": "7.6",
+  "imdbID": "tt0059646",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:14:22.437Z"
+}

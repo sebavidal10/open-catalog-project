@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194138869400911",
+  "title": "Aquaman #9",
+  "authors": [
+    "Dave Sharpe",
+    "Don Ellis Aguillo",
+    "Jeremy Adams",
+    "Jim Lee",
+    "John Timms",
+    "Leirix Li",
+    "Leonardo Romero",
+    "Lucio Parrillo",
+    "Marie Javins",
+    "Michael McCalister",
+    "Paul Kaminski",
+    "Rex Lokus"
+  ],
+  "publish_date": "2025-09-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/15/941b45dbd1c942c5bcd89ceba9b1b040.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151670/",
+  "fetched_at": "2026-06-05T18:48:56.535Z",
+  "reviewed_at": null
+}

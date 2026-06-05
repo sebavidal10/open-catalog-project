@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194138869400311",
+  "title": "Aquaman #3",
+  "authors": [
+    "Dave Sharpe",
+    "Gavin Guidry",
+    "Jeremy Adams",
+    "Jim Lee",
+    "John Timms",
+    "Marie Javins",
+    "Marquis Draper",
+    "Pasquale Ferrara",
+    "Paul Kaminski",
+    "Rex Lokus",
+    "Salvador Larroca",
+    "Sweeney Boo",
+    "Tamra Bonvillain",
+    "Tula Lotay"
+  ],
+  "publish_date": "2025-03-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/02/28/a128717b6a8f42fea202b88ae352ea4d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/137080/",
+  "fetched_at": "2026-06-05T18:48:04.038Z",
+  "reviewed_at": null
+}

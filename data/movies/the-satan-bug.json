@@ -1,0 +1,31 @@
+{
+  "title": "The Satan Bug",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "26 Mar 1965",
+  "runtime": "114 min",
+  "genre": "Crime, Mystery, Sci-Fi",
+  "director": "John Sturges",
+  "writer": "Alistair MacLean, James Clavell, Edward Anhalt",
+  "actors": "George Maharis, Richard Basehart, Anne Francis",
+  "plot": "A germ that could destroy life on Earth is stolen from a biological warfare lab and the thief threatens to release it into the open prompting world-wide manhunt.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzQzZDZhNTktZjA2Ni00OWYyLTgxM2MtZWNjZWM0ZmJlMWU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0059678",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:15:59.928Z"
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "0709893046501",
+  "title": "The Flash #257",
+  "authors": [
+    "Al Milgrom",
+    "Cary Bates",
+    "Frank McLaughlin",
+    "Irv Novick",
+    "Jack Abel",
+    "Jerry Serpe",
+    "Julius Schwartz",
+    "Milt Snapinn",
+    "Tatjana Wood"
+  ],
+  "publish_date": "1978-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/03/28/flash-v1-257.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/10898/",
+  "fetched_at": "2026-06-05T19:12:50.911Z",
+  "reviewed_at": "1978-01-01"
+}

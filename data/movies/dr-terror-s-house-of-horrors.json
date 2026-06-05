@@ -1,0 +1,31 @@
+{
+  "title": "Dr. Terror's House of Horrors",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "28 Feb 1965",
+  "runtime": "98 min",
+  "genre": "Horror",
+  "director": "Freddie Francis",
+  "writer": "Milton Subotsky",
+  "actors": "Christopher Lee, Peter Cushing, Neil McCallum",
+  "plot": "Aboard a British train, mysterious fortune teller Dr. Schreck uses tarot cards to read the futures of five fellow passengers.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzJiMTllZjQtNjAwOC00YzhlLWIzOTktYjE2NTQ5ZTA2YWU1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0059125",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:15:11.631Z"
+}

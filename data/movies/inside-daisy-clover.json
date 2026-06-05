@@ -1,0 +1,31 @@
+{
+  "title": "Inside Daisy Clover",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "27 Apr 1966",
+  "runtime": "128 min",
+  "genre": "Drama, Music, Romance",
+  "director": "Robert Mulligan",
+  "writer": "Gavin Lambert",
+  "actors": "Natalie Wood, Christopher Plummer, Robert Redford",
+  "plot": "A tomboy turned movie star deals with the cruelty of Hollywood.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 2 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWIwZjZkMDEtMzAyMC00NGI1LTk4ZGMtNTc2MWU5ZjcyMzA1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "31%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0059314",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:15:56.216Z"
+}

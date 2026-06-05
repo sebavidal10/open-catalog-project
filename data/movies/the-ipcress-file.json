@@ -1,0 +1,35 @@
+{
+  "title": "The Ipcress File",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "02 Aug 1965",
+  "runtime": "109 min",
+  "genre": "Drama, Thriller",
+  "director": "Sidney J. Furie",
+  "writer": "Len Deighton, W.H. Canaway, James Doran",
+  "actors": "Michael Caine, Nigel Green, Guy Doleman",
+  "plot": "In London, a wisecracking spy investigates the kidnapping and brainwashing of British scientists while dealing with the constraints of his agency's bureaucracy.",
+  "language": "English, Albanian",
+  "country": "United Kingdom",
+  "awards": "Won 3 BAFTA 5 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDU0OWI4ZDEtNzZjOS00ZmEzLTllOWYtZjUwNmMxOTMzN2UxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "7.2",
+  "imdbID": "tt0059319",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:14:17.490Z"
+}

@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194138869400411",
+  "title": "Aquaman #4",
+  "authors": [
+    "Arif Prianto",
+    "Dave Sharpe",
+    "David Nakayama",
+    "Jeremy Adams",
+    "Jim Lee",
+    "John Timms",
+    "Marcio Takara",
+    "Marie Javins",
+    "Michael McCalister",
+    "Pasquale Ferrara",
+    "Paul Kaminski",
+    "Rex Lokus",
+    "Salvador Larroca",
+    "Tyler Kirkham"
+  ],
+  "publish_date": "2025-04-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/25/55e9c367f9c34441939735386944d035.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/140641/",
+  "fetched_at": "2026-06-05T18:48:12.621Z",
+  "reviewed_at": null
+}

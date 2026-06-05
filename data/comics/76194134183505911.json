@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134183505911",
+  "title": "Aquaman #59",
+  "authors": [
+    "Alex R. Carr",
+    "Andrea Shea",
+    "Clayton Cowles",
+    "Daniel Henriques",
+    "Kelly Sue DeConnick",
+    "Robson Rocha",
+    "Romulo Fajardo Jr.",
+    "Stjepan Šejić",
+    "Tyler Kirkham"
+  ],
+  "publish_date": "2020-05-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/05/24/aquaman-59.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/13112/",
+  "fetched_at": "2026-06-05T18:41:53.288Z",
+  "reviewed_at": null
+}

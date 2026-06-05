@@ -1,0 +1,31 @@
+{
+  "title": "The Collector",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "14 Aug 1965",
+  "runtime": "119 min",
+  "genre": "Drama, Thriller",
+  "director": "William Wyler",
+  "writer": "John Fowles, John Kohn, Stanley Mann",
+  "actors": "Terence Stamp, Samantha Eggar, Mona Washbourne",
+  "plot": "A man kidnaps a woman and holds her hostage just for the pleasure of having her there.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 3 Oscars. 5 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDZiYmRiMmEtZDcyOS00ZjU2LTlmNjUtMDMzNGIxYjA0ZjgxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0059043",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:14:26.178Z"
+}

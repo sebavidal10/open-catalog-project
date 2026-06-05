@@ -1,0 +1,35 @@
+{
+  "title": "The Naked Prey",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "17 Feb 1966",
+  "runtime": "96 min",
+  "genre": "Adventure, Drama, Thriller",
+  "director": "Cornel Wilde",
+  "writer": "Clint Johnston, Don Peters",
+  "actors": "Cornel Wilde, Gert van den Bergh, Ken Gampu",
+  "plot": "During the 1800s, a safari guide, two elephant hunters and their crew run into trouble with the natives in the South African veld when they refuse to offer gifts to the tribesmen.",
+  "language": "English, Afrikaans",
+  "country": "South Africa, United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWY1NWUwMDAtNjg5OS00NGU3LWJmOGUtMjQ2NDkzMjgxMjU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "7.3",
+  "imdbID": "tt0060736",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:15:06.697Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Die! Die! My Darling!",
+  "year": "1965",
+  "rated": "Not Rated",
+  "released": "21 Mar 1965",
+  "runtime": "97 min",
+  "genre": "Horror, Thriller",
+  "director": "Silvio Narizzano",
+  "writer": "Richard Matheson, Anne Blaisdell",
+  "actors": "Tallulah Bankhead, Stefanie Powers, Peter Vaughan",
+  "plot": "A young woman is terrorized by her deceased fiancé's demented mother who blames her for her son's death.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDc2N2YzMWUtOTBmYS00MTM1LWEyY2ItMWMyNmRiMTEwOTc2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0059106",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:15:19.054Z"
+}

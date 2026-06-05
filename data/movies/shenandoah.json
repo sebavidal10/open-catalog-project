@@ -1,0 +1,31 @@
+{
+  "title": "Shenandoah",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "29 Jun 1965",
+  "runtime": "105 min",
+  "genre": "Drama, War, Western",
+  "director": "Andrew V. McLaglen",
+  "writer": "James Lee Barrett",
+  "actors": "James Stewart, Doug McClure, Glenn Corbett",
+  "plot": "A Virginia farmer who has vowed to remain neutral during the Civil War is spurred into action when his youngest son is taken by Union soldiers.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmNiNDI3YjQtMzQwNy00YWJiLTliYWQtZTBmZjhlOWRkMjljXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0059711",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:15:01.739Z"
+}

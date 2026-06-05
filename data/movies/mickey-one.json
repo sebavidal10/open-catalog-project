@@ -1,0 +1,31 @@
+{
+  "title": "Mickey One",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "27 Sep 1965",
+  "runtime": "93 min",
+  "genre": "Crime, Drama",
+  "director": "Arthur Penn",
+  "writer": "Alan Surgal",
+  "actors": "Warren Beatty, Alexandra Stewart, Hurd Hatfield",
+  "plot": "After the mob tries to kill him for an unknown reason, a comedian steals the identity of a homeless man and goes on the run.",
+  "language": "English, Polish",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzVmNTA2MTctZWY0YS00ZTY3LWEwZTMtMjg0Yjg0Y2Y3MGU1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0059447",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:15:45.057Z"
+}

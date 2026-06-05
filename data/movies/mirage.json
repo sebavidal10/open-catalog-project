@@ -1,0 +1,31 @@
+{
+  "title": "Mirage",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "23 Sep 1965",
+  "runtime": "108 min",
+  "genre": "Mystery, Thriller",
+  "director": "Edward Dmytryk",
+  "writer": "Peter Stone, Howard Fast",
+  "actors": "Gregory Peck, Diane Baker, Walter Matthau",
+  "plot": "An accountant suddenly suffers from amnesia. This appears related to the suicide of his boss. Now some violent thugs are out to get him. They work for a shadowy figure known simply as The Major.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTZiNWY0MzUtY2YzZS00ZDQ5LTkyZDYtNmZjZDY3YjRjYzcwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0059448",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:15:02.991Z"
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194134183504911",
+  "title": "Aquaman #49",
+  "authors": [
+    "Alex Antone",
+    "Alex Sinclair",
+    "Andrea Shea",
+    "Brian Cunningham",
+    "Clayton Cowles",
+    "Daniel Henriques",
+    "Jonathan Glapion",
+    "Joshua Middleton",
+    "Kelly Sue DeConnick",
+    "Robson Rocha",
+    "Ryan Winn",
+    "Sunny Gho",
+    "Viktor Bogdanovic"
+  ],
+  "publish_date": "2019-06-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/19/aquaman-v8-49.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2895/",
+  "fetched_at": "2026-06-05T18:39:45.640Z",
+  "reviewed_at": null
+}

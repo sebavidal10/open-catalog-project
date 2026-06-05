@@ -1,0 +1,27 @@
+{
+  "title": "The Amazing Doctor G",
+  "year": "1965",
+  "rated": "Not Rated",
+  "released": "N/A",
+  "runtime": "85 min",
+  "genre": "Comedy",
+  "director": "Giorgio Simonelli",
+  "writer": "Sandro Continenza, Dino Verde, Amedeo Sollazzo",
+  "actors": "Franco Franchi, Ciccio Ingrassia, Gloria Paul",
+  "plot": "An evil genius named Goldginger hatches a plot to turn all government employees into mindless drones.",
+  "language": "Italian",
+  "country": "Italy, Spain",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTE2NjkyNDUtNjU3Mi00MTJmLTkxNWUtZTdiMDYyMTU0ZmJmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.0",
+  "imdbID": "tt0059130",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:25:06.819Z"
+}

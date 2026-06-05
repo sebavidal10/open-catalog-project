@@ -1,0 +1,31 @@
+{
+  "title": "Dr. Goldfoot and the Bikini Machine",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "06 Nov 1965",
+  "runtime": "88 min",
+  "genre": "Comedy, Sci-Fi",
+  "director": "Norman Taurog, Ishirô Honda",
+  "writer": "Elwood Ullman, Robert Kaufman, James H. Nicholson",
+  "actors": "Vincent Price, Frankie Avalon, Dwayne Hickman",
+  "plot": "A skirt-chasing spy and a millionaire bachelor must foil mad scientist Dr. Goldfoot's plot to use his army of bikini-clad robots to seduce wealthy men into signing over their assets.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMzQwMTA4NV5BMl5BanBnXkFtZTgwMzcxMTkwMzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "29%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.1",
+  "imdbID": "tt0059124",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:15:36.386Z"
+}

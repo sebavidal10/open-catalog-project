@@ -1,0 +1,35 @@
+{
+  "title": "The Cincinnati Kid",
+  "year": "1965",
+  "rated": "TV-14",
+  "released": "30 Oct 1965",
+  "runtime": "102 min",
+  "genre": "Drama",
+  "director": "Norman Jewison, Sam Peckinpah",
+  "writer": "Richard Jessup, Ring Lardner Jr., Terry Southern",
+  "actors": "Steve McQueen, Ann-Margret, Edward G. Robinson",
+  "plot": "An up-and-coming poker player tries to prove himself in a high-stakes match against a long-time master of the game.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWFmNmIwMzYtN2I3NS00ZDAzLWEzYjctNDU4YzJiODg1MjdmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "7.2",
+  "imdbID": "tt0059037",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:14:37.343Z"
+}

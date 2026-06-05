@@ -1,0 +1,31 @@
+{
+  "title": "Ship of Fools",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "01 Oct 1965",
+  "runtime": "149 min",
+  "genre": "Drama, Romance, War",
+  "director": "Stanley Kramer",
+  "writer": "Katherine Anne Porter, Abby Mann",
+  "actors": "Vivien Leigh, Simone Signoret, José Ferrer",
+  "plot": "A varied group of passengers boarding a ship bound for pre-WWII Germany represents a microcosm of early-1930s society.",
+  "language": "English, German, Spanish",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 5 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDkzNzcyZmEtMWZjMy00ZmJmLThmNDItM2U1NTdkNTY4NmEzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "63%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0059712",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:14:47.350Z"
+}

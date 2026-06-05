@@ -1,0 +1,31 @@
+{
+  "title": "The Shop on Main Street",
+  "year": "1965",
+  "rated": "Not Rated",
+  "released": "24 Jan 1966",
+  "runtime": "128 min",
+  "genre": "Drama, War",
+  "director": "Ján Kadár, Elmar Klos",
+  "writer": "Ladislav Grosman, Ján Kadár, Elmar Klos",
+  "actors": "Ida Kaminska, Jozef Kroner, Frantisek Zvarík",
+  "plot": "A carpenter in the Fascist Slovak State is appointed \"Aryan controller\" of a Jewish widow's store.",
+  "language": "Slovak, Yiddish, German, Latin",
+  "country": "Czechoslovakia",
+  "awards": "Won 1 Oscar. 6 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmU0Zjg5ZWUtZGQ1Ny00M2ZlLWJhNmMtN2FlMGQ2YTFiNzI1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.2",
+  "imdbID": "tt0059527",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:15:42.601Z"
+}

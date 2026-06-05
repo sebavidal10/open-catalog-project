@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194138869400211",
+  "title": "Aquaman #2",
+  "authors": [
+    "Dave Sharpe",
+    "Jeremy Adams",
+    "Jim Lee",
+    "John Timms",
+    "Lucas Meyer",
+    "Marcio Takara",
+    "Marie Javins",
+    "Marquis Draper",
+    "Pasquale Ferrara",
+    "Paul Kaminski",
+    "Rex Lokus",
+    "Salvador Larroca",
+    "Tula Lotay"
+  ],
+  "publish_date": "2025-02-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/17/4859dc7afbef46a59aa5cd540fb8aaa3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/133822/",
+  "fetched_at": "2026-06-05T18:47:54.458Z",
+  "reviewed_at": null
+}

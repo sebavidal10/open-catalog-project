@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194134183505611",
+  "title": "Aquaman #56",
+  "authors": [
+    "Aaron Lopresti",
+    "Alex Antone",
+    "Andrea Shea",
+    "Andrew Hennessy",
+    "Brad Walker",
+    "Brian Cunningham",
+    "Clayton Cowles",
+    "Gabe Eltaeb",
+    "Kyle Higgins",
+    "Matt Ryan",
+    "Romulo Fajardo Jr.",
+    "Skan Srisuwan"
+  ],
+  "publish_date": "2020-01-15",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/01/10/aquaman-56.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8591/",
+  "fetched_at": "2026-06-05T18:41:00.857Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Hill",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "27 Jun 1965",
+  "runtime": "123 min",
+  "genre": "Drama, War",
+  "director": "Sidney Lumet",
+  "writer": "Ray Rigby, R.S. Allen",
+  "actors": "Sean Connery, Harry Andrews, Ian Bannen",
+  "plot": "In a North African military prison during World War II, five new prisoners struggle to survive in the face of brutal punishment and sadistic guards.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Won 1 BAFTA Award4 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDc0MTRiNWItMWRmNy00ZWM2LTkxMDUtMWU2NTE3Y2E5NDk5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.8",
+  "imdbID": "tt0059274",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:14:42.323Z"
+}

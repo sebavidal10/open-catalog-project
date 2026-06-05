@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "0709893048504",
+  "title": "The Flash #248",
+  "authors": [
+    "Cary Bates",
+    "Frank McLaughlin",
+    "Frank Springer",
+    "Irv Novick",
+    "Julius Schwartz",
+    "Rich Buckler",
+    "Tatjana Wood"
+  ],
+  "publish_date": "1977-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/03/28/flash-v1-248.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/10889/",
+  "fetched_at": "2026-06-05T19:11:47.844Z",
+  "reviewed_at": "1977-04-01"
+}

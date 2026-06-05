@@ -1,0 +1,31 @@
+{
+  "title": "The Loved One",
+  "year": "1965",
+  "rated": "Approved",
+  "released": "11 Oct 1965",
+  "runtime": "122 min",
+  "genre": "Comedy",
+  "director": "Tony Richardson",
+  "writer": "Evelyn Waugh, Terry Southern, Christopher Isherwood",
+  "actors": "Robert Morse, Jonathan Winters, Anjanette Comer",
+  "plot": "Satire on the funeral business, in which a young British poet goes to work at a Hollywood cemetery.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDVjOWU4NDctZTE3NC00NjkxLWIxMTItMTdkYzY5ZmZiZjViXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "47%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0059410",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:15:40.095Z"
+}

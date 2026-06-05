@@ -1,0 +1,35 @@
+{
+  "title": "That Darn Cat!",
+  "year": "1965",
+  "rated": "G",
+  "released": "02 Dec 1965",
+  "runtime": "116 min",
+  "genre": "Comedy, Crime, Family",
+  "director": "Robert Stevenson",
+  "writer": "Gordon Gordon, Mildred Gordon, Bill Walsh",
+  "actors": "Hayley Mills, Dean Jones, Dorothy Provine",
+  "plot": "After a kidnapped bank teller uses a neighbor's wandering cat to send an S.O.S., the F.B.I. assigns a cat-allergic Agent to the case.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTFjYjAyNGEtZjdlZS00NDZlLWE0ZjUtNzIyZTY5NTNkMDgzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "6.7",
+  "imdbID": "tt0059793",
+  "type": "movie",
+  "fetched_at": "2026-06-05T18:14:38.580Z"
+}
