@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194120024812711",
+  "title": "Flash #127",
+  "authors": [
+    "Brian Augustyn",
+    "Gaspar Saladino",
+    "Jason Hernandez-Rosenblatt",
+    "J.H. Williams III",
+    "John Nyberg",
+    "Mark Waid",
+    "Mick Gray",
+    "Paul Kupperberg",
+    "Paul Ryan",
+    "Tom McCraw"
+  ],
+  "publish_date": "1997-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/05/flash-v2-127.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22555/",
+  "fetched_at": "2026-06-07T19:13:37.116Z",
+  "reviewed_at": "1997-07-01"
+}

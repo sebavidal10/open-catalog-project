@@ -1,0 +1,31 @@
+{
+  "title": "Judith",
+  "year": "1966",
+  "rated": "Not Rated",
+  "released": "20 Jan 1966",
+  "runtime": "109 min",
+  "genre": "Drama, War",
+  "director": "Daniel Mann",
+  "writer": "Lawrence Durrell, John Michael Hayes",
+  "actors": "Sophia Loren, Peter Finch, Jack Hawkins",
+  "plot": "A beautiful woman who survived a concentration camp goes to Israel in 1948 to track down her Nazi husband who had betrayed her.",
+  "language": "English",
+  "country": "United Kingdom, Israel, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmEzZjY3NmUtMGI0Ni00MDc3LTk2MGQtYTc2ZjBiMDg5MjU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "20%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0060568",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:35:39.778Z"
+}

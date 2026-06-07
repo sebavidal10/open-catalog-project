@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130647602511",
+  "title": "The Flash #25",
+  "authors": [
+    "Brian Buccellato",
+    "Brian Cunningham",
+    "Carlos M. Mangual",
+    "Chris Sprouse",
+    "Francis Manapul",
+    "Harvey Richards",
+    "Karl Story",
+    "Keith Champagne",
+    "Wil Moss"
+  ],
+  "publish_date": "2013-11-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22383/",
+  "fetched_at": "2026-06-07T19:48:53.990Z",
+  "reviewed_at": null
+}

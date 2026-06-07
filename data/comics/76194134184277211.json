@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194134184277211",
+  "title": "The Flash #772",
+  "authors": [
+    "Alex Sinclair",
+    "Bixie Mathieu",
+    "Brandon Peterson",
+    "Brett Booth",
+    "Jeremy Adams",
+    "Jim Lee",
+    "Jonathan Glapion",
+    "Marie Javins",
+    "Michael Atiyeh",
+    "Mike Cotton",
+    "Steve Wands",
+    "Will Conrad"
+  ],
+  "publish_date": "2021-07-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/07/08/flash-772.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/33905/",
+  "fetched_at": "2026-06-07T20:10:20.099Z",
+  "reviewed_at": null
+}

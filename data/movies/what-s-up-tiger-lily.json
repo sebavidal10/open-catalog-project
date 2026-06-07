@@ -1,0 +1,35 @@
+{
+  "title": "What's Up, Tiger Lily?",
+  "year": "1966",
+  "rated": "PG",
+  "released": "02 Nov 1966",
+  "runtime": "80 min",
+  "genre": "Adventure, Comedy, Crime",
+  "director": "Woody Allen, Senkichi Taniguchi",
+  "writer": "Woody Allen, Frank Buxton, Louise Lasser",
+  "actors": "Woody Allen, The Lovin' Spoonful, Frank Buxton",
+  "plot": "Woody Allen re-dubs the Japanese spy film Kokusai himitsu keisatsu: Kagi no kagi (1965), turning it into a comedy about an agent pursuing the world's greatest egg salad recipe.",
+  "language": "English, Japanese",
+  "country": "Japan, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYThmYmVkMTAtM2RmMC00YTYyLWJiNWEtY2E4ZTgwNjUwYzc1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "5.8",
+  "imdbID": "tt0061177",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:33:09.639Z"
+}

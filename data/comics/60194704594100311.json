@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "60194704594100311",
+  "title": "Flash Gordon: Quarterly #3",
+  "authors": [
+    "Alexandra Colorado",
+    "Alex Sanchez",
+    "Buddy Beaudoin",
+    "Charles Pritchett",
+    "Chas! Pangburn",
+    "Dan Brown",
+    "Dan DiDio",
+    "Igor Lima",
+    "Lee Ferguson",
+    "Marc Andreyko",
+    "Mark Englert",
+    "Michael Moreci",
+    "Miguel Zapata",
+    "Nicole Virella",
+    "Sarah Brunstad",
+    "Taylor Esposito"
+  ],
+  "publish_date": "2025-04-23",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/04/15/8ee20b6b4d78476282c8e27e0c0cd3d3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/143213/",
+  "fetched_at": "2026-06-07T20:20:15.695Z",
+  "reviewed_at": "2025-04-01"
+}

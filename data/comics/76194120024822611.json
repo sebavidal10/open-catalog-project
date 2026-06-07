@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120024822611",
+  "title": "Flash #226",
+  "authors": [
+    "Clem Robins",
+    "James Sinclair",
+    "Joey Cavalieri",
+    "José Ladrönn",
+    "Kathryn Immonen",
+    "Steve Lightle",
+    "Stuart Immonen"
+  ],
+  "publish_date": "2005-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v2-226.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22654/",
+  "fetched_at": "2026-06-07T19:30:21.735Z",
+  "reviewed_at": "2005-11-01"
+}

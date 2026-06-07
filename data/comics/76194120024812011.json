@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120024812011",
+  "title": "Flash #120",
+  "authors": [
+    "Brian Augustyn",
+    "Gaspar Saladino",
+    "John Nyberg",
+    "José Marzán Jr.",
+    "Mark Waid",
+    "Mike Wieringo",
+    "Paul Ryan",
+    "Tom McCraw"
+  ],
+  "publish_date": "1996-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/05/flash-v2-120.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22548/",
+  "fetched_at": "2026-06-07T19:12:28.202Z",
+  "reviewed_at": "1996-12-01"
+}

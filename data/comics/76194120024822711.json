@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120024822711",
+  "title": "Flash #227",
+  "authors": [
+    "Art Thibert",
+    "Harvey Richards",
+    "James Sinclair",
+    "Joey Cavalieri",
+    "John Livesay",
+    "Pat Brosseau",
+    "Stephen Wacker",
+    "Val Semeiks"
+  ],
+  "publish_date": "2005-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v2-227.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22655/",
+  "fetched_at": "2026-06-07T19:30:30.642Z",
+  "reviewed_at": "2005-12-01"
+}

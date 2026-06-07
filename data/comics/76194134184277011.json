@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194134184277011",
+  "title": "The Flash #770",
+  "authors": [
+    "Alex Sinclair",
+    "Bixie Mathieu",
+    "Brandon Peterson",
+    "Brett Booth",
+    "Jackson Herbert",
+    "Jamie S. Rich",
+    "Jeremy Adams",
+    "Jim Lee",
+    "Jonathan Glapion",
+    "Kevin Maguire",
+    "Marie Javins",
+    "Michael Atiyeh",
+    "Mike Cotton",
+    "Steve Wands"
+  ],
+  "publish_date": "2021-05-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/14/flash-770.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30667/",
+  "fetched_at": "2026-06-07T20:09:57.873Z",
+  "reviewed_at": null
+}

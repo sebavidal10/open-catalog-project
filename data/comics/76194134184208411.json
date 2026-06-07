@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134184208411",
+  "title": "The Flash #84",
+  "authors": [
+    "Ben Meares",
+    "Brian Miller",
+    "Christian Duce",
+    "Jamie S. Rich",
+    "Jordi Tarragona Garcia",
+    "Joshua Williamson",
+    "Kenneth Rocafort",
+    "Luis Guerrero",
+    "Paul Kaminski",
+    "Rafa Sandoval",
+    "Steve Wands"
+  ],
+  "publish_date": "2019-12-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/05/flash-84.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7858/",
+  "fetched_at": "2026-06-07T20:05:38.700Z",
+  "reviewed_at": null
+}

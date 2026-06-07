@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194130647602411",
+  "title": "The Flash #24",
+  "authors": [
+    "Brian Buccellato",
+    "Brian Cunningham",
+    "Francis Manapul",
+    "Harvey Richards",
+    "Taylor Esposito",
+    "Wil Moss"
+  ],
+  "publish_date": "2013-10-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-24.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22379/",
+  "fetched_at": "2026-06-07T19:48:43.599Z",
+  "reviewed_at": null
+}

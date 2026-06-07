@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134184275511",
+  "title": "The Flash #755",
+  "authors": [
+    "Alex R. Carr",
+    "Arif Prianto",
+    "Jordi Tarragona Garcia",
+    "Joshua Williamson",
+    "Marquis Draper",
+    "Matteo Scalera",
+    "Mike Cotton",
+    "Rafa Sandoval",
+    "Steve Wands"
+  ],
+  "publish_date": "2020-06-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/06/06/flash-755.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/13595/",
+  "fetched_at": "2026-06-07T20:07:35.335Z",
+  "reviewed_at": null
+}

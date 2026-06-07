@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134184205211",
+  "title": "The Flash #52",
+  "authors": [
+    "Andrew Marino",
+    "Christian Duce",
+    "Dan Mora",
+    "Gabriele Dell'Otto",
+    "Joshua Williamson",
+    "Luis Guerrero",
+    "Marie Javins",
+    "Rebecca Taylor",
+    "Steve Wands"
+  ],
+  "publish_date": "2018-08-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/09/flash-52.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1274/",
+  "fetched_at": "2026-06-07T20:01:23.033Z",
+  "reviewed_at": null
+}

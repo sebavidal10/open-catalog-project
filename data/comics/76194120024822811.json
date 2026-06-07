@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120024822811",
+  "title": "Flash #228",
+  "authors": [
+    "Art Thibert",
+    "Harvey Richards",
+    "James Sinclair",
+    "Joey Cavalieri",
+    "John Livesay",
+    "Pat Brosseau",
+    "Stephen Wacker",
+    "Val Semeiks"
+  ],
+  "publish_date": "2006-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v2-228.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22656/",
+  "fetched_at": "2026-06-07T19:30:40.576Z",
+  "reviewed_at": "2006-01-01"
+}

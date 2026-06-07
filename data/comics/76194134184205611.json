@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134184205611",
+  "title": "The Flash #56",
+  "authors": [
+    "Andrew Marino",
+    "Dan Panosian",
+    "Howard Porter",
+    "Joshua Williamson",
+    "Luis Guerrero",
+    "Marie Javins",
+    "Moreno DiNisio",
+    "Rebecca Taylor",
+    "Scott Kolins",
+    "Steve Wands"
+  ],
+  "publish_date": "2018-10-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/10/flash-56.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1278/",
+  "fetched_at": "2026-06-07T20:01:50.557Z",
+  "reviewed_at": null
+}

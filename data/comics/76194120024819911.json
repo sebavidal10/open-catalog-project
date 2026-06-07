@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120024819911",
+  "title": "Flash #199",
+  "authors": [
+    "Doug Hazlewood",
+    "Geoff Johns",
+    "James Sinclair",
+    "Joey Cavalieri",
+    "Ken Lopez",
+    "Scott Kolins"
+  ],
+  "publish_date": "2003-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/06/flash-v2-199.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22627/",
+  "fetched_at": "2026-06-07T19:26:12.520Z",
+  "reviewed_at": "2003-08-01"
+}

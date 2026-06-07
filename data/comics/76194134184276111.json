@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134184276111",
+  "title": "The Flash #761",
+  "authors": [
+    "Alex R. Carr",
+    "Brian Miller",
+    "Howard Porter",
+    "InHyuk Lee",
+    "Joshua Williamson",
+    "Marquis Draper",
+    "Mike Cotton",
+    "Steve Wands"
+  ],
+  "publish_date": "2020-09-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/04/flash-761.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16878/",
+  "fetched_at": "2026-06-07T20:08:24.078Z",
+  "reviewed_at": null
+}

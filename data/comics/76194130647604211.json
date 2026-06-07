@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130647604211",
+  "title": "The Flash #42",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Dalhouse",
+    "Brett Booth",
+    "Brian Cunningham",
+    "Jorge Corona",
+    "Norm Rapmund",
+    "Pat Brosseau",
+    "Robert Venditti",
+    "Van Jensen"
+  ],
+  "publish_date": "2015-07-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-42.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22400/",
+  "fetched_at": "2026-06-07T19:52:45.955Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Family Way",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "06 Jan 1967",
+  "runtime": "115 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "John Boulting, Roy Boulting",
+  "writer": "Bill Naughton, Roy Boulting, Jeffrey Dell",
+  "actors": "Hayley Mills, Hywel Bennett, Avril Angers",
+  "plot": "Compassionate look at the troubles of two young newlyweds, whose marriage has yet to be consummated.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "6 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYxZDdlYWUtMTg0ZC00MjYwLTg2MGYtYTM3NzMwMjdiYjlhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0060395",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:32:26.496Z"
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194138164000211",
+  "title": "The Flash #2",
+  "authors": [
+    "Björn Barends",
+    "Chris Rosa",
+    "Hassan Otsmane-Elhaou",
+    "James Harren",
+    "Jim Lee",
+    "Marie Javins",
+    "Matthew Taylor",
+    "Mike Deodato",
+    "Paul Kaminski",
+    "Rebecca Bohanan",
+    "Simon Spurrier",
+    "Trish Mulvihill"
+  ],
+  "publish_date": "2023-10-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/09/29/f06c6b66cc404cf4b866e4f68c388272.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/76257/",
+  "fetched_at": "2026-06-07T20:16:11.981Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Batman: The Movie",
+  "year": "1966",
+  "rated": "PG",
+  "released": "30 Jul 1966",
+  "runtime": "105 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Leslie H. Martinson",
+  "writer": "Lorenzo Semple Jr., Bob Kane, William Dozier",
+  "actors": "Adam West, Burt Ward, Lee Meriwether",
+  "plot": "The Dynamic Duo face four super-villains who plan to hold the world for ransom with the help of a secret invention that instantly dehydrates people.",
+  "language": "English, French, German, Hebrew, Japanese, Russian, Spanish, Swahili",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzEyYWZjNTAtNGRhZi00ZjFiLTlhYmQtNzhhYzJiZmMwNGI1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "6.5",
+  "imdbID": "tt0060153",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:31:09.480Z"
+}

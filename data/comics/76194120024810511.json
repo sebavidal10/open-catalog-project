@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120024810511",
+  "title": "Flash #105",
+  "authors": [
+    "Alisande Morales",
+    "Brian Augustyn",
+    "Kevin Cunningham",
+    "Mark Stegbauer",
+    "Mark Waid",
+    "Michael Jan Friedman",
+    "Ron Lim",
+    "Tom McCraw"
+  ],
+  "publish_date": "1995-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/04/flash-v2-105.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22516/",
+  "fetched_at": "2026-06-07T19:10:09.816Z",
+  "reviewed_at": "1995-09-01"
+}

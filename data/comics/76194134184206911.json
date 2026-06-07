@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134184206911",
+  "title": "The Flash #69",
+  "authors": [
+    "Andrew Marino",
+    "Dan Mora",
+    "Jamie S. Rich",
+    "Joshua Williamson",
+    "Luis Guerrero",
+    "Mitch Gerads",
+    "Paul Kaminski",
+    "Scott Kolins",
+    "Steve Wands"
+  ],
+  "publish_date": "2019-04-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/21/flash-69.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2056/",
+  "fetched_at": "2026-06-07T20:03:32.137Z",
+  "reviewed_at": null
+}

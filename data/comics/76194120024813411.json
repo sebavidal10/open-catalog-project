@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120024813411",
+  "title": "Flash #134",
+  "authors": [
+    "Gaspar Saladino",
+    "Grant Morrison",
+    "John Nyberg",
+    "Mark Millar",
+    "Paul Kupperberg",
+    "Paul Ryan",
+    "Steve Lightle",
+    "Tom McCraw"
+  ],
+  "publish_date": "1998-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/05/flash-v2-134.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22562/",
+  "fetched_at": "2026-06-07T19:14:45.111Z",
+  "reviewed_at": "1998-02-01"
+}

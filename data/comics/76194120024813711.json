@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120024813711",
+  "title": "Flash #137",
+  "authors": [
+    "Gaspar Saladino",
+    "Grant Morrison",
+    "John Nyberg",
+    "L. A. Williams",
+    "Mark Millar",
+    "Paul Kupperberg",
+    "Ron Wagner",
+    "Steve Lightle",
+    "Tom McCraw"
+  ],
+  "publish_date": "1998-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/05/flash-v2-137.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22565/",
+  "fetched_at": "2026-06-07T19:15:16.552Z",
+  "reviewed_at": "1998-05-01"
+}

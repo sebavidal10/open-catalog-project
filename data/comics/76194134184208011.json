@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134184208011",
+  "title": "The Flash #80",
+  "authors": [
+    "Howard Porter",
+    "Jamie S. Rich",
+    "Jordi Tarragona Garcia",
+    "Joshua Williamson",
+    "Luis Guerrero",
+    "Paul Kaminski",
+    "Rafa Sandoval",
+    "Rob Levin",
+    "Scott Kolins",
+    "Steve Wands",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2019-10-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/04/flash-80.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6145/",
+  "fetched_at": "2026-06-07T20:04:56.107Z",
+  "reviewed_at": null
+}

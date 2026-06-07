@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130647603111",
+  "title": "The Flash #31",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Dalhouse",
+    "Brett Booth",
+    "Brian Cunningham",
+    "Dezi Sienty",
+    "Laura Allred",
+    "Mike Allred",
+    "Norm Rapmund",
+    "Robert Venditti",
+    "Van Jensen"
+  ],
+  "publish_date": "2014-05-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-31.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22389/",
+  "fetched_at": "2026-06-07T19:50:06.150Z",
+  "reviewed_at": null
+}

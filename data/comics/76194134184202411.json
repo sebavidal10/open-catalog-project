@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134184202411",
+  "title": "The Flash #24",
+  "authors": [
+    "Amedeo Turturro",
+    "Brian Cunningham",
+    "Brian Miller",
+    "Carmine Di Giandomenico",
+    "Howard Porter",
+    "Ivan Plascencia",
+    "Joshua Williamson",
+    "Pop Mhan",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2017-06-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/03/flash-24.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1232/",
+  "fetched_at": "2026-06-07T19:57:47.969Z",
+  "reviewed_at": null
+}

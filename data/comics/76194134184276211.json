@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134184276211",
+  "title": "The Flash #762",
+  "authors": [
+    "Alex R. Carr",
+    "Brian Miller",
+    "Howard Porter",
+    "InHyuk Lee",
+    "Joshua Williamson",
+    "Marquis Draper",
+    "Mike Cotton",
+    "Steve Wands"
+  ],
+  "publish_date": "2020-09-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/19/the-flash_762.webp",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17239/",
+  "fetched_at": "2026-06-07T20:08:28.173Z",
+  "reviewed_at": null
+}

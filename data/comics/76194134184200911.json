@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134184200911",
+  "title": "The Flash #9",
+  "authors": [
+    "Amedeo Turturro",
+    "Brian Cunningham",
+    "Carmine Di Giandomenico",
+    "Dave Johnson",
+    "Ivan Plascencia",
+    "Jorge Corona",
+    "Joshua Williamson",
+    "Steve Wands"
+  ],
+  "publish_date": "2016-10-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/02/flash-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1217/",
+  "fetched_at": "2026-06-07T19:55:35.668Z",
+  "reviewed_at": null
+}

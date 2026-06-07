@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120024820011",
+  "title": "Flash #200",
+  "authors": [
+    "Alberto Carlos Dose",
+    "Doug Hazlewood",
+    "Geoff Johns",
+    "James Sinclair",
+    "Joey Cavalieri",
+    "Ken Lopez",
+    "Scott Kolins"
+  ],
+  "publish_date": "2003-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/06/flash-v2-200.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22628/",
+  "fetched_at": "2026-06-07T19:26:21.223Z",
+  "reviewed_at": "2003-09-01"
+}

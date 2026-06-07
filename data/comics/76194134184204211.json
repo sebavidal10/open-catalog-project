@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134184204211",
+  "title": "The Flash #42",
+  "authors": [
+    "Andrew Marino",
+    "Brian Miller",
+    "Carmine Di Giandomenico",
+    "Danny Miki",
+    "Dan Panosian",
+    "David Finch",
+    "Joshua Williamson",
+    "Marie Javins",
+    "Rebecca Taylor",
+    "Steve Wands",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2018-03-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/09/flash-42.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1264/",
+  "fetched_at": "2026-06-07T20:00:01.088Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "60194704605413011",
+  "title": "Flash Gordon #13",
+  "authors": [
+    "Dan Brown",
+    "David Reyes",
+    "Eder Messias",
+    "Jeremy Adams",
+    "Juan Posada",
+    "Kyle Hotz",
+    "Lee Loughridge",
+    "Sarah Brunstad",
+    "Taylor Esposito",
+    "Tom Derenick",
+    "Will Conrad"
+  ],
+  "publish_date": "2025-11-26",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/30/c6766ee342ed4b0e9a49ea12f65e6247.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152787/",
+  "fetched_at": "2026-06-07T20:22:28.715Z",
+  "reviewed_at": "2025-11-01"
+}

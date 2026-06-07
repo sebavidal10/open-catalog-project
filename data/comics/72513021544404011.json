@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "72513021544404011",
+  "title": "Flash Gordon #4",
+  "authors": [
+    "Evan Shaner",
+    "Jeff Parker",
+    "Jordie Bellaire",
+    "Ken Haeser",
+    "Marc Laming",
+    "Nathan Cosby",
+    "Roberto Castro",
+    "Simon Bowland"
+  ],
+  "publish_date": "2014-08-06",
+  "publisher": [
+    "Dynamite Entertainment"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/02/987cd8ddb1f24bec9b6d113d3500820e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/137285/",
+  "fetched_at": "2026-06-07T19:50:19.722Z",
+  "reviewed_at": "2014-08-01"
+}

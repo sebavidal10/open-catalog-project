@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130647600511",
+  "title": "The Flash #5",
+  "authors": [
+    "Brad Anderson",
+    "Brian Buccellato",
+    "Brian Cunningham",
+    "Darren Shan",
+    "Francis Manapul",
+    "Gary Frank",
+    "Wes Abbott"
+  ],
+  "publish_date": "2012-01-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22360/",
+  "fetched_at": "2026-06-07T19:45:00.275Z",
+  "reviewed_at": null
+}

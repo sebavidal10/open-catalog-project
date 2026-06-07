@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134184203111",
+  "title": "The Flash #31",
+  "authors": [
+    "Brian Cunningham",
+    "Brian Miller",
+    "Gus Vazquez",
+    "Howard Porter",
+    "Ivan Plascencia",
+    "Joshua Williamson",
+    "Neil Googe",
+    "Rebecca Taylor",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2017-09-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/03/flash-31.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1239/",
+  "fetched_at": "2026-06-07T19:58:31.686Z",
+  "reviewed_at": null
+}

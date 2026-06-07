@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194134184278611",
+  "title": "The Flash #786",
+  "authors": [
+    "Alejandro Sánchez",
+    "Amancay Nahuelpan",
+    "Chris Rosa",
+    "Daniel Sampere",
+    "George Kambadais",
+    "Jeremy Adams",
+    "Jeromy Cox",
+    "Jim Lee",
+    "Justin Birch",
+    "Marie Javins",
+    "Paul Kaminski",
+    "Peter Pantazis",
+    "Taurin Clarke"
+  ],
+  "publish_date": "2022-09-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/08/30/flash-786.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/51997/",
+  "fetched_at": "2026-06-07T20:13:08.035Z",
+  "reviewed_at": null
+}

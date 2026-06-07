@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134184205811",
+  "title": "The Flash #58",
+  "authors": [
+    "Andrew Marino",
+    "Jordi Tarragona Garcia",
+    "Joshua Williamson",
+    "Karl Kerschl",
+    "Marie Javins",
+    "Rafa Sandoval",
+    "Rebecca Taylor",
+    "Steve Wands",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2018-11-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/10/flash-58.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1280/",
+  "fetched_at": "2026-06-07T20:02:07.758Z",
+  "reviewed_at": null
+}

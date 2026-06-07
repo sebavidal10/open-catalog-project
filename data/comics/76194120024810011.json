@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194120024810011",
+  "title": "Flash #100",
+  "authors": [
+    "Alisande Morales",
+    "Brian Augustyn",
+    "Carlos Pacheco",
+    "Gaspar Saladino",
+    "José Marzán Jr.",
+    "Mark Waid",
+    "Mike Wieringo",
+    "Oscar Jiménez",
+    "Ruben Diaz",
+    "Salvador Larroca",
+    "Sergio Borjas",
+    "Tom McCraw"
+  ],
+  "publish_date": "1995-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/04/flash-v2-100.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22511/",
+  "fetched_at": "2026-06-07T19:09:09.298Z",
+  "reviewed_at": "1995-04-01"
+}

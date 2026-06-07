@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "75960604240100211",
+  "title": "Flash Gordon #2",
+  "authors": [
+    "Al Williamson",
+    "John Workman",
+    "Mark Schultz",
+    "Tom Daning",
+    "Tom Roberts"
+  ],
+  "publish_date": "1995-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/05/15/c1e66778383e415f9791cddfb8678f81.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/170260/",
+  "fetched_at": "2026-06-07T19:09:45.751Z",
+  "reviewed_at": "1995-07-01"
+}

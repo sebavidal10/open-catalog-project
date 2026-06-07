@@ -1,0 +1,27 @@
+{
+  "title": "Star Pilot",
+  "year": "1966",
+  "rated": "PG",
+  "released": "01 Oct 1977",
+  "runtime": "91 min",
+  "genre": "Adventure, Sci-Fi",
+  "director": "Pietro Francisci",
+  "writer": "Ian Danby, Pietro Francisci, Fernando Paolo Girolami",
+  "actors": "Leonora Ruffo, Mario Novelli, Roland Lesaffre",
+  "plot": "A spaceship from Hydra crashes on Sardinia. Aliens take a scientist, his daughter, technicians and spies hostage to fix their ship. After repairs, aliens abduct the humans but they rebel, sending the ship into deep space.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDVjNWYzZDQtNGI0OS00ZjViLWExYzctZjM2ZDQ1YjU3NDI1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.3",
+  "imdbID": "tt0058859",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:33:32.473Z"
+}

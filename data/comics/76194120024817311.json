@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120024817311",
+  "title": "Flash #173",
+  "authors": [
+    "Brian Bolland",
+    "Digital Chameleon",
+    "Doug Hazlewood",
+    "Gaspar Saladino",
+    "Geoff Johns",
+    "James Sinclair",
+    "Joey Cavalieri",
+    "Scott Kolins"
+  ],
+  "publish_date": "2001-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/06/flash-v2-173.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22601/",
+  "fetched_at": "2026-06-07T19:21:59.286Z",
+  "reviewed_at": "2001-06-01"
+}

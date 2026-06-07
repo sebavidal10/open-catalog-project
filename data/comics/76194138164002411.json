@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194138164002411",
+  "title": "The Flash #24",
+  "authors": [
+    "Alejandro Sánchez",
+    "Bruno Redondo",
+    "Chris Rosa",
+    "Davide Paratore",
+    "Hassan Otsmane-Elhaou",
+    "Jim Lee",
+    "Mahmud A. Asrar",
+    "Marie Javins",
+    "Matt Herms",
+    "Paul Kaminski",
+    "Serg Acuña",
+    "Simon Spurrier",
+    "Vasco Georgiev"
+  ],
+  "publish_date": "2025-08-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/01/77fcba65d74b427e9e589a57f83cf445.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/150999/",
+  "fetched_at": "2026-06-07T20:22:07.311Z",
+  "reviewed_at": null
+}

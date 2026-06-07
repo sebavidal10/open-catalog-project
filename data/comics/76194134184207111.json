@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134184207111",
+  "title": "The Flash #71",
+  "authors": [
+    "Andrew Marino",
+    "Brian Miller",
+    "Derrick Chew",
+    "Howard Porter",
+    "Jamie S. Rich",
+    "Joshua Williamson",
+    "Paul Kaminski"
+  ],
+  "publish_date": "2019-05-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/18/flash-71.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2461/",
+  "fetched_at": "2026-06-07T20:03:45.916Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120024897111",
+  "title": "Flash #97",
+  "authors": [
+    "Brian Augustyn",
+    "Gaspar Saladino",
+    "José Marzán Jr.",
+    "Mark Waid",
+    "Mike Wieringo",
+    "Ruben Diaz",
+    "Salvador Larroca",
+    "Tom McCraw"
+  ],
+  "publish_date": "1995-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/04/flash-v2-97.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22508/",
+  "fetched_at": "2026-06-07T19:08:40.116Z",
+  "reviewed_at": "1995-01-01"
+}

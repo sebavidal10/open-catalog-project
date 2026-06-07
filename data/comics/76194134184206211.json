@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134184206211",
+  "title": "The Flash #62",
+  "authors": [
+    "Andrew Marino",
+    "Christian Duce",
+    "David Yardin",
+    "Joshua Williamson",
+    "June Chung",
+    "Luis Guerrero",
+    "Marie Javins",
+    "Paul Kaminski",
+    "Steve Wands"
+  ],
+  "publish_date": "2019-01-16",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/10/flash-62.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1284/",
+  "fetched_at": "2026-06-07T20:02:39.705Z",
+  "reviewed_at": null
+}

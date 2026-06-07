@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134184275411",
+  "title": "The Flash #754",
+  "authors": [
+    "Alex R. Carr",
+    "Arif Prianto",
+    "Brian Miller",
+    "Jordi Tarragona Garcia",
+    "Joshua Williamson",
+    "Marquis Draper",
+    "Mike Cotton",
+    "Rafael Grampá",
+    "Rafa Sandoval",
+    "Steve Wands"
+  ],
+  "publish_date": "2020-05-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/05/24/flash-754.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/13113/",
+  "fetched_at": "2026-06-07T20:07:17.589Z",
+  "reviewed_at": null
+}

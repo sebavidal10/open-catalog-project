@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134184207011",
+  "title": "The Flash #70",
+  "authors": [
+    "Andrew Marino",
+    "Brian Miller",
+    "Howard Porter",
+    "Jamie S. Rich",
+    "Joshua Williamson",
+    "Paul Kaminski",
+    "Toni Infante"
+  ],
+  "publish_date": "2019-05-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/06/flash-70.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2248/",
+  "fetched_at": "2026-06-07T20:03:41.554Z",
+  "reviewed_at": null
+}

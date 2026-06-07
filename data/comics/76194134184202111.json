@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134184202111",
+  "title": "The Flash #21",
+  "authors": [
+    "Amedeo Turturro",
+    "Brad Anderson",
+    "Brian Cunningham",
+    "Brian Miller",
+    "Howard Porter",
+    "Jason Fabok",
+    "Joshua Williamson",
+    "Mikel Janín",
+    "Steve Wands"
+  ],
+  "publish_date": "2017-04-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/03/flash-21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1229/",
+  "fetched_at": "2026-06-07T19:57:22.062Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194134184277611",
+  "title": "The Flash #776",
+  "authors": [
+    "Brandon Peterson",
+    "Chris Rosa",
+    "Fernando Pasarin",
+    "Ivan Plascencia",
+    "Jeremy Adams",
+    "Jeromy Cox",
+    "Jim Lee",
+    "Jorge Corona",
+    "Marie Javins",
+    "Matt Ryan",
+    "Michael Atiyeh",
+    "Mike Cotton",
+    "Rob Leigh"
+  ],
+  "publish_date": "2021-11-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/11/01/flash-776.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/40257/",
+  "fetched_at": "2026-06-07T20:11:02.538Z",
+  "reviewed_at": null
+}

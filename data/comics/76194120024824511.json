@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194120024824511",
+  "title": "Flash #245",
+  "authors": [
+    "Alan Burnett",
+    "Carlo Barberi",
+    "Drew Geraci",
+    "Eddie Berganza",
+    "Rachel Gluckstern",
+    "Rebecca Buchman",
+    "Richard Horie",
+    "Steve Wands",
+    "Tanya Horie",
+    "Walden Wong"
+  ],
+  "publish_date": "2008-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v2-245.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22675/",
+  "fetched_at": "2026-06-07T19:35:39.267Z",
+  "reviewed_at": "2008-12-01"
+}

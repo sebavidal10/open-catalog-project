@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194120024808411",
+  "title": "Flash #84",
+  "authors": [
+    "Alan Davis",
+    "Barry Kitson",
+    "Brian Augustyn",
+    "Gaspar Saladino",
+    "Gina Going-Raney",
+    "Ian Akin",
+    "José Marzán Jr.",
+    "Ken Branch",
+    "Mark Farmer",
+    "Mark Waid",
+    "Ruben Diaz"
+  ],
+  "publish_date": "1993-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/04/flash-v2-84.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22494/",
+  "fetched_at": "2026-06-07T19:06:26.682Z",
+  "reviewed_at": "1993-11-01"
+}

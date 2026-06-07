@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120024809411",
+  "title": "Flash #94",
+  "authors": [
+    "Brian Augustyn",
+    "Carlos Pacheco",
+    "Gina Going-Raney",
+    "José Marzán Jr.",
+    "Kevin Cunningham",
+    "Mark Waid",
+    "Mike Wieringo",
+    "Ruben Diaz",
+    "Wayne Faucher"
+  ],
+  "publish_date": "1994-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/04/flash-v2-94.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22504/",
+  "fetched_at": "2026-06-07T19:08:01.505Z",
+  "reviewed_at": "1994-09-01"
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120024808711",
+  "title": "Flash #87",
+  "authors": [
+    "Alan Davis",
+    "Brian Augustyn",
+    "Gaspar Saladino",
+    "Gina Going-Raney",
+    "José Marzán Jr.",
+    "Mark Farmer",
+    "Mark Waid",
+    "Mike Wieringo",
+    "Ruben Diaz"
+  ],
+  "publish_date": "1994-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/04/flash-v2-87.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22497/",
+  "fetched_at": "2026-06-07T19:06:56.584Z",
+  "reviewed_at": "1994-02-01"
+}

@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "60194704594100111",
+  "title": "Flash Gordon: Quarterly #1",
+  "authors": [
+    "Buddy Beaudoin",
+    "Charles Pritchett",
+    "Chas! Pangburn",
+    "Dennis Culver",
+    "Filya Bratukhin",
+    "Jason Wordie",
+    "João Lemos",
+    "Jordan Thomas",
+    "Louis Southard",
+    "Lucas Gattoni",
+    "Mark Englert",
+    "Miguel Zapata",
+    "Nuno Plati",
+    "Pasquale Qualano",
+    "Russell Olson",
+    "Stefano Simeone"
+  ],
+  "publish_date": "2024-08-28",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/09/04/flash-gordon-quarterly-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/127191/",
+  "fetched_at": "2026-06-07T20:18:13.327Z",
+  "reviewed_at": "2024-08-01"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121639300111",
+  "title": "Flashpoint #1",
+  "authors": [
+    "Joey Cavalieri",
+    "José Marzán Jr.",
+    "Noelle Giddings",
+    "Norm Breyfogle",
+    "Pat McGreal",
+    "Paul Kupperberg",
+    "Rick Parker",
+    "Stuart Immonen"
+  ],
+  "publish_date": "1999-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/05/12/ca915f2ea3d9463992868058b2424775.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/65111/",
+  "fetched_at": "2026-06-07T19:18:33.770Z",
+  "reviewed_at": "1999-12-01"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "72513021544403011",
+  "title": "Flash Gordon #3",
+  "authors": [
+    "Evan Shaner",
+    "Jeff Parker",
+    "Jordie Bellaire",
+    "Ken Haeser",
+    "Marc Laming",
+    "Nathan Cosby",
+    "Roberto Castro",
+    "Simon Bowland"
+  ],
+  "publish_date": "2014-06-25",
+  "publisher": [
+    "Dynamite Entertainment"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/02/c88e4f71974e4561af7b24be223bb6b9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/137284/",
+  "fetched_at": "2026-06-07T19:49:54.979Z",
+  "reviewed_at": "2014-06-01"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Hero",
+  "year": "1966",
+  "rated": "Not Rated",
+  "released": "06 May 1966",
+  "runtime": "117 min",
+  "genre": "Drama",
+  "director": "Satyajit Ray",
+  "writer": "Satyajit Ray",
+  "actors": "Uttam Kumar, Sharmila Tagore, Bireswar Sen",
+  "plot": "En route to Delhi to receive an award, a Bengali film star reevaluates his success through his fellow passengers, dreams, and past experiences.",
+  "language": "Bengali",
+  "country": "India",
+  "awards": "8 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjNkOWMwMWYtMGExNS00ZGE5LWI0M2UtZjZmMDg2NTk5OTI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.2",
+  "imdbID": "tt0060742",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:33:28.991Z"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120024811711",
+  "title": "Flash #117",
+  "authors": [
+    "Gaspar Saladino",
+    "Jason Hernandez-Rosenblatt",
+    "Jim Cheung",
+    "John Nyberg",
+    "Mark Waid",
+    "Paul Kupperberg",
+    "Steve Lightle",
+    "Tom McCraw"
+  ],
+  "publish_date": "1996-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/05/flash-v2-117.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22545/",
+  "fetched_at": "2026-06-07T19:12:01.373Z",
+  "reviewed_at": "1996-09-01"
+}

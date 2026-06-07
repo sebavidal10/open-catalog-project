@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194134184207511",
+  "title": "The Flash #75",
+  "authors": [
+    "Andrew Marino",
+    "Brian Miller",
+    "Christian Duce",
+    "Francis Manapul",
+    "Howard Porter",
+    "Jamie S. Rich",
+    "Joshua Williamson",
+    "Luis Guerrero",
+    "Paul Kaminski",
+    "Rob Levin",
+    "Scott Kolins",
+    "Steve Wands"
+  ],
+  "publish_date": "2019-07-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/20/flash-75.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3858/",
+  "fetched_at": "2026-06-07T20:04:14.015Z",
+  "reviewed_at": null
+}

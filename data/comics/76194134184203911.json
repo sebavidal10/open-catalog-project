@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134184203911",
+  "title": "The Flash #39",
+  "authors": [
+    "Andrew Marino",
+    "Carmine Di Giandomenico",
+    "Ivan Plascencia",
+    "Joshua Williamson",
+    "Rebecca Taylor",
+    "Steve Wands",
+    "Tomeu Morey",
+    "Tony Daniel"
+  ],
+  "publish_date": "2018-01-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/09/flash-39.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1261/",
+  "fetched_at": "2026-06-07T19:59:31.395Z",
+  "reviewed_at": null
+}

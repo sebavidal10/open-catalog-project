@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "72513021544405011",
+  "title": "Flash Gordon #5",
+  "authors": [
+    "Evan Shaner",
+    "Jeff Parker",
+    "Jordie Bellaire",
+    "Ken Haeser",
+    "Marc Laming",
+    "Nathan Cosby",
+    "Richard Case",
+    "Roberto Castro",
+    "Sandy Jarrell",
+    "Simon Bowland"
+  ],
+  "publish_date": "2014-08-27",
+  "publisher": [
+    "Dynamite Entertainment"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/02/d4b7bcab53e7416790d607f12cd6fbc9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/137286/",
+  "fetched_at": "2026-06-07T19:50:23.762Z",
+  "reviewed_at": "2014-08-01"
+}

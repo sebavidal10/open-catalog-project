@@ -1,0 +1,31 @@
+{
+  "title": "This Property Is Condemned",
+  "year": "1966",
+  "rated": "Unrated",
+  "released": "01 Jul 1967",
+  "runtime": "110 min",
+  "genre": "Drama, Romance",
+  "director": "Sydney Pollack",
+  "writer": "Tennessee Williams, Francis Ford Coppola, Fred Coe",
+  "actors": "Natalie Wood, Robert Redford, Charles Bronson",
+  "plot": "The dramatic love story of small-town Mississippi girl Alva Starr and railroad official Owen Legate, set during the Great Depression.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWVjNTEzYzEtODJkNi00YTRkLTllOTctN2Q3ODVhMzU2MGVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "62%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0061089",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:31:40.413Z"
+}

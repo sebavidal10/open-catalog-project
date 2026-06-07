@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120024820411",
+  "title": "Flash #204",
+  "authors": [
+    "Alberto Carlos Dose",
+    "Geoff Johns",
+    "Harvey Richards",
+    "James Sinclair",
+    "Joey Cavalieri",
+    "Richard Starkings"
+  ],
+  "publish_date": "2004-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v2-204.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22632/",
+  "fetched_at": "2026-06-07T19:26:58.906Z",
+  "reviewed_at": "2004-01-01"
+}

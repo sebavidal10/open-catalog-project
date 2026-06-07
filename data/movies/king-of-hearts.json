@@ -1,0 +1,31 @@
+{
+  "title": "King of Hearts",
+  "year": "1966",
+  "rated": "Not Rated",
+  "released": "19 Jun 1967",
+  "runtime": "102 min",
+  "genre": "Comedy, Drama, War",
+  "director": "Philippe de Broca",
+  "writer": "Daniel Boulanger, Maurice Bessy",
+  "actors": "Alan Bates, Geneviève Bujold, Pierre Brasseur",
+  "plot": "During World War I, a British private, sent ahead to a French town to scout for enemy presence, is mistaken for a King by the colorful patients of an insane asylum.",
+  "language": "French, English, German, Latin",
+  "country": "France, Italy",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTM4OTk1NTAyN15BMl5BanBnXkFtZTcwMjU2NjE2NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0060908",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:30:49.724Z"
+}

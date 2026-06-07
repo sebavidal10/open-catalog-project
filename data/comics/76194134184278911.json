@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134184278911",
+  "title": "The Flash #789",
+  "authors": [
+    "Chris Rosa",
+    "Fernando Pasarin",
+    "George Kambadais",
+    "Jeremy Adams",
+    "Jim Lee",
+    "Marie Javins",
+    "Matt Herms",
+    "Matt Ryan",
+    "Paul Kaminski",
+    "Rob Leigh",
+    "Taurin Clarke"
+  ],
+  "publish_date": "2022-12-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/11/30/flash-789.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/53414/",
+  "fetched_at": "2026-06-07T20:14:02.082Z",
+  "reviewed_at": null
+}

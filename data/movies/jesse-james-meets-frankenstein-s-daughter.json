@@ -1,0 +1,31 @@
+{
+  "title": "Jesse James Meets Frankenstein's Daughter",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "10 Apr 1966",
+  "runtime": "88 min",
+  "genre": "Horror, Sci-Fi, Western",
+  "director": "William Beaudine",
+  "writer": "Carl K. Hittleman",
+  "actors": "John Lupton, Narda Onyx, Cal Bolder",
+  "plot": "Dr. Maria Frankenstein transplants an artificial brain of her own creation into the skull of Jesse James' slow-witted friend Hank Tracy and names him Igor.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjI0MTBiMjMtYzMwMC00YjAzLWExOGItNzhmNGUzYjliZmNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "3.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "14%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "3.4",
+  "imdbID": "tt0060558",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:34:27.085Z"
+}

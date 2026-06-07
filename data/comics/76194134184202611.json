@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134184202611",
+  "title": "The Flash #26",
+  "authors": [
+    "Amedeo Turturro",
+    "Brian Cunningham",
+    "Brian Miller",
+    "Carmine Di Giandomenico",
+    "Howard Porter",
+    "Joshua Williamson",
+    "Steve Wands"
+  ],
+  "publish_date": "2017-07-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/03/flash-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1234/",
+  "fetched_at": "2026-06-07T19:58:00.668Z",
+  "reviewed_at": null
+}

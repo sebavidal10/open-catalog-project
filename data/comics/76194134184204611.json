@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134184204611",
+  "title": "The Flash #46",
+  "authors": [
+    "Andrew Marino",
+    "Dan Panosian",
+    "Francesco Mattina",
+    "Joshua Williamson",
+    "Luis Guerrero",
+    "Marie Javins",
+    "Rebecca Taylor",
+    "Scott Kolins",
+    "Steve Wands"
+  ],
+  "publish_date": "2018-05-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/09/flash-46.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1268/",
+  "fetched_at": "2026-06-07T20:00:37.846Z",
+  "reviewed_at": null
+}

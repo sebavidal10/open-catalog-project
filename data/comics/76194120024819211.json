@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120024819211",
+  "title": "Flash #192",
+  "authors": [
+    "Bill Oakley",
+    "Doug Hazlewood",
+    "Geoff Johns",
+    "James Sinclair",
+    "Joey Cavalieri",
+    "Scott Kolins"
+  ],
+  "publish_date": "2003-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/06/flash-v2-192.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22620/",
+  "fetched_at": "2026-06-07T19:25:09.137Z",
+  "reviewed_at": "2003-01-01"
+}

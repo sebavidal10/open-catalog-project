@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120024823011",
+  "title": "Flash #230",
+  "authors": [
+    "Art Thibert",
+    "Drew Geraci",
+    "Harvey Richards",
+    "James Sinclair",
+    "Joey Cavalieri",
+    "John Livesay",
+    "Pat Brosseau",
+    "Stephen Wacker",
+    "Val Semeiks"
+  ],
+  "publish_date": "2006-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v2-230.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22658/",
+  "fetched_at": "2026-06-07T19:30:57.878Z",
+  "reviewed_at": "2006-03-01"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134184207211",
+  "title": "The Flash #72",
+  "authors": [
+    "Andrew Marino",
+    "Brian Miller",
+    "Derrick Chew",
+    "Howard Porter",
+    "Jamie S. Rich",
+    "Joshua Williamson",
+    "Paul Kaminski",
+    "Steve Wands"
+  ],
+  "publish_date": "2019-06-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/09/flash-72.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2736/",
+  "fetched_at": "2026-06-07T20:03:55.235Z",
+  "reviewed_at": null
+}

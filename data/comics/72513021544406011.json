@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "72513021544406011",
+  "title": "Flash Gordon #6",
+  "authors": [
+    "Blair Smith",
+    "Evan Shaner",
+    "Greg Smallwood",
+    "Jeff Parker",
+    "Jordie Bellaire",
+    "Ken Haeser",
+    "Marc Laming",
+    "Nathan Cosby",
+    "Roberto Castro",
+    "Simon Bowland"
+  ],
+  "publish_date": "2014-10-15",
+  "publisher": [
+    "Dynamite Entertainment"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/02/0319ccf9244346a994ae70bde27c1cf1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/137287/",
+  "fetched_at": "2026-06-07T19:50:45.732Z",
+  "reviewed_at": "2014-10-01"
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134184201011",
+  "title": "The Flash #10",
+  "authors": [
+    "Amedeo Turturro",
+    "Brian Cunningham",
+    "Carmine Di Giandomenico",
+    "Chris Sotomayor",
+    "Dave Johnson",
+    "Felipe Watanabe",
+    "Joshua Williamson",
+    "Oclair Albert",
+    "Steve Wands"
+  ],
+  "publish_date": "2016-11-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/02/flash-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1218/",
+  "fetched_at": "2026-06-07T19:55:49.492Z",
+  "reviewed_at": null
+}

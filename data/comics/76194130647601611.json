@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194130647601611",
+  "title": "The Flash #16",
+  "authors": [
+    "Brian Buccellato",
+    "Carlos M. Mangual",
+    "Chris Conroy",
+    "Francis Manapul",
+    "Matt Idelson"
+  ],
+  "publish_date": "2013-01-30",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22371/",
+  "fetched_at": "2026-06-07T19:47:10.731Z",
+  "reviewed_at": null
+}

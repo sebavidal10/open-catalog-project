@@ -1,0 +1,35 @@
+{
+  "title": "Alfie",
+  "year": "1966",
+  "rated": "PG",
+  "released": "24 Aug 1966",
+  "runtime": "114 min",
+  "genre": "Comedy, Drama",
+  "director": "Lewis Gilbert",
+  "writer": "Bill Naughton",
+  "actors": "Michael Caine, Shelley Winters, Millicent Martin",
+  "plot": "Unrepentant ladies' man Alfie Elkins gradually begins to understand the consequences of his lifestyle in 1960s London.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 5 Oscars. 8 wins & 22 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjI1NGFmODQtNTUyNS00Yzk5LWE1MmMtOWZhODA3ZTY1YzAxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "7.0",
+  "imdbID": "tt0060086",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:31:19.348Z"
+}

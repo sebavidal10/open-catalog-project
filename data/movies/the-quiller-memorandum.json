@@ -1,0 +1,31 @@
+{
+  "title": "The Quiller Memorandum",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "15 Dec 1966",
+  "runtime": "104 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Michael Anderson",
+  "writer": "Elleston Trevor, Harold Pinter",
+  "actors": "George Segal, Alec Guinness, Max von Sydow",
+  "plot": "In the West Berlin of the 1960s, two British agents are killed by a Nazi group, prompting British Intelligence to dispatch agent Quiller to investigate.",
+  "language": "English, German",
+  "country": "United Kingdom",
+  "awards": "Nominated for 3 BAFTA 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmE1MWM0MzMtNzRiMS00NzdiLTg2ZTctMTAzMTJmZjI3YTU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0060880",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:33:25.205Z"
+}

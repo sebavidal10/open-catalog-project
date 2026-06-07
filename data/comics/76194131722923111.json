@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194131722923111",
+  "title": "The Flash #23.1",
+  "authors": [
+    "Brian Buccellato",
+    "Chris Batista",
+    "Francis Manapul",
+    "Joey Cavalieri",
+    "Kyle Andrukiewicz",
+    "Matt Idelson",
+    "Tom Nguyen",
+    "Wes Abbott",
+    "Wes Dzioba"
+  ],
+  "publish_date": "2013-09-04",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-23-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22380/",
+  "fetched_at": "2026-06-07T19:48:26.303Z",
+  "reviewed_at": null
+}

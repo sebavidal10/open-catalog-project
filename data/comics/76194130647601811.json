@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194130647601811",
+  "title": "The Flash #18",
+  "authors": [
+    "Brian Buccellato",
+    "Carlos M. Mangual",
+    "Chris Conroy",
+    "Francis Manapul",
+    "Marcio Takara",
+    "Matt Idelson"
+  ],
+  "publish_date": "2013-03-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22373/",
+  "fetched_at": "2026-06-07T19:47:28.958Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "72513022500902011",
+  "title": "King: Flash Gordon #2",
+  "authors": [
+    "Ben Acker",
+    "Ben Blacker",
+    "Chip Zdarsky",
+    "Felipe Cunha",
+    "Lee Ferguson",
+    "Nathan Cosby",
+    "Omi Remalante Jr.",
+    "Ron Salas",
+    "Simon Bowland",
+    "Wilfredo Torres"
+  ],
+  "publish_date": "2015-03-11",
+  "publisher": [
+    "Dynamite Entertainment"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/11/cd158c707e9847e2b795cafd4be1a72f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/138090/",
+  "fetched_at": "2026-06-07T19:51:51.313Z",
+  "reviewed_at": "2015-03-01"
+}

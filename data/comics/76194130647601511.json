@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130647601511",
+  "title": "The Flash #15",
+  "authors": [
+    "Brian Buccellato",
+    "Carlos M. Mangual",
+    "Chris Conroy",
+    "Francis Manapul",
+    "Ian Herring",
+    "Marcus To",
+    "Matt Idelson",
+    "Ryan Winn"
+  ],
+  "publish_date": "2013-01-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22370/",
+  "fetched_at": "2026-06-07T19:47:02.025Z",
+  "reviewed_at": null
+}

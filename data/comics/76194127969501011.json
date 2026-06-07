@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194127969501011",
+  "title": "The Flash #10",
+  "authors": [
+    "Brian Buccellato",
+    "Brian Cunningham",
+    "Darren Shan",
+    "Ed Benes",
+    "Francis Manapul",
+    "Geoff Johns",
+    "Rob Hunter",
+    "Sal Cipriano"
+  ],
+  "publish_date": "2011-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v3-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22687/",
+  "fetched_at": "2026-06-07T19:39:37.659Z",
+  "reviewed_at": "2011-06-01"
+}

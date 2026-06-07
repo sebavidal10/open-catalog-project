@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134184208511",
+  "title": "The Flash #85",
+  "authors": [
+    "Alex R. Carr",
+    "Ben Meares",
+    "Christian Duce",
+    "Jordi Tarragona Garcia",
+    "Joshua Williamson",
+    "Kaare Andrews",
+    "Luis Guerrero",
+    "Mike Cotton",
+    "Rafa Sandoval",
+    "Steve Wands",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2020-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/12/23/flash-85.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8248/",
+  "fetched_at": "2026-06-07T20:05:53.243Z",
+  "reviewed_at": null
+}

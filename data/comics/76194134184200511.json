@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134184200511",
+  "title": "The Flash #5",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Currie",
+    "Brian Cunningham",
+    "Carmine Di Giandomenico",
+    "Dave Johnson",
+    "Felipe Watanabe",
+    "Ivan Plascencia",
+    "Joshua Williamson",
+    "Oclair Albert",
+    "Steve Wands"
+  ],
+  "publish_date": "2016-08-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/31/flash-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1213/",
+  "fetched_at": "2026-06-07T19:55:04.232Z",
+  "reviewed_at": null
+}

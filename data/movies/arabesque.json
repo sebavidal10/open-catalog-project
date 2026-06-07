@@ -1,0 +1,35 @@
+{
+  "title": "Arabesque",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "18 Aug 1966",
+  "runtime": "105 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Stanley Donen",
+  "writer": "Julian Mitchell, Stanley Price, Peter Stone",
+  "actors": "Gregory Peck, Sophia Loren, Alan Badel",
+  "plot": "International intrigue in London, involving an American university professor, an Arab prime minister, a ruthless businessman, a beautiful spy, and hieroglyphics.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 BAFTA Award2 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzhlYWE1ZmMtOGI3MS00YWVmLTlhYTAtOWQ4NjA2OGQ5YzEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "6.4",
+  "imdbID": "tt0060121",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:31:49.031Z"
+}

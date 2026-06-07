@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "60194704605416011",
+  "title": "Flash Gordon #16",
+  "authors": [
+    "Ceci de la Cruz",
+    "Dan Abnett",
+    "Joe Quinones",
+    "Juan Posada",
+    "Mahmud A. Asrar",
+    "Manuel Garcia",
+    "Matthew Wilson",
+    "Miguel Mercado",
+    "Sarah Brunstad",
+    "Taylor Esposito"
+  ],
+  "publish_date": "2026-05-06",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/03/24/b36c995533a6404db88cb3427ce3feba.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/163956/",
+  "fetched_at": "2026-06-07T20:24:31.085Z",
+  "reviewed_at": "2026-05-01"
+}

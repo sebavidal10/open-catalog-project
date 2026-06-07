@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130647601911",
+  "title": "The Flash #19",
+  "authors": [
+    "Brian Buccellato",
+    "Brian Cunningham",
+    "Carlos M. Mangual",
+    "Francis Manapul",
+    "Harvey Richards",
+    "Marcio Takara",
+    "Sam Viviano",
+    "Wil Moss"
+  ],
+  "publish_date": "2013-04-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22374/",
+  "fetched_at": "2026-06-07T19:47:37.561Z",
+  "reviewed_at": null
+}

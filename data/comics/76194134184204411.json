@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134184204411",
+  "title": "The Flash #44",
+  "authors": [
+    "Andrew Marino",
+    "Carmine Di Giandomenico",
+    "Danny Miki",
+    "David Finch",
+    "Ivan Plascencia",
+    "Joshua Williamson",
+    "Marie Javins",
+    "Rebecca Taylor",
+    "Steve Wands",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2018-04-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/09/flash-44.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1266/",
+  "fetched_at": "2026-06-07T20:00:17.879Z",
+  "reviewed_at": null
+}

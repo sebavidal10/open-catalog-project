@@ -1,0 +1,31 @@
+{
+  "title": "Is Paris Burning?",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "26 Oct 1966",
+  "runtime": "173 min",
+  "genre": "Drama, History, War",
+  "director": "René Clément",
+  "writer": "Larry Collins, Dominique Lapierre, Gore Vidal",
+  "actors": "Jean-Paul Belmondo, Charles Boyer, Leslie Caron",
+  "plot": "August 1944. The Allies are approaching Paris and resistance groups within the city start to plan an uprising against the Germans. However, Hitler wants the city destroyed if it looks like the Allies will take it.",
+  "language": "French, German, English",
+  "country": "France, United States",
+  "awards": "Nominated for 2 Oscars. 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDAyN2M3MjgtNjAxMS00NDc3LWE2ZTMtMzZmOGQyM2JkM2ZkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0060814",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:32:06.755Z"
+}

@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194130647601411",
+  "title": "The Flash #14",
+  "authors": [
+    "Brian Buccellato",
+    "Chris Conroy",
+    "Francis Manapul",
+    "Matt Idelson",
+    "Wes Abbott"
+  ],
+  "publish_date": "2012-11-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22369/",
+  "fetched_at": "2026-06-07T19:46:51.378Z",
+  "reviewed_at": null
+}

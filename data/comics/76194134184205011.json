@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134184205011",
+  "title": "The Flash #50",
+  "authors": [
+    "Andrew Marino",
+    "Brian Miller",
+    "Francesco Mattina",
+    "Howard Porter",
+    "Joshua Williamson",
+    "Marie Javins",
+    "Rebecca Taylor",
+    "Steve Wands"
+  ],
+  "publish_date": "2018-07-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/09/flash-50.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1272/",
+  "fetched_at": "2026-06-07T20:01:05.598Z",
+  "reviewed_at": null
+}

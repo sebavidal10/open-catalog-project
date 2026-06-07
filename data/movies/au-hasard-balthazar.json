@@ -1,0 +1,35 @@
+{
+  "title": "Au hasard Balthazar",
+  "year": "1966",
+  "rated": "Not Rated",
+  "released": "25 May 1966",
+  "runtime": "95 min",
+  "genre": "Drama",
+  "director": "Robert Bresson",
+  "writer": "Robert Bresson",
+  "actors": "Anne Wiazemsky, Walter Green, François Lafarge",
+  "plot": "The story of a mistreated donkey and the people around him. A study on saintliness and a sister piece to Bresson's Mouchette.",
+  "language": "French, Latin",
+  "country": "France, Sweden",
+  "awards": "7 wins & 2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTE0OGQyNjQtYTQ2MC00Y2FjLWFmNTMtODRkMmRmYmM4MTM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "98/100"
+    }
+  ],
+  "metascore": "98",
+  "imdbRating": "7.7",
+  "imdbID": "tt0060138",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:30:46.006Z"
+}

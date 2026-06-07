@@ -1,0 +1,35 @@
+{
+  "title": "El Dorado",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "30 Jun 1967",
+  "runtime": "126 min",
+  "genre": "Drama, Romance, Western",
+  "director": "Howard Hawks",
+  "writer": "Leigh Brackett, Harry Brown",
+  "actors": "John Wayne, Robert Mitchum, James Caan",
+  "plot": "Cole Thornton, a gunfighter for hire, joins forces with old friend, Sheriff J.P. Hara. Together with an old Indian fighter and a gambler, they help a rancher and his family fight a rival rancher who's trying to steal their water.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTZjMGE5NTktMjkxZi00NDRhLWJmYzMtMTA3OTY2ZTcyNjIzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "7.5",
+  "imdbID": "tt0061619",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:30:58.373Z"
+}

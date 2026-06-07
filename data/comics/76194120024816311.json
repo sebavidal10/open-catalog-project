@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120024816311",
+  "title": "Flash #163",
+  "authors": [
+    "Doug Hazlewood",
+    "Gaspar Saladino",
+    "Joey Cavalieri",
+    "Pat McGreal",
+    "Ron Lim",
+    "Steve Lightle",
+    "Tom McCraw"
+  ],
+  "publish_date": "2000-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/06/flash-v2-163.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22591/",
+  "fetched_at": "2026-06-07T19:20:23.235Z",
+  "reviewed_at": "2000-08-01"
+}

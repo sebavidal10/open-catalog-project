@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "60194704605406011",
+  "title": "Flash Gordon #6",
+  "authors": [
+    "Alexandra Colorado",
+    "Chas! Pangburn",
+    "Cliff Richards",
+    "David Reyes",
+    "Jeremy Adams",
+    "Lee Loughridge",
+    "Nelson Dániel",
+    "Sarah Brunstad",
+    "Taylor Esposito",
+    "Will Conrad",
+    "Zach Howard"
+  ],
+  "publish_date": "2025-02-19",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/12/20/2b3ac302a740478891f399d91121e39c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/133021/",
+  "fetched_at": "2026-06-07T20:19:41.658Z",
+  "reviewed_at": "2025-02-01"
+}

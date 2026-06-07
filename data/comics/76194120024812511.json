@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194120024812511",
+  "title": "Flash #125",
+  "authors": [
+    "Brian Augustyn",
+    "Gaspar Saladino",
+    "Howard Porter",
+    "Jason Hernandez-Rosenblatt",
+    "John Nyberg",
+    "José Marzán Jr.",
+    "Mark Waid",
+    "Paul Kupperberg",
+    "Paul Ryan",
+    "Tom McCraw"
+  ],
+  "publish_date": "1997-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/05/flash-v2-125.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22553/",
+  "fetched_at": "2026-06-07T19:13:18.275Z",
+  "reviewed_at": "1997-05-01"
+}

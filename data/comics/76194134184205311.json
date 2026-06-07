@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134184205311",
+  "title": "The Flash #53",
+  "authors": [
+    "Andrew Marino",
+    "Christian Duce",
+    "Dan Mora",
+    "Jonboy Meyers",
+    "Joshua Williamson",
+    "Luis Guerrero",
+    "Marie Javins",
+    "Rebecca Taylor",
+    "Steve Wands"
+  ],
+  "publish_date": "2018-08-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/09/flash-53.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1275/",
+  "fetched_at": "2026-06-07T20:01:27.411Z",
+  "reviewed_at": null
+}

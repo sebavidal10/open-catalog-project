@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130647603211",
+  "title": "The Flash #32",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Dalhouse",
+    "Ant Lucia",
+    "Brett Booth",
+    "Brian Cunningham",
+    "Dezi Sienty",
+    "Norm Rapmund",
+    "Robert Venditti",
+    "Van Jensen"
+  ],
+  "publish_date": "2014-06-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-32.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22390/",
+  "fetched_at": "2026-06-07T19:50:15.359Z",
+  "reviewed_at": null
+}

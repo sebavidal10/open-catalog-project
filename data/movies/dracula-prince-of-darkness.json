@@ -1,0 +1,31 @@
+{
+  "title": "Dracula: Prince of Darkness",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "12 Jan 1966",
+  "runtime": "90 min",
+  "genre": "Horror",
+  "director": "Terence Fisher",
+  "writer": "Jimmy Sangster, Anthony Hinds, Bram Stoker",
+  "actors": "Christopher Lee, Barbara Shelley, Andrew Keir",
+  "plot": "Ten years after his demise, Count Dracula is resurrected by his servant and preys on four unsuspecting English tourists who have taken shelter in his castle.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWJlNTA5YTctNWNkMC00ZDk0LWI3ZmQtZDc2OWU1MzEyYTZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0059127",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:31:42.871Z"
+}

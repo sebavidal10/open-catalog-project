@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "60194704605405011",
+  "title": "Flash Gordon #5",
+  "authors": [
+    "Alexandra Colorado",
+    "Chas! Pangburn",
+    "Cliff Richards",
+    "David Reyes",
+    "Frazer Irving",
+    "Jeremy Adams",
+    "Lee Loughridge",
+    "Taylor Esposito",
+    "Will Conrad"
+  ],
+  "publish_date": "2025-01-08",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/12/20/2e8b243d89974675bf658eb6a424257b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/133020/",
+  "fetched_at": "2026-06-07T20:19:28.991Z",
+  "reviewed_at": "2025-01-01"
+}

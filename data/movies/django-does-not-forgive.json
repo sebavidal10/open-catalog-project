@@ -1,0 +1,27 @@
+{
+  "title": "Django Does Not Forgive",
+  "year": "1966",
+  "rated": "N/A",
+  "released": "26 Mar 1966",
+  "runtime": "95 min",
+  "genre": "Western",
+  "director": "Julio Buchs",
+  "writer": "Julio Buchs, José Luis Martínez Mollá, Bautista Lacasa Nebot",
+  "actors": "Hugo Blanco, John Clark, Gustavo Rojo",
+  "plot": "Peter returns home and finds out his sister committed suicide because a man from the Mounted Police seduced and left her. Peter starts searching for him at Fort Pit, to take his revenge.",
+  "language": "Spanish",
+  "country": "Spain",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjc0YTZhYjUtMTI3Yy00ZWRhLThhNGItZjM0MTI2NTUyZjBmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0060690",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:41:52.193Z"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134184205511",
+  "title": "The Flash #55",
+  "authors": [
+    "Andrew Marino",
+    "Dan Mora",
+    "Howard Porter",
+    "Joshua Williamson",
+    "Luis Guerrero",
+    "Marie Javins",
+    "Rebecca Taylor",
+    "Scott Kolins",
+    "Steve Wands",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2018-09-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/09/flash-55.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1277/",
+  "fetched_at": "2026-06-07T20:01:41.312Z",
+  "reviewed_at": null
+}

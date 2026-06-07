@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194134184276811",
+  "title": "The Flash #768",
+  "authors": [
+    "Arif Prianto",
+    "Bixie Mathieu",
+    "Brandon Peterson",
+    "David Lafuente",
+    "Ian MacDonald",
+    "Jamie S. Rich",
+    "Jeremy Adams",
+    "Jim Lee",
+    "Luis Guerrero",
+    "Marco Santucci",
+    "Marie Javins",
+    "Michael Atiyeh",
+    "Mike Cotton",
+    "Steve Wands"
+  ],
+  "publish_date": "2021-03-30",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/25/flash-768.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/27919/",
+  "fetched_at": "2026-06-07T20:09:39.446Z",
+  "reviewed_at": null
+}

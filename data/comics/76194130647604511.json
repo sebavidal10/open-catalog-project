@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130647604511",
+  "title": "The Flash #45",
+  "authors": [
+    "Alé Garza",
+    "Amedeo Turturro",
+    "Andrew Dalhouse",
+    "Brett Booth",
+    "Brian Cunningham",
+    "Gustavo Duarte",
+    "Norm Rapmund",
+    "Pat Brosseau",
+    "Robert Venditti",
+    "Van Jensen"
+  ],
+  "publish_date": "2015-10-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-45.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22403/",
+  "fetched_at": "2026-06-07T19:53:16.609Z",
+  "reviewed_at": null
+}

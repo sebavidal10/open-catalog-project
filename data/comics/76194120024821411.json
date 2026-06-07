@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120024821411",
+  "title": "Flash #214",
+  "authors": [
+    "Ethan Van Sciver",
+    "Geoff Johns",
+    "Harvey Richards",
+    "Howard Porter",
+    "James Sinclair",
+    "Joey Cavalieri",
+    "John Livesay",
+    "Pat Brosseau"
+  ],
+  "publish_date": "2004-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v2-214.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22642/",
+  "fetched_at": "2026-06-07T19:28:27.458Z",
+  "reviewed_at": "2004-11-01"
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194134184206611",
+  "title": "The Flash #66",
+  "authors": [
+    "Andrew Marino",
+    "Brennan Wagner",
+    "Jordi Tarragona Garcia",
+    "Joshua Williamson",
+    "Luis Guerrero",
+    "Marie Javins",
+    "Paul Kaminski",
+    "Rafa Sandoval",
+    "Scott Kolins",
+    "Steve Wands",
+    "Tim Sale",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2019-03-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/03/11/flash-66.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1507/",
+  "fetched_at": "2026-06-07T20:03:14.111Z",
+  "reviewed_at": null
+}

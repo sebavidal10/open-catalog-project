@@ -1,0 +1,35 @@
+{
+  "title": "Harper",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "30 Mar 1966",
+  "runtime": "121 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Jack Smight",
+  "writer": "William Goldman, Ross Macdonald",
+  "actors": "Paul Newman, Lauren Bacall, Julie Harris",
+  "plot": "Cool private investigator Lew Harper is hired by a wealthy California matron to locate her kidnapped husband.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2FmYTU4ZWYtM2Y5Yy00Y2ZmLWFkMDEtOTNjNGQ3MzFjZDk3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "6.8",
+  "imdbID": "tt0060490",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:31:05.778Z"
+}

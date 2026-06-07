@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134184275111",
+  "title": "The Flash #751",
+  "authors": [
+    "Alex R. Carr",
+    "Brian Miller",
+    "Christian Duce",
+    "Howard Porter",
+    "Joshua Williamson",
+    "Jung-Geun Yoon",
+    "Luis Guerrero",
+    "Marquis Draper",
+    "Mike Cotton",
+    "Steve Wands"
+  ],
+  "publish_date": "2020-03-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/03/05/flash-751.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/10088/",
+  "fetched_at": "2026-06-07T20:06:36.832Z",
+  "reviewed_at": null
+}

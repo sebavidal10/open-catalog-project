@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134184203711",
+  "title": "The Flash #37",
+  "authors": [
+    "Andrew Marino",
+    "Barry Kitson",
+    "Brian Miller",
+    "Howard Porter",
+    "Joshua Williamson",
+    "Mick Gray",
+    "Rebecca Taylor",
+    "Scott McDaniel",
+    "Steve Wands"
+  ],
+  "publish_date": "2018-12-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/09/flash-37.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1259/",
+  "fetched_at": "2026-06-07T19:59:17.920Z",
+  "reviewed_at": "2018-12-01"
+}

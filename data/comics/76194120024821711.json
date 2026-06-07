@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120024821711",
+  "title": "Flash #217",
+  "authors": [
+    "Geoff Johns",
+    "Howard Porter",
+    "James Sinclair",
+    "Joey Cavalieri",
+    "John Livesay",
+    "Pat Brosseau",
+    "Rachel Gluckstern"
+  ],
+  "publish_date": "2005-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v2-217.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22645/",
+  "fetched_at": "2026-06-07T19:28:53.671Z",
+  "reviewed_at": "2005-02-01"
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134184201211",
+  "title": "The Flash #12",
+  "authors": [
+    "Amedeo Turturro",
+    "Brian Cunningham",
+    "Carmine Di Giandomenico",
+    "Chris Sotomayor",
+    "Dave Johnson",
+    "Davide Gianfelice",
+    "Ivan Plascencia",
+    "Joshua Williamson",
+    "Steve Wands"
+  ],
+  "publish_date": "2016-12-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/02/flash-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1220/",
+  "fetched_at": "2026-06-07T19:56:06.901Z",
+  "reviewed_at": null
+}

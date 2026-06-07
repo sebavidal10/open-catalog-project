@@ -1,0 +1,35 @@
+{
+  "title": "Fantastic Voyage",
+  "year": "1966",
+  "rated": "PG",
+  "released": "23 Sep 1966",
+  "runtime": "100 min",
+  "genre": "Adventure, Sci-Fi",
+  "director": "Richard Fleischer",
+  "writer": "Harry Kleiner, David Duncan, Otto Klement",
+  "actors": "Stephen Boyd, Raquel Welch, Edmond O'Brien",
+  "plot": "When a blood clot renders a scientist comatose, a submarine and its crew are shrunk and injected into his bloodstream in order to save him.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 4 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzAyYTEwYzctZTI4My00N2IwLWIzZGYtMWQyNWQwOGJiMzhmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "metascore": "72",
+  "imdbRating": "6.8",
+  "imdbID": "tt0060397",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:31:11.938Z"
+}

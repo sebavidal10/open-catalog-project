@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120024821811",
+  "title": "Flash #218",
+  "authors": [
+    "Geoff Johns",
+    "Howard Porter",
+    "James Sinclair",
+    "Joey Cavalieri",
+    "John Livesay",
+    "Michael Siglain",
+    "Pat Brosseau",
+    "Peter Snejbjerg"
+  ],
+  "publish_date": "2005-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v2-218.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22646/",
+  "fetched_at": "2026-06-07T19:29:03.090Z",
+  "reviewed_at": "2005-03-01"
+}

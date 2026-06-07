@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134184200811",
+  "title": "The Flash #8",
+  "authors": [
+    "Amedeo Turturro",
+    "Brian Cunningham",
+    "Carmine Di Giandomenico",
+    "Dave Johnson",
+    "Ivan Plascencia",
+    "Joshua Williamson",
+    "Steve Wands"
+  ],
+  "publish_date": "2016-10-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/02/flash-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1216/",
+  "fetched_at": "2026-06-07T19:55:31.515Z",
+  "reviewed_at": null
+}

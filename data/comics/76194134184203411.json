@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134184203411",
+  "title": "The Flash #34",
+  "authors": [
+    "Andrew Marino",
+    "Brian Cunningham",
+    "Ivan Plascencia",
+    "Joshua Williamson",
+    "Michael Moreci",
+    "Mike McKone",
+    "Neil Googe",
+    "Pop Mhan",
+    "Rebecca Taylor",
+    "Romulo Fajardo Jr.",
+    "Steve Wands"
+  ],
+  "publish_date": "2017-11-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/08/flash-34.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1256/",
+  "fetched_at": "2026-06-07T19:59:00.482Z",
+  "reviewed_at": null
+}

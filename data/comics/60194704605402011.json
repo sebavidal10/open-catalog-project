@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "60194704605402011",
+  "title": "Flash Gordon #2",
+  "authors": [
+    "Chas! Pangburn",
+    "David Reyes",
+    "Frazer Irving",
+    "Jeremy Adams",
+    "Lee Loughridge",
+    "Taylor Esposito",
+    "Will Conrad"
+  ],
+  "publish_date": "2024-09-04",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/07/25/d267d4ffc6724d04b83beeab98f712ec.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/125210/",
+  "fetched_at": "2026-06-07T20:18:26.944Z",
+  "reviewed_at": "2024-09-01"
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134184201711",
+  "title": "The Flash #17",
+  "authors": [
+    "Amedeo Turturro",
+    "Brian Cunningham",
+    "Brian Miller",
+    "Carmine Di Giandomenico",
+    "Chris Sotomayor",
+    "Davide Gianfelice",
+    "Howard Porter",
+    "Ivan Plascencia",
+    "Joshua Williamson",
+    "Neil Googe",
+    "Steve Wands"
+  ],
+  "publish_date": "2017-02-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/03/flash-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1225/",
+  "fetched_at": "2026-06-07T19:56:51.444Z",
+  "reviewed_at": null
+}

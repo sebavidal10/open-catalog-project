@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "60194704605415011",
+  "title": "Flash Gordon #15",
+  "authors": [
+    "Dan Brown",
+    "David Reyes",
+    "Eder Messias",
+    "Jeremy Adams",
+    "Juan Posada",
+    "Kyle Hotz",
+    "Lee Loughridge",
+    "Sarah Brunstad",
+    "Taylor Esposito",
+    "Tom Derenick",
+    "Will Conrad"
+  ],
+  "publish_date": "2026-02-04",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/06/a905aa20daaa4531a4c2da62211017c6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/159955/",
+  "fetched_at": "2026-06-07T20:23:35.275Z",
+  "reviewed_at": "2026-02-01"
+}

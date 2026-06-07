@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194121639300211",
+  "title": "Flashpoint #2",
+  "authors": [
+    "Heroic Age",
+    "Joey Cavalieri",
+    "José Marzán Jr.",
+    "Noelle Giddings",
+    "Norm Breyfogle",
+    "Pat McGreal",
+    "Paul Kupperberg",
+    "Rick Parker",
+    "Stuart Immonen"
+  ],
+  "publish_date": "2000-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/05/12/7d9ccd1966c5473db17dd58308b8fc35.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/65112/",
+  "fetched_at": "2026-06-07T19:18:51.792Z",
+  "reviewed_at": "2000-01-01"
+}

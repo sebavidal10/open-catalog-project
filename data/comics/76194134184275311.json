@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134184275311",
+  "title": "The Flash #753",
+  "authors": [
+    "Alex R. Carr",
+    "Brandon Peterson",
+    "Brian Miller",
+    "Howard Porter",
+    "Joshua Williamson",
+    "Jung-Geun Yoon",
+    "Marquis Draper",
+    "Mike Cotton",
+    "Steve Wands"
+  ],
+  "publish_date": "2020-05-05",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/05/05/flash-753.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/12236/",
+  "fetched_at": "2026-06-07T20:06:55.618Z",
+  "reviewed_at": null
+}

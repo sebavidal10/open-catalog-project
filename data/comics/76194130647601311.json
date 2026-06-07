@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194130647601311",
+  "title": "The Flash #13",
+  "authors": [
+    "Brian Buccellato",
+    "Chris Conroy",
+    "Francis Manapul",
+    "Ian Herring",
+    "Matt Idelson",
+    "Wes Abbott"
+  ],
+  "publish_date": "2012-10-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22368/",
+  "fetched_at": "2026-06-07T19:46:41.651Z",
+  "reviewed_at": null
+}

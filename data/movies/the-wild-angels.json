@@ -1,0 +1,31 @@
+{
+  "title": "The Wild Angels",
+  "year": "1966",
+  "rated": "R",
+  "released": "20 Jul 1966",
+  "runtime": "93 min",
+  "genre": "Action, Drama, Thriller",
+  "director": "Roger Corman",
+  "writer": "Charles B. Griffith, Peter Bogdanovich",
+  "actors": "Peter Fonda, Nancy Sinatra, Bruce Dern",
+  "plot": "The \"Angels\", a San Pedro motorcycle gang, party their way through the Coachella Valley while searching for a bike stolen from them by Mexicans, clashing with police along the way.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTBmOWRkM2YtMDFjNC00NThiLWEwMDYtYjc5ZTFhZTRmZmY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "59%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0061189",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:32:58.542Z"
+}

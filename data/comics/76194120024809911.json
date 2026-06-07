@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194120024809911",
+  "title": "Flash #99",
+  "authors": [
+    "Alisande Morales",
+    "Brian Augustyn",
+    "Carlos Pacheco",
+    "José Marzán Jr.",
+    "Kevin Cunningham",
+    "Mark Waid",
+    "Mike Wieringo",
+    "Ruben Diaz",
+    "Salvador Larroca",
+    "Tom McCraw"
+  ],
+  "publish_date": "1995-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/04/flash-v2-99.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22510/",
+  "fetched_at": "2026-06-07T19:08:57.827Z",
+  "reviewed_at": "1995-03-01"
+}

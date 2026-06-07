@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194130647602011",
+  "title": "The Flash #20",
+  "authors": [
+    "Brian Buccellato",
+    "Brian Cunningham",
+    "Carlos M. Mangual",
+    "Francis Manapul",
+    "Harvey Richards",
+    "Wil Moss"
+  ],
+  "publish_date": "2013-05-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22375/",
+  "fetched_at": "2026-06-07T19:47:46.030Z",
+  "reviewed_at": null
+}

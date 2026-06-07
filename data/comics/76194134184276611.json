@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134184276611",
+  "title": "The Flash #766",
+  "authors": [
+    "Alex R. Carr",
+    "Bernard Chang",
+    "Brian Miller",
+    "InHyuk Lee",
+    "Kevin Shinick",
+    "Marcelo Maiolo",
+    "Marquis Draper",
+    "Mike Cotton",
+    "Steve Wands",
+    "Will Conrad"
+  ],
+  "publish_date": "2020-11-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/18/flash-766.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19453/",
+  "fetched_at": "2026-06-07T20:08:58.275Z",
+  "reviewed_at": null
+}

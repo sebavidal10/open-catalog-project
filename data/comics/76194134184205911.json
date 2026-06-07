@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134184205911",
+  "title": "The Flash #59",
+  "authors": [
+    "Andrew Marino",
+    "Jordi Tarragona Garcia",
+    "Joshua Williamson",
+    "Karl Kerschl",
+    "Marie Javins",
+    "Rafa Sandoval",
+    "Rebecca Taylor",
+    "Scott Hanna",
+    "Steve Wands",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2018-11-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/10/flash-59.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1281/",
+  "fetched_at": "2026-06-07T20:02:12.568Z",
+  "reviewed_at": null
+}

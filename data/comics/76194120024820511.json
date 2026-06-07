@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120024820511",
+  "title": "Flash #205",
+  "authors": [
+    "Alberto Carlos Dose",
+    "Comicraft",
+    "Geoff Johns",
+    "Howard Porter",
+    "James Sinclair",
+    "Joey Cavalieri",
+    "John Livesay"
+  ],
+  "publish_date": "2004-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v2-205.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22633/",
+  "fetched_at": "2026-06-07T19:27:07.532Z",
+  "reviewed_at": "2004-02-01"
+}

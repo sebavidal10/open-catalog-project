@@ -1,0 +1,31 @@
+{
+  "title": "The Oscar",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "08 Jul 1966",
+  "runtime": "119 min",
+  "genre": "Drama",
+  "director": "Russell Rouse",
+  "writer": "Richard Sale, Harlan Ellison, Russell Rouse",
+  "actors": "Stephen Boyd, Elke Sommer, Milton Berle",
+  "plot": "Arrogant Hollywood actor Frankie Fane is nominated for the Best Actor Academy Award. His friend Hymie Kelly recalls their life together, Frankie's ruthless struggle to the top, and the people Frankie has used and abused to get there.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmY5YzQ4NDEtNzZmYS00YzUwLTg0NmYtN2FmYjkwNmYwYTYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "12%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0060801",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:33:12.101Z"
+}

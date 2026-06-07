@@ -1,0 +1,31 @@
+{
+  "title": "Thunderbirds Are GO",
+  "year": "1966",
+  "rated": "G",
+  "released": "12 Dec 1966",
+  "runtime": "93 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "David Lane",
+  "writer": "Gerry Anderson, Sylvia Anderson",
+  "actors": "Sylvia Anderson, Ray Barrett, Alexander Davion",
+  "plot": "When the launch of the first manned mission to Mars goes awry due to sabotage, International Rescue is requested to assist in the mission's second attempt.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjFhMTEwZTUtMTA1My00NTJlLWI0YjEtYWZhYjZjMzJjZjNkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0061094",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:33:14.564Z"
+}

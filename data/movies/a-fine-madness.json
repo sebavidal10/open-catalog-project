@@ -1,0 +1,35 @@
+{
+  "title": "A Fine Madness",
+  "year": "1966",
+  "rated": "Not Rated",
+  "released": "23 Sep 1966",
+  "runtime": "104 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Irvin Kershner",
+  "writer": "Elliott Baker",
+  "actors": "Sean Connery, Joanne Woodward, Jean Seberg",
+  "plot": "Samson Shillitoe, mad genius of a poet irresistible to women, but plagued by writer's block, agrees to see a psychiatrist, and his beautiful wife.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWJhMTYwOTEtYTliNS00ZDgzLWI2ZmUtYWVjMzI0NjdjMzFkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "5.6",
+  "imdbID": "tt0060414",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:32:48.688Z"
+}

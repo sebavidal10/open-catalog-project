@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134184204111",
+  "title": "The Flash #41",
+  "authors": [
+    "Andrew Marino",
+    "Carlos D'Anda",
+    "Carmine Di Giandomenico",
+    "Howard Porter",
+    "Ivan Plascencia",
+    "Joshua Williamson",
+    "Luis Guerrero",
+    "Marie Javins",
+    "Rebecca Taylor",
+    "Steve Wands"
+  ],
+  "publish_date": "2018-02-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/09/flash-41.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1263/",
+  "fetched_at": "2026-06-07T19:59:52.340Z",
+  "reviewed_at": null
+}

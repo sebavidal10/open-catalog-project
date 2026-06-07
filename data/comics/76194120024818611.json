@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120024818611",
+  "title": "Flash #186",
+  "authors": [
+    "Brian Bolland",
+    "Digital Chameleon",
+    "Doug Hazlewood",
+    "Gaspar Saladino",
+    "Geoff Johns",
+    "James Sinclair",
+    "Joey Cavalieri",
+    "Scott Kolins"
+  ],
+  "publish_date": "2002-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/06/flash-v2-186.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22614/",
+  "fetched_at": "2026-06-07T19:24:12.816Z",
+  "reviewed_at": "2002-07-01"
+}

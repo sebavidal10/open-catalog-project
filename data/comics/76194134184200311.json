@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134184200311",
+  "title": "The Flash #3",
+  "authors": [
+    "Amedeo Turturro",
+    "Brian Cunningham",
+    "Carmine Di Giandomenico",
+    "Dave Johnson",
+    "Ivan Plascencia",
+    "Joshua Williamson",
+    "Steve Wands"
+  ],
+  "publish_date": "2016-07-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/31/flash-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1210/",
+  "fetched_at": "2026-06-07T19:54:48.670Z",
+  "reviewed_at": null
+}

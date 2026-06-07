@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120024810111",
+  "title": "Flash #101",
+  "authors": [
+    "Alisande Morales",
+    "Brian Augustyn",
+    "Gaspar Saladino",
+    "José Marzán Jr.",
+    "Mark Waid",
+    "Oscar Jiménez",
+    "Ruben Diaz",
+    "Tom McCraw"
+  ],
+  "publish_date": "1995-05-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/04/flash-v2-101.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22512/",
+  "fetched_at": "2026-06-07T19:09:19.395Z",
+  "reviewed_at": "1995-05-01"
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194137624000111",
+  "title": "The Flash: The Fastest Man Alive #1",
+  "authors": [
+    "Andrew Marino",
+    "Ben Meares",
+    "Jim Lee",
+    "Jorge Corona",
+    "Juan Ferreyra",
+    "Katie Kubert",
+    "Kenny Porter",
+    "Marie Javins",
+    "Max Fiumara",
+    "Ricardo López Ortiz",
+    "Romulo Fajardo Jr.",
+    "Sarah Stern",
+    "Steve Wands"
+  ],
+  "publish_date": "2022-09-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/08/22/flash-fastest-man-1.webp",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/51801/",
+  "fetched_at": "2026-06-07T20:13:16.744Z",
+  "reviewed_at": null
+}

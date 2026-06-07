@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134184202311",
+  "title": "The Flash #23",
+  "authors": [
+    "Amedeo Turturro",
+    "Brian Cunningham",
+    "Brian Miller",
+    "Carmine Di Giandomenico",
+    "Howard Porter",
+    "Ivan Plascencia",
+    "Joshua Williamson",
+    "Steve Wands"
+  ],
+  "publish_date": "2017-05-31",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/03/flash-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1231/",
+  "fetched_at": "2026-06-07T19:57:35.164Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134184276511",
+  "title": "The Flash #765",
+  "authors": [
+    "Alex R. Carr",
+    "Bernard Chang",
+    "Brian Miller",
+    "InHyuk Lee",
+    "Kevin Shinick",
+    "Marcelo Maiolo",
+    "Marquis Draper",
+    "Mike Cotton",
+    "Sami Basri",
+    "Steve Wands",
+    "Will Conrad"
+  ],
+  "publish_date": "2020-11-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/04/flash-765.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18847/",
+  "fetched_at": "2026-06-07T20:08:53.471Z",
+  "reviewed_at": null
+}

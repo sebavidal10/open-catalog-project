@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194127969501211",
+  "title": "The Flash #12",
+  "authors": [
+    "Adam Schlagman",
+    "Brian Buccellato",
+    "Brian Cunningham",
+    "Darren Shan",
+    "Francis Manapul",
+    "Francis Portela",
+    "Geoff Johns",
+    "Javier Mena",
+    "Michael Atiyeh",
+    "Sal Cipriano",
+    "Scott Kolins"
+  ],
+  "publish_date": "2011-05-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v3-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22689/",
+  "fetched_at": "2026-06-07T19:39:51.948Z",
+  "reviewed_at": null
+}

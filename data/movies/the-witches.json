@@ -1,0 +1,31 @@
+{
+  "title": "The Witches",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "09 Dec 1966",
+  "runtime": "90 min",
+  "genre": "Horror",
+  "director": "Cyril Frankel",
+  "writer": "Nigel Kneale, Norah Lofts",
+  "actors": "Joan Fontaine, Kay Walsh, Alec McCowen",
+  "plot": "Following a horrifying experience with the occult in Africa, a schoolteacher moves to a small English village, only to discover that black magic resides there as well.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDNkOWExNWUtYmRmYS00MWJiLWI3YjYtZmE1MWQ2NmQ3YzMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0060307",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:35:15.158Z"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134184200211",
+  "title": "The Flash #2",
+  "authors": [
+    "Amedeo Turturro",
+    "Brian Cunningham",
+    "Carmine Di Giandomenico",
+    "Dave Johnson",
+    "Ivan Plascencia",
+    "Joshua Williamson",
+    "Karl Kerschl",
+    "Steve Wands"
+  ],
+  "publish_date": "2016-07-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/29/flash-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1206/",
+  "fetched_at": "2026-06-07T19:54:44.468Z",
+  "reviewed_at": null
+}

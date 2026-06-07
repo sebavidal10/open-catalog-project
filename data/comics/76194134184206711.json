@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134184206711",
+  "title": "The Flash #67",
+  "authors": [
+    "Andrew Marino",
+    "Jamie S. Rich",
+    "Jordi Tarragona Garcia",
+    "Joshua Williamson",
+    "Luis Guerrero",
+    "Paul Kaminski",
+    "Rafa Sandoval",
+    "Ryan Sook",
+    "Scott Kolins",
+    "Steve Wands",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2019-03-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/03/24/flash-67.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1657/",
+  "fetched_at": "2026-06-07T20:03:18.678Z",
+  "reviewed_at": null
+}

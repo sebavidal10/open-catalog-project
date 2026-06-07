@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134184200611",
+  "title": "The Flash #6",
+  "authors": [
+    "Amedeo Turturro",
+    "Brian Cunningham",
+    "Carmine Di Giandomenico",
+    "Dave Johnson",
+    "Ivan Plascencia",
+    "Joshua Williamson",
+    "Steve Wands"
+  ],
+  "publish_date": "2016-09-14",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/31/flash-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1214/",
+  "fetched_at": "2026-06-07T19:55:13.856Z",
+  "reviewed_at": null
+}

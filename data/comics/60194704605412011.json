@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "60194704605412011",
+  "title": "Flash Gordon #12",
+  "authors": [
+    "Dan Brown",
+    "David Reyes",
+    "Eder Messias",
+    "Jeremy Adams",
+    "Juan Posada",
+    "Kyle Hotz",
+    "Lee Loughridge",
+    "Sarah Brunstad",
+    "Taylor Esposito",
+    "Will Conrad"
+  ],
+  "publish_date": "2025-10-15",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/30/648f575138a74b2aa6afbd14dcec147d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152786/",
+  "fetched_at": "2026-06-07T20:22:11.507Z",
+  "reviewed_at": "2025-10-01"
+}

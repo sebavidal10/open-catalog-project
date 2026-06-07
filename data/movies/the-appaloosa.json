@@ -1,0 +1,31 @@
+{
+  "title": "The Appaloosa",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "21 Oct 1966",
+  "runtime": "98 min",
+  "genre": "Action, Drama, Romance",
+  "director": "Sidney J. Furie",
+  "writer": "James Bridges, Roland Kibbee, Robert MacLeod",
+  "actors": "Marlon Brando, Anjanette Comer, John Saxon",
+  "plot": "Man tries to recover a horse stolen from him by a Mexican bandit.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGNiYjVkZTktNWMxNi00NjczLWI4N2EtNTJmYTg3YjVhNjUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "46/100"
+    }
+  ],
+  "metascore": "46",
+  "imdbRating": "6.3",
+  "imdbID": "tt0060120",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:32:22.797Z"
+}

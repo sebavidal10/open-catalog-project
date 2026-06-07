@@ -1,0 +1,31 @@
+{
+  "title": "Hawaii",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "10 Dec 1966",
+  "runtime": "189 min",
+  "genre": "Drama",
+  "director": "George Roy Hill, Arthur Hiller",
+  "writer": "James A. Michener, Dalton Trumbo, Daniel Taradash",
+  "actors": "Julie Andrews, Max von Sydow, Richard Harris",
+  "plot": "An American missionary and his wife travel to the exotic island kingdom of Hawaii, intent on converting the natives. But the clash between the two cultures is too great and instead of understanding there comes tragedy.",
+  "language": "English, Hawaiian",
+  "country": "United States",
+  "awards": "Nominated for 7 Oscars. 2 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQyMjc3Mzc5M15BMl5BanBnXkFtZTcwMTc5ODA0NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0060491",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:31:29.314Z"
+}

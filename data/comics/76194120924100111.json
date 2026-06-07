@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120924100111",
+  "title": "Flash Plus #1",
+  "authors": [
+    "Brian Augustyn",
+    "Eduardo Barreto",
+    "Gaspar Saladino",
+    "Gerry Fernandez",
+    "Ian Laughlin",
+    "Jason Hernandez-Rosenblatt",
+    "Mark Waid",
+    "Paul Kupperberg"
+  ],
+  "publish_date": "1996-11-06",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/22/flash-plus-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4844/",
+  "fetched_at": "2026-06-07T19:12:42.849Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194131120300211",
+  "title": "Flash Annual #2",
+  "authors": [
+    "Brian Buccellato",
+    "Brian Cunningham",
+    "Carlos M. Mangual",
+    "Cully Hamner",
+    "Francis Manapul",
+    "Harvey Richards",
+    "Nicole Dubuc",
+    "Sami Basri",
+    "Taylor Esposito",
+    "Wil Moss"
+  ],
+  "publish_date": "2013-07-31",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/11/11/f70da19bd74b49238e15ec56d17a9c78.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/157075/",
+  "fetched_at": "2026-06-07T19:48:08.382Z",
+  "reviewed_at": null
+}

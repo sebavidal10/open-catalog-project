@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "60194704594100711",
+  "title": "Flash Gordon: Quarterly #7",
+  "authors": [
+    "Alexandra Colorado",
+    "Artyom Trakhanov",
+    "Emilio Lecce",
+    "Georges Jeanty",
+    "Giorgio Pontrelli",
+    "Jeff Eckleberry",
+    "Jim Krieg",
+    "Juancho Velez",
+    "Lee Loughridge",
+    "Lizbeth Myles",
+    "Matt Horak",
+    "Miguel Zapata",
+    "Paul Cornell",
+    "Rob Jones",
+    "Sarah Brunstad",
+    "Steve Orlando"
+  ],
+  "publish_date": "2026-04-29",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/03/17/f306734292a14cc0a712d547fc07dd96.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/163759/",
+  "fetched_at": "2026-06-07T20:24:09.213Z",
+  "reviewed_at": "2026-04-01"
+}

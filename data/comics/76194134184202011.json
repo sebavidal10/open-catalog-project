@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134184202011",
+  "title": "The Flash #20",
+  "authors": [
+    "Amedeo Turturro",
+    "Brian Cunningham",
+    "Brian Miller",
+    "Carmine Di Giandomenico",
+    "Howard Porter",
+    "Ivan Plascencia",
+    "Joshua Williamson",
+    "Neil Googe",
+    "Steve Wands"
+  ],
+  "publish_date": "2017-04-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/03/flash-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1228/",
+  "fetched_at": "2026-06-07T19:57:17.967Z",
+  "reviewed_at": null
+}

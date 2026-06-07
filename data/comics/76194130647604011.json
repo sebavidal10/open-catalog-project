@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130647604011",
+  "title": "The Flash #40",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Dalhouse",
+    "Bill Sienkiewicz",
+    "Brett Booth",
+    "Brian Cunningham",
+    "Norm Rapmund",
+    "Pat Brosseau",
+    "Robert Venditti",
+    "Van Jensen"
+  ],
+  "publish_date": "2015-03-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-40.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22398/",
+  "fetched_at": "2026-06-07T19:52:14.629Z",
+  "reviewed_at": null
+}

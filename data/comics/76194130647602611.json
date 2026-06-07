@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130647602611",
+  "title": "The Flash #26",
+  "authors": [
+    "Andrew Dalhouse",
+    "Brett Booth",
+    "Brian Cunningham",
+    "Christos N. Gage",
+    "Harvey Richards",
+    "Neil Googe",
+    "Norm Rapmund",
+    "Sal Cipriano",
+    "Wil Moss",
+    "Wil Quintana"
+  ],
+  "publish_date": "2013-12-31",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22384/",
+  "fetched_at": "2026-06-07T19:49:03.473Z",
+  "reviewed_at": null
+}

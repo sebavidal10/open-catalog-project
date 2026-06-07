@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "72513022500901011",
+  "title": "King: Flash Gordon #1",
+  "authors": [
+    "Ben Acker",
+    "Ben Blacker",
+    "Darwyn Cooke",
+    "Lee Ferguson",
+    "Nathan Cosby",
+    "Omi Remalante Jr.",
+    "Rob Liefeld",
+    "Ron Salas",
+    "Simon Bowland"
+  ],
+  "publish_date": "2015-01-28",
+  "publisher": [
+    "Dynamite Entertainment"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/11/13d49c04833c439dbdeb25a6a8c972ca.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/138089/",
+  "fetched_at": "2026-06-07T19:51:28.472Z",
+  "reviewed_at": "2015-01-01"
+}

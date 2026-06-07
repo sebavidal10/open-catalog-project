@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134184203511",
+  "title": "The Flash #35",
+  "authors": [
+    "Andrew Marino",
+    "Brian Cunningham",
+    "Brian Miller",
+    "Howard Porter",
+    "Ivan Plascencia",
+    "Joshua Williamson",
+    "Michael Moreci",
+    "Neil Googe",
+    "Pop Mhan",
+    "Rebecca Taylor",
+    "Steve Wands"
+  ],
+  "publish_date": "2017-11-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/08/flash-35.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1257/",
+  "fetched_at": "2026-06-07T19:59:04.772Z",
+  "reviewed_at": null
+}

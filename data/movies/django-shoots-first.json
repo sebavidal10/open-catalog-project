@@ -1,0 +1,27 @@
+{
+  "title": "Django Shoots First",
+  "year": "1966",
+  "rated": "N/A",
+  "released": "28 Oct 1966",
+  "runtime": "95 min",
+  "genre": "Romance, Western",
+  "director": "Alberto De Martino",
+  "writer": "Sandro Continenza, Massimiliano Capriccioli, Tito Carpi",
+  "actors": "Glenn Saxson, Ida Galli, Fernando Sancho",
+  "plot": "Django's father is framed by his business partner Clusker and shot by a bounty Killer. Django inherits his fathers part of the business and a score to settle with Clusker.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjhjNDdhOGQtOTUxNy00ZDI5LTkwMzAtYzk1ZDZlYzhkYWE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0061582",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:37:50.621Z"
+}

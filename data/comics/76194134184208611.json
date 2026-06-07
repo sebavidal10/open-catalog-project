@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134184208611",
+  "title": "The Flash #86",
+  "authors": [
+    "Alex R. Carr",
+    "Arif Prianto",
+    "Ben Meares",
+    "Brian Miller",
+    "Dustin Nguyen",
+    "Jordi Tarragona Garcia",
+    "Joshua Williamson",
+    "Mike Cotton",
+    "Rafa Sandoval",
+    "Steve Wands"
+  ],
+  "publish_date": "2020-01-15",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/01/10/flash-86.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8589/",
+  "fetched_at": "2026-06-07T20:05:57.439Z",
+  "reviewed_at": null
+}

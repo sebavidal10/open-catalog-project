@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194120024812111",
+  "title": "Flash #121",
+  "authors": [
+    "Brian Augustyn",
+    "Clem Robins",
+    "Jason Hernandez-Rosenblatt",
+    "John Nyberg",
+    "José Marzán Jr.",
+    "Mark Waid",
+    "Mike Wieringo",
+    "Paul Kupperberg",
+    "Paul Ryan",
+    "Tom McCraw"
+  ],
+  "publish_date": "1997-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/05/flash-v2-121.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22549/",
+  "fetched_at": "2026-06-07T19:12:38.749Z",
+  "reviewed_at": "1997-01-01"
+}

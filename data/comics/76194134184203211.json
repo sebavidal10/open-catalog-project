@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134184203211",
+  "title": "The Flash #32",
+  "authors": [
+    "Brian Cunningham",
+    "Brian Miller",
+    "Christian Duce",
+    "Howard Porter",
+    "Ivan Plascencia",
+    "Joshua Williamson",
+    "Kelley Jones",
+    "Michelle Madsen",
+    "Rebecca Taylor",
+    "Steve Wands"
+  ],
+  "publish_date": "2017-10-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/08/flash-32.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1254/",
+  "fetched_at": "2026-06-07T19:58:46.306Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "60194704605400011",
+  "title": "Flash Gordon #0",
+  "authors": [
+    "Ceci de la Cruz",
+    "Dan Abnett",
+    "Joe Quinones",
+    "Manuel Garcia",
+    "Miguel Mercado",
+    "Miguel Zapata",
+    "Roxana Ayala",
+    "Sarah Brunstad",
+    "Taylor Esposito"
+  ],
+  "publish_date": "2026-04-08",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/02/24/8368803b0434403d896ca90f38f89afe.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/162995/",
+  "fetched_at": "2026-06-07T20:24:04.458Z",
+  "reviewed_at": "2026-04-01"
+}

@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "76194130647605011",
+  "title": "The Flash #50",
+  "authors": [
+    "Alex Sinclair",
+    "Amedeo Turturro",
+    "Brian Cunningham",
+    "Chris Sotomayor",
+    "Duncan Fegredo",
+    "Guy Major",
+    "Ivan Reis",
+    "Jesús Merino",
+    "Joe Eisma",
+    "Joe Prado",
+    "Pat Brosseau",
+    "Paul Pelletier",
+    "Peter Pantazis",
+    "Scott Hanna",
+    "Tony Kordos",
+    "Van Jensen",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2016-04-20",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-50.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22408/",
+  "fetched_at": "2026-06-07T19:54:10.255Z",
+  "reviewed_at": null
+}

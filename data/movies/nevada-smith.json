@@ -1,0 +1,31 @@
+{
+  "title": "Nevada Smith",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "23 Jul 1966",
+  "runtime": "128 min",
+  "genre": "Drama, Western",
+  "director": "Henry Hathaway",
+  "writer": "Harold Robbins, John Michael Hayes",
+  "actors": "Steve McQueen, Karl Malden, Brian Keith",
+  "plot": "A half-American Indian / half-Caucasian young man evolves into a hardened killer as he tracks down the men who murdered his parents.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTFkZGYwMzktOWI4OS00NmNmLWI1NGMtZDU5NTcxNGI4ZmQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0060748",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:31:04.546Z"
+}

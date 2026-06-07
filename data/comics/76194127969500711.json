@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194127969500711",
+  "title": "The Flash #7",
+  "authors": [
+    "Adam Schlagman",
+    "Brian Buccellato",
+    "Darwyn Cooke",
+    "Eddie Berganza",
+    "Francis Manapul",
+    "Geoff Johns",
+    "Sal Cipriano",
+    "Scott Kolins"
+  ],
+  "publish_date": "2010-12-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v3-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22684/",
+  "fetched_at": "2026-06-07T19:38:57.364Z",
+  "reviewed_at": null
+}

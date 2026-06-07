@@ -1,0 +1,35 @@
+{
+  "title": "The Fortune Cookie",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "19 Oct 1966",
+  "runtime": "125 min",
+  "genre": "Comedy, Romance",
+  "director": "Billy Wilder",
+  "writer": "Billy Wilder, I.A.L. Diamond",
+  "actors": "Jack Lemmon, Walter Matthau, Ron Rich",
+  "plot": "A crooked lawyer persuades his brother-in-law to feign a serious injury.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 3 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzc3ZTBkOTEtNmJkYy00NjcyLTg4ODYtMjMxZWIzZDYwYmIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "7.2",
+  "imdbID": "tt0060424",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:31:15.642Z"
+}

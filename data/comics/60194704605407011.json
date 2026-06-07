@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "60194704605407011",
+  "title": "Flash Gordon #7",
+  "authors": [
+    "Chas! Pangburn",
+    "David Reyes",
+    "Jeremy Adams",
+    "Lee Loughridge",
+    "Miguel Zapata",
+    "Nelson Dániel",
+    "Sarah Brunstad",
+    "Taylor Esposito",
+    "Tom Derenick",
+    "Will Conrad",
+    "Zach Howard"
+  ],
+  "publish_date": "2025-03-12",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/07/3b8c6034b7874f31a076deb4ed4cb78a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/137581/",
+  "fetched_at": "2026-06-07T20:19:56.182Z",
+  "reviewed_at": "2025-03-01"
+}

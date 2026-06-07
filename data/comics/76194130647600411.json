@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194130647600411",
+  "title": "The Flash #4",
+  "authors": [
+    "Brian Buccellato",
+    "Brian Cunningham",
+    "Carlos M. Mangual",
+    "Darren Shan",
+    "Eric Basaldua",
+    "Francis Manapul",
+    "Nei Ruffino"
+  ],
+  "publish_date": "2011-12-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22359/",
+  "fetched_at": "2026-06-07T19:44:47.266Z",
+  "reviewed_at": null
+}

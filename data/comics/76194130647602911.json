@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130647602911",
+  "title": "The Flash #29",
+  "authors": [
+    "Agustin Padilla",
+    "Brian Buccellato",
+    "Brian Cunningham",
+    "Carlos M. Mangual",
+    "Harvey Richards",
+    "Kate Durré",
+    "Matt Hollingsworth",
+    "Mikel Janín"
+  ],
+  "publish_date": "2014-03-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-29.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22387/",
+  "fetched_at": "2026-06-07T19:49:33.650Z",
+  "reviewed_at": null
+}

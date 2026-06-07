@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120024816611",
+  "title": "Flash #166",
+  "authors": [
+    "Angel Unzueta",
+    "Brian Bolland",
+    "Doug Hazlewood",
+    "Gaspar Saladino",
+    "Geoff Johns",
+    "Joey Cavalieri",
+    "Tom McCraw"
+  ],
+  "publish_date": "2000-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/06/flash-v2-166.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22594/",
+  "fetched_at": "2026-06-07T19:20:51.598Z",
+  "reviewed_at": "2000-11-01"
+}

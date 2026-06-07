@@ -1,0 +1,35 @@
+{
+  "title": "Who's Afraid of Virginia Woolf?",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "22 Jun 1966",
+  "runtime": "131 min",
+  "genre": "Drama",
+  "director": "Mike Nichols",
+  "writer": "Ernest Lehman, Edward Albee",
+  "actors": "Elizabeth Taylor, Richard Burton, George Segal",
+  "plot": "A middle-aged New England associate professor and his wife, with the help of alcohol, use their young guests to fuel anguish and emotional pain towards each other over the course of a distressing night.",
+  "language": "English, Latin, Spanish",
+  "country": "United States",
+  "awards": "Won 5 Oscars. 22 wins & 26 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGY5YWJlMjUtNWI4Zi00NTExLWIwMDUtNGJkOTM0MzliNjE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "8.0",
+  "imdbID": "tt0061184",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:30:39.478Z"
+}

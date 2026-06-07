@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130647604311",
+  "title": "The Flash #43",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Dalhouse",
+    "Ant Lucia",
+    "Brett Booth",
+    "Brian Cunningham",
+    "Norm Rapmund",
+    "Pat Brosseau",
+    "Robert Venditti",
+    "Van Jensen",
+    "Wendy Broome"
+  ],
+  "publish_date": "2015-08-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-43.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22401/",
+  "fetched_at": "2026-06-07T19:52:58.916Z",
+  "reviewed_at": null
+}

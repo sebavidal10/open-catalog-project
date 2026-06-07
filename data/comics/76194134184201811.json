@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134184201811",
+  "title": "The Flash #18",
+  "authors": [
+    "Amedeo Turturro",
+    "Andy Owens",
+    "Brian Cunningham",
+    "Brian Miller",
+    "Carmine Di Giandomenico",
+    "Chris Sotomayor",
+    "Howard Porter",
+    "Jesús Merino",
+    "Joshua Williamson",
+    "Steve Wands"
+  ],
+  "publish_date": "2017-03-08",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/03/flash-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1226/",
+  "fetched_at": "2026-06-07T19:57:00.150Z",
+  "reviewed_at": null
+}

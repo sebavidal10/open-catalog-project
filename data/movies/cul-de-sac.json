@@ -1,0 +1,35 @@
+{
+  "title": "Cul-de-sac",
+  "year": "1966",
+  "rated": "Not Rated",
+  "released": "07 Nov 1966",
+  "runtime": "112 min",
+  "genre": "Comedy, Drama, Thriller",
+  "director": "Roman Polanski",
+  "writer": "Roman Polanski, Gérard Brach",
+  "actors": "Donald Pleasence, Françoise Dorléac, Lionel Stander",
+  "plot": "In search of help, two wounded gangsters on the run find refuge in the secluded castle of a feeble man and his wife; however, under the point of a gun, nothing is what it seems.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 BAFTA Award1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGFiYTVhMDItZWZhMi00NmY4LWE2YjEtYzU4NmVjZDRhMDA1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "7.0",
+  "imdbID": "tt0060268",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:31:58.141Z"
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134184204511",
+  "title": "The Flash #45",
+  "authors": [
+    "Andrew Marino",
+    "Barry Kitson",
+    "Brian Miller",
+    "Christian Duce",
+    "David Finch",
+    "Joshua Williamson",
+    "Luis Guerrero",
+    "Marie Javins",
+    "Rebecca Taylor",
+    "Steve Wands",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2018-04-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/09/flash-45.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1267/",
+  "fetched_at": "2026-06-07T20:00:23.206Z",
+  "reviewed_at": null
+}

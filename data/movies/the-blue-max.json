@@ -1,0 +1,31 @@
+{
+  "title": "The Blue Max",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "21 Jun 1966",
+  "runtime": "156 min",
+  "genre": "Action, Drama, Romance",
+  "director": "John Guillermin",
+  "writer": "Jack Hunter, Ben Barzman, Basilio Franchina",
+  "actors": "George Peppard, James Mason, Ursula Andress",
+  "plot": "A young pilot in the German air force of 1918, disliked as lower-class and unchivalrous, tries ambitiously to earn the medal offered for 20 kills.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Won 1 BAFTA Award1 win & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzE5MDA2Y2QtNjBhZi00YjM1LTliZDktNDAwZTBiNzQ0Yzg2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0060177",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:31:28.078Z"
+}

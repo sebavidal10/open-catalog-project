@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134184208111",
+  "title": "The Flash #81",
+  "authors": [
+    "Guillem March",
+    "Jamie S. Rich",
+    "Jordi Tarragona Garcia",
+    "Joshua Williamson",
+    "Luis Guerrero",
+    "Paul Kaminski",
+    "Rafa Sandoval",
+    "Rob Levin",
+    "Scott Kolins",
+    "Steve Wands",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2019-10-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/10/18/flash-81.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/6652/",
+  "fetched_at": "2026-06-07T20:05:01.018Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "76194134184277811",
+  "title": "The Flash #778",
+  "authors": [
+    "Brandon Peterson",
+    "Brent Peeples",
+    "Chris Rosa",
+    "Fernando Pasarin",
+    "Ivan Plascencia",
+    "Jeremy Adams",
+    "Jeromy Cox",
+    "Jim Lee",
+    "Jorge Corona",
+    "Marie Javins",
+    "Matt Herms",
+    "Matt Ryan",
+    "Michael Atiyeh",
+    "Paul Kaminski",
+    "Peter Pantazis",
+    "Rob Leigh"
+  ],
+  "publish_date": "2022-01-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/19/flash-778.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43189/",
+  "fetched_at": "2026-06-07T20:11:20.106Z",
+  "reviewed_at": null
+}

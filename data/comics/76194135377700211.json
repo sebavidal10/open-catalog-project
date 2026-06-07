@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194135377700211",
+  "title": "The Flash Annual #2",
+  "authors": [
+    "Andrew Marino",
+    "Joshua Williamson",
+    "Luis Guerrero",
+    "Marie Javins",
+    "Paul Kaminski",
+    "Scott Kolins"
+  ],
+  "publish_date": "2019-01-30",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/10/flash-annual-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1287/",
+  "fetched_at": "2026-06-07T20:02:49.950Z",
+  "reviewed_at": null
+}

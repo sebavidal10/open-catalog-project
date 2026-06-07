@@ -1,0 +1,31 @@
+{
+  "title": "Daisies",
+  "year": "1966",
+  "rated": "Not Rated",
+  "released": "30 Dec 1966",
+  "runtime": "75 min",
+  "genre": "Comedy",
+  "director": "Vera Chytilová",
+  "writer": "Vera Chytilová, Pavel Jurácek, Ester Krumbachová",
+  "actors": "Ivana Karbanová, Jitka Cerhová, Marie Cesková",
+  "plot": "After realizing that all world is spoiled, Marie and Marie are committed to be spoiled themselves. They rip off older men, feast in lavish meals and do all kinds of mischief. But what is all this leading to?",
+  "language": "Czech",
+  "country": "Czechoslovakia",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWVmNmU3YjUtYzE2NC00OTA2LWI2OTgtZTUwMDk3ZTkyOTJmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0060959",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:30:52.200Z"
+}

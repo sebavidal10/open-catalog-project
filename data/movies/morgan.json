@@ -1,0 +1,31 @@
+{
+  "title": "Morgan!",
+  "year": "1966",
+  "rated": "N/A",
+  "released": "15 May 1966",
+  "runtime": "97 min",
+  "genre": "Comedy, Drama, Fantasy",
+  "director": "Karel Reisz",
+  "writer": "David Mercer",
+  "actors": "David Warner, Vanessa Redgrave, Robert Stephens",
+  "plot": "After his wife leaves him for his former best friend, a failed London artist begins his descent into madness in trying to win her back.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 2 Oscars. 4 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODNlNzU3NzQtZDA1ZC00YjJjLTk0OTctYWNiOTc5MGI5NGIwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "65%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0060714",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:34:44.336Z"
+}

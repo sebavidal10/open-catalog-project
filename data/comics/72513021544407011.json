@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "72513021544407011",
+  "title": "Flash Gordon #7",
+  "authors": [
+    "Evan Shaner",
+    "Jeff Parker",
+    "Ken Haeser",
+    "Marc Laming",
+    "Roberto Castro"
+  ],
+  "publish_date": "2014-12-10",
+  "publisher": [
+    "Dynamite Entertainment"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/02/524ba46ff29b4b8b9629be1bfe9906de.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/137288/",
+  "fetched_at": "2026-06-07T19:51:09.529Z",
+  "reviewed_at": "2014-12-01"
+}

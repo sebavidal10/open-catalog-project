@@ -1,0 +1,35 @@
+{
+  "title": "Persona",
+  "year": "1966",
+  "rated": "Not Rated",
+  "released": "16 Mar 1967",
+  "runtime": "83 min",
+  "genre": "Drama, Thriller",
+  "director": "Ingmar Bergman",
+  "writer": "Ingmar Bergman",
+  "actors": "Bibi Andersson, Liv Ullmann, Margaretha Krook",
+  "plot": "A nurse is put in charge of a mute actress and finds that their personae are melding together.",
+  "language": "Swedish, English",
+  "country": "Sweden",
+  "awards": "Nominated for 1 BAFTA Award8 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTRhNzkzMDktZDNlNi00MDIwLWFiNjAtNTlmYjZjYWZlMTEzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "8.0",
+  "imdbID": "tt0060827",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:31:00.844Z"
+}

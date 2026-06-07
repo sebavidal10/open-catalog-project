@@ -1,0 +1,31 @@
+{
+  "title": "A Man and a Woman",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "12 Jul 1966",
+  "runtime": "102 min",
+  "genre": "Drama, Romance",
+  "director": "Claude Lelouch",
+  "writer": "Claude Lelouch, Pierre Uytterhoeven",
+  "actors": "Anouk Aimée, Jean-Louis Trintignant, Pierre Barouh",
+  "plot": "A widow and a widower find their relationship developing into love, but their past tragedies prove hard to overcome, causing them to proceed with utmost delicacy.",
+  "language": "French, English, Spanish",
+  "country": "France",
+  "awards": "Won 2 Oscars. 13 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzY5Y2UyYmMtYTI4Yi00YThjLWE5ODctMGRjMDhlZTY3Yzc4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0061138",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:31:34.241Z"
+}

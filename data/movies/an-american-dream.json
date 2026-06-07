@@ -1,0 +1,27 @@
+{
+  "title": "An American Dream",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "28 Oct 1966",
+  "runtime": "103 min",
+  "genre": "Drama, Thriller",
+  "director": "Robert Gist",
+  "writer": "Mann Rubin, Norman Mailer, Howard Rodman",
+  "actors": "Stuart Whitman, Janet Leigh, Eleanor Parker",
+  "plot": "A TV talk-show host who may have killed his wife finds himself being pursued by both the police and a gang of hoods.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzc5OTAwM2ItMDM3ZS00OWZiLTg2MTAtYmIwZTA2YjljZDgwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.8",
+  "imdbID": "tt0060099",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:37:23.188Z"
+}

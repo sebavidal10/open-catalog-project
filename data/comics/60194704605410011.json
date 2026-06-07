@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "60194704605410011",
+  "title": "Flash Gordon #10",
+  "authors": [
+    "Arthur Hesli",
+    "Chas! Pangburn",
+    "David Reyes",
+    "Jeremy Adams",
+    "Juan Posada",
+    "Lee Loughridge",
+    "Marika Cresta",
+    "Sarah Brunstad",
+    "Taylor Esposito",
+    "Tom Derenick",
+    "Will Conrad"
+  ],
+  "publish_date": "2025-06-18",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/29/fddbe5a746304ad0938ea6e8705e2096.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/147974/",
+  "fetched_at": "2026-06-07T20:20:56.761Z",
+  "reviewed_at": "2025-06-01"
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194134184276011",
+  "title": "The Flash #760",
+  "authors": [
+    "Alex R. Carr",
+    "Brian Miller",
+    "Christian Duce",
+    "InHyuk Lee",
+    "Jordi Tarragona Garcia",
+    "Joshua Williamson",
+    "Luis Guerrero",
+    "Marquis Draper",
+    "Mike Cotton",
+    "Rafa Sandoval",
+    "Scott Kolins",
+    "Steve Wands"
+  ],
+  "publish_date": "2020-08-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/08/20/flash-760.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/16477/",
+  "fetched_at": "2026-06-07T20:08:14.555Z",
+  "reviewed_at": null
+}

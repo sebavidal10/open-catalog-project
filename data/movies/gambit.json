@@ -1,0 +1,35 @@
+{
+  "title": "Gambit",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "07 Jan 1967",
+  "runtime": "109 min",
+  "genre": "Comedy, Crime, Thriller",
+  "director": "Ronald Neame",
+  "writer": "Jack Davies, Alvin Sargent, Sidney Carroll",
+  "actors": "Shirley MacLaine, Michael Caine, Herbert Lom",
+  "plot": "An English cat burglar needs a Eurasian dancer's help to pull off the perfect heist, but even the most foolproof schemes have a way of backfiring.",
+  "language": "English, French, Arabic",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzU1NTg1MmUtZGYwZC00ZWE5LTljZmEtMmU1M2U2N2E4MTA1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.0",
+  "imdbID": "tt0060445",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:31:31.778Z"
+}

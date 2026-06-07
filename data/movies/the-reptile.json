@@ -1,0 +1,31 @@
+{
+  "title": "The Reptile",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "06 Apr 1966",
+  "runtime": "90 min",
+  "genre": "Horror",
+  "director": "John Gilling",
+  "writer": "Anthony Hinds",
+  "actors": "Noel Willman, Jennifer Daniel, Ray Barrett",
+  "plot": "In a Cornish village, various locals die from mysterious snake bites, but the coroner rules the deaths as heart attacks, until a family of newcomers starts an investigation.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjMxYzAyN2EtNDFmYy00YjkyLWE0NTMtM2U2M2ZlYjZmN2QzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0060893",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:33:04.698Z"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130647604111",
+  "title": "The Flash #41",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Dalhouse",
+    "Brett Booth",
+    "Brian Cunningham",
+    "Eddy Barrows",
+    "Marcelo Maiolo",
+    "Norm Rapmund",
+    "Pat Brosseau",
+    "Robert Venditti",
+    "Van Jensen"
+  ],
+  "publish_date": "2015-06-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-41.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22399/",
+  "fetched_at": "2026-06-07T19:52:37.476Z",
+  "reviewed_at": null
+}

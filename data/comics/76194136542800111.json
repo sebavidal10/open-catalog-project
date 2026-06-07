@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194136542800111",
+  "title": "Flash Forward #1",
+  "authors": [
+    "Brett Booth",
+    "Evan Shaner",
+    "Harvey Richards",
+    "InHyuk Lee",
+    "Jamie S. Rich",
+    "Luis Guerrero",
+    "Norm Rapmund",
+    "Paul Kaminski",
+    "Scott Lobdell",
+    "Troy Peteri"
+  ],
+  "publish_date": "2019-09-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/09/17/flash-forward-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/5445/",
+  "fetched_at": "2026-06-07T20:04:46.169Z",
+  "reviewed_at": null
+}

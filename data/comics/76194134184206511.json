@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194134184206511",
+  "title": "The Flash #65",
+  "authors": [
+    "Andrew Marino",
+    "Brittany Holzherr",
+    "Chris Burnham",
+    "Jamie S. Rich",
+    "Jordi Tarragona Garcia",
+    "Joshua Williamson",
+    "Michael Golden",
+    "Nathan Fairbairn",
+    "Paul Kaminski",
+    "Rafa Sandoval",
+    "Steve Wands",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2019-02-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/25/flash-65.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1378/",
+  "fetched_at": "2026-06-07T20:03:05.120Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194120024824411",
+  "title": "Flash #244",
+  "authors": [
+    "Alan Burnett",
+    "Brian Stelfreeze",
+    "Drew Geraci",
+    "Eddie Berganza",
+    "Paco Díaz",
+    "Rachel Gluckstern",
+    "Rebecca Buchman",
+    "Richard Horie",
+    "Rob Leigh",
+    "Tanya Horie"
+  ],
+  "publish_date": "2008-09-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v2-244.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22674/",
+  "fetched_at": "2026-06-07T19:35:29.341Z",
+  "reviewed_at": null
+}

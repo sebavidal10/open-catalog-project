@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120024814111",
+  "title": "Flash #141",
+  "authors": [
+    "Christopher Ivy",
+    "Gaspar Saladino",
+    "Joshua Hood",
+    "L. A. Williams",
+    "Mark Millar",
+    "Paul Kupperberg",
+    "Pop Mhan",
+    "Steve Lightle",
+    "Tom McCraw"
+  ],
+  "publish_date": "1998-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/05/flash-v2-141.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22569/",
+  "fetched_at": "2026-06-07T19:15:53.001Z",
+  "reviewed_at": "1998-09-01"
+}

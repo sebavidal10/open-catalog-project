@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "72513022500903011",
+  "title": "King: Flash Gordon #3",
+  "authors": [
+    "Ben Acker",
+    "Ben Blacker",
+    "Declan Shalvey",
+    "Lara Margarida",
+    "Lee Ferguson",
+    "Marc Deering",
+    "Marc Laming",
+    "Nathan Cosby",
+    "Omi Remalante Jr.",
+    "Simon Bowland"
+  ],
+  "publish_date": "2015-04-22",
+  "publisher": [
+    "Dynamite Entertainment"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/11/e57cfe52ebae4b3394699b5a1c4c9821.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/138091/",
+  "fetched_at": "2026-06-07T19:52:04.518Z",
+  "reviewed_at": "2015-04-01"
+}

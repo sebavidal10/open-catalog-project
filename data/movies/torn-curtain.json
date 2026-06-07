@@ -1,0 +1,35 @@
+{
+  "title": "Torn Curtain",
+  "year": "1966",
+  "rated": "PG",
+  "released": "27 Jul 1966",
+  "runtime": "128 min",
+  "genre": "Drama, Romance, Thriller",
+  "director": "Alfred Hitchcock",
+  "writer": "Brian Moore, Willis Hall, Keith Waterhouse",
+  "actors": "Paul Newman, Julie Andrews, Lila Kedrova",
+  "plot": "An American scientist publicly defects to East Germany as part of a cloak and dagger mission to steal a formula before planning an escape back to the West.",
+  "language": "English, German, Swedish, Norwegian, Danish, French",
+  "country": "United States",
+  "awards": "3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTYwODI4NjcwOV5BMl5BanBnXkFtZTgwMzU0OTk5MTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "63%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "6.6",
+  "imdbID": "tt0061107",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:31:26.851Z"
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134184202511",
+  "title": "The Flash #25",
+  "authors": [
+    "Amedeo Turturro",
+    "Brian Cunningham",
+    "Brian Miller",
+    "Carmine Di Giandomenico",
+    "Dave McCaig",
+    "Howard Porter",
+    "Ivan Plascencia",
+    "Joshua Williamson",
+    "Neil Googe",
+    "Ryan Sook",
+    "Steve Wands"
+  ],
+  "publish_date": "2017-06-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/03/flash-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1233/",
+  "fetched_at": "2026-06-07T19:57:52.066Z",
+  "reviewed_at": null
+}

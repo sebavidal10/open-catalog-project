@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120024822111",
+  "title": "Flash #221",
+  "authors": [
+    "Geoff Johns",
+    "Howard Porter",
+    "James Sinclair",
+    "Jared K. Fletcher",
+    "Joey Cavalieri",
+    "John Livesay",
+    "Rachel Gluckstern"
+  ],
+  "publish_date": "2005-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v2-221.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22649/",
+  "fetched_at": "2026-06-07T19:29:31.457Z",
+  "reviewed_at": "2005-06-01"
+}

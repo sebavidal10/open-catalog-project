@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194130647601711",
+  "title": "The Flash #17",
+  "authors": [
+    "Brian Buccellato",
+    "Carlos M. Mangual",
+    "Chris Conroy",
+    "Francis Manapul",
+    "Matt Idelson"
+  ],
+  "publish_date": "2013-02-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22372/",
+  "fetched_at": "2026-06-07T19:47:20.256Z",
+  "reviewed_at": null
+}

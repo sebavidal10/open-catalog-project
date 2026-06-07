@@ -1,0 +1,31 @@
+{
+  "title": "The Shooting",
+  "year": "1966",
+  "rated": "G",
+  "released": "12 Jun 1968",
+  "runtime": "82 min",
+  "genre": "Drama, Western",
+  "director": "Monte Hellman",
+  "writer": "Carole Eastman",
+  "actors": "Millie Perkins, Jack Nicholson, Will Hutchins",
+  "plot": "A mysterious woman persuades two cowboys to help her in a revenge scheme.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjI5YmM3NzctOWY1ZS00ZDg4LWFjNmMtMGMyZTE1MWU0NzZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0062262",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:32:03.067Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The War Game",
+  "year": "1966",
+  "rated": "N/A",
+  "released": "01 Nov 1967",
+  "runtime": "45 min",
+  "genre": "Drama, War",
+  "director": "Peter Watkins",
+  "writer": "Peter Watkins",
+  "actors": "Dick Graham, Michael Aspel, Dave Baldwin",
+  "plot": "A docudrama depicting a hypothetical nuclear attack on Britain.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Won 1 Oscar. 5 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGYzN2ViZTMtOTQwNS00MjFmLWE5YzYtYzgxN2MxNTY1ZTM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.0",
+  "imdbID": "tt0059894",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:32:24.026Z"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134184204811",
+  "title": "The Flash #48",
+  "authors": [
+    "Andrew Marino",
+    "Brian Miller",
+    "Francesco Mattina",
+    "Howard Porter",
+    "Joshua Williamson",
+    "Marie Javins",
+    "Rebecca Taylor",
+    "Steve Wands"
+  ],
+  "publish_date": "2018-06-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/09/flash-48.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1270/",
+  "fetched_at": "2026-06-07T20:00:52.287Z",
+  "reviewed_at": null
+}

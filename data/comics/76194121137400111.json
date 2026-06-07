@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194121137400111",
+  "title": "Tangent Comics / The Flash #1",
+  "authors": [
+    "Cam Smith",
+    "Chris Eliopoulos",
+    "Dana Kurtin",
+    "Eddie Berganza",
+    "Frank Berrios",
+    "Gary Frank",
+    "Todd Dezago",
+    "Trish Mulvihill"
+  ],
+  "publish_date": "1997-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/17/tangent-flash-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7551/",
+  "fetched_at": "2026-06-07T19:14:26.475Z",
+  "reviewed_at": null
+}

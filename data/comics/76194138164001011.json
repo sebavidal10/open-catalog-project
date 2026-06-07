@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194138164001011",
+  "title": "The Flash #10",
+  "authors": [
+    "Chris Rosa",
+    "Jim Lee",
+    "Marie Javins",
+    "Matthew Taylor",
+    "Nick Robles",
+    "Otto Schmidt",
+    "Paul Kaminski",
+    "Ramón Pérez",
+    "Simon Spurrier",
+    "Vasco Georgiev"
+  ],
+  "publish_date": "2024-06-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/07/cc79f34be5404304a4054f9d7a014828.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/121601/",
+  "fetched_at": "2026-06-07T20:18:08.411Z",
+  "reviewed_at": null
+}

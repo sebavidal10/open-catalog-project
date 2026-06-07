@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194134184277411",
+  "title": "The Flash #774",
+  "authors": [
+    "Alex Sinclair",
+    "Bixie Mathieu",
+    "Brandon Peterson",
+    "Brian Miller",
+    "Bryan Hitch",
+    "Christian Duce",
+    "Ivan Plascencia",
+    "Jeremy Adams",
+    "Jim Lee",
+    "Jorge Corona",
+    "Marie Javins",
+    "Michael Atiyeh",
+    "Mike Cotton",
+    "Steve Wands"
+  ],
+  "publish_date": "2021-09-21",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/09/02/flash-774.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/37445/",
+  "fetched_at": "2026-06-07T20:10:43.138Z",
+  "reviewed_at": null
+}

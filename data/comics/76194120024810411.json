@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120024810411",
+  "title": "Flash #104",
+  "authors": [
+    "Alisande Morales",
+    "Brian Augustyn",
+    "Gaspar Saladino",
+    "Jasen Rodriguez",
+    "Mark Waid",
+    "Michael Jan Friedman",
+    "Roger Robinson",
+    "Tom McCraw"
+  ],
+  "publish_date": "1995-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/04/flash-v2-104.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22515/",
+  "fetched_at": "2026-06-07T19:09:54.456Z",
+  "reviewed_at": "1995-08-01"
+}

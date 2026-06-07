@@ -1,0 +1,31 @@
+{
+  "title": "The Sand Pebbles",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "20 Dec 1966",
+  "runtime": "182 min",
+  "genre": "Adventure, Drama, Romance",
+  "director": "Robert Wise",
+  "writer": "Richard McKenna, Robert Anderson",
+  "actors": "Steve McQueen, Richard Attenborough, Richard Crenna",
+  "plot": "In 1926, a U.S. Naval engineer gets assigned to a gunboat on a rescue mission in war-torn China.",
+  "language": "English, Mandarin",
+  "country": "United States",
+  "awards": "Nominated for 8 Oscars. 2 wins & 21 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTFiMmNmZTctNGQ5ZC00MDEyLTg4NGQtYTQ5NWI3ZGIxZjdhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0060934",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:31:07.013Z"
+}

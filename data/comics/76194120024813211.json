@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120024813211",
+  "title": "Flash #132",
+  "authors": [
+    "Gaspar Saladino",
+    "Grant Morrison",
+    "John Nyberg",
+    "Mark Millar",
+    "Paul Kupperberg",
+    "Paul Ryan",
+    "Steve Lightle",
+    "Tom McCraw"
+  ],
+  "publish_date": "1997-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/05/flash-v2-132.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22560/",
+  "fetched_at": "2026-06-07T19:14:22.274Z",
+  "reviewed_at": "1997-12-01"
+}

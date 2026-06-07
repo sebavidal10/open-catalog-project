@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "60194704605411011",
+  "title": "Flash Gordon #11",
+  "authors": [
+    "Dan Brown",
+    "David Reyes",
+    "Jeremy Adams",
+    "Juan Doe",
+    "Juan Posada",
+    "Kyle Hotz",
+    "Lee Loughridge",
+    "Sarah Brunstad",
+    "Taylor Esposito",
+    "Will Conrad"
+  ],
+  "publish_date": "2025-09-03",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/30/d4f4f0a9169d406fac16edd8c6e8eff6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152785/",
+  "fetched_at": "2026-06-07T20:21:53.448Z",
+  "reviewed_at": "2025-09-01"
+}

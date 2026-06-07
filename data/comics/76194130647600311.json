@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194130647600311",
+  "title": "The Flash #3",
+  "authors": [
+    "Alex Sinclair",
+    "Brian Buccellato",
+    "Brian Cunningham",
+    "Darren Shan",
+    "Francis Manapul",
+    "Jim Lee",
+    "Sal Cipriano",
+    "Scott Williams"
+  ],
+  "publish_date": "2011-11-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22358/",
+  "fetched_at": "2026-06-07T19:44:33.033Z",
+  "reviewed_at": null
+}

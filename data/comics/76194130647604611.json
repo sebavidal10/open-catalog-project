@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130647604611",
+  "title": "The Flash #46",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Dalhouse",
+    "Brett Booth",
+    "Brian Cunningham",
+    "Francis Manapul",
+    "Norm Rapmund",
+    "Pat Brosseau",
+    "Robert Venditti",
+    "Spike Brandt",
+    "Van Jensen"
+  ],
+  "publish_date": "2015-11-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-46.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22404/",
+  "fetched_at": "2026-06-07T19:53:26.314Z",
+  "reviewed_at": null
+}

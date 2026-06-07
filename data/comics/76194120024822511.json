@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120024822511",
+  "title": "Flash #225",
+  "authors": [
+    "Geoff Johns",
+    "Howard Porter",
+    "James Sinclair",
+    "Joey Cavalieri",
+    "John Livesay",
+    "Michael Wright",
+    "Rob Leigh"
+  ],
+  "publish_date": "2005-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v2-225.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22653/",
+  "fetched_at": "2026-06-07T19:30:11.804Z",
+  "reviewed_at": "2005-10-01"
+}

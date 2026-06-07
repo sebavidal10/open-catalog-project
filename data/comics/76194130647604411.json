@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130647604411",
+  "title": "The Flash #44",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Dalhouse",
+    "Brett Booth",
+    "Brian Cunningham",
+    "Nathan Fairbairn",
+    "Norm Rapmund",
+    "Pat Brosseau",
+    "Robert Venditti",
+    "Van Jensen",
+    "Wes Craig"
+  ],
+  "publish_date": "2015-09-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-44.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22402/",
+  "fetched_at": "2026-06-07T19:53:07.687Z",
+  "reviewed_at": null
+}

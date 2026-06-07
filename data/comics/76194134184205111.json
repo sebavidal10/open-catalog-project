@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134184205111",
+  "title": "The Flash #51",
+  "authors": [
+    "Andrew Marino",
+    "Brian Miller",
+    "Francesco Mattina",
+    "Howard Porter",
+    "Joshua Williamson",
+    "Luis Guerrero",
+    "Marie Javins",
+    "Rebecca Taylor",
+    "Scott Kolins",
+    "Steve Wands"
+  ],
+  "publish_date": "2018-07-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/09/flash-51.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1273/",
+  "fetched_at": "2026-06-07T20:01:09.961Z",
+  "reviewed_at": null
+}

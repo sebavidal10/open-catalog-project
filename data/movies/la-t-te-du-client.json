@@ -1,0 +1,27 @@
+{
+  "title": "La tête du client",
+  "year": "1965",
+  "rated": "N/A",
+  "released": "03 Sep 1965",
+  "runtime": "100 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "Jacques Poitrenaud",
+  "writer": "Michel Lebrun, Jean-Charles Lagneau, Gérard Carlier",
+  "actors": "Michel Serrault, Jean Poiret, Sophie Desmarets",
+  "plot": "Illegal gambling den where players can lose millions ...and the owners make their fortune.",
+  "language": "French, Spanish",
+  "country": "Spain, France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGE5OGJlZjItYmZiYy00MzY0LTk0MWUtODRjZjk0ZTQ5Y2VhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0059516",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:30:28.346Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "60194704605403011",
+  "title": "Flash Gordon #3",
+  "authors": [
+    "Chas! Pangburn",
+    "David Reyes",
+    "Frazer Irving",
+    "Jeremy Adams",
+    "Lee Loughridge",
+    "Taylor Esposito",
+    "Will Conrad"
+  ],
+  "publish_date": "2024-10-16",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/07/25/c495e4a5ee2b44ed96d2d2759744fff3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/125211/",
+  "fetched_at": "2026-06-07T20:18:39.644Z",
+  "reviewed_at": "2024-10-01"
+}

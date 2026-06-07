@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134184202711",
+  "title": "The Flash #27",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Hennessy",
+    "Brian Cunningham",
+    "Brian Miller",
+    "Carmine Di Giandomenico",
+    "Howard Porter",
+    "Joshua Williamson",
+    "Paul Pelletier",
+    "Steve Wands"
+  ],
+  "publish_date": "2017-07-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/03/flash-27.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1235/",
+  "fetched_at": "2026-06-07T19:58:05.073Z",
+  "reviewed_at": null
+}

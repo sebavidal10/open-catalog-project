@@ -1,0 +1,31 @@
+{
+  "title": "Father",
+  "year": "1966",
+  "rated": "Not Rated",
+  "released": "04 Oct 1967",
+  "runtime": "88 min",
+  "genre": "Drama",
+  "director": "István Szabó",
+  "writer": "István Szabó",
+  "actors": "András Bálint, Miklós Gábor, Dániel Erdély",
+  "plot": "A boy in Budapest loses his father in 1945, when he was the age of six. He does not remember much of the father but fantasizes that he performed various heroic feats.",
+  "language": "Hungarian",
+  "country": "Hungary",
+  "awards": "3 wins & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM5MjUxYmUtMjlmZC00YmJkLWI5MGItZDAyYzk5MDcyMmYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0060116",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:41:05.405Z"
+}

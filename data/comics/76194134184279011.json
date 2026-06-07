@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194134184279011",
+  "title": "The Flash #790",
+  "authors": [
+    "Chris Rosa",
+    "Daniel Bayliss",
+    "Ibrahim Moustafa",
+    "Jeremy Adams",
+    "Jim Lee",
+    "Luis Guerrero",
+    "Marie Javins",
+    "Matt Banning",
+    "Paul Kaminski",
+    "Rob Leigh",
+    "Roger Cruz",
+    "Taurin Clarke",
+    "Wellington Diaz"
+  ],
+  "publish_date": "2023-01-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/12/05/flash-790.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/53518/",
+  "fetched_at": "2026-06-07T20:14:11.217Z",
+  "reviewed_at": null
+}

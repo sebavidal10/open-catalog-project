@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194130647603811",
+  "title": "The Flash #38",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Dalhouse",
+    "Brett Booth",
+    "Brian Cunningham",
+    "Brian Miller",
+    "Howard Porter",
+    "Norm Rapmund",
+    "Pat Brosseau",
+    "Robert Venditti",
+    "Van Jensen"
+  ],
+  "publish_date": "2015-01-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-38.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22396/",
+  "fetched_at": "2026-06-07T19:51:46.976Z",
+  "reviewed_at": null
+}

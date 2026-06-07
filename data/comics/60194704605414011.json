@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "60194704605414011",
+  "title": "Flash Gordon #14",
+  "authors": [
+    "David Reyes",
+    "Eder Messias",
+    "Jeremy Adams",
+    "Juan Posada",
+    "Lee Loughridge",
+    "Sarah Brunstad",
+    "Taylor Esposito",
+    "Tom Derenick"
+  ],
+  "publish_date": "2025-12-31",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/18/4c8b090709f04530ab1d04305ae7f811.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156343/",
+  "fetched_at": "2026-06-07T20:22:59.378Z",
+  "reviewed_at": "2025-12-01"
+}

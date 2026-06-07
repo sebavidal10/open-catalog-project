@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134184276411",
+  "title": "The Flash #764",
+  "authors": [
+    "Alex R. Carr",
+    "Bernard Chang",
+    "Brian Miller",
+    "InHyuk Lee",
+    "Kevin Shinick",
+    "Marcelo Maiolo",
+    "Marquis Draper",
+    "Mike Cotton",
+    "Steve Wands",
+    "Will Conrad"
+  ],
+  "publish_date": "2020-10-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/10/21/flash-764.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18294/",
+  "fetched_at": "2026-06-07T20:08:42.516Z",
+  "reviewed_at": null
+}

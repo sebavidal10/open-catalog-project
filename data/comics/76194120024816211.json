@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120024816211",
+  "title": "Flash #162",
+  "authors": [
+    "Brian Augustyn",
+    "Doug Hazlewood",
+    "Gaspar Saladino",
+    "Joey Cavalieri",
+    "Mark Waid",
+    "Paul Pelletier",
+    "Steve Lightle",
+    "Tom McCraw"
+  ],
+  "publish_date": "2000-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/06/flash-v2-162.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22590/",
+  "fetched_at": "2026-06-07T19:20:08.326Z",
+  "reviewed_at": "2000-07-01"
+}

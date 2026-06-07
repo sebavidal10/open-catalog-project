@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134184206811",
+  "title": "The Flash #68",
+  "authors": [
+    "Andrew Marino",
+    "Dan Mora",
+    "Jamie S. Rich",
+    "Joshua Williamson",
+    "Luis Guerrero",
+    "Mitch Gerads",
+    "Paul Kaminski",
+    "Scott Kolins",
+    "Steve Wands"
+  ],
+  "publish_date": "2019-04-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/04/08/flash-68.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1844/",
+  "fetched_at": "2026-06-07T20:03:27.832Z",
+  "reviewed_at": null
+}

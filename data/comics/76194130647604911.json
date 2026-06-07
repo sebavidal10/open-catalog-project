@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194130647604911",
+  "title": "The Flash #49",
+  "authors": [
+    "Adriano Lucas",
+    "Amedeo Turturro",
+    "Brian Cunningham",
+    "Frank Miller",
+    "Guy Major",
+    "Ivan Reis",
+    "Joe Prado",
+    "Neal Adams",
+    "Pat Brosseau",
+    "Philippe Briones",
+    "Robert Venditti",
+    "Van Jensen"
+  ],
+  "publish_date": "2016-02-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-49.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22407/",
+  "fetched_at": "2026-06-07T19:53:57.013Z",
+  "reviewed_at": null
+}

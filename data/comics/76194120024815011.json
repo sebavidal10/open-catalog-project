@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120024815011",
+  "title": "Flash #150",
+  "authors": [
+    "Brian Augustyn",
+    "Frank Berrios",
+    "Gaspar Saladino",
+    "Joey Cavalieri",
+    "Mark Waid",
+    "Paul Pelletier",
+    "Steve Lightle",
+    "Tom McCraw",
+    "Vince Russell"
+  ],
+  "publish_date": "1999-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/05/flash-v2-150.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22578/",
+  "fetched_at": "2026-06-07T19:17:31.054Z",
+  "reviewed_at": "1999-07-01"
+}

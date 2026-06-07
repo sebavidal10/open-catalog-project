@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194127969500311",
+  "title": "The Flash #3",
+  "authors": [
+    "Adam Schlagman",
+    "Brian Buccellato",
+    "Eddie Berganza",
+    "Francis Manapul",
+    "Geoff Johns",
+    "Greg Horn",
+    "Sal Cipriano",
+    "Scott Kolins"
+  ],
+  "publish_date": "2010-06-30",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v3-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22680/",
+  "fetched_at": "2026-06-07T19:38:16.047Z",
+  "reviewed_at": null
+}

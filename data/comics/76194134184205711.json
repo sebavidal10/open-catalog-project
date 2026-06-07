@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134184205711",
+  "title": "The Flash #57",
+  "authors": [
+    "Andrew Marino",
+    "Dan Mora",
+    "Elmer Santos",
+    "Joshua Williamson",
+    "Luis Guerrero",
+    "Marie Javins",
+    "Mico Suayan",
+    "Rebecca Taylor",
+    "Scott Kolins",
+    "Steve Wands"
+  ],
+  "publish_date": "2018-10-24",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/10/flash-57.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1279/",
+  "fetched_at": "2026-06-07T20:01:54.911Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "60194704605401011",
+  "title": "Flash Gordon #1",
+  "authors": [
+    "Alison Sampson",
+    "Chas! Pangburn",
+    "Dan Panosian",
+    "David Reyes",
+    "Frazer Irving",
+    "Ian Churchill",
+    "Jeremy Adams",
+    "Joe Chiodo",
+    "Lee Loughridge",
+    "Reilly Brown",
+    "Taylor Esposito",
+    "Will Conrad"
+  ],
+  "publish_date": "2024-07-24",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/07/25/fa126001cd58477693512a42639b81b1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/125209/",
+  "fetched_at": "2026-06-07T20:17:59.059Z",
+  "reviewed_at": "2024-07-01"
+}

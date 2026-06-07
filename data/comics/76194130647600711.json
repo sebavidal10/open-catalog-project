@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194130647600711",
+  "title": "The Flash #7",
+  "authors": [
+    "Brian Buccellato",
+    "Brian Cunningham",
+    "Dale Keown",
+    "Darren Shan",
+    "Francis Manapul",
+    "Wes Abbott"
+  ],
+  "publish_date": "2012-03-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22362/",
+  "fetched_at": "2026-06-07T19:45:22.792Z",
+  "reviewed_at": null
+}

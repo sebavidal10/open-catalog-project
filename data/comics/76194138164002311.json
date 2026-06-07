@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "76194138164002311",
+  "title": "The Flash #23",
+  "authors": [
+    "Andrew Dalhouse",
+    "Chris Rosa",
+    "Davide Paratore",
+    "Hassan Otsmane-Elhaou",
+    "Jim Lee",
+    "Marie Javins",
+    "Matt Herms",
+    "Paul Kaminski",
+    "Serg Acuña",
+    "Simon Spurrier",
+    "Travis Mercer",
+    "Vasco Georgiev"
+  ],
+  "publish_date": "2025-07-30",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/07/04/0c6a2d9117414fa7ab17a8fb51c6b953.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/149977/",
+  "fetched_at": "2026-06-07T20:21:45.295Z",
+  "reviewed_at": null
+}

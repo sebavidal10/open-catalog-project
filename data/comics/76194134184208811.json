@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134184208811",
+  "title": "The Flash #88",
+  "authors": [
+    "Alex R. Carr",
+    "Brian Miller",
+    "Howard Porter",
+    "Joshua Williamson",
+    "Marquis Draper",
+    "Michael Golden",
+    "Mike Cotton",
+    "Steve Wands"
+  ],
+  "publish_date": "2020-02-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/02/07/flash-88.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/9400/",
+  "fetched_at": "2026-06-07T20:06:17.203Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120024810311",
+  "title": "Flash #103",
+  "authors": [
+    "Alisande Morales",
+    "Brian Augustyn",
+    "Gaspar Saladino",
+    "Mark Stegbauer",
+    "Mark Waid",
+    "Michael Jan Friedman",
+    "Roger Robinson",
+    "Ruben Diaz",
+    "Tom McCraw"
+  ],
+  "publish_date": "1995-07-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/04/flash-v2-103.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22514/",
+  "fetched_at": "2026-06-07T19:09:41.641Z",
+  "reviewed_at": "1995-07-01"
+}

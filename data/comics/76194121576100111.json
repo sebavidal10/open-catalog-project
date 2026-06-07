@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194121576100111",
+  "title": "Flash #1000000",
+  "authors": [
+    "Gaspar Saladino",
+    "José Marzán Jr.",
+    "Joshua Hood",
+    "L. A. Williams",
+    "Mark Waid",
+    "Michael Jan Friedman",
+    "Paul Kupperberg",
+    "Steve Lightle",
+    "Tom McCraw"
+  ],
+  "publish_date": "1998-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v2-1000000.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22660/",
+  "fetched_at": "2026-06-07T19:16:16.042Z",
+  "reviewed_at": "1998-11-01"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "60194704605404011",
+  "title": "Flash Gordon #4",
+  "authors": [
+    "Chas! Pangburn",
+    "David Reyes",
+    "Frazer Irving",
+    "Jeremy Adams",
+    "Lee Loughridge",
+    "Taylor Esposito",
+    "Will Conrad"
+  ],
+  "publish_date": "2024-11-27",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/28/1fc8ad1e5805480cb14f6c5e358d6802.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/132393/",
+  "fetched_at": "2026-06-07T20:18:57.562Z",
+  "reviewed_at": "2024-11-01"
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194134184278011",
+  "title": "The Flash #780",
+  "authors": [
+    "Alex Sinclair",
+    "Chris Rosa",
+    "Jeremy Adams",
+    "Jeromy Cox",
+    "Jim Lee",
+    "Marie Javins",
+    "Matt Herms",
+    "Max Dunbar",
+    "Paul Kaminski",
+    "Peter Pantazis",
+    "Rafa Sandoval",
+    "Rob Leigh",
+    "Will Conrad"
+  ],
+  "publish_date": "2022-03-15",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/02/15/flash-780.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43970/",
+  "fetched_at": "2026-06-07T20:11:37.715Z",
+  "reviewed_at": null
+}

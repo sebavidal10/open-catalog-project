@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134184208211",
+  "title": "The Flash #82",
+  "authors": [
+    "Arif Prianto",
+    "Ben Meares",
+    "Guillem March",
+    "Jamie S. Rich",
+    "Jordi Tarragona Garcia",
+    "Joshua Williamson",
+    "Kamome Shirahama",
+    "Paul Kaminski",
+    "Rafa Sandoval",
+    "Steve Wands"
+  ],
+  "publish_date": "2019-11-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/09/flash-82.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7304/",
+  "fetched_at": "2026-06-07T20:05:20.475Z",
+  "reviewed_at": null
+}

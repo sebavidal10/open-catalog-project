@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120024817911",
+  "title": "Flash #179",
+  "authors": [
+    "Digital Chameleon",
+    "Doug Hazlewood",
+    "Gaspar Saladino",
+    "Geoff Johns",
+    "James Sinclair",
+    "Jim Lee",
+    "Joey Cavalieri",
+    "Scott Kolins"
+  ],
+  "publish_date": "2001-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/06/flash-v2-179.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22607/",
+  "fetched_at": "2026-06-07T19:23:02.991Z",
+  "reviewed_at": "2001-12-01"
+}

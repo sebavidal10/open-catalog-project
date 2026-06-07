@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194134184203611",
+  "title": "The Flash #36",
+  "authors": [
+    "Andrew Marino",
+    "Barry Kitson",
+    "Brian Miller",
+    "Howard Porter",
+    "Joshua Williamson",
+    "Rebecca Taylor",
+    "Steve Wands"
+  ],
+  "publish_date": "2017-12-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/08/flash-36.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1258/",
+  "fetched_at": "2026-06-07T19:59:13.659Z",
+  "reviewed_at": null
+}

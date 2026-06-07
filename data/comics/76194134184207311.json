@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134184207311",
+  "title": "The Flash #73",
+  "authors": [
+    "Andrew Marino",
+    "Brian Miller",
+    "Evan Shaner",
+    "Howard Porter",
+    "Jamie S. Rich",
+    "Joshua Williamson",
+    "Paul Kaminski",
+    "Steve Wands"
+  ],
+  "publish_date": "2019-06-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/26/flash-73.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3004/",
+  "fetched_at": "2026-06-07T20:03:59.986Z",
+  "reviewed_at": null
+}

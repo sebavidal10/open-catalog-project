@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130647603011",
+  "title": "The Flash #30",
+  "authors": [
+    "Andrew Dalhouse",
+    "Anton Emdin",
+    "Brett Booth",
+    "Brian Cunningham",
+    "Dezi Sienty",
+    "Kate Durré",
+    "Norm Rapmund",
+    "Robert Venditti",
+    "Van Jensen"
+  ],
+  "publish_date": "2014-04-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-30.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22388/",
+  "fetched_at": "2026-06-07T19:49:46.482Z",
+  "reviewed_at": null
+}

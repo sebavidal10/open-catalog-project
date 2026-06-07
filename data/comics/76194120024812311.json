@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194120024812311",
+  "title": "Flash #123",
+  "authors": [
+    "Brian Augustyn",
+    "Gaspar Saladino",
+    "Jason Hernandez-Rosenblatt",
+    "John Dell",
+    "John Nyberg",
+    "Mark Waid",
+    "Mike Wieringo",
+    "Paul Kupperberg",
+    "Paul Ryan",
+    "Tom McCraw"
+  ],
+  "publish_date": "1997-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/05/flash-v2-123.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22551/",
+  "fetched_at": "2026-06-07T19:13:00.764Z",
+  "reviewed_at": "1997-03-01"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134184275211",
+  "title": "The Flash #752",
+  "authors": [
+    "Alex R. Carr",
+    "Brian Miller",
+    "Howard Porter",
+    "Joshua Williamson",
+    "Jung-Geun Yoon",
+    "Marquis Draper",
+    "Mike Cotton",
+    "Steve Wands"
+  ],
+  "publish_date": "2020-03-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/03/19/flash-742.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/10611/",
+  "fetched_at": "2026-06-07T20:06:40.890Z",
+  "reviewed_at": null
+}

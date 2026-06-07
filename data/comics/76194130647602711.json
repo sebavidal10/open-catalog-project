@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130647602711",
+  "title": "The Flash #27",
+  "authors": [
+    "Brian Buccellato",
+    "Brian Cunningham",
+    "Carlos M. Mangual",
+    "Harvey Richards",
+    "Jon Katz",
+    "Matt Hollingsworth",
+    "Pasqual Ferry",
+    "Patrick Zircher",
+    "Wil Moss"
+  ],
+  "publish_date": "2014-01-29",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-27.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22385/",
+  "fetched_at": "2026-06-07T19:49:12.179Z",
+  "reviewed_at": null
+}

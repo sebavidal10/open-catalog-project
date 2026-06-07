@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194127969500211",
+  "title": "The Flash #2",
+  "authors": [
+    "Adam Schlagman",
+    "Brian Buccellato",
+    "Eddie Berganza",
+    "Francis Manapul",
+    "Geoff Johns",
+    "Joel Gomez",
+    "Ryan Sook",
+    "Sal Cipriano"
+  ],
+  "publish_date": "2010-05-12",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v3-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22679/",
+  "fetched_at": "2026-06-07T19:38:06.970Z",
+  "reviewed_at": null
+}

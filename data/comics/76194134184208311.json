@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134184208311",
+  "title": "The Flash #83",
+  "authors": [
+    "Arif Prianto",
+    "Ben Meares",
+    "Brian Miller",
+    "Guillem March",
+    "Jamie S. Rich",
+    "Jordi Tarragona Garcia",
+    "Joshua Williamson",
+    "Paul Kaminski",
+    "Rafa Sandoval",
+    "Steve Wands"
+  ],
+  "publish_date": "2019-11-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/11/22/flash-83.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/7613/",
+  "fetched_at": "2026-06-07T20:05:24.776Z",
+  "reviewed_at": null
+}

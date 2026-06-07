@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120024898111",
+  "title": "Flash #98",
+  "authors": [
+    "Alisande Morales",
+    "Brian Augustyn",
+    "Gaspar Saladino",
+    "José Marzán Jr.",
+    "Mark Waid",
+    "Mike Wieringo",
+    "Ruben Diaz",
+    "Salvador Larroca",
+    "Tom McCraw"
+  ],
+  "publish_date": "1995-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/04/flash-v2-98.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22509/",
+  "fetched_at": "2026-06-07T19:08:49.017Z",
+  "reviewed_at": "1995-02-01"
+}

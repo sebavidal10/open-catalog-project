@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120024811811",
+  "title": "Flash #118",
+  "authors": [
+    "Brian Augustyn",
+    "Brian Garvey",
+    "Gaspar Saladino",
+    "Jason Hernandez-Rosenblatt",
+    "Mark Waid",
+    "Mike Wieringo",
+    "Paul Kupperberg",
+    "Sergio Cariello",
+    "Tom McCraw"
+  ],
+  "publish_date": "1996-10-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/05/flash-v2-118.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22546/",
+  "fetched_at": "2026-06-07T19:12:10.589Z",
+  "reviewed_at": "1996-10-01"
+}

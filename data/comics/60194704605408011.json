@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "60194704605408011",
+  "title": "Flash Gordon #8",
+  "authors": [
+    "Chas! Pangburn",
+    "David Reyes",
+    "Jeremy Adams",
+    "Juan Posada",
+    "Lee Loughridge",
+    "Nelson Dániel",
+    "Sarah Brunstad",
+    "Taylor Esposito",
+    "Tom Derenick",
+    "Will Conrad",
+    "Zach Howard"
+  ],
+  "publish_date": "2025-04-16",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/07/761417e7c55e44db8af3ff794fa0a2c1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/137582/",
+  "fetched_at": "2026-06-07T20:20:11.085Z",
+  "reviewed_at": "2025-04-01"
+}

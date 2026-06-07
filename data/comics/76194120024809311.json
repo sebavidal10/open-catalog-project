@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194120024809311",
+  "title": "Flash #93",
+  "authors": [
+    "Brian Augustyn",
+    "Carlos Pacheco",
+    "Gaspar Saladino",
+    "Gina Going-Raney",
+    "José Marzán Jr.",
+    "Ken Branch",
+    "Mark Waid",
+    "Mike Wieringo",
+    "Ruben Diaz"
+  ],
+  "publish_date": "1994-08-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/04/flash-v2-93.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22503/",
+  "fetched_at": "2026-06-07T19:07:52.629Z",
+  "reviewed_at": "1994-08-01"
+}

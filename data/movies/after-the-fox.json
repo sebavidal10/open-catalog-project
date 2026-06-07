@@ -1,0 +1,31 @@
+{
+  "title": "After the Fox",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "08 Sep 1966",
+  "runtime": "103 min",
+  "genre": "Comedy, Crime",
+  "director": "Vittorio De Sica",
+  "writer": "Neil Simon, Cesare Zavattini",
+  "actors": "Peter Sellers, Victor Mature, Britt Ekland",
+  "plot": "An Italian criminal mastermind, impersonating a film director, plans to grab the loot on a beach where a bogus movie is being filmed.",
+  "language": "English, Italian",
+  "country": "United Kingdom, Italy, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTJmNDNjNmUtNzk5Mi00MDYzLThmOTgtNzA4NTY5ZGEwNDcxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0060200",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:33:23.974Z"
+}

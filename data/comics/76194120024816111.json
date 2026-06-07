@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120024816111",
+  "title": "Flash #161",
+  "authors": [
+    "Doug Hazlewood",
+    "Gaspar Saladino",
+    "Joey Cavalieri",
+    "Pat McGreal",
+    "Paul Pelletier",
+    "Steve Lightle",
+    "Tom McCraw"
+  ],
+  "publish_date": "2000-06-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/06/flash-v2-161.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22589/",
+  "fetched_at": "2026-06-07T19:19:54.461Z",
+  "reviewed_at": "2000-06-01"
+}

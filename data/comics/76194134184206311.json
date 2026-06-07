@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134184206311",
+  "title": "The Flash #63",
+  "authors": [
+    "Andrew Marino",
+    "Brian Miller",
+    "Howard Chaykin",
+    "Jordi Tarragona Garcia",
+    "Joshua Williamson",
+    "Marie Javins",
+    "Minkyu Jung",
+    "Paul Kaminski",
+    "Rafa Sandoval",
+    "Steve Wands",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2019-01-30",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/10/flash-63.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1285/",
+  "fetched_at": "2026-06-07T20:02:44.223Z",
+  "reviewed_at": null
+}

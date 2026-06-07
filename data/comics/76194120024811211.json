@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194120024811211",
+  "title": "Flash #112",
+  "authors": [
+    "Alisande Morales",
+    "Anthony Castrillo",
+    "Brian Augustyn",
+    "Gaspar Saladino",
+    "Hanibal Rodriguez",
+    "José Marzán Jr.",
+    "Kevin Cunningham",
+    "Mark Waid",
+    "Oscar Jiménez",
+    "Tom McCraw"
+  ],
+  "publish_date": "1996-04-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/04/flash-v2-112.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22523/",
+  "fetched_at": "2026-06-07T19:11:16.245Z",
+  "reviewed_at": "1996-04-01"
+}

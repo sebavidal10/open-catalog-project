@@ -1,0 +1,31 @@
+{
+  "title": "The Nun",
+  "year": "1966",
+  "rated": "GP",
+  "released": "08 Jul 1971",
+  "runtime": "140 min",
+  "genre": "Drama",
+  "director": "Jacques Rivette",
+  "writer": "Denis Diderot, Jean Gruault, Jacques Rivette",
+  "actors": "Anna Karina, Liselotte Pulver, Micheline Presle",
+  "plot": "Suzanne is forced against her will to take vows as a nun and three mothers superior treat her in radically different ways. Suzanne's virtue brings disaster to everyone in this faithful adaptation of a bitter attack on religious ab...",
+  "language": "French, Latin",
+  "country": "France",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmQ0ZWU0OTAtMWNjNi00YTJlLWExZGItOGU5Njk4NmVlYTMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0060891",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:30:47.243Z"
+}

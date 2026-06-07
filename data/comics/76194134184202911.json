@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134184202911",
+  "title": "The Flash #29",
+  "authors": [
+    "Amedeo Turturro",
+    "Brian Cunningham",
+    "Brian Miller",
+    "Christian Duce",
+    "Howard Porter",
+    "Ivan Plascencia",
+    "Joshua Williamson",
+    "Neil Googe",
+    "Pop Mhan",
+    "Rebecca Taylor",
+    "Steve Wands"
+  ],
+  "publish_date": "2017-08-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/03/flash-29.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1237/",
+  "fetched_at": "2026-06-07T19:58:18.139Z",
+  "reviewed_at": null
+}

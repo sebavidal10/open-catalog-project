@@ -1,0 +1,31 @@
+{
+  "title": "The Wrong Box",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "01 Jul 1966",
+  "runtime": "105 min",
+  "genre": "Comedy, Crime",
+  "director": "Bryan Forbes",
+  "writer": "Robert Louis Stevenson, Lloyd Osbourne, Larry Gelbart",
+  "actors": "John Mills, Michael Caine, Ralph Richardson",
+  "plot": "In Victorian England, a fortune now depends on which of two brothers outlives the other, or can be made to have seemed to do so.",
+  "language": "English, Swahili",
+  "country": "United Kingdom",
+  "awards": "Won 1 BAFTA Award1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTU2YTllMWYtYjI3YS00YjlmLWE4YTItNDBlNWZjMjc4ODFhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0061204",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:33:02.231Z"
+}

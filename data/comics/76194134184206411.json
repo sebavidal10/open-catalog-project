@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194134184206411",
+  "title": "The Flash #64",
+  "authors": [
+    "Alex Sinclair",
+    "Andrew Marino",
+    "Brittany Holzherr",
+    "Chris Burnham",
+    "Jordi Tarragona Garcia",
+    "Joshua Williamson",
+    "Marie Javins",
+    "Nathan Fairbairn",
+    "Paul Kaminski",
+    "Rafa Sandoval",
+    "Steve Wands",
+    "Tomeu Morey",
+    "Tom Raney"
+  ],
+  "publish_date": "2019-02-13",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/12/flash-64.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1289/",
+  "fetched_at": "2026-06-07T20:03:00.699Z",
+  "reviewed_at": null
+}

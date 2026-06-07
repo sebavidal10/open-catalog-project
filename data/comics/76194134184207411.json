@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134184207411",
+  "title": "The Flash #74",
+  "authors": [
+    "Andrew Marino",
+    "Brian Miller",
+    "Evan Shaner",
+    "Howard Porter",
+    "Jamie S. Rich",
+    "Joshua Williamson",
+    "Paul Kaminski",
+    "Steve Wands"
+  ],
+  "publish_date": "2019-07-10",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/05/flash-74.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3322/",
+  "fetched_at": "2026-06-07T20:04:09.407Z",
+  "reviewed_at": null
+}

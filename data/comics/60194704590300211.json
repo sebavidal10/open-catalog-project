@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "60194704590300211",
+  "title": "Flash Gordon: Quarterly #2",
+  "authors": [
+    "Adam Gorham",
+    "Adriano Augusto",
+    "Buddy Beaudoin",
+    "Chas! Pangburn",
+    "Dan DiDio",
+    "Fabi Marques",
+    "Igor Lima",
+    "Joe Mulvey",
+    "Marc Andreyko",
+    "Mark Englert",
+    "Miguel Zapata",
+    "Rich Douek",
+    "Stefano Simeone",
+    "Taylor Esposito"
+  ],
+  "publish_date": "2024-12-18",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/12/20/984a1bb53a7c4b9bbe347f62da5ab489.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/133019/",
+  "fetched_at": "2026-06-07T20:19:15.178Z",
+  "reviewed_at": "2024-12-01"
+}

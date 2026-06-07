@@ -1,0 +1,21 @@
+{
+  "isbn": null,
+  "upc": "75960604240100111",
+  "title": "Flash Gordon #1",
+  "authors": [
+    "Al Williamson",
+    "Mark Schultz",
+    "Tom Daning",
+    "Tom Roberts"
+  ],
+  "publish_date": "1995-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/05/15/26e91bc5493c402d89180fa6ed219d29.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/170259/",
+  "fetched_at": "2026-06-07T19:09:32.646Z",
+  "reviewed_at": "1995-06-01"
+}

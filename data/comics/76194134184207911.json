@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134184207911",
+  "title": "The Flash #79",
+  "authors": [
+    "Arif Prianto",
+    "Jamie S. Rich",
+    "Jordi Tarragona Garcia",
+    "Joshua Williamson",
+    "Paolo Pantalena",
+    "Paul Kaminski",
+    "Rafa Sandoval",
+    "Rob Levin",
+    "Steve Wands",
+    "Tomeu Morey"
+  ],
+  "publish_date": "2019-09-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/09/20/flash-79.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/5696/",
+  "fetched_at": "2026-06-07T20:04:41.868Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Black Girl",
+  "year": "1966",
+  "rated": "Not Rated",
+  "released": "17 Mar 1966",
+  "runtime": "65 min",
+  "genre": "Drama",
+  "director": "Ousmane Sembene",
+  "writer": "Ousmane Sembene",
+  "actors": "Mbissine Thérèse Diop, Anne-Marie Jelinek, Momar Nar Sene",
+  "plot": "A black girl from Senegal becomes a servant in France.",
+  "language": "French",
+  "country": "Senegal, France",
+  "awards": "2 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGU2MTgxODYtZTA1Yi00ZDI5LWFkMzktNWIwYTkxMzA5ZGM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "metascore": "72",
+  "imdbRating": "7.4",
+  "imdbID": "tt0060758",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:32:28.960Z"
+}

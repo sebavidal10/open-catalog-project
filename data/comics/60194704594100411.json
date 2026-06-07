@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "60194704594100411",
+  "title": "Flash Gordon: Quarterly #4",
+  "authors": [
+    "Adel E. Talemi",
+    "Alexandra Colorado",
+    "Ceci de la Cruz",
+    "Chas! Pangburn",
+    "Corin Howell",
+    "David Hazan",
+    "Fabi Marques",
+    "Igor Lima",
+    "Jeff Eckleberry",
+    "Leo Chiola",
+    "Maksim Streklov",
+    "Manuel Garcia",
+    "Marc Andreyko",
+    "Mark Englert",
+    "Miguel Zapata",
+    "Sarah Brunstad",
+    "Sarah Cooke",
+    "Taylor Esposito"
+  ],
+  "publish_date": "2025-07-30",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/07/31/fg-quarterly-4-fixed.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/150026/",
+  "fetched_at": "2026-06-07T20:21:18.860Z",
+  "reviewed_at": "2025-07-01"
+}

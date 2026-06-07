@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "60194704605409011",
+  "title": "Flash Gordon #9",
+  "authors": [
+    "Arthur Hesli",
+    "Chas! Pangburn",
+    "David Reyes",
+    "Jeremy Adams",
+    "Juan Posada",
+    "Lee Loughridge",
+    "Marika Cresta",
+    "Sarah Brunstad",
+    "Taylor Esposito",
+    "Tom Derenick",
+    "Will Conrad"
+  ],
+  "publish_date": "2025-05-14",
+  "publisher": [
+    "Mad Cave Studios"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/07/1c28205f431b4329ab5b99ea236a31af.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/137583/",
+  "fetched_at": "2026-06-07T20:20:33.877Z",
+  "reviewed_at": "2025-05-01"
+}

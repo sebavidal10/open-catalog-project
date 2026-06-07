@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120024819011",
+  "title": "Flash #190",
+  "authors": [
+    "Digital Chameleon",
+    "Gaspar Saladino",
+    "Geoff Johns",
+    "James Sinclair",
+    "Joey Cavalieri",
+    "Justiniano",
+    "Scott Kolins",
+    "Walden Wong"
+  ],
+  "publish_date": "2002-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/06/flash-v2-190.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22618/",
+  "fetched_at": "2026-06-07T19:24:47.832Z",
+  "reviewed_at": "2002-11-01"
+}

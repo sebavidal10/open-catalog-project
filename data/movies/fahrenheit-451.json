@@ -1,0 +1,31 @@
+{
+  "title": "Fahrenheit 451",
+  "year": "1966",
+  "rated": "Not Rated",
+  "released": "14 Nov 1966",
+  "runtime": "112 min",
+  "genre": "Drama, Sci-Fi",
+  "director": "François Truffaut",
+  "writer": "François Truffaut, Jean-Louis Richard, Ray Bradbury",
+  "actors": "Oskar Werner, Julie Christie, Cyril Cusack",
+  "plot": "In an oppressive future, a fireman whose duty is to destroy all books begins to question his task.",
+  "language": "English, Russian, Japanese, French",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 BAFTA Award1 win & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDA3ZjIxY2UtMzVmMS00NTkwLTljMzktNzk2ZWMxYzZkNGE3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0060390",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:30:54.670Z"
+}

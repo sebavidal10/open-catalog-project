@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194130647603311",
+  "title": "The Flash #33",
+  "authors": [
+    "Amedeo Turturro",
+    "Andrew Dalhouse",
+    "Brett Booth",
+    "Brian Cunningham",
+    "Dezi Sienty",
+    "Kim Jung Gi",
+    "Norm Rapmund",
+    "Robert Venditti",
+    "Van Jensen"
+  ],
+  "publish_date": "2014-07-23",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-33.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22391/",
+  "fetched_at": "2026-06-07T19:50:32.460Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134184207711",
+  "title": "The Flash #77",
+  "authors": [
+    "Jamie S. Rich",
+    "Jordi Tarragona Garcia",
+    "Joshua Williamson",
+    "Paul Kaminski",
+    "Rafa Sandoval",
+    "Rob Levin",
+    "Steve Wands",
+    "Tomeu Morey",
+    "Yasmine Putri"
+  ],
+  "publish_date": "2019-08-28",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/08/24/flash-77.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/4868/",
+  "fetched_at": "2026-06-07T20:04:27.943Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "72513021544408011",
+  "title": "Flash Gordon #8",
+  "authors": [
+    "Evan Shaner",
+    "Jeff Parker",
+    "Jordie Bellaire",
+    "Ken Haeser",
+    "Marc Laming",
+    "Nathan Cosby",
+    "Roberto Castro",
+    "Simon Bowland"
+  ],
+  "publish_date": "2015-01-28",
+  "publisher": [
+    "Dynamite Entertainment"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/02/202fbb96aea94603b1c9b717a9eb0f5d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/137289/",
+  "fetched_at": "2026-06-07T19:51:24.277Z",
+  "reviewed_at": "2015-01-01"
+}

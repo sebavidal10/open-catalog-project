@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194120024818811",
+  "title": "Flash #188",
+  "authors": [
+    "Dan Panosian",
+    "Digital Chameleon",
+    "Gaspar Saladino",
+    "Geoff Johns",
+    "James Sinclair",
+    "Joey Cavalieri",
+    "Scott Kolins"
+  ],
+  "publish_date": "2002-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/06/flash-v2-188.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22616/",
+  "fetched_at": "2026-06-07T19:24:30.121Z",
+  "reviewed_at": "2002-09-01"
+}

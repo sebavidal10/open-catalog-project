@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194120024821211",
+  "title": "Flash #212",
+  "authors": [
+    "Ethan Van Sciver",
+    "Geoff Johns",
+    "Harvey Richards",
+    "James Sinclair",
+    "Joey Cavalieri",
+    "Pat Brosseau",
+    "Steven Cummings",
+    "Wayne Faucher"
+  ],
+  "publish_date": "2004-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v2-212.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22640/",
+  "fetched_at": "2026-06-07T19:28:08.925Z",
+  "reviewed_at": "2004-09-01"
+}

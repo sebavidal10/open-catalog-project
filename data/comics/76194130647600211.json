@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194130647600211",
+  "title": "The Flash #2",
+  "authors": [
+    "Brian Buccellato",
+    "Brian Cunningham",
+    "Darren Shan",
+    "Francis Manapul",
+    "Greg Capullo",
+    "Sal Cipriano"
+  ],
+  "publish_date": "2011-10-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22357/",
+  "fetched_at": "2026-06-07T19:44:17.880Z",
+  "reviewed_at": null
+}

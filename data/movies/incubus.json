@@ -1,0 +1,31 @@
+{
+  "title": "Incubus",
+  "year": "1966",
+  "rated": "Unrated",
+  "released": "26 Oct 1966",
+  "runtime": "78 min",
+  "genre": "Horror",
+  "director": "Leslie Stevens",
+  "writer": "Leslie Stevens",
+  "actors": "William Shatner, Allyson Ames, Eloise Hardt",
+  "plot": "On a strange island inhabited by demons and spirits, a man battles the forces of evil.",
+  "language": "Esperanto",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2JjZmI1ZDgtYzU0Ni00NmFjLWE3OGQtNGNmMjIxYmRkNmRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "63%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0059311",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:32:30.189Z"
+}

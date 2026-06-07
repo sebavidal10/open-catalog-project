@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194134184201911",
+  "title": "The Flash #19",
+  "authors": [
+    "Amedeo Turturro",
+    "Andy Owens",
+    "Brian Cunningham",
+    "Brian Miller",
+    "Carmine Di Giandomenico",
+    "Chris Sotomayor",
+    "Howard Porter",
+    "Jesús Merino",
+    "Joshua Williamson",
+    "Steve Wands"
+  ],
+  "publish_date": "2017-03-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/03/flash-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1227/",
+  "fetched_at": "2026-06-07T19:57:04.347Z",
+  "reviewed_at": null
+}

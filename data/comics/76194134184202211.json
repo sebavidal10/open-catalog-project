@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194134184202211",
+  "title": "The Flash #22",
+  "authors": [
+    "Amedeo Turturro",
+    "Brad Anderson",
+    "Brian Cunningham",
+    "Brian Miller",
+    "Howard Porter",
+    "Jason Fabok",
+    "Joshua Williamson",
+    "Steve Wands"
+  ],
+  "publish_date": "2017-05-17",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/03/flash-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1230/",
+  "fetched_at": "2026-06-07T19:57:30.928Z",
+  "reviewed_at": null
+}

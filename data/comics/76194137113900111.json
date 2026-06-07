@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194137113900111",
+  "title": "Future State: The Flash #1",
+  "authors": [
+    "Alex R. Carr",
+    "Annette Kwok",
+    "Bob Harras",
+    "Brandon Peterson",
+    "Brandon Vietti",
+    "Dale Eaglesham",
+    "Jim Lee",
+    "Kaare Andrews",
+    "Marquis Draper",
+    "Michael Atiyeh",
+    "Mike Cotton",
+    "Nicola Scott",
+    "Steve Wands"
+  ],
+  "publish_date": "2021-01-05",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/01/fs-flash-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22246/",
+  "fetched_at": "2026-06-07T20:09:22.039Z",
+  "reviewed_at": null
+}

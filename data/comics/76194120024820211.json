@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194120024820211",
+  "title": "Flash #202",
+  "authors": [
+    "Alberto Carlos Dose",
+    "Bill Oakley",
+    "Geoff Johns",
+    "Harvey Richards",
+    "James Sinclair",
+    "Joey Cavalieri"
+  ],
+  "publish_date": "2003-11-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/06/flash-v2-202.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22630/",
+  "fetched_at": "2026-06-07T19:26:39.143Z",
+  "reviewed_at": "2003-11-01"
+}

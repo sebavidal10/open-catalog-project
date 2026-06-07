@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "72513021544402011",
+  "title": "Flash Gordon #2",
+  "authors": [
+    "Chris Caniano",
+    "Evan Shaner",
+    "Hannah Gorfinkel Elder",
+    "Jeff Parker",
+    "Jordie Bellaire",
+    "Joseph Rybandt",
+    "Ken Haeser",
+    "Marc Laming",
+    "Molly Mahan",
+    "Nathan Cosby",
+    "Roberto Castro",
+    "Simon Bowland"
+  ],
+  "publish_date": "2014-05-21",
+  "publisher": [
+    "Dynamite Entertainment"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/02/922df2542c934bea8b313e0d1393756d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/137283/",
+  "fetched_at": "2026-06-07T19:49:37.676Z",
+  "reviewed_at": "2014-05-01"
+}

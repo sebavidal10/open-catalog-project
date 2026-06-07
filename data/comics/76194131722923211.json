@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194131722923211",
+  "title": "The Flash #23.2",
+  "authors": [
+    "Brian Buccellato",
+    "Brian Cunningham",
+    "Carlos M. Mangual",
+    "Francis Manapul",
+    "Harvey Richards",
+    "Scott Hepburn",
+    "Wil Moss"
+  ],
+  "publish_date": "2013-09-11",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-23-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22381/",
+  "fetched_at": "2026-06-07T19:48:30.502Z",
+  "reviewed_at": null
+}

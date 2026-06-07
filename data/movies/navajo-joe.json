@@ -1,0 +1,31 @@
+{
+  "title": "Navajo Joe",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "25 Nov 1966",
+  "runtime": "93 min",
+  "genre": "Drama, Western",
+  "director": "Sergio Corbucci",
+  "writer": "Ugo Pirro, Piero Regnoli, Fernando Di Leo",
+  "actors": "Burt Reynolds, Aldo Sambrell, Nicoletta Machiavelli",
+  "plot": "A Native American warrior seeks revenge on the gang of sadistic scalphunters-turned-bank robbers who massacred his tribe.",
+  "language": "Italian",
+  "country": "Italy, Spain",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGVmMTgwYjAtMjRkZS00NWJjLTgzOTctOTc1MjIxZTQyNzE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "32/100"
+    }
+  ],
+  "metascore": "32",
+  "imdbRating": "6.3",
+  "imdbID": "tt0061587",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:32:15.388Z"
+}

@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194127969500811",
+  "title": "The Flash #8",
+  "authors": [
+    "Adam Schlagman",
+    "Brian Buccellato",
+    "Eddie Berganza",
+    "Geoff Johns",
+    "Michael Atiyeh",
+    "Sal Cipriano",
+    "Scott Kolins",
+    "Stanley Lau"
+  ],
+  "publish_date": "2010-12-29",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v3-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22685/",
+  "fetched_at": "2026-06-07T19:39:06.632Z",
+  "reviewed_at": null
+}

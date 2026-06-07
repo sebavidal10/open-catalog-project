@@ -1,0 +1,31 @@
+{
+  "title": "Queen of Blood",
+  "year": "1966",
+  "rated": "Unrated",
+  "released": "02 Mar 1966",
+  "runtime": "78 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Curtis Harrington",
+  "writer": "Curtis Harrington, Mikhail Karyukov, Otar Koberidze",
+  "actors": "John Saxon, Basil Rathbone, Judi Meredith",
+  "plot": "In 1990, aliens contact Earth announcing their visit. Their ship crashes on Mars. A rescue team from Earth is dispatched to investigate the alien crash site.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQzOTUxMjc0Ml5BMl5BanBnXkFtZTcwMDQxMTM4NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "17%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0060877",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:32:21.562Z"
+}

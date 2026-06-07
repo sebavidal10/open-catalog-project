@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194134184208711",
+  "title": "The Flash #87",
+  "authors": [
+    "Alex R. Carr",
+    "Ben Meares",
+    "Brian Miller",
+    "Christian Duce",
+    "Dustin Nguyen",
+    "Jordi Tarragona Garcia",
+    "Joshua Williamson",
+    "Luis Guerrero",
+    "Mike Cotton",
+    "Rafa Sandoval",
+    "Steve Wands"
+  ],
+  "publish_date": "2020-01-29",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/01/24/flash-87.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/8857/",
+  "fetched_at": "2026-06-07T20:06:02.135Z",
+  "reviewed_at": null
+}

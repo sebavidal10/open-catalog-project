@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134184206111",
+  "title": "The Flash #61",
+  "authors": [
+    "Andrew Marino",
+    "Christian Duce",
+    "David Yardin",
+    "Derrick Chew",
+    "Joshua Williamson",
+    "Luis Guerrero",
+    "Marie Javins",
+    "Paul Kaminski",
+    "Steve Wands"
+  ],
+  "publish_date": "2019-01-02",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/02/10/flash-61.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1283/",
+  "fetched_at": "2026-06-07T20:02:35.301Z",
+  "reviewed_at": null
+}

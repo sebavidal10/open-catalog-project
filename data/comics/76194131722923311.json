@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194131722923311",
+  "title": "The Flash #23.3",
+  "authors": [
+    "Brian Buccellato",
+    "Brian Cunningham",
+    "Francis Manapul",
+    "Harvey Richards",
+    "Nick Filardi",
+    "Patrick Zircher",
+    "Taylor Esposito",
+    "Wil Moss"
+  ],
+  "publish_date": "2013-09-18",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-23-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22382/",
+  "fetched_at": "2026-06-07T19:48:34.597Z",
+  "reviewed_at": null
+}

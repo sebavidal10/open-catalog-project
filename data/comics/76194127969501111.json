@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194127969501111",
+  "title": "The Flash #11",
+  "authors": [
+    "Adam Schlagman",
+    "Brian Buccellato",
+    "Brian Cunningham",
+    "Darren Shan",
+    "Francis Manapul",
+    "Geoff Johns",
+    "Michael Atiyeh",
+    "Sal Cipriano",
+    "Scott Kolins"
+  ],
+  "publish_date": "2011-04-27",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/07/flash-v3-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22688/",
+  "fetched_at": "2026-06-07T19:39:33.360Z",
+  "reviewed_at": null
+}

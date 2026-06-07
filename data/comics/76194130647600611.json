@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194130647600611",
+  "title": "The Flash #6",
+  "authors": [
+    "Brian Buccellato",
+    "Brian Cunningham",
+    "Darren Shan",
+    "Francis Manapul",
+    "Mike Choi",
+    "Wes Abbott"
+  ],
+  "publish_date": "2012-02-22",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/03/flash-v4-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22361/",
+  "fetched_at": "2026-06-07T19:45:14.198Z",
+  "reviewed_at": null
+}

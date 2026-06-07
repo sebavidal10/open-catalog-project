@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "72513021544401011",
+  "title": "Flash Gordon #1",
+  "authors": [
+    "Chris Caniano",
+    "Declan Shalvey",
+    "Evan Shaner",
+    "Gabriel Hardman",
+    "Hannah Gorfinkel Elder",
+    "Jeff Parker",
+    "Jonathan Case",
+    "Jordie Bellaire",
+    "Joseph Rybandt",
+    "Ken Haeser",
+    "Marc Laming",
+    "Molly Mahan",
+    "Nathan Cosby",
+    "Sergio Fernandez Davila",
+    "Simon Bowland",
+    "Stephen Mooney"
+  ],
+  "publish_date": "2014-04-09",
+  "publisher": [
+    "Dynamite Entertainment"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/02/2def02ecef8049338ba46f498c9b1c2b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/137282/",
+  "fetched_at": "2026-06-07T19:49:24.979Z",
+  "reviewed_at": "2014-04-01"
+}

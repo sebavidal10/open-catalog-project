@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "76194134184277511",
+  "title": "The Flash #775",
+  "authors": [
+    "Bixie Mathieu",
+    "Fernando Pasarin",
+    "Jeremy Adams",
+    "Jeromy Cox",
+    "Jim Lee",
+    "Marie Javins",
+    "Matt Ryan",
+    "Mike Cotton",
+    "Steve Wands"
+  ],
+  "publish_date": "2021-10-19",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/10/flash-775.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39385/",
+  "fetched_at": "2026-06-07T20:10:51.970Z",
+  "reviewed_at": null
+}

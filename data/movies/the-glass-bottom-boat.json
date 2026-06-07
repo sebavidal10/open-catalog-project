@@ -1,0 +1,31 @@
+{
+  "title": "The Glass Bottom Boat",
+  "year": "1966",
+  "rated": "Approved",
+  "released": "09 Jun 1966",
+  "runtime": "110 min",
+  "genre": "Comedy, Romance",
+  "director": "Frank Tashlin",
+  "writer": "Everett Freeman",
+  "actors": "Doris Day, Rod Taylor, Arthur Godfrey",
+  "plot": "After a series of misunderstandings, the head of an aerospace research laboratory begins to suspect that his new girlfriend is a Russian spy.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjY4YmQyYWYtNmQ2MS00Y2M4LTk5MmMtZTExYmUyN2M3ZjZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0060463",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:31:33.008Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Born Free",
+  "year": "1966",
+  "rated": "PG",
+  "released": "22 Jun 1966",
+  "runtime": "95 min",
+  "genre": "Adventure, Biography, Drama",
+  "director": "James Hill, Tom McGowan",
+  "writer": "Joy Adamson, Lester Cole",
+  "actors": "Virginia McKenna, Bill Travers, Geoffrey Keen",
+  "plot": "The story of George and Joy Adamson and the orphaned lion cub, Elsa, they adopt.",
+  "language": "English, Swahili",
+  "country": "United Kingdom",
+  "awards": "Won 2 Oscars. 5 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDU3ODkxY2QtZmQzZS00NzE0LTg2OGEtZjNmMDMxODM0MGUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0060182",
+  "type": "movie",
+  "fetched_at": "2026-06-07T18:32:01.836Z"
+}

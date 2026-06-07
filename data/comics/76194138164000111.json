@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "76194138164000111",
+  "title": "The Flash #1",
+  "authors": [
+    "Chris Rosa",
+    "Dan Mora",
+    "Hassan Otsmane-Elhaou",
+    "James Harren",
+    "Jim Lee",
+    "Marie Javins",
+    "Matthew Taylor",
+    "Mike Deodato",
+    "Paul Kaminski",
+    "Rahzzah",
+    "Rebecca Bohanan",
+    "Riley Rossmo",
+    "Rose Besch",
+    "Simon Spurrier",
+    "Trish Mulvihill"
+  ],
+  "publish_date": "2023-09-26",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/09/02/flash-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/74612/",
+  "fetched_at": "2026-06-07T20:15:59.689Z",
+  "reviewed_at": null
+}
