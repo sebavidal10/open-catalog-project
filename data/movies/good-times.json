@@ -1,0 +1,31 @@
+{
+  "title": "Good Times",
+  "year": "1967",
+  "rated": "Not Rated",
+  "released": "01 May 1967",
+  "runtime": "91 min",
+  "genre": "Comedy, Musical, Western",
+  "director": "William Friedkin",
+  "writer": "Tony Barrett, Nicholas Hyams, William Friedkin",
+  "actors": "Sonny Bono, Cher, Sonny &amp; Cher",
+  "plot": "Sonny and Cher spoof many Hollywood classic movie scenes.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTUxZDhjNWItNTI5ZC00ZDI5LWJmZmEtZTZiYjI1NDAzMmE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "0%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.5",
+  "imdbID": "tt0061720",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:54:27.153Z"
+}

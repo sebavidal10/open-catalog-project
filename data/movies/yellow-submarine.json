@@ -1,0 +1,35 @@
+{
+  "title": "Yellow Submarine",
+  "year": "1968",
+  "rated": "G",
+  "released": "13 Nov 1968",
+  "runtime": "85 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "George Dunning",
+  "writer": "Lee Minoff, John Lennon, Paul McCartney",
+  "actors": "Paul McCartney, George Harrison, Ringo Starr",
+  "plot": "The Beatles agree to accompany Captain Fred in his yellow submarine and go to Pepperland to free it from the music-hating Blue Meanies.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWI1MGU0ZGQtMGUwYS00M2IxLThkZmMtZDM3M2NhNzdjOTFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "metascore": "79",
+  "imdbRating": "7.4",
+  "imdbID": "tt0063823",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:03:56.068Z"
+}

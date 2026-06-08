@@ -1,0 +1,35 @@
+{
+  "title": "Doctor Dolittle",
+  "year": "1967",
+  "rated": "G",
+  "released": "19 Dec 1967",
+  "runtime": "152 min",
+  "genre": "Adventure, Comedy, Family",
+  "director": "Richard Fleischer",
+  "writer": "Hugh Lofting, Leslie Bricusse",
+  "actors": "Rex Harrison, Samantha Eggar, Anthony Newley",
+  "plot": "After the animal communicating veterinarian goes too far for his clientele, he and his friends escape their hometown to the sea in search of the Great Pink Sea Snail.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 6 wins & 15 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMxOTM3NzU4M15BMl5BanBnXkFtZTgwNDU0MDUxMDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "29%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "34/100"
+    }
+  ],
+  "metascore": "34",
+  "imdbRating": "6.2",
+  "imdbID": "tt0061584",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:52:52.738Z"
+}

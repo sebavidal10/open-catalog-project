@@ -1,0 +1,35 @@
+{
+  "title": "Where Eagles Dare",
+  "year": "1968",
+  "rated": "M",
+  "released": "12 Mar 1969",
+  "runtime": "158 min",
+  "genre": "Action, Adventure, War",
+  "director": "Brian G. Hutton",
+  "writer": "Alistair MacLean",
+  "actors": "Richard Burton, Clint Eastwood, Mary Ure",
+  "plot": "Allied agents stage a daring raid on a castle where the Nazis are holding American brigadier general George Carnaby prisoner, but that's not all that's really going on.",
+  "language": "English, German",
+  "country": "United Kingdom, United States",
+  "awards": "1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzY1YjdjM2EtOThhOS00YzUyLWFjODUtZTNjNmJmNTFjNWVmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "7.6",
+  "imdbID": "tt0065207",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:03:52.555Z"
+}

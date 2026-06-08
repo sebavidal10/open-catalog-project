@@ -1,0 +1,35 @@
+{
+  "title": "In Cold Blood",
+  "year": "1967",
+  "rated": "R",
+  "released": "15 Dec 1967",
+  "runtime": "134 min",
+  "genre": "Biography, Crime, Drama",
+  "director": "Richard Brooks",
+  "writer": "Truman Capote, Richard Brooks",
+  "actors": "Robert Blake, Scott Wilson, John Forsythe",
+  "plot": "Two ex-cons murder a family in a robbery attempt before going on the run from the authorities who try to piece together the details of the murder in an attempt to track down the killers.",
+  "language": "English, French, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 4 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2YwMjJjNDEtYTFmMS00MTQ3LTkzYWQtMzYzNjgwZGIzOGQ3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "7.9",
+  "imdbID": "tt0061809",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:52:30.378Z"
+}

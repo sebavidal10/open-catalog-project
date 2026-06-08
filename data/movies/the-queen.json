@@ -1,0 +1,35 @@
+{
+  "title": "The Queen",
+  "year": "1968",
+  "rated": "Not Rated",
+  "released": "17 Jun 1968",
+  "runtime": "68 min",
+  "genre": "Documentary",
+  "director": "Frank Simon",
+  "writer": "N/A",
+  "actors": "Bernard Giquel, Jack Doroshow, Jim Dine",
+  "plot": "The behind the scenes of a national drag queen contest in New York City, including the rehearsals leading up to the contest, the conversations in the dressing room and the jealousies that emerge before and after the competition.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzI5YTcwODAtNzI3ZC00ZjdjLTkwMmMtNjEyNTA5NzMxNmZkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.2",
+  "imdbID": "tt0063477",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:04:03.115Z"
+}

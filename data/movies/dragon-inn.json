@@ -1,0 +1,35 @@
+{
+  "title": "Dragon Inn",
+  "year": "1967",
+  "rated": "Not Rated",
+  "released": "21 Oct 1967",
+  "runtime": "111 min",
+  "genre": "Action, Adventure",
+  "director": "King Hu",
+  "writer": "King Hu",
+  "actors": "Polly Ling-Feng Shang-Kuan, Chun Shih, Ying Bai",
+  "plot": "When the children of an executed General are pursued in 1457 China, some heroic martial arts swordsmen intervene.",
+  "language": "Mandarin",
+  "country": "Taiwan, Hong Kong",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjQ3MGJlNzUtMDUzYS00NmY0LTkyN2EtNmM3ODM5YTMzZDY5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "100/100"
+    }
+  ],
+  "metascore": "100",
+  "imdbRating": "7.4",
+  "imdbID": "tt0060635",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:55:01.323Z"
+}

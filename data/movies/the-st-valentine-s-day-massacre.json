@@ -1,0 +1,31 @@
+{
+  "title": "The St. Valentine's Day Massacre",
+  "year": "1967",
+  "rated": "Approved",
+  "released": "30 Jun 1967",
+  "runtime": "100 min",
+  "genre": "Crime, Drama, History",
+  "director": "Roger Corman",
+  "writer": "Howard Browne",
+  "actors": "Jason Robards, George Segal, Ralph Meeker",
+  "plot": "Al Capone's Valentine's Day surprise for the rival Bugs Moran gang in 1929 Chicago.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDRkYzNmMGQtYzljNi00MWQ5LTg0MmQtNjU3NWU3MTMwMzI5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0062301",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:53:58.826Z"
+}

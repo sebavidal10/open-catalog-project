@@ -1,0 +1,35 @@
+{
+  "title": "Far from the Madding Crowd",
+  "year": "1967",
+  "rated": "GP",
+  "released": "18 Oct 1967",
+  "runtime": "168 min",
+  "genre": "Drama, History, Romance",
+  "director": "John Schlesinger",
+  "writer": "Thomas Hardy, Frederic Raphael",
+  "actors": "Julie Christie, Peter Finch, Alan Bates",
+  "plot": "Bathsheba Everdene, a willful, flirtatious young woman, unexpectedly inherits a large farm and is romantically pursued by three very different men.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 Oscar. 3 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjk2NGVlZTItZGIyMi00NzMyLWJlZTktOTY3YjU1NmVlYTIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "7.2",
+  "imdbID": "tt0061648",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:52:53.919Z"
+}

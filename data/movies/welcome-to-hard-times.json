@@ -1,0 +1,27 @@
+{
+  "title": "Welcome to Hard Times",
+  "year": "1967",
+  "rated": "Approved",
+  "released": "09 Jun 1967",
+  "runtime": "103 min",
+  "genre": "Drama, Western",
+  "director": "Burt Kennedy",
+  "writer": "E.L. Doctorow, Burt Kennedy",
+  "actors": "Henry Fonda, Janice Rule, Keenan Wynn",
+  "plot": "A sociopathic stranger all but destroys a small hardscrabble town but the 'mayor' convinces its survivors to stay and rebuild.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGY5OTQ4ODUtN2ZmNi00OTg3LWExODAtZGViMDU0M2U3MTE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0062482",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:56:35.425Z"
+}

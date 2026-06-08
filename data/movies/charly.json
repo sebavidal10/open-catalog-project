@@ -1,0 +1,35 @@
+{
+  "title": "Charly",
+  "year": "1968",
+  "rated": "M",
+  "released": "23 Sep 1968",
+  "runtime": "103 min",
+  "genre": "Drama, Romance, Sci-Fi",
+  "director": "Ralph Nelson",
+  "writer": "Daniel Keyes, Stirling Silliphant",
+  "actors": "Cliff Robertson, Claire Bloom, Lilia Skala",
+  "plot": "An intellectually disabled man undergoes an experiment that gives him the intelligence of a genius.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 4 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTI3MzFkMTQtZmZkOS00OWU2LTg3YTAtOWUwMDdiMWFlOGRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "55%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "metascore": "50",
+  "imdbRating": "6.9",
+  "imdbID": "tt0062794",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:04:40.400Z"
+}

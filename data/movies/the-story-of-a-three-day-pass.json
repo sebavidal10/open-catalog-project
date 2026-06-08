@@ -1,0 +1,35 @@
+{
+  "title": "The Story of a Three Day Pass",
+  "year": "1967",
+  "rated": "Not Rated",
+  "released": "12 Jun 1968",
+  "runtime": "87 min",
+  "genre": "Drama, Romance",
+  "director": "Melvin Van Peebles",
+  "writer": "Melvin Van Peebles",
+  "actors": "Harry Baird, Pierre Doris, Christian Marin",
+  "plot": "A black American soldier is demoted for fraternizing with a white girl in France.",
+  "language": "French, English",
+  "country": "France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDM2MzM3NDktNjkxNS00YmQ4LThmMDEtZDM3NmI1M2ZmN2MzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.2",
+  "imdbID": "tt0063646",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:56:55.676Z"
+}

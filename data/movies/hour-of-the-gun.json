@@ -1,0 +1,35 @@
+{
+  "title": "Hour of the Gun",
+  "year": "1967",
+  "rated": "Approved",
+  "released": "10 Oct 1967",
+  "runtime": "100 min",
+  "genre": "Drama, Western",
+  "director": "John Sturges",
+  "writer": "Edward Anhalt",
+  "actors": "James Garner, Jason Robards, Robert Ryan",
+  "plot": "Marshal Wyatt Earp kills a couple of men of the Clanton gang in a fight. In revenge, Clanton's thugs kill the Marshal's brother. Thus, Wyatt starts to chase the killers together with his friend Doc Holliday.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWYzYzZlMjUtMDU1MC00MTgwLWI2NGEtMTVhNTBhYThkOTE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "6.6",
+  "imdbID": "tt0061787",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:52:59.802Z"
+}

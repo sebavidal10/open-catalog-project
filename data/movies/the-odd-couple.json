@@ -1,0 +1,35 @@
+{
+  "title": "The Odd Couple",
+  "year": "1968",
+  "rated": "G",
+  "released": "16 May 1968",
+  "runtime": "105 min",
+  "genre": "Comedy",
+  "director": "Gene Saks",
+  "writer": "Neil Simon",
+  "actors": "Jack Lemmon, Walter Matthau, John Fiedler",
+  "plot": "Fussy Felix Unger moves in with his divorced poker buddy, sloppy Oscar Madison.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 3 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjgwOTg4NDQtMWQxNy00OTlkLTkzMGQtZjJmYTAxMWY2MGU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.6",
+  "imdbID": "tt0063374",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:03:47.878Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Return of Django",
+  "year": "1967",
+  "rated": "N/A",
+  "released": "26 May 1967",
+  "runtime": "95 min",
+  "genre": "Drama, Western",
+  "director": "Osvaldo Civirani",
+  "writer": "Alessandro Ferraù, Tito Carpi, Osvaldo Civirani",
+  "actors": "Guy Madison, Gabriele Tinti, Ingrid Schoeller",
+  "plot": "The son of Django searches for the murderer of his father and is thereby involved in a war between two factions headed by former acquaintances of his famous parent.",
+  "language": "English, Italian",
+  "country": "Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjc5MzU3MTctNTQwYy00ZDUwLTgyMjctOTIyYzZlZTM0YTA4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.9",
+  "imdbID": "tt0061664",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:00:33.169Z"
+}

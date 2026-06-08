@@ -1,0 +1,31 @@
+{
+  "title": "Viy",
+  "year": "1967",
+  "rated": "Not Rated",
+  "released": "27 Nov 1967",
+  "runtime": "77 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Konstantin Ershov, Georgiy Kropachyov, Aleksandr Ptushko",
+  "writer": "Konstantin Ershov, Nikolay Gogol, Georgiy Kropachyov",
+  "actors": "Leonid Kuravlyov, Natalya Varley, Aleksey Glazyrin",
+  "plot": "A young priest is ordered to preside over the wake of witch in a small old wooden church of a remote village. This means spending three nights alone with the corpse with only his faith to protect him.",
+  "language": "Russian, Ukrainian",
+  "country": "Soviet Union",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODFmYWY1NmMtNjgyMS00MDNlLWE4MGUtOWU3MGI3NjFkOTRjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0062453",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:52:43.323Z"
+}

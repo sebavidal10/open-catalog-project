@@ -1,0 +1,35 @@
+{
+  "title": "Camelot",
+  "year": "1967",
+  "rated": "G",
+  "released": "25 Oct 1967",
+  "runtime": "179 min",
+  "genre": "Adventure, Comedy, Drama",
+  "director": "Joshua Logan",
+  "writer": "Alan Jay Lerner, T.H. White",
+  "actors": "Richard Harris, Vanessa Redgrave, Franco Nero",
+  "plot": "The story of the marriage of England's King Arthur to Guinevere. The plot of the illegitimate Mordred to gain the throne and Guinevere's growing attachment to Sir Lancelot threaten to topple Arthur and destroy his \"Round Table\" of...",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 7 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjQ4NTkwNDEtZGFjMy00M2FmLTk0NjUtMjM2MjNkYTEwOTFmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "39%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "6.6",
+  "imdbID": "tt0061439",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:52:39.787Z"
+}

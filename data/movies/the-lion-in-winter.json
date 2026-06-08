@@ -1,0 +1,31 @@
+{
+  "title": "The Lion in Winter",
+  "year": "1968",
+  "rated": "PG",
+  "released": "30 Oct 1968",
+  "runtime": "134 min",
+  "genre": "Biography, Drama, History",
+  "director": "Anthony Harvey",
+  "writer": "James Goldman",
+  "actors": "Peter O'Toole, Katharine Hepburn, Anthony Hopkins",
+  "plot": "1183 A.D.: King Henry II's three sons all want to inherit the throne, but he won't commit to a choice. When he allows his imprisoned wife Eleanor of Aquitaine out for a Christmas visit, they all variously plot to force him into a ...",
+  "language": "English, French, Latin",
+  "country": "United Kingdom",
+  "awards": "Won 3 Oscars. 16 wins & 18 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkzNzYyMzA5N15BMl5BanBnXkFtZTgwODcwODQ3MDI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0063227",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:04:07.404Z"
+}

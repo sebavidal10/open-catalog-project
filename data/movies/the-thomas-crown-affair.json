@@ -1,0 +1,35 @@
+{
+  "title": "The Thomas Crown Affair",
+  "year": "1968",
+  "rated": "R",
+  "released": "26 Jun 1968",
+  "runtime": "102 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "Norman Jewison",
+  "writer": "Alan Trustman",
+  "actors": "Steve McQueen, Faye Dunaway, Paul Burke",
+  "plot": "A debonair, adventuresome bank executive believes he has pulled off the perfect multi-million dollar heist, only to match wits with an insurance investigator who will do anything to get her man.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 2 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTA5NzQ4NjE4NF5BMl5BanBnXkFtZTcwMjIzMzY3NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "6.9",
+  "imdbID": "tt0063688",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:04:20.384Z"
+}

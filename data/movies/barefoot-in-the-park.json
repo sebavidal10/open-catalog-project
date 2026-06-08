@@ -1,0 +1,35 @@
+{
+  "title": "Barefoot in the Park",
+  "year": "1967",
+  "rated": "G",
+  "released": "25 May 1967",
+  "runtime": "106 min",
+  "genre": "Comedy, Romance",
+  "director": "Gene Saks",
+  "writer": "Neil Simon",
+  "actors": "Robert Redford, Jane Fonda, Charles Boyer",
+  "plot": "Conservative young lawyer Paul Bratter marries the vivacious Corie Banks. Their highly passionate relationship descends into discord when they rent their first apartment - a rundown five-flight NYC walk-up with eccentric neighbors.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjJhMjFjZWUtZWM2Yy00NmNkLTgzZmMtYjU4NzJhZTUyNjZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "7.0",
+  "imdbID": "tt0061385",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:52:49.197Z"
+}

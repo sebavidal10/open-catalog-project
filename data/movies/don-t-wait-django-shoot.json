@@ -1,0 +1,27 @@
+{
+  "title": "Don't Wait, Django... Shoot!",
+  "year": "1967",
+  "rated": "N/A",
+  "released": "02 Dec 1967",
+  "runtime": "88 min",
+  "genre": "Action, Western",
+  "director": "Edoardo Mulargia",
+  "writer": "Vincenzo Musolino",
+  "actors": "Ivan Rassimov, Ignazio Spalla, Rada Rassimov",
+  "plot": "Django returns home to discover that his father has been killed by local bandits in a business deal gone wrong.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzViYzgwZDAtY2MwYy00NTQyLWI1Y2YtNzE1NjM5ZWQ5NmVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.6",
+  "imdbID": "tt0063364",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:00:32.001Z"
+}

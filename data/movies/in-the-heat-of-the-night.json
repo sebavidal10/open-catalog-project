@@ -1,0 +1,35 @@
+{
+  "title": "In the Heat of the Night",
+  "year": "1967",
+  "rated": "Approved",
+  "released": "02 Aug 1967",
+  "runtime": "110 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "Norman Jewison",
+  "writer": "Stirling Silliphant, John Ball",
+  "actors": "Sidney Poitier, Rod Steiger, Warren Oates",
+  "plot": "A black Philadelphia police detective is mistakenly suspected of a local murder while passing through a racially hostile Mississippi town, and after being cleared is reluctantly asked by the police chief to investigate the case.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 5 Oscars. 23 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjVmYjZkMmQtYmFjZC00MmFhLTg5NzMtNzgzODE0YjQwNzlmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.9",
+  "imdbID": "tt0061811",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:52:22.152Z"
+}

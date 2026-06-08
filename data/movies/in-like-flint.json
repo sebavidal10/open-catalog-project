@@ -1,0 +1,31 @@
+{
+  "title": "In Like Flint",
+  "year": "1967",
+  "rated": "Approved",
+  "released": "15 Mar 1967",
+  "runtime": "114 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Gordon Douglas",
+  "writer": "Hal Fimberg",
+  "actors": "James Coburn, Lee J. Cobb, Jean Hale",
+  "plot": "Super-spy Flint takes on a cabal of women plotting to rule the world.",
+  "language": "English, Spanish, Russian",
+  "country": "United States",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjE3MTA2NmQtMTk5MC00NTgyLWJjMTItMmE3NWVjZGU5YWNlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0061810",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:52:57.457Z"
+}

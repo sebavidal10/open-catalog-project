@@ -1,0 +1,35 @@
+{
+  "title": "Portrait of Jason",
+  "year": "1967",
+  "rated": "Not Rated",
+  "released": "29 Sep 1967",
+  "runtime": "105 min",
+  "genre": "Documentary, Biography",
+  "director": "Shirley Clarke",
+  "writer": "N/A",
+  "actors": "Jason Holliday, Shirley Clarke, Carl Lee",
+  "plot": "Black gay prostitute Jason Holliday is rigorously interviewed on his story and character, revealing nuanced truths about life and art.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYxMzI1NTc0OV5BMl5BanBnXkFtZTgwMTYwMzYwNzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.0",
+  "imdbID": "tt0062144",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:02:04.795Z"
+}

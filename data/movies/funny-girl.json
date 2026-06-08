@@ -1,0 +1,35 @@
+{
+  "title": "Funny Girl",
+  "year": "1968",
+  "rated": "G",
+  "released": "19 Sep 1968",
+  "runtime": "151 min",
+  "genre": "Biography, Comedy, Drama",
+  "director": "William Wyler",
+  "writer": "Isobel Lennart",
+  "actors": "Barbra Streisand, Omar Sharif, Kay Medford",
+  "plot": "The life of Fanny Brice, famed comedienne and entertainer of the early 1900s: her rise to fame as a Ziegfeld Girl, her subsequent career, and her personal life, particularly her relationship with Nick Arnstein.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 8 wins & 16 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjg4NTA3MTktNDRkMy00MjlhLTlmYTgtNWExY2ViN2QxMWJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "7.4",
+  "imdbID": "tt0062994",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:03:46.699Z"
+}

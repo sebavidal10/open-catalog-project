@@ -1,0 +1,35 @@
+{
+  "title": "Hang 'Em High",
+  "year": "1968",
+  "rated": "Approved",
+  "released": "31 Jul 1968",
+  "runtime": "114 min",
+  "genre": "Drama, Western",
+  "director": "Ted Post",
+  "writer": "Leonard Freeman, Mel Goldberg",
+  "actors": "Clint Eastwood, Inger Stevens, Pat Hingle",
+  "plot": "When an innocent man barely survives being lynched by a mob of vigilantes seeking justice for a rancher who was murdered, he returns as a lawman determined to bring the errant vigilantes to justice.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODUwNjdmMDQtZDNkOC00ZWM0LWFmYWQtZTcyZjQ5NjQ1ZjU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.0",
+  "imdbID": "tt0061747",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:03:50.221Z"
+}

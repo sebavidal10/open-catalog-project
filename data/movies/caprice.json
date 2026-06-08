@@ -1,0 +1,31 @@
+{
+  "title": "Caprice",
+  "year": "1967",
+  "rated": "Approved",
+  "released": "12 May 1967",
+  "runtime": "98 min",
+  "genre": "Comedy, Crime, Thriller",
+  "director": "Frank Tashlin",
+  "writer": "John Kohn, Frank Tashlin, Martin Hale",
+  "actors": "Doris Day, Richard Harris, Ray Walston",
+  "plot": "An industrial designer causes chaos when she sells a secret cosmetics formula to a rival company.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY5NTQyMTg3NV5BMl5BanBnXkFtZTgwMTI0MzEyMjE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "14%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0061447",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:57:16.806Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Vixen!",
+  "year": "1968",
+  "rated": "X",
+  "released": "22 Oct 1968",
+  "runtime": "70 min",
+  "genre": "Drama",
+  "director": "Russ Meyer",
+  "writer": "Robert Rudelson, Russ Meyer, Anthony-James Ryan",
+  "actors": "Erica Gavin, Garth Pillsbury, Harrison Page",
+  "plot": "The free-spirited wife of a Canadian bush pilot seduces a Mountie, a married couple and her biker brother, all while antagonizing her sibling's draft-dodging black friend.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGFhNzFjYmItMzQzYy00ZjM4LWI0MGUtZTNmMTM1YzM2YmVmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "5.6",
+  "imdbID": "tt0063787",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:04:18.025Z"
+}

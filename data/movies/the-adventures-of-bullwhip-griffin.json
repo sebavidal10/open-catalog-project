@@ -1,0 +1,31 @@
+{
+  "title": "The Adventures of Bullwhip Griffin",
+  "year": "1967",
+  "rated": "Approved",
+  "released": "08 Mar 1967",
+  "runtime": "108 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "James Neilson",
+  "writer": "Lowell S. Hawley, Albert Sidney Fleischman",
+  "actors": "Roddy McDowall, Suzanne Pleshette, Karl Malden",
+  "plot": "Adventurous Bostonian Jack Flagg heads west to join the California gold rush with the hopes of restoring his family fortune, but his dedicated butler Bullwhip Griffin sets out to find Flagg and bring him back home.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzEzMTE3NjktNzg1NC00ZTc0LWE2ZGMtNzRiM2M2YjlmZTY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0061333",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:55:15.481Z"
+}

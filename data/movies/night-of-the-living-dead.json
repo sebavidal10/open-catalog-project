@@ -1,0 +1,35 @@
+{
+  "title": "Night of the Living Dead",
+  "year": "1968",
+  "rated": "R",
+  "released": "04 Oct 1968",
+  "runtime": "96 min",
+  "genre": "Horror, Thriller",
+  "director": "George A. Romero",
+  "writer": "John A. Russo, George A. Romero",
+  "actors": "Duane Jones, Judith O'Dea, Karl Hardman",
+  "plot": "A ragtag group of Pennsylvanians barricade themselves in an old farmhouse to remain safe from a horde of flesh-eating ghouls that are ravaging the Northeast of the United States.",
+  "language": "English",
+  "country": "United States",
+  "awards": "7 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGMyZTA0MWEtZjczMS00ZDE5LTk1OTQtNmIxNGYzNDA2NDVhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "7.8",
+  "imdbID": "tt0063350",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:03:59.592Z"
+}

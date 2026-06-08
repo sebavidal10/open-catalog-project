@@ -1,0 +1,27 @@
+{
+  "title": "Oscar",
+  "year": "1967",
+  "rated": "G",
+  "released": "11 Oct 1967",
+  "runtime": "85 min",
+  "genre": "Comedy",
+  "director": "Édouard Molinaro",
+  "writer": "Claude Magnier, Jean Halain, Édouard Molinaro",
+  "actors": "Louis de Funès, Claude Rich, Mario David",
+  "plot": "Neurotic businessman must find the right man for his pregnant daughter. In fact, it is little bit complicated.",
+  "language": "French",
+  "country": "France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGNkMGJhYmEtNjM4Yi00ZWRiLWFlY2MtMTA5OGVmMTA0NGYxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0062083",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:55:09.593Z"
+}

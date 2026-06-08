@@ -1,0 +1,35 @@
+{
+  "title": "Who's That Knocking at My Door",
+  "year": "1967",
+  "rated": "R",
+  "released": "13 Sep 1968",
+  "runtime": "90 min",
+  "genre": "Drama",
+  "director": "Martin Scorsese",
+  "writer": "Martin Scorsese, Betzi Manoogian",
+  "actors": "Harvey Keitel, Zina Bethune, Anne Collette",
+  "plot": "A young man can't accept the girl he likes because of her bitter past.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzM4ODNiMDctZTcyNC00NjcxLWI3YWQtMGQ2OGQ3ZjkwNjkwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "6.5",
+  "imdbID": "tt0063803",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:53:05.710Z"
+}

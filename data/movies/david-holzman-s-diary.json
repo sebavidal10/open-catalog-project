@@ -1,0 +1,31 @@
+{
+  "title": "David Holzman's Diary",
+  "year": "1967",
+  "rated": "Not Rated",
+  "released": "29 Jan 1975",
+  "runtime": "74 min",
+  "genre": "Comedy, Drama",
+  "director": "Jim McBride",
+  "writer": "Jim McBride",
+  "actors": "L.M. Kit Carson, Eileen Dietz, Louise Levine",
+  "plot": "A young filmmaker decides to make a movie of his life.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTljNzE4MWEtNDFjOC00N2ZjLTgwYjctNjk0OWUyMmJmY2Y0XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0062864",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:58:05.117Z"
+}

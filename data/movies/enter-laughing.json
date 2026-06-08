@@ -1,0 +1,31 @@
+{
+  "title": "Enter Laughing",
+  "year": "1967",
+  "rated": "Approved",
+  "released": "25 Feb 1967",
+  "runtime": "112 min",
+  "genre": "Comedy, Romance",
+  "director": "Carl Reiner",
+  "writer": "Joseph Stein, Carl Reiner",
+  "actors": "José Ferrer, Shelley Winters, Elaine May",
+  "plot": "A young would-be actor seeks his first break.",
+  "language": "English, Hebrew",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmQwZTMyODUtMTBiNy00NDVkLWI4ZDYtZWFjMDA5NmFkYjMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "54%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0061626",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:58:09.814Z"
+}

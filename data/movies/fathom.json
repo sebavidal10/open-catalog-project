@@ -1,0 +1,31 @@
+{
+  "title": "Fathom",
+  "year": "1967",
+  "rated": "Approved",
+  "released": "09 Aug 1967",
+  "runtime": "99 min",
+  "genre": "Adventure, Comedy",
+  "director": "Leslie H. Martinson",
+  "writer": "Lorenzo Semple Jr., Larry Forrester",
+  "actors": "Anthony Franciosa, Raquel Welch, Ronald Fraser",
+  "plot": "In Spain, an American skydiver is recruited by Western intelligence agents to recover a lost atomic bomb detonator from hostile foreign agents.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWVkNjFkNTUtMDFhOC00YWY0LWIyNjktNDI2ZTU4ZDY5NzRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0061653",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:54:41.321Z"
+}

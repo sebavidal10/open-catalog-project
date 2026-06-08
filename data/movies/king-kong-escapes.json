@@ -1,0 +1,31 @@
+{
+  "title": "King Kong Escapes",
+  "year": "1967",
+  "rated": "G",
+  "released": "19 Jun 1968",
+  "runtime": "96 min",
+  "genre": "Action, Adventure, Family",
+  "director": "Ishirô Honda",
+  "writer": "Takeshi Kimura, Edgar Wallace",
+  "actors": "Rhodes Reason, Mie Hama, Linda Miller",
+  "plot": "The evil Dr. Who captures King Kong to dig for Element X when his robot duplicate, Mechani-Kong, is unable to do the job, but Kong soon escapes and battles his doppelganger.",
+  "language": "Japanese, English",
+  "country": "Japan, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODI4Y2I4OGYtZDhjNi00YzhlLWE2MjQtNmRhOTRjMTIwMmFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "63%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0061868",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:54:55.443Z"
+}

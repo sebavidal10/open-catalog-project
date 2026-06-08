@@ -1,0 +1,31 @@
+{
+  "title": "Festival",
+  "year": "1967",
+  "rated": "Not Rated",
+  "released": "23 Oct 1967",
+  "runtime": "95 min",
+  "genre": "Documentary, Music",
+  "director": "Murray Lerner",
+  "writer": "Murray Lerner",
+  "actors": "Joan Baez, Horton Barker, Fiddler Beers",
+  "plot": "This documentary captures performances, interviews, and conversations from 1963-1966 Newport Folk Festivals.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmNmNWZjZGQtNWY0ZC00MDAzLTliMjAtNWEwMzZmOTIxYTE1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0061658",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:56:47.438Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "The Zoo",
+  "year": "1967",
+  "rated": "Not Rated",
+  "released": "N/A",
+  "runtime": "125 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Satyajit Ray",
+  "writer": "Saradindu Bandopadhyay, Satyajit Ray",
+  "actors": "Uttam Kumar, Kalipada Chakraborty, Nripati Chatterjee",
+  "plot": "Byomkesh Bakshi, a detective, is hired by a rich man to investigate the name of an actress appeared in a movie decades ago, who has eloped ever since. The case became complicated when the rich man is murdered by someone for that.",
+  "language": "Bengali",
+  "country": "India",
+  "awards": "2 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzMxNzlhMWMtMzUzNC00Y2E1LWE5NjItMzA4OTliYjQwYWQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0061474",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:58:06.294Z"
+}

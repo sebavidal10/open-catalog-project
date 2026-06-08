@@ -1,0 +1,31 @@
+{
+  "title": "Accident",
+  "year": "1967",
+  "rated": "Not Rated",
+  "released": "18 May 1967",
+  "runtime": "105 min",
+  "genre": "Drama",
+  "director": "Joseph Losey",
+  "writer": "Nicholas Mosley, Harold Pinter",
+  "actors": "Dirk Bogarde, Stanley Baker, Jacqueline Sassard",
+  "plot": "A beautiful Austrian coed attending Oxford University is betrothed to a fellow student, but she ends up getting involved with two unhappily married professors instead.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 4 BAFTA 5 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODk4NGRjZTgtYTgzYi00OWVlLWIzN2MtOGNjMjZiOTEyYjBmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0061328",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:52:18.637Z"
+}

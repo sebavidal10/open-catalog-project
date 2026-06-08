@@ -1,0 +1,31 @@
+{
+  "title": "The Flim-Flam Man",
+  "year": "1967",
+  "rated": "Approved",
+  "released": "21 Sep 1967",
+  "runtime": "104 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "Irvin Kershner",
+  "writer": "William Rose, Guy Owen",
+  "actors": "George C. Scott, Sue Lyon, Harry Morgan",
+  "plot": "A rural con artist and an army deserter cheat the townsfolk and are aided by a rich gal who shields the fleeing duo from the wrath of the pursuing sheriff.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjc3MDVlZjUtOTc1ZC00ZDM4LThkODEtNjg1YmQwNzk4ZTkzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0061678",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:54:07.092Z"
+}

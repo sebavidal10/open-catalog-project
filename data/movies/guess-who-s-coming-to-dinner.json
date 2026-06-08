@@ -1,0 +1,35 @@
+{
+  "title": "Guess Who's Coming to Dinner",
+  "year": "1967",
+  "rated": "Approved",
+  "released": "12 Dec 1967",
+  "runtime": "108 min",
+  "genre": "Comedy, Drama",
+  "director": "Stanley Kramer",
+  "writer": "William Rose",
+  "actors": "Spencer Tracy, Sidney Poitier, Katharine Hepburn",
+  "plot": "A White couple's attitudes are challenged when their daughter introduces them to her Black fiancé.",
+  "language": "English, Latin",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 11 wins & 25 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmMwNjRiYTUtNjM5Yy00ZDk2LWJiZjEtYjRjMzVmYmM1OGQ5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "7.8",
+  "imdbID": "tt0061735",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:52:08.067Z"
+}

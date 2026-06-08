@@ -1,0 +1,31 @@
+{
+  "title": "The Honey Pot",
+  "year": "1967",
+  "rated": "Approved",
+  "released": "21 May 1967",
+  "runtime": "150 min",
+  "genre": "Comedy, Crime, Mystery",
+  "director": "Joseph L. Mankiewicz",
+  "writer": "Frederick Knott, Thomas Sterling, Ben Jonson",
+  "actors": "Rex Harrison, Susan Hayward, Cliff Robertson",
+  "plot": "In Venice, a millionaire hires an actor to help him prank three greedy ex-girlfriends into thinking he's dying and leaving his fortune to one of them.",
+  "language": "English, Italian, French, German, Arabic",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk5Mjc1OTM4MV5BMl5BanBnXkFtZTcwNDg2NzE0NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0061780",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:54:15.384Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Chinese",
+  "year": "1967",
+  "rated": "Not Rated",
+  "released": "04 Mar 1968",
+  "runtime": "95 min",
+  "genre": "Comedy, Drama",
+  "director": "Jean-Luc Godard",
+  "writer": "Jean-Luc Godard",
+  "actors": "Anne Wiazemsky, Jean-Pierre Léaud, Juliet Berto",
+  "plot": "A small group of French students are studying Mao, trying to find out their position in the world and how to change the world to a Maoistic community using terrorism.",
+  "language": "French",
+  "country": "France",
+  "awards": "1 win & 2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmU4OGYwYzQtNjA3My00YmM3LWI4ZDQtNDlkZWJhMmQ2M2M5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0061473",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:52:17.452Z"
+}

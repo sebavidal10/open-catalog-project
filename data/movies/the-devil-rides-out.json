@@ -1,0 +1,31 @@
+{
+  "title": "The Devil Rides Out",
+  "year": "1968",
+  "rated": "G",
+  "released": "01 Aug 1968",
+  "runtime": "95 min",
+  "genre": "Horror",
+  "director": "Terence Fisher",
+  "writer": "Richard Matheson, Dennis Wheatley",
+  "actors": "Christopher Lee, Charles Gray, Nike Arrighi",
+  "plot": "Devil worshipers plan to convert two new victims.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWVlZWYxNjYtYmUyMi00M2UxLWE1MmUtODE5YWNiNGY1ZmNlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0062885",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:04:41.578Z"
+}

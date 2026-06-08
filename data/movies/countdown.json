@@ -1,0 +1,31 @@
+{
+  "title": "Countdown",
+  "year": "1967",
+  "rated": "Approved",
+  "released": "01 Feb 1968",
+  "runtime": "101 min",
+  "genre": "Sci-Fi, Thriller",
+  "director": "Robert Altman",
+  "writer": "Loring Mandel, Hank Searls",
+  "actors": "James Caan, Robert Duvall, Joanna Moore",
+  "plot": "Desperate to land a man on the moon before Russia does, NASA hastily preps a would-be spaceman for a mission that would leave him alone in a lunar shelter for a year.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjBmODU0YTktM2ZiZi00MWFlLTg2ZTMtYmUwZjNmMjc1YzEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0062827",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:54:20.093Z"
+}

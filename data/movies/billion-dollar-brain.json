@@ -1,0 +1,31 @@
+{
+  "title": "Billion Dollar Brain",
+  "year": "1967",
+  "rated": "Approved",
+  "released": "14 Jan 1968",
+  "runtime": "111 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Ken Russell",
+  "writer": "Len Deighton, John McGrath",
+  "actors": "Michael Caine, Karl Malden, Ed Begley",
+  "plot": "British spy-turned-detective Harry Palmer stumbles upon an oil tycoon's plot to overthrow Communism using a supercomputer.",
+  "language": "English, Russian, Finnish",
+  "country": "United Kingdom, United States, Finland",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWM2YzEyMWEtYjdmYS00ZTE5LWI0YWQtZTQ5N2EyYWJmNjJiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0061405",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:52:55.103Z"
+}

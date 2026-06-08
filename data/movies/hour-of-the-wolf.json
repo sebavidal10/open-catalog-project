@@ -1,0 +1,31 @@
+{
+  "title": "Hour of the Wolf",
+  "year": "1968",
+  "rated": "Not Rated",
+  "released": "09 Apr 1968",
+  "runtime": "88 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Ingmar Bergman",
+  "writer": "Ingmar Bergman",
+  "actors": "Max von Sydow, Liv Ullmann, Gertrud Fridh",
+  "plot": "While vacationing on a remote German island with his younger pregnant wife, an artist has an emotional breakdown while confronting his repressed desires.",
+  "language": "Swedish, German",
+  "country": "Sweden",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDEwMDUtZGExNC00MDZiLWI5MGEtYzRiMTMzZjQxYmM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0063759",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:04:33.344Z"
+}

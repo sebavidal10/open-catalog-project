@@ -1,0 +1,31 @@
+{
+  "title": "Finian's Rainbow",
+  "year": "1968",
+  "rated": "G",
+  "released": "09 Oct 1968",
+  "runtime": "141 min",
+  "genre": "Family, Fantasy, Musical",
+  "director": "Francis Ford Coppola",
+  "writer": "E.Y. Harburg, Fred Saidy",
+  "actors": "Fred Astaire, Petula Clark, Tommy Steele",
+  "plot": "An Irish immigrant and his daughter move into a town in the American South with a magical piece of gold that will change people's lives, including a struggling farmer and African American citizens threatened by a bigoted politician.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 1 win & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGE2MjcyMzAtMzZiOS00NDM1LWJjMWQtN2RmODgyZGY1ZjkzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "47%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0062974",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:04:13.300Z"
+}

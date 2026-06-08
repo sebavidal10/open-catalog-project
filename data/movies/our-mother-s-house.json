@@ -1,0 +1,31 @@
+{
+  "title": "Our Mother's House",
+  "year": "1967",
+  "rated": "Approved",
+  "released": "13 Oct 1967",
+  "runtime": "104 min",
+  "genre": "Drama, Thriller",
+  "director": "Jack Clayton",
+  "writer": "Jeremy Brooks, Haya Harareet, Julian Gloag",
+  "actors": "Dirk Bogarde, Margaret Leclere, Pamela Franklin",
+  "plot": "British children hide Mother's death. Then, Father returns.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 BAFTA Award1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjc1OTI1N2QtYzY4OC00YzM0LWEyNWYtZWEyOTMxNTE4Yjk3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0062089",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:54:21.269Z"
+}

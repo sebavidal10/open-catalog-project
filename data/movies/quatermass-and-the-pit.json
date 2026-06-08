@@ -1,0 +1,31 @@
+{
+  "title": "Quatermass and the Pit",
+  "year": "1967",
+  "rated": "Approved",
+  "released": "07 Feb 1968",
+  "runtime": "97 min",
+  "genre": "Horror, Mystery, Sci-Fi",
+  "director": "Roy Ward Baker",
+  "writer": "Nigel Kneale",
+  "actors": "James Donald, Andrew Keir, Barbara Shelley",
+  "plot": "A mysterious artifact is unearthed in London, and famous scientist Bernard Quatermass is called in to divine its origins and explain its strange effects on people.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODIyNzM0YWUtMjViYS00NGVjLTgyYmUtNGU0MWI3ZDgwYjlmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0062168",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:53:03.348Z"
+}

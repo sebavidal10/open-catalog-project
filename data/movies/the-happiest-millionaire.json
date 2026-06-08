@@ -1,0 +1,31 @@
+{
+  "title": "The Happiest Millionaire",
+  "year": "1967",
+  "rated": "G",
+  "released": "10 Jul 1968",
+  "runtime": "141 min",
+  "genre": "Comedy, Family, Musical",
+  "director": "Norman Tokar",
+  "writer": "Kyle Crichton, Cordelia Drexel Biddle, AJ Carothers",
+  "actors": "Fred MacMurray, Tommy Steele, Greer Garson",
+  "plot": "Clever yet hapless new butler John Lawless manages a Philadelphia household for quirky and joyful millionaire Anthony Drexel Biddle, his unflappable wife, Cordelia, and their spitfire daughter, Cordy.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmIxYzM5NGItMzQwMC00MDAzLThiZTItNDQxZWZlZmIwYTRkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0061749",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:53:19.999Z"
+}

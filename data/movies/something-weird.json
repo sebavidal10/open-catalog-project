@@ -1,0 +1,27 @@
+{
+  "title": "Something Weird",
+  "year": "1967",
+  "rated": "Not Rated",
+  "released": "01 Aug 1967",
+  "runtime": "80 min",
+  "genre": "Fantasy, Horror",
+  "director": "Herschell Gordon Lewis",
+  "writer": "James F. Hurley",
+  "actors": "Tony McCabe, Elizabeth Lee, William Brooker",
+  "plot": "An accident victim makes a deal with a particularly hideous witch, in which he receives extraordinary ESP powers. He uses these powers to help the police solve crimes.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzk4YjBiMzMtZDI4MC00MjAyLWFkNTAtMzNhNTZjOGNlNzU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.0",
+  "imdbID": "tt0062288",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:56:14.234Z"
+}

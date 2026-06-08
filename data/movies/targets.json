@@ -1,0 +1,31 @@
+{
+  "title": "Targets",
+  "year": "1968",
+  "rated": "R",
+  "released": "15 Aug 1968",
+  "runtime": "90 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Peter Bogdanovich",
+  "writer": "Peter Bogdanovich, Polly Platt, Samuel Fuller",
+  "actors": "Tim O'Kelly, Boris Karloff, Nancy Hsueh",
+  "plot": "An aging horror star contemplates retirement amid the modern culture of random violence, while a disturbed young gun collector embarks on an unprovoked killing spree.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTIwMTE2MDAtZDgyYy00MDU4LWJmMTItNTA2ZmM0ZTQ0N2RlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0063671",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:04:34.523Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Mouchette",
+  "year": "1967",
+  "rated": "Not Rated",
+  "released": "12 Mar 1970",
+  "runtime": "81 min",
+  "genre": "Drama",
+  "director": "Robert Bresson",
+  "writer": "Georges Bernanos, Robert Bresson",
+  "actors": "Nadine Nortier, Jean-Claude Guilbert, Marie Cardinal",
+  "plot": "A young girl living in the French countryside suffers constant indignities at the hand of alcoholism and her fellow man.",
+  "language": "French",
+  "country": "France",
+  "awards": "5 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTZkOTU2M2QtYzQxOS00MGIxLWIyNTUtN2Q1MWEzZGVlYmFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0061996",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:53:30.573Z"
+}

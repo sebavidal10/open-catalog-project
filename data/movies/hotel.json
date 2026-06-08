@@ -1,0 +1,31 @@
+{
+  "title": "Hotel",
+  "year": "1967",
+  "rated": "GP",
+  "released": "19 Jan 1967",
+  "runtime": "124 min",
+  "genre": "Drama",
+  "director": "Richard Quine",
+  "writer": "Arthur Hailey, Wendell Mayes",
+  "actors": "Rod Taylor, Catherine Spaak, Karl Malden",
+  "plot": "A historical New Orleans hotel struggles to financially survive while the dramas of its various guests unfold.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQxNjU0NTUwM15BMl5BanBnXkFtZTcwNzA4MTYxMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0061786",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:54:28.336Z"
+}

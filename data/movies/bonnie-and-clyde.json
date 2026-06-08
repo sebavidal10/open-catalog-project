@@ -1,0 +1,35 @@
+{
+  "title": "Bonnie and Clyde",
+  "year": "1967",
+  "rated": "R",
+  "released": "14 Aug 1967",
+  "runtime": "111 min",
+  "genre": "Action, Biography, Crime",
+  "director": "Arthur Penn",
+  "writer": "David Newman, Robert Benton, Robert Towne",
+  "actors": "Warren Beatty, Faye Dunaway, Michael J. Pollard",
+  "plot": "Bored waitress Bonnie Parker falls in love with an ex-con named Clyde Barrow and together they start a violent crime spree through the country, stealing cars and robbing banks.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 22 wins & 29 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWI3ZmM1NmEtMDk4Yi00MzYzLTk0MDctYWJlZjY4MGViNDFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.7",
+  "imdbID": "tt0061418",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:52:23.331Z"
+}

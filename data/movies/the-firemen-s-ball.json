@@ -1,0 +1,31 @@
+{
+  "title": "The Firemen's Ball",
+  "year": "1967",
+  "rated": "Not Rated",
+  "released": "29 Sep 1968",
+  "runtime": "73 min",
+  "genre": "Comedy, Drama",
+  "director": "Milos Forman",
+  "writer": "Milos Forman, Jaroslav Papousek, Ivan Passer",
+  "actors": "Jan Vostrcil, Josef Sebánek, Josef Valnoha",
+  "plot": "A volunteer fire department throws a party for their former boss with the whole town invited, but nothing goes as planned.",
+  "language": "Czech",
+  "country": "Czechoslovakia, Italy",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzQ3YzYyMjUtZGU0Yy00YTdjLWEyMTQtMzA5ZDk2MTliNGU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0061781",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:53:24.693Z"
+}

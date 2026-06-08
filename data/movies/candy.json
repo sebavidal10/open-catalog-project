@@ -1,0 +1,31 @@
+{
+  "title": "Candy",
+  "year": "1968",
+  "rated": "R",
+  "released": "17 Dec 1968",
+  "runtime": "115 min",
+  "genre": "Adventure, Comedy, Fantasy",
+  "director": "Christian Marquand",
+  "writer": "Buck Henry, Terry Southern, Mason Hoffenberg",
+  "actors": "Ewa Aulin, Richard Burton, Charles Aznavour",
+  "plot": "Candy Christian, an innocent high-schooler, encounters numerous colorful characters and humorous sexual situations while attempting to find meaning in life.",
+  "language": "English, Welsh",
+  "country": "Italy, France, United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjZlYWQ1NTItODY3Ny00ODdmLWI1MDMtM2NkMDVlOGExMjFlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.1",
+  "imdbID": "tt0062776",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:04:23.915Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Bedazzled",
+  "year": "1967",
+  "rated": "Approved",
+  "released": "10 Dec 1967",
+  "runtime": "103 min",
+  "genre": "Comedy, Fantasy, Romance",
+  "director": "Stanley Donen",
+  "writer": "Peter Cook, Dudley Moore",
+  "actors": "Peter Cook, Dudley Moore, Eleanor Bron",
+  "plot": "A hapless loser sells his soul to the Devil in exchange for seven wishes, but has trouble winning over the girl of his dreams.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTUxOTA4YWEtOGFjMC00ZmRjLWE0NTUtMWU3MWE5ZTM3MmQ5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "6.8",
+  "imdbID": "tt0061391",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:52:58.635Z"
+}

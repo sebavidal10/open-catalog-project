@@ -1,0 +1,31 @@
+{
+  "title": "If....",
+  "year": "1968",
+  "rated": "R",
+  "released": "21 May 1969",
+  "runtime": "111 min",
+  "genre": "Crime, Drama",
+  "director": "Lindsay Anderson",
+  "writer": "David Sherwin, John Howlett",
+  "actors": "Malcolm McDowell, David Wood, Richard Warwick",
+  "plot": "In this allegorical story, a revolution led by pupil Mick Travis takes place at an old established private school in England.",
+  "language": "English, Latin",
+  "country": "United Kingdom",
+  "awards": "Nominated for 2 BAFTA 2 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDUxZDMwMzYtYWEyNC00YTBhLWFmY2MtMWJmMGIwMzAxZmMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0063850",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:04:36.876Z"
+}

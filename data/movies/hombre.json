@@ -1,0 +1,35 @@
+{
+  "title": "Hombre",
+  "year": "1967",
+  "rated": "Approved",
+  "released": "21 Mar 1967",
+  "runtime": "111 min",
+  "genre": "Drama, Western",
+  "director": "Martin Ritt",
+  "writer": "Irving Ravetch, Harriet Frank Jr., Elmore Leonard",
+  "actors": "Paul Newman, Fredric March, Richard Boone",
+  "plot": "John Russell, disdained by his \"respectable\" fellow stagecoach passengers because he was raised by Apaches becomes their only hope for survival when they are set upon by outlaws.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGQ5MmJkMGItNmI2NC00YTM2LWExZmEtYWFiYWMzYmY2OWZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "7.4",
+  "imdbID": "tt0061770",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:52:40.961Z"
+}

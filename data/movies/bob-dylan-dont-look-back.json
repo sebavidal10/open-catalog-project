@@ -1,0 +1,35 @@
+{
+  "title": "Bob Dylan: Dont Look Back",
+  "year": "1967",
+  "rated": "Not Rated",
+  "released": "24 Feb 1968",
+  "runtime": "96 min",
+  "genre": "Documentary, Music",
+  "director": "D.A. Pennebaker",
+  "writer": "D.A. Pennebaker",
+  "actors": "Bob Dylan, Albert Grossman, Bob Neuwirth",
+  "plot": "Documentary covering Bob Dylan's 1965 tour of England, which includes appearances by Joan Baez and Donovan.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjg1NWY2YjctMWZhMi00YmVmLWJlZDgtY2IyMzBlMWQ3ZDI2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.9",
+  "imdbID": "tt0061589",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:53:06.889Z"
+}

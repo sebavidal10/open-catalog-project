@@ -1,0 +1,35 @@
+{
+  "title": "Two for the Road",
+  "year": "1967",
+  "rated": "Approved",
+  "released": "22 Jun 1967",
+  "runtime": "111 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Stanley Donen",
+  "writer": "Frederic Raphael",
+  "actors": "Audrey Hepburn, Albert Finney, Eleanor Bron",
+  "plot": "A couple in the south of France non-sequentially spin down the highways of infidelity in their troubled ten-year marriage.",
+  "language": "English, French, Italian",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 1 Oscar. 3 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTI0OWU4YjAtZGRiOS00MzkyLTlkYzAtZTQ0OWZhYTM3YzE0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.4",
+  "imdbID": "tt0062407",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:53:29.404Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "You Only Live Twice",
+  "year": "1967",
+  "rated": "PG",
+  "released": "13 Jun 1967",
+  "runtime": "117 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "Lewis Gilbert",
+  "writer": "Harold Jack Bloom, Roald Dahl, Ian Fleming",
+  "actors": "Sean Connery, Akiko Wakabayashi, Mie Hama",
+  "plot": "James Bond and the Japanese Secret Service must find and stop the true culprit of a series of space hijackings, before war is provoked between Russia and the United States.",
+  "language": "English, Japanese, Russian",
+  "country": "United Kingdom, Japan, United States",
+  "awards": "Nominated for 1 BAFTA Award2 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjhlMjg3NDctN2QzNC00N2ViLWJjYjYtMzcyZDdlMmI1MmU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "6.8",
+  "imdbID": "tt0062512",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:52:09.231Z"
+}

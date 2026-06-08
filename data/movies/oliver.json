@@ -1,0 +1,35 @@
+{
+  "title": "Oliver!",
+  "year": "1968",
+  "rated": "G",
+  "released": "27 Sep 1968",
+  "runtime": "153 min",
+  "genre": "Drama, Family, Musical",
+  "director": "Carol Reed",
+  "writer": "Lionel Bart, Vernon Harris, Charles Dickens",
+  "actors": "Mark Lester, Ron Moody, Shani Wallis",
+  "plot": "After being sold to the mortician Sowerberry, young orphan Oliver Twist runs away and meets a group of boys trained to be pickpockets by their elderly mentor Fagin in 1830s London in this musical based on Charles Dickens' Oliver T...",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Won 5 Oscars. 13 wins & 25 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjRhYmVlZGItYzgxMS00MzI3LTgzZjctNTcxMGRiN2E5ZGYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.4",
+  "imdbID": "tt0063385",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:04:19.217Z"
+}

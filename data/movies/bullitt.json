@@ -1,0 +1,35 @@
+{
+  "title": "Bullitt",
+  "year": "1968",
+  "rated": "M/PG",
+  "released": "17 Oct 1968",
+  "runtime": "114 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Peter Yates",
+  "writer": "Alan Trustman, Harry Kleiner, Robert L. Fish",
+  "actors": "Steve McQueen, Jacqueline Bisset, Robert Vaughn",
+  "plot": "A nonconformist San Francisco cop is determined to find the underworld kingpin who killed the witness under his protection.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 8 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTA0ZjRhNjgtYWNlMC00Y2U4LTg1OGEtMTU4NGM1MTRjZGUyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.4",
+  "imdbID": "tt0062765",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:03:57.236Z"
+}

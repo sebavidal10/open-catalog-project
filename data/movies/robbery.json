@@ -1,0 +1,31 @@
+{
+  "title": "Robbery",
+  "year": "1967",
+  "rated": "N/A",
+  "released": "22 Sep 1967",
+  "runtime": "110 min",
+  "genre": "Crime, Drama",
+  "director": "Peter Yates",
+  "writer": "Edward Boyd, Peter Yates, George Markstein",
+  "actors": "Stanley Baker, Joanna Pettet, James Booth",
+  "plot": "A group of British criminals plan the robbery of the Royal Mail train on the Glasgow-London route.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGY4YmMzZWYtYjMxYy00NjU3LThjZDItOWE1ZGIxNzE4NjFlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0062207",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:54:30.699Z"
+}

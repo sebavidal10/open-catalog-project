@@ -1,0 +1,31 @@
+{
+  "title": "Games",
+  "year": "1967",
+  "rated": "Approved",
+  "released": "13 Oct 1967",
+  "runtime": "100 min",
+  "genre": "Thriller",
+  "director": "Curtis Harrington",
+  "writer": "Gene R. Kearney, Curtis Harrington, George Edwards",
+  "actors": "Simone Signoret, James Caan, Katharine Ross",
+  "plot": "A young couple who are into kinky \"mind games\" get more than they bargained for when a mysterious woman comes into their lives.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 BAFTA Award1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmE1ZDAxMjMtNTZjMi00MDAzLWFiODUtYjY0OTZkZWRjZjEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "63%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0061696",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:54:35.422Z"
+}

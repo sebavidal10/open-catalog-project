@@ -1,0 +1,35 @@
+{
+  "title": "Le Samouraï",
+  "year": "1967",
+  "rated": "GP",
+  "released": "25 Oct 1967",
+  "runtime": "101 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Jean-Pierre Melville",
+  "writer": "Jean-Pierre Melville, Joan McLeod, Georges Pellegrin",
+  "actors": "Alain Delon, François Périer, Nathalie Delon",
+  "plot": "After professional hitman Jef Costello is seen by witnesses, his efforts to provide himself an alibi drive him further into a corner.",
+  "language": "French",
+  "country": "France, Italy",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjM2ZjhkNmUtZTNlMi00YTc1LThlN2MtZDc3NDIyZTk4OGIwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "metascore": "90",
+  "imdbRating": "8.0",
+  "imdbID": "tt0062229",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:52:12.732Z"
+}

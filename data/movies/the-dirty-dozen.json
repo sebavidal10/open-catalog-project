@@ -1,0 +1,35 @@
+{
+  "title": "The Dirty Dozen",
+  "year": "1967",
+  "rated": "Approved",
+  "released": "22 Oct 1967",
+  "runtime": "150 min",
+  "genre": "Action, Adventure, War",
+  "director": "Robert Aldrich",
+  "writer": "Nunnally Johnson, Lukas Heller, E.M. Nathanson",
+  "actors": "Lee Marvin, Ernest Borgnine, Charles Bronson",
+  "plot": "During World War II, a rebellious U.S. Army Major is assigned a dozen convicted murderers to train and lead them into a mass assassination mission of German officers.",
+  "language": "English, German, French, Spanish, Latin",
+  "country": "United Kingdom, United States",
+  "awards": "Won 1 Oscar. 5 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDg0ZjhiN2EtM2I3Mi00MDNlLWJiY2UtNmU0Zjg0YTQyMjg1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.7",
+  "imdbID": "tt0061578",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:52:29.203Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Swimmer",
+  "year": "1968",
+  "rated": "M/PG",
+  "released": "09 Aug 1968",
+  "runtime": "95 min",
+  "genre": "Drama",
+  "director": "Frank Perry, Sydney Pollack",
+  "writer": "Eleanor Perry, John Cheever",
+  "actors": "Burt Lancaster, Janet Landgard, Janice Rule",
+  "plot": "A man spends a summer day swimming home via all the pools in his quiet suburban neighborhood.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGI0NDA3MWMtMWI0My00ZjVhLWEzODItN2RjMDUxNDEyYjNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0063663",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:04:16.830Z"
+}

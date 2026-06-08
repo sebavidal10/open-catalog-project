@@ -1,0 +1,35 @@
+{
+  "title": "Barbarella",
+  "year": "1968",
+  "rated": "PG",
+  "released": "10 Oct 1968",
+  "runtime": "98 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Roger Vadim",
+  "writer": "Jean-Claude Forest, Terry Southern, Roger Vadim",
+  "actors": "Jane Fonda, John Phillip Law, Anita Pallenberg",
+  "plot": "In the 41st century, an astronaut seeks to stop an evil scientist who threatens to unleash a powerful weapon upon the galaxy, partaking in sexy misadventures along the way.",
+  "language": "English, French",
+  "country": "France, Italy",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjExMzcwMjU4OV5BMl5BanBnXkFtZTgwNzYzMjU2MTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "65%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "5.9",
+  "imdbID": "tt0062711",
+  "type": "movie",
+  "fetched_at": "2026-06-08T22:04:15.649Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Sorcerers",
+  "year": "1967",
+  "rated": "Unrated",
+  "released": "01 Nov 1967",
+  "runtime": "86 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Michael Reeves",
+  "writer": "Michael Reeves, Tom Baker, John Burke",
+  "actors": "Boris Karloff, Catherine Lacey, Ian Ogilvy",
+  "plot": "An aging hypnotist creates a device that allows the user to control the mind of another person, but his wife abuses its power by manipulating a younger man to commit evil acts.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDgzMDA0MjItNDZkNi00MTllLTgyMTItYTk5MjQ5ZTIyNjhkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0062292",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:54:24.792Z"
+}

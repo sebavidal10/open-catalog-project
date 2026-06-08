@@ -1,0 +1,31 @@
+{
+  "title": "Doctor Faustus",
+  "year": "1967",
+  "rated": "Unrated",
+  "released": "06 Feb 1968",
+  "runtime": "93 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Richard Burton, Nevill Coghill",
+  "writer": "Christopher Marlowe, Nevill Coghill, Wolf Mankowitz",
+  "actors": "Elizabeth Taylor, Richard Burton, Andreas Teuber",
+  "plot": "A man sells his soul to the devil in order to have the woman he loves.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjYyMGI1ZWMtZjBhNi00MGYyLWJjMjctOTUxN2IxYWFjOWZkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "9%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.4",
+  "imdbID": "tt0062898",
+  "type": "movie",
+  "fetched_at": "2026-06-08T21:55:43.648Z"
+}
