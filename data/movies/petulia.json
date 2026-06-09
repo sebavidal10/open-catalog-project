@@ -1,0 +1,31 @@
+{
+  "title": "Petulia",
+  "year": "1968",
+  "rated": "Approved",
+  "released": "10 Jun 1968",
+  "runtime": "105 min",
+  "genre": "Drama, Romance",
+  "director": "Richard Lester",
+  "writer": "Lawrence B. Marcus, John Haase, Barbara Turner",
+  "actors": "Julie Christie, George C. Scott, Richard Chamberlain",
+  "plot": "An unhappily married socialite finds solace in the company of a recently divorced doctor.",
+  "language": "English, Spanish",
+  "country": "United Kingdom, United States",
+  "awards": "4 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDBiNjBjMmItZTFkZS00ZmZlLTgzM2QtNTY1NjdmMzkzZDE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0063426",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:22:57.264Z"
+}

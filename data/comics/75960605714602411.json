@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605714602411",
+  "title": "She-Hulk #24",
+  "authors": [
+    "Dan Buckley",
+    "Dave Kemp",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Mike Deodato",
+    "Paul Acerios",
+    "Peter David",
+    "Rain Beredo",
+    "Rob Ro",
+    "Shawn Moll",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2007-12-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/16/she-hulk-v2-24.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19356/",
+  "fetched_at": "2026-06-09T19:05:45.478Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960609389200111",
+  "title": "Hulkverines #1",
+  "authors": [
+    "Alan Fine",
+    "Andrew Crossley",
+    "Ario Anindito",
+    "C. B. Cebulski",
+    "Cory Smith",
+    "Dale Keown",
+    "Dan Buckley",
+    "Frank D'Armata",
+    "Greg Land",
+    "Greg Pak",
+    "Jason Keith",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Morry Hollowell",
+    "Romulo Fajardo Jr.",
+    "Sarah Brunstad",
+    "Tom Brevoort",
+    "Wil Moss"
+  ],
+  "publish_date": "2019-02-20",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/16/hulkverines-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/48035/",
+  "fetched_at": "2026-06-09T19:47:37.393Z",
+  "reviewed_at": null
+}

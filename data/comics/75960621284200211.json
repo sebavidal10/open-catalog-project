@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960621284200211",
+  "title": "Thor #2",
+  "authors": [
+    "Al Ewing",
+    "Alex Ross",
+    "C. B. Cebulski",
+    "Danny Khazem",
+    "James Kerigan",
+    "Joe Sabino",
+    "Matt Hollingsworth",
+    "Pasqual Ferry",
+    "Rachelle Rosenberg",
+    "Taurin Clarke",
+    "Todd Nauck",
+    "Wil Moss"
+  ],
+  "publish_date": "2025-09-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/09/12/2f4d9153519a4d1d9f9aece2b5bd0eac.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/153830/",
+  "fetched_at": "2026-06-09T20:44:56.763Z",
+  "reviewed_at": null
+}

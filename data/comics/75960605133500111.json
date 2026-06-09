@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605133500111",
+  "title": "Incredible Hulk: The End #1",
+  "authors": [
+    "Bill Jemas",
+    "Bobbie Chase",
+    "Dale Keown",
+    "Dan Kemp",
+    "Joe Quesada",
+    "Joe Weems",
+    "John Livesay",
+    "John Workman",
+    "Marc Sumerak",
+    "Peter David",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2002-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/21/hulk-end-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19577/",
+  "fetched_at": "2026-06-09T18:49:04.740Z",
+  "reviewed_at": "2002-08-01"
+}

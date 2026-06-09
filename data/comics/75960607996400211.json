@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607996400211",
+  "title": "She-Hulk #2",
+  "authors": [
+    "Alan Fine",
+    "Amanda Conner",
+    "Axel Alonso",
+    "Charles Soule",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Frankie Johnson",
+    "Frank Martin",
+    "Javier Pulido",
+    "Jeanine Schaefer",
+    "Joe Quesada",
+    "Kevin Wada",
+    "Muntsa Vicente",
+    "Tom Brennan"
+  ],
+  "publish_date": "2014-03-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/16/she-hulk-v3-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19372/",
+  "fetched_at": "2026-06-09T19:31:44.998Z",
+  "reviewed_at": null
+}

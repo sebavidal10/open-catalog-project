@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960620663601611",
+  "title": "The Incredible Hulk #16",
+  "authors": [
+    "Adam Del Re",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Daniel Earls",
+    "Dee Cunniffe",
+    "Jordan D. White",
+    "Matthew Wilson",
+    "MR Daniel",
+    "Paulo Siqueira",
+    "Phillip Kennedy Johnson",
+    "Rachelle Rosenberg",
+    "Tom Groneman"
+  ],
+  "publish_date": "2024-09-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/08/29/6c29bd8a593c4b06b666c7bbfae2209c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/126787/",
+  "fetched_at": "2026-06-09T20:05:41.332Z",
+  "reviewed_at": null
+}

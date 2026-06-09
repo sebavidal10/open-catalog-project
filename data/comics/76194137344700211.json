@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194137344700211",
+  "title": "The Joker Presents: A Puzzlebox #2",
+  "authors": [
+    "Chip Zdarsky",
+    "Dani Strips",
+    "Jeromy Cox",
+    "Jesús Merino",
+    "Keron Grant",
+    "Matthew Rosenberg",
+    "Shawn Crystal",
+    "Ulises Arreola"
+  ],
+  "publish_date": "2021-09-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/03/03/ba069f610987448c8835526ee5b43341.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/163229/",
+  "fetched_at": "2026-06-09T20:25:13.390Z",
+  "reviewed_at": null
+}

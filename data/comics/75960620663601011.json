@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960620663601011",
+  "title": "The Incredible Hulk #10",
+  "authors": [
+    "Adam Del Re",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Daniel Earls",
+    "Mark Brooks",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Mico Suayan",
+    "Nic Klein",
+    "Phillip Kennedy Johnson",
+    "Romulo Fajardo Jr.",
+    "Wil Moss"
+  ],
+  "publish_date": "2024-03-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/21/9133dec1c79347f0b93c8395faff5c28.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/114800/",
+  "fetched_at": "2026-06-09T20:03:51.641Z",
+  "reviewed_at": null
+}

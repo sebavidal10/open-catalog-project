@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "0714860245612",
+  "title": "The Incredible Hulk #206",
+  "authors": [
+    "Dave Cockrum",
+    "Glynis Oliver",
+    "Joe Staton",
+    "John Costanza",
+    "Len Wein",
+    "Sal Buscema"
+  ],
+  "publish_date": "1976-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/05/incredible-hulk-v2-206.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18892/",
+  "fetched_at": "2026-06-09T17:56:25.089Z",
+  "reviewed_at": "1976-12-01"
+}

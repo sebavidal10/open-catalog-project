@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620931600411",
+  "title": "Red Hulk #4",
+  "authors": [
+    "Benjamin Percy",
+    "Bryan Valenza",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Drew Baumgartner",
+    "Geoff Shaw",
+    "Jonboy Meyers",
+    "Juan Fernandez",
+    "Ken Lashley",
+    "Lauren Amaro",
+    "Mark Paniccia",
+    "Marte Gracia",
+    "Mikey J. Basso"
+  ],
+  "publish_date": "2025-05-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/04/29/d2644369efc2426dadd9860bc42f0017.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/144698/",
+  "fetched_at": "2026-06-09T20:07:50.601Z",
+  "reviewed_at": null
+}

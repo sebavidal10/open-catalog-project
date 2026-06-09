@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607996400911",
+  "title": "She-Hulk #9",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Charles Soule",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Jason Keith",
+    "Javier Pulido",
+    "Jeanine Schaefer",
+    "Joe Quesada",
+    "Kevin Wada",
+    "Mike McKone",
+    "Muntsa Vicente",
+    "Tom Brennan"
+  ],
+  "publish_date": "2014-10-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/16/she-hulk-v3-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19379/",
+  "fetched_at": "2026-06-09T19:34:09.110Z",
+  "reviewed_at": null
+}

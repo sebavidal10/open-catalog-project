@@ -1,0 +1,42 @@
+{
+  "isbn": null,
+  "upc": "75960608956702511",
+  "title": "Immortal Hulk #25",
+  "authors": [
+    "Alan Fine",
+    "Al Ewing",
+    "Alex Ross",
+    "Andrea Sorrentino",
+    "C. B. Cebulski",
+    "Chris O'Halloran",
+    "Cory Petit",
+    "Dan Buckley",
+    "David Curiel",
+    "Ed McGuinness",
+    "Gene Colan",
+    "Germán García",
+    "Israel Silva",
+    "Jason Keith",
+    "Joe Bennett",
+    "Joe Quesada",
+    "Kris Anka",
+    "Paul Mounts",
+    "Ron Lim",
+    "Rudy Nebres",
+    "Ruy José",
+    "Sarah Brunstad",
+    "Steve Epting",
+    "Tom Brevoort",
+    "Wil Moss"
+  ],
+  "publish_date": "2019-10-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/06/immortal-hulk-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/20310/",
+  "fetched_at": "2026-06-09T19:50:06.313Z",
+  "reviewed_at": null
+}

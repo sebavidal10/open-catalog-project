@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604745101711",
+  "title": "Incredible Hulk #17",
+  "authors": [
+    "Bill Jemas",
+    "Bob Harras",
+    "Jason Wright",
+    "John Workman",
+    "Paul Jenkins",
+    "Robert Campanella",
+    "Ron Garney",
+    "Sal Buscema",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2000-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/17/incredible-hulk-v3-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19410/",
+  "fetched_at": "2026-06-09T18:44:51.527Z",
+  "reviewed_at": "2000-08-01"
+}

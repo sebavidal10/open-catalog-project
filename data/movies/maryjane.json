@@ -1,0 +1,27 @@
+{
+  "title": "Maryjane",
+  "year": "1968",
+  "rated": "Not Rated",
+  "released": "01 Feb 1968",
+  "runtime": "95 min",
+  "genre": "Drama",
+  "director": "Maury Dexter",
+  "writer": "Maury Dexter, Dick Gautier, Peter Marshall",
+  "actors": "Fabian, Diane McBain, Kevin Coughlin",
+  "plot": "A teacher trying to break up a local drug ring is framed and arrested for possession of marijuana.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMxMTU2MTYwN15BMl5BanBnXkFtZTgwNTExODk1MDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0063281",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:29:58.839Z"
+}

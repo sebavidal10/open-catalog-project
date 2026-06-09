@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960602456843511",
+  "title": "The Incredible Hulk #435",
+  "authors": [
+    "Al Milgrom",
+    "Bobbie Chase",
+    "Chris Renaud",
+    "Comicraft",
+    "Gary Frank",
+    "Glynis Oliver",
+    "Peter David",
+    "Richard Starkings",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1995-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/11/incredible-hulk-v2-435.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19137/",
+  "fetched_at": "2026-06-09T18:34:24.572Z",
+  "reviewed_at": "1995-11-01"
+}

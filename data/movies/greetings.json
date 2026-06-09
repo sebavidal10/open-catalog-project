@@ -1,0 +1,31 @@
+{
+  "title": "Greetings",
+  "year": "1968",
+  "rated": "R",
+  "released": "28 Jan 1970",
+  "runtime": "88 min",
+  "genre": "Comedy, Drama",
+  "director": "Brian De Palma",
+  "writer": "Charles Hirsch, Brian De Palma",
+  "actors": "Jonathan Warden, Robert De Niro, Gerrit Graham",
+  "plot": "Three friends in New York City discuss how to dodge the draft and Vietnam, JFK's assassination, voyeurism, computer dating, and everything else.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDk1NDE0OGItNjEwYi00YzExLWIwMGYtOWExYjJjZTM2MzY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0063036",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:21:25.044Z"
+}

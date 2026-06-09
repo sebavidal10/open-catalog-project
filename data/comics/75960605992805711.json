@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605992805711",
+  "title": "Hulk #57",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Clayton Cowles",
+    "Dale Eaglesham",
+    "Dan Buckley",
+    "Irene Lee",
+    "Jeff Parker",
+    "Joe Quesada",
+    "Jon Moisan",
+    "Mark Paniccia",
+    "Val Staples"
+  ],
+  "publish_date": "2012-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v2-57.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19248/",
+  "fetched_at": "2026-06-09T19:26:17.111Z",
+  "reviewed_at": "2012-10-01"
+}

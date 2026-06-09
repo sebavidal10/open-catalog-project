@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620663602011",
+  "title": "The Incredible Hulk #20",
+  "authors": [
+    "Adam Del Re",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Daniel Earls",
+    "Greg Land",
+    "Jesus Aburtov",
+    "Jordan D. White",
+    "Kaeden McGahey",
+    "Martín Cóccolo",
+    "Matthew Wilson",
+    "Nic Klein",
+    "Paul Mounts",
+    "Phillip Kennedy Johnson"
+  ],
+  "publish_date": "2024-12-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/12/06/1b3af829e31d49cea90db8b0894f0e41.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/132666/",
+  "fetched_at": "2026-06-09T20:06:19.739Z",
+  "reviewed_at": null
+}

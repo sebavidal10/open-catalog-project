@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960604745100611",
+  "title": "Hulk #6",
+  "authors": [
+    "Bob Harras",
+    "Dan Green",
+    "John Byrne",
+    "John Workman",
+    "Ron Garney",
+    "Steve Buccellato",
+    "Tom Brevoort"
+  ],
+  "publish_date": "1999-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/22/hulk-v1-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3955/",
+  "fetched_at": "2026-06-09T18:43:06.944Z",
+  "reviewed_at": "1999-09-01"
+}

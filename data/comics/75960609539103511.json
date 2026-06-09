@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960609539103511",
+  "title": "Thor #35",
+  "authors": [
+    "C. B. Cebulski",
+    "Daniel Warren Johnson",
+    "Joe Sabino",
+    "Juan Gedeon",
+    "Marte Gracia",
+    "Matthew Wilson",
+    "Michael Spicer",
+    "Michelle Marchese",
+    "Nic Klein",
+    "Pepe Larraz",
+    "Sean Parsons",
+    "Sergio Fernandez Davila",
+    "Torunn Grønbekk",
+    "Wil Moss"
+  ],
+  "publish_date": "2023-06-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/06/14/5ee53a82a2254d86bc29349530e41a4f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/67081/",
+  "fetched_at": "2026-06-09T20:38:46.729Z",
+  "reviewed_at": null
+}

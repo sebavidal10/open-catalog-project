@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194137344700711",
+  "title": "The Joker Presents: A Puzzlebox #7",
+  "authors": [
+    "Chip Zdarsky",
+    "Ferran Delgado",
+    "Jesús Merino",
+    "Matthew Rosenberg",
+    "Mike Norton",
+    "Roman Stevens",
+    "Ulises Arreola",
+    "Vicente Cifuentes"
+  ],
+  "publish_date": "2022-02-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/03/03/84d74e0947224d73a84c1d1a343d30b1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/163234/",
+  "fetched_at": "2026-06-09T20:26:44.521Z",
+  "reviewed_at": null
+}

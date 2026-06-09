@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608612200311",
+  "title": "Hulk #3",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Christina Harrington",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dan Mora",
+    "Jeff Dekal",
+    "Joe Jusko",
+    "Joe Quesada",
+    "Manny Mederos",
+    "Mariko Tamaki",
+    "Mark Paniccia",
+    "Matt Milla",
+    "Nico Leon",
+    "Nolan Woodard"
+  ],
+  "publish_date": "2017-02-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v4-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19277/",
+  "fetched_at": "2026-06-09T19:40:45.564Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960620003000211",
+  "title": "Hulk #2",
+  "authors": [
+    "Adam Kubert",
+    "Alanna Smith",
+    "Alejandro Sánchez",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Cliff Rathburn",
+    "Cory Petit",
+    "Donny Cates",
+    "Frank Martin",
+    "Kaitlyn Lindtvedt",
+    "Pete Woods",
+    "Ryan Ottley",
+    "Wil Moss"
+  ],
+  "publish_date": "2021-12-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/02/hulk-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/41331/",
+  "fetched_at": "2026-06-09T19:56:20.758Z",
+  "reviewed_at": null
+}

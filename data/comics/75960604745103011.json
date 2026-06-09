@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960604745103011",
+  "title": "Incredible Hulk #30",
+  "authors": [
+    "Arsia Rozegar",
+    "Bill Jemas",
+    "Brian Haberlin",
+    "Joe Bennett",
+    "Joe Quesada",
+    "John Workman",
+    "Marc Sumerak",
+    "Paul Jenkins",
+    "Sean McKeever",
+    "Tom Brevoort",
+    "Tom Palmer"
+  ],
+  "publish_date": "2001-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/17/incredible-hulk-v3-30.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19423/",
+  "fetched_at": "2026-06-09T18:47:09.701Z",
+  "reviewed_at": "2001-09-01"
+}

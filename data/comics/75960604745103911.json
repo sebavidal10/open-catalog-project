@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960604745103911",
+  "title": "Incredible Hulk #39",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Bruce Jones",
+    "Joe Quesada",
+    "John Miesegaes",
+    "John Romita Jr.",
+    "Kaare Andrews",
+    "Richard Starkings",
+    "Studio F",
+    "Tom Palmer",
+    "Wes Abbott"
+  ],
+  "publish_date": "2002-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/18/incredible-hulk-v3-39.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19491/",
+  "fetched_at": "2026-06-09T18:48:36.574Z",
+  "reviewed_at": "2002-06-01"
+}

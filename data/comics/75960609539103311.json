@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960609539103311",
+  "title": "Thor #33",
+  "authors": [
+    "Alex Ross",
+    "C. B. Cebulski",
+    "Edgar Delgado",
+    "Jeffrey Brown",
+    "Joe Sabino",
+    "Juan Gedeon",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Nic Klein",
+    "Stefano Caselli",
+    "Torunn Grønbekk",
+    "Wil Moss"
+  ],
+  "publish_date": "2023-04-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/04/14/b7cb736e0a414f06ba8d98e36524d4f5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/61862/",
+  "fetched_at": "2026-06-09T20:37:59.458Z",
+  "reviewed_at": null
+}

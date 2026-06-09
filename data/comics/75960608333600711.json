@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608333600711",
+  "title": "Totally Awesome Hulk #7",
+  "authors": [
+    "Alan Davis",
+    "Alan Fine",
+    "Andy Troy",
+    "Axel Alonso",
+    "Chris Sotomayor",
+    "Cory Petit",
+    "Dan Buckley",
+    "Darren Shan",
+    "Greg Pak",
+    "Joe Quesada",
+    "Mark Farmer",
+    "Mark Paniccia",
+    "Matt Hollingsworth",
+    "Mike Perkins"
+  ],
+  "publish_date": "2016-06-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/25/the-totally-awesome-hulk-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42466/",
+  "fetched_at": "2026-06-09T19:38:48.328Z",
+  "reviewed_at": null
+}

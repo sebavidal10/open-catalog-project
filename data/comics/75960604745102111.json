@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604745102111",
+  "title": "Incredible Hulk #21",
+  "authors": [
+    "Bill Jemas",
+    "Eric Powell",
+    "Joe Quesada",
+    "John Workman",
+    "Kyle Hotz",
+    "Marc Sumerak",
+    "Paul Jenkins",
+    "Steve Buccellato",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2000-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/17/incredible-hulk-v3-21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19414/",
+  "fetched_at": "2026-06-09T18:45:35.639Z",
+  "reviewed_at": "2000-12-01"
+}

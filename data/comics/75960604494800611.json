@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960604494800611",
+  "title": "Rampaging Hulk #6",
+  "authors": [
+    "Bill Oakley",
+    "Bob Harras",
+    "Dan Green",
+    "Glenn Greenberg",
+    "Jaye Gardner",
+    "Rick Leonardi",
+    "Terry Kavanagh",
+    "Tom Smith"
+  ],
+  "publish_date": "1999-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/01/af1f020089fc462f8b9da435fadfdf09.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/120625/",
+  "fetched_at": "2026-06-09T18:41:45.741Z",
+  "reviewed_at": "1999-01-01"
+}

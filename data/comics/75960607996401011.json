@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960607996401011",
+  "title": "She-Hulk #10",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Charles Soule",
+    "Dan Buckley",
+    "Gus Pillsbury",
+    "Javier Pulido",
+    "Jeanine Schaefer",
+    "Joe Quesada",
+    "Kevin Wada",
+    "Muntsa Vicente"
+  ],
+  "publish_date": "2014-11-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/16/she-hulk-v3-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19380/",
+  "fetched_at": "2026-06-09T19:34:34.618Z",
+  "reviewed_at": null
+}

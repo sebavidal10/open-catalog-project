@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604745102211",
+  "title": "Incredible Hulk #22",
+  "authors": [
+    "Bill Jemas",
+    "Eric Powell",
+    "Joe Quesada",
+    "Joe Rosas",
+    "John Workman",
+    "Kyle Hotz",
+    "Marc Sumerak",
+    "Paul Jenkins",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2001-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/17/incredible-hulk-v3-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19415/",
+  "fetched_at": "2026-06-09T18:45:46.896Z",
+  "reviewed_at": "2001-01-01"
+}

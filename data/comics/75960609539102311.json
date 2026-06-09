@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960609539102311",
+  "title": "Thor #23",
+  "authors": [
+    "Alanna Smith",
+    "C. B. Cebulski",
+    "Donny Cates",
+    "Ian Herring",
+    "Jason Keith",
+    "Joe Sabino",
+    "J. P. Mayer",
+    "Kaitlyn Lindtvedt",
+    "Karen S. Darboe",
+    "Logan Lubera",
+    "Matthew Wilson",
+    "Nic Klein",
+    "Rachelle Rosenberg",
+    "Ryan Stegman",
+    "Wil Moss"
+  ],
+  "publish_date": "2022-03-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/02/21/thor-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/44168/",
+  "fetched_at": "2026-06-09T20:34:36.769Z",
+  "reviewed_at": null
+}

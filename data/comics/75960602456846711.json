@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960602456846711",
+  "title": "The Incredible Hulk #467",
+  "authors": [
+    "Adam Kubert",
+    "Bobbie Chase",
+    "Bob Harras",
+    "Javier Pulido",
+    "Joe Casey",
+    "John Workman",
+    "Peter David",
+    "Sean Parsons",
+    "Steve Buccellato"
+  ],
+  "publish_date": "1998-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/12/incredible-hulk-v2-467.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19173/",
+  "fetched_at": "2026-06-09T18:40:24.536Z",
+  "reviewed_at": "1998-08-01"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Paint Your Wagon",
+  "year": "1969",
+  "rated": "PG-13",
+  "released": "15 Oct 1969",
+  "runtime": "164 min",
+  "genre": "Comedy, Musical, Western",
+  "director": "Joshua Logan",
+  "writer": "Alan Jay Lerner, Paddy Chayefsky",
+  "actors": "Lee Marvin, Clint Eastwood, Jean Seberg",
+  "plot": "Two unlikely prospector partners share the same wife in a California gold rush mining town.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzIwNjViZWUtOTgyZC00MWFlLWFkMzMtNTFiODhkNDA4NDQ5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "45%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "metascore": "50",
+  "imdbRating": "6.6",
+  "imdbID": "tt0064782",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:31:55.633Z"
+}

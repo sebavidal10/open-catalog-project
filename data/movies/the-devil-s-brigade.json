@@ -1,0 +1,31 @@
+{
+  "title": "The Devil's Brigade",
+  "year": "1968",
+  "rated": "Approved",
+  "released": "02 Aug 1968",
+  "runtime": "130 min",
+  "genre": "Action, Drama, War",
+  "director": "Andrew V. McLaglen",
+  "writer": "William Roberts, Robert H. Adleman, George Walton",
+  "actors": "William Holden, Cliff Robertson, Vince Edwards",
+  "plot": "A US Army lieutenant colonel is tasked with forming an elite commando-style unit from crack Canadian troops and the dregs of the US Army.",
+  "language": "English, German, French",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjg0ZTdkYWQtMjlmZi00MDBjLWFiMWItNmVmMTkxNGJjNjdlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0062886",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:21:08.532Z"
+}

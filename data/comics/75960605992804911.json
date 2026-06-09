@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960605992804911",
+  "title": "Hulk #49",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "David Curiel",
+    "Ed Dukeshire",
+    "Elena Casagrande",
+    "Irene Lee",
+    "Jake Thomas",
+    "Jeff Parker",
+    "Joe Quesada",
+    "John Romita Jr.",
+    "Klaus Janson",
+    "Mark Paniccia",
+    "Paul Mounts"
+  ],
+  "publish_date": "2012-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v2-49.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19240/",
+  "fetched_at": "2026-06-09T19:24:22.599Z",
+  "reviewed_at": "2012-05-01"
+}

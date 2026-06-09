@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "0714860245608",
+  "title": "The Incredible Hulk #202",
+  "authors": [
+    "Glynis Oliver",
+    "Irving Watanabe",
+    "Joe Staton",
+    "John Buscema",
+    "John Romita Sr.",
+    "Len Wein",
+    "Marv Wolfman",
+    "Sal Buscema"
+  ],
+  "publish_date": "1976-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/03/incredible-hulk-v2-202.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18820/",
+  "fetched_at": "2026-06-09T17:55:38.601Z",
+  "reviewed_at": "1976-08-01"
+}

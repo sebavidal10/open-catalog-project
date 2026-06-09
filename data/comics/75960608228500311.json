@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608228500311",
+  "title": "Planet Hulk #3",
+  "authors": [
+    "Alan Fine",
+    "Alex Maleev",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Dan Buckley",
+    "Emily Shaw",
+    "Joe Quesada",
+    "Jordan Boyd",
+    "Manny Mederos",
+    "Marc Laming",
+    "Mark Paniccia",
+    "Michael Del Mundo",
+    "Sam Humphries",
+    "Travis Lanham"
+  ],
+  "publish_date": "2015-07-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/02/11/planet-hulk-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43804/",
+  "fetched_at": "2026-06-09T19:36:58.054Z",
+  "reviewed_at": null
+}

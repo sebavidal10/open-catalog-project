@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960606637763111",
+  "title": "Incredible Hulks #631",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Danny Miki",
+    "Greg Pak",
+    "Irene Lee",
+    "Jake Thomas",
+    "Jesus Aburtov",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Morry Hollowell",
+    "Paul Pelletier",
+    "Simon Bowland"
+  ],
+  "publish_date": "2011-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/15/incredible-hulks-v1-631.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19305/",
+  "fetched_at": "2026-06-09T19:20:56.007Z",
+  "reviewed_at": "2011-08-01"
+}

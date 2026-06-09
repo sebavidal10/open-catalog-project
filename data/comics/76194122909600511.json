@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194122909600511",
+  "title": "Joker: Last Laugh #5",
+  "authors": [
+    "Álvaro López",
+    "Chuck Dixon",
+    "Marcos Martín",
+    "Mark Farmer",
+    "Matt Idelson",
+    "Nachie Castro",
+    "Scott Beatty",
+    "Scott McDaniel",
+    "Tom McCraw",
+    "Willie Schubert"
+  ],
+  "publish_date": "2001-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/29/47996dd6c1164e15b97af5f8512bbe66.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152655/",
+  "fetched_at": "2026-06-09T20:12:52.408Z",
+  "reviewed_at": "2001-12-01"
+}

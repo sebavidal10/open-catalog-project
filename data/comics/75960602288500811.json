@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960602288500811",
+  "title": "Hulk 2099 #8",
+  "authors": [
+    "Barry Grossman",
+    "Bobbie Chase",
+    "Christopher Ivy",
+    "Gerard Jones",
+    "Jack Morelli",
+    "Joey Cavalieri",
+    "Lia Pelosi",
+    "Malcolm Davis"
+  ],
+  "publish_date": "1995-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/11/3953324aa7ad440b97d847c6d4262b5f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/113939/",
+  "fetched_at": "2026-06-09T18:33:37.855Z",
+  "reviewed_at": "1995-07-01"
+}

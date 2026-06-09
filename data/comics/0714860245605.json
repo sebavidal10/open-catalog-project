@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "0714860245605",
+  "title": "The Incredible Hulk #211",
+  "authors": [
+    "Ed Hannigan",
+    "Ernie Chan",
+    "Glynis Oliver",
+    "Irving Watanabe",
+    "Len Wein",
+    "Sal Buscema"
+  ],
+  "publish_date": "1977-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/05/incredible-hulk-v2-211.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18897/",
+  "fetched_at": "2026-06-09T17:57:32.058Z",
+  "reviewed_at": "1977-05-01"
+}

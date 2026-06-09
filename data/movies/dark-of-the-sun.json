@@ -1,0 +1,31 @@
+{
+  "title": "Dark of the Sun",
+  "year": "1968",
+  "rated": "Approved",
+  "released": "03 Jul 1968",
+  "runtime": "100 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Jack Cardiff",
+  "writer": "Ranald MacDougall, Adrian Spies, Wilbur Smith",
+  "actors": "Rod Taylor, Yvette Mimieux, Peter Carsten",
+  "plot": "A band of mercenaries led by Captain Curry travel through war-torn Congo across deadly terrain, battling rival armies, to steal $50 million in uncut diamonds. But infighting, sadistic rebels and a time lock jeopardize everything.",
+  "language": "English, French",
+  "country": "United Kingdom, United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA3MDM4ZGMtNDcyNy00NTY2LWFjMzktNTg5YzM0ZWI1ZTVhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0062863",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:22:18.071Z"
+}

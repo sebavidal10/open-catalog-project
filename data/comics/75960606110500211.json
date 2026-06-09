@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960606110500211",
+  "title": "World War Hulk #2",
+  "authors": [
+    "Brad Johansen",
+    "Chris Eliopoulos",
+    "Christina Strain",
+    "Dan Buckley",
+    "Danny Miki",
+    "David Finch",
+    "Frank D'Armata",
+    "Greg Pak",
+    "Joe Quesada",
+    "John Romita Jr.",
+    "Klaus Janson",
+    "Mark Paniccia",
+    "Nathan Cosby"
+  ],
+  "publish_date": "2007-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/21/wwh-v1-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19591/",
+  "fetched_at": "2026-06-09T19:03:25.288Z",
+  "reviewed_at": "2007-09-01"
+}

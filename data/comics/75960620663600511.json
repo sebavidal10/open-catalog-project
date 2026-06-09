@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960620663600511",
+  "title": "The Incredible Hulk #5",
+  "authors": [
+    "Adam Del Re",
+    "Alexander Lozano",
+    "Alitha Martinez",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Dan Panosian",
+    "Ernanda Souza",
+    "Leinil Francis Yu",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Nic Klein",
+    "Phillip Kennedy Johnson",
+    "Romulo Fajardo Jr.",
+    "Travel Foreman",
+    "Travis Lanham",
+    "Vita Ayala",
+    "Wil Moss"
+  ],
+  "publish_date": "2023-10-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/10/06/8bedfc831f794730b1c65744f2b3aec4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/76646/",
+  "fetched_at": "2026-06-09T20:02:24.942Z",
+  "reviewed_at": null
+}

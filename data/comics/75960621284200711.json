@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960621284200711",
+  "title": "Thor #7",
+  "authors": [
+    "Al Ewing",
+    "Alex Ross",
+    "Ario Anindito",
+    "C. B. Cebulski",
+    "Ceci de la Cruz",
+    "Danny Khazem",
+    "Joe Sabino",
+    "Matt Milla",
+    "Pasqual Ferry",
+    "Sergio Fernandez Davila",
+    "Wil Moss",
+    "Yen Nitro"
+  ],
+  "publish_date": "2026-02-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/02/13/80799b7bcaa84236b80839381787f3f8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/162636/",
+  "fetched_at": "2026-06-09T20:46:08.885Z",
+  "reviewed_at": null
+}

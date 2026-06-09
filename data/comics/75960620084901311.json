@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960620084901311",
+  "title": "She-Hulk #13",
+  "authors": [
+    "Andrés Genolet",
+    "Bryan Valenza",
+    "C. B. Cebulski",
+    "Dee Cunniffe",
+    "Frank D'Armata",
+    "Gabriel Mata",
+    "Greg Land",
+    "Jen Bartel",
+    "Joe Caramagna",
+    "Joe Quinones",
+    "Kaeden McGahey",
+    "Nick Lowe",
+    "Rainbow Rowell"
+  ],
+  "publish_date": "2023-05-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/05/05/4bc76f8f729c4039ad58ddb083bd0ba3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/64467/",
+  "fetched_at": "2026-06-09T20:01:20.126Z",
+  "reviewed_at": null
+}

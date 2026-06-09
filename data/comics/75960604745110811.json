@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960604745110811",
+  "title": "Incredible Hulk #108",
+  "authors": [
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Greg Land",
+    "Greg Pak",
+    "Jay Leisten",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Leonard Kirk",
+    "Mark Paniccia",
+    "Nathan Cosby",
+    "Scott Hanna"
+  ],
+  "publish_date": "2007-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/20/incredible-hulk-v3-108.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19560/",
+  "fetched_at": "2026-06-09T19:03:17.090Z",
+  "reviewed_at": "2007-09-01"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Mercenary",
+  "year": "1968",
+  "rated": "PG-13",
+  "released": "22 Apr 1969",
+  "runtime": "110 min",
+  "genre": "Comedy, Drama, Western",
+  "director": "Sergio Corbucci",
+  "writer": "Franco Solinas, Giorgio Arlorio, Luciano Vincenzoni",
+  "actors": "Franco Nero, Tony Musante, Franco Giacobini",
+  "plot": "A greedy Polish mercenary helps a mine worker and a peasant girl lead a revolution against the Mexican Government, all while being pursued by an American rival.",
+  "language": "English, Italian, Spanish",
+  "country": "Italy, Spain, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmRjNmNkMzktYjRjMy00Nzg3LTg0ZWEtOTYzODg5YTc1YTIzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0063293",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:21:42.726Z"
+}

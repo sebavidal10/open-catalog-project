@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960607292701211",
+  "title": "The Incredible Hulk #12",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Carlos Pacheco",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Frank Martin",
+    "Jake Thomas",
+    "Jason Aaron",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Michael Komarck",
+    "Roger Bonet"
+  ],
+  "publish_date": "2012-08-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/16/incredible-hulk-v4-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19399/",
+  "fetched_at": "2026-06-09T19:26:22.641Z",
+  "reviewed_at": null
+}

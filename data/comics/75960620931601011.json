@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620931601011",
+  "title": "Red Hulk #10",
+  "authors": [
+    "Benjamin Percy",
+    "Bryan Valenza",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Drew Baumgartner",
+    "Federico Blee",
+    "Gabriel Guzmán",
+    "Geoff Shaw",
+    "Lauren Amaro",
+    "Mark Paniccia",
+    "Marte Gracia",
+    "Michele Bandini",
+    "Mikey J. Basso"
+  ],
+  "publish_date": "2025-11-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/31/6d9ffd142e5a4398ab2923d6c34f440f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156765/",
+  "fetched_at": "2026-06-09T20:09:42.757Z",
+  "reviewed_at": null
+}

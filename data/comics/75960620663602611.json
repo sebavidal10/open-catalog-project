@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960620663602611",
+  "title": "The Incredible Hulk #26",
+  "authors": [
+    "Adam Del Re",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Cory Smith",
+    "Federico Blee",
+    "Jordan D. White",
+    "Kaeden McGahey",
+    "Kevin Walker",
+    "Matteo Lolli",
+    "Matthew Wilson",
+    "Nic Klein",
+    "Phillip Kennedy Johnson",
+    "Rachelle Rosenberg",
+    "Sanford Greene"
+  ],
+  "publish_date": "2025-06-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/06/10/6c3e67af925546918b48bb4575ed6a13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/148917/",
+  "fetched_at": "2026-06-09T20:08:00.933Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,42 @@
+{
+  "isbn": null,
+  "upc": "75960608956703311",
+  "title": "Immortal Hulk #33",
+  "authors": [
+    "Al Ewing",
+    "Alex Ross",
+    "Belardino Brabo",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Cory Smith",
+    "Dave Stewart",
+    "Israel Silva",
+    "Jason Keith",
+    "Joe Bennett",
+    "Logan Lubera",
+    "Marc Deering",
+    "Mark Morales",
+    "Mat Lopes",
+    "Michael Garland",
+    "Nick Pitarra",
+    "Paul Mounts",
+    "Rachelle Rosenberg",
+    "Ron Lim",
+    "Ruy José",
+    "Sarah Brunstad",
+    "Steve Skroce",
+    "Tom Brevoort",
+    "Walter Simonson",
+    "Wil Moss"
+  ],
+  "publish_date": "2020-03-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/06/immortal-hulk-33.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/20318/",
+  "fetched_at": "2026-06-09T19:51:25.081Z",
+  "reviewed_at": null
+}

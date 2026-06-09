@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608769371011",
+  "title": "Incredible Hulk #710",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dick Ayers",
+    "Frank D'Armata",
+    "Greg Land",
+    "Greg Pak",
+    "Jack Kirby",
+    "Jay Leisten",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Paul Mounts"
+  ],
+  "publish_date": "2017-11-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/01/incredible-hulk-v6-710.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19937/",
+  "fetched_at": "2026-06-09T19:43:47.644Z",
+  "reviewed_at": null
+}

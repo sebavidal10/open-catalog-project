@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960604745100511",
+  "title": "Hulk #5",
+  "authors": [
+    "Bob Harras",
+    "Dan Jurgens",
+    "John Byrne",
+    "John Workman",
+    "Lee Weeks",
+    "Mark Texeira",
+    "Mike S. Miller",
+    "Sal Buscema",
+    "Scott Koblish",
+    "Steve Buccellato",
+    "Tom Brevoort"
+  ],
+  "publish_date": "1999-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/22/hulk-v1-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3954/",
+  "fetched_at": "2026-06-09T18:42:58.245Z",
+  "reviewed_at": "1999-08-01"
+}

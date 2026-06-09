@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620663601811",
+  "title": "The Incredible Hulk #18",
+  "authors": [
+    "Adam Del Re",
+    "Carlos Lao",
+    "Carlos Villa",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Daniel Earls",
+    "Edgar Delgado",
+    "Jordan D. White",
+    "Kaeden McGahey",
+    "Matthew Wilson",
+    "MR Daniel",
+    "Nic Klein",
+    "Phillip Kennedy Johnson",
+    "Tom Groneman"
+  ],
+  "publish_date": "2024-10-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/10/18/fff7906cbecc4ff98f1a8ac45a2c2aa7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/129478/",
+  "fetched_at": "2026-06-09T20:05:57.377Z",
+  "reviewed_at": null
+}

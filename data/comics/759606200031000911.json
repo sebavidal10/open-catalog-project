@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "759606200031000911",
+  "title": "Hulk #9",
+  "authors": [
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Cliff Rathburn",
+    "Cory Petit",
+    "Dale Keown",
+    "Dan Panosian",
+    "Donny Cates",
+    "Jason Keith",
+    "Mahmud A. Asrar",
+    "Marte Gracia",
+    "Matthew Wilson",
+    "Matt Hollingsworth",
+    "Michelle Marchese",
+    "Romulo Fajardo Jr.",
+    "Ryan Ottley",
+    "Wil Moss"
+  ],
+  "publish_date": "2022-10-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/09/29/hulk-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/52366/",
+  "fetched_at": "2026-06-09T19:58:53.438Z",
+  "reviewed_at": null
+}

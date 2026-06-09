@@ -1,0 +1,31 @@
+{
+  "title": "Head",
+  "year": "1968",
+  "rated": "G",
+  "released": "20 Nov 1968",
+  "runtime": "86 min",
+  "genre": "Comedy, Fantasy, Musical",
+  "director": "Bob Rafelson",
+  "writer": "Bob Rafelson, Jack Nicholson, Micky Dolenz",
+  "actors": "Peter Tork, Davy Jones, Micky Dolenz",
+  "plot": "The Monkees frolic their way through a series of musical set pieces and vignettes containing surreal humor and anti-establishment social commentary.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDNhOGYwYWQtYmI3YS00ZTc5LTlmYmUtOTAwZDIyZWY0NzU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0063049",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:21:07.361Z"
+}

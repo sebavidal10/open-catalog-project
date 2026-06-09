@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604745108811",
+  "title": "Incredible Hulk #88",
+  "authors": [
+    "Brandon Peterson",
+    "Dan Buckley",
+    "Daniel Way",
+    "Jason Keith",
+    "Joe Quesada",
+    "Keu Cha",
+    "Mark Paniccia",
+    "Nathan Cosby",
+    "Randy Gentile"
+  ],
+  "publish_date": "2006-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/20/incredible-hulk-v3-88.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19540/",
+  "fetched_at": "2026-06-09T18:57:54.737Z",
+  "reviewed_at": "2006-01-01"
+}

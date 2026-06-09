@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960620663602111",
+  "title": "The Incredible Hulk #21",
+  "authors": [
+    "Adam Del Re",
+    "Bryan Valenza",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Daniel Earls",
+    "Geoff Shaw",
+    "Jordan D. White",
+    "Kaeden McGahey",
+    "Martin Simmonds",
+    "Matthew Wilson",
+    "Nic Klein",
+    "Phillip Kennedy Johnson",
+    "Rachelle Rosenberg",
+    "Todd Nauck"
+  ],
+  "publish_date": "2025-01-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/01/03/b044aaa1072e4edb98c7a59e194d3dd7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/133375/",
+  "fetched_at": "2026-06-09T20:06:35.241Z",
+  "reviewed_at": null
+}

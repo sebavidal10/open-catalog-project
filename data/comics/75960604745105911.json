@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604745105911",
+  "title": "Incredible Hulk #59",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Bruce Jones",
+    "Cory Petit",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Leandro Fernández",
+    "Steve Buccellato",
+    "Warren Simons"
+  ],
+  "publish_date": "2003-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/19/incredible-hulk-v3-59.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19511/",
+  "fetched_at": "2026-06-09T18:51:47.533Z",
+  "reviewed_at": "2003-10-01"
+}

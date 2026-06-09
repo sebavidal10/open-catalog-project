@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960621284200811",
+  "title": "Thor #8",
+  "authors": [
+    "Al Ewing",
+    "Alex Ross",
+    "Alex Sinclair",
+    "Bengal",
+    "C. B. Cebulski",
+    "Danny Khazem",
+    "David Wachter",
+    "Jesus Aburtov",
+    "Joe Sabino",
+    "Juann Cabal",
+    "Whilce Portacio",
+    "Wil Moss"
+  ],
+  "publish_date": "2026-03-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/03/01/38cf11be72d24d66aefd90b2ce0af26c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/163103/",
+  "fetched_at": "2026-06-09T20:46:19.267Z",
+  "reviewed_at": null
+}

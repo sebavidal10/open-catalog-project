@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608769371711",
+  "title": "Incredible Hulk #717",
+  "authors": [
+    "Alan Fine",
+    "Alanna Smith",
+    "Carlo Barberi",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dan Buckley",
+    "David Curiel",
+    "Frank Cho",
+    "Frank D'Armata",
+    "Greg Pak",
+    "Joe Quesada",
+    "Tom Brevoort",
+    "Walden Wong"
+  ],
+  "publish_date": "2018-05-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/01/incredible-hulk-v6-717.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19944/",
+  "fetched_at": "2026-06-09T19:45:29.422Z",
+  "reviewed_at": null
+}

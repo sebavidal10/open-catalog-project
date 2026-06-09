@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620931600611",
+  "title": "Red Hulk #6",
+  "authors": [
+    "Benjamin Percy",
+    "Bryan Valenza",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dan Panosian",
+    "Drew Baumgartner",
+    "Geoff Shaw",
+    "Laura Allred",
+    "Lauren Amaro",
+    "Mark Paniccia",
+    "Marte Gracia",
+    "Mike Allred",
+    "Mikey J. Basso"
+  ],
+  "publish_date": "2025-07-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/06/16/45fed7bb7e7745adb0b4167fd9181b38.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/149109/",
+  "fetched_at": "2026-06-09T20:08:23.560Z",
+  "reviewed_at": null
+}

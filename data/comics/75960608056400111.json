@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960608056400111",
+  "title": "Hulk #1",
+  "authors": [
+    "Alan Fine",
+    "Andrew Hennessy",
+    "Axel Alonso",
+    "Chris Samnee",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dean White",
+    "Emily Shaw",
+    "Gerald Parel",
+    "Jason Keith",
+    "Jerome Opeña",
+    "Joe Quesada",
+    "Mark Bagley",
+    "Mark Paniccia",
+    "Mark Waid",
+    "Matthew Wilson",
+    "Michael Del Mundo",
+    "Mike Grell",
+    "Skottie Young"
+  ],
+  "publish_date": "2014-04-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v3-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19259/",
+  "fetched_at": "2026-06-09T19:31:56.162Z",
+  "reviewed_at": null
+}

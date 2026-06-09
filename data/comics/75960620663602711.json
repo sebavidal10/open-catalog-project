@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620663602711",
+  "title": "The Incredible Hulk #27",
+  "authors": [
+    "Adam Del Re",
+    "Cam Smith",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Erik Larsen",
+    "Jordan D. White",
+    "Kaeden McGahey",
+    "Kevin Walker",
+    "Matthew Wilson",
+    "Michael Walsh",
+    "Nic Klein",
+    "Phillip Kennedy Johnson",
+    "Simone Bianchi"
+  ],
+  "publish_date": "2025-07-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/07/19/2ea913b763004ef3b366b289cae98e39.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/150461/",
+  "fetched_at": "2026-06-09T20:08:19.358Z",
+  "reviewed_at": null
+}

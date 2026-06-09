@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605992800611",
+  "title": "Hulk #6",
+  "authors": [
+    "Alan Fine",
+    "Audrey Loeb",
+    "Chris Giarrusso",
+    "Comicraft",
+    "Dan Buckley",
+    "Dexter Vines",
+    "Ed McGuinness",
+    "Jason Keith",
+    "Jeph Loeb",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Nathan Cosby"
+  ],
+  "publish_date": "2008-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/12/hulk-v2-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19186/",
+  "fetched_at": "2026-06-09T19:08:06.040Z",
+  "reviewed_at": "2008-11-01"
+}

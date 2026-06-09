@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960606637760111",
+  "title": "Incredible Hulk #601",
+  "authors": [
+    "Alan Fine",
+    "Anthony Dial",
+    "Ariel Olivetti",
+    "Dan Buckley",
+    "Fred Van Lente",
+    "Greg Pak",
+    "Guru-eFX",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Mark Paniccia",
+    "Michael Ryan",
+    "Simon Bowland"
+  ],
+  "publish_date": "2009-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/01/incredible-hulk-601.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19925/",
+  "fetched_at": "2026-06-09T19:12:31.087Z",
+  "reviewed_at": "2009-10-01"
+}

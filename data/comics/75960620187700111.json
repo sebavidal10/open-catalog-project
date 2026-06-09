@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960620187700111",
+  "title": "Free Comic Book Day 2021: Avengers / Hulk #1",
+  "authors": [
+    "Alanna Smith",
+    "Brian Reber",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Donny Cates",
+    "Frank Martin",
+    "Iban Coello",
+    "Jason Aaron",
+    "Kat Gregorowicz",
+    "Martin Biro",
+    "Ryan Ottley",
+    "Tom Brevoort",
+    "Wil Moss"
+  ],
+  "publish_date": "2021-08-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/15/fcbd-2021-avengers-hulk-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/48011/",
+  "fetched_at": "2026-06-09T19:55:22.022Z",
+  "reviewed_at": null
+}

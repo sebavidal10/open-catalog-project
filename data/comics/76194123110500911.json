@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "76194123110500911",
+  "title": "Justice League Adventures #9",
+  "authors": [
+    "David López",
+    "Heroic Age",
+    "John Kalisz",
+    "Kurt Hathaway",
+    "Matt Howarth",
+    "Stephen Wacker"
+  ],
+  "publish_date": "2002-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/c4e1087052d044a9abf226fb289a2a46.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118202/",
+  "fetched_at": "2026-06-09T22:15:30.159Z",
+  "reviewed_at": "2002-09-01"
+}

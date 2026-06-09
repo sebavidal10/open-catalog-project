@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960605067300111",
+  "title": "The Sentry / Hulk #1",
+  "authors": [
+    "Bill Sienkiewicz",
+    "Comicraft",
+    "John G Roshell",
+    "José Villarrubia",
+    "Mike Marts",
+    "Paul Jenkins",
+    "Richard Starkings"
+  ],
+  "publish_date": "2000-12-31",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/10/11/image-0_N1bA32E.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/129130/",
+  "fetched_at": "2026-06-09T18:46:01.436Z",
+  "reviewed_at": null
+}

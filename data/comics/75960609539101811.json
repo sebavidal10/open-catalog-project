@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960609539101811",
+  "title": "Thor #18",
+  "authors": [
+    "Bob Q",
+    "C. B. Cebulski",
+    "Donny Cates",
+    "Joe Jusko",
+    "Joe Sabino",
+    "Kat Gregorowicz",
+    "Matthew Wilson",
+    "Nic Klein",
+    "Olivier Coipel",
+    "Pasqual Ferry",
+    "Wil Moss"
+  ],
+  "publish_date": "2021-10-20",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/10/14/thor-18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/39489/",
+  "fetched_at": "2026-06-09T20:33:31.852Z",
+  "reviewed_at": null
+}

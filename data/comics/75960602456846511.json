@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960602456846511",
+  "title": "The Incredible Hulk #465",
+  "authors": [
+    "Andrew Pepoy",
+    "Bobbie Chase",
+    "Bob Harras",
+    "David Brewer",
+    "Digital Chameleon",
+    "John Workman",
+    "Matthew Paine",
+    "Mike Wieringo",
+    "Peter David",
+    "Richard Case"
+  ],
+  "publish_date": "1998-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/12/incredible-hulk-v2-465.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19171/",
+  "fetched_at": "2026-06-09T18:39:49.919Z",
+  "reviewed_at": "1998-06-01"
+}

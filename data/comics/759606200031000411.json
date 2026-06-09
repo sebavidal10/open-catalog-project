@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "759606200031000411",
+  "title": "Hulk #4",
+  "authors": [
+    "Alanna Smith",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Cliff Rathburn",
+    "Cory Petit",
+    "Donny Cates",
+    "E. M. Gist",
+    "Frank Martin",
+    "Kaitlyn Lindtvedt",
+    "Nick Bradshaw",
+    "Rachelle Rosenberg",
+    "Romulo Fajardo Jr.",
+    "Ryan Ottley",
+    "Wil Moss"
+  ],
+  "publish_date": "2022-02-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/02/01/hulk-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43540/",
+  "fetched_at": "2026-06-09T19:56:51.506Z",
+  "reviewed_at": null
+}

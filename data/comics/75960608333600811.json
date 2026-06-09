@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608333600811",
+  "title": "Totally Awesome Hulk #8",
+  "authors": [
+    "Alan Davis",
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Sotomayor",
+    "Cory Petit",
+    "Dan Buckley",
+    "Darren Shan",
+    "Greg Pak",
+    "Joe Quesada",
+    "Joe Sabino",
+    "Mark Farmer",
+    "Mark Paniccia",
+    "Matt Hollingsworth"
+  ],
+  "publish_date": "2016-07-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/25/the-totally-awesome-hulk-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42467/",
+  "fetched_at": "2026-06-09T19:38:58.559Z",
+  "reviewed_at": null
+}

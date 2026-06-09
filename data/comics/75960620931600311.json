@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960620931600311",
+  "title": "Red Hulk #3",
+  "authors": [
+    "Ben Harvey",
+    "Benjamin Percy",
+    "Bryan Valenza",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Drew Baumgartner",
+    "Geoff Shaw",
+    "John Giang",
+    "Mark Paniccia",
+    "Marte Gracia",
+    "Mikey J. Basso"
+  ],
+  "publish_date": "2025-04-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/04/15/3599d334bfa14914b68aa30de3570452.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/143253/",
+  "fetched_at": "2026-06-09T20:07:31.178Z",
+  "reviewed_at": null
+}

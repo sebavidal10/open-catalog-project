@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608612200411",
+  "title": "Hulk #4",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Christina Harrington",
+    "Cory Petit",
+    "Dan Buckley",
+    "Emanuela Lupacchino",
+    "Jeff Dekal",
+    "Joe Quesada",
+    "Manny Mederos",
+    "Mariko Tamaki",
+    "Mark Paniccia",
+    "Matt Milla",
+    "Nico Leon"
+  ],
+  "publish_date": "2017-03-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v4-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19278/",
+  "fetched_at": "2026-06-09T19:41:04.651Z",
+  "reviewed_at": null
+}

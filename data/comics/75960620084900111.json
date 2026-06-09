@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960620084900111",
+  "title": "She-Hulk #1",
+  "authors": [
+    "Adam Hughes",
+    "Anthony Gambino",
+    "Brett Breeding",
+    "C. B. Cebulski",
+    "Dan Jurgens",
+    "Jen Bartel",
+    "Joe Caramagna",
+    "Lindsey Cohick",
+    "Nick Lowe",
+    "Rachelle Rosenberg",
+    "Rainbow Rowell",
+    "Rico Renzi",
+    "Rob Liefeld",
+    "Rogê Antônio",
+    "Skottie Young",
+    "Stanley Lau"
+  ],
+  "publish_date": "2022-01-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/03/she-hulk-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42710/",
+  "fetched_at": "2026-06-09T19:56:38.497Z",
+  "reviewed_at": null
+}

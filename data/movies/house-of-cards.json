@@ -1,0 +1,31 @@
+{
+  "title": "House of Cards",
+  "year": "1968",
+  "rated": "G",
+  "released": "14 Sep 1969",
+  "runtime": "105 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "John Guillermin",
+  "writer": "Irving Ravetch, Harriet Frank Jr., Stanley Ellin",
+  "actors": "George Peppard, Inger Stevens, Orson Welles",
+  "plot": "In 1960s Paris, an American boxer stumbles upon an international fascist conspiracy that aims to create a new world order.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTYyODgxMzEtMGNjMi00ZGM4LTgyNzgtMzY5MGEzMTFkYjljXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0064448",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:25:09.523Z"
+}

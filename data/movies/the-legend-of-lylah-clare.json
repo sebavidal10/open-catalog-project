@@ -1,0 +1,31 @@
+{
+  "title": "The Legend of Lylah Clare",
+  "year": "1968",
+  "rated": "R",
+  "released": "15 Nov 1968",
+  "runtime": "130 min",
+  "genre": "Drama",
+  "director": "Robert Aldrich",
+  "writer": "Robert Thom, Edward DeBlasio, Hugo Butler",
+  "actors": "Kim Novak, Peter Finch, Ernest Borgnine",
+  "plot": "A dictatorial film director (Peter Finch) hires an unknown actress (Kim Novak) to play the lead role in a planned movie biography of a late, great Hollywood star.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzZhNjI2MTAtZTdmOS00OWU2LTgzOTctNTJhMmYwMWE5OWExXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0063219",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:25:08.343Z"
+}

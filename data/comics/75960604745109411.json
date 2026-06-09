@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960604745109411",
+  "title": "Incredible Hulk #94",
+  "authors": [
+    "Alex Niño",
+    "Carlo Pagulayan",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Greg Pak",
+    "Jeffrey Huet",
+    "Joe Quesada",
+    "José Ladrönn",
+    "Laura Martin",
+    "Lovern Kindzierski",
+    "Mark Paniccia",
+    "Marshall Rogers",
+    "Michael Avon Oeming",
+    "Mike Allred",
+    "Nathan Cosby",
+    "Randy Gentile"
+  ],
+  "publish_date": "2006-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/20/incredible-hulk-v3-94.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19546/",
+  "fetched_at": "2026-06-09T18:59:13.281Z",
+  "reviewed_at": "2006-06-01"
+}

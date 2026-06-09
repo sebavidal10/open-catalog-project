@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "759606200031001011",
+  "title": "Hulk #10",
+  "authors": [
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Cliff Rathburn",
+    "Cory Petit",
+    "Donny Cates",
+    "E.J. Su",
+    "Marte Gracia",
+    "Matt Hollingsworth",
+    "Michelle Marchese",
+    "Ryan Ottley",
+    "Sonia Oback",
+    "Wil Moss"
+  ],
+  "publish_date": "2022-11-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/10/21/hulk-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/52846/",
+  "fetched_at": "2026-06-09T19:59:07.992Z",
+  "reviewed_at": null
+}

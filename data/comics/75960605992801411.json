@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605992801411",
+  "title": "Hulk #14",
+  "authors": [
+    "Alan Fine",
+    "Audrey Loeb",
+    "Carlos Silva",
+    "Dan Buckley",
+    "Ian Churchill",
+    "Jeph Loeb",
+    "Joe Quesada",
+    "Mark Farmer",
+    "Mark Paniccia",
+    "Nathan Cosby",
+    "Peter Steigerwald",
+    "Richard Starkings"
+  ],
+  "publish_date": "2009-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/13/hulk-v2-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19194/",
+  "fetched_at": "2026-06-09T19:12:26.997Z",
+  "reviewed_at": "2009-10-01"
+}

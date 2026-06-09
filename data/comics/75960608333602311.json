@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608333602311",
+  "title": "Totally Awesome Hulk #23",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Frank Cho",
+    "Greg Pak",
+    "Ibraim Roberson",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Nolan Woodard",
+    "Sonia Oback"
+  ],
+  "publish_date": "2017-09-20",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/25/the-totally-awesome-hulk-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42482/",
+  "fetched_at": "2026-06-09T19:43:15.316Z",
+  "reviewed_at": null
+}

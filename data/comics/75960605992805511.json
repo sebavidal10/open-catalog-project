@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605992805511",
+  "title": "Hulk #55",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Clayton Cowles",
+    "Dale Eaglesham",
+    "Dan Buckley",
+    "Jake Thomas",
+    "Jeff Parker",
+    "Joe Quesada",
+    "Jon Moisan",
+    "Mark Paniccia",
+    "Val Staples"
+  ],
+  "publish_date": "2012-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v2-55.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19246/",
+  "fetched_at": "2026-06-09T19:25:50.839Z",
+  "reviewed_at": "2012-09-01"
+}

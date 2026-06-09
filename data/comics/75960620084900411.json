@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960620084900411",
+  "title": "She-Hulk #4",
+  "authors": [
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Chrissie Zullo",
+    "Jen Bartel",
+    "Joe Caramagna",
+    "Lindsey Cohick",
+    "Luca Maresca",
+    "Nick Lowe",
+    "Rainbow Rowell",
+    "Rico Renzi",
+    "Russell Dauterman"
+  ],
+  "publish_date": "2022-06-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/06/22/shehulk-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/48789/",
+  "fetched_at": "2026-06-09T19:58:07.475Z",
+  "reviewed_at": null
+}

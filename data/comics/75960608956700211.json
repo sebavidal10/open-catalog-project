@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608956700211",
+  "title": "Immortal Hulk #2",
+  "authors": [
+    "Alan Fine",
+    "Alanna Smith",
+    "Al Ewing",
+    "Alex Ross",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dan Buckley",
+    "Gerardo Zaffino",
+    "Joe Bennett",
+    "Joe Quesada",
+    "Paul Mounts",
+    "Ruy José",
+    "Tom Brevoort",
+    "Travis Lanham"
+  ],
+  "publish_date": "2018-07-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/06/immortal-hulk-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/20287/",
+  "fetched_at": "2026-06-09T19:45:54.378Z",
+  "reviewed_at": null
+}

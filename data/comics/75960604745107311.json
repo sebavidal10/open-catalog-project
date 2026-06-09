@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604745107311",
+  "title": "Incredible Hulk #73",
+  "authors": [
+    "Axel Alonso",
+    "Bill Reinhold",
+    "Bruce Jones",
+    "Dan Buckley",
+    "Doug Braithwaite",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Mike Deodato",
+    "Rain Beredo",
+    "Randy Gentile"
+  ],
+  "publish_date": "2004-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/19/incredible-hulk-v3-73.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19525/",
+  "fetched_at": "2026-06-09T18:54:20.112Z",
+  "reviewed_at": "2004-08-01"
+}

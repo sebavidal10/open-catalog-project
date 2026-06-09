@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604745105311",
+  "title": "Incredible Hulk #53",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Bruce Jones",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Kaare Andrews",
+    "Mike Deodato",
+    "Studio F",
+    "Warren Simons"
+  ],
+  "publish_date": "2003-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/19/incredible-hulk-v3-53.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19505/",
+  "fetched_at": "2026-06-09T18:51:04.236Z",
+  "reviewed_at": "2003-07-01"
+}

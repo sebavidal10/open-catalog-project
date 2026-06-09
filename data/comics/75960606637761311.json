@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960606637761311",
+  "title": "Incredible Hulks #613",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Brian Ching",
+    "Carlo Pagulayan",
+    "Dan Buckley",
+    "Greg Pak",
+    "Irene Lee",
+    "Jason Keith",
+    "Joe Quesada",
+    "John Rauch",
+    "Jordan D. White",
+    "Jorge Fares Maese Ramirez",
+    "Mark Paniccia",
+    "Michael Jason Paz",
+    "Scott Hanna",
+    "Scott Reed",
+    "Simon Bowland",
+    "Tom Raney",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2010-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/15/incredible-hulks-v1-613.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19287/",
+  "fetched_at": "2026-06-09T19:17:12.149Z",
+  "reviewed_at": "2010-11-01"
+}

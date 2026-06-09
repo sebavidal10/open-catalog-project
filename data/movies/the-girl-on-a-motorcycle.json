@@ -1,0 +1,31 @@
+{
+  "title": "The Girl on a Motorcycle",
+  "year": "1968",
+  "rated": "R",
+  "released": "21 Jun 1968",
+  "runtime": "91 min",
+  "genre": "Drama, Romance",
+  "director": "Jack Cardiff",
+  "writer": "André Pieyre de Mandiargues, Ronald Duncan, Jack Cardiff",
+  "actors": "Marianne Faithfull, Alain Delon, Roger Mutton",
+  "plot": "A married woman leaves her husband and zooms off on her motorcycle to see her lover.",
+  "language": "English",
+  "country": "United Kingdom, France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDYyY2U4MTUtOTRjOS00YTllLWIzZDctZGY0ZjhmZmI5ODZlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "38%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.3",
+  "imdbID": "tt0063013",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:21:09.708Z"
+}

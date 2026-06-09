@@ -1,0 +1,37 @@
+{
+  "isbn": null,
+  "upc": "75960606637760811",
+  "title": "Incredible Hulk #608",
+  "authors": [
+    "Alan Fine",
+    "Crimelab Studios",
+    "Dan Buckley",
+    "Danny Miki",
+    "Dean White",
+    "Frank D'Armata",
+    "Greg Pak",
+    "Guru-eFX",
+    "Harrison Wilcox",
+    "Irene Lee",
+    "Joe Quesada",
+    "John Romita Jr.",
+    "Jordan D. White",
+    "Klaus Janson",
+    "Mark Paniccia",
+    "Paul Pelletier",
+    "Ryan Stegman",
+    "Simon Bowland",
+    "Tom Palmer",
+    "Veronica Gandini"
+  ],
+  "publish_date": "2010-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/01/incredible-hulk-608.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19932/",
+  "fetched_at": "2026-06-09T19:15:00.895Z",
+  "reviewed_at": "2010-05-01"
+}

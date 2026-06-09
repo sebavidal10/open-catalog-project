@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605992801611",
+  "title": "Hulk #16",
+  "authors": [
+    "Alan Fine",
+    "Audrey Loeb",
+    "Dan Buckley",
+    "Dario Brizuela",
+    "Ian Churchill",
+    "Jeph Loeb",
+    "Joe Quesada",
+    "Mark Farmer",
+    "Mark Paniccia",
+    "Nathan Cosby",
+    "Peter Steigerwald",
+    "Richard Starkings"
+  ],
+  "publish_date": "2009-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/13/hulk-v2-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19196/",
+  "fetched_at": "2026-06-09T19:13:04.153Z",
+  "reviewed_at": "2009-12-01"
+}

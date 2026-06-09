@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604745109111",
+  "title": "Incredible Hulk #91",
+  "authors": [
+    "Brandon Peterson",
+    "Dan Buckley",
+    "Daniel Way",
+    "Joe Quesada",
+    "Juan Santacruz",
+    "Mark Paniccia",
+    "Nathan Cosby",
+    "Randy Gentile",
+    "William Murai"
+  ],
+  "publish_date": "2006-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/20/incredible-hulk-v3-91.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19543/",
+  "fetched_at": "2026-06-09T18:58:27.778Z",
+  "reviewed_at": "2006-03-01"
+}

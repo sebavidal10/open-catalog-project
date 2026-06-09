@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960608333601911",
+  "title": "Totally Awesome Hulk #19",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Greg Pak",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Nolan Woodard",
+    "Robert Gill"
+  ],
+  "publish_date": "2017-05-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/25/the-totally-awesome-hulk-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42478/",
+  "fetched_at": "2026-06-09T19:41:55.268Z",
+  "reviewed_at": null
+}

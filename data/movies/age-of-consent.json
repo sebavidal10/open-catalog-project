@@ -1,0 +1,31 @@
+{
+  "title": "Age of Consent",
+  "year": "1969",
+  "rated": "R",
+  "released": "14 May 1969",
+  "runtime": "98 min",
+  "genre": "Biography, Comedy, Drama",
+  "director": "Michael Powell",
+  "writer": "Peter Yeldham, Norman Lindsay",
+  "actors": "James Mason, Helen Mirren, Jack MacGowran",
+  "plot": "A grizzled Australian painter decides to jolt his stale creativity by moving to a remote island on the Great Barrier Reef, where he takes on an alluring, uninhibited young woman as his muse.",
+  "language": "English",
+  "country": "United Kingdom, Australia",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmQwYThmYzItYmUxMS00ZTBhLWFlYTktYWZjNWNhZTQ1Y2ViXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0063991",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:32:14.622Z"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960609966500211",
+  "title": "Hulk: Grand Design #2",
+  "authors": [
+    "Alanna Smith",
+    "C. B. Cebulski",
+    "Ed McGuinness",
+    "Geof Darrow",
+    "Jim Rugg",
+    "Kaitlyn Lindtvedt",
+    "Wil Moss"
+  ],
+  "publish_date": "2022-04-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/04/27/hulk-gd-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47611/",
+  "fetched_at": "2026-06-09T19:57:30.626Z",
+  "reviewed_at": null
+}

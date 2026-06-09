@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960602428501911",
+  "title": "The Incredible Hulk Annual #19",
+  "authors": [
+    "Bill Oakley",
+    "Bobbie Chase",
+    "Brad Vancata",
+    "Dan Lawlis",
+    "Janice Chiang",
+    "Joe Rosen",
+    "John Kalisz",
+    "Kirk Jarvinen",
+    "Marie Javins",
+    "Paul Pelletier",
+    "Peter David",
+    "Ron Fortier",
+    "Sarra Mossoff",
+    "Tom DeFalco",
+    "Tom Mandrake"
+  ],
+  "publish_date": "1993-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/10/22/91c0fe64018446b186142a60c3edca0b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/129689/",
+  "fetched_at": "2026-06-09T18:28:28.665Z",
+  "reviewed_at": "1993-08-01"
+}

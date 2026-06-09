@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607292700611",
+  "title": "The Incredible Hulk #6",
+  "authors": [
+    "Alan Fine",
+    "Allen Martinez",
+    "Arif Prianto",
+    "Axel Alonso",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Jake Thomas",
+    "Jason Aaron",
+    "Joe Quesada",
+    "Leinil Francis Yu",
+    "Mark Paniccia",
+    "Val Staples",
+    "Whilce Portacio"
+  ],
+  "publish_date": "2012-03-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/16/incredible-hulk-v4-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19393/",
+  "fetched_at": "2026-06-09T19:24:27.668Z",
+  "reviewed_at": null
+}

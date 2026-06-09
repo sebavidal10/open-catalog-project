@@ -1,0 +1,27 @@
+{
+  "title": "Hello Down There",
+  "year": "1969",
+  "rated": "G",
+  "released": "12 Mar 1971",
+  "runtime": "88 min",
+  "genre": "Comedy, Sci-Fi",
+  "director": "Jack Arnold, Ricou Browning",
+  "writer": "Art Arthur, John McGreevey, Frank Telford",
+  "actors": "Tony Randall, Janet Leigh, Roddy McDowall",
+  "plot": "A marine scientist volunteers to have his family live in a prototype underwater home to prove it's practical.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTcyMTI1NzEtOGRjYi00NDIwLThjNjUtZjUxZTBjMjE5MDVkXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0064417",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:33:20.598Z"
+}

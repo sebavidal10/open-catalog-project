@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604494800111",
+  "title": "Rampaging Hulk #1",
+  "authors": [
+    "Bill Oakley",
+    "Bob Harras",
+    "Dan Green",
+    "Denys Cowan",
+    "Glenn Greenberg",
+    "Jaye Gardner",
+    "Rick Leonardi",
+    "Tom Palmer",
+    "Tom Smith"
+  ],
+  "publish_date": "1998-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/01/6c7519811826446f8faa5123d061c0de.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/120620/",
+  "fetched_at": "2026-06-09T18:40:30.783Z",
+  "reviewed_at": "1998-08-01"
+}

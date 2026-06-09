@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "0714860244311",
+  "title": "Hulk #12",
+  "authors": [
+    "Doug Moench",
+    "Ernie Chan",
+    "Françoise Mouly",
+    "Frank Giacoia",
+    "Irving Watanabe",
+    "Janice Cohen",
+    "Jim Shooter",
+    "Joe Jusko",
+    "John Costanza",
+    "Keith Pollard",
+    "Len Grow",
+    "Mike Esposito",
+    "Ralph Macchio",
+    "Richard E. Marschall",
+    "Roger Stern",
+    "Ron Wilson",
+    "Roy Thomas"
+  ],
+  "publish_date": "1978-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/09/5950da84abfa486aa98fe34b904dca2d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/113814/",
+  "fetched_at": "2026-06-09T18:00:36.073Z",
+  "reviewed_at": "1978-12-01"
+}

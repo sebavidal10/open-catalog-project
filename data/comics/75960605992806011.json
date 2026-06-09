@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605992806011",
+  "title": "Red She-Hulk #60",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Carlo Pagulayan",
+    "Chris Stevens",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Java Tartaglia",
+    "Jeff Parker",
+    "Joe Quesada",
+    "Jon Moisan",
+    "Mark Paniccia",
+    "Val Staples",
+    "Wellinton Alves"
+  ],
+  "publish_date": "2012-12-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/red-she-hulk-v1-60.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19251/",
+  "fetched_at": "2026-06-09T19:27:34.878Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,38 @@
+{
+  "isbn": null,
+  "upc": "75960620931600111",
+  "title": "Red Hulk #1",
+  "authors": [
+    "Adam Kubert",
+    "Alex Sinclair",
+    "Benjamin Percy",
+    "Bryan Valenza",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Drew Baumgartner",
+    "Frank Miller",
+    "Geoff Shaw",
+    "InHyuk Lee",
+    "Jacob Edgar",
+    "John Romita Jr.",
+    "Laura Martin",
+    "Marcio Menyz",
+    "Mark Paniccia",
+    "Marte Gracia",
+    "Mikey J. Basso",
+    "Rachelle Rosenberg",
+    "Scott Hanna",
+    "Todd Nauck"
+  ],
+  "publish_date": "2025-02-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/02/17/45f00a399cee46d8bf56203495975e18.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/135952/",
+  "fetched_at": "2026-06-09T20:06:53.552Z",
+  "reviewed_at": null
+}

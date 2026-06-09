@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608333601211",
+  "title": "Totally Awesome Hulk #12",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Greg Pak",
+    "Joe Quesada",
+    "Mahmud A. Asrar",
+    "Mark Paniccia",
+    "Nolan Woodard",
+    "Rachel Dodson",
+    "Terry Dodson"
+  ],
+  "publish_date": "2016-11-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/25/the-totally-awesome-hulk-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42471/",
+  "fetched_at": "2026-06-09T19:39:47.213Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604745108511",
+  "title": "Incredible Hulk #85",
+  "authors": [
+    "Andy Brase",
+    "Carlos Lopez",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Jorge Lucas",
+    "MacKenzie Cadenhead",
+    "Mark Paniccia",
+    "Nathan Cosby",
+    "Peter David",
+    "Randy Gentile"
+  ],
+  "publish_date": "2005-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/20/incredible-hulk-v3-85.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19537/",
+  "fetched_at": "2026-06-09T18:57:16.444Z",
+  "reviewed_at": "2005-10-01"
+}

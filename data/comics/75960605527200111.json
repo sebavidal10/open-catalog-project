@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605527200111",
+  "title": "She-Hulk #1",
+  "authors": [
+    "Adi Granov",
+    "Andy Schmidt",
+    "Chris Chuckry",
+    "Dan Buckley",
+    "Dan Slott",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Juan Bobillo",
+    "Marcelo Sosa",
+    "Nicole Wiley Boose",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2004-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/15/she-hulk-v1-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19310/",
+  "fetched_at": "2026-06-09T18:53:33.421Z",
+  "reviewed_at": "2004-05-01"
+}

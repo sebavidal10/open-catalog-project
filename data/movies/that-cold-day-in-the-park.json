@@ -1,0 +1,31 @@
+{
+  "title": "That Cold Day in the Park",
+  "year": "1969",
+  "rated": "R",
+  "released": "08 Jun 1969",
+  "runtime": "113 min",
+  "genre": "Drama, Thriller",
+  "director": "Robert Altman",
+  "writer": "Gillian Freeman, Peter Miles",
+  "actors": "Sandy Dennis, Michael Burns, Susanne Benton",
+  "plot": "One day, Frances Austen, a rich but lonely woman, invites a young man from a nearby park to her apartment and offers to let him stay there--and has no intention of ever letting him leave.",
+  "language": "English",
+  "country": "United States, Canada",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzk0ZTVjZGYtMDZjNi00ZjkwLWE1NjktMWU2MTdkMGFjMThlXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0065086",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:33:15.890Z"
+}

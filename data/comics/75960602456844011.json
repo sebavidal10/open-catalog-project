@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960602456844011",
+  "title": "The Incredible Hulk #440",
+  "authors": [
+    "Angel Medina",
+    "Bobbie Chase",
+    "Bob Harras",
+    "Comicraft",
+    "Glynis Oliver",
+    "Peter David",
+    "Richard Starkings",
+    "Robin Riggs"
+  ],
+  "publish_date": "1996-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/11/incredible-hulk-v2-440.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19142/",
+  "fetched_at": "2026-06-09T18:35:19.235Z",
+  "reviewed_at": "1996-04-01"
+}

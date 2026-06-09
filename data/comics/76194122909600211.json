@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194122909600211",
+  "title": "Joker: Last Laugh #2",
+  "authors": [
+    "Álvaro López",
+    "Chuck Dixon",
+    "Klaus Janson",
+    "Marcos Martín",
+    "Mark Farmer",
+    "Matt Idelson",
+    "Nachie Castro",
+    "Scott Beatty",
+    "Scott McDaniel",
+    "Tom McCraw",
+    "Willie Schubert"
+  ],
+  "publish_date": "2001-12-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/29/9349395c58f94e079303098ba96bf2a9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152656/",
+  "fetched_at": "2026-06-09T20:12:39.778Z",
+  "reviewed_at": "2001-12-01"
+}

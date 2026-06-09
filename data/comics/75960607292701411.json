@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960607292701411",
+  "title": "The Incredible Hulk #14",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Frank Martin",
+    "Greg Land",
+    "Jason Aaron",
+    "Jefte Palo",
+    "Joe Quesada",
+    "Jon Moisan",
+    "Mark Paniccia"
+  ],
+  "publish_date": "2012-09-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/16/incredible-hulk-v4-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19401/",
+  "fetched_at": "2026-06-09T19:26:40.024Z",
+  "reviewed_at": null
+}

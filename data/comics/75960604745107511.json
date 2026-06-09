@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604745107511",
+  "title": "Incredible Hulk #75",
+  "authors": [
+    "Axel Alonso",
+    "Bruce Jones",
+    "Dan Buckley",
+    "Darick Robertson",
+    "Gary Frank",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Randy Gentile",
+    "Raúl Treviño",
+    "Tom Palmer"
+  ],
+  "publish_date": "2004-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/19/incredible-hulk-v3-75.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19527/",
+  "fetched_at": "2026-06-09T18:54:51.127Z",
+  "reviewed_at": "2004-10-01"
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608612200711",
+  "title": "Hulk #7",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Christina Harrington",
+    "Cory Petit",
+    "Dan Buckley",
+    "Georges Duarte",
+    "Joe Quesada",
+    "John Tyler Christopher",
+    "Mariko Tamaki",
+    "Mark Paniccia",
+    "Matt Milla",
+    "Rahzzah"
+  ],
+  "publish_date": "2017-06-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v4-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19281/",
+  "fetched_at": "2026-06-09T19:42:10.944Z",
+  "reviewed_at": null
+}

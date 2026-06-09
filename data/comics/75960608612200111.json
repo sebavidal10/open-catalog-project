@@ -1,0 +1,40 @@
+{
+  "isbn": null,
+  "upc": "75960608612200111",
+  "title": "Hulk #1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Sotomayor",
+    "Christina Harrington",
+    "Cory Petit",
+    "Dale Keown",
+    "Dan Buckley",
+    "Jason Keith",
+    "Jeff Dekal",
+    "Joe Quesada",
+    "John Tyler Christopher",
+    "June Brigman",
+    "Katie Kubert",
+    "Manny Mederos",
+    "Mariko Tamaki",
+    "Mark Paniccia",
+    "Matt Milla",
+    "Mike Vosburg",
+    "Nico Leon",
+    "Pascal Campion",
+    "Pia Guerra",
+    "Rahzzah",
+    "Skottie Young"
+  ],
+  "publish_date": "2016-12-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v4-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19275/",
+  "fetched_at": "2026-06-09T19:39:59.191Z",
+  "reviewed_at": null
+}

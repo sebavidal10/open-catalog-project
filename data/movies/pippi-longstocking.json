@@ -1,0 +1,31 @@
+{
+  "title": "Pippi Longstocking",
+  "year": "1969",
+  "rated": "G",
+  "released": "09 May 1969",
+  "runtime": "99 min",
+  "genre": "Adventure, Comedy, Drama",
+  "director": "Olle Hellbom",
+  "writer": "Astrid Lindgren",
+  "actors": "Inger Nilsson, Maria Persson, Pär Sundberg",
+  "plot": "Pippi Longstocking, a super-strong redheaded little girl, moves into her father's house Villa Villekulla, and has adventures with her next-door neighbors Tommy and Annika in this compilation film of the classic European TV series.",
+  "language": "Swedish, German",
+  "country": "Sweden, West Germany",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTI3YmRlMTItNDg1YS00ODcxLWI1MTgtYmYwOTAxZjc5ZjIzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0366905",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:32:52.255Z"
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960606637763411",
+  "title": "Incredible Hulks #634",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Danny Miki",
+    "Greg Pak",
+    "Irene Lee",
+    "Jake Thomas",
+    "Jesus Aburtov",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Morry Hollowell",
+    "Paul Pelletier",
+    "Simon Bowland"
+  ],
+  "publish_date": "2011-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/15/incredible-hulks-v1-634.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19308/",
+  "fetched_at": "2026-06-09T19:21:56.516Z",
+  "reviewed_at": "2011-10-01"
+}

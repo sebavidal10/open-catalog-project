@@ -1,0 +1,31 @@
+{
+  "title": "Last Summer",
+  "year": "1969",
+  "rated": "R",
+  "released": "06 Nov 1969",
+  "runtime": "95 min",
+  "genre": "Drama",
+  "director": "Frank Perry",
+  "writer": "Evan Hunter, Eleanor Perry",
+  "actors": "Barbara Hershey, Richard Thomas, Bruce Davison",
+  "plot": "During summer vacation on Fire Island, three young people become very close. When an uncool girl tries to infiltrate the trio's newly found relationship, they construct an elaborate plot that has violent results.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 4 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzI0ZWMwOGQtMmE3MC00NjQ0LTk0ODEtMzhjNDM3NjJjM2NhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0064573",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:32:58.163Z"
+}

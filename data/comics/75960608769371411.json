@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608769371411",
+  "title": "Incredible Hulk #714",
+  "authors": [
+    "Alan Fine",
+    "Alanna Smith",
+    "Carlo Barberi",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dan Buckley",
+    "Frank D'Armata",
+    "Geoff Shaw",
+    "Greg Pak",
+    "Joe Quesada",
+    "Mike Deodato",
+    "Morry Hollowell",
+    "Ryan Stegman",
+    "Tom Brevoort",
+    "Walden Wong"
+  ],
+  "publish_date": "2018-03-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/01/incredible-hulk-v6-714.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19941/",
+  "fetched_at": "2026-06-09T19:44:52.805Z",
+  "reviewed_at": null
+}

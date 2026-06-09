@@ -1,0 +1,35 @@
+{
+  "title": "Downhill Racer",
+  "year": "1969",
+  "rated": "M",
+  "released": "29 Oct 1969",
+  "runtime": "101 min",
+  "genre": "Drama, Sport",
+  "director": "Michael Ritchie",
+  "writer": "James Salter, Oakley Hall",
+  "actors": "Robert Redford, Gene Hackman, Camilla Sparv",
+  "plot": "Quietly cocky David Chappellet joins the U.S. ski team as downhill racer and clashes with the team's coach, Eugene Claire.",
+  "language": "English, German, French",
+  "country": "United States",
+  "awards": "Won 1 BAFTA Award1 win & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjhhOWQ5NDYtM2I2Ni00NWNjLWExOWYtM2MzMmNlOGVhMTAyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "6.3",
+  "imdbID": "tt0064253",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:32:44.025Z"
+}

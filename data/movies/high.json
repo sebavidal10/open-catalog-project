@@ -1,0 +1,27 @@
+{
+  "title": "High",
+  "year": "1968",
+  "rated": "R",
+  "released": "13 Oct 1969",
+  "runtime": "80 min",
+  "genre": "Drama",
+  "director": "Larry Kent",
+  "writer": "Larry Kent",
+  "actors": "Lanny Beckman, Astri Thorvik, Peter Mathews",
+  "plot": "A young drug-addict couple sell their bodies for sexual purpose",
+  "language": "English",
+  "country": "Canada",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc4NjA0MTE3Ml5BMl5BanBnXkFtZTYwNDcxOTEz._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0176813",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:30:17.777Z"
+}

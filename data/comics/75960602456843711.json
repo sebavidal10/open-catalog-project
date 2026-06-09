@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960602456843711",
+  "title": "The Incredible Hulk #437",
+  "authors": [
+    "Al Milgrom",
+    "Angel Medina",
+    "Bobbie Chase",
+    "Comicraft",
+    "Gary Frank",
+    "Glynis Oliver",
+    "Peter David",
+    "Richard Starkings",
+    "Robin Riggs",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1996-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/11/incredible-hulk-v2-437.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19139/",
+  "fetched_at": "2026-06-09T18:34:46.055Z",
+  "reviewed_at": "1996-01-01"
+}

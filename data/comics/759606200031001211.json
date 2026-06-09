@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "759606200031001211",
+  "title": "Hulk #12",
+  "authors": [
+    "Anthony Gambino",
+    "Brian Reber",
+    "C. B. Cebulski",
+    "Cliff Rathburn",
+    "Cory Petit",
+    "Dan Jurgens",
+    "Donny Cates",
+    "Edgar Delgado",
+    "Marte Gracia",
+    "Michelle Marchese",
+    "Ryan Ottley",
+    "Salvador Larroca",
+    "Scott Hanna",
+    "Travel Foreman",
+    "Wil Moss"
+  ],
+  "publish_date": "2023-02-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/05/hulk-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/54996/",
+  "fetched_at": "2026-06-09T20:00:08.244Z",
+  "reviewed_at": null
+}

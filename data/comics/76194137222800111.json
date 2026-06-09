@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "76194137222800111",
+  "title": "The Joker #1",
+  "authors": [
+    "Ariana Maher",
+    "Arif Prianto",
+    "Ben Abernathy",
+    "Dave Wielgosz",
+    "Francesco Mattina",
+    "Frank Quitely",
+    "Guillem March",
+    "James Tynion IV",
+    "Jim Lee",
+    "Marie Javins",
+    "Mirka Andolfo",
+    "Riccardo Federici",
+    "Romulo Fajardo Jr.",
+    "Sam Johns",
+    "Tomeu Morey",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2021-03-09",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/03/04/joker-v2-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/26572/",
+  "fetched_at": "2026-06-09T20:23:25.686Z",
+  "reviewed_at": null
+}

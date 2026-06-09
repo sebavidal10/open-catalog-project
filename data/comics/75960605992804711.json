@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960605992804711",
+  "title": "Hulk #47",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Carlo Pagulayan",
+    "Dan Buckley",
+    "Dan Remollino",
+    "Ed Dukeshire",
+    "Elena Casagrande",
+    "Jake Thomas",
+    "Jeff Parker",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Marte Gracia",
+    "Michael Jason Paz",
+    "Rachelle Rosenberg"
+  ],
+  "publish_date": "2012-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v2-47.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19238/",
+  "fetched_at": "2026-06-09T19:23:49.431Z",
+  "reviewed_at": "2012-03-01"
+}

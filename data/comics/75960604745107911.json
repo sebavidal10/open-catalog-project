@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960604745107911",
+  "title": "Incredible Hulk #79",
+  "authors": [
+    "Andy Schmidt",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Lee Weeks",
+    "Nicole Wiley Boose",
+    "Peter David",
+    "Randy Gentile",
+    "Stephanie Moore",
+    "Studio F",
+    "Tom Brevoort",
+    "Tom Palmer"
+  ],
+  "publish_date": "2005-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/19/incredible-hulk-v3-79.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19531/",
+  "fetched_at": "2026-06-09T18:56:26.808Z",
+  "reviewed_at": "2005-05-01"
+}

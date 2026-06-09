@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960602288500711",
+  "title": "Hulk 2099 #7",
+  "authors": [
+    "Barry Grossman",
+    "Bobbie Chase",
+    "Christopher Ivy",
+    "Gerard Jones",
+    "Jack Morelli",
+    "Joe Bennett",
+    "Joey Cavalieri",
+    "Larry Stroman",
+    "Lia Pelosi"
+  ],
+  "publish_date": "1995-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/11/6a7a360fcab546a8a8457ac7d7b18a06.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/113938/",
+  "fetched_at": "2026-06-09T18:33:23.735Z",
+  "reviewed_at": "1995-06-01"
+}

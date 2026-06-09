@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608612200511",
+  "title": "Hulk #5",
+  "authors": [
+    "Alan Fine",
+    "Andrew Crossley",
+    "Axel Alonso",
+    "Christina Harrington",
+    "Cory Petit",
+    "Dan Buckley",
+    "Jeff Dekal",
+    "Joe Quesada",
+    "Manny Mederos",
+    "Mariko Tamaki",
+    "Mark Paniccia",
+    "Matt Milla",
+    "Nico Leon",
+    "Paulo Siqueira"
+  ],
+  "publish_date": "2017-04-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v4-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19279/",
+  "fetched_at": "2026-06-09T19:41:27.136Z",
+  "reviewed_at": null
+}

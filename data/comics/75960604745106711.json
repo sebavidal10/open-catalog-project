@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604745106711",
+  "title": "Incredible Hulk #67",
+  "authors": [
+    "Axel Alonso",
+    "Bill Reinhold",
+    "Bruce Jones",
+    "Dan Buckley",
+    "Doug Braithwaite",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Mike Deodato",
+    "Randy Gentile",
+    "Studio F"
+  ],
+  "publish_date": "2004-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/19/incredible-hulk-v3-67.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19519/",
+  "fetched_at": "2026-06-09T18:53:21.127Z",
+  "reviewed_at": "2004-05-01"
+}

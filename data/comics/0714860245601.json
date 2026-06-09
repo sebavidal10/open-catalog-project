@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "0714860245601",
+  "title": "The Incredible Hulk #207",
+  "authors": [
+    "Dave Cockrum",
+    "Glynis Oliver",
+    "Irving Watanabe",
+    "Joe Staton",
+    "Len Wein",
+    "Sal Buscema"
+  ],
+  "publish_date": "1977-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/05/incredible-hulk-v2-207.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18893/",
+  "fetched_at": "2026-06-09T17:56:38.504Z",
+  "reviewed_at": "1977-01-01"
+}

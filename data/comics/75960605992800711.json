@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605992800711",
+  "title": "Hulk #7",
+  "authors": [
+    "Alan Fine",
+    "Arthur Adams",
+    "Comicraft",
+    "Dan Buckley",
+    "Frank Cho",
+    "Jason Keith",
+    "Jeph Loeb",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Nathan Cosby",
+    "Peter Steigerwald",
+    "Walden Wong"
+  ],
+  "publish_date": "2008-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/12/hulk-v2-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19187/",
+  "fetched_at": "2026-06-09T19:08:23.652Z",
+  "reviewed_at": "2008-12-01"
+}

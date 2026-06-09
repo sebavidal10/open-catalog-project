@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960604745104711",
+  "title": "Incredible Hulk #47",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Bruce Jones",
+    "Comicraft",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Kaare Andrews",
+    "Scott Koblish",
+    "Stuart Immonen",
+    "Studio F",
+    "Warren Simons"
+  ],
+  "publish_date": "2003-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/18/incredible-hulk-v3-47.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19499/",
+  "fetched_at": "2026-06-09T18:49:54.649Z",
+  "reviewed_at": "2003-01-01"
+}

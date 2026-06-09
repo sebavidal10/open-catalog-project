@@ -1,0 +1,35 @@
+{
+  "title": "Easy Rider",
+  "year": "1969",
+  "rated": "R",
+  "released": "26 Jun 1969",
+  "runtime": "95 min",
+  "genre": "Adventure, Drama",
+  "director": "Dennis Hopper",
+  "writer": "Peter Fonda, Dennis Hopper, Terry Southern",
+  "actors": "Peter Fonda, Dennis Hopper, Jack Nicholson",
+  "plot": "Two bikers head from L.A. to New Orleans through the open country and desert lands, and along the way they meet a man who bridges a counter-culture gap of which they had been unaware.",
+  "language": "English, Spanish, Greek, Ancient (to 1453)",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 11 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc2MjI2NDc4Ml5BMl5BanBnXkFtZTgwODI4NzU0MTI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "7.2",
+  "imdbID": "tt0064276",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:32:02.859Z"
+}

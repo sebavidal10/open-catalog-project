@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960602456845911",
+  "title": "The Incredible Hulk #459",
+  "authors": [
+    "Adam Kubert",
+    "Bobbie Chase",
+    "Bob Harras",
+    "Bud LaRosa",
+    "Digital Chameleon",
+    "John Workman",
+    "Mark Farmer",
+    "Peter David"
+  ],
+  "publish_date": "1997-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/12/incredible-hulk-v2-459.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19165/",
+  "fetched_at": "2026-06-09T18:38:47.819Z",
+  "reviewed_at": "1997-12-01"
+}

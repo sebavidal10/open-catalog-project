@@ -1,0 +1,35 @@
+{
+  "title": "The Undefeated",
+  "year": "1969",
+  "rated": "G",
+  "released": "27 Nov 1969",
+  "runtime": "119 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Andrew V. McLaglen",
+  "writer": "James Lee Barrett, Stan Hough, Lewis B. Patten",
+  "actors": "John Wayne, Rock Hudson, Antonio Aguilar",
+  "plot": "After the Civil War, ex-Confederate soldiers heading for a new life in Mexico run into ex-Union cavalrymen selling horses to the Mexican government but they must join forces to fight off Mexican bandits and revolutionaries.",
+  "language": "English, Spanish, French",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzAwMWZlYmYtNThmMy00YTkyLWExMDMtMGQzMDA5NTNkMzBkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "44%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "48/100"
+    }
+  ],
+  "metascore": "48",
+  "imdbRating": "6.6",
+  "imdbID": "tt0065150",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:32:47.544Z"
+}

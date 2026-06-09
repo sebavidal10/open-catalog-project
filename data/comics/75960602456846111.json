@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960602456846111",
+  "title": "The Incredible Hulk #461",
+  "authors": [
+    "Adam Kubert",
+    "Andrew Pepoy",
+    "Bobbie Chase",
+    "Bob Harras",
+    "David Brewer",
+    "Digital Chameleon",
+    "Igor Kordey",
+    "John Workman",
+    "Peter David"
+  ],
+  "publish_date": "1998-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/12/incredible-hulk-v2-461.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19167/",
+  "fetched_at": "2026-06-09T18:39:10.587Z",
+  "reviewed_at": "1998-02-01"
+}

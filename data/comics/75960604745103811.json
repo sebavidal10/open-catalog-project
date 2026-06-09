@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960604745103811",
+  "title": "Incredible Hulk #38",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Bruce Jones",
+    "Joe Quesada",
+    "John Miesegaes",
+    "John Romita Jr.",
+    "Kaare Andrews",
+    "Richard Starkings",
+    "Studio F",
+    "Tom Palmer",
+    "Wes Abbott"
+  ],
+  "publish_date": "2002-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/18/incredible-hulk-v3-38.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19490/",
+  "fetched_at": "2026-06-09T18:48:23.302Z",
+  "reviewed_at": "2002-05-01"
+}

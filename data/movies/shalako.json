@@ -1,0 +1,35 @@
+{
+  "title": "Shalako",
+  "year": "1968",
+  "rated": "M/PG",
+  "released": "13 Dec 1968",
+  "runtime": "113 min",
+  "genre": "Drama, Western",
+  "director": "Edward Dmytryk",
+  "writer": "Louis L'Amour, James Griffith, Hal Hopper",
+  "actors": "Sean Connery, Brigitte Bardot, Stephen Boyd",
+  "plot": "In 1880 New Mexico, a group of European hunters runs afoul of the Apache but is aided by an ex-cavalryman turned guide.",
+  "language": "English, Spanish, German",
+  "country": "United Kingdom, West Germany, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjg5OWJlYmMtM2UxMy00MDI3LThmMWItNGE5OGZlMGY3NTIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "5.6",
+  "imdbID": "tt0063592",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:22:20.423Z"
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605992804511",
+  "title": "Hulk #45",
+  "authors": [
+    "Alan Fine",
+    "Andy Troy",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Ed Dukeshire",
+    "Irene Lee",
+    "Jake Thomas",
+    "Jeff Parker",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Patrick Zircher",
+    "Rachelle Rosenberg"
+  ],
+  "publish_date": "2012-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v2-45.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19236/",
+  "fetched_at": "2026-06-09T19:23:27.492Z",
+  "reviewed_at": "2012-02-01"
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960621284200311",
+  "title": "Thor #3",
+  "authors": [
+    "Al Ewing",
+    "Alex Ross",
+    "C. B. Cebulski",
+    "Danny Khazem",
+    "Dan Panosian",
+    "Federico Blee",
+    "Joe Sabino",
+    "Juan Ferreyra",
+    "Juan Frigeri",
+    "Matt Hollingsworth",
+    "Pasqual Ferry",
+    "Phil Noto",
+    "Wil Moss"
+  ],
+  "publish_date": "2025-10-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/10/16/34bc147bbe644f308cf3bc1b7cf9b561.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/156277/",
+  "fetched_at": "2026-06-09T20:45:13.857Z",
+  "reviewed_at": null
+}

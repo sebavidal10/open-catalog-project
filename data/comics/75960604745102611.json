@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604745102611",
+  "title": "Incredible Hulk #26",
+  "authors": [
+    "Arsia Rozegar",
+    "Bill Jemas",
+    "Eric Powell",
+    "Joe Quesada",
+    "John Workman",
+    "Kyle Hotz",
+    "Marc Sumerak",
+    "Paul Jenkins",
+    "Sean McKeever",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2001-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/17/incredible-hulk-v3-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19419/",
+  "fetched_at": "2026-06-09T18:46:31.597Z",
+  "reviewed_at": "2001-05-01"
+}

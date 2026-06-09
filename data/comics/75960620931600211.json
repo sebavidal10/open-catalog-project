@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960620931600211",
+  "title": "Red Hulk #2",
+  "authors": [
+    "Benjamin Percy",
+    "Bryan Valenza",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Drew Baumgartner",
+    "Geoff Shaw",
+    "Greg Land",
+    "Marcelo Maiolo",
+    "Mark Paniccia",
+    "Marte Gracia",
+    "Mikey J. Basso",
+    "Nick Bradshaw",
+    "Rachelle Rosenberg",
+    "Skan Srisuwan",
+    "Tony Daniel"
+  ],
+  "publish_date": "2025-03-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/16/c768cf4253ad4a5baf11d2626c83fb6c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/138718/",
+  "fetched_at": "2026-06-09T20:07:11.745Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194124087900111",
+  "title": "Justice League Elite #1",
+  "authors": [
+    "David Baron",
+    "Doug Mahnke",
+    "Joe Kelly",
+    "Mike Carlin",
+    "Pat Brosseau",
+    "Tom Nguyen",
+    "Valerie D'Orazio"
+  ],
+  "publish_date": "2004-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/02/26/justice-league-elite-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/26138/",
+  "fetched_at": "2026-06-09T22:20:12.982Z",
+  "reviewed_at": "2004-09-01"
+}

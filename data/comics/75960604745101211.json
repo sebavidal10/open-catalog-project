@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604745101211",
+  "title": "Incredible Hulk #12",
+  "authors": [
+    "Bill Jemas",
+    "Bob Harras",
+    "John Workman",
+    "Mark McKenna",
+    "Mike McKone",
+    "Paul Jenkins",
+    "Ron Garney",
+    "Sal Buscema",
+    "Steve Buccellato",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2000-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/17/incredible-hulk-v3-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19405/",
+  "fetched_at": "2026-06-09T18:44:04.193Z",
+  "reviewed_at": "2000-03-01"
+}

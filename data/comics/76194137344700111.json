@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194137344700111",
+  "title": "The Joker Presents: A Puzzlebox #1",
+  "authors": [
+    "Chip Zdarsky",
+    "Chris Mooneyham",
+    "Jesús Merino",
+    "Joshua Hixson",
+    "Matthew Rosenberg",
+    "Riccardo Federici",
+    "Ulises Arreola"
+  ],
+  "publish_date": "2021-08-03",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/03/03/dd9a9a4060144f41a7260cbfd0a53822.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/163228/",
+  "fetched_at": "2026-06-09T20:24:48.199Z",
+  "reviewed_at": null
+}

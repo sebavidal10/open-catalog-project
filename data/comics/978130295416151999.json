@@ -1,0 +1,37 @@
+{
+  "isbn": "9781302954161",
+  "upc": "978130295416151999",
+  "title": "Incredible Hulk #1",
+  "authors": [
+    "Adam Del Re",
+    "Brad Anderson",
+    "Caio Majado",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Daniel Kirchhoffer",
+    "David Pepose",
+    "Edgar Delgado",
+    "Gary Frank",
+    "Jay Bowen",
+    "Jennifer Grünwald",
+    "Matthew Wilson",
+    "Megan O'Leary",
+    "Michelle Marchese",
+    "Nic Klein",
+    "Phillip Kennedy Johnson",
+    "Rachel Young",
+    "Travel Foreman",
+    "Travis Lanham",
+    "Wil Moss"
+  ],
+  "publish_date": "2024-01-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/02/09/cover.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/162431/",
+  "fetched_at": "2026-06-09T20:02:45.589Z",
+  "reviewed_at": "2024-01-01"
+}

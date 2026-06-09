@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960604745106411",
+  "title": "Incredible Hulk #64",
+  "authors": [
+    "Axel Alonso",
+    "Bruce Jones",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Mike Deodato",
+    "Studio F"
+  ],
+  "publish_date": "2004-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/19/incredible-hulk-v3-64.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19516/",
+  "fetched_at": "2026-06-09T18:52:48.499Z",
+  "reviewed_at": "2004-02-01"
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960604745104211",
+  "title": "Incredible Hulk #42",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Bruce Jones",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Kaare Andrews",
+    "Lee Weeks",
+    "Richard Starkings",
+    "Studio F",
+    "Tom Palmer",
+    "Wes Abbott"
+  ],
+  "publish_date": "2002-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/18/incredible-hulk-v3-42.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19494/",
+  "fetched_at": "2026-06-09T18:48:59.566Z",
+  "reviewed_at": "2002-08-01"
+}

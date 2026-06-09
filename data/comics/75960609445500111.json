@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960609445500111",
+  "title": "Incredible Hulk: Last Call #1",
+  "authors": [
+    "Adam Kubert",
+    "Alan Fine",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dale Keown",
+    "Dan Buckley",
+    "David Curiel",
+    "Joe Quesada",
+    "Jung-Geun Yoon",
+    "Marc Deering",
+    "Mark Farmer",
+    "Peter David",
+    "Peter Steigerwald",
+    "Sarah Brunstad",
+    "Scott Hanna",
+    "Tom Brevoort",
+    "Walden Wong",
+    "Wil Moss"
+  ],
+  "publish_date": "2019-06-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/06/05/hulk-last-shot-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2712/",
+  "fetched_at": "2026-06-09T19:48:53.814Z",
+  "reviewed_at": null
+}

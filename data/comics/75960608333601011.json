@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608333601011",
+  "title": "Totally Awesome Hulk #10",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Greg Pak",
+    "Joe Quesada",
+    "Mahmud A. Asrar",
+    "Mark Paniccia",
+    "Marte Gracia",
+    "Nolan Woodard",
+    "Phil Jimenez",
+    "Rachel Dodson",
+    "Terry Dodson"
+  ],
+  "publish_date": "2016-09-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/25/the-totally-awesome-hulk-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42469/",
+  "fetched_at": "2026-06-09T19:39:20.464Z",
+  "reviewed_at": null
+}

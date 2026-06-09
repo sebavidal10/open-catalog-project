@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "72513032869405011",
+  "title": "Dejah Thoris #5",
+  "authors": [
+    "Chuck Brown",
+    "Ellie Wright",
+    "Emiliana Pinna",
+    "Jeff Eckleberry",
+    "Joseph Michael Linsner",
+    "Joshua Swaby",
+    "Jung-Geun Yoon",
+    "Leirix Li",
+    "Nathan Cosby",
+    "Rebeca Puebla"
+  ],
+  "publish_date": "2023-07-19",
+  "publisher": [
+    "Dynamite Entertainment"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/04/11/eb8ba5b74d984e348f9a530ffdac2d51.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/115639/",
+  "fetched_at": "2026-06-09T20:38:21.054Z",
+  "reviewed_at": "2023-07-01"
+}

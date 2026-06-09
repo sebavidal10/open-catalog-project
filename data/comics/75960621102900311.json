@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960621102900311",
+  "title": "Planet She-Hulk #3",
+  "authors": [
+    "Aaron Kuder",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Clayton Crain",
+    "Emerald Bensadoun",
+    "Emilio Laiso",
+    "Jacopo Camagni",
+    "Jhony Caballero",
+    "Joe Caramagna",
+    "Jordan D. White",
+    "Paco Medina",
+    "Rachelle Rosenberg",
+    "Sonia Oback",
+    "Stephanie Phillips"
+  ],
+  "publish_date": "2026-01-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/04/b214f010e0124dd2aee6b772e9af12a9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/159730/",
+  "fetched_at": "2026-06-09T20:10:25.201Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Subject Was Roses",
+  "year": "1968",
+  "rated": "G",
+  "released": "12 Feb 1970",
+  "runtime": "107 min",
+  "genre": "Drama",
+  "director": "Ulu Grosbard",
+  "writer": "Frank D. Gilroy",
+  "actors": "Patricia Neal, Jack Albertson, Martin Sheen",
+  "plot": "A young man returning home from World War II finds himself caught up in his parents' turbulent relationship.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 2 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGRkZGFiNWMtZjg2NS00MjI5LTlkZWQtZGYxMTEzYWU1NTkyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0063654",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:23:57.477Z"
+}

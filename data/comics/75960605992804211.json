@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605992804211",
+  "title": "Hulk #42",
+  "authors": [
+    "Alan Fine",
+    "Ariel Olivetti",
+    "Axel Alonso",
+    "Boo Cook",
+    "Dan Buckley",
+    "Dan Remollino",
+    "Ed Dukeshire",
+    "Jake Thomas",
+    "Jeff Parker",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Patrick Zircher",
+    "Rachelle Rosenberg"
+  ],
+  "publish_date": "2011-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v2-42.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19233/",
+  "fetched_at": "2026-06-09T19:22:38.799Z",
+  "reviewed_at": "2011-12-01"
+}

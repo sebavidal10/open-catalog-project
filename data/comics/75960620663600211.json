@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960620663600211",
+  "title": "The Incredible Hulk #2",
+  "authors": [
+    "Adam Del Re",
+    "Alex Sinclair",
+    "Bryan Hitch",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Joshua Cassara",
+    "Leinil Francis Yu",
+    "Marte Gracia",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Nic Klein",
+    "Phillip Kennedy Johnson",
+    "Sunny Gho",
+    "Wil Moss"
+  ],
+  "publish_date": "2023-07-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/07/13/ca1fc4ce89a34a168c2783053eee80ac.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/71023/",
+  "fetched_at": "2026-06-09T20:01:46.395Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Rachel, Rachel",
+  "year": "1968",
+  "rated": "R",
+  "released": "26 Aug 1968",
+  "runtime": "101 min",
+  "genre": "Drama, Romance",
+  "director": "Paul Newman",
+  "writer": "Stewart Stern, Margaret Laurence",
+  "actors": "Joanne Woodward, James Olson, Kate Harrington",
+  "plot": "Rachel is a lonely school teacher who lives with her mother. When a man from the big city asks her out, she starts thinking about where she wants her life to go.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 7 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWQ0N2QyNDMtODU3NS00MzZiLWFiNGEtYzZmMjA0NWJmMWMwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.1",
+  "imdbID": "tt0063483",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:21:29.763Z"
+}

@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960620651300111",
+  "title": "Thor Annual #1",
+  "authors": [
+    "Adam Kubert",
+    "Al Ewing",
+    "C. B. Cebulski",
+    "Collin Kelly",
+    "Dan Brown",
+    "David Marquez",
+    "Edgar Delgado",
+    "Elena Casagrande",
+    "George Pérez",
+    "Ibraim Roberson",
+    "Jackson Lanzing",
+    "Joe Sabino",
+    "Jordie Bellaire",
+    "Martín Cóccolo",
+    "Matthew Wilson",
+    "Matt Milla",
+    "Michelle Marchese",
+    "Romulo Fajardo Jr.",
+    "Wil Moss"
+  ],
+  "publish_date": "2023-07-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/06/21/42ecea3152df40dd873f48f6a4dcef45.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/68100/",
+  "fetched_at": "2026-06-09T20:39:07.207Z",
+  "reviewed_at": null
+}

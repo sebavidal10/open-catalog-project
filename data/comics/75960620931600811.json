@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620931600811",
+  "title": "Red Hulk #8",
+  "authors": [
+    "Anand Ramcheron",
+    "Benjamin Percy",
+    "Bryan Valenza",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Drew Baumgartner",
+    "Geoff Shaw",
+    "Guru-eFX",
+    "Lauren Amaro",
+    "Mark Paniccia",
+    "Marte Gracia",
+    "Mikey J. Basso",
+    "Puppeteer Lee"
+  ],
+  "publish_date": "2025-09-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/30/d6e0a3bc387745238ffa2472c187e70e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/152758/",
+  "fetched_at": "2026-06-09T20:08:58.493Z",
+  "reviewed_at": null
+}

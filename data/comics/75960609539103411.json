@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960609539103411",
+  "title": "Thor #34",
+  "authors": [
+    "C. B. Cebulski",
+    "Javier Garrón",
+    "Jesus Aburtov",
+    "Joe Sabino",
+    "Juan Gedeon",
+    "Mateus Manhanini",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Nic Klein",
+    "Sean Parsons",
+    "Sergio Fernandez Davila",
+    "Torunn Grønbekk",
+    "Wil Moss"
+  ],
+  "publish_date": "2023-05-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/05/11/45d0a7f82cf54608a5d4f09f555f6ee4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/65066/",
+  "fetched_at": "2026-06-09T20:38:27.216Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960608228500111",
+  "title": "Planet Hulk #1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Dan Buckley",
+    "Emily Shaw",
+    "Greg Pak",
+    "Joe Quesada",
+    "Jordan Boyd",
+    "Leonard Kirk",
+    "Manny Mederos",
+    "Marc Laming",
+    "Mark Paniccia",
+    "Michael Del Mundo",
+    "Mukesh Singh",
+    "Rachelle Rosenberg",
+    "Sam Humphries",
+    "Skottie Young",
+    "Takeshi Miyazawa",
+    "Travis Lanham"
+  ],
+  "publish_date": "2015-05-20",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/02/11/planet-hulk-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43802/",
+  "fetched_at": "2026-06-09T19:36:35.948Z",
+  "reviewed_at": null
+}

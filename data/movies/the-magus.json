@@ -1,0 +1,31 @@
+{
+  "title": "The Magus",
+  "year": "1968",
+  "rated": "R",
+  "released": "10 Dec 1968",
+  "runtime": "117 min",
+  "genre": "Drama, Fantasy, Mystery",
+  "director": "Guy Green",
+  "writer": "John Fowles",
+  "actors": "Anthony Quinn, Michael Caine, Candice Bergen",
+  "plot": "A teacher on a Greek island becomes involved in bizarre mind games with the island's magus (magician) and a beautiful young woman.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 BAFTA Award1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDlmYTQ5ODUtMzAzOC00ZDVhLWJiMGEtYzlkZWYxMzUyYzY5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0063260",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:21:46.264Z"
+}

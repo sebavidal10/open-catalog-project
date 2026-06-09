@@ -1,0 +1,42 @@
+{
+  "isbn": null,
+  "upc": "75960606637760011",
+  "title": "Incredible Hulk #600",
+  "authors": [
+    "Alan Fine",
+    "Albert Deschesne",
+    "Alex Ross",
+    "Anthony Dial",
+    "Audrey Loeb",
+    "Chris Giarrusso",
+    "Chris Sotomayor",
+    "Dan Brown",
+    "Dan Buckley",
+    "Ed McGuinness",
+    "Fred Van Lente",
+    "Guru-eFX",
+    "Jeph Loeb",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Mark Farmer",
+    "Mark Paniccia",
+    "Michael Ryan",
+    "Nathan Cosby",
+    "Peter Pantazis",
+    "Richard Starkings",
+    "Rodney Buchemi",
+    "Salvador Espin",
+    "Stan Lee",
+    "Tom Orzechowski"
+  ],
+  "publish_date": "2009-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/01/incredible-hulk-600.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19924/",
+  "fetched_at": "2026-06-09T19:12:08.435Z",
+  "reviewed_at": "2009-09-01"
+}

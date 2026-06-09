@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608056401411",
+  "title": "Hulk #14",
+  "authors": [
+    "Alan Fine",
+    "Andrew Hennessy",
+    "Axel Alonso",
+    "Brad Anderson",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Emily Shaw",
+    "Gerry Duggan",
+    "Jason Keith",
+    "Joe Quesada",
+    "Mark Bagley",
+    "Mark Paniccia"
+  ],
+  "publish_date": "2015-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v3-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19272/",
+  "fetched_at": "2026-06-09T19:36:13.379Z",
+  "reviewed_at": null
+}

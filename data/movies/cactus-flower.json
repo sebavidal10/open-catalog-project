@@ -1,0 +1,35 @@
+{
+  "title": "Cactus Flower",
+  "year": "1969",
+  "rated": "M",
+  "released": "16 Dec 1969",
+  "runtime": "104 min",
+  "genre": "Comedy, Romance",
+  "director": "Gene Saks",
+  "writer": "Abe Burrows, Pierre Barillet, Jean-Pierre Grédy",
+  "actors": "Walter Matthau, Ingrid Bergman, Goldie Hawn",
+  "plot": "A dentist pretends to be married to avoid commitment, but when he falls for his girlfriend and proposes, he must recruit his lovelorn nurse to pose as his wife.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 3 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTQxZTkwNGUtZWU2OC00M2FlLWFlY2QtMzUxM2RiMWQ1NDkyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "7.2",
+  "imdbID": "tt0064117",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:32:32.254Z"
+}

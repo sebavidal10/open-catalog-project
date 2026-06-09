@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604745109711",
+  "title": "Incredible Hulk #97",
+  "authors": [
+    "Aaron Lopresti",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Danny Miki",
+    "Greg Pak",
+    "Joe Quesada",
+    "José Ladrönn",
+    "Mark Paniccia",
+    "Nathan Cosby",
+    "Randy Gentile"
+  ],
+  "publish_date": "2006-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/20/incredible-hulk-v3-97.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19549/",
+  "fetched_at": "2026-06-09T19:00:19.399Z",
+  "reviewed_at": "2006-10-01"
+}

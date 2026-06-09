@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608612201011",
+  "title": "Hulk #10",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Christina Harrington",
+    "Cory Petit",
+    "Dan Buckley",
+    "Francesco Gaston",
+    "Joe Quesada",
+    "John Tyler Christopher",
+    "Julian Lopez",
+    "Mariko Tamaki",
+    "Mark Paniccia",
+    "Matt Milla"
+  ],
+  "publish_date": "2017-09-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v4-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19284/",
+  "fetched_at": "2026-06-09T19:43:10.853Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605992800511",
+  "title": "Hulk #5",
+  "authors": [
+    "Alan Fine",
+    "Audrey Loeb",
+    "Chris Giarrusso",
+    "Comicraft",
+    "Dan Buckley",
+    "Dexter Vines",
+    "Ed McGuinness",
+    "Jason Keith",
+    "Jeph Loeb",
+    "Joe Quesada",
+    "Mark Farmer",
+    "Mark Paniccia",
+    "Nathan Cosby"
+  ],
+  "publish_date": "2008-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/12/hulk-v2-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19185/",
+  "fetched_at": "2026-06-09T19:07:47.642Z",
+  "reviewed_at": "2008-10-01"
+}

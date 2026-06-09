@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620663601111",
+  "title": "The Incredible Hulk #11",
+  "authors": [
+    "Adam Del Re",
+    "Arthur Adams",
+    "Carlos Lao",
+    "Carlos Magno",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Daniel Earls",
+    "Edgar Delgado",
+    "Espen Grundetjern",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Nic Klein",
+    "Phillip Kennedy Johnson",
+    "Wil Moss"
+  ],
+  "publish_date": "2024-04-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/29/fa12b71e569e4b248b1274ffa4293f54.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/115252/",
+  "fetched_at": "2026-06-09T20:04:10.296Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,39 @@
+{
+  "isbn": null,
+  "upc": "75960604745103311",
+  "title": "Incredible Hulk #33",
+  "authors": [
+    "Arsia Rozegar",
+    "Bill Jemas",
+    "Bob Harras",
+    "Christopher Priest",
+    "Glynis Oliver",
+    "Herb Trimpe",
+    "J.H. Williams III",
+    "Joe Quesada",
+    "Joe Staton",
+    "John Costanza",
+    "John Ridgway",
+    "John Workman",
+    "Jon Bogdanove",
+    "Len Wein",
+    "Marc Sumerak",
+    "Mick Gray",
+    "Paul Jenkins",
+    "Peter David",
+    "Petra Scotese",
+    "Rick Parker",
+    "Sal Buscema",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2001-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/17/incredible-hulk-v3-33.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19426/",
+  "fetched_at": "2026-06-09T18:47:35.699Z",
+  "reviewed_at": "2001-12-01"
+}

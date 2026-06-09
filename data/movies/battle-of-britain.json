@@ -1,0 +1,35 @@
+{
+  "title": "Battle of Britain",
+  "year": "1969",
+  "rated": "G",
+  "released": "24 Oct 1969",
+  "runtime": "132 min",
+  "genre": "Action, Drama, History",
+  "director": "Guy Hamilton",
+  "writer": "James Kennaway, Wilfred Greatorex, Derek Dempster",
+  "actors": "Michael Caine, Trevor Howard, Harry Andrews",
+  "plot": "In 1940, the British Royal Air Force fights a desperate battle to prevent the Luftwaffe from gaining air superiority over the English Channel as a prelude to a possible Axis invasion of the U.K.",
+  "language": "English, German, Polish, French",
+  "country": "United Kingdom, United States, France, Spain",
+  "awards": "Nominated for 1 BAFTA Award1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTRhZDBlZGEtMjdjYy00Y2NiLTk2YzYtMjUwNTkxNWJhZjkxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "44/100"
+    }
+  ],
+  "metascore": "44",
+  "imdbRating": "6.9",
+  "imdbID": "tt0064072",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:32:18.141Z"
+}

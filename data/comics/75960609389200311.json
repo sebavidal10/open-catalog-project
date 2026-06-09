@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960609389200311",
+  "title": "Hulkverines #3",
+  "authors": [
+    "Alan Fine",
+    "Ario Anindito",
+    "C. B. Cebulski",
+    "Dan Buckley",
+    "Frank D'Armata",
+    "Gerardo Zaffino",
+    "Greg Land",
+    "Greg Pak",
+    "Jay Leisten",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Morry Hollowell",
+    "Sarah Brunstad",
+    "Tom Brevoort",
+    "Wil Moss"
+  ],
+  "publish_date": "2019-04-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/16/hulkverines-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/48037/",
+  "fetched_at": "2026-06-09T19:48:15.365Z",
+  "reviewed_at": null
+}

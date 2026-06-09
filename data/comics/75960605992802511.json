@@ -1,0 +1,38 @@
+{
+  "isbn": null,
+  "upc": "75960605992802511",
+  "title": "Hulk #25",
+  "authors": [
+    "Alan Fine",
+    "Antonio Fabela",
+    "Audrey Loeb",
+    "Billy Tan",
+    "Dan Buckley",
+    "Dario Brizuela",
+    "Dave McCaig",
+    "Dexter Vines",
+    "Ed Dukeshire",
+    "Ed McGuinness",
+    "Elizabeth Breitweiser",
+    "Gabriel Hardman",
+    "Guru-eFX",
+    "Irene Lee",
+    "Jeff Parker",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Mark Robinson",
+    "Michael Horwitz",
+    "Nathan Cosby",
+    "Terry Pallot"
+  ],
+  "publish_date": "2010-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/13/hulk-v2-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19205/",
+  "fetched_at": "2026-06-09T19:17:03.686Z",
+  "reviewed_at": "2010-11-01"
+}

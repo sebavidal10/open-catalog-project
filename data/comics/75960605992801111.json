@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960605992801111",
+  "title": "Hulk #11",
+  "authors": [
+    "Alan Fine",
+    "Audrey Loeb",
+    "Chris Giarrusso",
+    "Comicraft",
+    "Dan Buckley",
+    "Dexter Vines",
+    "Ed McGuinness",
+    "Guru-eFX",
+    "Irene Lee",
+    "Jeph Loeb",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Mark Paniccia",
+    "Nathan Cosby"
+  ],
+  "publish_date": "2009-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/12/hulk-v2-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19191/",
+  "fetched_at": "2026-06-09T19:10:55.708Z",
+  "reviewed_at": "2009-06-01"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604745103411",
+  "title": "Incredible Hulk #34",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Bruce Jones",
+    "Joe Quesada",
+    "John Miesegaes",
+    "John Romita Jr.",
+    "Kaare Andrews",
+    "Richard Starkings",
+    "Tom Palmer",
+    "Wes Abbott"
+  ],
+  "publish_date": "2002-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/17/incredible-hulk-v3-34.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19427/",
+  "fetched_at": "2026-06-09T18:47:45.886Z",
+  "reviewed_at": "2002-01-01"
+}

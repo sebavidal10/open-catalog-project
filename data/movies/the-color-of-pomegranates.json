@@ -1,0 +1,31 @@
+{
+  "title": "The Color of Pomegranates",
+  "year": "1969",
+  "rated": "Not Rated",
+  "released": "27 Jan 1982",
+  "runtime": "79 min",
+  "genre": "Biography, Drama, History",
+  "director": "Sergei Parajanov",
+  "writer": "Sayat Nova, Sergei Parajanov",
+  "actors": "Sofiko Chiaureli, Melkon Alekyan, Vilen Galstyan",
+  "plot": "The life of the Armenian poet Sayat-Nova, from childhood to death: his spiritual journey, artistic endeavors, and inner conflicts within the cultural and historical context of Armenia. Hailed as revolutionary by Mikhail Vartanov.",
+  "language": "Armenian, Azerbaijani, Georgian",
+  "country": "Soviet Union",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIwZWRlYzItYzFkYS00NmUzLTg2NDctZWExZjIwNDkzZTA0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0063555",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:32:31.073Z"
+}

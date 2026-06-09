@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960620663601311",
+  "title": "The Incredible Hulk #13",
+  "authors": [
+    "Adam Del Re",
+    "Betsy Cola",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Jordan D. White",
+    "Matthew Wilson",
+    "Nic Klein",
+    "Phillip Kennedy Johnson",
+    "Skottie Young",
+    "Tom Groneman"
+  ],
+  "publish_date": "2024-06-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/30/cd5a79cb9e9b4edcbee68cacfca907a5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/120453/",
+  "fetched_at": "2026-06-09T20:04:43.368Z",
+  "reviewed_at": null
+}

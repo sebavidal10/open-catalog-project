@@ -1,0 +1,31 @@
+{
+  "title": "The Fixer",
+  "year": "1968",
+  "rated": "PG-13",
+  "released": "20 Sep 1969",
+  "runtime": "132 min",
+  "genre": "Drama",
+  "director": "John Frankenheimer",
+  "writer": "Bernard Malamud, Dalton Trumbo",
+  "actors": "Alan Bates, Dirk Bogarde, Georgia Brown",
+  "plot": "In Czarist Russia, around 1911, a Russian-Jewish handyman, Yakov Bok (Sir Alan Bates), is wrongly imprisoned for a most unlikely crime.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 Oscar. 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjZlNWQ3MGItOGRkZC00MGQ1LWJiOGYtN2ZhNGRhMGExZjQ5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "56%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0062977",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:22:48.981Z"
+}

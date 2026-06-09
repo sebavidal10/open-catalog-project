@@ -1,0 +1,31 @@
+{
+  "title": "Wonderwall",
+  "year": "1968",
+  "rated": "TV-MA",
+  "released": "12 Jan 1969",
+  "runtime": "92 min",
+  "genre": "Drama",
+  "director": "Joe Massot",
+  "writer": "Gérard Brach, Guillermo Cabrera Infante",
+  "actors": "Jack MacGowran, Jane Birkin, Irene Handl",
+  "plot": "Professor Oscar Collins becomes obsessed with model Penny Lane and her boyfriend, drilling holes in their chaotic apartment and engaging in daydreams and delusions.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYxNDE5ODI3N15BMl5BanBnXkFtZTgwNjU3MDA1MTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0065224",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:22:28.902Z"
+}

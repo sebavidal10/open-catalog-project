@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960604745104511",
+  "title": "Incredible Hulk #45",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Bruce Jones",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Kaare Andrews",
+    "Richard Starkings",
+    "Scott Koblish",
+    "Stuart Immonen",
+    "Studio F",
+    "Wes Abbott"
+  ],
+  "publish_date": "2002-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/18/incredible-hulk-v3-45.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19497/",
+  "fetched_at": "2026-06-09T18:49:34.469Z",
+  "reviewed_at": "2002-11-01"
+}

@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960606637760911",
+  "title": "Incredible Hulk #609",
+  "authors": [
+    "Alan Fine",
+    "Dan Buckley",
+    "Danny Miki",
+    "Dean White",
+    "Frank D'Armata",
+    "Greg Pak",
+    "Irene Lee",
+    "Jeffrey Huet",
+    "Joe Quesada",
+    "John Rauch",
+    "John Romita Jr.",
+    "Jordan D. White",
+    "Klaus Janson",
+    "Mark Paniccia",
+    "Miguel Munera",
+    "Paul Pelletier",
+    "Scott Reed",
+    "Simon Bowland"
+  ],
+  "publish_date": "2010-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/01/incredible-hulk-609.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19933/",
+  "fetched_at": "2026-06-09T19:16:03.790Z",
+  "reviewed_at": "2010-07-01"
+}

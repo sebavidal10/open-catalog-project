@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960602288500911",
+  "title": "Hulk 2099 #9",
+  "authors": [
+    "Bobbie Chase",
+    "Christopher Ivy",
+    "Gerard Jones",
+    "Jack Morelli",
+    "Joe Bennett",
+    "Joey Cavalieri",
+    "Lia Pelosi",
+    "Tom Smith"
+  ],
+  "publish_date": "1995-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/11/76a71eb2b50e4c67925af4d110259545.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/113940/",
+  "fetched_at": "2026-06-09T18:33:52.401Z",
+  "reviewed_at": "1995-08-01"
+}

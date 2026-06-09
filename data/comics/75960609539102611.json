@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960609539102611",
+  "title": "Thor #26",
+  "authors": [
+    "Alanna Smith",
+    "Anthony Gambino",
+    "Betsy Cola",
+    "Brad Anderson",
+    "C. B. Cebulski",
+    "Donny Cates",
+    "Federico Blee",
+    "Gary Frank",
+    "Geoff Shaw",
+    "Jay Bowen",
+    "Joe Sabino",
+    "Kaitlyn Lindtvedt",
+    "Martín Cóccolo",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Taurin Clarke",
+    "Wil Moss"
+  ],
+  "publish_date": "2022-06-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/24/thor-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47850/",
+  "fetched_at": "2026-06-09T20:35:27.303Z",
+  "reviewed_at": null
+}

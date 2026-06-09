@@ -1,0 +1,31 @@
+{
+  "title": "Madigan",
+  "year": "1968",
+  "rated": "TV-14",
+  "released": "29 Mar 1968",
+  "runtime": "101 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Don Siegel",
+  "writer": "Howard Rodman, Abraham Polonsky, Richard Dougherty",
+  "actors": "Richard Widmark, Henry Fonda, Inger Stevens",
+  "plot": "In New York City's Spanish Harlem, detectives Madigan and Bonaro are given 72 hours by their superior to capture a hoodlum wanted for homicide in Brooklyn.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2Q3ZDM5MjEtY2Q2OC00MmQ2LWI5ZjAtZjU5YTJlYjk2M2U5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0063256",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:22:23.962Z"
+}

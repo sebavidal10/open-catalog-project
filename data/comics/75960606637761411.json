@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960606637761411",
+  "title": "Incredible Hulks #614",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Barry Kitson",
+    "Carlo Pagulayan",
+    "Dan Buckley",
+    "Greg Pak",
+    "Guru-eFX",
+    "Irene Lee",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Joshua Williamson",
+    "Mark Paniccia",
+    "Matt Milla",
+    "Michael Jason Paz",
+    "Mirco Pierfederici",
+    "Scott Hanna",
+    "Simon Bowland"
+  ],
+  "publish_date": "2010-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/15/incredible-hulks-v1-614.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19288/",
+  "fetched_at": "2026-06-09T19:17:26.237Z",
+  "reviewed_at": "2010-12-01"
+}

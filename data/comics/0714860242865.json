@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "0714860242865",
+  "title": "The Incredible Hulk Annual #5",
+  "authors": [
+    "Chris Claremont",
+    "Glynis Oliver",
+    "Jack Abel",
+    "Jack Kirby",
+    "Joe Rosen",
+    "Len Wein",
+    "Sal Buscema"
+  ],
+  "publish_date": "1976-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/05/hulk-annual-v1-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18905/",
+  "fetched_at": "2026-06-09T17:56:02.818Z",
+  "reviewed_at": "1976-10-01"
+}

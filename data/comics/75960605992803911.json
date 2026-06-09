@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605992803911",
+  "title": "Hulk #39",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Ed Dukeshire",
+    "Elizabeth Breitweiser",
+    "Frank D'Armata",
+    "Gabriel Hardman",
+    "Irene Lee",
+    "Jake Thomas",
+    "Jeff Parker",
+    "Joe Quesada",
+    "Mark Paniccia"
+  ],
+  "publish_date": "2011-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/13/hulk-v2-39.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19230/",
+  "fetched_at": "2026-06-09T19:21:51.476Z",
+  "reviewed_at": "2011-10-01"
+}

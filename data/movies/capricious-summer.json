@@ -1,0 +1,31 @@
+{
+  "title": "Capricious Summer",
+  "year": "1968",
+  "rated": "Unrated",
+  "released": "24 Sep 1968",
+  "runtime": "74 min",
+  "genre": "Comedy",
+  "director": "Jirí Menzel",
+  "writer": "Vladislav Vancura, Václav Nývlt, Jirí Menzel",
+  "actors": "Rudolf Hrusínský, Vlastimil Brodský, Frantisek Rehák",
+  "plot": "The friends enjoy the charms of nature - and of their guests.",
+  "language": "Czech",
+  "country": "Czechoslovakia",
+  "awards": "2 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzg2MzVjODMtNjI5Ni00NzZmLWJiYjItM2NkZGMwNjAzZGEyXkEyXkFqcGdeQXVyNzEyNjUwMTA@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0063527",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:22:47.812Z"
+}

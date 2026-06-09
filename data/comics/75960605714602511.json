@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960605714602511",
+  "title": "She-Hulk #25",
+  "authors": [
+    "Adriana Melo",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Dave Kemp",
+    "Dave Meikis",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Mariah Benes",
+    "Peter David",
+    "Rain Beredo",
+    "Rich Ginter",
+    "Rob Ro",
+    "Shawn Moll",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Val Semeiks",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2008-01-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/16/she-hulk-v2-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19357/",
+  "fetched_at": "2026-06-09T19:05:55.627Z",
+  "reviewed_at": null
+}

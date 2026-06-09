@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "72513032869401011",
+  "title": "Dejah Thoris #1",
+  "authors": [
+    "Chuck Brown",
+    "Elias Chatzoudis",
+    "Ellie Wright",
+    "Emiliana Pinna",
+    "Jade Hope",
+    "Jeff Eckleberry",
+    "John Vasquez",
+    "Joseph Michael Linsner",
+    "Joshua Swaby",
+    "Jung-Geun Yoon",
+    "Leirix Li",
+    "Lucio Parrillo",
+    "Marc Laming",
+    "Nathan Cosby",
+    "Rebeca Puebla"
+  ],
+  "publish_date": "2023-03-08",
+  "publisher": [
+    "Dynamite Entertainment"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/04/11/8f7b0a2b51214b7b959157ef710c2fb9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/115635/",
+  "fetched_at": "2026-06-09T20:36:59.430Z",
+  "reviewed_at": "2023-03-01"
+}

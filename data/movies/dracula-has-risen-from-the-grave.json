@@ -1,0 +1,35 @@
+{
+  "title": "Dracula Has Risen from the Grave",
+  "year": "1968",
+  "rated": "G",
+  "released": "06 Feb 1969",
+  "runtime": "92 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Freddie Francis",
+  "writer": "Anthony Hinds, Bram Stoker",
+  "actors": "Christopher Lee, Rupert Davies, Veronica Carlson",
+  "plot": "After a Monsignor accidentally brings Count Dracula back from the dead while exorcising his castle, the vampire preys on the holy man's beautiful niece and her friends.",
+  "language": "English, Latin",
+  "country": "United Kingdom",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2RmN2U4YjYtZjhjOC00ZmZjLWJmM2ItNGRjNTMyOTQ0NGFhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "6.5",
+  "imdbID": "tt0062909",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:21:51.002Z"
+}

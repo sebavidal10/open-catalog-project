@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608956703711",
+  "title": "Immortal Hulk #37",
+  "authors": [
+    "Al Ewing",
+    "Alex Ross",
+    "Belardino Brabo",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Gurihiru",
+    "Joe Bennett",
+    "Paul Mounts",
+    "Ruy José",
+    "Sarah Brunstad",
+    "Tom Brevoort",
+    "Wil Moss",
+    "Zeb Wells"
+  ],
+  "publish_date": "2020-09-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/06/immortal-hulk-37.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/20322/",
+  "fetched_at": "2026-06-09T19:52:36.642Z",
+  "reviewed_at": null
+}

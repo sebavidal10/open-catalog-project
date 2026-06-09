@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960608956700911",
+  "title": "Immortal Hulk #9",
+  "authors": [
+    "Alan Fine",
+    "Al Ewing",
+    "Alex Ross",
+    "Arthur Adams",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dan Buckley",
+    "Edgar Delgado",
+    "Joe Bennett",
+    "Joe Quesada",
+    "Martin Simmonds",
+    "Paul Mounts",
+    "Ruy José",
+    "Sarah Brunstad",
+    "Tom Brevoort",
+    "Wil Moss"
+  ],
+  "publish_date": "2018-11-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/06/immortal-hulk-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/20294/",
+  "fetched_at": "2026-06-09T19:46:54.889Z",
+  "reviewed_at": null
+}

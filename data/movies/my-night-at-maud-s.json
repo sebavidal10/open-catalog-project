@@ -1,0 +1,31 @@
+{
+  "title": "My Night at Maud's",
+  "year": "1969",
+  "rated": "GP",
+  "released": "22 Mar 1970",
+  "runtime": "105 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Éric Rohmer",
+  "writer": "Éric Rohmer",
+  "actors": "Jean-Louis Trintignant, Françoise Fabian, Marie-Christine Barrault",
+  "plot": "A devout Catholic man's rigid principles are challenged during a one-night stay with Maud, a divorced woman with an outsize personality.",
+  "language": "French",
+  "country": "France",
+  "awards": "Nominated for 2 Oscars. 6 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmJhYzcwMTUtMjYzNi00YTI1LTlhNjUtZGVmODkyMTk0N2MwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0064612",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:33:13.517Z"
+}

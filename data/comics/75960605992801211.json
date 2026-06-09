@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960605992801211",
+  "title": "Hulk #12",
+  "authors": [
+    "Alan Fine",
+    "Audrey Loeb",
+    "Chris Giarrusso",
+    "Comicraft",
+    "Dan Buckley",
+    "Dexter Vines",
+    "Ed McGuinness",
+    "Guru-eFX",
+    "Irene Lee",
+    "Jeph Loeb",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Mark Farmer",
+    "Mark Paniccia",
+    "Nathan Cosby"
+  ],
+  "publish_date": "2009-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/12/hulk-v2-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19192/",
+  "fetched_at": "2026-06-09T19:11:00.026Z",
+  "reviewed_at": "2009-06-01"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960620084901011",
+  "title": "She-Hulk #10",
+  "authors": [
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "David Talaski",
+    "Jen Bartel",
+    "Joe Caramagna",
+    "Lindsey Cohick",
+    "Nick Lowe",
+    "Rainbow Rowell",
+    "Rico Renzi",
+    "Takeshi Miyazawa"
+  ],
+  "publish_date": "2023-02-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/02/05/she-hulk-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/55024/",
+  "fetched_at": "2026-06-09T20:00:19.974Z",
+  "reviewed_at": null
+}

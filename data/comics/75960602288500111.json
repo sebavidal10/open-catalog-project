@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960602288500111",
+  "title": "Hulk 2099 #1",
+  "authors": [
+    "Christopher Ivy",
+    "Gerard Jones",
+    "Joey Cavalieri",
+    "Lia Pelosi",
+    "Malcolm Davis",
+    "Tom DeFalco",
+    "Tom Smith"
+  ],
+  "publish_date": "1994-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/11/33f95385b7c34300a399e4d551cf82ca.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/113932/",
+  "fetched_at": "2026-06-09T18:31:50.571Z",
+  "reviewed_at": "1994-12-01"
+}

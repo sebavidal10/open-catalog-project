@@ -1,0 +1,31 @@
+{
+  "title": "Eye of the Cat",
+  "year": "1969",
+  "rated": "M",
+  "released": "17 Jul 1969",
+  "runtime": "102 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "David Lowell Rich",
+  "writer": "Joseph Stefano",
+  "actors": "Michael Sarrazin, Gayle Hunnicutt, Eleanor Parker",
+  "plot": "A man and his girlfriend plan to rob the mansion of the man's eccentric but wealthy aunt. However, the aunt keeps dozens of cats in her home, and the man is deathly afraid of cats.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDJmODFlZjEtYWRjOC00NzRkLTg4OTYtMjc0N2UwNGQ5NjQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "34/100"
+    }
+  ],
+  "metascore": "34",
+  "imdbRating": "6.1",
+  "imdbID": "tt0064310",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:32:15.790Z"
+}

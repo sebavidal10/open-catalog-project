@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960608956703511",
+  "title": "Immortal Hulk #35",
+  "authors": [
+    "Al Ewing",
+    "Alex Ross",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Mark Morales",
+    "Mike Hawthorne",
+    "Paul Mounts",
+    "Sarah Brunstad",
+    "Tom Brevoort",
+    "Wil Moss"
+  ],
+  "publish_date": "2020-07-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/06/immortal-hulk-35.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/20320/",
+  "fetched_at": "2026-06-09T19:51:57.492Z",
+  "reviewed_at": null
+}

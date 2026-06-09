@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960602456843311",
+  "title": "The Incredible Hulk #432",
+  "authors": [
+    "Bobbie Chase",
+    "Comicraft",
+    "Glynis Oliver",
+    "Liam Sharp",
+    "Peter David",
+    "Richard Starkings",
+    "Robin Riggs",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1995-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/11/incredible-hulk-v2-432.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19134/",
+  "fetched_at": "2026-06-09T18:33:56.462Z",
+  "reviewed_at": "1995-08-01"
+}

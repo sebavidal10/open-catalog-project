@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608769371611",
+  "title": "Incredible Hulk #716",
+  "authors": [
+    "Alan Fine",
+    "Alanna Smith",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dan Buckley",
+    "Frank D'Armata",
+    "Greg Pak",
+    "Joe Quesada",
+    "Juan Vlasco",
+    "Marco Lorenzana",
+    "Mike Deodato",
+    "Morry Hollowell",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2018-05-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/01/incredible-hulk-v6-716.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19943/",
+  "fetched_at": "2026-06-09T19:45:23.775Z",
+  "reviewed_at": null
+}

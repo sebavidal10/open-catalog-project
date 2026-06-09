@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608056401511",
+  "title": "Hulk #15",
+  "authors": [
+    "Alan Fine",
+    "Andrew Hennessy",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Emily Shaw",
+    "Gerry Duggan",
+    "Jason Keith",
+    "Joe Quesada",
+    "Mark Bagley",
+    "Mark Paniccia"
+  ],
+  "publish_date": "2015-04-22",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v3-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19273/",
+  "fetched_at": "2026-06-09T19:36:18.861Z",
+  "reviewed_at": null
+}

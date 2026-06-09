@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960602288503111",
+  "title": "Hulk 2099 #3",
+  "authors": [
+    "Christopher Ivy",
+    "Gerard Jones",
+    "Joey Cavalieri",
+    "Lia Pelosi",
+    "Malcolm Davis",
+    "Richard Starkings",
+    "Tom DeFalco",
+    "Tom Smith"
+  ],
+  "publish_date": "1995-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/11/8f6e5b9be3644b508db7514690b724cc.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/113934/",
+  "fetched_at": "2026-06-09T18:32:26.431Z",
+  "reviewed_at": "1995-02-01"
+}

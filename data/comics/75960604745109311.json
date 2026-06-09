@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604745109311",
+  "title": "Incredible Hulk #93",
+  "authors": [
+    "Carlo Pagulayan",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Greg Pak",
+    "Jeffrey Huet",
+    "Joe Quesada",
+    "José Ladrönn",
+    "Mark Paniccia",
+    "Nathan Cosby",
+    "Randy Gentile"
+  ],
+  "publish_date": "2006-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/20/incredible-hulk-v3-93.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19545/",
+  "fetched_at": "2026-06-09T18:59:00.150Z",
+  "reviewed_at": "2006-05-01"
+}

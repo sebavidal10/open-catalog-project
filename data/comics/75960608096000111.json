@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960608096000111",
+  "title": "Hulk Annual #1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "Idette Winecoor",
+    "Irene Lee",
+    "Joe Quesada",
+    "Jon Moisan",
+    "Jordan Boyd",
+    "Le Beau Underwood",
+    "Luke Ross",
+    "Marc Laming",
+    "Mark Paniccia",
+    "Michael Del Mundo",
+    "Monty Nero",
+    "Patrick Goddard"
+  ],
+  "publish_date": "2014-09-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/11/15/00d.png",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/131773/",
+  "fetched_at": "2026-06-09T19:33:37.444Z",
+  "reviewed_at": null
+}

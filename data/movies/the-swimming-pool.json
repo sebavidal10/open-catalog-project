@@ -1,0 +1,35 @@
+{
+  "title": "The Swimming Pool",
+  "year": "1969",
+  "rated": "16+",
+  "released": "01 Aug 1970",
+  "runtime": "122 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "Jacques Deray",
+  "writer": "Alain Page, Jean-Claude Carrière, Jacques Deray",
+  "actors": "Alain Delon, Romy Schneider, Maurice Ronet",
+  "plot": "Jean-Paul and Marianne spend lazy holidays at their villa in idyllic Southern France. However when Harry and his attractive young daughter Penelope show up, the dreamy summer days are suddenly filled with unspoken tension and jeal...",
+  "language": "French, English",
+  "country": "France, Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDliNGUyYTMtZWM5OS00ZmQ1LTg5NGItM2I4YTg0N2E0YWQwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.1",
+  "imdbID": "tt0064816",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:32:01.668Z"
+}

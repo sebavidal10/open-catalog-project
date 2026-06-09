@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "00928101664914",
+  "title": "Incredible Hulks #616",
+  "authors": [
+    "Alan Fine",
+    "Al Rio",
+    "Antonio Fabela",
+    "Axel Alonso",
+    "Barry Kitson",
+    "Carlo Pagulayan",
+    "Dan Buckley",
+    "Greg Pak",
+    "Irene Lee",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Laura Martin",
+    "Mark Paniccia",
+    "Matt Milla",
+    "Michael Jason Paz",
+    "Scott Hanna",
+    "Simon Bowland",
+    "Tim Seeley"
+  ],
+  "publish_date": "2011-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/15/incredible-hulks-v1-616.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19290/",
+  "fetched_at": "2026-06-09T19:17:45.837Z",
+  "reviewed_at": "2011-01-01"
+}

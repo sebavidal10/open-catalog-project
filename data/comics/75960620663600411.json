@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960620663600411",
+  "title": "The Incredible Hulk #4",
+  "authors": [
+    "Adam Del Re",
+    "Carlos Lao",
+    "Carlos Villa",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Federico Blee",
+    "Francis Manapul",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Nic Klein",
+    "Phillip Kennedy Johnson",
+    "Travel Foreman",
+    "Wil Moss"
+  ],
+  "publish_date": "2023-09-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/08/30/hulk-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/74419/",
+  "fetched_at": "2026-06-09T20:02:14.692Z",
+  "reviewed_at": null
+}

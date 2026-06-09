@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960620095500111",
+  "title": "The Immortal Hulk: Time of Monsters #1",
+  "authors": [
+    "Al Ewing",
+    "Alex Paknadel",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "David Vaughan",
+    "Juan Ferreyra",
+    "Kevin Nowlan",
+    "Rachelle Rosenberg",
+    "Ron Lim",
+    "Sarah Brunstad",
+    "Tom Brevoort",
+    "Wil Moss"
+  ],
+  "publish_date": "2021-05-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/05/14/hulk-time-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/30663/",
+  "fetched_at": "2026-06-09T19:54:46.104Z",
+  "reviewed_at": null
+}

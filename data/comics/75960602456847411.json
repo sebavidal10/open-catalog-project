@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960602456847411",
+  "title": "The Incredible Hulk #474",
+  "authors": [
+    "Bob Harras",
+    "Javier Pulido",
+    "Joe Casey",
+    "John Workman",
+    "Marie Javins",
+    "Matt Idelson",
+    "Sean Parsons"
+  ],
+  "publish_date": "1999-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/12/incredible-hulk-v2-474.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19180/",
+  "fetched_at": "2026-06-09T18:42:08.221Z",
+  "reviewed_at": "1999-03-01"
+}

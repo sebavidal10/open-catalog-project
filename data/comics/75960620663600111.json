@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960620663600111",
+  "title": "The Incredible Hulk #1",
+  "authors": [
+    "Andrew Dalhouse",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "David Curiel",
+    "David Marquez",
+    "Edgar Delgado",
+    "George Pérez",
+    "Herb Trimpe",
+    "Jay David Ramos",
+    "Jim Cheung",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Nic Klein",
+    "Oscar Bazaldua",
+    "Patrick Gleason",
+    "Phillip Kennedy Johnson",
+    "Skottie Young",
+    "Wil Moss"
+  ],
+  "publish_date": "2023-06-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/06/08/e80e31d6b2694908bc47e0c8454d362d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/66664/",
+  "fetched_at": "2026-06-09T20:01:31.696Z",
+  "reviewed_at": null
+}

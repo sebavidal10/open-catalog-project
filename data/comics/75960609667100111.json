@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960609667100111",
+  "title": "The Immortal She-Hulk #1",
+  "authors": [
+    "Al Ewing",
+    "Alex Ross",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Daniel Warren Johnson",
+    "Joe Bennett",
+    "Jon Davis-Hunt",
+    "Marcio Menyz",
+    "Michael Spicer",
+    "Paul Mounts",
+    "Ruy José",
+    "Sarah Brunstad",
+    "Simone Di Meo",
+    "Tom Brevoort",
+    "Wil Moss"
+  ],
+  "publish_date": "2020-09-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/09/17/immortal-shehulk-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/17198/",
+  "fetched_at": "2026-06-09T19:52:47.524Z",
+  "reviewed_at": null
+}

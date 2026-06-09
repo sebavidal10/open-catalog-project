@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960606637763311",
+  "title": "Incredible Hulks #633",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Danny Miki",
+    "Greg Pak",
+    "Irene Lee",
+    "Jake Thomas",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Morry Hollowell",
+    "Paul Pelletier",
+    "Simon Bowland"
+  ],
+  "publish_date": "2011-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/15/incredible-hulks-v1-633.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19307/",
+  "fetched_at": "2026-06-09T19:21:32.655Z",
+  "reviewed_at": "2011-09-01"
+}

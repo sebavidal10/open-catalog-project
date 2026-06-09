@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960602288500411",
+  "title": "Hulk 2099 #4",
+  "authors": [
+    "Bobbie Chase",
+    "Christopher Ivy",
+    "Gerard Jones",
+    "Joey Cavalieri",
+    "Lia Pelosi",
+    "Malcolm Davis",
+    "Richard Starkings",
+    "Tom Smith"
+  ],
+  "publish_date": "1995-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/11/96180fd53f9d44d9802e37d47ee1fc3b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/113935/",
+  "fetched_at": "2026-06-09T18:32:40.333Z",
+  "reviewed_at": "1995-03-01"
+}

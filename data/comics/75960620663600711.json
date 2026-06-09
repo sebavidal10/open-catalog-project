@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620663600711",
+  "title": "The Incredible Hulk #7",
+  "authors": [
+    "Adam Del Re",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Ceci de la Cruz",
+    "Cory Petit",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Nic Klein",
+    "Peach Momoko",
+    "Phillip Kennedy Johnson",
+    "Sean Parsons",
+    "Sergio Fernandez Davila",
+    "Tim Levins",
+    "Wil Moss"
+  ],
+  "publish_date": "2023-12-20",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/12/14/671896894387443c842fe353c09e0fd5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/93124/",
+  "fetched_at": "2026-06-09T20:03:00.842Z",
+  "reviewed_at": null
+}

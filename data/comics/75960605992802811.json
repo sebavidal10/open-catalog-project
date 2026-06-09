@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960605992802811",
+  "title": "Hulk #28",
+  "authors": [
+    "Alan Fine",
+    "Audrey Loeb",
+    "Ben Oliver",
+    "Dan Buckley",
+    "Dario Brizuela",
+    "Ed Dukeshire",
+    "Ed McGuinness",
+    "Elizabeth Breitweiser",
+    "Frank Martin",
+    "Gabriel Hardman",
+    "Irene Lee",
+    "Jeff Parker",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Mark Paniccia",
+    "Steve Firchow"
+  ],
+  "publish_date": "2011-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/13/hulk-v2-28.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19208/",
+  "fetched_at": "2026-06-09T19:18:04.331Z",
+  "reviewed_at": "2011-02-01"
+}

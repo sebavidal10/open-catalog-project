@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604745105811",
+  "title": "Incredible Hulk #58",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Bruce Jones",
+    "Cory Petit",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Leandro Fernández",
+    "Steve Buccellato",
+    "Warren Simons"
+  ],
+  "publish_date": "2003-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/19/incredible-hulk-v3-58.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19510/",
+  "fetched_at": "2026-06-09T18:51:36.684Z",
+  "reviewed_at": "2003-09-01"
+}

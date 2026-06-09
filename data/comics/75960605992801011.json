@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605992801011",
+  "title": "Hulk #10",
+  "authors": [
+    "Alan Fine",
+    "Audrey Loeb",
+    "Chris Giarrusso",
+    "Comicraft",
+    "Dan Buckley",
+    "Dexter Vines",
+    "Ed McGuinness",
+    "Guru-eFX",
+    "Irene Lee",
+    "Jeph Loeb",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Nathan Cosby"
+  ],
+  "publish_date": "2009-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/12/hulk-v2-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19190/",
+  "fetched_at": "2026-06-09T19:09:59.772Z",
+  "reviewed_at": "2009-04-01"
+}

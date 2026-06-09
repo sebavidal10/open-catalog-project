@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960602456842811",
+  "title": "The Incredible Hulk #428",
+  "authors": [
+    "Bobbie Chase",
+    "Comicraft",
+    "Glynis Oliver",
+    "Liam Sharp",
+    "Peter David",
+    "Robin Riggs",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1995-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/11/incredible-hulk-v2-428.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19128/",
+  "fetched_at": "2026-06-09T18:32:58.864Z",
+  "reviewed_at": "1995-04-01"
+}

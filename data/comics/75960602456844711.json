@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960602456844711",
+  "title": "The Incredible Hulk #447",
+  "authors": [
+    "Bobbie Chase",
+    "Bob Harras",
+    "Comicraft",
+    "Glynis Oliver",
+    "Mike Deodato",
+    "Peter David",
+    "Richard Starkings",
+    "Tom Wegrzyn"
+  ],
+  "publish_date": "1996-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/11/incredible-hulk-v2-447.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19149/",
+  "fetched_at": "2026-06-09T18:36:20.368Z",
+  "reviewed_at": "1996-11-01"
+}

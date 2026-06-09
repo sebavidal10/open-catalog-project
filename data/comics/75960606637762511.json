@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960606637762511",
+  "title": "Incredible Hulks #625",
+  "authors": [
+    "Alan Fine",
+    "Andrew Hennessy",
+    "Axel Alonso",
+    "Dale Eaglesham",
+    "Dan Buckley",
+    "Dean White",
+    "Frank Martin",
+    "Greg Pak",
+    "Irene Lee",
+    "Joe Quesada",
+    "John Denning",
+    "Mark Paniccia",
+    "Morry Hollowell",
+    "Simon Bowland"
+  ],
+  "publish_date": "2011-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/15/incredible-hulks-v1-625.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19299/",
+  "fetched_at": "2026-06-09T19:19:34.136Z",
+  "reviewed_at": "2011-05-01"
+}

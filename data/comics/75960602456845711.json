@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960602456845711",
+  "title": "The Incredible Hulk #457",
+  "authors": [
+    "Adam Kubert",
+    "Andrew Pepoy",
+    "Bobbie Chase",
+    "Bob Harras",
+    "Cam Smith",
+    "David Brewer",
+    "Digital Chameleon",
+    "John Workman",
+    "Lovern Kindzierski",
+    "Peter David"
+  ],
+  "publish_date": "1997-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/12/incredible-hulk-v2-457.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19163/",
+  "fetched_at": "2026-06-09T18:38:29.167Z",
+  "reviewed_at": "1997-10-01"
+}

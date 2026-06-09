@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960621455600411",
+  "title": "Hulk: Smash Everything #4",
+  "authors": [
+    "Adam Kubert",
+    "Austin Hatch",
+    "C. B. Cebulski",
+    "Federico Blee",
+    "Gabriel Mata",
+    "Joe Caramagna",
+    "Jordan D. White",
+    "Kaeden McGahey",
+    "Laura Martin",
+    "Martin Biro",
+    "Romulo Fajardo Jr.",
+    "Ryan North",
+    "Stephen Mooney",
+    "Vincenzo Carratú"
+  ],
+  "publish_date": "2026-03-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/02/27/55da8c548f5e414ba5f50f5e2e6f52f6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/163020/",
+  "fetched_at": "2026-06-09T20:10:55.391Z",
+  "reviewed_at": null
+}

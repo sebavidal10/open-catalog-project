@@ -1,0 +1,35 @@
+{
+  "title": "Hello, Dolly!",
+  "year": "1969",
+  "rated": "G",
+  "released": "16 Dec 1969",
+  "runtime": "146 min",
+  "genre": "Adventure, Comedy, Musical",
+  "director": "Gene Kelly",
+  "writer": "Michael Stewart, Thornton Wilder, Ernest Lehman",
+  "actors": "Barbra Streisand, Walter Matthau, Michael Crawford",
+  "plot": "Matchmaker Dolly Levi travels to Yonkers to find a partner for \"half-a-millionaire\" Horace Vandergelder, convincing his niece, his niece's intended, and his two clerks to travel to New York City along the way.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 4 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODk3MmYzOWYtNmQzZC00NTQyLWJjM2EtMDEzZjc3NDYxYWI4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "7.0",
+  "imdbID": "tt0064418",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:31:59.312Z"
+}

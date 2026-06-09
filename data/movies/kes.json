@@ -1,0 +1,31 @@
+{
+  "title": "Kes",
+  "year": "1969",
+  "rated": "PG-13",
+  "released": "03 Apr 1970",
+  "runtime": "111 min",
+  "genre": "Drama, Family",
+  "director": "Ken Loach",
+  "writer": "Barry Hines, Ken Loach, Tony Garnett",
+  "actors": "David Bradley, Brian Glover, Freddie Fletcher",
+  "plot": "A working-class English boy spends his free time caring for and training his pet kestrel.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Won 2 BAFTA 6 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTE5MTZiMTYtODA1OC00ZmUxLTgwMzEtYmFjOTA2ZGEwMjVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.9",
+  "imdbID": "tt0064541",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:32:22.843Z"
+}

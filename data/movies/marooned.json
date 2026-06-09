@@ -1,0 +1,35 @@
+{
+  "title": "Marooned",
+  "year": "1969",
+  "rated": "G",
+  "released": "29 Jan 1970",
+  "runtime": "134 min",
+  "genre": "Adventure, Drama, Sci-Fi",
+  "director": "John Sturges",
+  "writer": "Mayo Simon, Martin Caidin",
+  "actors": "Gregory Peck, Richard Crenna, David Janssen",
+  "plot": "Three American astronauts are stranded in space when their retros won't fire. Can they be rescued before their oxygen runs out?",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDE1MWViMDAtZmFjYy00NjMxLTlkOWYtMDNjMDk3NTZkMWUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "5.9",
+  "imdbID": "tt0064639",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:32:36.968Z"
+}

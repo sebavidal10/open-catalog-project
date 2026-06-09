@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604745108311",
+  "title": "Incredible Hulk #83",
+  "authors": [
+    "Andy Brase",
+    "Dan Buckley",
+    "Javi Montes",
+    "Joe Quesada",
+    "Jorge Lucas",
+    "MacKenzie Cadenhead",
+    "Mark Paniccia",
+    "Omar Otieku",
+    "Peter David",
+    "Randy Gentile"
+  ],
+  "publish_date": "2005-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/20/incredible-hulk-v3-83.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19535/",
+  "fetched_at": "2026-06-09T18:57:02.912Z",
+  "reviewed_at": "2005-09-01"
+}

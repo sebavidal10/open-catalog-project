@@ -1,0 +1,35 @@
+{
+  "title": "The Magic Christian",
+  "year": "1969",
+  "rated": "M/PG",
+  "released": "12 Dec 1969",
+  "runtime": "92 min",
+  "genre": "Comedy",
+  "director": "Joseph McGrath",
+  "writer": "Terry Southern, Joseph McGrath, Graham Chapman",
+  "actors": "Peter Sellers, Ringo Starr, Isabel Jeans",
+  "plot": "The world's richest man and his adopted hobo son set out to test the limits of human vanity and greed through a series of \"money games\".",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmU5NmIyZGEtZjE4NC00YzI2LTljMGEtMzczODg3ODQ3NmIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "61%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "42/100"
+    }
+  ],
+  "metascore": "42",
+  "imdbRating": "5.8",
+  "imdbID": "tt0064622",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:32:20.497Z"
+}

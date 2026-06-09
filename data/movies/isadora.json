@@ -1,0 +1,31 @@
+{
+  "title": "Isadora",
+  "year": "1968",
+  "rated": "M/PG",
+  "released": "20 Jun 1969",
+  "runtime": "131 min",
+  "genre": "Biography, Drama, Music",
+  "director": "Karel Reisz",
+  "writer": "Melvyn Bragg, Margaret Drabble, Isadora Duncan",
+  "actors": "Vanessa Redgrave, John Fraser, James Fox",
+  "plot": "A biography of the 1920s dancer Isadora Duncan, who forever changed people's ideas of ballet. Her nude, semi-nude, and pro-Soviet dance projects as well as her attitude and lifestyle shocked the public of her time.",
+  "language": "English, Russian, French, German",
+  "country": "United Kingdom, France",
+  "awards": "Nominated for 1 Oscar. 3 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDNjNzk3ODAtYzI1Ny00ZWU2LWJlN2MtNmExMTg0YTBhN2M5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0063141",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:21:49.821Z"
+}

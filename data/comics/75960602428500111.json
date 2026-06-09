@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960602428500111",
+  "title": "The Incredible Hulk '97 #1",
+  "authors": [
+    "Adam Pollina",
+    "Bobbie Chase",
+    "Bob Harras",
+    "Chris Eliopoulos",
+    "Christian Cooper",
+    "Glynis Oliver",
+    "Jeff Rebner",
+    "Mark Irwin",
+    "Scott Koblish"
+  ],
+  "publish_date": "1997-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/02/22/The_Incredible_Hulk_Annual_-_021-01.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/136448/",
+  "fetched_at": "2026-06-09T18:37:33.964Z",
+  "reviewed_at": "1997-05-01"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "76194123110500111",
+  "title": "Justice League Adventures #1",
+  "authors": [
+    "Alex Ross",
+    "Bruce Timm",
+    "Dan Davis",
+    "Dan Raspler",
+    "Heroic Age",
+    "John Kalisz",
+    "Kurt Hathaway",
+    "Min S. Ku",
+    "Stephen Wacker",
+    "Ty Templeton"
+  ],
+  "publish_date": "2002-01-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/c924e2fca97546c0bbf7e7dba7c9c070.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118194/",
+  "fetched_at": "2026-06-09T22:14:09.409Z",
+  "reviewed_at": "2002-01-01"
+}

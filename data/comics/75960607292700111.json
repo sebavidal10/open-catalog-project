@@ -1,0 +1,37 @@
+{
+  "isbn": null,
+  "upc": "75960607292700111",
+  "title": "The Incredible Hulk #1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dale Keown",
+    "Damien Lucchese",
+    "Dan Buckley",
+    "Ed Dukeshire",
+    "Jake Thomas",
+    "Jason Aaron",
+    "Joe Quesada",
+    "Joe Weems",
+    "José Ladrönn",
+    "Justin Ponsor",
+    "Marc Silvestri",
+    "Mark Paniccia",
+    "Michael Broussard",
+    "Neal Adams",
+    "Rick Basaldua",
+    "Sal Regla",
+    "Sunny Gho",
+    "Whilce Portacio"
+  ],
+  "publish_date": "2011-10-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/16/incredible-hulk-v4-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19388/",
+  "fetched_at": "2026-06-09T19:22:53.397Z",
+  "reviewed_at": null
+}

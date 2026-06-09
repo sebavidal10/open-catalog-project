@@ -1,0 +1,31 @@
+{
+  "title": "The Cremator",
+  "year": "1969",
+  "rated": "Not Rated",
+  "released": "14 Mar 1969",
+  "runtime": "95 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Juraj Herz",
+  "writer": "Ladislav Fuks, Juraj Herz",
+  "actors": "Rudolf Hrusínský, Vlasta Chramostová, Jana Stehnová",
+  "plot": "Set in Central Europe during World War II, a demented cremator believes cremation relieves earthly suffering and sets out to save the world.",
+  "language": "Czech, Hebrew",
+  "country": "Czechoslovakia",
+  "awards": "3 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2JlYzYwZDktZGIxMi00NDFiLTk4MTAtZGI5YzJmYzY5NjRhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.0",
+  "imdbID": "tt0063633",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:32:29.901Z"
+}

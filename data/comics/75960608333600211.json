@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608333600211",
+  "title": "Totally Awesome Hulk #2",
+  "authors": [
+    "Afua Richardson",
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Darren Shan",
+    "Frank Cho",
+    "Greg Pak",
+    "Joe Quesada",
+    "Manny Mederos",
+    "Mark Paniccia",
+    "Sonia Oback"
+  ],
+  "publish_date": "2016-01-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/25/the-totally-awesome-hulk-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42461/",
+  "fetched_at": "2026-06-09T19:37:52.708Z",
+  "reviewed_at": null
+}

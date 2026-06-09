@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960621202600111",
+  "title": "Hulk & Doctor Strange #1",
+  "authors": [
+    "C. B. Cebulski",
+    "Dan Brown",
+    "Danny Khazem",
+    "Germán Peralta",
+    "Guru-eFX",
+    "Ian Herring",
+    "J. Michael Straczynski",
+    "Kat Gregorowicz",
+    "Kyle Hotz",
+    "Natacha Bustos",
+    "Rachel Dodson",
+    "Terry Dodson",
+    "Travis Lanham",
+    "Wil Moss"
+  ],
+  "publish_date": "2025-05-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/08/714c5d2bf12a4ea099d4d1a6a1b57e33.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145412/",
+  "fetched_at": "2026-06-09T20:07:42.073Z",
+  "reviewed_at": null
+}

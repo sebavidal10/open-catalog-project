@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604745102811",
+  "title": "Incredible Hulk #28",
+  "authors": [
+    "Arsia Rozegar",
+    "Bill Jemas",
+    "J.H. Williams III",
+    "Joe Quesada",
+    "John Romita Jr.",
+    "John Workman",
+    "Marc Sumerak",
+    "Paul Jenkins",
+    "Tom Brevoort",
+    "Tom Palmer"
+  ],
+  "publish_date": "2001-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/17/incredible-hulk-v3-28.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19421/",
+  "fetched_at": "2026-06-09T18:46:50.589Z",
+  "reviewed_at": "2001-07-01"
+}

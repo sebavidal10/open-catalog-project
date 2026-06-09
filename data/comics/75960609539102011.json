@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960609539102011",
+  "title": "Thor #20",
+  "authors": [
+    "Alanna Smith",
+    "C. B. Cebulski",
+    "Donny Cates",
+    "Frank D'Armata",
+    "Greg Land",
+    "Joe Sabino",
+    "Kaitlyn Lindtvedt",
+    "Matthew Wilson",
+    "Nic Klein",
+    "Simone Bianchi",
+    "Wil Moss"
+  ],
+  "publish_date": "2022-01-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/20/thor-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42150/",
+  "fetched_at": "2026-06-09T20:34:12.070Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960606637761911",
+  "title": "Incredible Hulks #619",
+  "authors": [
+    "Alan Fine",
+    "Andres Guinaldo",
+    "Axel Alonso",
+    "Carlo Pagulayan",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Danny Miki",
+    "Frank D'Armata",
+    "Greg Pak",
+    "Irene Lee",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Mark Paniccia",
+    "Michael Jason Paz",
+    "Paul Mounts",
+    "Paul Pelletier",
+    "Simon Bowland",
+    "Tim Seeley"
+  ],
+  "publish_date": "2011-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/15/incredible-hulks-v1-619.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19293/",
+  "fetched_at": "2026-06-09T19:18:13.177Z",
+  "reviewed_at": "2011-02-01"
+}

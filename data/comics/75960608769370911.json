@@ -1,0 +1,38 @@
+{
+  "isbn": null,
+  "upc": "75960608769370911",
+  "title": "Incredible Hulk #709",
+  "authors": [
+    "Alan Fine",
+    "Andy Troy",
+    "Axel Alonso",
+    "Belardino Brabo",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Darren Shan",
+    "Frank D'Armata",
+    "Greg Land",
+    "Greg Pak",
+    "Jack Kirby",
+    "Jay Leisten",
+    "Joe Bennett",
+    "Joe Quesada",
+    "Joe Sinnott",
+    "Kathleen Wisneski",
+    "Marcelo Maiolo",
+    "Mark Paniccia",
+    "Mike Deodato",
+    "Robbie Thompson"
+  ],
+  "publish_date": "2017-10-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/01/incredible-hulk-v6-709.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19936/",
+  "fetched_at": "2026-06-09T19:43:32.908Z",
+  "reviewed_at": null
+}

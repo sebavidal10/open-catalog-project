@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960609539101911",
+  "title": "Thor #19",
+  "authors": [
+    "Alanna Smith",
+    "Brad Anderson",
+    "C. B. Cebulski",
+    "Dave McCaig",
+    "Donny Cates",
+    "Emanuela Lupacchino",
+    "Gary Frank",
+    "Joe Sabino",
+    "Kat Gregorowicz",
+    "Mahmud A. Asrar",
+    "Matthew Wilson",
+    "Nic Klein",
+    "Wil Moss"
+  ],
+  "publish_date": "2021-11-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/11/02/thor-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/40300/",
+  "fetched_at": "2026-06-09T20:33:53.748Z",
+  "reviewed_at": null
+}

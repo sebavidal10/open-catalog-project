@@ -1,0 +1,38 @@
+{
+  "isbn": null,
+  "upc": "75960605974400111",
+  "title": "Giant-Size Hulk #1",
+  "authors": [
+    "Aaron Lopresti",
+    "Bobbie Chase",
+    "Dale Keown",
+    "Dan Buckley",
+    "Dan Kemp",
+    "Danny Miki",
+    "Greg Pak",
+    "Joe Quesada",
+    "Joe Weems",
+    "John Livesay",
+    "John Workman",
+    "Juan Santacruz",
+    "Marc Sumerak",
+    "Mark Paniccia",
+    "Nathan Cosby",
+    "Peter David",
+    "Randy Gentile",
+    "Raúl Fernández",
+    "Ryan Sook",
+    "Studio F",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2006-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/21/gs-hulk-v2-1-fix.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19589/",
+  "fetched_at": "2026-06-09T18:59:43.285Z",
+  "reviewed_at": "2006-08-01"
+}

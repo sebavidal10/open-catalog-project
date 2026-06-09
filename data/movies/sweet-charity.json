@@ -1,0 +1,35 @@
+{
+  "title": "Sweet Charity",
+  "year": "1969",
+  "rated": "G",
+  "released": "17 May 1969",
+  "runtime": "149 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "Bob Fosse",
+  "writer": "Neil Simon, Federico Fellini, Tullio Pinelli",
+  "actors": "Shirley MacLaine, John McMartin, Ricardo Montalban",
+  "plot": "Taxi dancer Charity continues to have faith in the human race despite endless disappointments at its hands, and hopes to finally meet the man to romance her away from her sleazy life. Just maybe, handsome Oscar will be the one to ...",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmQyY2M5NGYtNWQ0OS00NzAwLWFmZDItNzFjMzAxOGEzODkxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "metascore": "53",
+  "imdbRating": "6.9",
+  "imdbID": "tt0065054",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:32:48.718Z"
+}

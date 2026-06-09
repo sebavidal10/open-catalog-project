@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960604745101611",
+  "title": "Incredible Hulk #16",
+  "authors": [
+    "Bill Jemas",
+    "Bob Harras",
+    "Jason Wright",
+    "John Workman",
+    "Paul Jenkins",
+    "Ron Garney",
+    "Sal Buscema",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2000-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/17/incredible-hulk-v3-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19409/",
+  "fetched_at": "2026-06-09T18:44:41.666Z",
+  "reviewed_at": "2000-07-01"
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "76194137344700311",
+  "title": "The Joker Presents: A Puzzlebox #3",
+  "authors": [
+    "Chip Zdarsky",
+    "Dominike Stanton",
+    "Ferran Delgado",
+    "Jesús Merino",
+    "Juni Ba",
+    "Katie Kubert",
+    "Matthew Rosenberg",
+    "Michael Spicer",
+    "Nick Filardi",
+    "Reilly Brown",
+    "Ulises Arreola"
+  ],
+  "publish_date": "2021-10-05",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/03/03/dcbb25b62528436994ccd054bfa7034f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/163230/",
+  "fetched_at": "2026-06-09T20:25:35.939Z",
+  "reviewed_at": null
+}

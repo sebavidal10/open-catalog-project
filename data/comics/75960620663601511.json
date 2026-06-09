@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620663601511",
+  "title": "The Incredible Hulk #15",
+  "authors": [
+    "Adam Del Re",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Daniel Earls",
+    "Jordan D. White",
+    "Matthew Wilson",
+    "MR Daniel",
+    "Nic Klein",
+    "Phillip Kennedy Johnson",
+    "Rachelle Rosenberg",
+    "Rod Reis",
+    "Todd Nauck",
+    "Tom Groneman"
+  ],
+  "publish_date": "2024-08-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/08/01/fa42679a7478438e80ec069fcb41ed09.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/125591/",
+  "fetched_at": "2026-06-09T20:05:16.203Z",
+  "reviewed_at": null
+}

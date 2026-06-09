@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "759606200031001111",
+  "title": "Hulk #11",
+  "authors": [
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Daniel Warren Johnson",
+    "Jim Charalampidis",
+    "Jonah Lobe",
+    "Juni Ba",
+    "Marte Gracia",
+    "Michael Spicer",
+    "Michelle Marchese",
+    "Nick Bradshaw",
+    "Ryan Ottley",
+    "Wil Moss"
+  ],
+  "publish_date": "2023-01-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/01/10/hulk-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/54374/",
+  "fetched_at": "2026-06-09T19:59:48.646Z",
+  "reviewed_at": null
+}

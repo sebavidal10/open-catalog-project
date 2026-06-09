@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "0714860245603",
+  "title": "The Incredible Hulk #209",
+  "authors": [
+    "Frank Giacoia",
+    "Glynis Oliver",
+    "Joe Rosen",
+    "Joe Staton",
+    "Len Wein",
+    "Sal Buscema"
+  ],
+  "publish_date": "1977-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/05/incredible-hulk-v2-209.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18895/",
+  "fetched_at": "2026-06-09T17:57:05.691Z",
+  "reviewed_at": "1977-03-01"
+}

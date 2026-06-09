@@ -1,0 +1,35 @@
+{
+  "title": "Faces",
+  "year": "1968",
+  "rated": "R",
+  "released": "17 Oct 1968",
+  "runtime": "130 min",
+  "genre": "Drama",
+  "director": "John Cassavetes",
+  "writer": "John Cassavetes",
+  "actors": "John Marley, Gena Rowlands, Lynn Carlin",
+  "plot": "A middle-aged man leaves his wife for another woman. Shortly after, his ex-wife also begins a relationship with a younger partner. The film follows their struggles to find love amongst each other.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 5 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmNlOTk1ZmYtZmNiMi00NzZkLWFhY2EtNWE2YTkyZDhkYjg5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "7.4",
+  "imdbID": "tt0062952",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:21:39.199Z"
+}

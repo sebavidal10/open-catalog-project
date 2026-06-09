@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608612200611",
+  "title": "Hulk #6",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Christina Harrington",
+    "Cory Petit",
+    "Dan Buckley",
+    "Jeff Dekal",
+    "Joe Quesada",
+    "Manny Mederos",
+    "Mariko Tamaki",
+    "Mark Paniccia",
+    "Matt Milla",
+    "Nico Leon"
+  ],
+  "publish_date": "2017-05-31",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v4-6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19280/",
+  "fetched_at": "2026-06-09T19:41:49.156Z",
+  "reviewed_at": null
+}

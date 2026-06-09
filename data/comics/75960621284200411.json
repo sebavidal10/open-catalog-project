@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960621284200411",
+  "title": "Thor #4",
+  "authors": [
+    "Al Ewing",
+    "Alex Ross",
+    "C. B. Cebulski",
+    "Danny Khazem",
+    "InHyuk Lee",
+    "Joe Sabino",
+    "Juann Cabal",
+    "Laura Martin",
+    "Matt Hollingsworth",
+    "Mattia Iacono",
+    "Mirka Andolfo",
+    "Pasqual Ferry",
+    "Walter Simonson",
+    "Wil Moss"
+  ],
+  "publish_date": "2025-11-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/11/16/1b0c8a363ce043969e6b0dcef1307a32.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/157201/",
+  "fetched_at": "2026-06-09T20:45:30.426Z",
+  "reviewed_at": null
+}

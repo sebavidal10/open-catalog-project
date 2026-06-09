@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960605714603011",
+  "title": "She-Hulk #30",
+  "authors": [
+    "Bill Rosemann",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Dave Kemp",
+    "Dave Sharpe",
+    "Irene Lee",
+    "Joe Quesada",
+    "Lauren Sankovitch",
+    "Mike Deodato",
+    "Peter David",
+    "Rain Beredo",
+    "Tom Brennan",
+    "Val Semeiks",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2008-06-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/16/she-hulk-v2-30.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19362/",
+  "fetched_at": "2026-06-09T19:07:18.457Z",
+  "reviewed_at": null
+}

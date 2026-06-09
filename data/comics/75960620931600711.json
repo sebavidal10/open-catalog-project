@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960620931600711",
+  "title": "Red Hulk #7",
+  "authors": [
+    "Benjamin Percy",
+    "Bryan Valenza",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Drew Baumgartner",
+    "Geoff Shaw",
+    "Jethro Morales",
+    "Lauren Amaro",
+    "Mark Paniccia",
+    "Marte Gracia",
+    "Mikey J. Basso",
+    "Nic Klein",
+    "Paulo Siqueira",
+    "Rachelle Rosenberg"
+  ],
+  "publish_date": "2025-08-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/07/26/4004d7acc7664fb6afc8c4c421830df3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/150763/",
+  "fetched_at": "2026-06-09T20:08:43.713Z",
+  "reviewed_at": null
+}

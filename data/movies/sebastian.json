@@ -1,0 +1,31 @@
+{
+  "title": "Sebastian",
+  "year": "1968",
+  "rated": "Approved",
+  "released": "29 Jan 1969",
+  "runtime": "100 min",
+  "genre": "Drama, Romance, Thriller",
+  "director": "David Greene",
+  "writer": "Leo Marks, Gerald Vaughan-Hughes",
+  "actors": "Dirk Bogarde, Susannah York, Lilli Palmer",
+  "plot": "During the Cold War, the chief of a British intelligence code-breaking section falls in love with a new employee and shields an old co-worker accused of Communist affiliations from the wrath of the security branch.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTJmYTVhNmMtYjBhOS00M2M1LWIxZjktYTRjMmExZjdlOGViXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "29%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0063570",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:23:03.169Z"
+}

@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960607996400111",
+  "title": "She-Hulk #1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Charles Soule",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Edgar Delgado",
+    "Frankie Johnson",
+    "Javier Pulido",
+    "Jeanine Schaefer",
+    "Joe Quesada",
+    "John Tyler Christopher",
+    "Kevin Wada",
+    "Muntsa Vicente",
+    "Ryan Stegman",
+    "Siya Oum",
+    "Skottie Young",
+    "Tom Brennan"
+  ],
+  "publish_date": "2014-02-12",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/16/she-hulk-v3-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19371/",
+  "fetched_at": "2026-06-09T19:31:28.494Z",
+  "reviewed_at": null
+}

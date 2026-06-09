@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960604745104811",
+  "title": "Incredible Hulk #48",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Bruce Jones",
+    "Comicraft",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Kaare Andrews",
+    "Scott Koblish",
+    "Stuart Immonen",
+    "Studio F",
+    "Warren Simons"
+  ],
+  "publish_date": "2003-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/18/incredible-hulk-v3-48.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19500/",
+  "fetched_at": "2026-06-09T18:50:12.956Z",
+  "reviewed_at": "2003-02-01"
+}

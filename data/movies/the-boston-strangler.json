@@ -1,0 +1,35 @@
+{
+  "title": "The Boston Strangler",
+  "year": "1968",
+  "rated": "Approved",
+  "released": "16 Oct 1968",
+  "runtime": "116 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Richard Fleischer",
+  "writer": "Edward Anhalt, Gerold Frank",
+  "actors": "Tony Curtis, Henry Fonda, George Kennedy",
+  "plot": "A series of strangulation murders of Boston women sparks a protracted complex manhunt. Law professor John Bottomley leads a multi-jurisdictional task force in the investigation, with help from surviving victim Diane Cluny.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGEwY2FmMGUtMjY5Ni00Y2VhLTg1ODAtOTMzZTQ3MDNlYTk0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "7.0",
+  "imdbID": "tt0062755",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:21:32.120Z"
+}

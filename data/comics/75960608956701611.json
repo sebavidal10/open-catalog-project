@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960608956701611",
+  "title": "Immortal Hulk #16",
+  "authors": [
+    "Alan Fine",
+    "Al Ewing",
+    "Alex Ross",
+    "Belardino Brabo",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Laura Martin",
+    "Mike McKone",
+    "Paul Mounts",
+    "Rain Beredo",
+    "Ruy José",
+    "Sarah Brunstad",
+    "Tom Brevoort",
+    "Wil Moss"
+  ],
+  "publish_date": "2019-04-03",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/06/immortal-hulk-16.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/20301/",
+  "fetched_at": "2026-06-09T19:48:21.050Z",
+  "reviewed_at": null
+}

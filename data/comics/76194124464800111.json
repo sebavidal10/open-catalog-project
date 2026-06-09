@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "76194124464800111",
+  "title": "DC Comics Presents: Justice League of America #1",
+  "authors": [
+    "Dustin Nguyen",
+    "Harlan Ellison",
+    "Jeromy Cox",
+    "Joe Giella",
+    "José Luis García-López",
+    "Marv Wolfman",
+    "Matt Idelson",
+    "Nachie Castro",
+    "Pat Brosseau",
+    "Peter David",
+    "Richard Friend",
+    "Rob Leigh",
+    "Steve Buccellato"
+  ],
+  "publish_date": "2004-08-25",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/01/27/dc-presents-jla-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/1155/",
+  "fetched_at": "2026-06-09T22:20:22.434Z",
+  "reviewed_at": null
+}

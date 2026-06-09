@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960608956700111",
+  "title": "Immortal Hulk #1",
+  "authors": [
+    "Alan Fine",
+    "Alanna Smith",
+    "Al Ewing",
+    "Alex Ross",
+    "Alfredo Alcala",
+    "C. B. Cebulski",
+    "Clayton Crain",
+    "Cory Petit",
+    "Dale Keown",
+    "Dan Buckley",
+    "Eber Evangelista",
+    "Jason Keith",
+    "Joe Bennett",
+    "Joe Quesada",
+    "Kaare Andrews",
+    "Paul Mounts",
+    "Ruy José",
+    "Sal Buscema",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2018-06-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/06/immortal-hulk-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/20286/",
+  "fetched_at": "2026-06-09T19:45:42.266Z",
+  "reviewed_at": null
+}

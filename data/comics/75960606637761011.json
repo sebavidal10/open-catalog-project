@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960606637761011",
+  "title": "Incredible Hulk #610",
+  "authors": [
+    "Alan Fine",
+    "Crimelab Studios",
+    "Dan Buckley",
+    "Danny Miki",
+    "Dean White",
+    "Frank D'Armata",
+    "Greg Pak",
+    "Irene Lee",
+    "Jeffrey Huet",
+    "Joe Quesada",
+    "John Rauch",
+    "John Romita Jr.",
+    "Jordan D. White",
+    "Klaus Janson",
+    "Mark Paniccia",
+    "Miguel Munera",
+    "Paul Pelletier",
+    "Scott Reed",
+    "Simon Bowland"
+  ],
+  "publish_date": "2010-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/01/incredible-hulk-610.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19934/",
+  "fetched_at": "2026-06-09T19:16:23.059Z",
+  "reviewed_at": "2010-08-01"
+}

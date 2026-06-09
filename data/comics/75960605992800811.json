@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960605992800811",
+  "title": "Hulk #8",
+  "authors": [
+    "Alan Fine",
+    "Albert Deschesne",
+    "Arthur Adams",
+    "Audrey Loeb",
+    "Chris Giarrusso",
+    "Comicraft",
+    "Dan Buckley",
+    "Frank Cho",
+    "Jason Keith",
+    "Jeph Loeb",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Nathan Cosby",
+    "Peter Steigerwald",
+    "Walden Wong"
+  ],
+  "publish_date": "2009-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/12/hulk-v2-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19188/",
+  "fetched_at": "2026-06-09T19:08:51.679Z",
+  "reviewed_at": "2009-01-01"
+}

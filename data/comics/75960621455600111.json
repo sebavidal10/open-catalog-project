@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960621455600111",
+  "title": "Hulk: Smash Everything #1",
+  "authors": [
+    "Adam Kubert",
+    "Adi Granov",
+    "Austin Hatch",
+    "C. B. Cebulski",
+    "Federico Blee",
+    "Gabriel Mata",
+    "Joe Caramagna",
+    "Jordan D. White",
+    "Kaeden McGahey",
+    "Luciano Vecchio",
+    "Mark Brooks",
+    "Martin Biro",
+    "Paulo Siqueira",
+    "Rachelle Rosenberg",
+    "Ryan North",
+    "Vincenzo Carratú"
+  ],
+  "publish_date": "2025-12-03",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/11/21/345893a25e2c4e6d9eb0d7843e510361.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/157372/",
+  "fetched_at": "2026-06-09T20:09:52.994Z",
+  "reviewed_at": null
+}

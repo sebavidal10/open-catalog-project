@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960605992801911",
+  "title": "Hulk #19",
+  "authors": [
+    "Alan Fine",
+    "Audrey Loeb",
+    "Comicraft",
+    "Dan Buckley",
+    "Dario Brizuela",
+    "Dave Stewart",
+    "Ed McGuinness",
+    "Irene Lee",
+    "Jeph Loeb",
+    "Joe Quesada",
+    "Mark Farmer",
+    "Marko Djurdjević",
+    "Mark Paniccia",
+    "Nathan Cosby",
+    "Richard Starkings"
+  ],
+  "publish_date": "2010-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/13/hulk-v2-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19199/",
+  "fetched_at": "2026-06-09T19:14:11.376Z",
+  "reviewed_at": "2010-03-01"
+}

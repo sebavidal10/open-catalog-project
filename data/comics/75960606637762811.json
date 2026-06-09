@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960606637762811",
+  "title": "Incredible Hulks #628",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Cory Hamscher",
+    "Dan Buckley",
+    "Doug Braithwaite",
+    "Edgar Delgado",
+    "Greg Pak",
+    "Irene Lee",
+    "Jake Thomas",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Simon Bowland",
+    "Sonia Oback",
+    "Tom Grummett"
+  ],
+  "publish_date": "2011-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/15/incredible-hulks-v1-628.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19302/",
+  "fetched_at": "2026-06-09T19:20:25.013Z",
+  "reviewed_at": "2011-07-01"
+}

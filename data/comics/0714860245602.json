@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "0714860245602",
+  "title": "The Incredible Hulk #208",
+  "authors": [
+    "Frank Giacoia",
+    "Glynis Oliver",
+    "Irving Watanabe",
+    "Joe Rosen",
+    "Joe Staton",
+    "Len Wein",
+    "Marie Severin",
+    "Sal Buscema"
+  ],
+  "publish_date": "1977-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/05/incredible-hulk-v2-208.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18894/",
+  "fetched_at": "2026-06-09T17:56:54.374Z",
+  "reviewed_at": "1977-02-01"
+}

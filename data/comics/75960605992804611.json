@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605992804611",
+  "title": "Hulk #46",
+  "authors": [
+    "Alan Fine",
+    "Andy Troy",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Ed Dukeshire",
+    "Jake Thomas",
+    "Jeff Parker",
+    "Joe Quesada",
+    "Manny Mederos",
+    "Mark Paniccia",
+    "Patrick Zircher",
+    "Rachelle Rosenberg"
+  ],
+  "publish_date": "2012-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v2-46.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19237/",
+  "fetched_at": "2026-06-09T19:23:31.998Z",
+  "reviewed_at": "2012-02-01"
+}

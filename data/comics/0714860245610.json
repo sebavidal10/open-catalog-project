@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "0714860245610",
+  "title": "The Incredible Hulk #204",
+  "authors": [
+    "Glynis Oliver",
+    "Herb Trimpe",
+    "Joe Staton",
+    "John Costanza",
+    "Len Wein"
+  ],
+  "publish_date": "1976-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/05/incredible-hulk-v2-204.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18890/",
+  "fetched_at": "2026-06-09T17:55:57.955Z",
+  "reviewed_at": "1976-10-01"
+}

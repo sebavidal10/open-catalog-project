@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "78960604494800311",
+  "title": "Rampaging Hulk #3",
+  "authors": [
+    "Bill Oakley",
+    "Bob Harras",
+    "Dan Green",
+    "Glenn Greenberg",
+    "Jaye Gardner",
+    "Rick Leonardi",
+    "Tom Smith"
+  ],
+  "publish_date": "1998-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/06/01/70a831cd22b4413fba920af66247ee0e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/120622/",
+  "fetched_at": "2026-06-09T18:40:59.870Z",
+  "reviewed_at": "1998-10-01"
+}

@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608333600411",
+  "title": "Totally Awesome Hulk #4",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "Darren Shan",
+    "Frank Cho",
+    "Greg Pak",
+    "Joe Quesada",
+    "Manny Mederos",
+    "Mark Paniccia",
+    "Meghan Hetrick",
+    "Sonia Oback"
+  ],
+  "publish_date": "2016-03-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/25/the-totally-awesome-hulk-4.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42463/",
+  "fetched_at": "2026-06-09T19:38:15.829Z",
+  "reviewed_at": null
+}

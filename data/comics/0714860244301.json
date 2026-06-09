@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "0714860244301",
+  "title": "Rampaging Hulk #1",
+  "authors": [
+    "Alfredo Alcala",
+    "Archie Goodwin",
+    "Doug Moench",
+    "John Buscema",
+    "John Warner",
+    "Ken Barr",
+    "Len Grow",
+    "Len Wein",
+    "Ralph Macchio",
+    "Rudy Nebres",
+    "Walter Simonson"
+  ],
+  "publish_date": "1977-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/10/309f801439104206a758bcbdbd179106.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/113830/",
+  "fetched_at": "2026-06-09T17:56:43.829Z",
+  "reviewed_at": "1977-01-01"
+}

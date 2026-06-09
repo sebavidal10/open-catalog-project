@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608956702611",
+  "title": "Immortal Hulk #26",
+  "authors": [
+    "Alan Fine",
+    "Al Ewing",
+    "Alex Ross",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Bennett",
+    "Joe Quesada",
+    "Paul Mounts",
+    "Ruy José",
+    "Sarah Brunstad",
+    "Tom Brevoort",
+    "Wil Moss"
+  ],
+  "publish_date": "2019-11-06",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/06/immortal-hulk-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/20311/",
+  "fetched_at": "2026-06-09T19:50:22.786Z",
+  "reviewed_at": null
+}

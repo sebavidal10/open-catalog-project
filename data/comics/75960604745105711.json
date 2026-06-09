@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604745105711",
+  "title": "Incredible Hulk #57",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Bruce Jones",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Leandro Fernández",
+    "Steve Buccellato",
+    "Warren Simons"
+  ],
+  "publish_date": "2003-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/19/incredible-hulk-v3-57.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19509/",
+  "fetched_at": "2026-06-09T18:51:32.195Z",
+  "reviewed_at": "2003-09-01"
+}

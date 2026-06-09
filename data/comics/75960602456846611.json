@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960602456846611",
+  "title": "The Incredible Hulk #466",
+  "authors": [
+    "Adam Kubert",
+    "Bobbie Chase",
+    "Bob Harras",
+    "John Workman",
+    "Mark Farmer",
+    "Peter David",
+    "Steve Buccellato"
+  ],
+  "publish_date": "1998-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/12/incredible-hulk-v2-466.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19172/",
+  "fetched_at": "2026-06-09T18:39:59.580Z",
+  "reviewed_at": "1998-07-01"
+}

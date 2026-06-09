@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960605714602811",
+  "title": "She-Hulk #28",
+  "authors": [
+    "Bill Rosemann",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Dave Kemp",
+    "Dave Meikis",
+    "Dave Sharpe",
+    "Greg Land",
+    "Irene Lee",
+    "Jay Leisten",
+    "Joe Quesada",
+    "Justin Ponsor",
+    "Lauren Sankovitch",
+    "Peter David",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Val Semeiks",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2008-04-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/16/she-hulk-v2-28.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19360/",
+  "fetched_at": "2026-06-09T19:06:36.513Z",
+  "reviewed_at": null
+}

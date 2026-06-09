@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960602456843411",
+  "title": "The Incredible Hulk #434",
+  "authors": [
+    "Al Milgrom",
+    "Bobbie Chase",
+    "Comicraft",
+    "Glynis Oliver",
+    "Justiniano",
+    "Peter David",
+    "Richard Starkings",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1995-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/11/incredible-hulk-v2-434.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19136/",
+  "fetched_at": "2026-06-09T18:34:14.571Z",
+  "reviewed_at": "1995-10-01"
+}

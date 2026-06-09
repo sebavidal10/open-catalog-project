@@ -1,0 +1,31 @@
+{
+  "title": "Model Shop",
+  "year": "1969",
+  "rated": "M",
+  "released": "01 Apr 1969",
+  "runtime": "97 min",
+  "genre": "Drama, Romance",
+  "director": "Jacques Demy",
+  "writer": "Jacques Demy, Carole Eastman",
+  "actors": "Anouk Aimée, Gary Lockwood, Alexandra Hay",
+  "plot": "George is unemployed, broke, about to be drafted to Vietnam, and suddenly madly in love with the divine Lola, a woman he has only briefly glimpsed. Now George searches for his potential amour through the City of Angels.",
+  "language": "English",
+  "country": "United States, France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAyZDI2NWMtOWM4Yy00NzMzLWIyMzQtNjFlNDgyNTFhNDM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0064679",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:33:28.820Z"
+}

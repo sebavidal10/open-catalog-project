@@ -1,0 +1,35 @@
+{
+  "title": "The Computer Wore Tennis Shoes",
+  "year": "1969",
+  "rated": "G",
+  "released": "24 Dec 1969",
+  "runtime": "91 min",
+  "genre": "Comedy, Family, Sci-Fi",
+  "director": "Robert Butler",
+  "writer": "Joseph L. McEveety",
+  "actors": "Kurt Russell, Cesar Romero, Joe Flynn",
+  "plot": "At Medfield College, an accident with a donated computer gives Dexter Riley the ability to remember any knowledge learned instantly and perfectly.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTg4MTM2NGUtZDgzNi00NzFlLWI1ZWEtZmE1YzEwNmNkZGFkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "metascore": "54",
+  "imdbRating": "6.0",
+  "imdbID": "tt0065566",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:32:54.625Z"
+}

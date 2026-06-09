@@ -1,0 +1,31 @@
+{
+  "title": "Pendulum",
+  "year": "1969",
+  "rated": "R",
+  "released": "14 Feb 1969",
+  "runtime": "106 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "George Schaefer",
+  "writer": "Stanley Niss",
+  "actors": "George Peppard, Jean Seberg, Richard Kiley",
+  "plot": "When police captain Frank Matthews is accused of murdering his adulterous wife and her lover he avoids arrest and sets out to find the killer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjk4ZGFlNTktYzZmNi00ZGM3LWE3NWQtNDM5NGZhZTRlMzU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "20%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0064797",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:33:19.418Z"
+}

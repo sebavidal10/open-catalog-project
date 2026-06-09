@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605714600511",
+  "title": "She-Hulk #5",
+  "authors": [
+    "Andy Schmidt",
+    "Aubrey Sitterson",
+    "Dan Buckley",
+    "Dan Slott",
+    "Dave Kemp",
+    "Dave Sharpe",
+    "Greg Horn",
+    "Joe Quesada",
+    "Juan Bobillo",
+    "Marcelo Sosa",
+    "Molly Lazer",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2006-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/15/she-hulk-v2-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19337/",
+  "fetched_at": "2026-06-09T18:58:45.736Z",
+  "reviewed_at": "2006-04-01"
+}

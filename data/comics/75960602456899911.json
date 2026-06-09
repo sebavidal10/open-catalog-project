@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960602456899911",
+  "title": "The Incredible Hulk #-1",
+  "authors": [
+    "Adam Kubert",
+    "Bobbie Chase",
+    "Bob Harras",
+    "Dan Brown",
+    "John Workman",
+    "Mark Farmer",
+    "Peter David"
+  ],
+  "publish_date": "1997-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/11/hulk--1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19160/",
+  "fetched_at": "2026-06-09T18:37:55.030Z",
+  "reviewed_at": "1997-07-01"
+}

@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608956703011",
+  "title": "Immortal Hulk #30",
+  "authors": [
+    "Al Ewing",
+    "Alex Ross",
+    "Belardino Brabo",
+    "Cam Smith",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Joe Bennett",
+    "Michael Del Mundo",
+    "Paul Mounts",
+    "Ruy José",
+    "Sarah Brunstad",
+    "Tom Brevoort",
+    "Wil Moss"
+  ],
+  "publish_date": "2020-01-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/06/immortal-hulk-30.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/20315/",
+  "fetched_at": "2026-06-09T19:50:53.498Z",
+  "reviewed_at": null
+}

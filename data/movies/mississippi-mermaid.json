@@ -1,0 +1,31 @@
+{
+  "title": "Mississippi Mermaid",
+  "year": "1969",
+  "rated": "R",
+  "released": "18 Jun 1969",
+  "runtime": "123 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "François Truffaut",
+  "writer": "Cornell Woolrich, François Truffaut",
+  "actors": "Catherine Deneuve, Jean-Paul Belmondo, Nelly Borgeaud",
+  "plot": "A wealthy plantation owner is captivated by a mysterious woman with a shady past.",
+  "language": "French",
+  "country": "France, Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGIzMmQwOTUtMGFmZC00Y2ZlLTg5YjYtMDM4ODg4MjAyODkyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0064990",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:32:05.216Z"
+}

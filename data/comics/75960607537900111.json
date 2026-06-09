@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960607537900111",
+  "title": "Hulk #30.1",
+  "authors": [
+    "Alan Fine",
+    "Audrey Loeb",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dario Brizuela",
+    "Ed Dukeshire",
+    "Gabriel Hardman",
+    "Irene Lee",
+    "Jake Thomas",
+    "Jeff Parker",
+    "Jim Charalampidis",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Mark Paniccia",
+    "Ron Garney",
+    "Tom Palmer"
+  ],
+  "publish_date": "2011-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/13/hulk-v2-30-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19211/",
+  "fetched_at": "2026-06-09T19:19:20.864Z",
+  "reviewed_at": "2011-05-01"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604745108611",
+  "title": "Incredible Hulk #86",
+  "authors": [
+    "Andy Brase",
+    "Carlos Lopez",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Jorge Lucas",
+    "MacKenzie Cadenhead",
+    "Mark Paniccia",
+    "Nathan Cosby",
+    "Peter David",
+    "Rus Wooton"
+  ],
+  "publish_date": "2005-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/20/incredible-hulk-v3-86.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19538/",
+  "fetched_at": "2026-06-09T18:57:26.330Z",
+  "reviewed_at": "2005-11-01"
+}

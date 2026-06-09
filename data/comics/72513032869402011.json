@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "72513032869402011",
+  "title": "Dejah Thoris #2",
+  "authors": [
+    "Chuck Brown",
+    "Ellie Wright",
+    "Emiliana Pinna",
+    "Jeff Eckleberry",
+    "Joseph Michael Linsner",
+    "Josh Burns",
+    "Joshua Swaby",
+    "Jung-Geun Yoon",
+    "Leirix Li",
+    "Nathan Cosby",
+    "Rebeca Puebla"
+  ],
+  "publish_date": "2023-04-19",
+  "publisher": [
+    "Dynamite Entertainment"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/04/11/61760589d14643319b6b6ce6d3c8d4d8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/115636/",
+  "fetched_at": "2026-06-09T20:37:20.344Z",
+  "reviewed_at": "2023-04-01"
+}

@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608956703211",
+  "title": "Immortal Hulk #32",
+  "authors": [
+    "Al Ewing",
+    "Alex Ross",
+    "Álvaro López",
+    "Belardino Brabo",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dave McCaig",
+    "Javier Rodríguez",
+    "Joe Bennett",
+    "Patrick Zircher",
+    "Paul Mounts",
+    "Ruy José",
+    "Sarah Brunstad",
+    "Tom Brevoort",
+    "Wil Moss"
+  ],
+  "publish_date": "2020-03-11",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/06/immortal-hulk-32.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/20317/",
+  "fetched_at": "2026-06-09T19:51:20.938Z",
+  "reviewed_at": null
+}

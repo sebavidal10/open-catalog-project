@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960609539102211",
+  "title": "Thor #22",
+  "authors": [
+    "Alanna Smith",
+    "C. B. Cebulski",
+    "David Talaski",
+    "Donny Cates",
+    "Joe Sabino",
+    "Kaitlyn Lindtvedt",
+    "Marc Aspinall",
+    "Matthew Wilson",
+    "Nic Klein",
+    "Wil Moss"
+  ],
+  "publish_date": "2022-02-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/02/01/thor-22.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/43543/",
+  "fetched_at": "2026-06-09T20:34:26.959Z",
+  "reviewed_at": null
+}

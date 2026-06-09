@@ -1,0 +1,35 @@
+{
+  "title": "The Assassination Bureau",
+  "year": "1969",
+  "rated": "PG",
+  "released": "21 Mar 1969",
+  "runtime": "110 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Basil Dearden",
+  "writer": "Michael Relph, Jack London, Robert L. Fish",
+  "actors": "Oliver Reed, Diana Rigg, Telly Savalas",
+  "plot": "A woman causes a group of assassins to face their greatest challenge.",
+  "language": "English, French, Italian",
+  "country": "United Kingdom",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmY5MWY1YWEtNzRlNS00NWY5LTk5YjUtZGE2NjFhZDQzYTcyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "6.4",
+  "imdbID": "tt0064045",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:32:19.322Z"
+}

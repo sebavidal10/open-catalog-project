@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "0714860245607",
+  "title": "The Incredible Hulk #201",
+  "authors": [
+    "Glynis Oliver",
+    "Joe Staton",
+    "John Costanza",
+    "John Romita Sr.",
+    "Len Wein",
+    "Marv Wolfman",
+    "Rich Buckler",
+    "Sal Buscema"
+  ],
+  "publish_date": "1976-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/03/incredible-hulk-v2-201.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18819/",
+  "fetched_at": "2026-06-09T17:55:28.156Z",
+  "reviewed_at": "1976-07-01"
+}

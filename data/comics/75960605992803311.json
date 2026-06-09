@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605992803311",
+  "title": "Hulk #33",
+  "authors": [
+    "Alan Fine",
+    "Audrey Loeb",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dario Brizuela",
+    "Ed Dukeshire",
+    "Elizabeth Breitweiser",
+    "Gabriel Hardman",
+    "Jake Thomas",
+    "Jeff Parker",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Randall Miller"
+  ],
+  "publish_date": "2011-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/13/hulk-v2-33.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19224/",
+  "fetched_at": "2026-06-09T19:20:18.377Z",
+  "reviewed_at": "2011-07-01"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Night They Raided Minsky's",
+  "year": "1968",
+  "rated": "PG-13",
+  "released": "09 May 1969",
+  "runtime": "99 min",
+  "genre": "Comedy",
+  "director": "William Friedkin",
+  "writer": "Arnold Schulman, Sidney Michaels, Norman Lear",
+  "actors": "Jason Robards, Britt Ekland, Norman Wisdom",
+  "plot": "A naive young Amish woman runs away from her home in Pennsylvania to New York City, where she hopes to act in religious stage plays but ends up performing in Burlesque theatre.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjAyNDA1MDc3MF5BMl5BanBnXkFtZTcwMTgxOTM2NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "6.0",
+  "imdbID": "tt0063348",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:22:25.358Z"
+}

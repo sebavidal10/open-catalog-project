@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604745109211",
+  "title": "Incredible Hulk #92",
+  "authors": [
+    "Carlo Pagulayan",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Greg Pak",
+    "Jeffrey Huet",
+    "Joe Quesada",
+    "José Ladrönn",
+    "Mark Paniccia",
+    "Nathan Cosby",
+    "Randy Gentile"
+  ],
+  "publish_date": "2006-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/20/incredible-hulk-v3-92.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19544/",
+  "fetched_at": "2026-06-09T18:58:41.643Z",
+  "reviewed_at": "2006-04-01"
+}

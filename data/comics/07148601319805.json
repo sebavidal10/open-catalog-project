@@ -1,0 +1,23 @@
+{
+  "isbn": null,
+  "upc": "07148601319805",
+  "title": "The Sensational She-Hulk #1",
+  "authors": [
+    "Bobbie Chase",
+    "Bob Wiacek",
+    "Glynis Oliver",
+    "John Byrne",
+    "John Workman",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1989-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/13/sensational-she-hulk-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2381/",
+  "fetched_at": "2026-06-09T18:19:11.869Z",
+  "reviewed_at": "1989-05-01"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Arrangement",
+  "year": "1969",
+  "rated": "R",
+  "released": "23 Dec 1969",
+  "runtime": "125 min",
+  "genre": "Drama, Romance",
+  "director": "Elia Kazan",
+  "writer": "Elia Kazan",
+  "actors": "Kirk Douglas, Faye Dunaway, Deborah Kerr",
+  "plot": "An adman attempts to rebuild his shattered life after suffering a nervous breakdown.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 3 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGMxYzM1MGYtZTVjZS00ZmFiLThkMmUtNGZmNDFhZTllOGI1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "15%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0064041",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:33:33.520Z"
+}

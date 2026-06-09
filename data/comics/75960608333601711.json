@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960608333601711",
+  "title": "Totally Awesome Hulk #17",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Greg Pak",
+    "Joe Quesada",
+    "Mahmud A. Asrar",
+    "Mark Paniccia",
+    "Mike Choi",
+    "Nolan Woodard"
+  ],
+  "publish_date": "2017-03-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/25/the-totally-awesome-hulk-17.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42476/",
+  "fetched_at": "2026-06-09T19:41:15.878Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960608956700711",
+  "title": "Immortal Hulk #7",
+  "authors": [
+    "Alan Fine",
+    "Al Ewing",
+    "Alex Ross",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Bennett",
+    "Joe Quesada",
+    "Maxx Lim",
+    "Mike Deodato",
+    "Paul Mounts",
+    "Rain Beredo",
+    "Ruy José",
+    "Sarah Brunstad",
+    "Tom Brevoort",
+    "Wil Moss"
+  ],
+  "publish_date": "2018-10-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/06/immortal-hulk-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/20292/",
+  "fetched_at": "2026-06-09T19:46:37.416Z",
+  "reviewed_at": null
+}

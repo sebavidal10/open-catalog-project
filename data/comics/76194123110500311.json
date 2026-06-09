@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "76194123110500311",
+  "title": "Justice League Adventures #3",
+  "authors": [
+    "Dan Raspler",
+    "Fabian Nicieza",
+    "John Delaney",
+    "John Kalisz",
+    "Kurt Hathaway",
+    "Randy Elliott",
+    "Stephen Wacker"
+  ],
+  "publish_date": "2002-03-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/05/05/74c8dde9ad1c4381883171af09f7a28c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/118196/",
+  "fetched_at": "2026-06-09T22:14:27.586Z",
+  "reviewed_at": "2002-03-01"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "0714860280003",
+  "title": "The Savage She-Hulk #2",
+  "authors": [
+    "Bob Sharen",
+    "Chic Stone",
+    "David Anthony Kraft",
+    "Jim Shooter",
+    "John Buscema",
+    "John Costanza",
+    "Mike Vosburg"
+  ],
+  "publish_date": "1980-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/05/12/savage-she-hulk-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/2357/",
+  "fetched_at": "2026-06-09T18:03:04.003Z",
+  "reviewed_at": "1980-03-01"
+}

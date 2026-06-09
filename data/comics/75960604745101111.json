@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960604745101111",
+  "title": "Hulk #11",
+  "authors": [
+    "Bob Harras",
+    "Jerry Ordway",
+    "John Workman",
+    "Ron Garney",
+    "Sal Buscema",
+    "Steve Buccellato",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2000-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2019/07/22/hulk-v1-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/3960/",
+  "fetched_at": "2026-06-09T18:43:54.355Z",
+  "reviewed_at": "2000-02-01"
+}

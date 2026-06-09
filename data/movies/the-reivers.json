@@ -1,0 +1,35 @@
+{
+  "title": "The Reivers",
+  "year": "1969",
+  "rated": "PG-13",
+  "released": "25 Dec 1969",
+  "runtime": "107 min",
+  "genre": "Comedy, Drama",
+  "director": "Mark Rydell",
+  "writer": "William Faulkner, Irving Ravetch, Harriet Frank Jr.",
+  "actors": "Steve McQueen, Sharon Farrell, Ruth White",
+  "plot": "In turn-of-the-century Mississippi, an 11-year-old boy comes of age as two mischievous adult friends talk him into sneaking the family car out for a trip to Memphis and a series of adventures.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzhhM2I2NDUtNjg1Yy00MWQxLThhM2MtYTA3YWE5ZGY3OTU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "6.6",
+  "imdbID": "tt0064886",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:33:14.710Z"
+}

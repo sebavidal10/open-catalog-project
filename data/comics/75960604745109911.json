@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604745109911",
+  "title": "Incredible Hulk #99",
+  "authors": [
+    "Aaron Lopresti",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Greg Pak",
+    "Joe Quesada",
+    "José Ladrönn",
+    "Mark Paniccia",
+    "Nathan Cosby",
+    "Randy Gentile",
+    "Sandu Florea"
+  ],
+  "publish_date": "2006-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/20/incredible-hulk-v3-99.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19551/",
+  "fetched_at": "2026-06-09T19:00:53.514Z",
+  "reviewed_at": "2006-12-01"
+}

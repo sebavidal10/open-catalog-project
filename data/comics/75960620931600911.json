@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960620931600911",
+  "title": "Red Hulk #9",
+  "authors": [
+    "Benjamin Percy",
+    "Bryan Valenza",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Drew Baumgartner",
+    "Gabriel Guzmán",
+    "Geoff Shaw",
+    "Lauren Amaro",
+    "Mark Paniccia",
+    "Marte Gracia",
+    "Mikey J. Basso",
+    "Stephen Platt"
+  ],
+  "publish_date": "2025-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/09/22/cfe0f55548f545c3b44196cb049cb36e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/155160/",
+  "fetched_at": "2026-06-09T20:09:14.314Z",
+  "reviewed_at": null
+}

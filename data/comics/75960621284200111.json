@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960621284200111",
+  "title": "Thor #1",
+  "authors": [
+    "Al Ewing",
+    "Alex Ross",
+    "C. B. Cebulski",
+    "Danny Khazem",
+    "David Marquez",
+    "Jeffrey Brown",
+    "Joe Quesada",
+    "Joe Sabino",
+    "J. Scott Campbell",
+    "Matt Hollingsworth",
+    "Pasqual Ferry",
+    "Patrick Gleason",
+    "Rachelle Rosenberg",
+    "Richard Isanove",
+    "Sabine Rich",
+    "Wil Moss"
+  ],
+  "publish_date": "2025-08-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/14/4ed81282f96c4c55b48b8a63dae0fe1a.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151656/",
+  "fetched_at": "2026-06-09T20:44:42.593Z",
+  "reviewed_at": null
+}

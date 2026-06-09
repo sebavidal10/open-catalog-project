@@ -1,0 +1,35 @@
+{
+  "title": "Monterey Pop",
+  "year": "1968",
+  "rated": "Not Rated",
+  "released": "23 Apr 1969",
+  "runtime": "78 min",
+  "genre": "Documentary, History, Music",
+  "director": "D.A. Pennebaker",
+  "writer": "N/A",
+  "actors": "Otis Redding, Jimi Hendrix, Ravi Shankar",
+  "plot": "A film about the greatest pre-Woodstock rock music festival.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzQyY2NmNDAtNjc3YS00ZDA4LTg5NzktMTRiNDhjZDZiYzY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.9",
+  "imdbID": "tt0064689",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:23:25.603Z"
+}

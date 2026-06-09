@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960602456847311",
+  "title": "The Incredible Hulk #473",
+  "authors": [
+    "Bob Harras",
+    "Javier Pulido",
+    "Joe Casey",
+    "John Workman",
+    "Marie Javins",
+    "Matt Idelson",
+    "Sean Parsons"
+  ],
+  "publish_date": "1999-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/12/incredible-hulk-v2-473.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19179/",
+  "fetched_at": "2026-06-09T18:41:57.882Z",
+  "reviewed_at": "1999-02-01"
+}

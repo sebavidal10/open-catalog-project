@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "72513032197801011",
+  "title": "Dejah Thoris Fairy Tales #1",
+  "authors": [
+    "Andres Labrada",
+    "Ellie Wright",
+    "Jeff Eckleberry",
+    "Jonathan Lau",
+    "Joseph Rybandt",
+    "Leirix Li",
+    "Matt Idelson",
+    "Nate Melendez",
+    "Nathan Cosby",
+    "Ron Marz",
+    "Sebastian Piriz",
+    "Sketch Ellis",
+    "Soo Lee",
+    "Stuart Sayger"
+  ],
+  "publish_date": "2022-08-24",
+  "publisher": [
+    "Dynamite Entertainment"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/02/28/615ec74f130942ebb0c56e84423fb71b.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/137010/",
+  "fetched_at": "2026-06-09T20:35:17.017Z",
+  "reviewed_at": "2022-08-01"
+}

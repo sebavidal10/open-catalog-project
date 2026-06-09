@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960620003000111",
+  "title": "Hulk #1",
+  "authors": [
+    "Alex Sinclair",
+    "Anthony Gambino",
+    "Arthur Adams",
+    "Brett Breeding",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dan Jurgens",
+    "Donny Cates",
+    "Ed McGuinness",
+    "Frank Martin",
+    "Herb Trimpe",
+    "Jason Keith",
+    "Kat Gregorowicz",
+    "Laura Martin",
+    "Peach Momoko",
+    "Ryan Ottley",
+    "Simone Bianchi",
+    "Wil Moss"
+  ],
+  "publish_date": "2021-11-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/11/02/hulk-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/40305/",
+  "fetched_at": "2026-06-09T19:56:08.817Z",
+  "reviewed_at": null
+}

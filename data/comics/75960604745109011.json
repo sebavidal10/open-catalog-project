@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604745109011",
+  "title": "Incredible Hulk #90",
+  "authors": [
+    "Brad Johansen",
+    "Brandon Peterson",
+    "Dan Buckley",
+    "Daniel Way",
+    "Joe Quesada",
+    "Juan Santacruz",
+    "Mark Paniccia",
+    "Nathan Cosby",
+    "Randy Gentile",
+    "William Murai"
+  ],
+  "publish_date": "2006-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/20/incredible-hulk-v3-90.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19542/",
+  "fetched_at": "2026-06-09T18:58:12.164Z",
+  "reviewed_at": "2006-02-01"
+}

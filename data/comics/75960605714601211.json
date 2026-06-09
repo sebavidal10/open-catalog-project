@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605714601211",
+  "title": "She-Hulk #12",
+  "authors": [
+    "Aubrey Sitterson",
+    "Avalon Studios",
+    "Cliff Rathburn",
+    "Dan Buckley",
+    "Dan Slott",
+    "Dave Kemp",
+    "Dave Sharpe",
+    "Greg Horn",
+    "Joe Quesada",
+    "Molly Lazer",
+    "Rick Burchett",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2006-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/15/she-hulk-v2-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19344/",
+  "fetched_at": "2026-06-09T19:00:43.808Z",
+  "reviewed_at": "2006-11-01"
+}

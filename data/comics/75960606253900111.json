@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960606253900111",
+  "title": "Hulk: Raging Thunder #1",
+  "authors": [
+    "Dan Buckley",
+    "Gerry Conway",
+    "Greg Land",
+    "Jay Leisten",
+    "Jeff Parker",
+    "Joe Quesada",
+    "Joe Sinnott",
+    "John Costanza",
+    "Mark Paniccia",
+    "Mitch Breitweiser",
+    "Moose Baumann",
+    "Nate Piekos",
+    "Nathan Cosby",
+    "Paul Acerios",
+    "Ramona Fradon",
+    "Roy Thomas",
+    "Sonia Oback",
+    "Stan Goldberg"
+  ],
+  "publish_date": "2008-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/20/hulk-raging-thunder.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19565/",
+  "fetched_at": "2026-06-09T19:07:14.361Z",
+  "reviewed_at": "2008-08-01"
+}

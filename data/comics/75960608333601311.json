@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608333601311",
+  "title": "Totally Awesome Hulk #13",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Bernard Chang",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Dono Sánchez-Almara",
+    "Elizabeth Torque",
+    "Germán Peralta",
+    "Greg Pak",
+    "Jay David Ramos",
+    "Joe Quesada",
+    "Luke Ross",
+    "Marcelo Maiolo",
+    "Mark Paniccia"
+  ],
+  "publish_date": "2016-12-14",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/25/the-totally-awesome-hulk-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42472/",
+  "fetched_at": "2026-06-09T19:40:07.084Z",
+  "reviewed_at": null
+}

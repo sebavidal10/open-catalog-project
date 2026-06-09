@@ -1,0 +1,31 @@
+{
+  "title": "Hot Millions",
+  "year": "1968",
+  "rated": "G",
+  "released": "17 Jan 1969",
+  "runtime": "106 min",
+  "genre": "Comedy, Crime",
+  "director": "Eric Till",
+  "writer": "Ira Wallach, Peter Ustinov",
+  "actors": "Peter Ustinov, Maggie Smith, Karl Malden",
+  "plot": "Paroled London fraudster Marcus Pendleton poses as a computer specialist in order to work for an insurance company that entirely relies on its corporate server.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 1 Oscar. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWQwOTgxZjktNGE2OC00MWIwLWFiZDAtMzBiZWJiMzE3ODIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0063094",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:23:05.541Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Oedipus the King",
+  "year": "1968",
+  "rated": "G",
+  "released": "14 Jun 1968",
+  "runtime": "97 min",
+  "genre": "Drama, History",
+  "director": "Philip Saville",
+  "writer": "Michael Luke, Paul Roche, Philip Saville",
+  "actors": "Christopher Plummer, Lilli Palmer, Richard Johnson",
+  "plot": "This classic (Greek) tale tells how a noble youth accidentally marries his own mother, kills his own father (deliberately) and ends up paying a terrible price for invoking the wrath of the Gods.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWJhODliNWQtZWMyMC00YTMwLWI2MmItMDY2NzU3MmMwM2M1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0063376",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:25:23.692Z"
+}

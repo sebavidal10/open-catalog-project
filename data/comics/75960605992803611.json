@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605992803611",
+  "title": "Hulk #36",
+  "authors": [
+    "Alan Fine",
+    "Audrey Loeb",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Dario Brizuela",
+    "Ed Dukeshire",
+    "Irene Lee",
+    "Jake Thomas",
+    "Jeff Parker",
+    "Jim Charalampidis",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Patrick Zircher"
+  ],
+  "publish_date": "2011-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/13/hulk-v2-36.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19227/",
+  "fetched_at": "2026-06-09T19:21:13.118Z",
+  "reviewed_at": "2011-09-01"
+}

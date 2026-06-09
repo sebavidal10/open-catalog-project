@@ -1,0 +1,37 @@
+{
+  "isbn": null,
+  "upc": "75960604745110011",
+  "title": "Incredible Hulk #100",
+  "authors": [
+    "Artie Simek",
+    "Carlo Pagulayan",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Dick Ayers",
+    "Frank Giacoia",
+    "Gary Frank",
+    "Gary Friedrich",
+    "Greg Pak",
+    "Herb Trimpe",
+    "Jack Kirby",
+    "Jeffrey Huet",
+    "Joe Quesada",
+    "John Severin",
+    "Jonathan Sibal",
+    "José Ladrönn",
+    "Mark Paniccia",
+    "Nathan Cosby",
+    "Randy Gentile",
+    "Stan Lee"
+  ],
+  "publish_date": "2007-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/20/incredible-hulk-v3-100.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19552/",
+  "fetched_at": "2026-06-09T19:01:08.327Z",
+  "reviewed_at": "2007-01-01"
+}

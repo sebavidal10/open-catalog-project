@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960602456847011",
+  "title": "The Incredible Hulk #470",
+  "authors": [
+    "Bobbie Chase",
+    "Bob Harras",
+    "Ed McGuinness",
+    "Joe Casey",
+    "John Workman",
+    "Nathan Massengill",
+    "Steve Buccellato"
+  ],
+  "publish_date": "1998-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/12/incredible-hulk-v2-470.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19176/",
+  "fetched_at": "2026-06-09T18:41:11.030Z",
+  "reviewed_at": "1998-11-01"
+}

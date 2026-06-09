@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960606637763211",
+  "title": "Incredible Hulks #632",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Danny Miki",
+    "Dan Remollino",
+    "Greg Pak",
+    "Jake Thomas",
+    "Jesus Aburtov",
+    "Jim Charalampidis",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Morry Hollowell",
+    "Paul Pelletier",
+    "Simon Bowland"
+  ],
+  "publish_date": "2011-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/15/incredible-hulks-v1-632.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19306/",
+  "fetched_at": "2026-06-09T19:21:26.572Z",
+  "reviewed_at": "2011-09-01"
+}

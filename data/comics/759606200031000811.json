@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "759606200031000811",
+  "title": "Hulk #8",
+  "authors": [
+    "Anthony Gambino",
+    "Brad Anderson",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Daniel Warren Johnson",
+    "Donny Cates",
+    "Federico Blee",
+    "Gary Frank",
+    "Geoff Shaw",
+    "Jay Bowen",
+    "Martín Cóccolo",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Russell Dauterman",
+    "Taurin Clarke",
+    "Wil Moss"
+  ],
+  "publish_date": "2022-08-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/08/08/hulk-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/51001/",
+  "fetched_at": "2026-06-09T19:58:28.465Z",
+  "reviewed_at": null
+}

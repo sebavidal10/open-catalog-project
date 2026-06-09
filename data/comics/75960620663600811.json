@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960620663600811",
+  "title": "The Incredible Hulk #8",
+  "authors": [
+    "Adam Del Re",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Chad Hardin",
+    "Cory Petit",
+    "Dustin Nguyen",
+    "Israel Silva",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Nic Klein",
+    "Phillip Kennedy Johnson",
+    "Wil Moss"
+  ],
+  "publish_date": "2024-01-31",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/01/26/9abb4ecd72ca4d0894a4e449257e1d89.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/107206/",
+  "fetched_at": "2026-06-09T20:03:16.372Z",
+  "reviewed_at": null
+}

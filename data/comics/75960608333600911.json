@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960608333600911",
+  "title": "Totally Awesome Hulk #9",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Greg Pak",
+    "Joe Quesada",
+    "Marco D'Alfonso",
+    "Mark Paniccia",
+    "Michael Del Mundo",
+    "Rachel Dodson",
+    "Terry Dodson"
+  ],
+  "publish_date": "2016-07-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/25/the-totally-awesome-hulk-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42468/",
+  "fetched_at": "2026-06-09T19:39:04.579Z",
+  "reviewed_at": null
+}

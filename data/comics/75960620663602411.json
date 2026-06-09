@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960620663602411",
+  "title": "The Incredible Hulk #24",
+  "authors": [
+    "Adam Del Re",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Chris Giarrusso",
+    "Cory Petit",
+    "Jordan D. White",
+    "Kaeden McGahey",
+    "Kevin Walker",
+    "Matthew Wilson",
+    "Nic Klein",
+    "Phillip Kennedy Johnson"
+  ],
+  "publish_date": "2025-04-09",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/25/a0456b3555bb455a9a7219c1c4cbaf24.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/140619/",
+  "fetched_at": "2026-06-09T20:07:26.988Z",
+  "reviewed_at": null
+}

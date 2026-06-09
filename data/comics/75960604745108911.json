@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604745108911",
+  "title": "Incredible Hulk #89",
+  "authors": [
+    "Brandon Peterson",
+    "Dan Buckley",
+    "Daniel Way",
+    "Joe Quesada",
+    "Keu Cha",
+    "Mark Paniccia",
+    "Nathan Cosby",
+    "Randy Gentile",
+    "William Murai"
+  ],
+  "publish_date": "2006-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/20/incredible-hulk-v3-89.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19541/",
+  "fetched_at": "2026-06-09T18:57:58.928Z",
+  "reviewed_at": "2006-01-01"
+}

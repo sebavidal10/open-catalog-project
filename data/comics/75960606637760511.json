@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960606637760511",
+  "title": "Incredible Hulk #605",
+  "authors": [
+    "Alan Fine",
+    "Ariel Olivetti",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Danny Miki",
+    "Fred Van Lente",
+    "Greg Pak",
+    "Guru-eFX",
+    "Irene Lee",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Mark Paniccia",
+    "Michael Ryan",
+    "Paul Pelletier",
+    "Sergio Ariño",
+    "Simon Bowland"
+  ],
+  "publish_date": "2010-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/01/incredible-hulk-605.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19929/",
+  "fetched_at": "2026-06-09T19:13:53.416Z",
+  "reviewed_at": "2010-02-01"
+}

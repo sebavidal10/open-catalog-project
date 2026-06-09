@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960620403800111",
+  "title": "Thor: Lightning and Lament #1",
+  "authors": [
+    "Alanna Smith",
+    "C. B. Cebulski",
+    "Israel Silva",
+    "Joe Sabino",
+    "Kaitlyn Lindtvedt",
+    "Logan Lubera",
+    "Rachelle Rosenberg",
+    "Ralph Macchio",
+    "Ron Lim",
+    "Todd Nauck",
+    "Wil Moss"
+  ],
+  "publish_date": "2022-06-29",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/06/22/thor-lightning-1.webp",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/49700/",
+  "fetched_at": "2026-06-09T20:35:32.566Z",
+  "reviewed_at": null
+}

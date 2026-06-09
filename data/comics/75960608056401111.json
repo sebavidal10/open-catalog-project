@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960608056401111",
+  "title": "Hulk #11",
+  "authors": [
+    "Alan Fine",
+    "Andrew Hennessy",
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "Emily Shaw",
+    "Gerry Duggan",
+    "Jason Keith",
+    "Joe Quesada",
+    "Mark Bagley",
+    "Mark Paniccia"
+  ],
+  "publish_date": "2015-02-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v3-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19269/",
+  "fetched_at": "2026-06-09T19:35:29.108Z",
+  "reviewed_at": null
+}

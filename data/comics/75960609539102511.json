@@ -1,0 +1,41 @@
+{
+  "isbn": null,
+  "upc": "75960609539102511",
+  "title": "Thor #25",
+  "authors": [
+    "Alanna Smith",
+    "Anthony Gambino",
+    "Brad Anderson",
+    "C. B. Cebulski",
+    "Chrissie Zullo",
+    "Donny Cates",
+    "Federico Blee",
+    "Gary Frank",
+    "Geoff Shaw",
+    "Israel Silva",
+    "Jason Keith",
+    "Jay Bowen",
+    "Joe Sabino",
+    "John Romita Jr.",
+    "J. Scott Campbell",
+    "Kaitlyn Lindtvedt",
+    "Klaus Janson",
+    "Martín Cóccolo",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Ron Lim",
+    "Sabine Rich",
+    "Sanford Greene",
+    "Wil Moss"
+  ],
+  "publish_date": "2022-05-18",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/02/thor-25.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47357/",
+  "fetched_at": "2026-06-09T20:35:04.202Z",
+  "reviewed_at": null
+}

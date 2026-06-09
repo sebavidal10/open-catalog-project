@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960620663602911",
+  "title": "The Incredible Hulk #29",
+  "authors": [
+    "Adam Del Re",
+    "Adam Gorham",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Chris Campana",
+    "Cory Petit",
+    "Edgar Delgado",
+    "Herb Trimpe",
+    "James Kerigan",
+    "Jordan D. White",
+    "Kaeden McGahey",
+    "Matthew Wilson",
+    "Mostafa Moussa",
+    "Nic Klein",
+    "Phillip Kennedy Johnson",
+    "Skan Srisuwan"
+  ],
+  "publish_date": "2025-09-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/09/05/ecd20492fd184e178cad690589a95a1f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/153104/",
+  "fetched_at": "2026-06-09T20:08:54.393Z",
+  "reviewed_at": null
+}

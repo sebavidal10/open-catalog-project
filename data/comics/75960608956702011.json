@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960608956702011",
+  "title": "Immortal Hulk #20",
+  "authors": [
+    "Alan Fine",
+    "Al Ewing",
+    "Alex Ross",
+    "Belardino Brabo",
+    "Brian Level",
+    "C. B. Cebulski",
+    "Clayton Cowles",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Bennett",
+    "Joe Quesada",
+    "Marc Deering",
+    "Nick Bradshaw",
+    "Paul Mounts",
+    "Rachelle Rosenberg",
+    "Ruy José",
+    "Sarah Brunstad",
+    "Tom Brevoort",
+    "Wil Moss"
+  ],
+  "publish_date": "2019-07-03",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/06/immortal-hulk-20.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/20305/",
+  "fetched_at": "2026-06-09T19:49:05.582Z",
+  "reviewed_at": null
+}

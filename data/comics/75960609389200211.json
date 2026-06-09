@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960609389200211",
+  "title": "Hulkverines #2",
+  "authors": [
+    "Alan Fine",
+    "C. B. Cebulski",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Dean White",
+    "Frank D'Armata",
+    "Greg Land",
+    "Greg Pak",
+    "Guiu Vilanova",
+    "Jay Leisten",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Morry Hollowell",
+    "Sarah Brunstad",
+    "Tom Brevoort",
+    "Tony Moore",
+    "Wil Moss"
+  ],
+  "publish_date": "2019-03-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/16/hulkverines-2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/48036/",
+  "fetched_at": "2026-06-09T19:47:53.500Z",
+  "reviewed_at": null
+}

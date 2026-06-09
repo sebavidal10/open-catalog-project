@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194137344700511",
+  "title": "The Joker Presents: A Puzzlebox #5",
+  "authors": [
+    "Chip Zdarsky",
+    "Chris Mooneyham",
+    "Ferran Delgado",
+    "Freddie E. Williams II",
+    "Jesús Merino",
+    "Matthew Rosenberg",
+    "Roman Stevens",
+    "Ulises Arreola"
+  ],
+  "publish_date": "2021-12-07",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/03/03/1395f1d579bf474893044780fe3400e9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/163232/",
+  "fetched_at": "2026-06-09T20:26:15.682Z",
+  "reviewed_at": null
+}

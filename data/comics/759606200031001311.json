@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "759606200031001311",
+  "title": "Hulk #13",
+  "authors": [
+    "Alex Ross",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Cliff Rathburn",
+    "Cory Petit",
+    "Frank D'Armata",
+    "Marte Gracia",
+    "Michelle Marchese",
+    "Peach Momoko",
+    "Ryan Ottley",
+    "Steve McNiven",
+    "Wil Moss"
+  ],
+  "publish_date": "2023-03-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/03/05/hulk-13.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/57306/",
+  "fetched_at": "2026-06-09T20:00:33.164Z",
+  "reviewed_at": null
+}

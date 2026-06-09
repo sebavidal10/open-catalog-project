@@ -1,0 +1,35 @@
+{
+  "title": "Army of Shadows",
+  "year": "1969",
+  "rated": "Not Rated",
+  "released": "19 Jun 1970",
+  "runtime": "145 min",
+  "genre": "Drama, War",
+  "director": "Jean-Pierre Melville",
+  "writer": "Joseph Kessel, Jean-Pierre Melville",
+  "actors": "Lino Ventura, Paul Meurisse, Jean-Pierre Cassel",
+  "plot": "An account of underground resistance fighters in Nazi-occupied France.",
+  "language": "French, German, English",
+  "country": "France, Italy",
+  "awards": "4 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQxZGZhOTctM2MyYi00OGZkLTgwOWItNThlNjJkNWEwOWM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "99/100"
+    }
+  ],
+  "metascore": "99",
+  "imdbRating": "8.1",
+  "imdbID": "tt0064040",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:31:56.972Z"
+}

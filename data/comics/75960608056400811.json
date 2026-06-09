@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960608056400811",
+  "title": "Hulk #8",
+  "authors": [
+    "Alan Fine",
+    "Andrew Hennessy",
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "Emily Shaw",
+    "Gerry Duggan",
+    "Jason Keith",
+    "Joe Quesada",
+    "Jordie Bellaire",
+    "Mark Bagley",
+    "Mark Paniccia",
+    "Tom Fowler"
+  ],
+  "publish_date": "2014-11-05",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v3-8.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19266/",
+  "fetched_at": "2026-06-09T19:34:22.458Z",
+  "reviewed_at": null
+}

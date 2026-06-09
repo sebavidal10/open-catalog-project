@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960606637762111",
+  "title": "Incredible Hulks #621",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Carlo Pagulayan",
+    "Crimelab Studios",
+    "Dan Buckley",
+    "Danny Miki",
+    "Frank D'Armata",
+    "Greg Pak",
+    "Irene Lee",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Joshua Williamson",
+    "Mark Paniccia",
+    "Michael Jason Paz",
+    "Paul Mounts",
+    "Paul Pelletier",
+    "Sana Takeda",
+    "Simon Bowland"
+  ],
+  "publish_date": "2011-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/15/incredible-hulks-v1-621.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19295/",
+  "fetched_at": "2026-06-09T19:18:37.191Z",
+  "reviewed_at": "2011-03-01"
+}

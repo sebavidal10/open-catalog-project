@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960602456844911",
+  "title": "The Incredible Hulk #449",
+  "authors": [
+    "Bobbie Chase",
+    "Bob Harras",
+    "Glynis Oliver",
+    "Mike Deodato",
+    "Peter David",
+    "Richard Starkings",
+    "Tom Wegrzyn"
+  ],
+  "publish_date": "1997-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/11/incredible-hulk-v2-449.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19151/",
+  "fetched_at": "2026-06-09T18:36:44.570Z",
+  "reviewed_at": "1997-01-01"
+}

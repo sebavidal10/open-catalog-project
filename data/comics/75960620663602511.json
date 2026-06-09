@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960620663602511",
+  "title": "The Incredible Hulk #25",
+  "authors": [
+    "Adam Del Re",
+    "Alex Ross",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Chris Giarrusso",
+    "Cory Petit",
+    "Jordan D. White",
+    "Kaeden McGahey",
+    "Matthew Wilson",
+    "Nic Klein",
+    "Paulo Siqueira",
+    "Phillip Kennedy Johnson",
+    "Richard Isanove"
+  ],
+  "publish_date": "2025-05-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/05/08/0ea21f74b43340a3bdb3888e7800b1bb.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/145413/",
+  "fetched_at": "2026-06-09T20:07:46.316Z",
+  "reviewed_at": null
+}

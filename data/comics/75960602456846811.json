@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960602456846811",
+  "title": "The Incredible Hulk #468",
+  "authors": [
+    "Bobbie Chase",
+    "Bob Harras",
+    "Javier Pulido",
+    "Joe Casey",
+    "John Workman",
+    "Larry Mahlstedt",
+    "Marie Javins"
+  ],
+  "publish_date": "1998-09-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/12/incredible-hulk-v2-468.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19174/",
+  "fetched_at": "2026-06-09T18:40:41.728Z",
+  "reviewed_at": "1998-09-01"
+}

@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960608056400711",
+  "title": "Hulk #7",
+  "authors": [
+    "Alan Fine",
+    "Andrew Hennessy",
+    "Axel Alonso",
+    "Brad Anderson",
+    "Cory Petit",
+    "Dan Buckley",
+    "David Marquez",
+    "Edgar Delgado",
+    "Emily Shaw",
+    "Gary Frank",
+    "Gerry Duggan",
+    "Jason Keith",
+    "Joe Quesada",
+    "Mark Bagley",
+    "Mark Paniccia",
+    "Pascal Campion"
+  ],
+  "publish_date": "2014-10-15",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v3-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19265/",
+  "fetched_at": "2026-06-09T19:33:58.417Z",
+  "reviewed_at": null
+}

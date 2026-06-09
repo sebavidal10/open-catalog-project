@@ -1,0 +1,35 @@
+{
+  "title": "Inspector Clouseau",
+  "year": "1968",
+  "rated": "G",
+  "released": "19 Jul 1968",
+  "runtime": "96 min",
+  "genre": "Comedy, Crime, Mystery",
+  "director": "Bud Yorkin",
+  "writer": "Blake Edwards, Maurice Richlin, Tom Waldman",
+  "actors": "Alan Arkin, Frank Finlay, Delia Boccardo",
+  "plot": "A string of robberies has occurred in Britain and it's up to Inspector Clouseau to catch the criminal.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWQzOGNiNTEtNjZjNi00YTQ2LWExMmEtNzJmZTJlNTZjN2VjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "0%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "35/100"
+    }
+  ],
+  "metascore": "35",
+  "imdbRating": "4.7",
+  "imdbID": "tt0063135",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:22:10.996Z"
+}

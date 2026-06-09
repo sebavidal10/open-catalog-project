@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960621361000111",
+  "title": "The Infernal Hulk #1",
+  "authors": [
+    "Austin Hatch",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dan Panosian",
+    "Jesus Aburtov",
+    "Jordan D. White",
+    "Kaeden McGahey",
+    "Martin Biro",
+    "Matthew Wilson",
+    "Nic Klein",
+    "Phillip Kennedy Johnson",
+    "Stephen Segovia"
+  ],
+  "publish_date": "2025-11-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/11/16/43bde7bd00bd4a70b527e2f3b724aeab.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/157200/",
+  "fetched_at": "2026-06-09T20:09:34.599Z",
+  "reviewed_at": null
+}

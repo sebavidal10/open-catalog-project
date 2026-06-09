@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960608956702711",
+  "title": "Immortal Hulk #27",
+  "authors": [
+    "Alan Fine",
+    "Al Ewing",
+    "Alex Ross",
+    "Belardino Brabo",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dan Buckley",
+    "Joe Bennett",
+    "Joe Quesada",
+    "Marc Deering",
+    "Paul Mounts",
+    "Rachelle Rosenberg",
+    "Ruy José",
+    "Sarah Brunstad",
+    "Sean Parsons",
+    "Tom Brevoort",
+    "Tom Raney",
+    "Wil Moss"
+  ],
+  "publish_date": "2019-11-20",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/06/immortal-hulk-27.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/20312/",
+  "fetched_at": "2026-06-09T19:50:27.612Z",
+  "reviewed_at": null
+}

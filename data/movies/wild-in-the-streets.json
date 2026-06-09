@@ -1,0 +1,31 @@
+{
+  "title": "Wild in the Streets",
+  "year": "1968",
+  "rated": "R",
+  "released": "29 May 1968",
+  "runtime": "97 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "Barry Shear",
+  "writer": "Robert Thom",
+  "actors": "Christopher Jones, Shelley Winters, Diane Varsi",
+  "plot": "A young man gains significant political influence as the leader of a counterculture rock band with his rallying cry of voting rights for teenagers.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGRkMWFiMGMtOGU1Yi00OGU2LWI2OWQtOTQ1NDc5ZDMyZmRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0063808",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:22:02.793Z"
+}

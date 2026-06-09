@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604745101911",
+  "title": "Incredible Hulk #19",
+  "authors": [
+    "Bill Jemas",
+    "Bob Harras",
+    "Kyle Hotz",
+    "Marc Sumerak",
+    "Paul Jenkins",
+    "Ron Garney",
+    "Sal Buscema",
+    "Steve Buccellato",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2000-10-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/17/incredible-hulk-v3-19.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19412/",
+  "fetched_at": "2026-06-09T18:45:14.621Z",
+  "reviewed_at": "2000-10-01"
+}

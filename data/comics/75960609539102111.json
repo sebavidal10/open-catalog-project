@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960609539102111",
+  "title": "Thor #21",
+  "authors": [
+    "Alanna Smith",
+    "C. B. Cebulski",
+    "Creees Lee",
+    "Donny Cates",
+    "Jim Cheung",
+    "Joe Sabino",
+    "Kaitlyn Lindtvedt",
+    "Matthew Wilson",
+    "Michael Walsh",
+    "Nic Klein",
+    "Rachelle Rosenberg",
+    "Wil Moss"
+  ],
+  "publish_date": "2022-01-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/11/thor-21.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42931/",
+  "fetched_at": "2026-06-09T20:34:16.388Z",
+  "reviewed_at": null
+}

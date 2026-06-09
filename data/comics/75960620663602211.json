@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960620663602211",
+  "title": "The Incredible Hulk #22",
+  "authors": [
+    "Adam Del Re",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Jordan D. White",
+    "Kaeden McGahey",
+    "Marcelo Maiolo",
+    "Mark Brooks",
+    "Matthew Wilson",
+    "Nic Klein",
+    "Phillip Kennedy Johnson",
+    "Rogê Antônio"
+  ],
+  "publish_date": "2025-02-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/02/09/39834c7f8f2e4f2f93e7334070d56be3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/135284/",
+  "fetched_at": "2026-06-09T20:06:49.426Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960620663602311",
+  "title": "The Incredible Hulk #23",
+  "authors": [
+    "Adam Del Re",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Jordan D. White",
+    "Kaeden McGahey",
+    "Matthew Wilson",
+    "Mitsuhiro Arita",
+    "Nic Klein",
+    "Peach Momoko",
+    "Phillip Kennedy Johnson"
+  ],
+  "publish_date": "2025-03-26",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/03/16/2c2df7419bad488c98720ccf045c9366.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/138714/",
+  "fetched_at": "2026-06-09T20:07:06.665Z",
+  "reviewed_at": null
+}

@@ -1,0 +1,36 @@
+{
+  "isbn": null,
+  "upc": "75960608333600111",
+  "title": "Totally Awesome Hulk #1",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Roberson",
+    "Cory Petit",
+    "Dale Keown",
+    "Dan Buckley",
+    "Darren Shan",
+    "Dave McCaig",
+    "David Curiel",
+    "Frank Cho",
+    "Greg Pak",
+    "Jason Keith",
+    "Joe Quesada",
+    "John Tyler Christopher",
+    "Mahmud A. Asrar",
+    "Manny Mederos",
+    "Mark Paniccia",
+    "Sonia Oback",
+    "Woo-Chul Lee"
+  ],
+  "publish_date": "2015-12-02",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/25/the-totally-awesome-hulk-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42460/",
+  "fetched_at": "2026-06-09T19:37:42.865Z",
+  "reviewed_at": null
+}

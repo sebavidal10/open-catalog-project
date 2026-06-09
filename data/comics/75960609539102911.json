@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960609539102911",
+  "title": "Thor #29",
+  "authors": [
+    "Alejandro Sánchez",
+    "C. B. Cebulski",
+    "Edgar Delgado",
+    "Joe Sabino",
+    "Kaare Andrews",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Nic Klein",
+    "Olivier Coipel",
+    "Salvador Larroca",
+    "Torunn Grønbekk",
+    "Wil Moss"
+  ],
+  "publish_date": "2022-12-07",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/11/25/thor-29.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/53123/",
+  "fetched_at": "2026-06-09T20:36:47.484Z",
+  "reviewed_at": null
+}

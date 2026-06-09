@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "759606200031000311",
+  "title": "Hulk #3",
+  "authors": [
+    "Alanna Smith",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Cliff Rathburn",
+    "Cory Petit",
+    "David Nakayama",
+    "Donny Cates",
+    "Federico Blee",
+    "Frank Martin",
+    "Heather Moore",
+    "Jim Cheung",
+    "Kaitlyn Lindtvedt",
+    "Ryan Ottley",
+    "Tradd Moore",
+    "Wil Moss"
+  ],
+  "publish_date": "2022-01-19",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/01/03/hulk-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42706/",
+  "fetched_at": "2026-06-09T19:56:33.449Z",
+  "reviewed_at": null
+}

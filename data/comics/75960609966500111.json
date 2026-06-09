@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960609966500111",
+  "title": "Hulk: Grand Design #1",
+  "authors": [
+    "Alanna Smith",
+    "C. B. Cebulski",
+    "Ed Piskor",
+    "Jim Rugg",
+    "Kaitlyn Lindtvedt",
+    "Marcos Martín",
+    "Peach Momoko",
+    "Wil Moss"
+  ],
+  "publish_date": "2022-03-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/03/29/hulk-grand-design-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/45821/",
+  "fetched_at": "2026-06-09T19:57:09.508Z",
+  "reviewed_at": null
+}

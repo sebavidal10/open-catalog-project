@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960607292700911",
+  "title": "The Incredible Hulk #9",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Jake Thomas",
+    "Jason Aaron",
+    "Jesus Aburtov",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Michael Komarck",
+    "Pasqual Ferry",
+    "Rex Lokus"
+  ],
+  "publish_date": "2012-06-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/16/incredible-hulk-v4-9.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19396/",
+  "fetched_at": "2026-06-09T19:25:37.481Z",
+  "reviewed_at": null
+}

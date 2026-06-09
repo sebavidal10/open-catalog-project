@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960605992804311",
+  "title": "Hulk #43",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Damien Lucchese",
+    "Dan Buckley",
+    "Ed Dukeshire",
+    "Jake Thomas",
+    "Jeff Parker",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Patrick Zircher",
+    "Rachelle Rosenberg",
+    "Val Staples"
+  ],
+  "publish_date": "2011-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v2-43.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19234/",
+  "fetched_at": "2026-06-09T19:22:43.375Z",
+  "reviewed_at": "2011-12-01"
+}

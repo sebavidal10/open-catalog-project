@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960607292701511",
+  "title": "The Incredible Hulk #15",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Eliopoulos",
+    "Dale Keown",
+    "Dan Buckley",
+    "Edgar Delgado",
+    "Ed McGuinness",
+    "Frank Martin",
+    "Jason Aaron",
+    "Jefte Palo",
+    "Joe Quesada",
+    "Jon Moisan",
+    "Mark Paniccia"
+  ],
+  "publish_date": "2012-10-24",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/16/incredible-hulk-v4-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19402/",
+  "fetched_at": "2026-06-09T19:26:52.747Z",
+  "reviewed_at": null
+}

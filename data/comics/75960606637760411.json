@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960606637760411",
+  "title": "Incredible Hulk #604",
+  "authors": [
+    "Alan Fine",
+    "Ariel Olivetti",
+    "Cam Smith",
+    "Dan Buckley",
+    "Elizabeth Breitweiser",
+    "Fred Van Lente",
+    "Giuseppe Camuncoli",
+    "Greg Pak",
+    "Guru-eFX",
+    "Irene Lee",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Mark Paniccia",
+    "Michael Ryan",
+    "Simon Bowland"
+  ],
+  "publish_date": "2010-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/01/incredible-hulk-604.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19928/",
+  "fetched_at": "2026-06-09T19:13:22.522Z",
+  "reviewed_at": "2010-01-01"
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604745110711",
+  "title": "Incredible Hulk #107",
+  "authors": [
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Gary Frank",
+    "Greg Pak",
+    "Joe Caramagna",
+    "Joe Quesada",
+    "Jonathan Sibal",
+    "Mark Paniccia",
+    "Nathan Cosby"
+  ],
+  "publish_date": "2007-08-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/20/incredible-hulk-v3-107.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19559/",
+  "fetched_at": "2026-06-09T19:02:56.106Z",
+  "reviewed_at": "2007-08-01"
+}

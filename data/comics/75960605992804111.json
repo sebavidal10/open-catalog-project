@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605992804111",
+  "title": "Hulk #41",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Dan Buckley",
+    "Ed Dukeshire",
+    "Elizabeth Breitweiser",
+    "Gabriel Hardman",
+    "Jake Thomas",
+    "Jeff Parker",
+    "Joe Quesada",
+    "Manny Mederos",
+    "Mark Paniccia"
+  ],
+  "publish_date": "2011-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/13/hulk-v2-41.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19232/",
+  "fetched_at": "2026-06-09T19:22:20.954Z",
+  "reviewed_at": "2011-11-01"
+}

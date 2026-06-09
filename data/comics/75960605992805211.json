@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605992805211",
+  "title": "Hulk #52",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Carlo Pagulayan",
+    "Clayton Cowles",
+    "Cory Petit",
+    "Dan Buckley",
+    "Jake Thomas",
+    "Jeff Parker",
+    "Joe Quesada",
+    "Juan Vlasco",
+    "Mark Paniccia",
+    "Michael Jason Paz",
+    "Val Staples"
+  ],
+  "publish_date": "2012-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v2-52.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19243/",
+  "fetched_at": "2026-06-09T19:24:59.291Z",
+  "reviewed_at": "2012-07-01"
+}

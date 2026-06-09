@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960621361000311",
+  "title": "The Infernal Hulk #3",
+  "authors": [
+    "Austin Hatch",
+    "Cam Smith",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Clayton Crain",
+    "Cory Petit",
+    "Jesus Aburtov",
+    "Jordan D. White",
+    "Kaeden McGahey",
+    "Kevin Walker",
+    "Martin Biro",
+    "Matthew Wilson",
+    "Nic Klein",
+    "Phillip Kennedy Johnson",
+    "Phil Noto",
+    "Stephen Segovia"
+  ],
+  "publish_date": "2026-01-28",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/01/16/0705aaa0da6943e3957defee94052e4f.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/160474/",
+  "fetched_at": "2026-06-09T20:10:20.266Z",
+  "reviewed_at": null
+}

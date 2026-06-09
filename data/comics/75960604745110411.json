@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960604745110411",
+  "title": "Incredible Hulk #104",
+  "authors": [
+    "Carlo Pagulayan",
+    "Chris Sotomayor",
+    "Dan Buckley",
+    "Greg Pak",
+    "Jeffrey Huet",
+    "Joe Quesada",
+    "José Ladrönn",
+    "Mark Paniccia",
+    "Nathan Cosby",
+    "Randy Gentile"
+  ],
+  "publish_date": "2007-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/20/incredible-hulk-v3-104.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19556/",
+  "fetched_at": "2026-06-09T19:02:08.359Z",
+  "reviewed_at": "2007-05-01"
+}

@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "72513032869406011",
+  "title": "Dejah Thoris #6",
+  "authors": [
+    "Chuck Brown",
+    "Drew Moss",
+    "Ellie Wright",
+    "Emiliana Pinna",
+    "Jeff Eckleberry",
+    "Joseph Michael Linsner",
+    "Marc Laming",
+    "Nathan Cosby",
+    "Rebeca Puebla"
+  ],
+  "publish_date": "2023-08-30",
+  "publisher": [
+    "Dynamite Entertainment"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/04/11/a92be898c15d4948be3a7ec901c68f8e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/115640/",
+  "fetched_at": "2026-06-09T20:38:42.421Z",
+  "reviewed_at": "2023-08-01"
+}

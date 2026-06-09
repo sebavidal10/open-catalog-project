@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "76194137344700611",
+  "title": "The Joker Presents: A Puzzlebox #6",
+  "authors": [
+    "Chip Zdarsky",
+    "Ferran Delgado",
+    "Jesús Merino",
+    "Juan Doe",
+    "Matthew Rosenberg",
+    "Shawn Crystal",
+    "Ulises Arreola",
+    "Vicente Cifuentes"
+  ],
+  "publish_date": "2022-01-04",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2026/03/03/df96743dd8c24ee591a5f892564c03a2.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/163233/",
+  "fetched_at": "2026-06-09T20:26:29.613Z",
+  "reviewed_at": null
+}

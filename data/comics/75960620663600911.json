@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620663600911",
+  "title": "The Incredible Hulk #9",
+  "authors": [
+    "Adam Del Re",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Daniel Earls",
+    "Edgar Delgado",
+    "FCO Plascencia",
+    "Greg Capullo",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Nick Bradshaw",
+    "Nic Klein",
+    "Phillip Kennedy Johnson",
+    "Wil Moss"
+  ],
+  "publish_date": "2024-02-21",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/02/15/e748893127864f37a50b407f1032179c.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/110035/",
+  "fetched_at": "2026-06-09T20:03:32.369Z",
+  "reviewed_at": null
+}

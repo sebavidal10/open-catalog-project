@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960620372700111",
+  "title": "Jane Foster & the Mighty Thor #1",
+  "authors": [
+    "Alanna Smith",
+    "Carmen Nunez Carnero",
+    "C. B. Cebulski",
+    "Jesus Aburtov",
+    "Joe Sabino",
+    "J. P. Mayer",
+    "Kaitlyn Lindtvedt",
+    "Marte Gracia",
+    "Martín Cóccolo",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Mike Dowling",
+    "Nolan Woodard",
+    "Peach Momoko",
+    "Ryan Stegman",
+    "Taurin Clarke",
+    "Torunn Grønbekk",
+    "Wil Moss"
+  ],
+  "publish_date": "2022-06-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/24/jf-thor-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47844/",
+  "fetched_at": "2026-06-09T20:35:23.187Z",
+  "reviewed_at": null
+}

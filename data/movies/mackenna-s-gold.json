@@ -1,0 +1,35 @@
+{
+  "title": "Mackenna's Gold",
+  "year": "1969",
+  "rated": "M",
+  "released": "10 May 1969",
+  "runtime": "128 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "J. Lee Thompson",
+  "writer": "Heck Allen, Carl Foreman",
+  "actors": "Gregory Peck, Omar Sharif, Telly Savalas",
+  "plot": "A bandit kidnaps a Marshal who has seen a map showing a gold vein on Indian lands, but other groups are looking for it too, while the Apache try to keep the secret location undisturbed.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmNhMzU1ZGYtMDA4Mi00YTA0LWI4ZjQtYjY3ZmYxNTgyYTcyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "20%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "37/100"
+    }
+  ],
+  "metascore": "37",
+  "imdbRating": "6.7",
+  "imdbID": "tt0064615",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:32:38.147Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Rain People",
+  "year": "1969",
+  "rated": "R",
+  "released": "27 Aug 1969",
+  "runtime": "101 min",
+  "genre": "Drama",
+  "director": "Francis Ford Coppola",
+  "writer": "Francis Ford Coppola",
+  "actors": "James Caan, Shirley Knight, Robert Duvall",
+  "plot": "When a housewife finds out she is pregnant, she runs out of town looking for freedom to reevaluate her life decisions.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTZiZWFlN2YtOTNhYy00OWVjLTgwZDEtY2M2ZGI5ZWVkMDYxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "6.8",
+  "imdbID": "tt0064873",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:33:00.518Z"
+}

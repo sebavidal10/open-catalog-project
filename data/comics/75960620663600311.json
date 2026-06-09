@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960620663600311",
+  "title": "The Incredible Hulk #3",
+  "authors": [
+    "Adam Del Re",
+    "Alex Sinclair",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Federico Vicentini",
+    "Frank Miller",
+    "Jesus Aburtov",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Nic Klein",
+    "Phillip Kennedy Johnson",
+    "Wil Moss"
+  ],
+  "publish_date": "2023-08-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/08/10/hulk-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/73160/",
+  "fetched_at": "2026-06-09T20:02:00.147Z",
+  "reviewed_at": null
+}

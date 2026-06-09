@@ -1,0 +1,37 @@
+{
+  "isbn": null,
+  "upc": "759606200031000711",
+  "title": "Hulk #7",
+  "authors": [
+    "Alanna Smith",
+    "Anthony Gambino",
+    "Brad Anderson",
+    "C. B. Cebulski",
+    "Chrissie Zullo",
+    "Cory Petit",
+    "Donny Cates",
+    "Federico Blee",
+    "Gary Frank",
+    "Geoff Shaw",
+    "J. Scott Campbell",
+    "Jung-Geun Yoon",
+    "Kaitlyn Lindtvedt",
+    "Logan Lubera",
+    "Martín Cóccolo",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Rachelle Rosenberg",
+    "Sabine Rich",
+    "Wil Moss"
+  ],
+  "publish_date": "2022-05-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/05/09/hulk-7.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/47702/",
+  "fetched_at": "2026-06-09T19:57:45.269Z",
+  "reviewed_at": null
+}

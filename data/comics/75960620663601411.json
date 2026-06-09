@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960620663601411",
+  "title": "The Incredible Hulk #14",
+  "authors": [
+    "Adam Del Re",
+    "Annalise Bissa",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Declan Shalvey",
+    "Edgar Delgado",
+    "Gabriele Dell'Otto",
+    "Javier Garrón",
+    "Joe Sabino",
+    "Jordan D. White",
+    "Martin Biro",
+    "Matthew Wilson",
+    "Nic Klein",
+    "Phillip Kennedy Johnson",
+    "Ryan North",
+    "Tom Brevoort",
+    "Tom Groneman"
+  ],
+  "publish_date": "2024-07-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/07/15/18d9f3576f3c4e519b5ec31f38886cd6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/125050/",
+  "fetched_at": "2026-06-09T20:05:01.666Z",
+  "reviewed_at": null
+}

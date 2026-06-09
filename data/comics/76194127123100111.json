@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "76194127123100111",
+  "title": "Joker's Asylum: Penguin #1",
+  "authors": [
+    "Dave McCaig",
+    "Jason Aaron",
+    "Jason Pearson",
+    "Jeanine Schaefer",
+    "Mike Marts"
+  ],
+  "publish_date": "2008-09-01",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/10/30/ja-penguin-1.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/130290/",
+  "fetched_at": "2026-06-09T20:16:02.921Z",
+  "reviewed_at": "2008-09-01"
+}

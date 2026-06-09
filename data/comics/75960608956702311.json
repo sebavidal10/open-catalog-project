@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960608956702311",
+  "title": "Immortal Hulk #23",
+  "authors": [
+    "Alan Fine",
+    "Al Ewing",
+    "Alex Ross",
+    "Belardino Brabo",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dale Keown",
+    "Dan Buckley",
+    "Joe Bennett",
+    "Joe Quesada",
+    "Matt Milla",
+    "Paul Mounts",
+    "Ruy José",
+    "Sarah Brunstad",
+    "Tom Brevoort",
+    "Wil Moss"
+  ],
+  "publish_date": "2019-09-04",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/06/immortal-hulk-23.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/20308/",
+  "fetched_at": "2026-06-09T19:49:41.465Z",
+  "reviewed_at": null
+}

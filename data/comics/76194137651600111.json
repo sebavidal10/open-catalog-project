@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "76194137651600111",
+  "title": "The Joker: The Man Who Stopped Laughing #1",
+  "authors": [
+    "Arif Prianto",
+    "Ben Abernathy",
+    "Ben Oliver",
+    "Carmine Di Giandomenico",
+    "Dave Wielgosz",
+    "David Nakayama",
+    "Francesco Francavilla",
+    "Francesco Mattina",
+    "Haining",
+    "Jim Lee",
+    "Lee Bermejo",
+    "Marie Javins",
+    "Matthew Rosenberg",
+    "Tom Napolitano"
+  ],
+  "publish_date": "2022-10-04",
+  "publisher": [
+    "DC Comics"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/09/13/joker-man-stopped-laughing-1.webp",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/52356/",
+  "fetched_at": "2026-06-09T20:27:49.756Z",
+  "reviewed_at": null
+}

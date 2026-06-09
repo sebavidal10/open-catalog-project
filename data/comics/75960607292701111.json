@@ -1,0 +1,29 @@
+{
+  "isbn": null,
+  "upc": "75960607292701111",
+  "title": "The Incredible Hulk #11",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Chris Eliopoulos",
+    "Christian Nauck",
+    "Dalibor Talajić",
+    "Dan Buckley",
+    "Frank Martin",
+    "Jake Thomas",
+    "Jason Aaron",
+    "Jim Charalampidis",
+    "Joe Quesada",
+    "Mark Paniccia"
+  ],
+  "publish_date": "2012-07-25",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/16/incredible-hulk-v4-11.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19398/",
+  "fetched_at": "2026-06-09T19:25:55.794Z",
+  "reviewed_at": null
+}

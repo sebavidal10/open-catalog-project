@@ -1,0 +1,26 @@
+{
+  "isbn": null,
+  "upc": "75960604745106211",
+  "title": "Incredible Hulk #62",
+  "authors": [
+    "Axel Alonso",
+    "Bill Jemas",
+    "Bruce Jones",
+    "Cory Petit",
+    "Joe Quesada",
+    "John Miesegaes",
+    "Mike Deodato",
+    "Studio F",
+    "Warren Simons"
+  ],
+  "publish_date": "2003-12-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/19/incredible-hulk-v3-62.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19514/",
+  "fetched_at": "2026-06-09T18:52:20.733Z",
+  "reviewed_at": "2003-12-01"
+}

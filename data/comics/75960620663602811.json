@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960620663602811",
+  "title": "The Incredible Hulk #28",
+  "authors": [
+    "Adam Del Re",
+    "Adam Gorham",
+    "Andrei Bressan",
+    "Carlos Lao",
+    "C. B. Cebulski",
+    "Ceci de la Cruz",
+    "Cory Petit",
+    "Edgar Delgado",
+    "Greg Land",
+    "Jeffrey Brown",
+    "Jordan D. White",
+    "J. Scott Campbell",
+    "Kaeden McGahey",
+    "Matthew Wilson",
+    "Nic Klein",
+    "Phillip Kennedy Johnson"
+  ],
+  "publish_date": "2025-08-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/08/14/7b9a4da6a2ee4d35bf46804e1c2dca9e.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/151653/",
+  "fetched_at": "2026-06-09T20:08:38.654Z",
+  "reviewed_at": null
+}

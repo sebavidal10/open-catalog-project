@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960605714601411",
+  "title": "She-Hulk #14",
+  "authors": [
+    "Cliff Rathburn",
+    "Dan Buckley",
+    "Dan Slott",
+    "Dave Kemp",
+    "Dave Sharpe",
+    "Greg Horn",
+    "Joe Quesada",
+    "Molly Lazer",
+    "Rick Burchett",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2007-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/16/she-hulk-v2-14.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19346/",
+  "fetched_at": "2026-06-09T19:01:28.052Z",
+  "reviewed_at": "2007-02-01"
+}

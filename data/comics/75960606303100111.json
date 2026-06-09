@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960606303100111",
+  "title": "Hulk vs. Fin Fang Foom #1",
+  "authors": [
+    "Brad Anderson",
+    "Dan Buckley",
+    "Dick Ayers",
+    "Jack Kirby",
+    "Jim Cheung",
+    "Joe Quesada",
+    "John Dell",
+    "Jordan D. White",
+    "Jorge Lucas",
+    "Justin Ponsor",
+    "Mark Paniccia",
+    "Peter David",
+    "Robert Campanella",
+    "Simon Bowland"
+  ],
+  "publish_date": "2008-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/20/hulk-vs-fin-fang-foom.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19566/",
+  "fetched_at": "2026-06-09T19:05:41.482Z",
+  "reviewed_at": "2008-02-01"
+}

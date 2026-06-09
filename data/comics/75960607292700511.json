@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960607292700511",
+  "title": "The Incredible Hulk #5",
+  "authors": [
+    "Alan Fine",
+    "Allen Martinez",
+    "Arif Prianto",
+    "Axel Alonso",
+    "Clayton Cowles",
+    "Dan Buckley",
+    "Jake Thomas",
+    "Jason Aaron",
+    "Joe Quesada",
+    "Mark Paniccia",
+    "Rick Ketcham",
+    "Scott Hanna",
+    "Veronica Gandini",
+    "Whilce Portacio"
+  ],
+  "publish_date": "2012-02-08",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/16/incredible-hulk-v4-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19392/",
+  "fetched_at": "2026-06-09T19:24:10.815Z",
+  "reviewed_at": null
+}

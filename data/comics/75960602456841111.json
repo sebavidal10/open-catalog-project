@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960602456841111",
+  "title": "The Incredible Hulk #411",
+  "authors": [
+    "Bobbie Chase",
+    "Cam Smith",
+    "Gary Frank",
+    "Glynis Oliver",
+    "Joe Rosen",
+    "Paul Pelletier",
+    "Peter David",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1993-11-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/11/incredible-hulk-v2-411.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19111/",
+  "fetched_at": "2026-06-09T18:29:11.658Z",
+  "reviewed_at": "1993-11-01"
+}

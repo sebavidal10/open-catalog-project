@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960608956704211",
+  "title": "Immortal Hulk #42",
+  "authors": [
+    "Adam Gorham",
+    "Al Ewing",
+    "Alexander Lozano",
+    "Alex Lins",
+    "Alex Ross",
+    "C. B. Cebulski",
+    "Chris O'Halloran",
+    "Cory Petit",
+    "Joe Bennett",
+    "Paul Mounts",
+    "Rachael Stott",
+    "Ruy José",
+    "Sarah Brunstad",
+    "Tom Brevoort",
+    "Wil Moss"
+  ],
+  "publish_date": "2021-01-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/01/05/immortal-hulk-42.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/22537/",
+  "fetched_at": "2026-06-09T19:53:46.734Z",
+  "reviewed_at": null
+}

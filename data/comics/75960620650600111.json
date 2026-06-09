@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960620650600111",
+  "title": "Hulk Annual #1",
+  "authors": [
+    "Brad Anderson",
+    "Caio Majado",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Cully Hamner",
+    "Dave McCaig",
+    "David Pepose",
+    "Edgar Delgado",
+    "Gary Frank",
+    "Guile Sharp",
+    "Matthew Wilson",
+    "Michelle Marchese",
+    "Phillip Kennedy Johnson",
+    "Rachelle Rosenberg",
+    "Travel Foreman",
+    "Wil Moss"
+  ],
+  "publish_date": "2023-05-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2023/05/05/a61684e0307a41aa966c5eacf79ea08d.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/64462/",
+  "fetched_at": "2026-06-09T20:01:15.524Z",
+  "reviewed_at": null
+}

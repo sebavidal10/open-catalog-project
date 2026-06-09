@@ -1,0 +1,33 @@
+{
+  "isbn": null,
+  "upc": "75960606637762211",
+  "title": "Incredible Hulks #622",
+  "authors": [
+    "Alan Fine",
+    "Axel Alonso",
+    "Carlo Pagulayan",
+    "Crimelab Studios",
+    "Dan Buckley",
+    "Danny Miki",
+    "Frank D'Armata",
+    "Greg Pak",
+    "Irene Lee",
+    "Joe Quesada",
+    "Jordan D. White",
+    "Mark Paniccia",
+    "Michael Jason Paz",
+    "Paul Mounts",
+    "Paul Pelletier",
+    "Simon Bowland"
+  ],
+  "publish_date": "2011-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/15/incredible-hulks-v1-622.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19296/",
+  "fetched_at": "2026-06-09T19:18:59.427Z",
+  "reviewed_at": "2011-04-01"
+}

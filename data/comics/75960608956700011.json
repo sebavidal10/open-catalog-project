@@ -1,0 +1,37 @@
+{
+  "isbn": null,
+  "upc": "75960608956700011",
+  "title": "Immortal Hulk #0",
+  "authors": [
+    "Adam Kubert",
+    "Al Ewing",
+    "Bill Mantlo",
+    "Bobbie Chase",
+    "Bob Harras",
+    "Bob Sharen",
+    "Carl Potts",
+    "C. B. Cebulski",
+    "Cory Petit",
+    "Dan Brown",
+    "Jim Novak",
+    "Jim Shooter",
+    "John Workman",
+    "Mark Farmer",
+    "Mattia De Iulis",
+    "Mike Mignola",
+    "Peter David",
+    "Sarah Brunstad",
+    "Tom Brevoort",
+    "Wil Moss"
+  ],
+  "publish_date": "2020-09-16",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/06/immortal-hulk-0.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/20327/",
+  "fetched_at": "2026-06-09T19:52:31.315Z",
+  "reviewed_at": null
+}

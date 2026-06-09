@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608056400511",
+  "title": "Hulk #5",
+  "authors": [
+    "Alan Fine",
+    "Alex Ross",
+    "Andrew Hennessy",
+    "Axel Alonso",
+    "Brad Anderson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Emily Shaw",
+    "Gary Frank",
+    "Gerry Duggan",
+    "Jason Keith",
+    "Joe Quesada",
+    "Mark Bagley",
+    "Mark Paniccia"
+  ],
+  "publish_date": "2014-08-13",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/14/hulk-v3-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19263/",
+  "fetched_at": "2026-06-09T19:33:07.234Z",
+  "reviewed_at": null
+}

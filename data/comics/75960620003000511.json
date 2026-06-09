@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960620003000511",
+  "title": "Hulk #5",
+  "authors": [
+    "Alanna Smith",
+    "Anthony Gambino",
+    "C. B. Cebulski",
+    "Cliff Rathburn",
+    "Cory Petit",
+    "Donny Cates",
+    "Frank Martin",
+    "Jonboy Meyers",
+    "Jorge Fornés",
+    "Kaitlyn Lindtvedt",
+    "Pepe Larraz",
+    "Romulo Fajardo Jr.",
+    "Ryan Ottley",
+    "Wil Moss"
+  ],
+  "publish_date": "2022-03-30",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2022/03/18/hulk-5.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/45087/",
+  "fetched_at": "2026-06-09T19:57:04.466Z",
+  "reviewed_at": null
+}

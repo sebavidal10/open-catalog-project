@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960604745107711",
+  "title": "Incredible Hulk #77",
+  "authors": [
+    "Andy Schmidt",
+    "Dan Buckley",
+    "Joe Quesada",
+    "Lee Weeks",
+    "Molly Lazer",
+    "Nicole Wiley Boose",
+    "Peter David",
+    "Randy Gentile",
+    "Studio F",
+    "Tom Brevoort",
+    "Tom Palmer"
+  ],
+  "publish_date": "2005-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/19/incredible-hulk-v3-77.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19529/",
+  "fetched_at": "2026-06-09T18:55:59.334Z",
+  "reviewed_at": "2005-03-01"
+}

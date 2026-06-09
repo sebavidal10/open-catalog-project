@@ -1,0 +1,31 @@
+{
+  "title": "The Green Slime",
+  "year": "1968",
+  "rated": "G",
+  "released": "21 May 1969",
+  "runtime": "90 min",
+  "genre": "Drama, Horror, Sci-Fi",
+  "director": "Kinji Fukasaku",
+  "writer": "Ivan Reiner, Charles Sinclair, Bill Finger",
+  "actors": "Robert Horton, Luciana Paluzzi, Richard Jaeckel",
+  "plot": "After destroying a giant asteroid heading towards Earth, a group of scientists unknowingly bring back a strange green substance that soon mutates into a monster.",
+  "language": "English, Japanese",
+  "country": "Italy, Japan, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzM5ODMxZjctY2QzNS00NTFiLTg1OWUtNGM1NWE3ZTgyOTUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "23%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.9",
+  "imdbID": "tt0064393",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:22:51.344Z"
+}

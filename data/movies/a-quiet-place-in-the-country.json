@@ -1,0 +1,31 @@
+{
+  "title": "A Quiet Place in the Country",
+  "year": "1968",
+  "rated": "R",
+  "released": "15 Nov 1968",
+  "runtime": "106 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Elio Petri",
+  "writer": "Tonino Guerra, Elio Petri, Luciano Vincenzoni",
+  "actors": "Franco Nero, Vanessa Redgrave, Georges Géret",
+  "plot": "After moving into a dilapidated rural villa to reinvigorate his creative energies, a neurotic artist becomes obsessed with an uninhibited countess who died there many years prior.",
+  "language": "Italian, English",
+  "country": "Italy, France",
+  "awards": "1 win & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzkyMmZlYjEtMWIzNy00ZTFhLTk3ZTUtYmY1Y2I2NGY2ZDI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0065119",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:21:14.401Z"
+}

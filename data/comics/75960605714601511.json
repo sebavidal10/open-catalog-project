@@ -1,0 +1,28 @@
+{
+  "isbn": null,
+  "upc": "75960605714601511",
+  "title": "She-Hulk #15",
+  "authors": [
+    "Aubrey Sitterson",
+    "Cliff Rathburn",
+    "Dan Buckley",
+    "Dan Slott",
+    "Dave Kemp",
+    "Dave Sharpe",
+    "Greg Horn",
+    "Joe Quesada",
+    "Molly Lazer",
+    "Rick Burchett",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2007-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/16/she-hulk-v2-15.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19347/",
+  "fetched_at": "2026-06-09T19:01:42.658Z",
+  "reviewed_at": "2007-03-01"
+}

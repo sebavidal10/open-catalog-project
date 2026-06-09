@@ -1,0 +1,34 @@
+{
+  "isbn": null,
+  "upc": "75960621284200511",
+  "title": "Thor #5",
+  "authors": [
+    "Al Ewing",
+    "Alex Ross",
+    "Arif Prianto",
+    "C. B. Cebulski",
+    "Danny Khazem",
+    "Edgar Delgado",
+    "Humberto Ramos",
+    "Jay Leisten",
+    "Joe Sabino",
+    "Mahmud A. Asrar",
+    "Matthew Wilson",
+    "Matt Milla",
+    "Netho Diaz",
+    "Pasqual Ferry",
+    "Rain Beredo",
+    "Sean Parsons",
+    "Wil Moss"
+  ],
+  "publish_date": "2025-12-17",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2025/12/05/beb4b2203a404edda3107b02c828b241.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/158210/",
+  "fetched_at": "2026-06-09T20:45:45.747Z",
+  "reviewed_at": null
+}

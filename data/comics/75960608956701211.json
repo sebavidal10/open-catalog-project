@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960608956701211",
+  "title": "Immortal Hulk #12",
+  "authors": [
+    "Alan Fine",
+    "Al Ewing",
+    "Alex Ross",
+    "C. B. Cebulski",
+    "Chris Sotomayor",
+    "Cory Petit",
+    "Dan Buckley",
+    "Eric Nguyen",
+    "Geoff Shaw",
+    "Jason Keith",
+    "Joe Bennett",
+    "Joe Quesada",
+    "Paul Mounts",
+    "Ruy José",
+    "Sarah Brunstad",
+    "Tom Brevoort",
+    "Will Sliney",
+    "Wil Moss"
+  ],
+  "publish_date": "2019-01-23",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/12/06/immortal-hulk-12.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/20297/",
+  "fetched_at": "2026-06-09T19:47:27.669Z",
+  "reviewed_at": null
+}

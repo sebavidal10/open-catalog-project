@@ -1,0 +1,27 @@
+{
+  "isbn": null,
+  "upc": "75960602288500211",
+  "title": "Hulk 2099 #2",
+  "authors": [
+    "Adam Kubert",
+    "Christopher Ivy",
+    "Gerard Jones",
+    "Joey Cavalieri",
+    "Kevin Nowlan",
+    "Lia Pelosi",
+    "Malcolm Davis",
+    "Richard Starkings",
+    "Tom DeFalco",
+    "Tom Smith"
+  ],
+  "publish_date": "1995-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/11/2abfd00f19c54152a537c1dbcfdeec35.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/113933/",
+  "fetched_at": "2026-06-09T18:32:07.006Z",
+  "reviewed_at": "1995-01-01"
+}

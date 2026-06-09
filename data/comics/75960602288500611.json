@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960602288500611",
+  "title": "Hulk 2099 #6",
+  "authors": [
+    "Barry Grossman",
+    "Bobbie Chase",
+    "Christopher Ivy",
+    "Gerard Jones",
+    "Joey Cavalieri",
+    "Lia Pelosi",
+    "Malcolm Davis"
+  ],
+  "publish_date": "1995-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2024/03/11/0ec9262b0a864473b0a5da00cad41cb6.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/113937/",
+  "fetched_at": "2026-06-09T18:33:09.294Z",
+  "reviewed_at": "1995-05-01"
+}

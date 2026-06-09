@@ -1,0 +1,31 @@
+{
+  "isbn": null,
+  "upc": "75960608333600311",
+  "title": "Totally Awesome Hulk #3",
+  "authors": [
+    "Alan Fine",
+    "Andy Troy",
+    "Axel Alonso",
+    "Cory Petit",
+    "Dan Buckley",
+    "Darren Shan",
+    "Frank Cho",
+    "Greg Pak",
+    "Joe Quesada",
+    "Manny Mederos",
+    "Mark Paniccia",
+    "Michael Cho",
+    "Mike Perkins",
+    "Sonia Oback"
+  ],
+  "publish_date": "2016-02-10",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/25/the-totally-awesome-hulk-3.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42462/",
+  "fetched_at": "2026-06-09T19:38:04.069Z",
+  "reviewed_at": null
+}

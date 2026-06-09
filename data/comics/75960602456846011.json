@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "75960602456846011",
+  "title": "The Incredible Hulk #460",
+  "authors": [
+    "Adam Kubert",
+    "Bobbie Chase",
+    "Bob Harras",
+    "Digital Chameleon",
+    "John Workman",
+    "Lovern Kindzierski",
+    "Mark Farmer",
+    "Peter David"
+  ],
+  "publish_date": "1998-01-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/12/incredible-hulk-v2-460.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19166/",
+  "fetched_at": "2026-06-09T18:38:58.523Z",
+  "reviewed_at": "1998-01-01"
+}

@@ -1,0 +1,32 @@
+{
+  "isbn": null,
+  "upc": "75960605714602611",
+  "title": "She-Hulk #26",
+  "authors": [
+    "Dan Buckley",
+    "Dave Kemp",
+    "Dave Sharpe",
+    "Greg Land",
+    "Jay Leisten",
+    "Joe Quesada",
+    "Paul Acerios",
+    "Peter David",
+    "Rain Beredo",
+    "Rob Ro",
+    "Shawn Moll",
+    "Stephen Wacker",
+    "Tom Brennan",
+    "Val Semeiks",
+    "Victor Olazaba"
+  ],
+  "publish_date": "2008-02-27",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/16/she-hulk-v2-26.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19358/",
+  "fetched_at": "2026-06-09T19:06:09.940Z",
+  "reviewed_at": null
+}

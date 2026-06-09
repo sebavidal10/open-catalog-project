@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960602456841911",
+  "title": "The Incredible Hulk #419",
+  "authors": [
+    "Bobbie Chase",
+    "Cam Smith",
+    "Glynis Oliver",
+    "Joe Rosen",
+    "Peter David",
+    "Roger Cruz",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1994-07-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/11/incredible-hulk-v2-419.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19119/",
+  "fetched_at": "2026-06-09T18:30:53.827Z",
+  "reviewed_at": "1994-07-01"
+}

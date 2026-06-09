@@ -1,0 +1,35 @@
+{
+  "title": "Medium Cool",
+  "year": "1969",
+  "rated": "R",
+  "released": "06 Feb 1970",
+  "runtime": "111 min",
+  "genre": "Drama, Thriller",
+  "director": "Haskell Wexler",
+  "writer": "Haskell Wexler",
+  "actors": "Robert Forster, Verna Bloom, Peter Bonerz",
+  "plot": "A TV news reporter finds himself becoming personally involved in the violence that erupts around the 1968 Democratic National Convention.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTMwZTllZGItM2Y5OS00YzM5LTgwYTItOGE3NmUwY2UxYjE1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.2",
+  "imdbID": "tt0064652",
+  "type": "movie",
+  "fetched_at": "2026-06-09T17:33:01.697Z"
+}

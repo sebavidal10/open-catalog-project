@@ -1,0 +1,35 @@
+{
+  "isbn": null,
+  "upc": "75960608658000111",
+  "title": "Totally Awesome Hulk #1.MU",
+  "authors": [
+    "Alan Fine",
+    "Alex Kropinak",
+    "Axel Alonso",
+    "Bryan Hill",
+    "Chris Robinson",
+    "Cory Petit",
+    "Dan Buckley",
+    "Esther Sanz",
+    "Jahnoy Lindsay",
+    "Joe Quesada",
+    "Leah Williams",
+    "Mark Paniccia",
+    "Mat Lopes",
+    "Rahzzah",
+    "Ricardo López Ortiz",
+    "Rico Renzi",
+    "Tom Brevoort",
+    "Ty Templeton"
+  ],
+  "publish_date": "2017-03-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2021/12/25/the-totally-awesome-hulk-1MU.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/42483/",
+  "fetched_at": "2026-06-09T19:41:10.642Z",
+  "reviewed_at": null
+}

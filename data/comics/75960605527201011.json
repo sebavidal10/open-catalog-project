@@ -1,0 +1,30 @@
+{
+  "isbn": null,
+  "upc": "75960605527201011",
+  "title": "She-Hulk #10",
+  "authors": [
+    "Andy Schmidt",
+    "Chris Eliopoulos",
+    "Dan Buckley",
+    "Dan Slott",
+    "Dave Kemp",
+    "Dave Sharpe",
+    "Joe Quesada",
+    "Mike Mayhew",
+    "Molly Lazer",
+    "Nicole Wiley Boose",
+    "Paul Pelletier",
+    "Rick Magyar",
+    "Tom Brevoort"
+  ],
+  "publish_date": "2005-02-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/15/she-hulk-v1-10.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19319/",
+  "fetched_at": "2026-06-09T18:55:50.099Z",
+  "reviewed_at": "2005-02-01"
+}

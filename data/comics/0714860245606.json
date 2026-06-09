@@ -1,0 +1,25 @@
+{
+  "isbn": null,
+  "upc": "0714860245606",
+  "title": "The Incredible Hulk #200",
+  "authors": [
+    "Glynis Oliver",
+    "Joe Rosen",
+    "Joe Staton",
+    "John Romita Sr.",
+    "Len Wein",
+    "Marv Wolfman",
+    "Rich Buckler",
+    "Sal Buscema"
+  ],
+  "publish_date": "1976-06-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/03/incredible-hulk-v2-200.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18818/",
+  "fetched_at": "2026-06-09T17:55:15.867Z",
+  "reviewed_at": "1976-06-01"
+}

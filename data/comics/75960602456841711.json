@@ -1,0 +1,24 @@
+{
+  "isbn": null,
+  "upc": "75960602456841711",
+  "title": "The Incredible Hulk #417",
+  "authors": [
+    "Bobbie Chase",
+    "Cam Smith",
+    "Gary Frank",
+    "Glynis Oliver",
+    "Joe Rosen",
+    "Peter David",
+    "Tom DeFalco"
+  ],
+  "publish_date": "1994-05-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/11/incredible-hulk-v2-417.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/19117/",
+  "fetched_at": "2026-06-09T18:30:32.990Z",
+  "reviewed_at": "1994-05-01"
+}

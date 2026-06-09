@@ -1,0 +1,22 @@
+{
+  "isbn": null,
+  "upc": "0714860245604",
+  "title": "The Incredible Hulk #210",
+  "authors": [
+    "Ernie Chan",
+    "Glynis Oliver",
+    "John Costanza",
+    "Len Wein",
+    "Sal Buscema"
+  ],
+  "publish_date": "1977-04-01",
+  "publisher": [
+    "Marvel"
+  ],
+  "pages": 0,
+  "cover": "https://static.metron.cloud/media/issue/2020/11/05/incredible-hulk-v2-210.jpg",
+  "subjects": [],
+  "url": "https://metron.cloud/issue/18896/",
+  "fetched_at": "2026-06-09T17:57:15.652Z",
+  "reviewed_at": "1977-04-01"
+}
