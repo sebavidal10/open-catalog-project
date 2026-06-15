@@ -1,0 +1,31 @@
+{
+  "title": "Sinful Davey",
+  "year": "1969",
+  "rated": "R",
+  "released": "07 May 1969",
+  "runtime": "95 min",
+  "genre": "Adventure, Comedy, Crime",
+  "director": "John Huston",
+  "writer": "James R. Webb, David Haggart",
+  "actors": "John Hurt, Pamela Franklin, Nigel Davenport",
+  "plot": "The humorous adventures of the notorious Scottish highwayman and thief Davey Haggart during the 1820s in Britain.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTExNzQ4NzQxOV5BMl5BanBnXkFtZTgwMzUxODk1MDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0064988",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:00:54.825Z"
+}

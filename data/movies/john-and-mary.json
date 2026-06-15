@@ -1,0 +1,31 @@
+{
+  "title": "John and Mary",
+  "year": "1969",
+  "rated": "R",
+  "released": "14 Dec 1969",
+  "runtime": "92 min",
+  "genre": "Drama, Romance",
+  "director": "Peter Yates",
+  "writer": "John Mortimer, Mervyn Jones",
+  "actors": "Dustin Hoffman, Mia Farrow, Michael Tolan",
+  "plot": "John and Mary meet in a singles bar, sleep together, and spend the next day getting to know each other.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 BAFTA Award1 win & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTQwZWFiOTEtN2M4ZS00MGQxLTllZGMtYmVhYmE1ZjE5ZGI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "38%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0064513",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:58:58.332Z"
+}

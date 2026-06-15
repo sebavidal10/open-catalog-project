@@ -1,0 +1,35 @@
+{
+  "title": "Two Mules for Sister Sara",
+  "year": "1970",
+  "rated": "GP",
+  "released": "16 Jun 1970",
+  "runtime": "116 min",
+  "genre": "Adventure, Drama, Romance",
+  "director": "Don Siegel",
+  "writer": "Budd Boetticher, Albert Maltz",
+  "actors": "Clint Eastwood, Shirley MacLaine, Manolo Fábregas",
+  "plot": "When a former Civil War soldier saves a nun from a gang of bandits, they team up to help the Mexicans in their war against the French.",
+  "language": "English, Spanish, French, Latin",
+  "country": "Mexico, United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmVlZjBlYTYtY2EyZi00ZjgxLWI5YWUtYjI0NjdiZDZlZTVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.0",
+  "imdbID": "tt0065134",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:06:40.628Z"
+}

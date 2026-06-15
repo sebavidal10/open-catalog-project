@@ -1,0 +1,31 @@
+{
+  "title": "The Happy Ending",
+  "year": "1969",
+  "rated": "R",
+  "released": "22 May 1970",
+  "runtime": "117 min",
+  "genre": "Drama",
+  "director": "Richard Brooks",
+  "writer": "Richard Brooks",
+  "actors": "Jean Simmons, John Forsythe, Shirley Jones",
+  "plot": "A middle-aged woman walks out on her husband and family in an desperate attempt to find herself.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODYwNWE4MzMtMzA4ZC00MTIwLWE3M2UtYzNjY2RmMzM5YjlkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0064405",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:58:08.551Z"
+}

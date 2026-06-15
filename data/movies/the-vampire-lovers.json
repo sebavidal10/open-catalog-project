@@ -1,0 +1,35 @@
+{
+  "title": "The Vampire Lovers",
+  "year": "1970",
+  "rated": "R",
+  "released": "23 Nov 1970",
+  "runtime": "91 min",
+  "genre": "Horror",
+  "director": "Roy Ward Baker",
+  "writer": "Sheridan Le Fanu, Harry Fine, Tudor Gates",
+  "actors": "Ingrid Pitt, Pippa Steel, Madeline Smith",
+  "plot": "Seductive vampire Carmilla Karnstein and her family target the beautiful and the rich in a remote area of late eighteenth-century Gemany.",
+  "language": "English, German",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWY5Y2QzMTktOWRhOS00YTAyLWI4MWMtZTBlMjY5NGUyNjJmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "6.4",
+  "imdbID": "tt0066518",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:07:04.328Z"
+}

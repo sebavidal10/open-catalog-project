@@ -1,0 +1,35 @@
+{
+  "title": "The Red Tent",
+  "year": "1969",
+  "rated": "G",
+  "released": "23 Dec 1969",
+  "runtime": "158 min",
+  "genre": "Adventure, Drama",
+  "director": "Mikhail Kalatozov",
+  "writer": "Ennio De Concini, Richard DeLong Adams, Robert Bolt",
+  "actors": "Sean Connery, Peter Finch, Claudia Cardinale",
+  "plot": "Torn by personal guilt, Italian General Umberto Nobile reminisces about his failed 1928 Arctic expedition aboard the airship Italia.",
+  "language": "English",
+  "country": "Italy, Soviet Union",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTZlMmMzODItMmJhYi00YjAyLWFkNmYtOTAwNzU4ZDJjNDY1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "6.9",
+  "imdbID": "tt0067315",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:57:29.374Z"
+}

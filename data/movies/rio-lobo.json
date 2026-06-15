@@ -1,0 +1,35 @@
+{
+  "title": "Rio Lobo",
+  "year": "1970",
+  "rated": "G",
+  "released": "18 Dec 1970",
+  "runtime": "114 min",
+  "genre": "Drama, War, Western",
+  "director": "Howard Hawks",
+  "writer": "Burton Wohl, Leigh Brackett",
+  "actors": "John Wayne, Jorge Rivero, Jennifer O'Neill",
+  "plot": "After the Civil War, Cord McNally searches for the two traitors whose treachery caused the defeat of McNally's unit and the loss of a close friend.",
+  "language": "English, Spanish",
+  "country": "United States, Mexico",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmQ2ZGYwZDktZmJkNi00ZGFkLWFhNzEtZWU1YmE1NDcxMGUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "6.7",
+  "imdbID": "tt0066301",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:07:03.143Z"
+}

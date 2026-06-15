@@ -1,0 +1,31 @@
+{
+  "title": "Camille 2000",
+  "year": "1969",
+  "rated": "R",
+  "released": "17 Sep 1971",
+  "runtime": "115 min",
+  "genre": "Drama, Romance",
+  "director": "Radley Metzger",
+  "writer": "Michael DeForrest, Alexandre Dumas fils",
+  "actors": "Danièle Gaubert, Nino Castelnuovo, Eleonora Rossi Drago",
+  "plot": "In Rome, a drug-addicted courtesan falls in love with a man who insists that she gives up her lavish, orgiastic lifestyle for fidelity, but tragedy soon ensures.",
+  "language": "English",
+  "country": "Italy, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWFmMTQ4MGUtYzQyZi00YzlhLWJjODQtNWFjYTkwMTA4OThhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "14%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0064122",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:56:38.230Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Sterile Cuckoo",
+  "year": "1969",
+  "rated": "PG",
+  "released": "22 Oct 1969",
+  "runtime": "107 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Alan J. Pakula",
+  "writer": "John Nichols, Alvin Sargent",
+  "actors": "Liza Minnelli, Wendell Burton, Tim McIntire",
+  "plot": "An eccentric girl forces a reluctant college student into an affair.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 3 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTQxMDE5NmYtYjEwYi00Njg0LWJkNDAtZTQwNjYzZGEzYTZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "6.6",
+  "imdbID": "tt0065037",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:56:26.369Z"
+}

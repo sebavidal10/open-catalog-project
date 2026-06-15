@@ -1,0 +1,35 @@
+{
+  "title": "The Conformist",
+  "year": "1970",
+  "rated": "R",
+  "released": "21 Mar 1971",
+  "runtime": "113 min",
+  "genre": "Drama",
+  "director": "Bernardo Bertolucci",
+  "writer": "Alberto Moravia, Bernardo Bertolucci",
+  "actors": "Jean-Louis Trintignant, Stefania Sandrelli, Gastone Moschin",
+  "plot": "A weak-willed Italian man becomes a fascist flunky who goes abroad to arrange the assassination of his old teacher, now a political dissident.",
+  "language": "Italian, French, Latin, Chinese",
+  "country": "Italy, France, West Germany",
+  "awards": "Nominated for 1 Oscar. 10 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjBjNTYyOTYtZDIxOS00ZDdjLTg2NWMtMWE0NThjYjIxMDU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "100/100"
+    }
+  ],
+  "metascore": "100",
+  "imdbRating": "7.9",
+  "imdbID": "tt0065571",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:06:42.979Z"
+}

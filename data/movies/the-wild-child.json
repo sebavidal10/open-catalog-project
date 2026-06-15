@@ -1,0 +1,35 @@
+{
+  "title": "The Wild Child",
+  "year": "1970",
+  "rated": "G",
+  "released": "11 Sep 1970",
+  "runtime": "83 min",
+  "genre": "Biography, Drama, History",
+  "director": "François Truffaut",
+  "writer": "François Truffaut, Jean Gruault, Jean Itard",
+  "actors": "François Truffaut, Jean-Pierre Cargol, Françoise Seigner",
+  "plot": "In a French forest in 1798, a child is found who cannot walk, speak, read or write. A doctor becomes interested in the child and patiently attempts to civilize him.",
+  "language": "French, French Sign ",
+  "country": "France",
+  "awards": "5 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2U5ZmU5YTMtZjZiYy00NDg3LTgyZGMtOWNhNTM5MjFmYjVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "7.4",
+  "imdbID": "tt0064285",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:06:46.528Z"
+}

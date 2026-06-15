@@ -1,0 +1,31 @@
+{
+  "title": "Zabriskie Point",
+  "year": "1970",
+  "rated": "R",
+  "released": "26 Mar 1970",
+  "runtime": "113 min",
+  "genre": "Drama",
+  "director": "Michelangelo Antonioni",
+  "writer": "Michelangelo Antonioni, Franco Rossetti, Sam Shepard",
+  "actors": "Mark Frechette, Daria Halprin, Paul Fix",
+  "plot": "At a time of chronic civil unrest in late 1960s America, a young revolutionary suspected of murder steals a plane and meets a girl.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmY0MzM2NDEtZWVmYi00MmM4LWFhOGUtYTIyYzEzNTA5MDEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0066601",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:07:19.742Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "A Boy Named Charlie Brown",
+  "year": "1969",
+  "rated": "G",
+  "released": "04 Dec 1969",
+  "runtime": "86 min",
+  "genre": "Animation, Comedy, Drama",
+  "director": "Bill Melendez",
+  "writer": "Charles M. Schulz",
+  "actors": "Peter Robbins, Pamelyn Ferdin, Glenn Gilger",
+  "plot": "Charlie Brown makes his way to the national spelling bee finals.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzg5MzRkMjEtMjQ4YS00ZWM0LTgwYmEtMGNlM2U3MjVjNWIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0064107",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:57:13.966Z"
+}

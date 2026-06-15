@@ -1,0 +1,31 @@
+{
+  "title": "Pigsty",
+  "year": "1969",
+  "rated": "Not Rated",
+  "released": "10 Oct 1969",
+  "runtime": "99 min",
+  "genre": "Drama",
+  "director": "Pier Paolo Pasolini",
+  "writer": "Pier Paolo Pasolini",
+  "actors": "Pierre Clémenti, Jean-Pierre Léaud, Alberto Lionello",
+  "plot": "A man wandering in a volcanic desert forms a band of murderous cannibals. A post-war German industrialist learns that his son is unable to make decisions or form relationships.",
+  "language": "Italian",
+  "country": "Italy, France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWY2NDY4ZmEtYWMxNy00YWRhLThhOGItYzJkMDQ0ODQ2ZDcxXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0064828",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:57:34.120Z"
+}

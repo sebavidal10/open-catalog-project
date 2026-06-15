@@ -1,0 +1,27 @@
+{
+  "title": "The Best House in London",
+  "year": "1969",
+  "rated": "X",
+  "released": "01 Jun 1969",
+  "runtime": "97 min",
+  "genre": "Comedy",
+  "director": "Philip Saville",
+  "writer": "Denis Norden",
+  "actors": "David Hemmings, Joanna Pettet, George Sanders",
+  "plot": "In Victorian London, the British Government attempts a solution to the problem of prostitution by establishing the world's most fabulous brothel.",
+  "language": "English, French, Italian",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzIyNWQ4ODMtZWYwZC00OTlhLWIwYzEtMGQ4ZDFhZjcxZDAxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.4",
+  "imdbID": "tt0064081",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:59:17.288Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Catch-22",
+  "year": "1970",
+  "rated": "R",
+  "released": "24 Jun 1970",
+  "runtime": "122 min",
+  "genre": "Comedy, Drama, War",
+  "director": "Mike Nichols",
+  "writer": "Joseph Heller, Buck Henry",
+  "actors": "Alan Arkin, Martin Balsam, Richard Benjamin",
+  "plot": "A military pilot makes a valiant effort to be certified insane during World War II so that he can be excused from flying missions. But there's a catch.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "Nominated for 2 BAFTA 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2RmMGI3NTMtNGIwOS00MjliLWI1Y2YtNjRmYWIzMzFmYTJjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "7.1",
+  "imdbID": "tt0065528",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:07:07.920Z"
+}

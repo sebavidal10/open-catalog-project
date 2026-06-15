@@ -1,0 +1,31 @@
+{
+  "title": "My Side of the Mountain",
+  "year": "1969",
+  "rated": "G",
+  "released": "04 Sep 1971",
+  "runtime": "100 min",
+  "genre": "Adventure, Family",
+  "director": "James B. Clark",
+  "writer": "Joanna Crawford, Jean George, Jane Klove",
+  "actors": "Ted Eccles, Theodore Bikel, Tudi Wiggins",
+  "plot": "As young Sam Gribley runs away he learns about nature.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDhmY2Y5ODQtOWUwZi00YzE5LWE0MTUtNDI1YzE2MTg1OTQ4XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0064708",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:57:09.233Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Mondo Trasho",
+  "year": "1969",
+  "rated": "Not Rated",
+  "released": "14 Mar 1969",
+  "runtime": "95 min",
+  "genre": "Comedy",
+  "director": "John Waters",
+  "writer": "John Waters",
+  "actors": "Mary Vivian Pearce, Divine, David Lochary",
+  "plot": "A fateful collision intertwines two women's lives, unleashing a series of surreal and unsettling events. Their paths cross amid bizarre encounters, religious visions, and peculiar medical procedures, forever altering their realities.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjc5NWZkYTctNTQ4YS00MmE5LThjZWItNDE4NGFjYzAwMTQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "metascore": "50",
+  "imdbRating": "5.9",
+  "imdbID": "tt0064683",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:57:53.133Z"
+}

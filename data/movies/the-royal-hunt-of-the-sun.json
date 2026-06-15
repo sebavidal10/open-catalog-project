@@ -1,0 +1,31 @@
+{
+  "title": "The Royal Hunt of the Sun",
+  "year": "1969",
+  "rated": "G",
+  "released": "01 Oct 1969",
+  "runtime": "118 min",
+  "genre": "Adventure, Drama, History",
+  "director": "Irving Lerner",
+  "writer": "Peter Shaffer, Philip Yordan",
+  "actors": "Robert Shaw, Christopher Plummer, Nigel Davenport",
+  "plot": "In 1532, Spanish conquistador Francisco Pizarro leads an expedition into the heart of the Inca Empire and captures the Incan Emperor Atahualpa and claims Peru for Spain.",
+  "language": "English, Quechua",
+  "country": "United Kingdom, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmIxMWNkZTktNzc3Zi00MzBjLTg1NzMtMTM3MzE3MTkzYWM2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0064907",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:58:20.398Z"
+}

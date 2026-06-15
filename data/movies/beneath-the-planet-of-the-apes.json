@@ -1,0 +1,35 @@
+{
+  "title": "Beneath the Planet of the Apes",
+  "year": "1970",
+  "rated": "G",
+  "released": "26 May 1970",
+  "runtime": "95 min",
+  "genre": "Action, Adventure, Sci-Fi",
+  "director": "Ted Post",
+  "writer": "Paul Dehn, Mort Abrahams, Pierre Boulle",
+  "actors": "James Franciscus, Kim Hunter, Maurice Evans",
+  "plot": "The sole survivor of an interplanetary rescue mission searches for the only survivor of the previous expedition. He discovers a planet ruled by apes and an underground city run by telepathic humans.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzY5ODkwMGUtYTNkZi00NDJmLWJhZjktNzE0NmM0ZDcyMTM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "37%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "46/100"
+    }
+  ],
+  "metascore": "46",
+  "imdbRating": "6.0",
+  "imdbID": "tt0065462",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:06:35.896Z"
+}

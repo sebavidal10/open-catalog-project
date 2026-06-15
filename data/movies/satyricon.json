@@ -1,0 +1,31 @@
+{
+  "title": "Satyricon",
+  "year": "1969",
+  "rated": "R",
+  "released": "11 Mar 1970",
+  "runtime": "129 min",
+  "genre": "Drama, Fantasy",
+  "director": "Federico Fellini",
+  "writer": "Petronius, Federico Fellini, Bernardino Zapponi",
+  "actors": "Martin Potter, Hiram Keller, Max Born",
+  "plot": "A series of disjointed mythical tales set in first-century Rome.",
+  "language": "Italian, Latin",
+  "country": "Italy, France",
+  "awards": "Nominated for 1 Oscar. 5 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTIyMGI0MjItZGE4Ni00OWE3LWI0ZjItNWRhOGI1YmMwNWFlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0064940",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:58:37.038Z"
+}

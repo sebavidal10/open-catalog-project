@@ -1,0 +1,35 @@
+{
+  "title": "Le cercle rouge",
+  "year": "1970",
+  "rated": "Not Rated",
+  "released": "20 Oct 1970",
+  "runtime": "140 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Jean-Pierre Melville",
+  "writer": "Jean-Pierre Melville",
+  "actors": "Alain Delon, Bourvil, Gian Maria Volontè",
+  "plot": "After leaving prison, master thief Corey crosses paths with a notorious escapee and an alcoholic former policeman. The trio proceed to plot an elaborate heist.",
+  "language": "French",
+  "country": "France, Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTJiZjdjM2MtYTA3My00M2E3LTlhMDgtMzc0OTNhOGY2MzVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "metascore": "92",
+  "imdbRating": "7.9",
+  "imdbID": "tt0065531",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:06:41.803Z"
+}

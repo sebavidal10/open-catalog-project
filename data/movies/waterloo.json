@@ -1,0 +1,31 @@
+{
+  "title": "Waterloo",
+  "year": "1970",
+  "rated": "G",
+  "released": "29 Oct 1970",
+  "runtime": "123 min",
+  "genre": "Action, Biography, Drama",
+  "director": "Sergey Bondarchuk",
+  "writer": "H.A.L. Craig, Sergey Bondarchuk, Vittorio Bonicelli",
+  "actors": "Rod Steiger, Christopher Plummer, Orson Welles",
+  "plot": "Facing the decline of everything he has worked to obtain, conqueror Napoleon Bonaparte and his army confront the British at the Battle of Waterloo.",
+  "language": "English",
+  "country": "Italy, Soviet Union",
+  "awards": "Won 2 BAFTA 3 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDQ0NGJjOWYtZDVlMC00ZTk0LWJiNTktYjVkOTYyMGNhNWUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "27%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0066549",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:07:09.101Z"
+}

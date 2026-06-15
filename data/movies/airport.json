@@ -1,0 +1,35 @@
+{
+  "title": "Airport",
+  "year": "1970",
+  "rated": "G",
+  "released": "01 May 2025",
+  "runtime": "137 min",
+  "genre": "Action, Drama, Thriller",
+  "director": "George Seaton, Henry Hathaway",
+  "writer": "Arthur Hailey, George Seaton",
+  "actors": "Burt Lancaster, Dean Martin, George Kennedy",
+  "plot": "A bomber on board an airplane, an airport almost closed by snow, and various personal problems of the people involved.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 5 wins & 19 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTg4NWE5NmItOGRhMC00OGU3LWE1ODgtODZmN2MwZDNmZmY3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "42/100"
+    }
+  ],
+  "metascore": "42",
+  "imdbRating": "6.6",
+  "imdbID": "tt0065377",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:06:28.817Z"
+}

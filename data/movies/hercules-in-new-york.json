@@ -1,0 +1,35 @@
+{
+  "title": "Hercules in New York",
+  "year": "1970",
+  "rated": "G",
+  "released": "20 Feb 1975",
+  "runtime": "92 min",
+  "genre": "Adventure, Comedy, Fantasy",
+  "director": "Arthur Allan Seidelman",
+  "writer": "Aubrey Wisberg",
+  "actors": "Arnold Stang, Arnold Schwarzenegger, Deborah Loomis",
+  "plot": "Hercules comes to Earth where he finds true love and starts a promising career in the wrestling and power lifting business.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzI4MjAxMWYtYTg0ZC00MWEzLTliYzMtMTBiYmM5ZDIzMTRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "3.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "14%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "23/100"
+    }
+  ],
+  "metascore": "23",
+  "imdbRating": "3.3",
+  "imdbID": "tt0065832",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:07:30.385Z"
+}

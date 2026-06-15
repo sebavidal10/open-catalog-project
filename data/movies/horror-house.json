@@ -1,0 +1,27 @@
+{
+  "title": "Horror House",
+  "year": "1969",
+  "rated": "PG",
+  "released": "15 Apr 1970",
+  "runtime": "92 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Michael Armstrong, Gerry Levy",
+  "writer": "Michael Armstrong, Gerry Levy",
+  "actors": "Frankie Avalon, Jill Haworth, Dennis Price",
+  "plot": "Teenagers gathered in an old mansion are being murdered one by one. The survivors must discover who among them is the killer before he finishes off everybody.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWFmNzVlZTMtOTk2OC00MTg3LTgxYWUtN2U3ODIwOWU2YWYzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.7",
+  "imdbID": "tt0064443",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:01:50.759Z"
+}

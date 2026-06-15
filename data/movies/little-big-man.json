@@ -1,0 +1,35 @@
+{
+  "title": "Little Big Man",
+  "year": "1970",
+  "rated": "PG-13",
+  "released": "23 Dec 1970",
+  "runtime": "139 min",
+  "genre": "Adventure, Drama, Western",
+  "director": "Arthur Penn",
+  "writer": "Thomas Berger, Calder Willingham",
+  "actors": "Dustin Hoffman, Faye Dunaway, Chief Dan George",
+  "plot": "Jack Crabb, looking back from extreme old age, tells of his life being raised by Native Americans and fighting with General Custer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 5 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWM3ODE1NTgtNDc5NS00OWFhLWIyNzgtMmNhMDU1MWI4N2I3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "7.5",
+  "imdbID": "tt0065988",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:06:33.539Z"
+}

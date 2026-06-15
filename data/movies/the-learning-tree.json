@@ -1,0 +1,31 @@
+{
+  "title": "The Learning Tree",
+  "year": "1969",
+  "rated": "PG",
+  "released": "13 Mar 1970",
+  "runtime": "107 min",
+  "genre": "Drama",
+  "director": "Gordon Parks",
+  "writer": "Gordon Parks, Genevieve Young",
+  "actors": "Kyle Johnson, Alex Clarke, Estelle Evans",
+  "plot": "A bittersweet, idyllic story about a year in the life of 14-year-old Newt Winger, born into a poor Black family in Kansas, who learns about love, fear, racial injustice, and immorality.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmU0MGFkMjgtM2NkYS00ZjVlLThkZDItNGZjZmMxZDhkMDMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0064579",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:57:08.044Z"
+}

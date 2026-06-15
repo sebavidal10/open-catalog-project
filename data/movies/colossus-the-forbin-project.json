@@ -1,0 +1,31 @@
+{
+  "title": "Colossus: The Forbin Project",
+  "year": "1970",
+  "rated": "M",
+  "released": "08 Apr 1970",
+  "runtime": "100 min",
+  "genre": "Sci-Fi, Thriller",
+  "director": "Joseph Sargent",
+  "writer": "James Bridges, D.F. Jones",
+  "actors": "Eric Braeden, Susan Clark, Gordon Pinsent",
+  "plot": "Thinking this will prevent war, the US government gives an impenetrable supercomputer total control over launching nuclear missiles. But what the computer does with the power is unimaginable to its creators.",
+  "language": "English, Russian",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWU0ZmM3N2QtYzgzOC00MDMyLTk4ZmUtNDdmYTI3ZGM4YjI5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0064177",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:07:20.932Z"
+}

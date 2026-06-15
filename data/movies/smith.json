@@ -1,0 +1,27 @@
+{
+  "title": "Smith!",
+  "year": "1969",
+  "rated": "G",
+  "released": "21 Mar 1969",
+  "runtime": "112 min",
+  "genre": "Drama, Family, Western",
+  "director": "Michael O'Herlihy",
+  "writer": "Louis Pelletier, Paul St. Pierre",
+  "actors": "Glenn Ford, Nancy Olson, Dean Jagger",
+  "plot": "An Indian boy flees when he is accused of murder.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTc4ZTk3NmItZTQxZS00ZWQ4LWEzYzAtMWJiNTk1M2U0YWNmXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0065003",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:02:08.504Z"
+}

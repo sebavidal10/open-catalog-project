@@ -1,0 +1,35 @@
+{
+  "title": "El Topo",
+  "year": "1970",
+  "rated": "Not Rated",
+  "released": "15 Apr 1971",
+  "runtime": "125 min",
+  "genre": "Drama, Western",
+  "director": "Alejandro Jodorowsky",
+  "writer": "Alejandro Jodorowsky",
+  "actors": "Alejandro Jodorowsky, Brontis Jodorowsky, José Legarreta",
+  "plot": "A mysterious black-clad gunfighter wanders a mystical Western landscape encountering multiple bizarre characters.",
+  "language": "Spanish",
+  "country": "Mexico",
+  "awards": "4 wins & 3 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODUzOTAzZGItZTI3Zi00NzRlLWEzNGYtMDg4YzNmMDhhYzUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "7.2",
+  "imdbID": "tt0067866",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:06:45.347Z"
+}

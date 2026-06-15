@@ -1,0 +1,31 @@
+{
+  "title": "Marlowe",
+  "year": "1969",
+  "rated": "M",
+  "released": "31 Oct 1969",
+  "runtime": "96 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Paul Bogart",
+  "writer": "Raymond Chandler, Stirling Silliphant",
+  "actors": "James Garner, Gayle Hunnicutt, Carroll O'Connor",
+  "plot": "A young woman from Kansas hires LA private detective Philip Marlowe to find her missing brother.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2RkZGI3MjAtZTY5Yi00YWI4LWI0N2QtOTQwNmY3YjNjNGIzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0064638",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:56:27.554Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Railway Children",
+  "year": "1970",
+  "rated": "G",
+  "released": "22 Dec 1970",
+  "runtime": "109 min",
+  "genre": "Drama, Family",
+  "director": "Lionel Jeffries",
+  "writer": "E. Nesbit, Lionel Jeffries",
+  "actors": "Dinah Sheridan, Bernard Cribbins, William Mervyn",
+  "plot": "After the enforced absence of their father, three children move with their mother to Yorkshire, where during their adventures they attempt to discover the reason for his disappearance.",
+  "language": "English, French, Russian",
+  "country": "United Kingdom",
+  "awards": "Nominated for 3 BAFTA 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTdmYTJjY2ItMjRlNC00OTdmLWI3MWEtOTcxNTI2NmU4ZGRhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0066279",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:07:29.204Z"
+}

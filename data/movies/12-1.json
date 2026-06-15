@@ -1,0 +1,27 @@
+{
+  "title": "12 + 1",
+  "year": "1969",
+  "rated": "R",
+  "released": "01 May 1970",
+  "runtime": "94 min",
+  "genre": "Adventure, Comedy",
+  "director": "Nicolas Gessner, Luciano Lucignani",
+  "writer": "Marc Behm, Denis Norden, Nicolas Gessner",
+  "actors": "Sharon Tate, Vittorio Gassman, Orson Welles",
+  "plot": "A young playboy inherits 13 antique chairs and decides to sell them for money--then finds out where the real money is.",
+  "language": "Italian, English",
+  "country": "Italy, France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDdiZDBiOTItNWEwMC00ZjhkLTg4MTEtMTQxYmFlNzRkNjRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0065361",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:56:37.041Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Sam Whiskey",
+  "year": "1969",
+  "rated": "PG-13",
+  "released": "01 Apr 1969",
+  "runtime": "96 min",
+  "genre": "Comedy, Western",
+  "director": "Arnold Laven",
+  "writer": "William W. Norton",
+  "actors": "Burt Reynolds, Angie Dickinson, Clint Walker",
+  "plot": "A widow hires an ex-gambler to retrieve gold bars from a sunken river boat in Colorado and discreetly return them to the Federal Mint, from where they had been stolen by her dead husband.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmEyYjFmNTQtZWMyYy00OTI0LWI5MzgtZTJlMTg2YmZmY2Q1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0064923",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:58:28.715Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Tristana",
+  "year": "1970",
+  "rated": "PG",
+  "released": "29 Mar 1970",
+  "runtime": "99 min",
+  "genre": "Drama",
+  "director": "Luis Buñuel",
+  "writer": "Julio Alejandro, Luis Buñuel, Benito Pérez Galdós",
+  "actors": "Catherine Deneuve, Fernando Rey, Franco Nero",
+  "plot": "Shortly after her mother's death, an innocent and youthful woman will find refuge into the household of her middle-aged aristocratic guardian, who will submit her to his sexual advances.",
+  "language": "Spanish",
+  "country": "Spain, Italy, France",
+  "awards": "Nominated for 1 Oscar. 11 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTRjYzUwZmMtMTYzNC00ZThlLWE0ZjgtM2ZkZjllZDhhMjUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "93/100"
+    }
+  ],
+  "metascore": "93",
+  "imdbRating": "7.4",
+  "imdbID": "tt0066491",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:06:50.076Z"
+}

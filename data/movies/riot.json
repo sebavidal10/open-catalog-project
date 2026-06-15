@@ -1,0 +1,27 @@
+{
+  "title": "Riot",
+  "year": "1969",
+  "rated": "R",
+  "released": "09 May 1969",
+  "runtime": "96 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Buzz Kulik",
+  "writer": "Frank Elli, James Poe",
+  "actors": "Jim Brown, Gene Hackman, Mike Kellin",
+  "plot": "A riot in a state prison is staged to cover up an escape attempt, during which many inmates and guards are killed. Shot on location at Arizona State Prison.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWJhNzA4ZjAtZDk1My00ZWVkLWIzNDUtNDcxZTdlZjBlNWE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0064895",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:57:38.897Z"
+}

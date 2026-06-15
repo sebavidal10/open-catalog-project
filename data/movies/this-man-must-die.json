@@ -1,0 +1,31 @@
+{
+  "title": "This Man Must Die",
+  "year": "1969",
+  "rated": "GP",
+  "released": "20 Oct 1970",
+  "runtime": "110 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Claude Chabrol",
+  "writer": "Paul Gégauff, Claude Chabrol, Cecil Day-Lewis",
+  "actors": "Michel Duchaussoy, Caroline Cellier, Jean Yanne",
+  "plot": "A man asserts himself within the life of an actress he believes is somehow responsible for his son's death.",
+  "language": "French",
+  "country": "France, Italy",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTVkOTgxZjQtNWY3MS00MmY4LTkyOGYtMmU1YzAyZDZlNmY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0064861",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:57:40.077Z"
+}

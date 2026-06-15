@@ -1,0 +1,35 @@
+{
+  "title": "Kelly's Heroes",
+  "year": "1970",
+  "rated": "GP",
+  "released": "23 Jun 1970",
+  "runtime": "144 min",
+  "genre": "Adventure, Comedy, War",
+  "director": "Brian G. Hutton",
+  "writer": "Troy Kennedy Martin",
+  "actors": "Clint Eastwood, Telly Savalas, Don Rickles",
+  "plot": "A group of U.S. soldiers sneaks across enemy lines in WWII France to get their hands on a secret stash of Nazi treasure.",
+  "language": "English, French, German",
+  "country": "Yugoslavia, United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmFiZTI0NzktYWQ2Zi00MjAzLThiYWQtYWU1YzQxNTliMWE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "metascore": "50",
+  "imdbRating": "7.6",
+  "imdbID": "tt0065938",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:06:39.450Z"
+}

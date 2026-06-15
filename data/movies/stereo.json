@@ -1,0 +1,35 @@
+{
+  "title": "Stereo",
+  "year": "1969",
+  "rated": "Not Rated",
+  "released": "30 Nov 1973",
+  "runtime": "65 min",
+  "genre": "Sci-Fi",
+  "director": "David Cronenberg",
+  "writer": "David Cronenberg",
+  "actors": "Ronald Mlodzik, Jack Messinger, Paul Mulholland",
+  "plot": "A group of Canadian university students agree to partake in a grisly psychological experiment, which renders them incapable of speech but able to communicate telepathically.",
+  "language": "English",
+  "country": "Canada",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWI4MjA3YzMtODA4ZC00ZWRiLWFiMGMtM2RkZGE5OWRiZWIwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "42/100"
+    }
+  ],
+  "metascore": "42",
+  "imdbRating": "5.1",
+  "imdbID": "tt0065036",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:57:21.061Z"
+}

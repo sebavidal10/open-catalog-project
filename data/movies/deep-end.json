@@ -1,0 +1,31 @@
+{
+  "title": "Deep End",
+  "year": "1970",
+  "rated": "R",
+  "released": "18 Mar 1971",
+  "runtime": "88 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Jerzy Skolimowski",
+  "writer": "Jerzy Skolimowski, Jerzy Gruza, Boleslaw Sulik",
+  "actors": "Jane Asher, John Moulder-Brown, Karl Michael Vogler",
+  "plot": "15-year-old dropout Mike takes a job at Newford Baths, where inappropriate sexual behaviour abounds, and becomes obsessed with his coworker Susan.",
+  "language": "English",
+  "country": "United Kingdom, West Germany",
+  "awards": "Nominated for 1 BAFTA Award1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGYwOTcyY2ItOGIzNC00ZDJlLTg5MWUtNDc1Mzc0NjBjNWI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0066122",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:07:24.478Z"
+}

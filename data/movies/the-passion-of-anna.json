@@ -1,0 +1,31 @@
+{
+  "title": "The Passion of Anna",
+  "year": "1969",
+  "rated": "R",
+  "released": "28 May 1970",
+  "runtime": "101 min",
+  "genre": "Drama",
+  "director": "Ingmar Bergman",
+  "writer": "Ingmar Bergman",
+  "actors": "Liv Ullmann, Bibi Andersson, Max von Sydow",
+  "plot": "A recently divorced man meets an emotionally devastated widow and they begin a love affair.",
+  "language": "Swedish",
+  "country": "Sweden",
+  "awards": "3 wins & 7 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWU1NTI5OTAtZjg4NC00ZDI3LTlmMjAtNWMzY2JlYjJlNDI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0064793",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:57:10.417Z"
+}

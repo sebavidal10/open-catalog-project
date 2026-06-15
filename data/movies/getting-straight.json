@@ -1,0 +1,35 @@
+{
+  "title": "Getting Straight",
+  "year": "1970",
+  "rated": "R",
+  "released": "13 May 1970",
+  "runtime": "124 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Richard Rush",
+  "writer": "Robert Kaufman, Ken Kolb",
+  "actors": "Elliott Gould, Candice Bergen, Robert F. Lyons",
+  "plot": "A Vietnam vet and former social radical is conflicted by his desire to become a teacher and his sympathy with anti-establishment student protests.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzkzM2ZhMWEtZGJiNS00MzdkLTk0YjctNWYxNTI3YTdhNjdiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "6.3",
+  "imdbID": "tt0065775",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:06:38.268Z"
+}

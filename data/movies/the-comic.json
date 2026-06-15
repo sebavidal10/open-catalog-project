@@ -1,0 +1,31 @@
+{
+  "title": "The Comic",
+  "year": "1969",
+  "rated": "M/PG",
+  "released": "02 Oct 1970",
+  "runtime": "94 min",
+  "genre": "Comedy, Drama",
+  "director": "Carl Reiner",
+  "writer": "Carl Reiner, Aaron Ruben",
+  "actors": "Dick Van Dyke, Michele Lee, Mickey Rooney",
+  "plot": "Story of a brilliant silent-film comic whose talent is overshadowed by his ego.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWQ5ODc1NTktMWVjYS00MmVhLWI0NTYtNzBkMTQ2YTUxYmZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0064179",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:56:58.330Z"
+}

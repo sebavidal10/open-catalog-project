@@ -1,0 +1,27 @@
+{
+  "title": "Number One",
+  "year": "1969",
+  "rated": "PG-13",
+  "released": "21 Aug 1969",
+  "runtime": "105 min",
+  "genre": "Drama, Sport",
+  "director": "Tom Gries",
+  "writer": "David Moessinger",
+  "actors": "Charlton Heston, Jessica Walter, Bruce Dern",
+  "plot": "The story of Cat Catlan (Heston), a washed up quarterback who turns to drink and women to solve his problems. But he soon discovers that his problems are just beginning.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgzNTc3NjU2M15BMl5BanBnXkFtZTcwNDIwOTc2NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0064743",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:00:01.265Z"
+}

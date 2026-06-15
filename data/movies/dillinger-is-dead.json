@@ -1,0 +1,31 @@
+{
+  "title": "Dillinger Is Dead",
+  "year": "1969",
+  "rated": "Not Rated",
+  "released": "23 Jan 1969",
+  "runtime": "95 min",
+  "genre": "Crime, Drama",
+  "director": "Marco Ferreri",
+  "writer": "Marco Ferreri, Sergio Bazzini",
+  "actors": "Michel Piccoli, Anita Pallenberg, Gino Lavagetto",
+  "plot": "A man decides to cook for himself, but finds the revolver of John Dillinger hidden in his kitchen instead.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDJmYTE0NDEtNGMxOC00MGU0LWE0NWEtMzUyNGRlZjU0NmU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0062893",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:57:31.743Z"
+}

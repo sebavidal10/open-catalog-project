@@ -1,0 +1,31 @@
+{
+  "title": "Chisum",
+  "year": "1970",
+  "rated": "G",
+  "released": "29 Jul 1970",
+  "runtime": "111 min",
+  "genre": "Biography, Drama, Western",
+  "director": "Andrew V. McLaglen",
+  "writer": "Andrew J. Fenady",
+  "actors": "John Wayne, Forrest Tucker, Christopher George",
+  "plot": "Cattle baron John Chisum joins forces with Billy the Kid and Pat Garrett to fight the Lincoln County land war.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjhlZDBkYjAtM2JkMC00ZTdiLTg1NWEtMDU2OGY4NzhjZDU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0065547",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:06:58.379Z"
+}

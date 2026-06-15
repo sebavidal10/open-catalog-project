@@ -1,0 +1,27 @@
+{
+  "title": "Django the Bastard",
+  "year": "1969",
+  "rated": "PG",
+  "released": "19 Apr 1974",
+  "runtime": "98 min",
+  "genre": "Action, Drama, Horror",
+  "director": "Sergio Garrone",
+  "writer": "Sergio Garrone, Anthony Steffen",
+  "actors": "Anthony Steffen, Paolo Gozlino, Luciano Rossi",
+  "plot": "A mysterious stranger appears to take terrifying revenge on former Confederate officers who during the Civil War betrayed and were responsible for the massacre of their unit.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGE4NDdkNWQtYmFjNC00N2I5LWFlY2QtM2Q3ZTM2N2EwYzU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0064240",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:59:55.128Z"
+}

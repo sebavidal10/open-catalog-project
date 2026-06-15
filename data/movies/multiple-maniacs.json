@@ -1,0 +1,31 @@
+{
+  "title": "Multiple Maniacs",
+  "year": "1970",
+  "rated": "Not Rated",
+  "released": "01 Jan 2022",
+  "runtime": "91 min",
+  "genre": "Comedy, Crime, Horror",
+  "director": "John Waters",
+  "writer": "John Waters",
+  "actors": "Divine, David Lochary, Mary Vivian Pearce",
+  "plot": "Watch as the life of a leader of a menacing group of deviants, explodes in a spectacle of debauchery. Accidentally filmed from beginning to end, on purpose.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzQxYjE5ZWEtMmEwYy00N2E1LWI1NWUtYTJmZWQyZjQ1MjRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0067454",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:06:48.890Z"
+}

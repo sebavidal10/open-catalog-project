@@ -1,0 +1,31 @@
+{
+  "title": "Joe",
+  "year": "1970",
+  "rated": "R",
+  "released": "15 Jul 1970",
+  "runtime": "107 min",
+  "genre": "Drama, Thriller",
+  "director": "John G. Avildsen",
+  "writer": "Norman Wexler",
+  "actors": "Peter Boyle, Dennis Patrick, Susan Sarandon",
+  "plot": "Two men--wealthy conservative Bill and far-right factory worker Joe--form a dangerous bond after Bill confesses to Joe about murdering his daughter's drug-dealer boyfriend.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmM0NzlkNjMtMDMzZS00NWFiLWJhNjgtNDE3YmJhMTIwMjVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0065916",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:06:34.717Z"
+}

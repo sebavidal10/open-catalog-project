@@ -1,0 +1,31 @@
+{
+  "title": "Castle Keep",
+  "year": "1969",
+  "rated": "R",
+  "released": "20 Sep 1969",
+  "runtime": "107 min",
+  "genre": "Action, Comedy, Drama",
+  "director": "Sydney Pollack",
+  "writer": "William Eastlake, Daniel Taradash, David Rayfiel",
+  "actors": "Burt Lancaster, Patrick O'Neal, Jean-Pierre Aumont",
+  "plot": "During the Battle of the Bulge, an anachronistic count shelters a ragtag squad of Americans in his remote 10th Century castle hoping a battle there against the advancing Germans will not lead to its destruction and all the heritag...",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDc4OWIxZmItNTIzZC00OGQzLWI0YTgtNTM4N2JmYzAwMGY1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "44%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0064137",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:56:57.154Z"
+}

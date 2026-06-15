@@ -1,0 +1,35 @@
+{
+  "title": "M*A*S*H",
+  "year": "1970",
+  "rated": "R",
+  "released": "18 Mar 1970",
+  "runtime": "116 min",
+  "genre": "Comedy, Drama, War",
+  "director": "Robert Altman",
+  "writer": "Richard Hooker, Ring Lardner Jr.",
+  "actors": "Donald Sutherland, Elliott Gould, Tom Skerritt",
+  "plot": "The staff of a Korean War field hospital uses humor and hijinks to keep their sanity in the face of the horror of war.",
+  "language": "English, Japanese, Korean, Latin",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 15 wins & 26 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDI0MDNiNWMtYzc5NS00MTc2LWJlMjktM2RkZTEyMzZjOTIwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "7.3",
+  "imdbID": "tt0066026",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:06:29.999Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Take the Money and Run",
+  "year": "1969",
+  "rated": "M/PG",
+  "released": "10 Jul 1970",
+  "runtime": "85 min",
+  "genre": "Comedy, Crime",
+  "director": "Woody Allen",
+  "writer": "Woody Allen, Mickey Rose",
+  "actors": "Woody Allen, Janet Margolin, Marcel Hillaire",
+  "plot": "The life and times of inept bank robber Virgil Starkwell.",
+  "language": "English, Yiddish",
+  "country": "United States",
+  "awards": "3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE2Mjc5NDg3OV5BMl5BanBnXkFtZTgwMzUxMjMyMTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "7.2",
+  "imdbID": "tt0065063",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:56:32.293Z"
+}

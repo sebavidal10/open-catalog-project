@@ -1,0 +1,31 @@
+{
+  "title": "Ryan's Daughter",
+  "year": "1970",
+  "rated": "R",
+  "released": "10 Dec 1970",
+  "runtime": "200 min",
+  "genre": "Drama, Romance",
+  "director": "David Lean",
+  "writer": "Robert Bolt",
+  "actors": "Robert Mitchum, Trevor Howard, John Mills",
+  "plot": "Set in the wake of the 1916 Easter Rising, a married woman in a small Irish village has an affair with a troubled British officer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 9 wins & 22 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTI4ZDkyYWYtYjY1Ny00OGE3LThlM2ItZDgyOTc0NmIwZGJlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "47%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0066319",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:06:59.577Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Tora! Tora! Tora!",
+  "year": "1970",
+  "rated": "G",
+  "released": "23 Sep 1970",
+  "runtime": "144 min",
+  "genre": "Action, Drama, History",
+  "director": "Richard Fleischer, Kinji Fukasaku, Toshio Masuda",
+  "writer": "Larry Forrester, Hideo Oguni, Ryûzô Kikushima",
+  "actors": "Martin Balsam, Sô Yamamura, Jason Robards",
+  "plot": "The story of the 1941 Japanese air raid on Pearl Harbor, and the series of preceding American blunders that aggravated its effectiveness.",
+  "language": "English, Japanese",
+  "country": "Japan, United States",
+  "awards": "Won 1 Oscar. 2 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTczZTQwZjUtZWVhZi00N2Y2LTg0NmEtMGJkZjVjOWM5OTEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "46/100"
+    }
+  ],
+  "metascore": "46",
+  "imdbRating": "7.5",
+  "imdbID": "tt0066473",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:07:13.817Z"
+}

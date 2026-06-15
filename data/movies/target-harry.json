@@ -1,0 +1,27 @@
+{
+  "title": "Target: Harry",
+  "year": "1969",
+  "rated": "R",
+  "released": "23 May 1969",
+  "runtime": "85 min",
+  "genre": "Mystery, Thriller",
+  "director": "Roger Corman",
+  "writer": "Bob Barbash",
+  "actors": "Vic Morrow, Suzanne Pleshette, Victor Buono",
+  "plot": "Pilot Harry Black is hired to fly a man named Carlyle to Istanbul, where he's murdered. Now, mysterious Diane Reed and a local gangster, Rashi, are after Harry believing that he has the priceless plates Carlyle used to counterfeit...",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzkyODIzYTUtYTdjMy00NDBmLTk3NTktN2IwODdmY2MzZWQ1XkEyXkFqcGdeQXVyMjczMDc5MzM@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.0",
+  "imdbID": "tt0065069",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:06:11.003Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Soldier Blue",
+  "year": "1970",
+  "rated": "PG",
+  "released": "25 Sep 1970",
+  "runtime": "112 min",
+  "genre": "Drama, War, Western",
+  "director": "Ralph Nelson",
+  "writer": "Theodore V. Olsen, John Gay",
+  "actors": "Candice Bergen, Peter Strauss, Donald Pleasence",
+  "plot": "After a cavalry patrol is ambushed by the Cheyenne, the two survivors, a soldier and a woman, must reach the safety of the nearest fort.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzgyZjY5YWQtMTk5YS00YzBkLTlhMGQtZTQ4MTZlNmZmY2M2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "38%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0066390",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:07:12.639Z"
+}

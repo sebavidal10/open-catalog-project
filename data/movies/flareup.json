@@ -1,0 +1,27 @@
+{
+  "title": "Flareup",
+  "year": "1969",
+  "rated": "PG-13",
+  "released": "18 Jan 1970",
+  "runtime": "100 min",
+  "genre": "Crime, Thriller",
+  "director": "James Neilson",
+  "writer": "Mark Rodgers",
+  "actors": "Raquel Welch, James Stacy, Luke Askew",
+  "plot": "A psycho stalks go-go dancer from Las Vegas, Nevada to Los Angeles, California.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODM3Yjk4YWMtZjEwOC00ZGNiLWJkZWEtZjVmMjZlNmVjMmVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.0",
+  "imdbID": "tt0064333",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:57:46.000Z"
+}

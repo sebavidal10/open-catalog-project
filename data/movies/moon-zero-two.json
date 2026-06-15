@@ -1,0 +1,27 @@
+{
+  "title": "Moon Zero Two",
+  "year": "1969",
+  "rated": "G",
+  "released": "01 Mar 1970",
+  "runtime": "100 min",
+  "genre": "Crime, Sci-Fi",
+  "director": "Roy Ward Baker",
+  "writer": "Michael Carreras, Gavin Lyall, Frank Hardman",
+  "actors": "James Olson, Catherine Schell, Warren Mitchell",
+  "plot": "A space salvage expert and his partner become involved with a group of criminals intent on hijacking a small asteroid made of sapphire and crashing it into the moon.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjU3YmYzNjAtZjM1Ni00ODczLWE2OWItZGYxMTYxYTc0ZTYzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.5",
+  "imdbID": "tt0064691",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:56:51.250Z"
+}

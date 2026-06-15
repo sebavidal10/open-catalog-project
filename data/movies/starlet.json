@@ -1,0 +1,27 @@
+{
+  "title": "Starlet!",
+  "year": "1969",
+  "rated": "X",
+  "released": "10 Sep 1969",
+  "runtime": "100 min",
+  "genre": "Drama",
+  "director": "Richard Kanter",
+  "writer": "David F. Friedman",
+  "actors": "Shari Mann, Dee Lockwood, Stuart Lancaster",
+  "plot": "Story of an actress who sleeps her way to the top.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmJmMjE1ZGEtMDA5NS00NjcxLWEwMmUtZDBjODk3YTA3ZWQxXkEyXkFqcGdeQXVyMTM3MzUwOQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0065033",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:04:40.015Z"
+}

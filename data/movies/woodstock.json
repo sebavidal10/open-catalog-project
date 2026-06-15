@@ -1,0 +1,35 @@
+{
+  "title": "Woodstock",
+  "year": "1970",
+  "rated": "R",
+  "released": "26 Mar 1970",
+  "runtime": "184 min",
+  "genre": "Documentary, History, Music",
+  "director": "Michael Wadleigh",
+  "writer": "N/A",
+  "actors": "Joan Baez, Richie Havens, Roger Daltrey",
+  "plot": "Oscar-winning musical chronicle that brilliantly captures the three-day rock concert and celebration of peace and love that became a capstone for the Sixties.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGM0YzI4NDctZWQ5ZC00ODdkLWJkMDEtNTc5MWU5NjUwZjFlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "95/100"
+    }
+  ],
+  "metascore": "95",
+  "imdbRating": "8.1",
+  "imdbID": "tt0066580",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:06:44.174Z"
+}

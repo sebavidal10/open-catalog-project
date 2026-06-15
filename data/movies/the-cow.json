@@ -1,0 +1,27 @@
+{
+  "title": "The Cow",
+  "year": "1969",
+  "rated": "Not Rated",
+  "released": "01 Dec 1974",
+  "runtime": "104 min",
+  "genre": "Drama",
+  "director": "Dariush Mehrjui",
+  "writer": "Dariush Mehrjui, Gholam-Hossein Saedi",
+  "actors": "Ezzatolah Entezami, Mahin Shahabi, Ali Nasirian",
+  "plot": "An old villager deeply in love with his cow goes to the capital for a while. While he's there, the cow dies and now the villagers are afraid of his possible reaction to it when he returns.",
+  "language": "Persian",
+  "country": "Iran",
+  "awards": "2 wins & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzFjMDQxM2UtNDU5MC00YWU0LTlmOTUtNDFlOGU1MmI0OWE5XkEyXkFqcGdeQXVyNjkxOTM4ODY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.9",
+  "imdbID": "tt0064356",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:00:10.744Z"
+}

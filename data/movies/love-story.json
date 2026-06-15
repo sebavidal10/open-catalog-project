@@ -1,0 +1,35 @@
+{
+  "title": "Love Story",
+  "year": "1970",
+  "rated": "PG",
+  "released": "16 Dec 1970",
+  "runtime": "100 min",
+  "genre": "Drama, Romance",
+  "director": "Arthur Hiller",
+  "writer": "Erich Segal",
+  "actors": "Ali MacGraw, Ryan O'Neal, John Marley",
+  "plot": "A boy and a girl from different backgrounds fall in love regardless of their upbringing - and then tragedy strikes.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 10 wins & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc5YjEzZjItOWM2MC00NDA3LWFhMTctMWM0ZTk3NjgwMzc5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "65%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "6.9",
+  "imdbID": "tt0066011",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:06:27.636Z"
+}

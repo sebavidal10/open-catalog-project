@@ -1,0 +1,27 @@
+{
+  "title": "Blue Movie",
+  "year": "1969",
+  "rated": "Unrated",
+  "released": "10 Feb 1972",
+  "runtime": "105 min",
+  "genre": "Drama, Romance",
+  "director": "Andy Warhol",
+  "writer": "Andy Warhol",
+  "actors": "Viva, Louis Waldon",
+  "plot": "Viva and Louis Waldon spend an idyllic afternoon together in an apartment in New York City.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzJhMGY3YjItN2QwOC00NmJmLTk1YWQtODg5ZjY5OTE0MTgzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.1",
+  "imdbID": "tt0062745",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:56:35.846Z"
+}

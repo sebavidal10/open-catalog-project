@@ -1,0 +1,35 @@
+{
+  "title": "Performance",
+  "year": "1970",
+  "rated": "R",
+  "released": "04 Sep 1970",
+  "runtime": "105 min",
+  "genre": "Crime, Drama",
+  "director": "Donald Cammell, Nicolas Roeg",
+  "writer": "Donald Cammell",
+  "actors": "James Fox, Mick Jagger, Anita Pallenberg",
+  "plot": "A violent East London gangster undergoes a transformation of identity while hiding from his former colleagues in the home of a jaded Bohemian rock star and his two girlfriends.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 BAFTA Award1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWEwMjZiOGYtNjUwOS00YWM1LTk5YWUtZmM3NzlkZGFiYzdlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "6.7",
+  "imdbID": "tt0066214",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:07:11.463Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Alice's Restaurant",
+  "year": "1969",
+  "rated": "R",
+  "released": "20 Aug 1969",
+  "runtime": "111 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "Arthur Penn",
+  "writer": "Arlo Guthrie, Venable Herndon, Arthur Penn",
+  "actors": "Arlo Guthrie, Patricia Quinn, James Broderick",
+  "plot": "A cinematic adaption of Arlo Guthrie's classic story-song.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjM5NTE4MDQtYWEwNC00MmRlLWI1YWEtNWYzMzYxODhiZjY1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "63%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0064002",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:57:49.567Z"
+}

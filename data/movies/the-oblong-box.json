@@ -1,0 +1,31 @@
+{
+  "title": "The Oblong Box",
+  "year": "1969",
+  "rated": "R",
+  "released": "11 Jun 1969",
+  "runtime": "96 min",
+  "genre": "Horror",
+  "director": "Gordon Hessler",
+  "writer": "Edgar Allan Poe, Lawrence Huntington, Christopher Wicking",
+  "actors": "Vincent Price, Alister Williamson, Christopher Lee",
+  "plot": "Aristocrat Julian Markham keeps his disfigured brother, Sir Edward, locked in a tower of his house. Sir Edward occasionally escapes and causes havoc around the town.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYwMTk4MDM1OV5BMl5BanBnXkFtZTcwOTYwOTc2NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "55%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0064747",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:57:23.432Z"
+}

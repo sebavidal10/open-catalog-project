@@ -1,0 +1,35 @@
+{
+  "title": "Five Easy Pieces",
+  "year": "1970",
+  "rated": "R",
+  "released": "12 Sep 1970",
+  "runtime": "98 min",
+  "genre": "Drama",
+  "director": "Bob Rafelson",
+  "writer": "Carole Eastman, Bob Rafelson",
+  "actors": "Jack Nicholson, Karen Black, Billy Green Bush",
+  "plot": "A dropout from upper-class America picks up work along the way on oil rigs when his life isn't spent in a squalid succession of bars, motels, and other points of interest.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 11 wins & 23 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWVmNWEwMDQtZmZiZi00ZTAyLTg4YTAtZTIzMjk1N2U1MTgyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "7.4",
+  "imdbID": "tt0065724",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:07:06.733Z"
+}

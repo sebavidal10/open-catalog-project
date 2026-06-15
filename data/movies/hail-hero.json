@@ -1,0 +1,27 @@
+{
+  "title": "Hail, Hero!",
+  "year": "1969",
+  "rated": "M",
+  "released": "25 Jun 1970",
+  "runtime": "100 min",
+  "genre": "Drama",
+  "director": "David Miller",
+  "writer": "David Manber, John Weston",
+  "actors": "Arthur Kennedy, Teresa Wright, Michael Douglas",
+  "plot": "A disillusioned man can't decide whether to join the army or to become a hippie.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjEyZDcxNzktMjU4YS00ZTgwLThiODUtOTgyNWE5NjZkZDk1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.3",
+  "imdbID": "tt0064399",
+  "type": "movie",
+  "fetched_at": "2026-06-15T15:00:09.561Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Frankenstein Must Be Destroyed",
+  "year": "1969",
+  "rated": "PG-13",
+  "released": "11 Feb 1970",
+  "runtime": "101 min",
+  "genre": "Drama, Horror, Sci-Fi",
+  "director": "Terence Fisher",
+  "writer": "Bert Batt, Anthony Nelson Keys, Mary Shelley",
+  "actors": "Peter Cushing, Veronica Carlson, Freddie Jones",
+  "plot": "Baron Frankenstein, with the aid of a young doctor and his fiancée, kidnaps the mentally sick Dr. Brandt in order to perform the first brain transplant operation.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2Y2OWFiZTctODhhMi00MWI3LTgxNTItMDliNDJmZWNiOGJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "6.7",
+  "imdbID": "tt0065738",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:57:35.326Z"
+}

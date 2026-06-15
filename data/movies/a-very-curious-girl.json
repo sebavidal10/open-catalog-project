@@ -1,0 +1,31 @@
+{
+  "title": "A Very Curious Girl",
+  "year": "1969",
+  "rated": "R",
+  "released": "03 Dec 1969",
+  "runtime": "107 min",
+  "genre": "Comedy, Drama",
+  "director": "Nelly Kaplan",
+  "writer": "Nelly Kaplan, Claude Makovski, Michel Fabre",
+  "actors": "Bernadette Lafont, Georges Géret, Henri Czarniak",
+  "plot": "A young woman named Marie, facing oppression and exploitation, begins selling her body, shaking the male-dominated capitalist society of Tellier.",
+  "language": "Latin, Spanish, French",
+  "country": "France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjM1MjJlODItMWZjMC00NTIzLWI5ODItNmIyZWU3OGY3Mjk5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0064327",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:59:35.009Z"
+}

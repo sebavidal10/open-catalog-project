@@ -1,0 +1,31 @@
+{
+  "title": "Play Dirty",
+  "year": "1969",
+  "rated": "R",
+  "released": "15 Jan 1969",
+  "runtime": "118 min",
+  "genre": "Adventure, Drama, War",
+  "director": "André De Toth",
+  "writer": "Melvyn Bragg, Lotte Colin, André De Toth",
+  "actors": "Michael Caine, Nigel Davenport, Nigel Green",
+  "plot": "During World War II a group of British commandos in North Africa disguised as Italian soldiers must travel behind enemy lines and destroy a vital German oil depot.",
+  "language": "English, Arabic, German",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGY1M2Q3M2QtZmVmNi00ZWJmLWIyZTAtYTE2YTdhNDBiYjUyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0063443",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:57:02.129Z"
+}

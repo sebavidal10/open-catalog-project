@@ -1,0 +1,31 @@
+{
+  "title": "Medea",
+  "year": "1969",
+  "rated": "Not Rated",
+  "released": "28 Jan 1970",
+  "runtime": "118 min",
+  "genre": "Drama, Fantasy",
+  "director": "Pier Paolo Pasolini",
+  "writer": "Pier Paolo Pasolini, Euripides",
+  "actors": "Maria Callas, Massimo Girotti, Laurent Terzieff",
+  "plot": "After his quest to retrieve the fabled Golden Fleece, Jason returns to Greece with powerful sorceress Medea. However, when the king banishes her, it's only human that Medea plots her furious revenge. Can they escape her wrath?",
+  "language": "Italian",
+  "country": "Italy, France, West Germany",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODliMTQzNGQtNTNlNi00OGIyLTkzMWYtNzRkNThlYjJlNjhiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0066065",
+  "type": "movie",
+  "fetched_at": "2026-06-15T14:56:53.618Z"
+}
