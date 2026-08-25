@@ -1,0 +1,35 @@
+{
+  "title": "The Great White Hope",
+  "year": "1970",
+  "rated": "PG-13",
+  "released": "16 Oct 1970",
+  "runtime": "103 min",
+  "genre": "Drama, Romance, Sport",
+  "director": "Martin Ritt",
+  "writer": "Howard Sackler",
+  "actors": "James Earl Jones, Jane Alexander, Lou Gilbert",
+  "plot": "A Black champion boxer and his white female companion struggle to survive while the white boxing establishment looks for ways to knock him down.",
+  "language": "English, Hungarian, German, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 2 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmUyOTg1YWEtMDZkZi00NDdiLWI3ODktNzdmZGFhMTgzNTMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "metascore": "53",
+  "imdbRating": "6.9",
+  "imdbID": "tt0065797",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:18:11.763Z"
+}

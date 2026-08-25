@@ -1,0 +1,31 @@
+{
+  "title": "Violent City",
+  "year": "1970",
+  "rated": "R",
+  "released": "01 Feb 1973",
+  "runtime": "108 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Sergio Sollima",
+  "writer": "Dino Maiuri, Massimo De Rita, Sauro Scavolini",
+  "actors": "Charles Bronson, Telly Savalas, Jill Ireland",
+  "plot": "After being double-crossed by his mistress and barely escaping a murder attempt, a hit-man sets out to take his revenge on the woman and the mob boss who put her up to it.",
+  "language": "English, Italian",
+  "country": "Italy, France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjg4MmExNGQtYmFmYi00NDczLTgwNGYtOGUzOTVlYmU2MjEzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0065555",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:17:39.733Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Molly Maguires",
+  "year": "1970",
+  "rated": "PG",
+  "released": "24 May 1970",
+  "runtime": "124 min",
+  "genre": "Drama, History",
+  "director": "Martin Ritt",
+  "writer": "Arthur H. Lewis, Walter Bernstein",
+  "actors": "Sean Connery, Richard Harris, Samantha Eggar",
+  "plot": "In 1876 Pennsylvania, a group of Irish immigrant coal miners begin to retaliate against the cruelty of their work environment.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTY5ODhkNjctYjZmZS00ZWYyLThkMTYtZjUwYjM2ODI3NzYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "6.8",
+  "imdbID": "tt0066090",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:17:25.419Z"
+}

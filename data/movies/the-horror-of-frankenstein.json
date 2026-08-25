@@ -1,0 +1,31 @@
+{
+  "title": "The Horror of Frankenstein",
+  "year": "1970",
+  "rated": "R",
+  "released": "17 Jun 1971",
+  "runtime": "95 min",
+  "genre": "Comedy, Horror, Sci-Fi",
+  "director": "Jimmy Sangster",
+  "writer": "Jeremy Burnham, Jimmy Sangster, Mary Shelley",
+  "actors": "Ralph Bates, Kate O'Mara, Veronica Carlson",
+  "plot": "Brilliant but arrogant scientist Victor Frankenstein builds a man from spare body parts, only for the monster to come alive and wreak havoc.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDZhMTM5ZDEtYzU0YS00MjQ3LTg3NzItY2RiOGRmOGFhMmIxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0065851",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:19:51.802Z"
+}

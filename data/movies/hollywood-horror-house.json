@@ -1,0 +1,27 @@
+{
+  "title": "Hollywood Horror House",
+  "year": "1970",
+  "rated": "R",
+  "released": "N/A",
+  "runtime": "91 min",
+  "genre": "Horror, Thriller",
+  "director": "Donald Wolfe",
+  "writer": "Donald Wolfe",
+  "actors": "Miriam Hopkins, David Garfield, Gale Sondergaard",
+  "plot": "An aging actress living in her Hollywood mansion with a retinue of elderly servants employs a new, mentally disturbed, personal assistant who schemes to take over the large estate.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjRmMzY3OWMtOTA4ZS00OGJlLTllYmItNTViMTNjZDA5NjExXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0063552",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:19:52.980Z"
+}

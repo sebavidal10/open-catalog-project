@@ -1,0 +1,31 @@
+{
+  "title": "Even Dwarfs Started Small",
+  "year": "1970",
+  "rated": "Not Rated",
+  "released": "02 Feb 1971",
+  "runtime": "96 min",
+  "genre": "Comedy, Drama",
+  "director": "Werner Herzog",
+  "writer": "Werner Herzog",
+  "actors": "Helmut Döring, Paul Glauer, Gisela Hertwig",
+  "plot": "A group of dwarfs at a correctional facility erupt in anarchy.",
+  "language": "German",
+  "country": "West Germany",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyMDZkMTUtYWQ2MS00MTM4LTk3ZWUtMjEzNzZjNGZjOTFlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0065436",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:18:42.680Z"
+}

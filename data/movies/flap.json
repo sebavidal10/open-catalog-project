@@ -1,0 +1,27 @@
+{
+  "title": "Flap",
+  "year": "1970",
+  "rated": "GP",
+  "released": "01 Nov 1970",
+  "runtime": "106 min",
+  "genre": "Drama, Western",
+  "director": "Carol Reed",
+  "writer": "Clair Huffaker",
+  "actors": "Anthony Quinn, Claude Akins, Tony Bill",
+  "plot": "Comedy based on the plight of modern aboriginal Americans living on reservations.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWU5MjExMjUtNmMyYy00OTBkLWFiNDgtYTM0NGE4MmUwNGFhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0065726",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:20:10.667Z"
+}

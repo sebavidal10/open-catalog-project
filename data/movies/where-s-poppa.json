@@ -1,0 +1,31 @@
+{
+  "title": "Where's Poppa?",
+  "year": "1970",
+  "rated": "R",
+  "released": "30 Sep 1971",
+  "runtime": "82 min",
+  "genre": "Comedy",
+  "director": "Carl Reiner",
+  "writer": "Robert Klane",
+  "actors": "George Segal, Ruth Gordon, Ron Leibman",
+  "plot": "When an attorney meets the girl of his dreams, he fears that his batty mother will scare her off, so he schemes to eliminate the senile old woman.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzVjOGM0ODgtMDlmMS00NDZkLTk4OTktOWY2YTg2NWFmOGNjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0066563",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:19:20.634Z"
+}

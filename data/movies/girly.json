@@ -1,0 +1,31 @@
+{
+  "title": "Girly",
+  "year": "1970",
+  "rated": "R",
+  "released": "12 Feb 1970",
+  "runtime": "102 min",
+  "genre": "Comedy, Crime, Horror",
+  "director": "Freddie Francis",
+  "writer": "Brian Comport, Maisie Mosco",
+  "actors": "Michael Bryant, Ursula Howells, Pat Heywood",
+  "plot": "A wealthy, fatherless British clan kidnaps bums and hippies and forces them to participate in an elaborate role-playing game in which they are the perfect family; those who refuse or attempt escape are ritualistically murdered.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzY1NGZlOTAtNzU1Ni00Mzg0LWJiNGUtN2VjZDcxZmE1Yzg5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0064704",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:17:18.296Z"
+}

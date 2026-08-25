@@ -1,0 +1,31 @@
+{
+  "title": "Trash",
+  "year": "1970",
+  "rated": "R",
+  "released": "18 Feb 1971",
+  "runtime": "110 min",
+  "genre": "Drama",
+  "director": "Paul Morrissey",
+  "writer": "Paul Morrissey",
+  "actors": "Joe Dallesandro, Holly Woodlawn, Geri Miller",
+  "plot": "During the course of a day, a heroin addict overdoses in front of an upper-class couple, attempts to fool welfare by having his girlfriend fake a pregnancy, and frustrates the women in his life with his drug-induced impotence.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjUyZTMwNjMtMmFmOS00MTk5LTk4MGQtMDc4Mjk5OWUxZGI5XkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0066482",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:19:41.081Z"
+}

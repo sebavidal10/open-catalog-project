@@ -1,0 +1,27 @@
+{
+  "title": "C.C. & Company",
+  "year": "1970",
+  "rated": "R",
+  "released": "20 Jun 1971",
+  "runtime": "94 min",
+  "genre": "Action, Comedy, Drama",
+  "director": "Seymour Robbie",
+  "writer": "Roger Smith",
+  "actors": "Joe Namath, Ann-Margret, William Smith",
+  "plot": "A motorcycle rebel saves a woman from his gang and fights an outlaw guru for supremacy.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjU2YzcxYTAtOGVhMy00NDdmLTk4ZTgtM2ZkOWU3MjJiNTYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.8",
+  "imdbID": "tt0065511",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:18:58.088Z"
+}

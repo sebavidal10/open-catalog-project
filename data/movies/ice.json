@@ -1,0 +1,31 @@
+{
+  "title": "Ice",
+  "year": "1970",
+  "rated": "Not Rated",
+  "released": "02 Jul 1970",
+  "runtime": "130 min",
+  "genre": "Drama, Sci-Fi",
+  "director": "Robert Kramer",
+  "writer": "Robert Kramer",
+  "actors": "Robert Kramer, Leo Braudy, Tom Griffin",
+  "plot": "\"An underground revolutionary group struggles against internal strife to stage urban guerilla attacks against a fictionalized fascist regime in the United States. Interspersed throughout the narrative are rhetorical sequences that...",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjVlMGFhM2MtZDM2NS00NTJhLTgwMTAtYmVlM2ViY2YyOGE5L2ltYWdlXkEyXkFqcGdeQXVyNjQ0MzM5OTI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0064465",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:26:34.780Z"
+}

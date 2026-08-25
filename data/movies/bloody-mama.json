@@ -1,0 +1,35 @@
+{
+  "title": "Bloody Mama",
+  "year": "1970",
+  "rated": "R",
+  "released": "17 Aug 1970",
+  "runtime": "90 min",
+  "genre": "Crime, Drama",
+  "director": "Roger Corman",
+  "writer": "Robert Thom, Don Peters",
+  "actors": "Shelley Winters, Don Stroud, Pat Hingle",
+  "plot": "A psychologically disturbed matriarch presides over her damaged family of bank-robbing misfits.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOThlYzA2NTItYTEwNS00ZWQwLTkzNDItZDUxYWFhOWU4ODQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "13%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "5.7",
+  "imdbID": "tt0065481",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:18:18.932Z"
+}

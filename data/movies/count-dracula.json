@@ -1,0 +1,27 @@
+{
+  "title": "Count Dracula",
+  "year": "1970",
+  "rated": "PG",
+  "released": "12 Oct 1973",
+  "runtime": "98 min",
+  "genre": "Drama, Horror",
+  "director": "Jesús Franco",
+  "writer": "Bram Stoker, Erich Kröhnke, Augusto Finocchi",
+  "actors": "Christopher Lee, Herbert Lom, Klaus Kinski",
+  "plot": "Count Dracula, a vampire who regains his youth by drinking the blood of maidens, is pursued in London and Transylvania by Professor Van Helsing, Jonathan Harker and Quincey Morris.",
+  "language": "English, Spanish, Italian, German",
+  "country": "Spain, West Germany, Italy, Liechtenstein, United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTMxYzU3MzgtNDFmMy00MTc2LWIyMDgtZTExZmZkNGFjZjkyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.6",
+  "imdbID": "tt0065569",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:17:19.500Z"
+}

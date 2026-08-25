@@ -1,0 +1,31 @@
+{
+  "title": "Diary of a Mad Housewife",
+  "year": "1970",
+  "rated": "R",
+  "released": "15 Feb 1971",
+  "runtime": "95 min",
+  "genre": "Comedy, Drama",
+  "director": "Frank Perry",
+  "writer": "Eleanor Perry, Sue Kaufman",
+  "actors": "Richard Benjamin, Frank Langella, Carrie Snodgress",
+  "plot": "A housewife with an abusive husband has an affair with a writer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 6 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjY2YjY3MWEtOTk2My00NjBjLWEyY2EtMDZjZDIwNWFjMzllXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0065636",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:18:52.186Z"
+}

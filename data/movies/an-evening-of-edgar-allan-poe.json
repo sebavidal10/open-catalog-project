@@ -1,0 +1,27 @@
+{
+  "title": "An Evening of Edgar Allan Poe",
+  "year": "1970",
+  "rated": "Unrated",
+  "released": "01 Jan 1970",
+  "runtime": "53 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Kenneth Johnson",
+  "writer": "Edgar Allan Poe, David Welch, Kenneth Johnson",
+  "actors": "Vincent Price",
+  "plot": "\"An Evening of Edgar Allan Poe\" sees Vincent Price reciting four Edgar Allen Poe stories: The Tell-Tale Heart, The Sphinx, The Cask of Amontillado, and The Pit and the Pendulum.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjExMjlhODQtNjNjYy00OGQ3LTllNmItOTRjZmMwYTQwZjBhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0229371",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:24:54.691Z"
+}

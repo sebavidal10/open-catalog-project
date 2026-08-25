@@ -1,0 +1,27 @@
+{
+  "title": "Lovefilm",
+  "year": "1970",
+  "rated": "Not Rated",
+  "released": "08 Oct 1970",
+  "runtime": "123 min",
+  "genre": "Drama",
+  "director": "István Szabó",
+  "writer": "István Szabó",
+  "actors": "Judit Halász, András Bálint, Edit Kelemen",
+  "plot": "Jancsi reminiscences about Kata his childhood friend in WWII Budapest, They are separated as a result of 1956 revolution. Reunited as adults, they struggle with whether they will stay in each others lives.",
+  "language": "Hungarian",
+  "country": "Hungary",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzODU3NTQ5OV5BMl5BanBnXkFtZTcwMjg3MjUxMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbID": "tt0066429",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:26:25.286Z"
+}

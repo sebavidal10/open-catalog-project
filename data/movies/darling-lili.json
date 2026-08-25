@@ -1,0 +1,31 @@
+{
+  "title": "Darling Lili",
+  "year": "1970",
+  "rated": "G",
+  "released": "24 Jun 1970",
+  "runtime": "136 min",
+  "genre": "Comedy, Drama, Musical",
+  "director": "Blake Edwards",
+  "writer": "Blake Edwards, William Peter Blatty",
+  "actors": "Julie Andrews, Rock Hudson, Jeremy Kemp",
+  "plot": "Set during World War I, this movie is a cute spin on the Mata Hari legend.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 1 win & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWU5NGM2YjctNWMzOC00MmJmLThjNDMtOWVmZTg4NWM3MmZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0065611",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:19:26.579Z"
+}

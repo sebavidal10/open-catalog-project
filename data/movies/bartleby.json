@@ -1,0 +1,27 @@
+{
+  "title": "Bartleby",
+  "year": "1970",
+  "rated": "PG",
+  "released": "27 Jul 1973",
+  "runtime": "78 min",
+  "genre": "Drama",
+  "director": "Anthony Friedman",
+  "writer": "Rodney Carr-Smith, Anthony Friedman, Herman Melville",
+  "actors": "Paul Scofield, John McEnery, Thorley Walters",
+  "plot": "An asocial and enigmatic office clerk refuses to do his work, leaving it up to his boss to decide what should be done with him.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmE2NWQwYTctZGE0Yy00NjNlLWIwNDUtMzA3ZWIwMWVlY2JhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0065452",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:22:00.082Z"
+}

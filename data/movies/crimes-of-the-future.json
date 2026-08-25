@@ -1,0 +1,35 @@
+{
+  "title": "Crimes of the Future",
+  "year": "1970",
+  "rated": "Not Rated",
+  "released": "10 Aug 1984",
+  "runtime": "63 min",
+  "genre": "Comedy, Sci-Fi",
+  "director": "David Cronenberg",
+  "writer": "David Cronenberg",
+  "actors": "Ronald Mlodzik, Jon Lidolt, Tania Zolty",
+  "plot": "In a dystopic world where a plague is killing off pubescent human females, an esoteric researcher seeks his missing mentor while trying to retain morality in the sex-obsessed society he lives in.",
+  "language": "English",
+  "country": "Canada",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWM1MGZhYzEtZjYwMy00NTRlLTkxMzgtMzMwNGY4Y2MyY2ZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "4.7",
+  "imdbID": "tt0065591",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:17:40.920Z"
+}

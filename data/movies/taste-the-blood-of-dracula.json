@@ -1,0 +1,31 @@
+{
+  "title": "Taste the Blood of Dracula",
+  "year": "1970",
+  "rated": "R",
+  "released": "07 Jun 1970",
+  "runtime": "91 min",
+  "genre": "Drama, Fantasy, Horror",
+  "director": "Peter Sasdy",
+  "writer": "Anthony Hinds, Bram Stoker",
+  "actors": "Christopher Lee, Geoffrey Keen, Gwen Watford",
+  "plot": "After killing his disciple, three English gentlemen unwittingly resurrect Count Dracula, who seeks to avenge his servant by making the trio die by the hands of their own children.",
+  "language": "English, Latin",
+  "country": "United Kingdom",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmM4YTAyNDAtNjFmYS00OWRkLWE4MzUtNWI4YjU2M2ExOTVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0065073",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:17:38.552Z"
+}

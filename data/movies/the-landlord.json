@@ -1,0 +1,35 @@
+{
+  "title": "The Landlord",
+  "year": "1970",
+  "rated": "PG",
+  "released": "20 May 1970",
+  "runtime": "112 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Hal Ashby",
+  "writer": "Bill Gunn, Kristin Hunter",
+  "actors": "Beau Bridges, Lee Grant, Diana Sands",
+  "plot": "Naïve 29-year-old Elgar Enders buys a building in a black Brooklyn ghetto to evict the tenants and upgrade it. But instead, he grows fond of the tenants and falls in love with a mixed-race girl while his wealthy parents disapprove.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMzMTgxMzM5MV5BMl5BanBnXkFtZTcwNzU2NjE2NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "6.9",
+  "imdbID": "tt0065963",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:17:58.710Z"
+}

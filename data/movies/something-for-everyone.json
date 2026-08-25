@@ -1,0 +1,31 @@
+{
+  "title": "Something for Everyone",
+  "year": "1970",
+  "rated": "R",
+  "released": "29 Apr 1971",
+  "runtime": "112 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Harold Prince",
+  "writer": "Harry Kressing, Hugh Wheeler",
+  "actors": "Angela Lansbury, Michael York, Anthony Higgins",
+  "plot": "In post-war Austria, young, handsome country lad Konrad Ludwig (Michael York) charms his way into a butler position at the castle of the widowed (and destitute) Countess von Ornstein (Angela Lansbury). He is soon running the entir...",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmI3MjhkNzktMGIwMC00YmM2LTk2NzgtOWE2YjM2N2RiNzkyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0066392",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:20:47.815Z"
+}

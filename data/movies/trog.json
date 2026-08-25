@@ -1,0 +1,31 @@
+{
+  "title": "Trog",
+  "year": "1970",
+  "rated": "GP",
+  "released": "26 Oct 1970",
+  "runtime": "93 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Freddie Francis",
+  "writer": "Aben Kandel, Peter Bryan, John Gilling",
+  "actors": "Joan Crawford, Michael Gough, Bernard Kay",
+  "plot": "A sympathetic anthropologist uses drugs and surgery to try to communicate with a primitive troglodyte who is found living in a local cave.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTJlNDVjY2UtZWIxMS00MzM2LWI2NDctYWYyY2ViOGM3YTNjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "13%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.0",
+  "imdbID": "tt0066492",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:17:34.953Z"
+}

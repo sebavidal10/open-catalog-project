@@ -1,0 +1,31 @@
+{
+  "title": "King Lear",
+  "year": "1970",
+  "rated": "PG",
+  "released": "06 Aug 1975",
+  "runtime": "140 min",
+  "genre": "Drama",
+  "director": "Grigoriy Kozintsev, Iosif Shapiro",
+  "writer": "Grigoriy Kozintsev, Geoffrey of Monmouth, Boris Pasternak",
+  "actors": "Jüri Järvet, Elza Radzina, Galina Volchek",
+  "plot": "A Soviet adaptation of a world-famous tragedy about an aged king and how cruelly he lose his illusions.",
+  "language": "Russian, Latin",
+  "country": "Soviet Union",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTVlOWY2YzYtMzJhMC00MmNlLTgwOWItYjVkMTAzYzIxZWVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.0",
+  "imdbID": "tt0064553",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:21:23.717Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Private Life of Sherlock Holmes",
+  "year": "1970",
+  "rated": "PG-13",
+  "released": "29 Oct 1970",
+  "runtime": "125 min",
+  "genre": "Adventure, Comedy, Crime",
+  "director": "Billy Wilder",
+  "writer": "Arthur Conan Doyle, Billy Wilder, I.A.L. Diamond",
+  "actors": "Robert Stephens, Christopher Lee, Colin Blakely",
+  "plot": "When a bored Holmes eagerly takes the case of Gabrielle Valladon after an attempt on her life, the search for her missing husband leads to Loch Ness and the legendary monster.",
+  "language": "English, Russian, French, German",
+  "country": "United Kingdom, United States",
+  "awards": "3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDNiMzI5MWMtZDhlMy00Yzg5LWI1NDAtZDE0NGRmOTg5NmFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "7.0",
+  "imdbID": "tt0066249",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:17:14.758Z"
+}

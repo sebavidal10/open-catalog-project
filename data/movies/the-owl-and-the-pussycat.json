@@ -1,0 +1,31 @@
+{
+  "title": "The Owl and the Pussycat",
+  "year": "1970",
+  "rated": "PG",
+  "released": "03 Nov 1970",
+  "runtime": "95 min",
+  "genre": "Comedy, Romance",
+  "director": "Herbert Ross",
+  "writer": "Bill Manhoff, Buck Henry",
+  "actors": "Barbra Streisand, George Segal, Robert Klein",
+  "plot": "A stuffy author enters into an explosive relationship with his neighbor, a foul-mouthed, freewheeling prostitute.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjAzOGVjMDYtOGI4ZC00YzhkLThjMDMtOTVlNGQ5N2JiZjdjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0066195",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:17:50.393Z"
+}

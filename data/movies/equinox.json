@@ -1,0 +1,31 @@
+{
+  "title": "Equinox",
+  "year": "1970",
+  "rated": "GP",
+  "released": "01 Oct 1970",
+  "runtime": "82 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Jack Woods, Dennis Muren, Mark Thomas McGee",
+  "writer": "Mark Thomas McGee, Jack Woods",
+  "actors": "Edward Connell, Barbara Hewitt, Frank Bonner",
+  "plot": "Four friends are attacked by a demon while on a picnic, due to possession of a tome of mystic information. Told in flashbacks by the sole survivor.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDcxZGNmNjYtOGI5Mi00ODVhLThlNWEtOTZhODU3MzkwNjRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0067055",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:18:12.961Z"
+}

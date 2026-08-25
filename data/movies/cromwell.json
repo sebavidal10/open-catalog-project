@@ -1,0 +1,31 @@
+{
+  "title": "Cromwell",
+  "year": "1970",
+  "rated": "G",
+  "released": "17 Jul 1970",
+  "runtime": "139 min",
+  "genre": "Biography, Drama, History",
+  "director": "Ken Hughes",
+  "writer": "Ken Hughes",
+  "actors": "Richard Harris, Alec Guinness, Robert Morley",
+  "plot": "Puritan statesman Oliver Cromwell leads England in a civil war against the absolutist and Catholic-sympathetic King Charles I.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Won 1 Oscar. 2 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWNjOWQyNDItY2FhMS00YzUzLWI4ZTgtOWNmNzVlOTU2ZThmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0065593",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:17:36.140Z"
+}

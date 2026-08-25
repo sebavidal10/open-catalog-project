@@ -1,0 +1,35 @@
+{
+  "title": "A Man Called Horse",
+  "year": "1970",
+  "rated": "R",
+  "released": "01 May 1970",
+  "runtime": "114 min",
+  "genre": "Adventure, Drama, Western",
+  "director": "Elliot Silverstein",
+  "writer": "Jack DeWitt, Dorothy M. Johnson, Gregory Crosby",
+  "actors": "Richard Harris, Judith Anderson, Jean Gascon",
+  "plot": "In 1825, an English aristocrat is captured by Native Americans. He lives with them and begins to understand their way of life. Eventually, he is accepted as part of the tribe and aspires to become their leader.",
+  "language": "English, Sioux, French",
+  "country": "United States, Mexico",
+  "awards": "1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTE3ZDY5MTQtZTkyZC00YzRjLTk3MGQtNTJlMjRkN2MwZDkyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "46/100"
+    }
+  ],
+  "metascore": "46",
+  "imdbRating": "6.8",
+  "imdbID": "tt0066049",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:17:10.014Z"
+}

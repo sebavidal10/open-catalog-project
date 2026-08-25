@@ -1,0 +1,31 @@
+{
+  "title": "The Phantom Tollbooth",
+  "year": "1970",
+  "rated": "G",
+  "released": "01 Dec 1972",
+  "runtime": "90 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Chuck Jones, Abe Levitow, Dave Monahan",
+  "writer": "Chuck Jones, Sam Rosen, Norton Juster",
+  "actors": "Butch Patrick, Hans Conried, Mel Blanc",
+  "plot": "Milo is a boy who is bored with life. One day he comes home to find a toll booth in his room. Having nothing better to do, he gets in his toy car and drives through - only to emerge in a world full of adventure.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDAwNTk3OTItMWViYi00NmU4LThlMTAtNzM1ZDNlNzlmZWFmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0064806",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:17:20.687Z"
+}

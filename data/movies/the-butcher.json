@@ -1,0 +1,31 @@
+{
+  "title": "The Butcher",
+  "year": "1970",
+  "rated": "Unrated",
+  "released": "19 Dec 1971",
+  "runtime": "93 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "Claude Chabrol",
+  "writer": "Claude Chabrol",
+  "actors": "Stéphane Audran, Jean Yanne, Antonio Passalia",
+  "plot": "An unlikely friendship between a dour, working class butcher and a repressed schoolteacher coincides with a grisly series of Ripper-type murders in a provincial French town.",
+  "language": "French",
+  "country": "France, Italy",
+  "awards": "Nominated for 1 BAFTA Award2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTAyNTIxNmItOWVjMS00MGFmLWI0NGItNDViNmFiMGFiMTQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0064106",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:19:02.846Z"
+}

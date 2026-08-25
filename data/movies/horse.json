@@ -1,0 +1,27 @@
+{
+  "title": "Horse",
+  "year": "1970",
+  "rated": "N/A",
+  "released": "22 Feb 1970",
+  "runtime": "90 min",
+  "genre": "Crime, Thriller",
+  "director": "Pierre Granier-Deferre",
+  "writer": "Georges Godefroy, Pascal Jardin, Pierre Granier-Deferre",
+  "actors": "Jean Gabin, Danièle Ajoret, Michel Barbey",
+  "plot": "Near the Baie de la Seine swamps, opposite the Port of Le Havre, Auguste Maroilleur, an elderly farmer, exploits 400 hectares of crop land with the help of his family, over which he rules with an iron hand. Things go awry the day ...",
+  "language": "French",
+  "country": "France, Italy, West Germany",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTc3ZGZhNmMtODhmZS00YjkzLWJmOTctOGMzYTNjY2I1NzA5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0064294",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:21:17.710Z"
+}

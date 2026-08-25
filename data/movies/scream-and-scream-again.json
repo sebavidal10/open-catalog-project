@@ -1,0 +1,31 @@
+{
+  "title": "Scream and Scream Again",
+  "year": "1970",
+  "rated": "R",
+  "released": "13 Feb 1970",
+  "runtime": "95 min",
+  "genre": "Crime, Drama, Horror",
+  "director": "Gordon Hessler",
+  "writer": "Christopher Wicking, Peter Saxon",
+  "actors": "Vincent Price, Christopher Lee, Peter Cushing",
+  "plot": "A serial killer who drains his victims' blood is on the loose in London. The police follow him to a house owned by an eccentric scientist.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTZiNTg5NGEtZjA2Mi00NmY1LWJiZDgtYzllZGQxNjQ2ZDY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "65%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0064949",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:18:30.798Z"
+}

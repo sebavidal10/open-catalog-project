@@ -1,0 +1,27 @@
+{
+  "title": "Dorian Gray",
+  "year": "1970",
+  "rated": "R",
+  "released": "17 Aug 1970",
+  "runtime": "93 min",
+  "genre": "Horror, Thriller",
+  "director": "Massimo Dallamano",
+  "writer": "Oscar Wilde, Marcello Coscia, Massimo Dallamano",
+  "actors": "Helmut Berger, Richard Todd, Herbert Lom",
+  "plot": "A corrupt young man seemingly sells his soul to eternally retain his youthful beauty, all while a special painting gradually reveals his inner ugliness to all.",
+  "language": "English, Italian",
+  "country": "United Kingdom, Italy, West Germany, Liechtenstein",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE5NTFkZTQtZGE0Mi00NjA5LWJlYTEtNWQ0YmM2ZDY1MDkzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0065656",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:18:31.988Z"
+}

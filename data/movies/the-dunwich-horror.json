@@ -1,0 +1,31 @@
+{
+  "title": "The Dunwich Horror",
+  "year": "1970",
+  "rated": "R",
+  "released": "14 Jan 1970",
+  "runtime": "90 min",
+  "genre": "Horror",
+  "director": "Daniel Haller",
+  "writer": "Curtis Hanson, Henry Rosenbaum, Ronald Silkosky",
+  "actors": "Sandra Dee, Dean Stockwell, Ed Begley",
+  "plot": "Wilbur Whateley travels to the Arkham Miskatonic University to borrow the legendary Necronomicon. But, little does anyone know, Whateley isn't quite human...",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTRmMmExOWYtMjQwNy00Y2ZhLTlmZTYtZmVmMzYyYmMwY2JiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "29%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.4",
+  "imdbID": "tt0065669",
+  "type": "movie",
+  "fetched_at": "2026-08-25T22:17:23.054Z"
+}
