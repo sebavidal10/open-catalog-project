@@ -1,0 +1,35 @@
+{
+  "title": "Le Mans",
+  "year": "1971",
+  "rated": "G",
+  "released": "23 Jun 1971",
+  "runtime": "106 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Lee H. Katzin, John Sturges",
+  "writer": "Harry Kleiner, John T. Kelley",
+  "actors": "Steve McQueen, Siegfried Rauch, Elga Andersen",
+  "plot": "Two car racing champions, an American and a German, face off on the world's hardest endurance course: Le Mans in France.",
+  "language": "English, French, Italian, German",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmNmNjViZDYtZDhmOC00M2E5LWI2NmYtNDg2YWFhNzMxOWFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "6.7",
+  "imdbID": "tt0067334",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:58.180Z"
+}

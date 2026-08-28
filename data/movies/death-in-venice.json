@@ -1,0 +1,31 @@
+{
+  "title": "Death in Venice",
+  "year": "1971",
+  "rated": "GP",
+  "released": "01 Jun 1971",
+  "runtime": "130 min",
+  "genre": "Drama, Romance",
+  "director": "Luchino Visconti",
+  "writer": "Thomas Mann, Luchino Visconti, Nicola Badalucco",
+  "actors": "Dirk Bogarde, Romolo Valli, Mark Burns",
+  "plot": "While recovering in Venice, sickly composer Gustav von Aschenbach becomes dangerously fixated with teenager Tadzio.",
+  "language": "English, Italian, Polish, French, Russian, German",
+  "country": "Italy, France",
+  "awards": "Nominated for 1 Oscar. 18 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWQ3ODc3ODctZjc0Ni00MWVkLWIzZjAtNDA1OGU2N2VkNzAxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0067445",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:49.483Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Decameron",
+  "year": "1971",
+  "rated": "R",
+  "released": "29 Oct 1971",
+  "runtime": "111 min",
+  "genre": "Comedy, Drama, History",
+  "director": "Pier Paolo Pasolini",
+  "writer": "Pier Paolo Pasolini, Giovanni Boccaccio",
+  "actors": "Franco Citti, Ninetto Davoli, Jovan Jovanovic",
+  "plot": "An adaptation of nine stories from Boccaccio's \"Decameron\".",
+  "language": "Italian, Neapolitan, German, Latin",
+  "country": "Italy, France, West Germany",
+  "awards": "1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzI1NWFjYzctZTgxMy00MGM5LWIzNmYtM2RkNjdiOWQ5MTUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0065622",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:33.368Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Panic in Needle Park",
+  "year": "1971",
+  "rated": "PG",
+  "released": "01 Jun 1971",
+  "runtime": "110 min",
+  "genre": "Drama",
+  "director": "Jerry Schatzberg",
+  "writer": "James Mills, Joan Didion, John Gregory Dunne",
+  "actors": "Al Pacino, Kitty Winn, Alan Vint",
+  "plot": "Follows the lives of heroin addicts who frequent \"Needle Park\" in New York City.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzM2MGMzNDAtNTVhZC00MTFmLTk0YzUtNTM1ODViZDllNDAxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.1",
+  "imdbID": "tt0067549",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:24.724Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Shaft",
+  "year": "1971",
+  "rated": "R",
+  "released": "02 Jul 1971",
+  "runtime": "100 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Gordon Parks",
+  "writer": "Ernest Tidyman, John D.F. Black",
+  "actors": "Richard Roundtree, Moses Gunn, Charles Cioffi",
+  "plot": "A crime lord hires black private eye, John Shaft, to find and retrieve his kidnapped daughter.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 6 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTBhZmU3ZjItODdmYS00NzZlLTgwNTAtODg1ZTcyODc2Yzc5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "6.6",
+  "imdbID": "tt0067741",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:40.782Z"
+}

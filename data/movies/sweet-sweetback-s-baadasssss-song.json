@@ -1,0 +1,35 @@
+{
+  "title": "Sweet Sweetback's Baadasssss Song",
+  "year": "1971",
+  "rated": "R",
+  "released": "22 Mar 1973",
+  "runtime": "97 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Melvin Van Peebles",
+  "writer": "Melvin Van Peebles",
+  "actors": "Melvin Van Peebles, Hubert Scales, John Dullaghan",
+  "plot": "After saving a Black Panther from some racist cops, a black male prostitute goes on the run from \"the man\" with the help of the ghetto community and some disillusioned Hells Angels.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmZkNzNjN2UtOWEzYS00Y2UwLWFhYTctMzdlYjI2OTVkYmY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "5.5",
+  "imdbID": "tt0067810",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:34:12.365Z"
+}

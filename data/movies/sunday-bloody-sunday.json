@@ -1,0 +1,31 @@
+{
+  "title": "Sunday Bloody Sunday",
+  "year": "1971",
+  "rated": "R",
+  "released": "21 Sep 1971",
+  "runtime": "110 min",
+  "genre": "Drama",
+  "director": "John Schlesinger",
+  "writer": "Penelope Gilliatt, Ken Levison, John Schlesinger",
+  "actors": "Peter Finch, Glenda Jackson, Murray Head",
+  "plot": "The emotional intricacies of a polyamorous relationship between young artist Bob and his two lovers: a lonely male doctor and a frustrated female office worker.",
+  "language": "English, Italian, Hebrew, French",
+  "country": "United Kingdom",
+  "awards": "Nominated for 4 Oscars. 12 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzRjMzZkYTYtZWFlNC00ZDIxLTgxNmUtNDMyZDJlZWU3ZGI4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0067805",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:33:20.480Z"
+}

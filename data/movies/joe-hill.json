@@ -1,0 +1,31 @@
+{
+  "title": "Joe Hill",
+  "year": "1971",
+  "rated": "GP",
+  "released": "25 Aug 1971",
+  "runtime": "114 min",
+  "genre": "Biography, Drama, History",
+  "director": "Bo Widerberg",
+  "writer": "Bo Widerberg, Richard Weber, Steve Hopkins",
+  "actors": "Thommy Berggren, Anja Schmidt, Kelvin Malave",
+  "plot": "About the life and death of the legendary Swedish/American agitator Joe Hill.",
+  "language": "English, Swedish, Italian",
+  "country": "Sweden, United States",
+  "awards": "Nominated for 1 BAFTA Award1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODgwNDYzOTktNzI2Zi00NWNkLWJjOTYtMzk0YTFkMjZhOTY1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0067276",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:41:09.930Z"
+}

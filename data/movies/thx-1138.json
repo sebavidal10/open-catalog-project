@@ -1,0 +1,35 @@
+{
+  "title": "THX 1138",
+  "year": "1971",
+  "rated": "GP",
+  "released": "11 Mar 1971",
+  "runtime": "86 min",
+  "genre": "Drama, Sci-Fi, Thriller",
+  "director": "George Lucas",
+  "writer": "George Lucas, Walter Murch",
+  "actors": "Robert Duvall, Donald Pleasence, Don Pedro Colley",
+  "plot": "In the 25th century, a time when people have designations instead of names, a man, THX 1138, and a woman, LUH 3417, rebel against their rigidly controlled society.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjRlNjFjMTUtN2E5My00M2Y2LWE4MTQtZTdlYzQwNTMyZmU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "6.6",
+  "imdbID": "tt0066434",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:06.096Z"
+}

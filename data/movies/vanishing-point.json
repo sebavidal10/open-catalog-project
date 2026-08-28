@@ -1,0 +1,35 @@
+{
+  "title": "Vanishing Point",
+  "year": "1971",
+  "rated": "R",
+  "released": "13 Mar 1971",
+  "runtime": "99 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Richard C. Sarafian",
+  "writer": "Guillermo Cabrera Infante, Malcolm Hart, Barry Hall",
+  "actors": "Barry Newman, Cleavon Little, Charlotte Rampling",
+  "plot": "During the 1970s, car-delivery driver Kowalski delivers hot rods in record time, but always runs into trouble.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWE1MDBiZjYtYjE5Ny00MGUxLWJhMTEtYTM5MjcyZjYzN2Q0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "62%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "7.2",
+  "imdbID": "tt0067927",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:01.087Z"
+}

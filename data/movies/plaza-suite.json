@@ -1,0 +1,35 @@
+{
+  "title": "Plaza Suite",
+  "year": "1971",
+  "rated": "PG-13",
+  "released": "12 May 1971",
+  "runtime": "114 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Arthur Hiller",
+  "writer": "Neil Simon",
+  "actors": "Walter Matthau, Maureen Stapleton, Barbara Harris",
+  "plot": "Three vignettes, each set in room 719 of New York's Plaza Hotel, make up this comedy.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2IyY2ZkMDItMzBmNS00NzYwLTk3NGUtYmVhNmNiYWRlMDc2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "metascore": "54",
+  "imdbRating": "6.5",
+  "imdbID": "tt0067589",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:37:41.698Z"
+}

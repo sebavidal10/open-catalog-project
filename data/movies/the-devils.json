@@ -1,0 +1,35 @@
+{
+  "title": "The Devils",
+  "year": "1971",
+  "rated": "R",
+  "released": "16 Jul 1971",
+  "runtime": "111 min",
+  "genre": "Biography, Drama, History",
+  "director": "Ken Russell",
+  "writer": "Ken Russell, John Whiting, Aldous Huxley",
+  "actors": "Vanessa Redgrave, Oliver Reed, Dudley Sutton",
+  "plot": "In 17th-century France, Father Urbain Grandier's protection of the city of Loudun from the corrupt Cardinal Richelieu is undermined by a sexually repressed nun's accusation of witchcraft.",
+  "language": "English, Latin",
+  "country": "United Kingdom, United States",
+  "awards": "4 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjQzYzFmNmUtMWVkNS00MmU1LTkyMzUtYzhmNjIwM2ZjOWZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "metascore": "49",
+  "imdbRating": "7.7",
+  "imdbID": "tt0066993",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:29.652Z"
+}

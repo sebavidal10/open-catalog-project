@@ -1,0 +1,35 @@
+{
+  "title": "Klute",
+  "year": "1971",
+  "rated": "R",
+  "released": "25 Jun 1971",
+  "runtime": "114 min",
+  "genre": "Crime, Mystery, Thriller",
+  "director": "Alan J. Pakula",
+  "writer": "Andy Lewis, David E. Lewis",
+  "actors": "Jane Fonda, Donald Sutherland, Charles Cioffi",
+  "plot": "A small-town detective searching for a missing man has only one lead: a connection with a New York prostitute.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 9 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk0NWE4NWYtZmQ0OS00MjBmLWJiN2MtZmZjMmJhNmNhNmIwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.1",
+  "imdbID": "tt0067309",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:27.185Z"
+}

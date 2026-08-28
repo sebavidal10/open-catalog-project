@@ -1,0 +1,27 @@
+{
+  "title": "My Uncle Antoine",
+  "year": "1971",
+  "rated": "Not Rated",
+  "released": "12 Nov 1971",
+  "runtime": "104 min",
+  "genre": "Drama",
+  "director": "Claude Jutra",
+  "writer": "Clément Perron, Claude Jutra",
+  "actors": "Jacques Gagnon, Lyne Champagne, Jean Duceppe",
+  "plot": "Set in cold rural Quebec at Christmas time, we follow the coming of age of a young boy and the life of his family which owns the town's general store and undertaking business.",
+  "language": "French, English",
+  "country": "Canada",
+  "awards": "6 wins & 2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIyOTIzMTI3M15BMl5BanBnXkFtZTcwMzcyODg2MQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0067439",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:39:09.585Z"
+}

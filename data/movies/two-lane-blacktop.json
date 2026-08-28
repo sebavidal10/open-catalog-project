@@ -1,0 +1,35 @@
+{
+  "title": "Two-Lane Blacktop",
+  "year": "1971",
+  "rated": "R",
+  "released": "23 Jul 1971",
+  "runtime": "102 min",
+  "genre": "Drama",
+  "director": "Monte Hellman",
+  "writer": "Rudy Wurlitzer, Will Corry, Floyd Mutrux",
+  "actors": "James Taylor, Warren Oates, Laurie Bird",
+  "plot": "While drag-racing through the American Southwest in a Chevrolet 150, a driver and his mechanic cross paths with an enigmatic hitchhiker and the tall-tale-spinning driver of a GTO.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTZlOGI2MzUtODQxMi00NjI1LWFkZWQtNmVlNGQ3YmJkOTkwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "7.2",
+  "imdbID": "tt0067893",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:33:00.647Z"
+}

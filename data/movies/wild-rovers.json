@@ -1,0 +1,31 @@
+{
+  "title": "Wild Rovers",
+  "year": "1971",
+  "rated": "GP",
+  "released": "19 Jun 1971",
+  "runtime": "136 min",
+  "genre": "Drama, Western",
+  "director": "Blake Edwards",
+  "writer": "Blake Edwards",
+  "actors": "William Holden, Ryan O'Neal, Karl Malden",
+  "plot": "Tired of cow-punching for a living, two Montana cowboys rob a bank and flee but their employer's sons chase after them.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmE2ODdkZWItNjBlZi00NjRkLTgwYzktZmJkNjE2NThmMjUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0067989",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:35:46.138Z"
+}

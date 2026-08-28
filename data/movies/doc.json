@@ -1,0 +1,31 @@
+{
+  "title": "'Doc'",
+  "year": "1971",
+  "rated": "PG",
+  "released": "04 Aug 1971",
+  "runtime": "96 min",
+  "genre": "Drama, Western",
+  "director": "Frank Perry",
+  "writer": "Pete Hamill",
+  "actors": "Stacy Keach, Faye Dunaway, Harris Yulin",
+  "plot": "Doc Holliday, the cold-blooded sharp-shooter, reunites with his old friend, Marshall Wyatt Earp, to take down the Clanton gang in the dusty town of Tombstone, in Arizona.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTkwNzJiMjUtNjI3Yy00YTEzLWE2ZmQtYjlhMTJkZWIzM2FiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0067003",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:36:17.062Z"
+}

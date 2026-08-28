@@ -1,0 +1,31 @@
+{
+  "title": "Making It",
+  "year": "1971",
+  "rated": "R",
+  "released": "04 Aug 1971",
+  "runtime": "97 min",
+  "genre": "Comedy, Drama",
+  "director": "John Erman",
+  "writer": "Peter Bart, James Leigh",
+  "actors": "Kristoffer Tabori, Paul Appleby, Carol Arthur",
+  "plot": "Phil, a 17-year-old cocky high school student thinks nothing of using the people around him to satisfy his self-centered needs, until someone in his life gets pregnant.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTNmZGM3M2QtOWEyYi00YTBkLTgzM2EtNTJjMmY1YzI3YzFmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "17%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0067383",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:36:33.486Z"
+}

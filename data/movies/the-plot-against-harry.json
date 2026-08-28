@@ -1,0 +1,35 @@
+{
+  "title": "The Plot Against Harry",
+  "year": "1971",
+  "rated": "N/A",
+  "released": "16 May 1990",
+  "runtime": "81 min",
+  "genre": "Comedy, Crime",
+  "director": "Michael Roemer",
+  "writer": "Michael Roemer",
+  "actors": "Martin Priest, Ben Lang, Maxine Woods",
+  "plot": "When a former big shot in the Jewish Mafia is released from prison, his ex-wife and family try to set him straight.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzg4MTM3ODc2N15BMl5BanBnXkFtZTcwNzk2MTgyMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.0",
+  "imdbID": "tt0064820",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:39:00.896Z"
+}

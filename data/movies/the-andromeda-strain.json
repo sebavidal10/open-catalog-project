@@ -1,0 +1,35 @@
+{
+  "title": "The Andromeda Strain",
+  "year": "1971",
+  "rated": "G",
+  "released": "12 Mar 1971",
+  "runtime": "131 min",
+  "genre": "Mystery, Sci-Fi, Thriller",
+  "director": "Robert Wise",
+  "writer": "Michael Crichton, Nelson Gidding",
+  "actors": "James Olson, Arthur Hill, David Wayne",
+  "plot": "Top scientists work feverishly in a secret, state-of-the-art laboratory to discover what killed the citizens of a small town and how the deadly contagion can be stopped.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODg3NDViNDYtNzYxMC00ZWI3LWE5ZWMtMDFlNzFlODBmNDA5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "68%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "7.2",
+  "imdbID": "tt0066769",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:21.012Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Villain",
+  "year": "1971",
+  "rated": "R",
+  "released": "22 Sep 1971",
+  "runtime": "98 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Michael Tuchner",
+  "writer": "Dick Clement, Ian La Frenais, Al Lettieri",
+  "actors": "Richard Burton, Ian McShane, Nigel Davenport",
+  "plot": "In 1970s London, Scotland Yard orchestrates the downfall of mob boss Vic Dakin after he crosses the line by blackmailing Members of Parliament.",
+  "language": "English, French",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODVjMmNhZjMtOTExMS00MTdhLTliYTktOTY3NDhjZDE2ZWRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0067952",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:35:36.146Z"
+}

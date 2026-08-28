@@ -1,0 +1,35 @@
+{
+  "title": "The Anderson Tapes",
+  "year": "1971",
+  "rated": "GP",
+  "released": "01 Sep 1971",
+  "runtime": "99 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Sidney Lumet",
+  "writer": "Lawrence Sanders, Frank Pierson",
+  "actors": "Sean Connery, Dyan Cannon, Martin Balsam",
+  "plot": "After ten years in prison to protect a mafia family, Duke Anderson is released and he cashes in a debt of honor with the mob to bankroll a caper.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODYyNzdhYjgtMjIxNS00YzIwLTg1ZjYtMjMxNzU1YjNkMDk2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "6.4",
+  "imdbID": "tt0066767",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:38.302Z"
+}

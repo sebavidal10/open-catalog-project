@@ -1,0 +1,35 @@
+{
+  "title": "Nicholas and Alexandra",
+  "year": "1971",
+  "rated": "PG",
+  "released": "13 Dec 1971",
+  "runtime": "183 min",
+  "genre": "Biography, Drama, History",
+  "director": "Franklin J. Schaffner",
+  "writer": "Robert K. Massie, Edward Bond, James Goldman",
+  "actors": "Michael Jayston, Janet Suzman, Roderic Noble",
+  "plot": "Tsar Nicholas II, the inept last monarch of Russia, insensitive to the needs of his people, is overthrown and exiled to Siberia with his family.",
+  "language": "English, French, German, Russian",
+  "country": "United Kingdom",
+  "awards": "Won 2 Oscars. 3 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzVlMmFkM2EtY2IwMC00ZmVjLWJlNzQtM2Q0MGRhNzU2M2U4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "metascore": "57",
+  "imdbRating": "7.2",
+  "imdbID": "tt0067483",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:42.017Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Marta",
+  "year": "1971",
+  "rated": "R",
+  "released": "01 Jan 1974",
+  "runtime": "96 min",
+  "genre": "Drama, Horror, Thriller",
+  "director": "José Antonio Nieves Conde",
+  "writer": "Ricardo López Aranda, Juan José Alonso Millán, Tito Carpi",
+  "actors": "Marisa Mell, Stephen Boyd, Jesús Puente",
+  "plot": "A wealthy landowner haunted by the spectre of his dead mother has a fling with a beautiful fugitive who bears a striking resemblance to his missing wife, who may have been murdered.",
+  "language": "Spanish",
+  "country": "Spain, Italy",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzg2OTY2MTctYjQxNi00MTI5LTljYWMtYjczNmZmMDk0MDY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0067010",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:38:10.399Z"
+}

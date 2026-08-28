@@ -1,0 +1,31 @@
+{
+  "title": "The Burglars",
+  "year": "1971",
+  "rated": "PG",
+  "released": "14 Jun 1972",
+  "runtime": "120 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Henri Verneuil",
+  "writer": "Henri Verneuil, Vahé Katcha, David Goodis",
+  "actors": "Jean-Paul Belmondo, Omar Sharif, Dyan Cannon",
+  "plot": "In 1970s Athens a group of professional burglars plans an emerald heist from the home of a gem collector, but corrupt Greek police inspector Abel Zacharia is on their trail.",
+  "language": "French, English",
+  "country": "France, Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmU2NzMwNTctNjkyZi00ZWU5LTk4YzYtMjgyNjAxOWYyYjk5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0068347",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:36:08.403Z"
+}

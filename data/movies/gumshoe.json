@@ -1,0 +1,31 @@
+{
+  "title": "Gumshoe",
+  "year": "1971",
+  "rated": "GP",
+  "released": "21 Apr 1972",
+  "runtime": "86 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Stephen Frears",
+  "writer": "Neville Smith",
+  "actors": "Albert Finney, Billie Whitelaw, Frank Finlay",
+  "plot": "Inspired by his love for Dashiell Hammett novels, nightclub comedian Eddie Ginley puts an ad in the paper as a private eye. The case he gets turns out to be a strange setup and as he digs to the bottom of it his life starts fallin...",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 2 BAFTA 1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWIyZjM3ZDAtYjc4Mi00MWE3LWE2YjctNGMwMjgyNmMxZjE0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0068669",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:38:20.714Z"
+}

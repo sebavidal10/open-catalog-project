@@ -1,0 +1,31 @@
+{
+  "title": "The Touch",
+  "year": "1971",
+  "rated": "R",
+  "released": "14 Jul 1971",
+  "runtime": "115 min",
+  "genre": "Drama",
+  "director": "Ingmar Bergman",
+  "writer": "Ingmar Bergman",
+  "actors": "Elliott Gould, Bibi Andersson, Max von Sydow",
+  "plot": "A Swedish housewife begins an adulterous affair with a foreign archaeologist. But he is an emotionally scarred man, a Holocaust survivor; consequently, their relationship will be painfully difficult.",
+  "language": "English, Swedish, French",
+  "country": "Sweden, United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGMzYTAzZDItYWFmZS00ZmE4LTg5M2MtNmQ4ODdhY2VjOWUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0066826",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:35:39.868Z"
+}

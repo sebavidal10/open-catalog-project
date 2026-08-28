@@ -1,0 +1,27 @@
+{
+  "title": "Zeppelin",
+  "year": "1971",
+  "rated": "G",
+  "released": "06 Oct 1971",
+  "runtime": "100 min",
+  "genre": "Adventure, Drama, War",
+  "director": "Etienne Périer",
+  "writer": "Arthur Rowe, Donald Churchill, Owen Crump",
+  "actors": "Michael York, Elke Sommer, Peter Carsten",
+  "plot": "In 1915, frustrated with the German air-raids on London, British Intelligence sends Scots officer Geoffrey Richter-Douglas, who has German ancestry, to Germany, to find information about the latest German Zeppelin.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzNlOGEwNDktYTc3MC00NjIwLTg2MzYtOTc5MDgxYjEyOTcxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0068014",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:39:23.159Z"
+}

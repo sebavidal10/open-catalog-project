@@ -1,0 +1,35 @@
+{
+  "title": "Summer of '42",
+  "year": "1971",
+  "rated": "PG",
+  "released": "19 Apr 1971",
+  "runtime": "104 min",
+  "genre": "Drama, Romance",
+  "director": "Robert Mulligan",
+  "writer": "Herman Raucher",
+  "actors": "Jennifer O'Neill, Gary Grimes, Jerry Houser",
+  "plot": "A teenager spending his summer vacation on Nantucket Island develops an innocent love for a young war bride who's awaiting news about her husband's fate.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 5 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzk2MDcxZTgtYTdmYi00MzlmLTk0ZjgtNmMxNGE4ZTdlM2ZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "metascore": "59",
+  "imdbRating": "7.2",
+  "imdbID": "tt0067803",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:45.729Z"
+}

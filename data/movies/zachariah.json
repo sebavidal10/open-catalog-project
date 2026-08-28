@@ -1,0 +1,31 @@
+{
+  "title": "Zachariah",
+  "year": "1971",
+  "rated": "PG",
+  "released": "25 Jun 1971",
+  "runtime": "93 min",
+  "genre": "Comedy, Drama, Musical",
+  "director": "George Englund",
+  "writer": "Philip Austin, Peter Bergman, Hermann Hesse",
+  "actors": "John Rubinstein, Patricia Quinn, Don Johnson",
+  "plot": "Two gunfighters separate and experience surreal visions on their journey through the west.",
+  "language": "English",
+  "country": "Mexico, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTNjYTFmOWQtNWZjNi00MmE3LThkYjctYzY5YzhhM2VkMDk1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0068011",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:37:14.390Z"
+}

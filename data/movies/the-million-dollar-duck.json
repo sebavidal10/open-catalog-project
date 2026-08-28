@@ -1,0 +1,35 @@
+{
+  "title": "The Million Dollar Duck",
+  "year": "1971",
+  "rated": "G",
+  "released": "30 Jun 1971",
+  "runtime": "89 min",
+  "genre": "Comedy, Family, Sci-Fi",
+  "director": "Vincent McEveety",
+  "writer": "Ted Key, Roswell Rogers",
+  "actors": "Dean Jones, Sandy Duncan, Joe Flynn",
+  "plot": "Professor Dooley takes home a duck from his research laboratory as a pet for his son, but soon finds out that it lays golden eggs.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTgyMGY3YTAtNTY1Yi00YzJlLWFjMTctMzFiMmVhOGM5NjFhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "17%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "45/100"
+    }
+  ],
+  "metascore": "45",
+  "imdbRating": "5.8",
+  "imdbID": "tt0066728",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:35:02.419Z"
+}

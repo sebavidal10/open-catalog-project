@@ -1,0 +1,31 @@
+{
+  "title": "Emitai",
+  "year": "1971",
+  "rated": "Not Rated",
+  "released": "04 May 1977",
+  "runtime": "103 min",
+  "genre": "Drama",
+  "director": "Ousmane Sembene",
+  "writer": "Ousmane Sembene",
+  "actors": "Andongo Diabon, Robert Fontaine, Michel Renaudeau",
+  "plot": "As World War II is going on in Europe, a conflict arises between the French and the Diola-speaking tribe of Africa, prompting the village women to organize their men to sit beneath a tree to pray.",
+  "language": "Wolof, Dyula, French",
+  "country": "Senegal, France",
+  "awards": "2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQzNTc0MTE5MV5BMl5BanBnXkFtZTgwMzg1ODEzMTE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "7.1",
+  "imdbID": "tt0067048",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:40:58.742Z"
+}

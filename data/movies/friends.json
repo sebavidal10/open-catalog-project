@@ -1,0 +1,31 @@
+{
+  "title": "Friends",
+  "year": "1971",
+  "rated": "R",
+  "released": "29 Oct 1971",
+  "runtime": "101 min",
+  "genre": "Drama, Romance",
+  "director": "Lewis Gilbert",
+  "writer": "Lewis Gilbert, Vernon Harris, Jack Russell",
+  "actors": "Sean Bury, Anicée Alvina, Ronald Lewis",
+  "plot": "A rich English boy meets an orphaned French girl and as they become friends, create a world that is far away from the adult world we live in.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDIyYmNhNDUtNTFiZC00YWQwLWIyZjAtNjhjNmY5NWVhNDM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "17%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0067118",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:33:13.070Z"
+}

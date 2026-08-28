@@ -1,0 +1,27 @@
+{
+  "title": "Vacation",
+  "year": "1971",
+  "rated": "N/A",
+  "released": "05 Apr 1972",
+  "runtime": "101 min",
+  "genre": "Drama",
+  "director": "Tinto Brass",
+  "writer": "Tinto Brass, Roberto Lerici, Vincenzo M. Siniscalchi",
+  "actors": "Vanessa Redgrave, Franco Nero, Leopoldo Trieste",
+  "plot": "A group of insane persons run away from the probably just as crazy civilization.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "2 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDk0MTE1ZjUtY2RmYS00Y2ZlLWI2NWQtMDZjZDI1MmE3MDU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.4",
+  "imdbID": "tt0065161",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:34:27.232Z"
+}

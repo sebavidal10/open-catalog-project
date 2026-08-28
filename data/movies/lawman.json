@@ -1,0 +1,35 @@
+{
+  "title": "Lawman",
+  "year": "1971",
+  "rated": "R",
+  "released": "04 Aug 1971",
+  "runtime": "99 min",
+  "genre": "Adventure, Drama, Western",
+  "director": "Michael Winner",
+  "writer": "Gerald Wilson",
+  "actors": "Burt Lancaster, Robert Ryan, Lee J. Cobb",
+  "plot": "A lawman from Bannock arrives in Sabbath to arrest all the cattlemen whose wild celebration the year before resulted in the accidental death of an old man.",
+  "language": "English",
+  "country": "United States, Mexico",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDVkZjAxY2YtMjcxMy00NWNkLThmMmEtZmQwNGFkNDcyYjIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "7.0",
+  "imdbID": "tt0067333",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:33:05.605Z"
+}

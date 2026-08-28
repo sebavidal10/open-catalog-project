@@ -1,0 +1,31 @@
+{
+  "title": "The Big Doll House",
+  "year": "1971",
+  "rated": "R",
+  "released": "26 Feb 1972",
+  "runtime": "95 min",
+  "genre": "Action, Drama, Thriller",
+  "director": "Jack Hill",
+  "writer": "Don Spencer",
+  "actors": "Roberta Collins, Pam Grier, Judith Brown",
+  "plot": "Beautiful female prisoners are abused in a Philippine prison until five of them plot an escape by taking the evil female warden hostage with reluctant help from two male fruit vendors.",
+  "language": "English",
+  "country": "Philippines, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGZhYmVlZTUtMzgyYy00NDY5LThlNTUtMzkxMDJkZTI0NGQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0066830",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:54.437Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "McCabe & Mrs. Miller",
+  "year": "1971",
+  "rated": "R",
+  "released": "08 Jul 1971",
+  "runtime": "120 min",
+  "genre": "Drama, Western",
+  "director": "Robert Altman",
+  "writer": "Edmund Naughton, Robert Altman, Brian McKay",
+  "actors": "Warren Beatty, Julie Christie, Rene Auberjonois",
+  "plot": "A gambler and a prostitute become business partners in a remote Old West mining town, and their enterprise thrives until a large corporation arrives on the scene.",
+  "language": "English, Cantonese",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzk1MjEwZWEtMjA5MS00ZjFhLTkzZDEtOTY0MmFlODA4MzM1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "93/100"
+    }
+  ],
+  "metascore": "93",
+  "imdbRating": "7.6",
+  "imdbID": "tt0067411",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:48.202Z"
+}

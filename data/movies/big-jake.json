@@ -1,0 +1,35 @@
+{
+  "title": "Big Jake",
+  "year": "1971",
+  "rated": "PG-13",
+  "released": "26 May 1971",
+  "runtime": "110 min",
+  "genre": "Drama, Western",
+  "director": "George Sherman, John Wayne",
+  "writer": "Harry Julian Fink, Rita M. Fink",
+  "actors": "John Wayne, Richard Boone, Maureen O'Hara",
+  "plot": "In 1909, when John Fain's gang kidnaps Jacob McCandles' grandson and holds him for ransom, Big Jake sets out to rescue the boy.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjhkNGZkZDItMDE5My00MDgwLWE1ZWItNjZiNmYyYzY5MzdkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "metascore": "57",
+  "imdbRating": "7.1",
+  "imdbID": "tt0066831",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:51.969Z"
+}

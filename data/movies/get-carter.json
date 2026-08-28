@@ -1,0 +1,35 @@
+{
+  "title": "Get Carter",
+  "year": "1971",
+  "rated": "R",
+  "released": "18 Mar 1971",
+  "runtime": "112 min",
+  "genre": "Crime, Thriller",
+  "director": "Mike Hodges",
+  "writer": "Mike Hodges, Ted Lewis",
+  "actors": "Michael Caine, Ian Hendry, Britt Ekland",
+  "plot": "When his brother dies under mysterious circumstances in a car accident, London gangster Jack Carter travels to Newcastle to investigate.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 BAFTA Award1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2FlYTQwMGItOWViOC00NTQyLWIzMDktZTI0MGFhNTY0Y2VmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "7.3",
+  "imdbID": "tt0067128",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:23.481Z"
+}

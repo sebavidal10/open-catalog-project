@@ -1,0 +1,31 @@
+{
+  "title": "A New Leaf",
+  "year": "1971",
+  "rated": "G",
+  "released": "19 Jul 1971",
+  "runtime": "102 min",
+  "genre": "Comedy, Romance",
+  "director": "Elaine May",
+  "writer": "Elaine May, Jack Ritchie",
+  "actors": "Walter Matthau, Elaine May, Jack Weston",
+  "plot": "Henry Graham lives the life of a playboy. When his lawyer tells him that his lifestyle has consumed all his funds, Henry must avoid climbing down the social ladder. He plans to marry wealthy scientist Henrietta Lowell - and kill her.",
+  "language": "English, Latin",
+  "country": "United States",
+  "awards": "1 win & 3 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTA1MGU1ODEtOTE1NS00OWI2LTkyMGItMTY1OTczMzEzMjExXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0067482",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:33:29.151Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Cisco Pike",
+  "year": "1971",
+  "rated": "R",
+  "released": "01 Feb 1972",
+  "runtime": "95 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Bill Norton",
+  "writer": "Bill Norton, Robert Towne",
+  "actors": "Kris Kristofferson, Karen Black, Gene Hackman",
+  "plot": "A down on his luck former drug dealer is forced by a corrupt LAPD policeman to sell 100 kilos of confiscated marijuana in one weekend.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjNiOGU0MzEtYTc3YS00YTcwLWE3MTAtMTQ4MjRlMjhmMzQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0068384",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:33:03.127Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Hunting Party",
+  "year": "1971",
+  "rated": "R",
+  "released": "30 Jul 1971",
+  "runtime": "111 min",
+  "genre": "Action, Drama, Western",
+  "director": "Don Medford",
+  "writer": "Gilbert Ralston, Lou Morheim, William W. Norton",
+  "actors": "Oliver Reed, Candice Bergen, Gene Hackman",
+  "plot": "A cattle baron with a long-range rifle hunts the outlaw who kidnapped his wife.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODY4ZjBjNmUtZTRiNi00MGMwLWEzOTYtMzE0NmE2ODU1OTY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "20%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0067224",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:43.255Z"
+}

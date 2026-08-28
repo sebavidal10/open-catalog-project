@@ -1,0 +1,35 @@
+{
+  "title": "They Might Be Giants",
+  "year": "1971",
+  "rated": "G",
+  "released": "09 Jun 1971",
+  "runtime": "98 min",
+  "genre": "Comedy, Mystery, Romance",
+  "director": "Anthony Harvey",
+  "writer": "James Goldman",
+  "actors": "George C. Scott, Joanne Woodward, Jack Gilford",
+  "plot": "In a Manhattan psychiatric hospital, a man convinced that he is Sherlock Holmes is treated by a female doctor who happens to be named Watson.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 BAFTA Award1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTNjZTQ0MDktYjAzOS00NGJjLWFjZGItZmM3OTgyMmZkYzQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "61%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "6.7",
+  "imdbID": "tt0067848",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:35:25.005Z"
+}

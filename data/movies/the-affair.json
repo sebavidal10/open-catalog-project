@@ -1,0 +1,31 @@
+{
+  "title": "The Affair",
+  "year": "1971",
+  "rated": "R",
+  "released": "11 Feb 1972",
+  "runtime": "93 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "George A. Romero",
+  "writer": "Rudy Ricci",
+  "actors": "Raymond Laine, Judith Ridley, Johanna Lawrence",
+  "plot": "A young man returns to his home city of Pittsburgh and moves in with an older woman whom he begins to rely on for emotional and financial support.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGQxODAyNjktYjI5MS00NzNiLWEzNWItOTI5MGY2YmIxY2VlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "48/100"
+    }
+  ],
+  "metascore": "48",
+  "imdbRating": "5.1",
+  "imdbID": "tt0166843",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:37:23.062Z"
+}

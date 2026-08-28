@@ -1,0 +1,31 @@
+{
+  "title": "The Go-Between",
+  "year": "1971",
+  "rated": "PG",
+  "released": "29 Jul 1971",
+  "runtime": "116 min",
+  "genre": "Drama, Romance",
+  "director": "Joseph Losey",
+  "writer": "Harold Pinter, L.P. Hartley",
+  "actors": "Julie Christie, Alan Bates, Dominic Guard",
+  "plot": "A tale of torrid and forbidden love between a couple in the English countryside.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 Oscar. 10 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTg5YjQ5MzQtODEzNi00M2JkLWE1MDQtNmM3NGU1NDE5Yzc0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0067144",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:34:48.338Z"
+}

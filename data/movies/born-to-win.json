@@ -1,0 +1,35 @@
+{
+  "title": "Born to Win",
+  "year": "1971",
+  "rated": "R",
+  "released": "22 Mar 1972",
+  "runtime": "88 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Ivan Passer",
+  "writer": "David Scott Milton, Ivan Passer",
+  "actors": "George Segal, Paula Prentiss, Karen Black",
+  "plot": "A smart-mouthed junkie and loser known as J.J. spends his days looking for just \"one more fix\".",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTQyMGNhNmItZDM5Yi00NWU0LTg3NjctYTljYWYyNjdlMTJmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "5.8",
+  "imdbID": "tt0066856",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:35:28.710Z"
+}

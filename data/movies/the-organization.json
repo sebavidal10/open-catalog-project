@@ -1,0 +1,31 @@
+{
+  "title": "The Organization",
+  "year": "1971",
+  "rated": "PG-13",
+  "released": "19 Oct 1971",
+  "runtime": "106 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Don Medford",
+  "writer": "James R. Webb, John Ball",
+  "actors": "Sidney Poitier, Barbara McNair, Gerald S. O'Loughlin",
+  "plot": "In San Francisco, Police Lieutenant Virgil Tibbs helps a group of idealistic vigilantes expose a drug ring controlled by powerful businessmen.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIyMTExNjAtMWViYi00NTRjLWFjOTctZjFiYjZmMjk4MGM3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "25%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0067535",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:34:44.622Z"
+}

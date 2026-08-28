@@ -1,0 +1,35 @@
+{
+  "title": "The Hospital",
+  "year": "1971",
+  "rated": "PG-13",
+  "released": "11 May 1972",
+  "runtime": "103 min",
+  "genre": "Comedy, Drama, Mystery",
+  "director": "Arthur Hiller",
+  "writer": "Paddy Chayefsky",
+  "actors": "George C. Scott, Diana Rigg, Barnard Hughes",
+  "plot": "A hospital's chief-of-staff struggles to find meaning in his life during a spate of staff deaths.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 7 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzM1NmJmNjktYjc4Yi00NzlhLWFlZjUtNDUwMTMxYTMyM2IyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "metascore": "72",
+  "imdbRating": "7.1",
+  "imdbID": "tt0067217",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:33:34.100Z"
+}

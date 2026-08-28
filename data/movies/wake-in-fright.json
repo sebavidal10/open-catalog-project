@@ -1,0 +1,35 @@
+{
+  "title": "Wake in Fright",
+  "year": "1971",
+  "rated": "R",
+  "released": "09 Oct 1971",
+  "runtime": "109 min",
+  "genre": "Drama, Thriller",
+  "director": "Ted Kotcheff",
+  "writer": "Evan Jones, Kenneth Cook, Ted Kotcheff",
+  "actors": "Donald Pleasence, Gary Bond, Chips Rafferty",
+  "plot": "After a bad gambling bet, a schoolteacher is marooned in a town full of crazy, drunk, violent men who threaten to make him just as crazy, drunk, and violent.",
+  "language": "English",
+  "country": "Australia",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjAwN2M2MjAtZDk2MS00MDQ2LTkxZWYtNTUyNTQ0YWI2NGJiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "7.5",
+  "imdbID": "tt0067541",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:12.317Z"
+}

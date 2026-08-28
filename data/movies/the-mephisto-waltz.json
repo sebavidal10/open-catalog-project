@@ -1,0 +1,35 @@
+{
+  "title": "The Mephisto Waltz",
+  "year": "1971",
+  "rated": "R",
+  "released": "11 Jun 1971",
+  "runtime": "115 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Paul Wendkos",
+  "writer": "Ben Maddow, Fred Mustard Stewart",
+  "actors": "Alan Alda, Jacqueline Bisset, Barbara Parkins",
+  "plot": "An old, dying satanist arranges to transfer his soul into the body of a young concert pianist.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjhiMzljYzQtM2Y2OC00N2Y5LWE4OGQtODQwMDg2NzZlOGNlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "63%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "47/100"
+    }
+  ],
+  "metascore": "47",
+  "imdbRating": "6.1",
+  "imdbID": "tt0067419",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:34:33.422Z"
+}

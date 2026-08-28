@@ -1,0 +1,35 @@
+{
+  "title": "Minnie and Moskowitz",
+  "year": "1971",
+  "rated": "GP",
+  "released": "21 Jul 1972",
+  "runtime": "114 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "John Cassavetes",
+  "writer": "John Cassavetes",
+  "actors": "Gena Rowlands, Seymour Cassel, Val Avery",
+  "plot": "A museum curator falls in love with a crazy parking attendant.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjc2N2MxYzUtMTFhOS00MmZmLWIyNDktMTEwNTEzNjRjMjAzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "7.2",
+  "imdbID": "tt0067433",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:37:05.617Z"
+}

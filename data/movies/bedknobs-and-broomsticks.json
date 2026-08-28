@@ -1,0 +1,35 @@
+{
+  "title": "Bedknobs and Broomsticks",
+  "year": "1971",
+  "rated": "G",
+  "released": "13 Dec 1971",
+  "runtime": "117 min",
+  "genre": "Animation, Adventure, Comedy",
+  "director": "Robert Stevenson, Ward Kimball",
+  "writer": "Ralph Wright, Ted Berman, Bill Walsh",
+  "actors": "Angela Lansbury, David Tomlinson, Roddy McDowall",
+  "plot": "An apprentice witch, three kids, and a cynical magician conman search for the missing component to a magic spell to be used in the defense of Britain in World War II.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 2 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMTY3MTE5OF5BMl5BanBnXkFtZTgwNTQ0ODgxMzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "66%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "metascore": "59",
+  "imdbRating": "7.1",
+  "imdbID": "tt0066817",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:30.889Z"
+}

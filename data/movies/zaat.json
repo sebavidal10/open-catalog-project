@@ -1,0 +1,27 @@
+{
+  "title": "Zaat",
+  "year": "1971",
+  "rated": "PG",
+  "released": "01 Jan 1971",
+  "runtime": "100 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Don Barton, Arnold Stevens",
+  "writer": "Ron Kivett, Lee O. Larew, Don Barton",
+  "actors": "Marshall Grauer, Wade Popwell, Paul Galloway",
+  "plot": "A mad scientist transforms himself into an aquatic killer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWZhYThmMjktM2E3OS00YTkzLWIyMzMtNDE1ZjYyYzExYWUyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "2.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "2.2",
+  "imdbID": "tt0072666",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:35:22.490Z"
+}

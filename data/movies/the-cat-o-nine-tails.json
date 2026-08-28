@@ -1,0 +1,35 @@
+{
+  "title": "The Cat o' Nine Tails",
+  "year": "1971",
+  "rated": "GP",
+  "released": "26 May 1971",
+  "runtime": "112 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Dario Argento",
+  "writer": "Dario Argento, Luigi Cozzi, Dardano Sacchetti",
+  "actors": "James Franciscus, Karl Malden, Catherine Spaak",
+  "plot": "A reporter and a blind puzzle writer investigate a series of murders connected to a pharmaceutical company conducting secret genetic experiments, finding themselves targeted by the killer.",
+  "language": "English, Italian",
+  "country": "Italy, France, West Germany",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMxYjhiOWEtMDQ5OC00NjA5LTk3MmYtZDFiZWQ1YWY0ZWMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "6.6",
+  "imdbID": "tt0065761",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:33:58.765Z"
+}

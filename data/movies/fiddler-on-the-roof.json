@@ -1,0 +1,35 @@
+{
+  "title": "Fiddler on the Roof",
+  "year": "1971",
+  "rated": "G",
+  "released": "03 Nov 1971",
+  "runtime": "181 min",
+  "genre": "Drama, Family, Musical",
+  "director": "Norman Jewison",
+  "writer": "Sholom Aleichem, Arnold Perl, Joseph Stein",
+  "actors": "Topol, Norma Crane, Leonard Frey",
+  "plot": "In pre-revolutionary Russia, a Jewish peasant with traditional values contends with marrying off three of his daughters with modern romantic ideals while growing anti-Semitic sentiment threatens his village.",
+  "language": "English, Hebrew, Russian",
+  "country": "United States",
+  "awards": "Won 3 Oscars. 10 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzYyYjJmMjctNzk3Yi00NmRhLWE5ZmQtZTNlZjU3MDMxNTBhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "8.0",
+  "imdbID": "tt0067093",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:04.858Z"
+}

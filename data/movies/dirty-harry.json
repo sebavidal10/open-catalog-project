@@ -1,0 +1,35 @@
+{
+  "title": "Dirty Harry",
+  "year": "1971",
+  "rated": "R",
+  "released": "23 Dec 1971",
+  "runtime": "102 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Don Siegel, Clint Eastwood",
+  "writer": "Harry Julian Fink, Rita M. Fink, Dean Riesner",
+  "actors": "Clint Eastwood, Andrew Robinson, Harry Guardino",
+  "plot": "When a killer calling himself \"Scorpio\" menaces San Francisco, tough-as-nails Police Inspector \"Dirty\" Harry Callahan is assigned to track down the crazed psychopath.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzNmOWVjN2ItMTQzOS00MTI4LTgxZDItMmZjNTVlMjY5Mjc1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.7",
+  "imdbID": "tt0066999",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:31:57.204Z"
+}

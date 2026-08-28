@@ -1,0 +1,31 @@
+{
+  "title": "Shoot Out",
+  "year": "1971",
+  "rated": "GP",
+  "released": "13 Oct 1971",
+  "runtime": "95 min",
+  "genre": "Drama, Western",
+  "director": "Henry Hathaway",
+  "writer": "Will James, Marguerite Roberts",
+  "actors": "Gregory Peck, Patricia Quinn, Robert F. Lyons",
+  "plot": "A former bank robber searches for his double-crossing partner who left him for dead, while having to look after an six-year-old girl.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmQ0ZGFiMmEtZjMwOS00MTkxLTg4ZWQtZmVhMzc1NzVlNGE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "20%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0067750",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:34:03.720Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Evel Knievel",
+  "year": "1971",
+  "rated": "GP",
+  "released": "10 Sep 1971",
+  "runtime": "88 min",
+  "genre": "Action, Biography, Drama",
+  "director": "Marvin J. Chomsky",
+  "writer": "Alan Caillou, John Milius",
+  "actors": "George Hamilton, Sue Lyon, Bert Freed",
+  "plot": "Biography of the famed motorcycle daredevil, much of which was filmed in his home town of Butte, Montana. The film depicts Knievel reflecting on major events in his life just before a big jump.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjVlMzc1ZDgtNzVlZi00MWY4LWEzMDYtZTRkZTU2MTI5ZTc3XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0067069",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:36:47.053Z"
+}

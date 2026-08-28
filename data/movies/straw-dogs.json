@@ -1,0 +1,35 @@
+{
+  "title": "Straw Dogs",
+  "year": "1971",
+  "rated": "R",
+  "released": "22 Dec 1971",
+  "runtime": "113 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Sam Peckinpah",
+  "writer": "David Zelag Goodman, Sam Peckinpah, Gordon Williams",
+  "actors": "Dustin Hoffman, Susan George, Peter Vaughan",
+  "plot": "A young American and his English wife come to rural England and face increasingly vicious local harassment.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 Oscar. 1 win & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmNhNzhhOWQtOTU3YS00MTkyLTlhY2UtNGUyY2NhOWNkYmQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "7.4",
+  "imdbID": "tt0067800",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:25.955Z"
+}

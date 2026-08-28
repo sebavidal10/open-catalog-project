@@ -1,0 +1,35 @@
+{
+  "title": "Johnny Got His Gun",
+  "year": "1971",
+  "rated": "PG",
+  "released": "04 Aug 1971",
+  "runtime": "111 min",
+  "genre": "Drama, War",
+  "director": "Dalton Trumbo",
+  "writer": "Dalton Trumbo, Luis Buñuel",
+  "actors": "Timothy Bottoms, Kathy Fields, Marsha Hunt",
+  "plot": "During World War I, a patriotic young American is rendered blind, deaf, limbless, and mute by a horrific artillery shell attack. Trapped in what's left of his body, he desperately looks for a way to end his life.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDY4YTE0ZmItMTk4NC00MTgxLTkxY2MtMGJkMWE3ZDBhMmI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "metascore": "71",
+  "imdbRating": "7.8",
+  "imdbID": "tt0067277",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:55.678Z"
+}

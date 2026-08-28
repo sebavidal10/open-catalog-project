@@ -1,0 +1,31 @@
+{
+  "title": "The Emigrants",
+  "year": "1971",
+  "rated": "PG",
+  "released": "08 Mar 1971",
+  "runtime": "151 min",
+  "genre": "Drama, History",
+  "director": "Jan Troell",
+  "writer": "Bengt Forslund, Jan Troell, Vilhelm Moberg",
+  "actors": "Max von Sydow, Liv Ullmann, Eddie Axberg",
+  "plot": "An 1840s Swedish farming family struggle with their unyielding land and decide to embark on the arduous journey to new hope in America.",
+  "language": "Swedish, English, Danish",
+  "country": "Sweden",
+  "awards": "Nominated for 5 Oscars. 8 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGNmOGE4YjMtZmE5OS00MDhlLWFmZDYtNGE0NmVkMDFjMWM2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.0",
+  "imdbID": "tt0067919",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:33:25.422Z"
+}

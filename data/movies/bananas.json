@@ -1,0 +1,35 @@
+{
+  "title": "Bananas",
+  "year": "1971",
+  "rated": "PG-13",
+  "released": "19 Jul 1971",
+  "runtime": "82 min",
+  "genre": "Comedy",
+  "director": "Woody Allen",
+  "writer": "Woody Allen, Mickey Rose",
+  "actors": "Woody Allen, Louise Lasser, Carlos Montalbán",
+  "plot": "When a bumbling New Yorker is dumped by his activist girlfriend, he travels to a tiny Latin American nation and becomes involved in its latest rebellion.",
+  "language": "English, Spanish, Yiddish, Italian",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTIyYmU1NmQtYjI3Ni00N2IwLTg4MmItMzNhOWRiMjk5NjY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "6.9",
+  "imdbID": "tt0066808",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:33:55.056Z"
+}

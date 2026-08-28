@@ -1,0 +1,31 @@
+{
+  "title": "Dr Jekyll & Sister Hyde",
+  "year": "1971",
+  "rated": "PG",
+  "released": "01 Apr 1972",
+  "runtime": "94 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Roy Ward Baker",
+  "writer": "Robert Louis Stevenson, Brian Clemens",
+  "actors": "Ralph Bates, Martine Beswick, Gerald Sim",
+  "plot": "A Victorian scientist tests a serum that transforms him into a lascivious murderess.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDI2MjZmM2UtNTQyMy00MTg5LWE3NTYtNGEwNzAzOGJjMTc3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0068502",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:34:02.486Z"
+}

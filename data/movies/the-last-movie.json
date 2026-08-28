@@ -1,0 +1,31 @@
+{
+  "title": "The Last Movie",
+  "year": "1971",
+  "rated": "R",
+  "released": "21 Oct 1988",
+  "runtime": "108 min",
+  "genre": "Drama",
+  "director": "Dennis Hopper",
+  "writer": "Dennis Hopper, Stewart Stern",
+  "actors": "Julie Adams, Daniel Ades, Richmond L. Aguilar",
+  "plot": "After a film production wraps in Peru, an American wrangler decides to stay behind to witness the ways that filmmaking affects the locals.",
+  "language": "English, Spanish, Quechua",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTJkMGZiZjAtYTZiMC00M2E4LWJlZGItZDc3ZTEzNTFkMTk5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "47%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0067327",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:34:56.209Z"
+}

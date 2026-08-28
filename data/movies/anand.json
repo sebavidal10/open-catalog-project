@@ -1,0 +1,27 @@
+{
+  "title": "Anand",
+  "year": "1971",
+  "rated": "Not Rated",
+  "released": "12 Mar 1971",
+  "runtime": "122 min",
+  "genre": "Drama, Musical",
+  "director": "Hrishikesh Mukherjee",
+  "writer": "Hrishikesh Mukherjee, Gulzar, D.N. Mukherjee",
+  "actors": "Rajesh Khanna, Amitabh Bachchan, Sumita Sanyal",
+  "plot": "The story of a terminally ill man who wishes to live life to the fullest before the inevitable occurs, as told by his best friend.",
+  "language": "Hindi",
+  "country": "India",
+  "awards": "9 wins & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2M5YjUyOTktNTQxNC00MzQ2LTk2NDAtMTFkMjBlODlhOGRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.1",
+  "imdbID": "tt0066763",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:35:59.725Z"
+}

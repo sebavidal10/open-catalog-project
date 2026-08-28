@@ -1,0 +1,31 @@
+{
+  "title": "Skin Game",
+  "year": "1971",
+  "rated": "PG",
+  "released": "01 Feb 1972",
+  "runtime": "102 min",
+  "genre": "Comedy, Western",
+  "director": "Paul Bogart, Gordon Douglas",
+  "writer": "Peter Stone, Richard Alan Simmons, David Giler",
+  "actors": "James Garner, Louis Gossett Jr., Susan Clark",
+  "plot": "In 1857, con man Quincy Drew and his black friend Jason O'Rourke swindle slave owners into buying Jason, who's a free man, and later share the profits when Jason escapes captivity.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzk5ZTZlMTUtYmQwZS00MjM4LTg0MzMtM2VlOGI3YWRhZTBiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.0",
+  "imdbID": "tt0067763",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:37:15.622Z"
+}

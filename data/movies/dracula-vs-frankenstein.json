@@ -1,0 +1,31 @@
+{
+  "title": "Dracula vs. Frankenstein",
+  "year": "1971",
+  "rated": "GP",
+  "released": "01 Dec 1971",
+  "runtime": "91 min",
+  "genre": "Horror, Sci-Fi",
+  "director": "Al Adamson, Samuel M. Sherman",
+  "writer": "William Pugsley, Samuel M. Sherman",
+  "actors": "J. Carrol Naish, Lon Chaney Jr., Zandor Vorkov",
+  "plot": "Dracula conspires with a mad doctor to resurrect the Frankenstein Monster.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWRmMjI5NWUtOGVhMy00ZTA1LTgzZTEtNTI0YTE5ZWNhMWY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "3.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "0%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "3.5",
+  "imdbID": "tt0067017",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:41:56.072Z"
+}

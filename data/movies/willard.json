@@ -1,0 +1,35 @@
+{
+  "title": "Willard",
+  "year": "1971",
+  "rated": "PG",
+  "released": "30 Jul 1971",
+  "runtime": "95 min",
+  "genre": "Horror",
+  "director": "Daniel Mann",
+  "writer": "Gilbert Ralston, Stephen Gilbert",
+  "actors": "Bruce Davison, Elsa Lanchester, Sondra Locke",
+  "plot": "A social misfit uses his only friends, his pet rats, to exact revenge on his tormentors.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDdiM2U3MzYtYmM3YS00MTI4LWIxYzctZmYzN2U3NDBkOTM4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "metascore": "49",
+  "imdbRating": "6.2",
+  "imdbID": "tt0067991",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:33:39.020Z"
+}

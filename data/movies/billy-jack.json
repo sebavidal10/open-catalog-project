@@ -1,0 +1,35 @@
+{
+  "title": "Billy Jack",
+  "year": "1971",
+  "rated": "GP",
+  "released": "02 Aug 1971",
+  "runtime": "114 min",
+  "genre": "Action, Drama",
+  "director": "Tom Laughlin",
+  "writer": "Tom Laughlin, Delores Taylor",
+  "actors": "Tom Laughlin, Delores Taylor, Clark Howat",
+  "plot": "Ex-Green Beret hapkido expert saves wild horses from being slaughtered for dog food and helps protect a desert \"freedom school\" for runaway.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTcwOTQ3NWItZDFjNS00OGZiLWE3NWYtZDcxYzFmYTAzOWRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "65%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "metascore": "50",
+  "imdbRating": "6.2",
+  "imdbID": "tt0066832",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:53.207Z"
+}

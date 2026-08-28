@@ -1,0 +1,35 @@
+{
+  "title": "The Omega Man",
+  "year": "1971",
+  "rated": "PG",
+  "released": "01 Aug 1971",
+  "runtime": "98 min",
+  "genre": "Action, Drama, Sci-Fi",
+  "director": "Boris Sagal",
+  "writer": "John William Corrington, Joyce Hooper Corrington, Richard Matheson",
+  "actors": "Charlton Heston, Anthony Zerbe, Rosalind Cash",
+  "plot": "Dr Robert Neville has developed an experimental vaccine which makes him the only immune survivor of a biological catastrophe. A gang of homicidal mutants blame science for their condition and attempt to kill him.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTExYjc1YjYtMDVmYy00NjNmLTg1NzYtZjNlNWI5ZjNiMTgyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "65%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "metascore": "56",
+  "imdbRating": "6.4",
+  "imdbID": "tt0067525",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:46.968Z"
+}

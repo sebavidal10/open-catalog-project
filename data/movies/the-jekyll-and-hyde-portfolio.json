@@ -1,0 +1,27 @@
+{
+  "title": "The Jekyll and Hyde Portfolio",
+  "year": "1971",
+  "rated": "X",
+  "released": "N/A",
+  "runtime": "81 min",
+  "genre": "Horror, Mystery",
+  "director": "Eric Jeffrey Haims",
+  "writer": "Donn Greer, Bonnie Jean Parker, Robert Louis Stevenson",
+  "actors": "Sebastian Brook, Mady Maguire, Donn Greer",
+  "plot": "A man commits a series of murders due to his dual personalities and his zodiac birth sign.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWI2ZTVmOTktZDUzNS00NmJiLWFhNzUtY2QwMmRmNTI3OTU0XkEyXkFqcGdeQXVyMjQ0ODE4OTU@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.0",
+  "imdbID": "tt0125275",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:39:59.182Z"
+}

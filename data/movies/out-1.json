@@ -1,0 +1,35 @@
+{
+  "title": "Out 1",
+  "year": "1971",
+  "rated": "Not Rated",
+  "released": "18 Nov 2015",
+  "runtime": "776 min",
+  "genre": "Drama, Mystery",
+  "director": "Jacques Rivette, Suzanne Schiffman",
+  "writer": "Jacques Rivette, Suzanne Schiffman, Honoré de Balzac",
+  "actors": "Michèle Moretti, Hermine Karagheuz, Karen Puig",
+  "plot": "Following the May 1968 civil unrest in France, a deaf-mute and a con artist simultaneously stumble upon the remnants of a secret society.",
+  "language": "French, English",
+  "country": "France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzI1YzIxNTYtZDljYi00NmMzLTk1M2EtYjI1MmRmNDI5YTQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.5",
+  "imdbID": "tt0246135",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:16.076Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "$",
+  "year": "1971",
+  "rated": "R",
+  "released": "17 Feb 1972",
+  "runtime": "121 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Richard Brooks",
+  "writer": "Richard Brooks",
+  "actors": "Warren Beatty, Goldie Hawn, Gert Fröbe",
+  "plot": "Bank security expert Joe Collins and call girl Dawn Divine plot to rob three safety deposit boxes containing $1.5 million in cash belonging to three very different criminals from a high-tech security bank in Hamburg, Germany.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDU4NDg1ZjMtODNhZC00Y2U1LTgxMzQtMDg1Njc1NWFiYjYzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0068152",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:35:10.100Z"
+}

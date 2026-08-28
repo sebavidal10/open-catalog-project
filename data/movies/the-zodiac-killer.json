@@ -1,0 +1,27 @@
+{
+  "title": "The Zodiac Killer",
+  "year": "1971",
+  "rated": "R",
+  "released": "07 Apr 1971",
+  "runtime": "87 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Tom Hanson",
+  "writer": "Ray Cantrell, Manny Cardoza",
+  "actors": "Hal Reed, Bob Jones, Ray Lynch",
+  "plot": "A serial killer in San Francisco murders without motive or apparent pattern and taunts the police with phone calls and letters.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzA1MTQzNmItN2RjNy00NDU0LWE2YzItODdhNWYwNGRmZGVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.4",
+  "imdbID": "tt0143016",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:40:04.131Z"
+}

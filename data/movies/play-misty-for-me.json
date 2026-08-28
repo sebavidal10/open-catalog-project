@@ -1,0 +1,35 @@
+{
+  "title": "Play Misty for Me",
+  "year": "1971",
+  "rated": "R",
+  "released": "12 Nov 1971",
+  "runtime": "102 min",
+  "genre": "Drama, Thriller",
+  "director": "Clint Eastwood",
+  "writer": "Jo Heims, Dean Riesner",
+  "actors": "Clint Eastwood, Jessica Walter, Donna Mills",
+  "plot": "The life of a disc jockey is turned upside down after a romantic encounter with an obsessed fan.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGE2MWFlOTItYzczNS00NzYwLWE1MWUtYWYyYWQzMTNiOTk3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "metascore": "78",
+  "imdbRating": "6.9",
+  "imdbID": "tt0067588",
+  "type": "movie",
+  "fetched_at": "2026-08-28T01:32:03.596Z"
+}
