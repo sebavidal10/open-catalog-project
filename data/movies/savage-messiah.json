@@ -1,0 +1,31 @@
+{
+  "title": "Savage Messiah",
+  "year": "1972",
+  "rated": "R",
+  "released": "01 Oct 1972",
+  "runtime": "97 min",
+  "genre": "Biography, Drama",
+  "director": "Ken Russell",
+  "writer": "Christopher Logue, H.S. Ede",
+  "actors": "Dorothy Tutin, Scott Antony, Helen Mirren",
+  "plot": "Biographical movie of the French sculptor Henri Gaudier-Brzeska.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 BAFTA Award1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmY1NDFlNzgtMGU2Yi00M2M5LWE3Y2UtMDQ4MGIzNWZkMTkxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "55%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0069225",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:53:18.041Z"
+}

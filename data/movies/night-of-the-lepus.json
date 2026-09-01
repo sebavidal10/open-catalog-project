@@ -1,0 +1,35 @@
+{
+  "title": "Night of the Lepus",
+  "year": "1972",
+  "rated": "PG",
+  "released": "04 Oct 1972",
+  "runtime": "88 min",
+  "genre": "Horror, Sci-Fi, Thriller",
+  "director": "William F. Claxton",
+  "writer": "Don Holliday, Gene R. Kearney, Russell Braddon",
+  "actors": "Stuart Whitman, Janet Leigh, Rory Calhoun",
+  "plot": "Giant mutant rabbits terrorize the south-west.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGNhYzdlZWQtNjVjMC00NjdkLTg4ZWItZjQzMGEwZmQ0NTgxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "0%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "37/100"
+    }
+  ],
+  "metascore": "37",
+  "imdbRating": "4.1",
+  "imdbID": "tt0069005",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:51:51.245Z"
+}

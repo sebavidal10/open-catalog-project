@@ -1,0 +1,35 @@
+{
+  "title": "Slaughterhouse-Five",
+  "year": "1972",
+  "rated": "R",
+  "released": "15 Mar 1972",
+  "runtime": "104 min",
+  "genre": "Comedy, Drama, Sci-Fi",
+  "director": "George Roy Hill",
+  "writer": "Kurt Vonnegut Jr., Stephen Geller",
+  "actors": "Michael Sacks, Ron Leibman, Eugene Roche",
+  "plot": "Billy Pilgrim has mysteriously become unstuck in time. He goes on an uncontrollable trip back and forth from his birth in New York to life on a distant planet and back again to the horrors of the 1945 fire-bombing of Dresden.",
+  "language": "English, German, Russian",
+  "country": "United States",
+  "awards": "3 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTU2N2M4MzEtMzU1ZS00YWUwLWI0OTYtZTU0NWQ2NWNkYjFkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "6.8",
+  "imdbID": "tt0069280",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:51:03.849Z"
+}

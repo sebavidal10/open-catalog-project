@@ -1,0 +1,35 @@
+{
+  "title": "The Life and Times of Judge Roy Bean",
+  "year": "1972",
+  "rated": "PG",
+  "released": "17 Dec 1972",
+  "runtime": "120 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "John Huston",
+  "writer": "John Milius",
+  "actors": "Paul Newman, Ava Gardner, Roy Jenson",
+  "plot": "In Vinegaroon, Texas, former outlaw Roy Bean appoints himself the judge for the region and dispenses his brand of justice as he sees fit.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzRjZmU0YjItMDU5Ny00ODg0LTg1MDQtMTgzYjgyNTg1NTM4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "metascore": "57",
+  "imdbRating": "6.8",
+  "imdbID": "tt0068853",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:51:06.345Z"
+}

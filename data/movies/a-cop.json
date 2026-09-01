@@ -1,0 +1,35 @@
+{
+  "title": "A Cop",
+  "year": "1972",
+  "rated": "PG",
+  "released": "25 Oct 1972",
+  "runtime": "98 min",
+  "genre": "Crime, Thriller",
+  "director": "Jean-Pierre Melville",
+  "writer": "Jean-Pierre Melville",
+  "actors": "Alain Delon, Richard Crenna, Catherine Deneuve",
+  "plot": "After a shaky first heist, a group of thieves plan an even more elaborate and risky second heist.",
+  "language": "French",
+  "country": "France, Italy",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjFjYzY2ZWUtYTMzNS00OWQ3LWFkZWYtMzIwYWY2NDZkZjJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "metascore": "72",
+  "imdbRating": "7.0",
+  "imdbID": "tt0067900",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:14.117Z"
+}

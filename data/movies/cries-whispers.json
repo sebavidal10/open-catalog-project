@@ -1,0 +1,31 @@
+{
+  "title": "Cries & Whispers",
+  "year": "1972",
+  "rated": "R",
+  "released": "05 Mar 1973",
+  "runtime": "92 min",
+  "genre": "Drama",
+  "director": "Ingmar Bergman",
+  "writer": "Ingmar Bergman",
+  "actors": "Harriet Andersson, Liv Ullmann, Kari Sylwan",
+  "plot": "When a woman dying of cancer in early twentieth-century Sweden is visited by her two sisters, long-repressed feelings between the siblings rise to the surface.",
+  "language": "Swedish, German, Danish",
+  "country": "Sweden",
+  "awards": "Won 1 Oscar. 22 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGJkMWJiZjYtZTZiMC00MDJmLWIxMDEtZDkxMzYzYTAyODZkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.9",
+  "imdbID": "tt0069467",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:51:01.385Z"
+}

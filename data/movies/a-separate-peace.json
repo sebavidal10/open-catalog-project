@@ -1,0 +1,31 @@
+{
+  "title": "A Separate Peace",
+  "year": "1972",
+  "rated": "PG",
+  "released": "27 Sep 1972",
+  "runtime": "104 min",
+  "genre": "Drama",
+  "director": "Larry Peerce",
+  "writer": "John Knowles, Fred Segal",
+  "actors": "John Heyl, Parker Stevenson, William Roerick",
+  "plot": "Two roomates at a prep school in New England during World War II come to grips with the war, jealousy and betrayal. Based on a novel by John Knowles.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWQ5NjY5NTQtNDM4MS00MjVhLWE4NjItNzJlMzYwNTgzNjE3XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.4",
+  "imdbID": "tt0069249",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:55:30.756Z"
+}

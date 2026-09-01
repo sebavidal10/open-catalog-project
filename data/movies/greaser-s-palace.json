@@ -1,0 +1,31 @@
+{
+  "title": "Greaser's Palace",
+  "year": "1972",
+  "rated": "TV-MA",
+  "released": "08 Nov 1973",
+  "runtime": "91 min",
+  "genre": "Comedy, Western",
+  "director": "Robert Downey Sr.",
+  "writer": "Robert Downey Sr.",
+  "actors": "Albert Henderson, Michael Sullivan, Luana Anders",
+  "plot": "A strange man named Jesse who can revive life and walk on water comes into a surreal and cruel western town.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMjAzOTQ4OF5BMl5BanBnXkFtZTcwNDgwOTcxMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0068659",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:54:38.766Z"
+}

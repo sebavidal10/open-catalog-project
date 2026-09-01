@@ -1,0 +1,27 @@
+{
+  "title": "Stanley",
+  "year": "1972",
+  "rated": "PG",
+  "released": "28 Apr 1973",
+  "runtime": "108 min",
+  "genre": "Horror",
+  "director": "William Grefé",
+  "writer": "William Grefé, Gary Crutcher",
+  "actors": "Chris Robinson, Alex Rocco, Steve Alaimo",
+  "plot": "A young Seminole Indian uses his rattlesnake to take revenge on all those he believes have wronged him.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmRlNjBhM2YtZGMxYi00ZmE1LTlmYzMtMzUyMjA1ODMzYTFmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.6/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.6",
+  "imdbID": "tt0069308",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:56:42.244Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Lady Sings the Blues",
+  "year": "1972",
+  "rated": "R",
+  "released": "12 Oct 1972",
+  "runtime": "144 min",
+  "genre": "Biography, Drama, Music",
+  "director": "Sidney J. Furie",
+  "writer": "Chris Clark, Suzanne De Passe, William Dufty",
+  "actors": "Diana Ross, Billy Dee Williams, Richard Pryor",
+  "plot": "The story of the troubled life and career of the legendary Jazz singer, Billie Holiday.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 5 Oscars. 5 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjk4NmZkNjgtZjYzOC00NTUxLTk0MDktZjkwNTc1Y2QwMjQ0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0068828",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:52:32.193Z"
+}

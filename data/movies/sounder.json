@@ -1,0 +1,35 @@
+{
+  "title": "Sounder",
+  "year": "1972",
+  "rated": "G",
+  "released": "26 Apr 1973",
+  "runtime": "105 min",
+  "genre": "Drama, Family",
+  "director": "Martin Ritt",
+  "writer": "Lonne Elder III, William H. Armstrong",
+  "actors": "Cicely Tyson, Paul Winfield, Kevin Hooks",
+  "plot": "The oldest son of a loving and strong family of black sharecroppers comes of age in the Depression-era South after his father is imprisoned for stealing food.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 4 Oscars. 5 wins & 12 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjVhZmU1NjMtODNiZC00YThmLTk1NDQtMWY5YjczNWU5NDc0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "7.5",
+  "imdbID": "tt0069303",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:52:59.466Z"
+}

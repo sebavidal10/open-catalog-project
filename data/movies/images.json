@@ -1,0 +1,31 @@
+{
+  "title": "Images",
+  "year": "1972",
+  "rated": "R",
+  "released": "18 Dec 1972",
+  "runtime": "104 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Robert Altman",
+  "writer": "Robert Altman, Susannah York",
+  "actors": "Susannah York, Rene Auberjonois, Marcel Bozzuffi",
+  "plot": "Whilst writing a children's book, a woman interrupted by images unsure if they may, or may not be real",
+  "language": "English, French",
+  "country": "United Kingdom",
+  "awards": "Nominated for 1 Oscar. 1 win & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTYzN2NiZmItNDcxNy00MmNlLTkxZGYtNzAzYzg5MmI1YjU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt0068732",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:51:54.966Z"
+}

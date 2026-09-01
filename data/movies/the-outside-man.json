@@ -1,0 +1,31 @@
+{
+  "title": "The Outside Man",
+  "year": "1972",
+  "rated": "PG",
+  "released": "01 Jan 1973",
+  "runtime": "104 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Jacques Deray",
+  "writer": "Jean-Claude Carrière, Jacques Deray, Ian McLellan Hunter",
+  "actors": "Jean-Louis Trintignant, Ann-Margret, Roy Scheider",
+  "plot": "After fulfilling a contract killing in Los Angeles, a French hit man becomes the target of a hit himself and tries to flee back to Paris.",
+  "language": "French, English",
+  "country": "France, Italy, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTQzZjBiMDMtZTRlOS00OTY4LWExMmEtOTViMjc4MTY5MDM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0070083",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:53:51.493Z"
+}

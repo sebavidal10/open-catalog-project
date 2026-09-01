@@ -1,0 +1,31 @@
+{
+  "title": "Elvis on Tour",
+  "year": "1972",
+  "rated": "G",
+  "released": "01 Nov 1972",
+  "runtime": "93 min",
+  "genre": "Documentary, Music",
+  "director": "Robert Abel, Pierre Adidge",
+  "writer": "Robert Abel, Pierre Adidge",
+  "actors": "Elvis Presley, Bill Baize, Estell Brown",
+  "plot": "Concert footage and offstage documentary of singer Elvis Presley.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmE5YWU4ZjMtMTIwZC00MzQ0LTg1N2QtZDdjOWM5MDA0YjkxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "20%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0068537",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:11.651Z"
+}

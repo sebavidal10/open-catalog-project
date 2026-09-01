@@ -1,0 +1,35 @@
+{
+  "title": "Sisters",
+  "year": "1972",
+  "rated": "R",
+  "released": "26 Mar 1973",
+  "runtime": "93 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Brian De Palma",
+  "writer": "Brian De Palma, Louisa Rose",
+  "actors": "Margot Kidder, Jennifer Salt, Charles Durning",
+  "plot": "A small-time reporter tries to convince the police that she saw a murder in the apartment across from hers.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjNmZjA1YTEtMWEwMi00NjNiLThkYmUtZjg5MDgzMzFiZTNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "6.8",
+  "imdbID": "tt0070698",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:50.078Z"
+}

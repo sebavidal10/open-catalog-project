@@ -1,0 +1,31 @@
+{
+  "title": "The New Land",
+  "year": "1972",
+  "rated": "PG",
+  "released": "26 Feb 1972",
+  "runtime": "102 min",
+  "genre": "Drama, Western",
+  "director": "Jan Troell",
+  "writer": "Vilhelm Moberg, Bengt Forslund, Jan Troell",
+  "actors": "Max von Sydow, Liv Ullmann, Eddie Axberg",
+  "plot": "A Swedish immigrant family struggle to establish a new life for themselves in the forest of Minnesota in the mid 19th Century.",
+  "language": "Swedish, English",
+  "country": "Sweden",
+  "awards": "Nominated for 1 Oscar. 9 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmVhYzQ5ZjAtZjU1ZS00MjFlLWE0NTQtNTI5YTdiNWQ4YzYzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "8.0",
+  "imdbID": "tt0069035",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:53:40.367Z"
+}

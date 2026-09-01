@@ -1,0 +1,27 @@
+{
+  "title": "Portnoy's Complaint",
+  "year": "1972",
+  "rated": "R",
+  "released": "15 Sep 1972",
+  "runtime": "101 min",
+  "genre": "Comedy",
+  "director": "Ernest Lehman",
+  "writer": "Philip Roth, Ernest Lehman",
+  "actors": "Richard Benjamin, Karen Black, Lee Grant",
+  "plot": "The movie chronicles a young man's (Richard Benjamin) love and passion in his own kinky way.",
+  "language": "English, Italian, Yiddish, American Sign ",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzdjOTExOWEtYjE1OC00NDNkLTg4M2EtMzU5NDI0ZDFjMmI1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.3",
+  "imdbID": "tt0069112",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:56:54.591Z"
+}

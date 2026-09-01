@@ -1,0 +1,27 @@
+{
+  "title": "The Adventures of Pinocchio",
+  "year": "1971",
+  "rated": "G",
+  "released": "01 Nov 1978",
+  "runtime": "90 min",
+  "genre": "Animation, Family, Fantasy",
+  "director": "Giuliano Cenci",
+  "writer": "Giuliano Cenci, Carlo Collodi",
+  "actors": "Lauro Gazzolo, Roberta Paladini, Roberto Bertea",
+  "plot": "A fairly faithful adaptation of Carlo Collodi's classic novel about an animated puppet that desires to become a real boy.",
+  "language": "Italian",
+  "country": "Italy, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTYwYzdmZGMtMjJkYS00NDVmLTk2MTUtOTNkMjFhOTAyMWE2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0287351",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:48:09.093Z"
+}

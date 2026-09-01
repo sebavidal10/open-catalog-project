@@ -1,0 +1,35 @@
+{
+  "title": "Frogs",
+  "year": "1972",
+  "rated": "PG",
+  "released": "10 Mar 1972",
+  "runtime": "91 min",
+  "genre": "Horror, Mystery, Sci-Fi",
+  "director": "George McCowan",
+  "writer": "Robert Hutchison, Robert Blees",
+  "actors": "Ray Milland, Sam Elliott, Joan Van Ark",
+  "plot": "A group of helpless victims celebrate a birthday on an island estate crawling with killer amphibians, birds, insects, and reptiles.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWNkM2IyZTUtNmJhMC00YWM2LWIzM2UtMTg1ZGRhMDBlZTA3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "26%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "4.4",
+  "imdbID": "tt0068615",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:51:11.295Z"
+}

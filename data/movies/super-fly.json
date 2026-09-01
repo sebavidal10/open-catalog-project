@@ -1,0 +1,35 @@
+{
+  "title": "Super Fly",
+  "year": "1972",
+  "rated": "R",
+  "released": "04 Aug 1972",
+  "runtime": "91 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Gordon Parks Jr.",
+  "writer": "Phillip Fenty",
+  "actors": "Ron O'Neal, Carl Lee, Sheila Frazier",
+  "plot": "The daily routine of cocaine dealer Priest who wants to score one more super deal and retire.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmMzYjQ3YTEtZmZlMi00YTcwLWJmZDYtOGQ1NDVjOWYxMzVhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "6.4",
+  "imdbID": "tt0069332",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:51:31.349Z"
+}

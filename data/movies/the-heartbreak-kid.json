@@ -1,0 +1,35 @@
+{
+  "title": "The Heartbreak Kid",
+  "year": "1972",
+  "rated": "PG",
+  "released": "22 Dec 1972",
+  "runtime": "106 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Elaine May",
+  "writer": "Bruce Jay Friedman, Neil Simon",
+  "actors": "Charles Grodin, Cybill Shepherd, Jeannie Berlin",
+  "plot": "A newlywed man on his honeymoon has second thoughts about his marriage and falls for a different woman.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 3 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWM5MmRmYzItMjc1ZC00ZmI2LWI3NzQtMDc5MzU5YjM1OTVlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "7.0",
+  "imdbID": "tt0068687",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:51:02.620Z"
+}

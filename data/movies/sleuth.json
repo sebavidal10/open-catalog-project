@@ -1,0 +1,31 @@
+{
+  "title": "Sleuth",
+  "year": "1972",
+  "rated": "PG",
+  "released": "11 Dec 1972",
+  "runtime": "138 min",
+  "genre": "Mystery, Thriller",
+  "director": "Joseph L. Mankiewicz",
+  "writer": "Anthony Shaffer",
+  "actors": "Laurence Olivier, Michael Caine, Alec Cawthorne",
+  "plot": "A man who loves games and theater invites his wife's lover to meet him, setting up a battle of wits with potentially deadly results.",
+  "language": "English, Italian",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 4 Oscars. 5 wins & 11 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDNjNzZiYWItOGY4OC00NjEwLWIxZjEtYzNiOTlmMWNkNWFkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.9",
+  "imdbID": "tt0069281",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:40.157Z"
+}

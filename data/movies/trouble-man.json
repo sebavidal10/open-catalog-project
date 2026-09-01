@@ -1,0 +1,31 @@
+{
+  "title": "Trouble Man",
+  "year": "1972",
+  "rated": "R",
+  "released": "14 Apr 1973",
+  "runtime": "99 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Ivan Dixon",
+  "writer": "John D.F. Black",
+  "actors": "Robert Hooks, Paul Winfield, Ralph Waite",
+  "plot": "A neighborhood \"problem solver\" is framed for murder by a couple of local crime bosses trying to get him out of the way.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2M2MjRhMzItNWJhOC00ZjEwLTliMWEtYTE0YThjZGVkZDlkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "14%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0069414",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:56:18.246Z"
+}

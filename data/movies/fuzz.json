@@ -1,0 +1,27 @@
+{
+  "title": "Fuzz",
+  "year": "1972",
+  "rated": "PG",
+  "released": "12 Oct 1972",
+  "runtime": "92 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "Richard A. Colla",
+  "writer": "Evan Hunter",
+  "actors": "Burt Reynolds, Raquel Welch, Jack Weston",
+  "plot": "Detectives at a rundown police precinct in Boston scramble to catch a bomber who's targeting local politicians while trying to extort money from the city.",
+  "language": "English, Spanish, American Sign ",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTI1ZjMwYjAtM2E3ZS00ZjMyLWJlMjMtNGRiZDljOGQ4NzZiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.4",
+  "imdbID": "tt0068617",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:51:47.483Z"
+}

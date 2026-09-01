@@ -1,0 +1,31 @@
+{
+  "title": "Butterflies Are Free",
+  "year": "1972",
+  "rated": "PG",
+  "released": "01 Jul 1972",
+  "runtime": "109 min",
+  "genre": "Comedy, Drama, Music",
+  "director": "Milton Katselas",
+  "writer": "Leonard Gershe",
+  "actors": "Goldie Hawn, Edward Albert, Eileen Heckart",
+  "plot": "A blind man moves into his own apartment against the wishes of his overprotective mother and befriends the freethinking young woman next door.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 2 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2NkODY2ZjMtYmRmYS00ZTdhLTgxM2QtNGIyNTMyYmI1NTAzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0068326",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:52:40.871Z"
+}

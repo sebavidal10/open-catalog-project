@@ -1,0 +1,31 @@
+{
+  "title": "Scandalous John",
+  "year": "1971",
+  "rated": "G",
+  "released": "22 Jun 1971",
+  "runtime": "113 min",
+  "genre": "Comedy, Drama, Family",
+  "director": "Robert Butler",
+  "writer": "Bill Walsh, Don DaGradi, Richard Gardner",
+  "actors": "Brian Keith, Alfonso Arau, Michele Carey",
+  "plot": "A crotchety old ranch owner fights to be able to live his life the way he wants to, and not the way other people--and the law--tell him he has to.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWYzNzNmZjktNGUyMy00NDVjLTlmMzUtMjk5NTUxZGVmZjBmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "20%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0067712",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:47:56.651Z"
+}

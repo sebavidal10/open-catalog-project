@@ -1,0 +1,31 @@
+{
+  "title": "Pulp",
+  "year": "1972",
+  "rated": "PG",
+  "released": "18 Aug 1972",
+  "runtime": "95 min",
+  "genre": "Comedy, Crime, Drama",
+  "director": "Mike Hodges",
+  "writer": "Mike Hodges",
+  "actors": "Michael Caine, Mickey Rooney, Lionel Stander",
+  "plot": "A seedy writer of sleazy pulp novels is recruited by a quirky, reclusive ex-actor to help him write his biography at his house in Malta.",
+  "language": "German, Italian, English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODc5OGJkN2ItZDQ2NC00ZmVkLWI0ZjgtNjc3NmRhZDhlZDQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0069134",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:51:42.539Z"
+}

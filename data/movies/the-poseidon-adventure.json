@@ -1,0 +1,35 @@
+{
+  "title": "The Poseidon Adventure",
+  "year": "1972",
+  "rated": "PG",
+  "released": "13 Dec 1972",
+  "runtime": "117 min",
+  "genre": "Action, Adventure, Drama",
+  "director": "Ronald Neame",
+  "writer": "Stirling Silliphant, Wendell Mayes, Paul Gallico",
+  "actors": "Gene Hackman, Ernest Borgnine, Shelley Winters",
+  "plot": "A group of passengers must embark on a harrowing struggle for survival after a rogue wave capsizes their cruise ship at sea.",
+  "language": "English, Hebrew",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 5 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmMyNWRlMDgtMjg4ZS00ZTg3LTkxOWItMjVhMjEyZWJjOGYxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "7.1",
+  "imdbID": "tt0069113",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:04.236Z"
+}

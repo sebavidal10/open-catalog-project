@@ -1,0 +1,35 @@
+{
+  "title": "Silent Running",
+  "year": "1972",
+  "rated": "G",
+  "released": "10 Mar 1972",
+  "runtime": "89 min",
+  "genre": "Drama, Sci-Fi",
+  "director": "Douglas Trumbull",
+  "writer": "Deric Washburn, Michael Cimino, Steven Bochco",
+  "actors": "Bruce Dern, Cliff Potts, Ron Rifkin",
+  "plot": "In a future where all flora are extinct on Earth, an astronaut is given orders to destroy the last of Earth's plant samples, kept in a greenhouse aboard a spacecraft.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTJlYTJjMjctNzQ5Yy00YjUxLTgxNTUtOTBlMTQwMWY3ODZhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "6.6",
+  "imdbID": "tt0067756",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:42.627Z"
+}

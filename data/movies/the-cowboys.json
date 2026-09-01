@@ -1,0 +1,35 @@
+{
+  "title": "The Cowboys",
+  "year": "1972",
+  "rated": "GP",
+  "released": "13 Jan 1972",
+  "runtime": "134 min",
+  "genre": "Adventure, Drama, Western",
+  "director": "Mark Rydell",
+  "writer": "William Dale Jennings, Irving Ravetch, Harriet Frank Jr.",
+  "actors": "John Wayne, Roscoe Lee Browne, Bruce Dern",
+  "plot": "Rancher Wil Andersen is forced to hire inexperienced boys as cowhands in order to get his cattle herd to market on time but the rough drive is full of dangers and a gang of rustlers is trailing them.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzMzODYyMTktOWE3Yy00ODM3LWI5MDctNzEzOTllMDQ3YTRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "7.4",
+  "imdbID": "tt0068421",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:43.874Z"
+}

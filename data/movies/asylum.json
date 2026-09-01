@@ -1,0 +1,35 @@
+{
+  "title": "Asylum",
+  "year": "1972",
+  "rated": "PG",
+  "released": "17 Nov 1972",
+  "runtime": "88 min",
+  "genre": "Horror",
+  "director": "Roy Ward Baker",
+  "writer": "Robert Bloch",
+  "actors": "Barbara Parkins, Richard Todd, Sylvia Syms",
+  "plot": "In order to secure a job at a mental institution, a young psychiatrist must interview four patients inside the asylum.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjI0MTI4NmYtODM2YS00M2U4LWI5YzMtYmI5ZGI5YTQ3MmQzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "36%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "6.5",
+  "imdbID": "tt0068230",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:52:06.153Z"
+}

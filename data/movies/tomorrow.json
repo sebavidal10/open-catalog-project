@@ -1,0 +1,31 @@
+{
+  "title": "Tomorrow",
+  "year": "1972",
+  "rated": "PG",
+  "released": "16 Sep 1992",
+  "runtime": "103 min",
+  "genre": "Drama",
+  "director": "Joseph Anthony",
+  "writer": "William Faulkner, Horton Foote",
+  "actors": "Robert Duvall, Olga Bellin, Sudie Bond",
+  "plot": "A lonely farmer takes in a pregnant woman and looks after her. After she gives birth, tragedy strikes.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzhlOGE1OWMtOTM4Ny00Y2M3LWEwYWQtNmEzZjYzOThkZDVmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0069393",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:52:35.910Z"
+}

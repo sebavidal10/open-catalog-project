@@ -1,0 +1,27 @@
+{
+  "title": "Hammer",
+  "year": "1972",
+  "rated": "R",
+  "released": "22 Sep 1972",
+  "runtime": "92 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Bruce D. Clark",
+  "writer": "Charles Eric Johnson",
+  "actors": "Fred Williamson, Bernie Hamilton, Vonetta McGee",
+  "plot": "A Los Angeles dock worker becomes a boxer but his crooked manager is involved in various rackets and he's working for the mob.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGE3ZDEzMmUtYjUyZC00MjJjLTliMmYtM2RiMDYxODhiYTAwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0068673",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:56:00.488Z"
+}

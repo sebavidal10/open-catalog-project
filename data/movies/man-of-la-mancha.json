@@ -1,0 +1,31 @@
+{
+  "title": "Man of La Mancha",
+  "year": "1972",
+  "rated": "PG",
+  "released": "08 Sep 1973",
+  "runtime": "132 min",
+  "genre": "Drama, Fantasy, Musical",
+  "director": "Arthur Hiller",
+  "writer": "Dale Wasserman, Miguel de Cervantes y Saavedra",
+  "actors": "Peter O'Toole, Sophia Loren, James Coco",
+  "plot": "The funny story of mad but kind and chivalrous elderly nobleman Don Quixote who, aided by his squire Sancho Panza, fights windmills that are seen as dragons to save prostitute Dulcinea who is seen as a noblewoman.",
+  "language": "English",
+  "country": "Italy, United States",
+  "awards": "Nominated for 1 Oscar. 2 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWI4MzhlM2QtNjM5NC00N2I0LTkxMmQtMjQxMDYwOWQ4OTUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "53%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0068909",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:51:18.722Z"
+}

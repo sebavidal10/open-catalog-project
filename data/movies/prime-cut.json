@@ -1,0 +1,31 @@
+{
+  "title": "Prime Cut",
+  "year": "1972",
+  "rated": "R",
+  "released": "08 Jul 1972",
+  "runtime": "88 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Michael Ritchie",
+  "writer": "Robert Dillon",
+  "actors": "Lee Marvin, Gene Hackman, Sissy Spacek",
+  "plot": "A vicious Kansas City slaughterhouse owner and his hick family are having a bloody \"beef\" with the Chicago crime syndicate over profits from their joint illegal operations. Top enforcer Nick Devlin is sent to straighten things out.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODc0ZDJmZjUtOTI1YS00YTU5LTg3YjgtMTA2YTgxNmZhODQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0069121",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:33.911Z"
+}

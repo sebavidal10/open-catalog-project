@@ -1,0 +1,31 @@
+{
+  "title": "Trick Baby",
+  "year": "1972",
+  "rated": "R",
+  "released": "16 Nov 1973",
+  "runtime": "93 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Larry Yust",
+  "writer": "Robert Beck, A. Neuberg, T. Raewyn",
+  "actors": "Kiel Martin, Mel Stewart, Dallas Edward Hayes",
+  "plot": "Two Phildelphia con men try to evade gangsters they have conned and cops who are trying to put them in jail.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTJhN2YxYTgtYWQzYi00OGYxLWIwN2YtNzJjNWNmZTY0MzY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0070833",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:57:40.373Z"
+}

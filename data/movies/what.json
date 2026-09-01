@@ -1,0 +1,31 @@
+{
+  "title": "What?",
+  "year": "1972",
+  "rated": "R",
+  "released": "03 Oct 1973",
+  "runtime": "112 min",
+  "genre": "Comedy",
+  "director": "Roman Polanski",
+  "writer": "Gérard Brach, Roman Polanski",
+  "actors": "Marcello Mastroianni, Sydne Rome, Hugh Griffith",
+  "plot": "During her Italian vacation, a beautiful young American tourist finds herself a guest in a coastal villa inhabited by some odd people.",
+  "language": "English, Italian, French",
+  "country": "Italy, France, West Germany",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjkyZjgxY2QtNDg1ZC00YzNhLWI4MDYtOTk2YzNlOGE1Y2E2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "15%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0070913",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:37.638Z"
+}

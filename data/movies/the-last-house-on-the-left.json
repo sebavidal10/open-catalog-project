@@ -1,0 +1,35 @@
+{
+  "title": "The Last House on the Left",
+  "year": "1972",
+  "rated": "R",
+  "released": "30 Aug 1972",
+  "runtime": "84 min",
+  "genre": "Horror, Thriller",
+  "director": "Wes Craven",
+  "writer": "Wes Craven, Ulla Isaksson",
+  "actors": "Sandra Peabody, Lucy Grantham, David Hess",
+  "plot": "Two teenage girls heading to a rock concert for one's birthday try to score marijuana in the city, where they are kidnapped and brutalized by a gang of psychopathic convicts.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGIxYTE2Y2QtODE5OS00YThiLThjMGYtOTI3NmY1ZDFkZThjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "5.8",
+  "imdbID": "tt0068833",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:28.953Z"
+}

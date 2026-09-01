@@ -1,0 +1,31 @@
+{
+  "title": "Catch Me a Spy",
+  "year": "1971",
+  "rated": "R",
+  "released": "03 Sep 1971",
+  "runtime": "94 min",
+  "genre": "Comedy",
+  "director": "Dick Clement",
+  "writer": "Dick Clement, Ian La Frenais, George Marton",
+  "actors": "Kirk Douglas, Marlène Jobert, Trevor Howard",
+  "plot": "Andrej (Kirk Douglas), a smuggler of microfilmed Russian manuscripts, uses the luggage of unsuspecting travellers to transport the contraband out of the country.",
+  "language": "English",
+  "country": "France, United Kingdom, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmViOTBmMzgtZmJmOC00ZWFjLWIzOGItNDQ0YTI3ZjhjMGZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0067297",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:47:57.890Z"
+}

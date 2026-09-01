@@ -1,0 +1,31 @@
+{
+  "title": "Young Winston",
+  "year": "1972",
+  "rated": "PG",
+  "released": "21 Jul 1972",
+  "runtime": "124 min",
+  "genre": "Biography, Drama, War",
+  "director": "Richard Attenborough",
+  "writer": "Winston Churchill, Carl Foreman",
+  "actors": "Simon Ward, Robert Shaw, Peter Cellier",
+  "plot": "Complex family relationships, as well as a combat experience, form the personality of the future world-known politician.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Nominated for 3 Oscars. 3 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGY1YTk3NWMtMDY0MC00ZWJkLWEyOGUtYWY3MjgzZTFiNmViXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "55%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0069528",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:54:18.938Z"
+}

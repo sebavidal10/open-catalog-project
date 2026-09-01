@@ -1,0 +1,27 @@
+{
+  "title": "Liza",
+  "year": "1972",
+  "rated": "Not Rated",
+  "released": "01 Jan 1976",
+  "runtime": "100 min",
+  "genre": "Drama, Romance",
+  "director": "Marco Ferreri",
+  "writer": "Ennio Flaiano, Jean-Claude Carrière, Marco Ferreri",
+  "actors": "Catherine Deneuve, Marcello Mastroianni, Corinne Marchand",
+  "plot": "Liza slowly replaces Melampo, Giorgio's dog. While she accepts it, Giorgio forces her to wear collars and leashes.",
+  "language": "French",
+  "country": "Italy, France",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2YzZjUyOGUtYmRmZi00NDc1LTgwNTEtODE2MTM1MWM0M2ExXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0068868",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:53:42.838Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Season of the Witch",
+  "year": "1972",
+  "rated": "R",
+  "released": "18 Apr 1973",
+  "runtime": "130 min",
+  "genre": "Drama, Horror",
+  "director": "George A. Romero",
+  "writer": "George A. Romero",
+  "actors": "Jan White, Raymond Laine, Ann Muffly",
+  "plot": "A neglected, unhappy suburban housewife gets mixed up in witchcraft with unexpected consequences.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjUyNTlkMzUtNzQ0MS00YTE0LWJhMGMtNTY4YWM2ODQ5YmY3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "40/100"
+    }
+  ],
+  "metascore": "40",
+  "imdbRating": "5.6",
+  "imdbID": "tt0069239",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:51:49.993Z"
+}

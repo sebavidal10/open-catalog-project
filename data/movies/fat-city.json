@@ -1,0 +1,35 @@
+{
+  "title": "Fat City",
+  "year": "1972",
+  "rated": "PG",
+  "released": "26 Jul 1972",
+  "runtime": "96 min",
+  "genre": "Drama, Sport",
+  "director": "John Huston",
+  "writer": "Leonard Gardner",
+  "actors": "Stacy Keach, Jeff Bridges, Susan Tyrrell",
+  "plot": "Two men, working as professional boxers, come to blows when their careers each begin to take different directions.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 4 wins & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDdkNzFlNzctNzA2Mi00OGI3LWE3ODAtZTYyOWM4MTBkYzMwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "metascore": "89",
+  "imdbRating": "7.2",
+  "imdbID": "tt0068575",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:51:12.528Z"
+}

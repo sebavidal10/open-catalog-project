@@ -1,0 +1,31 @@
+{
+  "title": "Vampire Circus",
+  "year": "1972",
+  "rated": "PG",
+  "released": "11 Oct 1972",
+  "runtime": "84 min",
+  "genre": "Horror",
+  "director": "Robert Young",
+  "writer": "Jud Kinberg, George Baxt, Wilbur Stark",
+  "actors": "Adrienne Corri, Thorley Walters, Anthony Higgins",
+  "plot": "As the plague sweeps the countryside, a quarantined village is visited by a mysterious traveling circus. Soon, young children begin to disappear, and the locals suspect the circus troupe might be hiding a horrifying secret.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTU2MzQzMjA0OF5BMl5BanBnXkFtZTcwNjY2Mjg4NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0067924",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:51:52.491Z"
+}

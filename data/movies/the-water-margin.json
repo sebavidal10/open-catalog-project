@@ -1,0 +1,27 @@
+{
+  "title": "The Water Margin",
+  "year": "1972",
+  "rated": "R",
+  "released": "01 Sep 1973",
+  "runtime": "81 min",
+  "genre": "Action, Drama",
+  "director": "Cheh Chang, Hsueh-Li Pao, Wu Ma",
+  "writer": "Guanzhong Luo, Kuang Ni",
+  "actors": "David Da-Wei Chiang, Lung Ti, Kuan Tai Chen",
+  "plot": "Tells the story of the 108 Heroes who stood up against a corrupt government. Each hero has his own unique fighting skill, but they are all willing to die to uphold justice.",
+  "language": "Mandarin",
+  "country": "Hong Kong",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI5NzczMTUtYWEzYy00NzViLThjN2ItZDAxNzNlZGY5M2QzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0069265",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:57:32.955Z"
+}

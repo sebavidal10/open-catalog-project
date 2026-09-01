@@ -1,0 +1,31 @@
+{
+  "title": "Tout va bien",
+  "year": "1972",
+  "rated": "Not Rated",
+  "released": "16 Feb 1973",
+  "runtime": "95 min",
+  "genre": "Drama",
+  "director": "Jean-Luc Godard, Jean-Pierre Gorin",
+  "writer": "Jean-Luc Godard, Jean-Pierre Gorin",
+  "actors": "Yves Montand, Jane Fonda, Vittorio Caprioli",
+  "plot": "Godard examines the structure of movies, relationships and revolutions through the life of a couple in Paris.",
+  "language": "French, English",
+  "country": "France, Italy",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTllNWVjMzMtNTI1Ny00NzRmLWFmMGQtZjFlMzU5NzlkYmExXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0069398",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:55:43.134Z"
+}

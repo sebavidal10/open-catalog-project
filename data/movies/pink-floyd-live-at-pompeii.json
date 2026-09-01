@@ -1,0 +1,35 @@
+{
+  "title": "Pink Floyd: Live at Pompeii",
+  "year": "1972",
+  "rated": "G",
+  "released": "25 Oct 1972",
+  "runtime": "85 min",
+  "genre": "Documentary, Music",
+  "director": "Adrian Maben",
+  "writer": "N/A",
+  "actors": "David Gilmour, Roger Waters, Richard Wright",
+  "plot": "British progressive rock band Pink Floyd perform at the ancient Roman Amphitheater in the ruins of Pompeii, Italy in 1971. Although the band perform a typical live set from the era, there is no audience beyond the basic film crew.",
+  "language": "English",
+  "country": "Belgium, West Germany, France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjUxY2VjOTMtMzQ2YS00NjhjLWI0NWUtZWEyNDQ3NDhkNjljXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "8.6",
+  "imdbID": "tt0069090",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:53.781Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Boxcar Bertha",
+  "year": "1972",
+  "rated": "R",
+  "released": "14 Jun 1972",
+  "runtime": "88 min",
+  "genre": "Crime, Drama, Romance",
+  "director": "Martin Scorsese",
+  "writer": "Ben L. Reitman, Joyce Hooper Corrington, John William Corrington",
+  "actors": "Barbara Hershey, David Carradine, Barry Primus",
+  "plot": "During the Great Depression, a union leader and a young woman become criminals to exact revenge on the management of a railroad.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGQ3NmViYzEtOTIwMS00YmRlLWI0YWQtZTFmZjVlNWI0M2JlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "6.0",
+  "imdbID": "tt0068309",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:47.584Z"
+}

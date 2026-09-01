@@ -1,0 +1,27 @@
+{
+  "title": "The Call of the Wild",
+  "year": "1972",
+  "rated": "PG",
+  "released": "17 Mar 1975",
+  "runtime": "100 min",
+  "genre": "Adventure, Family, Western",
+  "director": "Ken Annakin",
+  "writer": "Federico De Urrutia, Hubert Frank, Jack London",
+  "actors": "Charlton Heston, Michèle Mercier, Raimund Harmstorf",
+  "plot": "A house dog is abducted and brought to the north as a sled dog.",
+  "language": "English",
+  "country": "United Kingdom, France, Norway, West Germany, Italy, Spain",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTkzYzcxN2UtYjMyYS00YzQ3LWE2ZTgtNDk3YjQ0NTFlYmNmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0069197",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:52:48.299Z"
+}

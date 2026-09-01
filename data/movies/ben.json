@@ -1,0 +1,31 @@
+{
+  "title": "Ben",
+  "year": "1972",
+  "rated": "PG",
+  "released": "23 Jun 1972",
+  "runtime": "94 min",
+  "genre": "Drama, Horror, Thriller",
+  "director": "Phil Karlson",
+  "writer": "Stephen Gilbert, Gilbert Ralston",
+  "actors": "Lee Montgomery, Joseph Campanella, Arthur O'Connell",
+  "plot": "A lonely boy befriends Ben, the leader of a violent swarm of killer rats.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjMyMzM2MTUtZmQ4Ni00Y2ExLTliMDktMzE3NWRlZGQ4MzdhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.3",
+  "imdbID": "tt0068264",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:51:46.241Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Deliverance",
+  "year": "1972",
+  "rated": "R",
+  "released": "18 Aug 1972",
+  "runtime": "109 min",
+  "genre": "Adventure, Drama, Thriller",
+  "director": "John Boorman",
+  "writer": "James Dickey, John Boorman",
+  "actors": "Jon Voight, Burt Reynolds, Ned Beatty",
+  "plot": "Intent on seeing the Cahulawassee River before it's dammed and turned into a lake, outdoor fanatic Lewis Medlock takes his friends on a canoeing trip they'll never forget into the dangerous American back-country.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 2 wins & 14 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWUyN2RlM2QtYzVlNy00Njc3LTgzMDMtNmJmMTk0OGY3ODFmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "7.6",
+  "imdbID": "tt0068473",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:22.780Z"
+}

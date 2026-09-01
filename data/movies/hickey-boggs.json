@@ -1,0 +1,31 @@
+{
+  "title": "Hickey & Boggs",
+  "year": "1972",
+  "rated": "PG",
+  "released": "04 Oct 1972",
+  "runtime": "111 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Robert Culp",
+  "writer": "Walter Hill",
+  "actors": "Bill Cosby, Robert Culp, Ta-Ronce Allen",
+  "plot": "Two Los Angeles private eyes follow a missing woman to her bank loot.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjQyYjNjODItM2JhZC00OGE0LTk0NDgtNjUzZTFlYmQ5NGI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0068698",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:53:20.520Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Jeremiah Johnson",
+  "year": "1972",
+  "rated": "GP",
+  "released": "21 Dec 1972",
+  "runtime": "108 min",
+  "genre": "Adventure, Drama, Western",
+  "director": "Sydney Pollack",
+  "writer": "Vardis Fisher, Raymond W. Thorp, Robert Bunker",
+  "actors": "Robert Redford, Will Geer, Delle Bolton",
+  "plot": "A mountain man who wishes to live the life of a hermit becomes the unwilling object of a long vendetta by the Crow tribe and proves to be a match for their warriors in single combat on the early frontier.",
+  "language": "English, Crow, French",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWU5NzJhNWQtOWYxZS00YzI3LTg1YjAtZWMyNWEwZmUzODU2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "metascore": "75",
+  "imdbRating": "7.6",
+  "imdbID": "tt0068762",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:32.664Z"
+}

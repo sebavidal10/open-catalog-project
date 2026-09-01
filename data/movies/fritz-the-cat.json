@@ -1,0 +1,35 @@
+{
+  "title": "Fritz the Cat",
+  "year": "1972",
+  "rated": "Not Rated",
+  "released": "14 Apr 1972",
+  "runtime": "78 min",
+  "genre": "Animation, Comedy, Drama",
+  "director": "Ralph Bakshi",
+  "writer": "Robert Crumb, Ralph Bakshi",
+  "actors": "Skip Hinnant, Rosetta LeNoire, John McCurry",
+  "plot": "In the late 1960s, a pretentious, womanizing young cat drops out of college, starts a riot in Harlem, hits the road with an ex-girlfriend and gets mixed up with domestic terrorists.",
+  "language": "English, Yiddish",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWY5MzJhZjMtMDc1Yy00ZDc2LWFhYmYtODA0MGNiYjdiZTcwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "metascore": "54",
+  "imdbRating": "6.2",
+  "imdbID": "tt0068612",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:30.193Z"
+}

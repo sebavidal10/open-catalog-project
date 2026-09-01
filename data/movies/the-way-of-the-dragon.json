@@ -1,0 +1,35 @@
+{
+  "title": "The Way of the Dragon",
+  "year": "1972",
+  "rated": "R",
+  "released": "14 Aug 1972",
+  "runtime": "90 min",
+  "genre": "Action, Adventure, Comedy",
+  "director": "Bruce Lee",
+  "writer": "Bruce Lee",
+  "actors": "Bruce Lee, Chuck Norris, Nora Miao",
+  "plot": "A country bumpkin martial artist visits his relatives in Rome, Italy, where he must defend them and their restaurant against harassment from brutal gangsters.",
+  "language": "Mandarin, Cantonese, English, Italian",
+  "country": "Hong Kong",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDQ3MWJiZmUtYThhMi00OGM5LWExZGMtOGE2MjMzYWViN2I3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "7.1",
+  "imdbID": "tt0068935",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:27.717Z"
+}

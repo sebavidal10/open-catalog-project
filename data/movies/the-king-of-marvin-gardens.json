@@ -1,0 +1,31 @@
+{
+  "title": "The King of Marvin Gardens",
+  "year": "1972",
+  "rated": "R",
+  "released": "13 Oct 1972",
+  "runtime": "103 min",
+  "genre": "Drama",
+  "director": "Bob Rafelson",
+  "writer": "Jacob Brackman, Bob Rafelson",
+  "actors": "Jack Nicholson, Bruce Dern, Ellen Burstyn",
+  "plot": "A daydreamer convinces his radio personality brother to help fund one of his get-rich-quick schemes.",
+  "language": "English, Japanese",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmQ0ODdlNDctNjk3OC00OTZlLTkyOTYtMTM5NGJjNjNlZDRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0068805",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:52:44.570Z"
+}

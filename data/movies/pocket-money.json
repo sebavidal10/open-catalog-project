@@ -1,0 +1,35 @@
+{
+  "title": "Pocket Money",
+  "year": "1972",
+  "rated": "PG",
+  "released": "17 Mar 1972",
+  "runtime": "102 min",
+  "genre": "Comedy, Drama, Western",
+  "director": "Stuart Rosenberg",
+  "writer": "Terrence Malick, J.P.S. Brown, John Gay",
+  "actors": "Paul Newman, Lee Marvin, Strother Martin",
+  "plot": "Broke and in debt, an otherwise honest cowboy gets mixed up in some shady dealings with a crooked rancher.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjZlOTY5MGUtY2EwMS00NzUzLThhYTctOTU2YzY1ZDNjYmYwXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "5.4",
+  "imdbID": "tt0069103",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:54:10.125Z"
+}

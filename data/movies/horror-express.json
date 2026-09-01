@@ -1,0 +1,35 @@
+{
+  "title": "Horror Express",
+  "year": "1972",
+  "rated": "R",
+  "released": "03 Jan 1974",
+  "runtime": "88 min",
+  "genre": "Adventure, Horror, Sci-Fi",
+  "director": "Eugenio Martín",
+  "writer": "Arnaud d'Usseau, Julian Zimet",
+  "actors": "Christopher Lee, Peter Cushing, Alberto de Mendoza",
+  "plot": "While on the Trans-Siberian Express, an anthropologist and his rival must contain the threat posed by the former's cargo: a prehistoric ape which is the host for a parasitic life-form.",
+  "language": "Spanish, English",
+  "country": "Spain, United Kingdom, United States",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWY4MzczOWUtYTdlYS00MjNlLTg1ODEtYjkzOTY0MTNmZmEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "6.5",
+  "imdbID": "tt0068713",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:51:05.085Z"
+}

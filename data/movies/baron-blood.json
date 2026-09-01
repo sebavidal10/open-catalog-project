@@ -1,0 +1,31 @@
+{
+  "title": "Baron Blood",
+  "year": "1972",
+  "rated": "PG",
+  "released": "27 Oct 1972",
+  "runtime": "90 min",
+  "genre": "Horror",
+  "director": "Mario Bava",
+  "writer": "Willibald Eser, Mario Bava, Vincent Fotre",
+  "actors": "Joseph Cotten, Elke Sommer, Massimo Girotti",
+  "plot": "A young man, visiting the castle of a murderous ancestor in Austria, accidentally brings his dead relative back to life - searching for new victims.",
+  "language": "English, German, Italian",
+  "country": "Italy, West Germany, United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTIyOGExOTItNzg5ZC00ZDIzLWEyNGItNzM0MjQyNTJmNTU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "14%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0069048",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:53:44.071Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Avanti!",
+  "year": "1972",
+  "rated": "R",
+  "released": "17 Dec 1972",
+  "runtime": "144 min",
+  "genre": "Comedy, Romance",
+  "director": "Billy Wilder",
+  "writer": "Samuel A. Taylor, Billy Wilder, I.A.L. Diamond",
+  "actors": "Jack Lemmon, Juliet Mills, Clive Revill",
+  "plot": "A successful businessman goes to Italy to arrange for the return of his tycoon father's body--and discovers that Dad died with his long-time mistress.",
+  "language": "English, Italian",
+  "country": "United States, Italy",
+  "awards": "1 win & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjhjMWMzNGUtZDZiNC00MzZjLTkwMWEtOWFmZjliYzVkYTlkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbID": "tt0068240",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:46.345Z"
+}

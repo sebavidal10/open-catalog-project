@@ -1,0 +1,31 @@
+{
+  "title": "Marjoe",
+  "year": "1972",
+  "rated": "PG",
+  "released": "11 Apr 1973",
+  "runtime": "88 min",
+  "genre": "Documentary, Biography",
+  "director": "Sarah Kernochan, Howard Smith",
+  "writer": "N/A",
+  "actors": "Agnes Benjamin, Marjoe Gortner, Vernon Gortner",
+  "plot": "This Oscar-winning documentary explores the life of one-time child evangelist and faith healer Marjoe Gortner. The son of professional evangelists, Gortner was preaching on the Southern tent-revival circuit by the age of 3.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 2 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWFlNGNkYTAtNzFkNC00N2Q0LThlNzItMzQ4YjE1YTAwNGQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0068924",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:56:44.716Z"
+}

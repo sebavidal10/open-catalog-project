@@ -1,0 +1,31 @@
+{
+  "title": "1776",
+  "year": "1972",
+  "rated": "PG",
+  "released": "17 Nov 1972",
+  "runtime": "141 min",
+  "genre": "Drama, Family, History",
+  "director": "Peter H. Hunt",
+  "writer": "Peter Stone, Sherman Edwards",
+  "actors": "William Daniels, Howard Da Silva, Ken Howard",
+  "plot": "A musical retelling of the American Revolution's political struggle in the Continental Congress to declare independence.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODQ3NmRkMjctOGU4ZS00MTEyLWE0ZDgtMGU0OGQwMThlMTQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0068156",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:51:19.959Z"
+}

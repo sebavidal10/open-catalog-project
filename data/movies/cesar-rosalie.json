@@ -1,0 +1,31 @@
+{
+  "title": "Cesar & Rosalie",
+  "year": "1972",
+  "rated": "R",
+  "released": "27 Oct 1972",
+  "runtime": "104 min",
+  "genre": "Drama, Romance",
+  "director": "Claude Sautet",
+  "writer": "Jean-Loup Dabadie, Claude Sautet, Claude Néron",
+  "actors": "Yves Montand, Romy Schneider, Sami Frey",
+  "plot": "Cesar is in love with Rosalie. But Rosalie isn't making it easy for him, especially when her old flame enters the picture.",
+  "language": "French, English",
+  "country": "France, Italy, West Germany",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGM5NjA1MmUtMWY4Ni00OTE3LTg2MjQtOGNjZTU4ZmRlOGI0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0068441",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:21.555Z"
+}

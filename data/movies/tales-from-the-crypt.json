@@ -1,0 +1,31 @@
+{
+  "title": "Tales from the Crypt",
+  "year": "1972",
+  "rated": "PG",
+  "released": "09 Mar 1972",
+  "runtime": "92 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Freddie Francis",
+  "writer": "Milton Subotsky, Al Feldstein, Johnny Craig",
+  "actors": "Joan Collins, Peter Cushing, Ralph Richardson",
+  "plot": "Five strangers get lost in a crypt and, after meeting the mysterious Crypt Keeper, receive visions of how they will die.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjVmMmVkODQtMzYzMS00MjA1LTgyNGEtNWY4YTVkMzYyOGUyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbID": "tt0069341",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:51:30.116Z"
+}

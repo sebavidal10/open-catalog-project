@@ -1,0 +1,27 @@
+{
+  "title": "Viva! Django",
+  "year": "1971",
+  "rated": "Not Rated",
+  "released": "29 Sep 1971",
+  "runtime": "90 min",
+  "genre": "Drama, Western",
+  "director": "Edoardo Mulargia",
+  "writer": "Nino Stresa",
+  "actors": "Anthony Steffen, Stelio Candelli, Glauco Onorato",
+  "plot": "Django is on the trail of some renegade outlaws who killed his wife. En route, he rescues a horse thief from an impromptu hanging. He discovers the man knows who committed the murder. The men team up and head west for revenge.",
+  "language": "Italian, Hungarian",
+  "country": "Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUyMTAyNTAzM15BMl5BanBnXkFtZTgwMTA3MTkwMzE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.8",
+  "imdbID": "tt0069479",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:49:46.884Z"
+}

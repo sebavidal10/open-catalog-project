@@ -1,0 +1,31 @@
+{
+  "title": "The Carey Treatment",
+  "year": "1972",
+  "rated": "PG",
+  "released": "02 Jul 1972",
+  "runtime": "101 min",
+  "genre": "Crime, Mystery, Thriller",
+  "director": "Blake Edwards",
+  "writer": "Michael Crichton, John D.F. Black, Harriet Frank Jr.",
+  "actors": "James Coburn, Jennifer O'Neill, Pat Hingle",
+  "plot": "At a Boston hospital, a new surgeon, Dr. Carey, becomes an amateur sleuth to help clear a colleague's name who's been accused of botching an illegal abortion that killed a 15 year old girl; the daughter of the chief surgeon.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzNhNjA4YzgtNWY2MS00YjFlLWE1MDItODQ5NDI2ZTNjNjVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0068337",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:55:49.312Z"
+}

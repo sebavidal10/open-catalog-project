@@ -1,0 +1,31 @@
+{
+  "title": "Blacula",
+  "year": "1972",
+  "rated": "PG",
+  "released": "25 Aug 1972",
+  "runtime": "93 min",
+  "genre": "Fantasy, Horror, Romance",
+  "director": "William Crain",
+  "writer": "Joan Torres, Raymond Koenig",
+  "actors": "William Marshall, Vonetta McGee, Denise Nicholas",
+  "plot": "An 18th-century African prince, turned into a vampire by Dracula, finds himself in modern-day Los Angeles.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGY3NjFiNWItNGVhYy00ZWMzLWJlZjYtOTc2MzQyOTdmNWVkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "46%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0068284",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:51:10.051Z"
+}

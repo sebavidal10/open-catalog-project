@@ -1,0 +1,35 @@
+{
+  "title": "The Mechanic",
+  "year": "1972",
+  "rated": "PG",
+  "released": "07 Dec 1972",
+  "runtime": "100 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Michael Winner",
+  "writer": "Lewis John Carlino, Monte Hellman",
+  "actors": "Charles Bronson, Jan-Michael Vincent, Keenan Wynn",
+  "plot": "An aging hitman befriends a young man who wants to be a professional killer. Eventually it becomes clear that someone has betrayed them.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGYwNzM0ZDgtMTc5OS00OTA5LTgyZWMtNWI1N2NjOTIwODdmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "6.8",
+  "imdbID": "tt0068931",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:48.832Z"
+}

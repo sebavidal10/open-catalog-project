@@ -1,0 +1,35 @@
+{
+  "title": "The Other",
+  "year": "1972",
+  "rated": "PG",
+  "released": "26 May 1972",
+  "runtime": "108 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Robert Mulligan",
+  "writer": "Tom Tryon",
+  "actors": "Uta Hagen, Diana Muldaur, Chris Udvarnoky",
+  "plot": "A series of gruesome accidents plague a small American farming community in the summer of 1935, encircling two identical twin brothers and their family.",
+  "language": "English, Russian",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTY3YjQwMjItZDZlMi00Y2M2LTllNDctM2Q0NDQ3N2ZjZWY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "6.8",
+  "imdbID": "tt0069050",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:51:35.085Z"
+}

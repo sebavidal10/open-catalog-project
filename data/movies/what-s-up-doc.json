@@ -1,0 +1,35 @@
+{
+  "title": "What's Up, Doc?",
+  "year": "1972",
+  "rated": "G",
+  "released": "10 Mar 1972",
+  "runtime": "94 min",
+  "genre": "Comedy, Romance",
+  "director": "Peter Bogdanovich",
+  "writer": "Buck Henry, David Newman, Robert Benton",
+  "actors": "Barbra Streisand, Ryan O'Neal, Madeline Kahn",
+  "plot": "The accidental mix-up of four identical plaid overnight bags leads to a series of increasingly wild and wacky situations.",
+  "language": "English, French, German",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWM0YjRkNDctMDlmZi00MGFmLWFhYTMtNTIyZTc1NmMwNzAzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.7",
+  "imdbID": "tt0069495",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:05.474Z"
+}

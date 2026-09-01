@@ -1,0 +1,35 @@
+{
+  "title": "Last Tango in Paris",
+  "year": "1972",
+  "rated": "NC-17",
+  "released": "07 Feb 1973",
+  "runtime": "129 min",
+  "genre": "Drama, Romance",
+  "director": "Bernardo Bertolucci",
+  "writer": "Bernardo Bertolucci, Franco Arcalli, Agnès Varda",
+  "actors": "Marlon Brando, Maria Schneider, Maria Michi",
+  "plot": "A young Parisian woman meets a middle-aged American businessman who demands their clandestine relationship be based only on sex.",
+  "language": "English, French",
+  "country": "Italy, France",
+  "awards": "Nominated for 2 Oscars. 7 wins & 10 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjkwYjdhM2ItZmVkMi00M2Y2LWJmNjEtN2Y2ZGU3MjdmZjE0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "6.8",
+  "imdbID": "tt0070849",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:06.711Z"
+}

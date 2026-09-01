@@ -1,0 +1,35 @@
+{
+  "title": "Pink Flamingos",
+  "year": "1972",
+  "rated": "NC-17",
+  "released": "31 Mar 1976",
+  "runtime": "93 min",
+  "genre": "Comedy, Crime",
+  "director": "John Waters",
+  "writer": "John Waters",
+  "actors": "Divine, David Lochary, Mary Vivian Pearce",
+  "plot": "Notorious Baltimore criminal and underground figure Divine goes up against a sleazy married couple who make a passionate attempt to humiliate her and seize her tabloid-given title as \"The Filthiest Person Alive\".",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTU0NGZjN2MtOWNmNi00YmJhLWEyZWEtNWVkYTFkMjc1ZmUyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "47/100"
+    }
+  ],
+  "metascore": "47",
+  "imdbRating": "6.0",
+  "imdbID": "tt0069089",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:24.013Z"
+}

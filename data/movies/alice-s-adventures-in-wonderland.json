@@ -1,0 +1,27 @@
+{
+  "title": "Alice's Adventures in Wonderland",
+  "year": "1972",
+  "rated": "G",
+  "released": "22 Apr 1973",
+  "runtime": "95 min",
+  "genre": "Adventure, Family, Fantasy",
+  "director": "William Sterling",
+  "writer": "Lewis Carroll, William Sterling",
+  "actors": "Fiona Fullerton, Michael Jayston, Hywel Bennett",
+  "plot": "Alice tumbles into Wonderland, a dream realm filled with peculiar characters like the White Rabbit, March Hare, Queen of Hearts, and Dormouse. As she seeks her way home, she meets strange beings and discovers herself.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "Won 2 BAFTA 2 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGI3ZDZlNjctZmM4YS00ZGEwLTg0NjktM2EyYzU2NWEwZDM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0068190",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:52:02.433Z"
+}

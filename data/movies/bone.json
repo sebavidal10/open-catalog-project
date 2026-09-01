@@ -1,0 +1,31 @@
+{
+  "title": "Bone",
+  "year": "1972",
+  "rated": "R",
+  "released": "01 Jul 1972",
+  "runtime": "95 min",
+  "genre": "Comedy, Drama, Thriller",
+  "director": "Larry Cohen",
+  "writer": "Larry Cohen",
+  "actors": "Yaphet Kotto, Andrew Duggan, Joyce Van Patten",
+  "plot": "When a criminal breaks into the Beverly Hills home of a wealthy couple having marital problems, he unwillingly provides the spouses with an unlikely resolution to their conflicts as well as a solution to his own secret problem.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTlmMzBkOWUtMDRlYi00ZTVlLThkMWUtNThhZWJjODMyMzY1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0068306",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:54:22.656Z"
+}

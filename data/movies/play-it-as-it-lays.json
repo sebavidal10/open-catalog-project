@@ -1,0 +1,31 @@
+{
+  "title": "Play It As It Lays",
+  "year": "1972",
+  "rated": "R",
+  "released": "07 Jun 1973",
+  "runtime": "99 min",
+  "genre": "Drama",
+  "director": "Frank Perry",
+  "writer": "Joan Didion, John Gregory Dunne",
+  "actors": "Tuesday Weld, Anthony Perkins, Tammy Grimes",
+  "plot": "A Hollywood actress undergoes a psychic breakdown and recalls the traumatic events which led to her stay at a sanitarium.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjBhZmE5YzMtYjdkNS00OTUyLWI1YzktYWMzMmNiMmFmODFjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0069098",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:51:57.477Z"
+}

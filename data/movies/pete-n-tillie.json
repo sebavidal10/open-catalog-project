@@ -1,0 +1,31 @@
+{
+  "title": "Pete 'n' Tillie",
+  "year": "1972",
+  "rated": "PG",
+  "released": "08 Jun 1973",
+  "runtime": "100 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Martin Ritt",
+  "writer": "Peter De Vries, Julius J. Epstein",
+  "actors": "Walter Matthau, Carol Burnett, Geraldine Page",
+  "plot": "Tillie Shlai is not looking forward to meeting yet another blind date. This one's name is Pete Seltzer. Pete and Tillie are not a match made in heaven; he uses wisecracking and constant flirtations with women to mask his own insec...",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 1 win & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGY2ZmExNzktOGMwMC00NmM4LTk3ZjQtNjc2ZmRjZjZhYjExXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0069080",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:54:48.679Z"
+}

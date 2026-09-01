@@ -1,0 +1,35 @@
+{
+  "title": "Joe Kidd",
+  "year": "1972",
+  "rated": "PG",
+  "released": "19 Jul 1972",
+  "runtime": "88 min",
+  "genre": "Drama, Western",
+  "director": "John Sturges",
+  "writer": "Elmore Leonard",
+  "actors": "Clint Eastwood, Robert Duvall, John Saxon",
+  "plot": "An ex-bounty hunter reluctantly helps a wealthy landowner and his henchmen track down a Mexican revolutionary leader.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmQwMjU2NTQtNWFlYS00ZDgzLThmOWEtNzhiODZjYjk5YmE1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "metascore": "52",
+  "imdbRating": "6.4",
+  "imdbID": "tt0068768",
+  "type": "movie",
+  "fetched_at": "2026-09-01T13:50:10.416Z"
+}
