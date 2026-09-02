@@ -1,0 +1,31 @@
+{
+  "title": "The Spook Who Sat by the Door",
+  "year": "1973",
+  "rated": "PG",
+  "released": "23 Dec 1981",
+  "runtime": "102 min",
+  "genre": "Action, Drama, Crime",
+  "director": "Ivan Dixon",
+  "writer": "Sam Greenlee, Melvin Clay",
+  "actors": "Lawrence Cook, Janet League, Paula Kelly",
+  "plot": "A black man plays 'uncle Tom' in order to gain access to CIA training, then uses that knowledge to plot a new American revolt.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGJhMDE5MGYtNjZhMS00ZDNhLTg2M2UtNjBiZWExMThlYjlkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0070726",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:59:27.343Z"
+}

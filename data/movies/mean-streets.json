@@ -1,0 +1,35 @@
+{
+  "title": "Mean Streets",
+  "year": "1973",
+  "rated": "R",
+  "released": "14 Oct 1973",
+  "runtime": "112 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Martin Scorsese",
+  "writer": "Martin Scorsese, Mardik Martin",
+  "actors": "Robert De Niro, Harvey Keitel, David Proval",
+  "plot": "In New York City's Little Italy, a devoutly Catholic mobster must reconcile his desire for power, his feelings for his epileptic girlfriend, and his devotion to his troublesome friend.",
+  "language": "English, Italian, German, Yiddish",
+  "country": "United States",
+  "awards": "5 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWRlNDdiYWUtYjE1Zi00OWRhLWJiYTYtZWQ0NWFkYzc0NWMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
+  "metascore": "96",
+  "imdbRating": "7.2",
+  "imdbID": "tt0070379",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:17.318Z"
+}

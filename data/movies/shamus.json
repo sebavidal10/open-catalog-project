@@ -1,0 +1,31 @@
+{
+  "title": "Shamus",
+  "year": "1973",
+  "rated": "PG",
+  "released": "01 Feb 1973",
+  "runtime": "106 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "Buzz Kulik",
+  "writer": "Barry Beckerman",
+  "actors": "Burt Reynolds, Dyan Cannon, John P. Ryan",
+  "plot": "Millions in diamonds are stolen from a New York City safe, and later the burglar is killed. Shamus is paid $10,000 by the owner to find the diamonds or the killer.",
+  "language": "Italian, English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjdhMDk0NDMtMTk5OS00ZGU4LWJlZGEtZWVlN2NkN2UzYmE1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "29%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbID": "tt0070680",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:58:03.169Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Live and Let Die",
+  "year": "1973",
+  "rated": "PG",
+  "released": "27 Jun 1973",
+  "runtime": "121 min",
+  "genre": "Action, Adventure, Thriller",
+  "director": "Guy Hamilton",
+  "writer": "Tom Mankiewicz, Ian Fleming",
+  "actors": "Roger Moore, Yaphet Kotto, Jane Seymour",
+  "plot": "James Bond is sent to stop a diabolically brilliant heroin magnate armed with a complex organisation and a reliable psychic tarot card reader.",
+  "language": "English, Hungarian, Italian",
+  "country": "United Kingdom, United States, Jamaica",
+  "awards": "Nominated for 1 Oscar. 3 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGQ0OThkZGQtMzM4Zi00ZDc2LWE4ZWQtZGYyNjEzYzAzMTYzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "6.7",
+  "imdbID": "tt0070328",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:04.673Z"
+}

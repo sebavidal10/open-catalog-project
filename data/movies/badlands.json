@@ -1,0 +1,35 @@
+{
+  "title": "Badlands",
+  "year": "1973",
+  "rated": "PG",
+  "released": "05 Jan 1974",
+  "runtime": "94 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Terrence Malick",
+  "writer": "Terrence Malick",
+  "actors": "Martin Sheen, Sissy Spacek, Warren Oates",
+  "plot": "An impressionable teenage girl from a dead-end town, and her older greaser boyfriend, embark on a killing spree in the South Dakota Badlands.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "Nominated for 1 BAFTA Award4 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2U3ZjE1ZjUtYTRkMy00NTJiLTgyNzktMmE1OTUzYmRlOTUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
+  "metascore": "94",
+  "imdbRating": "7.7",
+  "imdbID": "tt0069762",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:27.268Z"
+}

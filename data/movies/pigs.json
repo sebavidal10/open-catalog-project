@@ -1,0 +1,27 @@
+{
+  "title": "Pigs",
+  "year": "1973",
+  "rated": "R",
+  "released": "25 May 1973",
+  "runtime": "80 min",
+  "genre": "Horror",
+  "director": "Marc Lawrence",
+  "writer": "Marc Lawrence",
+  "actors": "Toni Lawrence, Jesse Vint, Catherine Ross",
+  "plot": "The owner of a roadside diner and his new waitress kill people and feed them to a pen of 12 pigs.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTIxOGQzNTItMDE1Ni00YTk2LTgwMzktZTA1ZGI0MWI4NmI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.8/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.8",
+  "imdbID": "tt0070537",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:59:18.666Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Legend of Hell House",
+  "year": "1973",
+  "rated": "PG",
+  "released": "15 Jun 1973",
+  "runtime": "95 min",
+  "genre": "Horror",
+  "director": "John Hough",
+  "writer": "Richard Matheson",
+  "actors": "Roddy McDowall, Gayle Hunnicutt, Pamela Franklin",
+  "plot": "A physicist, his wife and two mediums are hired to investigate the Belasco House, where 27 guests had inexplicably died in 1927, along with most of a team of paranormal investigators that was sent in the early 1950s.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTBmYjk4NGYtODMyNC00MzkyLThjNTQtN2MzZjQwZjYxNDYyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "metascore": "56",
+  "imdbRating": "6.6",
+  "imdbID": "tt0070294",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:57:19.701Z"
+}

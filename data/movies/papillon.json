@@ -1,0 +1,35 @@
+{
+  "title": "Papillon",
+  "year": "1973",
+  "rated": "R",
+  "released": "19 Dec 1973",
+  "runtime": "151 min",
+  "genre": "Biography, Crime, Drama",
+  "director": "Franklin J. Schaffner",
+  "writer": "Dalton Trumbo, Lorenzo Semple Jr., Henri Charrière",
+  "actors": "Steve McQueen, Dustin Hoffman, Victor Jory",
+  "plot": "A French convict in the 1930s befriends a fellow criminal as the two of them begin serving their sentence in the South American penal colony on Devil's Island, which inspires the man to plot his escape.",
+  "language": "English, Spanish",
+  "country": "France, United States",
+  "awards": "Nominated for 1 Oscar. 2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2RkNTU2YmUtNGJmNy00YTAzLWE2MjMtOTVkYWU5NzY3M2ViXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "metascore": "58",
+  "imdbRating": "8.0",
+  "imdbID": "tt0070511",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:00.956Z"
+}

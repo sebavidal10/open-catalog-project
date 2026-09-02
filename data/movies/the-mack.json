@@ -1,0 +1,35 @@
+{
+  "title": "The Mack",
+  "year": "1973",
+  "rated": "R",
+  "released": "04 Apr 1973",
+  "runtime": "110 min",
+  "genre": "Crime, Drama",
+  "director": "Michael Campus",
+  "writer": "Robert J. Poole",
+  "actors": "Max Julien, Don Gordon, Richard Pryor",
+  "plot": "A recently-released convict becomes the most powerful pimp in Oakland, but tragedy ensues when his activities draw the ire of two corrupt cops and the crime lord he once worked for.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzU3NWJmYWMtYTYxOS00MWQ0LTg1ZjYtMWFlZWEzZDQzMWFkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "metascore": "59",
+  "imdbRating": "6.6",
+  "imdbID": "tt0070350",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:58:08.130Z"
+}

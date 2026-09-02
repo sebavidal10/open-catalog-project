@@ -1,0 +1,35 @@
+{
+  "title": "Sleeper",
+  "year": "1973",
+  "rated": "PG",
+  "released": "17 Dec 1973",
+  "runtime": "89 min",
+  "genre": "Comedy, Sci-Fi",
+  "director": "Woody Allen",
+  "writer": "Woody Allen, Marshall Brickman",
+  "actors": "Woody Allen, Diane Keaton, John Beck",
+  "plot": "A nerdish store owner is revived out of cryostasis into a future world to fight an oppressive government.",
+  "language": "English, Yiddish",
+  "country": "United States",
+  "awards": "2 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGVhZWIwZTQtZGVjMS00MzZkLWEzNWMtMDVmNDU5NmRmNTY1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "metascore": "77",
+  "imdbRating": "7.1",
+  "imdbID": "tt0070707",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:07.161Z"
+}

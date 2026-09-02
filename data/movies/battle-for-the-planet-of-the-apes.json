@@ -1,0 +1,35 @@
+{
+  "title": "Battle for the Planet of the Apes",
+  "year": "1973",
+  "rated": "G",
+  "released": "15 Jun 1973",
+  "runtime": "93 min",
+  "genre": "Action, Sci-Fi",
+  "director": "J. Lee Thompson",
+  "writer": "Pierre Boulle, Paul Dehn, John William Corrington",
+  "actors": "Roddy McDowall, Claude Akins, Natalie Trundy",
+  "plot": "Ten years after a worldwide series of ape revolutions and a brutal nuclear war among humans, Caesar must protect survivors of both species from an insidious human cult and a militant ape faction alike.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTZiODVlNjQtYjVmNS00MjIyLThhMTctMzQzMWE2YTY0YjNjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "40/100"
+    }
+  ],
+  "metascore": "40",
+  "imdbRating": "5.4",
+  "imdbID": "tt0069768",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:09.645Z"
+}

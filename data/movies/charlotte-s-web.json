@@ -1,0 +1,35 @@
+{
+  "title": "Charlotte's Web",
+  "year": "1973",
+  "rated": "G",
+  "released": "01 Mar 1973",
+  "runtime": "94 min",
+  "genre": "Animation, Adventure, Drama",
+  "director": "Charles Nichols, Iwao Takamoto",
+  "writer": "E.B. White, Earl Hamner Jr.",
+  "actors": "Debbie Reynolds, Henry Gibson, Paul Lynde",
+  "plot": "Wilbur is a farm pig who's terrified that he'll end up on the dinner table. His friend Charlotte, a charming spider, comes to his rescue. She weaves words into her web, convincing the farmer that Wilbur is too special a pig to kill.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjhlYjU1NmEtZWZmNy00ZWZiLWJjZjktZmM3MjczOWE5MjIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "6.9",
+  "imdbID": "tt0070016",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:55.943Z"
+}

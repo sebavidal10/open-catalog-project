@@ -1,0 +1,31 @@
+{
+  "title": "The MacKintosh Man",
+  "year": "1973",
+  "rated": "PG",
+  "released": "08 Nov 1973",
+  "runtime": "98 min",
+  "genre": "Thriller",
+  "director": "John Huston",
+  "writer": "Walter Hill, Desmond Bagley, William Fairchild",
+  "actors": "Paul Newman, Dominique Sanda, James Mason",
+  "plot": "A member of British Intelligence assumes a fictitious criminal identity and allows himself to be caught, imprisoned, and freed in order to infiltrate a spy organization and expose a traitor.",
+  "language": "English",
+  "country": "United Kingdom, United States, Ireland",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWFhY2U2ZTMtNTVjZS00ODhjLWEwOTktM2E1ZjY5MzdjZmM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "58%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0070351",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:58:35.383Z"
+}

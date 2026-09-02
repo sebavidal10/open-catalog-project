@@ -1,0 +1,27 @@
+{
+  "title": "Corky",
+  "year": "1972",
+  "rated": "PG",
+  "released": "01 Mar 1972",
+  "runtime": "88 min",
+  "genre": "Action, Drama, Thriller",
+  "director": "Leonard J. Horn",
+  "writer": "Eugene Price",
+  "actors": "Robert Blake, Charlotte Rampling, Patrick O'Neal",
+  "plot": "A country boy wants to make it big as a stockcar racer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWUwYjcyMDMtMTYwMy00NGQzLTk1MTYtZGU2NWM1ZmU4NWViXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0068413",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:51:44.811Z"
+}

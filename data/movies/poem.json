@@ -1,0 +1,27 @@
+{
+  "title": "Poem",
+  "year": "1972",
+  "rated": "Not Rated",
+  "released": "N/A",
+  "runtime": "119 min",
+  "genre": "Drama",
+  "director": "Akio Jissôji",
+  "writer": "Toshirô Ishidô",
+  "actors": "Masako Araki, Kanjûrô Arashi, Yasumi Hara",
+  "plot": "As a faithful young houseboy fully devotes himself to his spiritual duty, his teacher plans turning over his grandfather's mountain property to realtors for profit.",
+  "language": "Japanese",
+  "country": "Japan",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGI5NjRmNzgtYjE0NS00ZTZjLThjMjgtNzMyZWQ0YTA2ZjljXkEyXkFqcGdeQXVyMjkyMDI4NTQ@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.0",
+  "imdbID": "tt1033501",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:52:20.861Z"
+}

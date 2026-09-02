@@ -1,0 +1,35 @@
+{
+  "title": "Charley Varrick",
+  "year": "1973",
+  "rated": "PG",
+  "released": "19 Oct 1973",
+  "runtime": "111 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Don Siegel",
+  "writer": "Howard Rodman, Dean Riesner, John Reese",
+  "actors": "Walter Matthau, Joe Don Baker, Felicia Farr",
+  "plot": "A man, his wife, and their friend stage a bloody bank robbery without realizing that they are stealing from the Mob.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Won 1 BAFTA Award1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODc0YmFiOWItOWVlNS00N2Q5LThlODAtZTk3ODkyYzI0NGQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.5",
+  "imdbID": "tt0069865",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:57:27.160Z"
+}

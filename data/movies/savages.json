@@ -1,0 +1,31 @@
+{
+  "title": "Savages",
+  "year": "1972",
+  "rated": "R",
+  "released": "18 Jan 1973",
+  "runtime": "106 min",
+  "genre": "Fantasy, Comedy",
+  "director": "James Ivory",
+  "writer": "George W.S. Trow, Michael O'Donoghue, James Ivory",
+  "actors": "Susan Blakely, Margaret Brewster, Thayer David",
+  "plot": "An allegory about humankind progresses from a savage state to a civilized form, that is only a cover for its innate barbarism.",
+  "language": "English, German",
+  "country": "United States",
+  "awards": "Nominated for 1 BAFTA Award1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYyNzgyOTU2Nl5BMl5BanBnXkFtZTcwNDMwOTUyMQ@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0069226",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:51:59.739Z"
+}

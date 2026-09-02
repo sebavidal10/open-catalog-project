@@ -1,0 +1,35 @@
+{
+  "title": "Lady Snowblood",
+  "year": "1973",
+  "rated": "Not Rated",
+  "released": "22 Mar 1974",
+  "runtime": "97 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Toshiya Fujita",
+  "writer": "Kazuo Kamimura, Kazuo Koike, Norio Osada",
+  "actors": "Meiko Kaji, Toshio Kurosawa, Masaaki Daimon",
+  "plot": "A young woman is trained from birth to be a deadly instrument of revenge against the swindlers who destroyed her family.",
+  "language": "Japanese, English",
+  "country": "Japan",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzE4ZWU3YTEtYmY2Mi00ODE1LWE1MjMtZDA1Zjk1NWJiZjY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "metascore": "80",
+  "imdbRating": "7.6",
+  "imdbID": "tt0158714",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:57:13.504Z"
+}

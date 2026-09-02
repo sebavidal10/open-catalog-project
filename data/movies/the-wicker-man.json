@@ -1,0 +1,35 @@
+{
+  "title": "The Wicker Man",
+  "year": "1973",
+  "rated": "R",
+  "released": "07 Aug 1974",
+  "runtime": "88 min",
+  "genre": "Horror, Mystery, Thriller",
+  "director": "Robin Hardy",
+  "writer": "Anthony Shaffer, David Pinner",
+  "actors": "Edward Woodward, Christopher Lee, Diane Cilento",
+  "plot": "A puritan police sergeant arrives in a Scottish island village in search of a missing girl, who the pagan locals claim never existed.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "3 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWU5NmUxMmYtM2QwYS00ODc1LTkxOGItMWY3ZmEzNzJkNGU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "metascore": "87",
+  "imdbRating": "7.5",
+  "imdbID": "tt0070917",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:12.117Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Way We Were",
+  "year": "1973",
+  "rated": "PG",
+  "released": "19 Oct 1973",
+  "runtime": "118 min",
+  "genre": "Drama, Romance",
+  "director": "Sydney Pollack",
+  "writer": "Arthur Laurents, Francis Ford Coppola, Paddy Chayefsky",
+  "actors": "Barbra Streisand, Robert Redford, Bradford Dillman",
+  "plot": "During post-WWII McCarthyism, a diametrically opposed couple come together only to find out that genuine friendship and physical attraction is not enough to overcome fundamental societal beliefs.",
+  "language": "English, French",
+  "country": "United States",
+  "awards": "Won 2 Oscars. 6 wins & 8 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmMwOGM2NDUtM2FjYy00MTZlLWIwY2UtNjM0NzRlZTUwNzg0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "65%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "7.0",
+  "imdbID": "tt0070903",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:02.192Z"
+}

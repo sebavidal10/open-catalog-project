@@ -1,0 +1,35 @@
+{
+  "title": "Walking Tall",
+  "year": "1973",
+  "rated": "R",
+  "released": "22 Feb 1973",
+  "runtime": "125 min",
+  "genre": "Action, Biography, Crime",
+  "director": "Phil Karlson",
+  "writer": "Mort Briskin, Stephen Downing, John Michael Hayes",
+  "actors": "Joe Don Baker, Elizabeth Hartman, Leif Garrett",
+  "plot": "Based on the life of Tennessee sheriff Buford Pusser, who almost single-handedly cleaned up his small town of crime and corruption, but at a personal cost of his family life and nearly his own life.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzk5NDQwOTEtMDY1ZS00ZjVmLWE2OTctODZhY2FjNjJiMDgzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "6.9",
+  "imdbID": "tt0070895",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:57:02.360Z"
+}

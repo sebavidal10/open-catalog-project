@@ -1,0 +1,27 @@
+{
+  "title": "A Place Called Today",
+  "year": "1972",
+  "rated": "X",
+  "released": "15 Jun 1972",
+  "runtime": "103 min",
+  "genre": "Drama",
+  "director": "Don Schain",
+  "writer": "Don Schain",
+  "actors": "J. Herbert Kerr Jr., Lana Wood, Cheri Caffaro",
+  "plot": "Racial tensions arise when a black lawyer runs for mayor of a racially divided town.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTgxNDg5ZWMtZmNlNi00YWRlLWI4YjAtMGI2NmQ5YjVmNWJiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.3",
+  "imdbID": "tt0069096",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:55:23.234Z"
+}

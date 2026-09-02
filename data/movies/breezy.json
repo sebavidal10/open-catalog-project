@@ -1,0 +1,35 @@
+{
+  "title": "Breezy",
+  "year": "1973",
+  "rated": "R",
+  "released": "19 Apr 1974",
+  "runtime": "106 min",
+  "genre": "Drama, Romance",
+  "director": "Clint Eastwood",
+  "writer": "Jo Heims",
+  "actors": "William Holden, Kay Lenz, Roger C. Carmel",
+  "plot": "A young girl runs away from home and meets a grouchy older man who reluctantly takes her in. Eventually they develop a romantic and affectionate relationship.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjQ1YzAxYWItODBhZi00YzVhLWJjODAtN2IwNjQ3OWUxNWU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "63%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "7.0",
+  "imdbID": "tt0069822",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:57:07.308Z"
+}

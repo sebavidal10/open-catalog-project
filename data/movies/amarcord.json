@@ -1,0 +1,31 @@
+{
+  "title": "Amarcord",
+  "year": "1973",
+  "rated": "R",
+  "released": "19 Sep 1974",
+  "runtime": "123 min",
+  "genre": "Comedy, Drama",
+  "director": "Federico Fellini",
+  "writer": "Federico Fellini, Tonino Guerra",
+  "actors": "Magali Noël, Bruno Zanin, Pupella Maggio",
+  "plot": "A series of comedic and nostalgic vignettes set in a 1930s Italian coastal town.",
+  "language": "Italian, Greek, Ancient (to 1453)",
+  "country": "Italy, France",
+  "awards": "Won 1 Oscar. 20 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDFiMDIwMjQtNGFjYS00YTNiLTk5MjctZDYxMmRiNDUyNDZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.8",
+  "imdbID": "tt0071129",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:13.354Z"
+}

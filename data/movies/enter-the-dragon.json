@@ -1,0 +1,35 @@
+{
+  "title": "Enter the Dragon",
+  "year": "1973",
+  "rated": "R",
+  "released": "19 Aug 1973",
+  "runtime": "99 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Robert Clouse",
+  "writer": "Michael Allin, Bruce Lee",
+  "actors": "Bruce Lee, John Saxon, Jim Kelly",
+  "plot": "A Shaolin monk travels to an island fortress to spy on an opium lord - who is also a former monk from his temple - under the guise of attending a martial arts tournament.",
+  "language": "English, Cantonese",
+  "country": "United States, Hong Kong",
+  "awards": "1 win total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDAyYjAwNmMtMjM5OC00NTc5LThmNjAtOTUxODQxOWYwOTE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.6",
+  "imdbID": "tt0070034",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:18.558Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "The Seagull",
+  "year": "1972",
+  "rated": "N/A",
+  "released": "07 Jan 1972",
+  "runtime": "100 min",
+  "genre": "Drama",
+  "director": "Yuli Karasik",
+  "writer": "Anton Chekhov, Yuli Karasik",
+  "actors": "Alla Demidova, Vladimir Chetverikov, Nikolai Plotnikov",
+  "plot": "Based on Chekhov's homonymous play, \"The Seagull\" narrates the story of a disturbed family and their acquaintances during summertime in the countryside.",
+  "language": "Russian",
+  "country": "Soviet Union",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzA0OGExZmYtY2U4YS00NmU5LTg5YzQtMTM5MDQxYjQ4Y2Y0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.1",
+  "imdbID": "tt0065533",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:54:50.995Z"
+}

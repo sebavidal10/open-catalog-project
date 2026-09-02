@@ -1,0 +1,31 @@
+{
+  "title": "The Laughing Policeman",
+  "year": "1973",
+  "rated": "R",
+  "released": "23 Jan 1974",
+  "runtime": "112 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Stuart Rosenberg",
+  "writer": "Thomas Rickman, Per Wahlöö, Maj Sjöwall",
+  "actors": "Walter Matthau, Bruce Dern, Louis Gossett Jr.",
+  "plot": "In San Francisco, California, one victim in a mass murder is a police detective. His partner and a new partner investigate in the city's seamy side.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWYwZTQ0MDMtMWYwYi00MWY4LWFjMDAtNGE2M2M0ODEwZmUyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "59%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0070292",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:57:42.063Z"
+}

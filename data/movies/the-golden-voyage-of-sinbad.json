@@ -1,0 +1,35 @@
+{
+  "title": "The Golden Voyage of Sinbad",
+  "year": "1973",
+  "rated": "G",
+  "released": "25 Jan 1974",
+  "runtime": "105 min",
+  "genre": "Action, Adventure, Fantasy",
+  "director": "Gordon Hessler",
+  "writer": "Brian Clemens, Ray Harryhausen",
+  "actors": "John Phillip Law, Caroline Munro, Tom Baker",
+  "plot": "Sinbad and the vizier of Marabia, followed by evil magician Koura, seek the three golden tablets that can gain them access to the ancient temple of the Oracle of All Knowledge.",
+  "language": "English, Arabic",
+  "country": "United Kingdom, United States",
+  "awards": "3 wins total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjNhZDgzNGUtNmM0Yi00YmQ1LTkzOTYtNWE3NTE5MzQxOWQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "6.8",
+  "imdbID": "tt0071569",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:57:01.115Z"
+}

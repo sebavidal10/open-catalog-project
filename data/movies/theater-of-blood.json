@@ -1,0 +1,35 @@
+{
+  "title": "Theater of Blood",
+  "year": "1973",
+  "rated": "R",
+  "released": "05 Apr 1973",
+  "runtime": "104 min",
+  "genre": "Comedy, Drama, Horror",
+  "director": "Douglas Hickox",
+  "writer": "Anthony Greville-Bell, Stanley Mann, John Kohn",
+  "actors": "Vincent Price, Diana Rigg, Ian Hendry",
+  "plot": "A Shakespearean actor takes poetic revenge on the critics who denied him recognition.",
+  "language": "English",
+  "country": "United Kingdom",
+  "awards": "1 win & 2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQwODcwNTIyNl5BMl5BanBnXkFtZTcwOTUyMTM4NA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.1",
+  "imdbID": "tt0070791",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:57:33.376Z"
+}

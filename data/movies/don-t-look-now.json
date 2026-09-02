@@ -1,0 +1,35 @@
+{
+  "title": "Don't Look Now",
+  "year": "1973",
+  "rated": "R",
+  "released": "01 Jan 1974",
+  "runtime": "110 min",
+  "genre": "Drama, Horror, Mystery",
+  "director": "Nicolas Roeg",
+  "writer": "Daphne Du Maurier, Allan Scott, Chris Bryant",
+  "actors": "Julie Christie, Donald Sutherland, Hilary Mason",
+  "plot": "A married couple grieving the recent death of their young daughter are in Venice when they encounter two elderly sisters, one of whom is psychic and brings a warning from beyond.",
+  "language": "English, Italian",
+  "country": "United Kingdom, Italy",
+  "awards": "Won 1 BAFTA Award2 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTVlYjE0MjItZTRmZC00ZGM1LWIyNzMtYTMzZTViZGFlYzMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "95/100"
+    }
+  ],
+  "metascore": "95",
+  "imdbRating": "7.1",
+  "imdbID": "tt0069995",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:35.948Z"
+}

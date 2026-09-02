@@ -1,0 +1,35 @@
+{
+  "title": "High Plains Drifter",
+  "year": "1973",
+  "rated": "R",
+  "released": "07 Apr 1973",
+  "runtime": "105 min",
+  "genre": "Drama, Mystery, Western",
+  "director": "Clint Eastwood",
+  "writer": "Ernest Tidyman",
+  "actors": "Clint Eastwood, Verna Bloom, Marianna Hill",
+  "plot": "A stranger makes townsfolk prepare garish welcome for convicts.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmQyMDFjMDUtZGFiYy00MGFmLWI0MTctMzg1MTZhOThhMTFiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "metascore": "69",
+  "imdbRating": "7.4",
+  "imdbID": "tt0068699",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:08.408Z"
+}

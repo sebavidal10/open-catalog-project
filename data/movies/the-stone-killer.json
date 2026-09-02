@@ -1,0 +1,31 @@
+{
+  "title": "The Stone Killer",
+  "year": "1973",
+  "rated": "R",
+  "released": "08 Aug 1973",
+  "runtime": "95 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Michael Winner",
+  "writer": "Gerald Wilson, John Gardner",
+  "actors": "Charles Bronson, Martin Balsam, Jack Colvin",
+  "plot": "A top New York detective is sent to Los Angeles where he must solve a case involving an old Sicilian Mafia family feud.",
+  "language": "Italian, English",
+  "country": "Italy, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmM5OWJkYWEtYzgwZC00ZmU2LTg4ZWItZDk0ZWU2MmU4N2UxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.1",
+  "imdbID": "tt0070736",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:58:44.045Z"
+}

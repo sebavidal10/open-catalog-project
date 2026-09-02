@@ -1,0 +1,27 @@
+{
+  "title": "Rainbow Bridge",
+  "year": "1972",
+  "rated": "R",
+  "released": "01 Mar 1972",
+  "runtime": "108 min",
+  "genre": "Documentary, Drama, Music",
+  "director": "Chuck Wein",
+  "writer": "Charlie Bacis",
+  "actors": "Jimi Hendrix, Bob Amacker, Baron Bingen",
+  "plot": "A documentary about various singers, musicians, artists, astrologers, etc., who attended a \"New Age\" gathering in Maui, Hawaii.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmMyYjcxZWEtZmE5Yy00N2I0LThlZTUtOWRlMDY4M2M2ODAzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0069161",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:54:25.980Z"
+}

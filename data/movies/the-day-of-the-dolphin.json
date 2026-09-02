@@ -1,0 +1,35 @@
+{
+  "title": "The Day of the Dolphin",
+  "year": "1973",
+  "rated": "PG",
+  "released": "15 Mar 1974",
+  "runtime": "104 min",
+  "genre": "Drama, Sci-Fi, Thriller",
+  "director": "Mike Nichols",
+  "writer": "Buck Henry, Robert Merle",
+  "actors": "George C. Scott, Trish Van Devere, Paul Sorvino",
+  "plot": "A marine biologist teaches his dolphins to communicate in English but shady characters plan to kidnap the trained mammals for a more sinister purpose.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 1 win & 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjdlZGQzNmYtNGVmYy00OGE1LTlhZTktMjIwMmEzZTc5ZTQ5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "40/100"
+    }
+  ],
+  "metascore": "40",
+  "imdbRating": "6.0",
+  "imdbID": "tt0069946",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:10.884Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Serpico",
+  "year": "1973",
+  "rated": "R",
+  "released": "05 Dec 1973",
+  "runtime": "130 min",
+  "genre": "Biography, Crime, Drama",
+  "director": "Sidney Lumet",
+  "writer": "Peter Maas, Waldo Salt, Norman Wexler",
+  "actors": "Al Pacino, John Randolph, Jack Kehoe",
+  "plot": "An honest New York cop named Frank Serpico blows the whistle on rampant corruption in the force only to have his comrades turn against him.",
+  "language": "English, Italian, Spanish",
+  "country": "United States, Italy",
+  "awards": "Nominated for 2 Oscars. 8 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTg3NzUzYzYtMmQxOS00MjAwLWI0ZDYtNDg4OTQ4OTljNGFlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "metascore": "83",
+  "imdbRating": "7.7",
+  "imdbID": "tt0070666",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:05.911Z"
+}

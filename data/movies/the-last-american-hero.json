@@ -1,0 +1,35 @@
+{
+  "title": "The Last American Hero",
+  "year": "1973",
+  "rated": "PG",
+  "released": "27 Jul 1973",
+  "runtime": "95 min",
+  "genre": "Drama, Sport",
+  "director": "Lamont Johnson",
+  "writer": "Tom Wolfe, William Roberts, Bill Kerby",
+  "actors": "Jeff Bridges, Valerie Perrine, Geraldine Fitzgerald",
+  "plot": "A young hell raiser quits moonshine running to try to become the best NASCAR racer the South has ever seen.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODM0NGIwZWEtOTA2Ni00MDEzLTk4ZjItNTA0NjAxYjcxMjlmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "metascore": "74",
+  "imdbRating": "6.4",
+  "imdbID": "tt0070287",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:57:24.672Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Friends of Eddie Coyle",
+  "year": "1973",
+  "rated": "R",
+  "released": "27 Jun 1973",
+  "runtime": "102 min",
+  "genre": "Crime, Drama",
+  "director": "Peter Yates",
+  "writer": "George V. Higgins, Paul Monash",
+  "actors": "Robert Mitchum, Peter Boyle, Richard Jordan",
+  "plot": "After his last crime has him looking at a long prison sentence for repeat offenses, a low level Boston gangster decides to snitch on his friends to avoid jail time.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzhkNWQyMjEtM2RkNC00NmE4LThmYjMtMzU5Yzk5MGVkYWU0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "metascore": "84",
+  "imdbRating": "7.4",
+  "imdbID": "tt0070077",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:57:18.455Z"
+}

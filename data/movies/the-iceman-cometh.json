@@ -1,0 +1,35 @@
+{
+  "title": "The Iceman Cometh",
+  "year": "1973",
+  "rated": "PG",
+  "released": "29 Oct 1973",
+  "runtime": "239 min",
+  "genre": "Drama",
+  "director": "John Frankenheimer",
+  "writer": "Edward Anhalt, Thomas Quinn Curtiss, Eugene O'Neill",
+  "actors": "Lee Marvin, Fredric March, Robert Ryan",
+  "plot": "A salesman with a sudden passion for reform has an idea to sell to his barfly buddies: throw away your pipe dreams. The drunkards, living in a flophouse above a saloon, resent the idea.",
+  "language": "English",
+  "country": "United States",
+  "awards": "3 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODBkNmYzY2YtYzIwMy00YjllLWJjYjItNDUyNWM3MzM3ZjRmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "metascore": "76",
+  "imdbRating": "7.2",
+  "imdbID": "tt0070212",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:58:30.440Z"
+}

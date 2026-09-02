@@ -1,0 +1,27 @@
+{
+  "title": "Jeremy",
+  "year": "1973",
+  "rated": "PG",
+  "released": "21 Jun 1973",
+  "runtime": "90 min",
+  "genre": "Drama, Music, Romance",
+  "director": "Arthur Barron",
+  "writer": "Arthur Barron",
+  "actors": "Robby Benson, Glynnis O'Connor, Len Bari",
+  "plot": "Shy cellist boy meets upperclassman ballet-student girl at school. They experience first-time love, then happenstance pulls them apart",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3OGRjYTQtMWI3YS00ZjQ2LWE2M2EtYWUyMjFlNTUzZDY2XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0070238",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:59:36.527Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Godspell",
+  "year": "1973",
+  "rated": "G",
+  "released": "31 May 1973",
+  "runtime": "103 min",
+  "genre": "Comedy, Drama, Musical",
+  "director": "David Greene",
+  "writer": "David Greene, John-Michael Tebelak",
+  "actors": "Victor Garber, Lynne Thigpen, Katie Hanley",
+  "plot": "An adaption of the musical, in a modern-day song-and-dance recreation of the Gospel of St. Matthew.",
+  "language": "English, Hebrew, Spanish",
+  "country": "United States",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjkwNzdkNDgtYzkyZi00ZGI3LWFiZWMtODU5ZjA0M2I3Mzk5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "63%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "6.5",
+  "imdbID": "tt0070121",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:57:25.914Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Crazies",
+  "year": "1973",
+  "rated": "R",
+  "released": "16 Mar 1973",
+  "runtime": "103 min",
+  "genre": "Action, Horror, Sci-Fi",
+  "director": "George A. Romero",
+  "writer": "Paul McCollough, George A. Romero",
+  "actors": "Lane Carroll, Will MacMillan, Harold Wayne Jones",
+  "plot": "The military attempts to contain a manmade combat virus that causes death and permanent insanity in those infected, as it overtakes a small Pennsylvania town.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjBkOWE3YjgtNDNlMS00MDZkLWJmMWEtMzZlZGY3OTI0MDExXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "68%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "metascore": "63",
+  "imdbRating": "6.1",
+  "imdbID": "tt0069895",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:57:40.819Z"
+}

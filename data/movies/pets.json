@@ -1,0 +1,27 @@
+{
+  "title": "Pets",
+  "year": "1973",
+  "rated": "R",
+  "released": "01 Feb 1974",
+  "runtime": "103 min",
+  "genre": "Drama",
+  "director": "Raphael Nussbaum",
+  "writer": "David Bowen, Raphael Nussbaum, Richard Reich",
+  "actors": "Ed Bishop, Joan Blackman, Candice Rialson",
+  "plot": "A troubled young woman escapes her abusive brother accepting the kindness of strangers. Exploited, she perseveres thanks to growing street-smarts hoping that her next encounter will be with someone with a pureness of heart equal t...",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTQwZmY4OTUtMDE0NC00NGQ4LThjODYtZDExOGEwMmQwNDY4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0071992",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:57:06.068Z"
+}

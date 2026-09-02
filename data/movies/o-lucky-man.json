@@ -1,0 +1,31 @@
+{
+  "title": "O Lucky Man!",
+  "year": "1973",
+  "rated": "R",
+  "released": "20 Jun 1973",
+  "runtime": "178 min",
+  "genre": "Comedy, Drama, Fantasy",
+  "director": "Lindsay Anderson",
+  "writer": "David Sherwin, Malcolm McDowell",
+  "actors": "Malcolm McDowell, Ralph Richardson, Rachel Roberts",
+  "plot": "An ambitious coffee salesman has a series of improbable and ironic adventures that seem designed to challenge his naive idealism.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Won 2 BAFTA 3 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDkxZDQ4M2MtYTA0OC00YjE1LWEwZTMtNzA3ZGZiZTExNWJhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbID": "tt0070464",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:58:23.031Z"
+}

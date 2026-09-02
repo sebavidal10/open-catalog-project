@@ -1,0 +1,35 @@
+{
+  "title": "Soylent Green",
+  "year": "1973",
+  "rated": "PG",
+  "released": "09 May 1973",
+  "runtime": "97 min",
+  "genre": "Crime, Mystery, Sci-Fi",
+  "director": "Richard Fleischer",
+  "writer": "Stanley R. Greenberg, Harry Harrison",
+  "actors": "Charlton Heston, Edward G. Robinson, Leigh Taylor-Young",
+  "plot": "A nightmarish futuristic fantasy about the controlling power of big corporations and an innocent cop who stumbles on the truth.",
+  "language": "English, Spanish, Hebrew",
+  "country": "United States",
+  "awards": "3 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTE3YjIzZTAtMTdjNC00M2IxLWE5OGItMzEwYTI3Y2FlNjlkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "metascore": "66",
+  "imdbRating": "7.0",
+  "imdbID": "tt0070723",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:32.232Z"
+}

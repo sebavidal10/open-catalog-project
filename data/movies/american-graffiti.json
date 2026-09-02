@@ -1,0 +1,35 @@
+{
+  "title": "American Graffiti",
+  "year": "1973",
+  "rated": "PG",
+  "released": "11 Aug 1973",
+  "runtime": "110 min",
+  "genre": "Comedy, Drama",
+  "director": "George Lucas",
+  "writer": "George Lucas, Gloria Katz, Willard Huyck",
+  "actors": "Richard Dreyfuss, Ron Howard, Paul Le Mat",
+  "plot": "A group of teenagers in California's central valley spend one final night after their 1962 high school graduation cruising the strip with their buddies before they pursue their varying goals.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 5 Oscars. 9 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzc5MjUyMWYtMDkyMi00YTc2LTg3ZDMtMjI3MmU3Nzg2YTExXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "97/100"
+    }
+  ],
+  "metascore": "97",
+  "imdbRating": "7.4",
+  "imdbID": "tt0069704",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:55:59.710Z"
+}

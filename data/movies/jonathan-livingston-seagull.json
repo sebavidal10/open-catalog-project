@@ -1,0 +1,31 @@
+{
+  "title": "Jonathan Livingston Seagull",
+  "year": "1973",
+  "rated": "G",
+  "released": "23 Oct 1973",
+  "runtime": "99 min",
+  "genre": "Drama, Family",
+  "director": "Hall Bartlett",
+  "writer": "Hall Bartlett, Richard D. Bach",
+  "actors": "James Franciscus, Juliet Mills, Philip Ahn",
+  "plot": "A skilled flyer but very rebellious young seagull is kicked out of his clan. However, instead of being sad or lonely, he decides to enjoy and explore his newfound freedom.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 2 Oscars. 2 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDczNTcxNDMtYjYzNy00NGMwLTlmNGItNWI4NzAzNjBlZGU3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "8%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0070248",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:59:06.293Z"
+}

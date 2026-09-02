@@ -1,0 +1,31 @@
+{
+  "title": "Malicious",
+  "year": "1973",
+  "rated": "R",
+  "released": "01 Feb 1974",
+  "runtime": "98 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Salvatore Samperi",
+  "writer": "Salvatore Samperi, Ottavio Jemma, Alessandro Parenzo",
+  "actors": "Laura Antonelli, Turi Ferro, Alessandro Momo",
+  "plot": "A widower and two of his sons become infatuated with their beautiful housekeeper, and all three set out to seduce her using their own unique methods.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "4 wins & 3 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTBmOTgxZTYtZGIwNi00OTllLTlhZTYtOTBjNTVhNDlhZTczXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0070358",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:57:08.539Z"
+}

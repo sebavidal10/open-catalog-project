@@ -1,0 +1,27 @@
+{
+  "title": "Stacey",
+  "year": "1973",
+  "rated": "R",
+  "released": "01 Apr 1973",
+  "runtime": "81 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Andy Sidaris",
+  "writer": "William Edgar, Leon Mirell, Andy Sidaris",
+  "actors": "Anne Randall, Alan Landers, James Westmoreland",
+  "plot": "The sleazy and dangerous adventures of a gorgeous female private detective.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGViYzI2ZTUtN2RhNC00YjRiLTliMWUtMjBmNmExYzRjNzc2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.9",
+  "imdbID": "tt0070727",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:59:31.313Z"
+}

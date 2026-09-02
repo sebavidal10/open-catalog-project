@@ -1,0 +1,35 @@
+{
+  "title": "Wattstax",
+  "year": "1973",
+  "rated": "R",
+  "released": "16 Sep 1973",
+  "runtime": "103 min",
+  "genre": "Documentary, Comedy, Music",
+  "director": "Mel Stuart",
+  "writer": "N/A",
+  "actors": "The Dramatics, The Staple Singers, Kim Weston",
+  "plot": "Documentary covering a Stax Records-sponsored all-day concert at the 1972 Watts Summer Festival with performances by Stax Records artists such as Isaac Hayes, Rufus Thomas, The Staples Singers, and more.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDg1ZWE5NzctN2UzMy00ODNjLWI4ZWItYjM0MTE0NDBiNzUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "metascore": "81",
+  "imdbRating": "7.6",
+  "imdbID": "tt0070902",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:21.044Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Schlock",
+  "year": "1973",
+  "rated": "PG",
+  "released": "10 Mar 1976",
+  "runtime": "80 min",
+  "genre": "Comedy, Horror, Sci-Fi",
+  "director": "John Landis",
+  "writer": "John Landis",
+  "actors": "John Landis, Saul Kahan, Joseph Piantadosi",
+  "plot": "A small town is terrorized by \"The Banana Killer\", which turns out to be the missing link between man and ape.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWY0M2FiZjktMGVlZC00NDQ0LThjNGQtMDEzMDRkNjdiZGY2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.5",
+  "imdbID": "tt0067716",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:59:35.283Z"
+}

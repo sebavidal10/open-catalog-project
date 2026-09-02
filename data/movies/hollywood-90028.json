@@ -1,0 +1,31 @@
+{
+  "title": "Hollywood 90028",
+  "year": "1973",
+  "rated": "R",
+  "released": "26 Aug 1976",
+  "runtime": "76 min",
+  "genre": "Drama, Horror",
+  "director": "Christina Hornisher",
+  "writer": "Christina Hornisher",
+  "actors": "Christopher Augustine, Jeannette Dilger, Dick Glass",
+  "plot": "A struggling photographer takes a job in the porn industry. Unable to handle the degradation, he begins murdering young women to vent his frustrations.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzAxYWM5YTAtZmFjMi00MGE3LThmODUtMTJkNzIxNzY3YzgwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbID": "tt0078728",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:57:47.021Z"
+}

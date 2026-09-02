@@ -1,0 +1,31 @@
+{
+  "title": "Black Caesar",
+  "year": "1973",
+  "rated": "R",
+  "released": "07 Feb 1973",
+  "runtime": "87 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Larry Cohen",
+  "writer": "Larry Cohen",
+  "actors": "Fred Williamson, Gloria Hendry, Art Lund",
+  "plot": "Raised in Harlem, Tommy Gibbs becomes a successful mob boss but he clashes with the rival Mafia and his old enemy, dirty cop McKinney.",
+  "language": "English, Italian",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjExYjFmMmEtZTVjZi00NWEwLTk4YWUtODVkMjE0MjkxZmFlXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0069792",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:58:36.615Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Scarecrow",
+  "year": "1973",
+  "rated": "R",
+  "released": "11 Apr 1973",
+  "runtime": "112 min",
+  "genre": "Drama",
+  "director": "Jerry Schatzberg",
+  "writer": "Garry Michael White",
+  "actors": "Gene Hackman, Al Pacino, Dorothy Tristan",
+  "plot": "An ex-con drifter with a penchant for brawling is amused by a homeless ex-sailor, so they partner up as they head east together.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2Q4ODA2MGUtMDVmNi00YzQzLWIzY2ItOTQ1NzEyMDZkNTQ4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "metascore": "72",
+  "imdbRating": "7.2",
+  "imdbID": "tt0070643",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:30.992Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Jesus Christ Superstar",
+  "year": "1973",
+  "rated": "G",
+  "released": "15 Aug 1973",
+  "runtime": "106 min",
+  "genre": "Drama, History, Musical",
+  "director": "Norman Jewison",
+  "writer": "Melvyn Bragg, Norman Jewison, Tim Rice",
+  "actors": "Ted Neeley, Carl Anderson, Yvonne Elliman",
+  "plot": "Film version of the musical stage play, presenting the last few weeks of Christ's life told in an anachronistic manner.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 3 wins & 13 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGVlYzg0YTgtNjM1NS00M2MzLTgyM2UtNjVjOThlNDllNjhiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "52%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "metascore": "64",
+  "imdbRating": "7.4",
+  "imdbID": "tt0070239",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:37.183Z"
+}

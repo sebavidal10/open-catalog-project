@@ -1,0 +1,31 @@
+{
+  "title": "Ludwig",
+  "year": "1973",
+  "rated": "PG",
+  "released": "08 Mar 1973",
+  "runtime": "238 min",
+  "genre": "Biography, Drama, History",
+  "director": "Luchino Visconti",
+  "writer": "Luchino Visconti, Enrico Medioli, Suso Cecchi D'Amico",
+  "actors": "Helmut Berger, Romy Schneider, Trevor Howard",
+  "plot": "The reign of the tormented Ludwig, king of Bavaria, from 1864 to 1886.",
+  "language": "Italian, German, French",
+  "country": "Italy, France, West Germany, Monaco",
+  "awards": "Nominated for 1 Oscar. 8 wins & 7 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjQ5MTVhZmEtM2ExMy00ZmM3LWFiMGYtYjRhYjgyODVhODliXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0068883",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:57:59.446Z"
+}

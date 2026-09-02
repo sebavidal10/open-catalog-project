@@ -1,0 +1,27 @@
+{
+  "title": "The Boxer",
+  "year": "1972",
+  "rated": "R",
+  "released": "01 May 1975",
+  "runtime": "83 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Francesco Prosperi",
+  "writer": "Lucio Battistrada, Adriano Bolzoni, Armando Crispino",
+  "actors": "Robert Blake, Catherine Spaak, Ernest Borgnine",
+  "plot": "When boxer Teddy Wilcox is framed for murdering his crooked manager Nick, he escapes police custody and goes after the real killer in order to clear his name.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzA1NDEyOTAtYjZjZi00NjgyLTgzZGItOWU5YWNjZDg4Y2VmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0067914",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:55:49.776Z"
+}

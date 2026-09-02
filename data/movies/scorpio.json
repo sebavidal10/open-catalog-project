@@ -1,0 +1,35 @@
+{
+  "title": "Scorpio",
+  "year": "1973",
+  "rated": "PG",
+  "released": "19 Apr 1973",
+  "runtime": "114 min",
+  "genre": "Action, Drama, Thriller",
+  "director": "Michael Winner",
+  "writer": "David W. Rintels, Gerald Wilson",
+  "actors": "Burt Lancaster, Alain Delon, Paul Scofield",
+  "plot": "During the Cold War, the CIA orders free-lance operative Scorpio to assassinate his former CIA mentor Cross and a deadly cat-and-mouse game ensues.",
+  "language": "English, French, German",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWZkZWJkMTUtMjMxOS00Y2Y2LThiZmEtOWY1MDYyODFkMTFkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "59%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "metascore": "57",
+  "imdbRating": "6.4",
+  "imdbID": "tt0070653",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:57:03.594Z"
+}

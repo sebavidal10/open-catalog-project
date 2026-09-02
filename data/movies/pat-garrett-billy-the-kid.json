@@ -1,0 +1,35 @@
+{
+  "title": "Pat Garrett & Billy the Kid",
+  "year": "1973",
+  "rated": "R",
+  "released": "23 May 1973",
+  "runtime": "122 min",
+  "genre": "Biography, Drama, Western",
+  "director": "Sam Peckinpah",
+  "writer": "Rudy Wurlitzer",
+  "actors": "James Coburn, Kris Kristofferson, Richard Jaeckel",
+  "plot": "Pat Garrett is hired as a lawman on behalf of a group of wealthy New Mexico cattle barons to bring down his old friend Billy the Kid.",
+  "language": "English",
+  "country": "United States, Mexico",
+  "awards": "Nominated for 2 BAFTA 4 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTRkZWQyMGEtOGMzZi00MWE0LTgyNGEtM2IyYzMxYzY0MzVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "metascore": "53",
+  "imdbRating": "7.2",
+  "imdbID": "tt0070518",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:43.384Z"
+}

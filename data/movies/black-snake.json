@@ -1,0 +1,27 @@
+{
+  "title": "Black Snake",
+  "year": "1973",
+  "rated": "R",
+  "released": "10 Aug 1973",
+  "runtime": "82 min",
+  "genre": "Thriller",
+  "director": "Russ Meyer",
+  "writer": "Russ Meyer, Leonard Neubauer, Anthony-James Ryan",
+  "actors": "Anouska Hempel, David Warbeck, Percy Herbert",
+  "plot": "Story of a slave revolt on a 19th-century Caribbean island.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjg1YjUwNzktOWFiNS00NDFiLTljZjItMTk0NGQ1YjBiNGVmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.1",
+  "imdbID": "tt0069796",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:58:31.677Z"
+}

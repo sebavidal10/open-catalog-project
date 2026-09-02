@@ -1,0 +1,27 @@
+{
+  "title": "Frankenstein '80",
+  "year": "1972",
+  "rated": "Not Rated",
+  "released": "12 Dec 1972",
+  "runtime": "85 min",
+  "genre": "Horror",
+  "director": "Mario Mancini",
+  "writer": "Ferdinando De Leone, Mario Mancini",
+  "actors": "John Richardson, Gordon Mitchell, Renato Romano",
+  "plot": "A mad scientist creates a monster called \"Mosaico,\" who breaks out of the laboratory to hunt down and kill beautiful women.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOThlYWU4ZjMtNDM0Zi00YTQzLWFhNjEtZDQ4MDhmNjIzMGQwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.2/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "4.2",
+  "imdbID": "tt0071518",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:52:28.317Z"
+}

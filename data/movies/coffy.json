@@ -1,0 +1,35 @@
+{
+  "title": "Coffy",
+  "year": "1973",
+  "rated": "R",
+  "released": "11 May 1973",
+  "runtime": "90 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Jack Hill",
+  "writer": "Jack Hill, Pam Grier",
+  "actors": "Pam Grier, Booker Bradshaw, Robert DoQui",
+  "plot": "A nurse serves inner-city drug dealers with some vigilante justice after her sister becomes their latest victim.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmUzOWM0MjAtODM3Ny00NjIxLWI0MzYtOGRhYTQ0NGM0YzNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "metascore": "60",
+  "imdbRating": "6.8",
+  "imdbID": "tt0069897",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:47.097Z"
+}

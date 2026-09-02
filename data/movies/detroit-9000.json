@@ -1,0 +1,31 @@
+{
+  "title": "Detroit 9000",
+  "year": "1973",
+  "rated": "R",
+  "released": "13 Jun 1975",
+  "runtime": "106 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Arthur Marks",
+  "writer": "Orville H. Hampton",
+  "actors": "Alex Rocco, Hari Rhodes, Vonetta McGee",
+  "plot": "After a fundraiser for a black politician is robbed, Detroit police put two detectives, one white and one black, on the case, who try to work together under boiling political pressure.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDYzOWQzNGEtOWMzOS00MmY3LTgyZjYtMGJkODliOTg5ZWE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "25%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbID": "tt0069966",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:23.532Z"
+}

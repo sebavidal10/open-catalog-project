@@ -1,0 +1,31 @@
+{
+  "title": "Executive Action",
+  "year": "1973",
+  "rated": "PG",
+  "released": "07 Nov 1973",
+  "runtime": "91 min",
+  "genre": "Crime, Drama, History",
+  "director": "David Miller",
+  "writer": "Dalton Trumbo, Donald Freed, Mark Lane",
+  "actors": "Burt Lancaster, Robert Ryan, Will Geer",
+  "plot": "Rogue intelligence agents, right-wing politicians, greedy capitalists, and free-lance assassins plot and carry out the JFK assassination.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDE0OGRmZGYtNGIyMi00Zjk2LWJlZWYtOTBkODVlNjRkMTMzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.7",
+  "imdbID": "tt0070046",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:57:53.244Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Horror High",
+  "year": "1973",
+  "rated": "PG",
+  "released": "01 Mar 1974",
+  "runtime": "85 min",
+  "genre": "Horror",
+  "director": "Larry N. Stouffer",
+  "writer": "J.D. Feigelson",
+  "actors": "Pat Cardi, Austin Stoker, Rosie Holotik",
+  "plot": "A shock-filled tale of a serious and shy but brilliant science student who, when wrongfully forced to consume a new drug he'd created, becomes a modern day Jekyll and Hyde.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzUwZmM2ZDEtYTkwOC00MDEwLWFkNmItZGJiNTA0NzYxNDU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.0/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.0",
+  "imdbID": "tt0072331",
+  "type": "movie",
+  "fetched_at": "2026-09-02T20:01:33.831Z"
+}

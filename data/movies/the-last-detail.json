@@ -1,0 +1,35 @@
+{
+  "title": "The Last Detail",
+  "year": "1973",
+  "rated": "R",
+  "released": "15 Feb 1974",
+  "runtime": "104 min",
+  "genre": "Comedy, Drama",
+  "director": "Hal Ashby",
+  "writer": "Robert Towne, Darryl Ponicsan",
+  "actors": "Jack Nicholson, Randy Quaid, Otis Young",
+  "plot": "Two Navy petty officers are ordered to escort a young enlisted sailor to prison, but decide to treat him to a few entertaining diversions along the way.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 6 wins & 9 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2E4ZGE2NWItYzZkZC00NTFhLTk4N2YtYzQ4Zjc3YzFjMTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "metascore": "86",
+  "imdbRating": "7.5",
+  "imdbID": "tt0070290",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:44.623Z"
+}

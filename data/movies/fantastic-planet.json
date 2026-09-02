@@ -1,0 +1,35 @@
+{
+  "title": "Fantastic Planet",
+  "year": "1973",
+  "rated": "PG",
+  "released": "01 Dec 1973",
+  "runtime": "72 min",
+  "genre": "Animation, Sci-Fi",
+  "director": "René Laloux",
+  "writer": "Stefan Wul, Roland Topor, René Laloux",
+  "actors": "Barry Bostwick, Jennifer Drake, Eric Baugin",
+  "plot": "On a faraway planet where blue giants rule, oppressed humanoids rebel against their machine-like leaders.",
+  "language": "French, Czech",
+  "country": "France, Czechoslovakia",
+  "awards": "1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDRkN2MwZmEtZjEwYS00NGY3LTkyZTItNzYyNWIzNTFlOTRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "metascore": "73",
+  "imdbRating": "7.7",
+  "imdbID": "tt0070544",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:56:40.913Z"
+}

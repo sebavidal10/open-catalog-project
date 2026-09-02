@@ -1,0 +1,35 @@
+{
+  "title": "The Offence",
+  "year": "1973",
+  "rated": "R",
+  "released": "26 Jan 1973",
+  "runtime": "112 min",
+  "genre": "Crime, Drama, Thriller",
+  "director": "Sidney Lumet",
+  "writer": "John Hopkins",
+  "actors": "Sean Connery, Trevor Howard, Vivien Merchant",
+  "plot": "A burnt-out British police detective finally snaps whilst interrogating a suspected child molester.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "Nominated for 1 BAFTA Award1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2E1MzkxNjUtNGQ2YS00YTU0LWI3MDAtOWNkYjYyNWMzYmNhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "metascore": "70",
+  "imdbRating": "6.9",
+  "imdbID": "tt0070468",
+  "type": "movie",
+  "fetched_at": "2026-09-02T19:58:09.380Z"
+}
