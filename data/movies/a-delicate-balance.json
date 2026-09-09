@@ -1,0 +1,31 @@
+{
+  "title": "A Delicate Balance",
+  "year": "1973",
+  "rated": "PG",
+  "released": "01 Apr 1976",
+  "runtime": "133 min",
+  "genre": "Drama",
+  "director": "Tony Richardson",
+  "writer": "Edward Albee, Edward Anhalt",
+  "actors": "Katharine Hepburn, Paul Scofield, Lee Remick",
+  "plot": "A well-to-do Connecticut family is upended when the grown daughter's godparents, seized by a nameless terror, decide to come live with them.",
+  "language": "English",
+  "country": "United Kingdom, Canada, United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTQzMDdmYjUtZjI2MC00ZjgyLTkzNTItMzU0YWQ2ZWM5Njc1XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbID": "tt0069958",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:20:31.986Z"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Kid Blue",
+  "year": "1973",
+  "rated": "PG",
+  "released": "01 May 1973",
+  "runtime": "100 min",
+  "genre": "Comedy, Crime, Western",
+  "director": "James Frawley",
+  "writer": "Bud Shrake",
+  "actors": "Dennis Hopper, Warren Oates, Peter Boyle",
+  "plot": "At the turn of the century, with the Old West fading away, Texas train robber Kid Blue goes straight and takes a factory job but old habits die hard.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE5NjAyNjE0MF5BMl5BanBnXkFtZTgwODQyODk1MDE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0070267",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:19:08.937Z"
+}

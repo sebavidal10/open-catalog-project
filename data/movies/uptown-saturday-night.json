@@ -1,0 +1,31 @@
+{
+  "title": "Uptown Saturday Night",
+  "year": "1974",
+  "rated": "PG",
+  "released": "26 Jul 1974",
+  "runtime": "104 min",
+  "genre": "Action, Comedy, Crime",
+  "director": "Sidney Poitier",
+  "writer": "Richard Wesley",
+  "actors": "Sidney Poitier, Bill Cosby, Harry Belafonte",
+  "plot": "At Madame Zenobia's illegal nightclub, when Steve Jackson and Wardell Franklin get robbed of their wallets containing a winning lottery ticket, they set out to recover it.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGQyNzQyZGEtNTQ1Zi00YmQ0LWI0YjgtZTYwNjU3YThiMzgwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbID": "tt0072351",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:25:57.165Z"
+}

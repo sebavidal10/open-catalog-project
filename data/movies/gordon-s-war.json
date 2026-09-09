@@ -1,0 +1,31 @@
+{
+  "title": "Gordon's War",
+  "year": "1973",
+  "rated": "R",
+  "released": "16 May 1974",
+  "runtime": "90 min",
+  "genre": "Adventure, Crime",
+  "director": "Ossie Davis",
+  "writer": "Howard Friedlander, Ed Spielman",
+  "actors": "Paul Winfield, Carl Lee, David Downing",
+  "plot": "Four Vietnam Vets go to war against the drug dealers and pimps of Harlem.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmU0ZDJiZjgtOThlOS00ZGRjLWJkYTItODBmOTcwOTlmNDY5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbID": "tt0070124",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:19:44.268Z"
+}

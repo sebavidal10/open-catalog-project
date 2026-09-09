@@ -1,0 +1,35 @@
+{
+  "title": "Phase IV",
+  "year": "1974",
+  "rated": "PG",
+  "released": "13 Sep 1974",
+  "runtime": "84 min",
+  "genre": "Horror, Sci-Fi, Thriller",
+  "director": "Saul Bass",
+  "writer": "Mayo Simon",
+  "actors": "Nigel Davenport, Michael Murphy, Lynne Frederick",
+  "plot": "Suddenly, desert ants form a group intelligence and wage war on the humans. It's up to a couple of scientists and a girl to stop them",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDI5ZTExZjgtODY3MS00ZmU1LTlmMGQtOTE5YTkxN2Q4N2E0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "metascore": "49",
+  "imdbRating": "6.4",
+  "imdbID": "tt0070531",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:25:35.607Z"
+}

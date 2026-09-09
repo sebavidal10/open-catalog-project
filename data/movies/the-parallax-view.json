@@ -1,0 +1,35 @@
+{
+  "title": "The Parallax View",
+  "year": "1974",
+  "rated": "R",
+  "released": "19 Jun 1974",
+  "runtime": "102 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "Alan J. Pakula",
+  "writer": "David Giler, Lorenzo Semple Jr., Loren Singer",
+  "actors": "Warren Beatty, Paula Prentiss, William Daniels",
+  "plot": "An ambitious reporter gets in way-over-his-head trouble while investigating a senator's assassination which leads to a vast conspiracy involving a multinational corporation behind every event in the world's headlines.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 3 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTk0ODI4MjctNmY5Mi00ZTFhLTgxMTQtNWIyN2YwODE3ZGYxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "7.1",
+  "imdbID": "tt0071970",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:24:52.921Z"
+}

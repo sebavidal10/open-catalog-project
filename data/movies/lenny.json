@@ -1,0 +1,35 @@
+{
+  "title": "Lenny",
+  "year": "1974",
+  "rated": "R",
+  "released": "07 Feb 1975",
+  "runtime": "111 min",
+  "genre": "Biography, Drama",
+  "director": "Bob Fosse",
+  "writer": "Julian Barry",
+  "actors": "Dustin Hoffman, Valerie Perrine, Jan Miner",
+  "plot": "The story of acerbic 1960s comic Lenny Bruce, whose groundbreaking, no-holds-barred style and social commentary was often deemed by the Establishment as too obscene for the public.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 6 Oscars. 7 wins & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTk4OGY3NGUtODFjZS00YzVlLWE4YzMtOWM2MTY2YWJkNzcyXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "metascore": "61",
+  "imdbRating": "7.5",
+  "imdbID": "tt0071746",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:25:06.571Z"
+}

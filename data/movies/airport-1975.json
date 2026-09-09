@@ -1,0 +1,35 @@
+{
+  "title": "Airport 1975",
+  "year": "1974",
+  "rated": "PG",
+  "released": "18 Oct 1974",
+  "runtime": "107 min",
+  "genre": "Action, Drama, Thriller",
+  "director": "Jack Smight",
+  "writer": "Arthur Hailey, Don Ingalls",
+  "actors": "Charlton Heston, Karen Black, George Kennedy",
+  "plot": "A 747 in flight collides with a small plane, and is rendered pilotless. Somehow the control tower must get a pilot aboard so the jet can land.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODIwZTVkMjItY2Y1MS00ZGUyLWE2M2MtODkxMWM5MGI3ZjFhXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "32%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "metascore": "50",
+  "imdbRating": "5.7",
+  "imdbID": "tt0071110",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:24:56.645Z"
+}

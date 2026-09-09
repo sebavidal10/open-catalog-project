@@ -1,0 +1,35 @@
+{
+  "title": "California Split",
+  "year": "1974",
+  "rated": "R",
+  "released": "01 Aug 1974",
+  "runtime": "108 min",
+  "genre": "Comedy, Drama",
+  "director": "Robert Altman",
+  "writer": "Joseph Walsh",
+  "actors": "George Segal, Elliott Gould, Ann Prentiss",
+  "plot": "When casual gambler Bill Denny befriends professional gambler Charlie Walters, Bill begins to mirror Charlie's life, sinking deeper and deeper into the sleazy world of gambling, where the stakes keep getting bigger.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjJlZTkxMzEtMDE2My00M2ZlLWE0ZmEtOTlhYTEzNWM1ZThkXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "metascore": "85",
+  "imdbRating": "7.1",
+  "imdbID": "tt0071269",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:26:16.994Z"
+}

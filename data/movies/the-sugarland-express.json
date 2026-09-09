@@ -1,0 +1,35 @@
+{
+  "title": "The Sugarland Express",
+  "year": "1974",
+  "rated": "PG",
+  "released": "01 May 2025",
+  "runtime": "110 min",
+  "genre": "Crime, Drama",
+  "director": "Steven Spielberg",
+  "writer": "Hal Barwood, Matthew Robbins, Steven Spielberg",
+  "actors": "Goldie Hawn, Ben Johnson, Michael Sacks",
+  "plot": "A woman attempts to reunite her family by helping her husband escape prison and together kidnapping their son. But things don't go as planned when they are forced to take a police hostage on the road.",
+  "language": "English",
+  "country": "United States",
+  "awards": "2 wins & 6 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWNiZTViMzQtNGI0NC00ODc5LThlMmEtNzE2YWVhZDBhMThiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "metascore": "65",
+  "imdbRating": "6.7",
+  "imdbID": "tt0072226",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:24:16.883Z"
+}

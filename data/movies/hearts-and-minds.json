@@ -1,0 +1,35 @@
+{
+  "title": "Hearts and Minds",
+  "year": "1974",
+  "rated": "R",
+  "released": "17 Nov 1975",
+  "runtime": "112 min",
+  "genre": "Documentary, History, War",
+  "director": "Peter Davis",
+  "writer": "N/A",
+  "actors": "Tin Chan, Chau Diem, Ngo Dinh Diem",
+  "plot": "A startling and courageous landmark documentary that unflinchingly confronted the United States' involvement in Vietnam at the height of the controversy that surrounded it.",
+  "language": "English, French, Vietnamese",
+  "country": "United States",
+  "awards": "Won 1 Oscar. 5 wins & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2Y2NjIwNzctNDQyNy00MjJjLTljZjItNDA0NDI4NDUyZjgxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "metascore": "68",
+  "imdbRating": "8.2",
+  "imdbID": "tt0071604",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:24:23.102Z"
+}

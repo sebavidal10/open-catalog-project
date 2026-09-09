@@ -1,0 +1,31 @@
+{
+  "title": "Truck Turner",
+  "year": "1974",
+  "rated": "R",
+  "released": "17 Feb 1975",
+  "runtime": "91 min",
+  "genre": "Action, Crime, Thriller",
+  "director": "Jonathan Kaplan",
+  "writer": "Oscar Williams, Michael Allin, Leigh Chapman",
+  "actors": "Isaac Hayes, Yaphet Kotto, Alan Weeks",
+  "plot": "While tracking a strong-armed pimp who has skipped bail, a bounty hunter discovers a contract has been put out on him and must go on the run.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDJkOGVjMWEtM2U2Yi00NzFiLTk3ZDctZGY0OTRiZmI2YzQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbID": "tt0072325",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:25:00.364Z"
+}

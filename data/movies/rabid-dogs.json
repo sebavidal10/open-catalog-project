@@ -1,0 +1,31 @@
+{
+  "title": "Rabid Dogs",
+  "year": "1974",
+  "rated": "Not Rated",
+  "released": "25 Feb 1998",
+  "runtime": "96 min",
+  "genre": "Crime, Drama, Horror",
+  "director": "Mario Bava",
+  "writer": "Alessandro Parenzo, Mario Bava, Cesare Frugoni",
+  "actors": "Lea Lander, George Eastman, Riccardo Cucciolla",
+  "plot": "Following a bungled robbery, three violent criminals take a young woman, a middle-aged man, and a child hostage and force them to drive them outside Rome to help them make a clean escape.",
+  "language": "Italian",
+  "country": "Italy",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjBkMjJhNDktZjUyZC00OTg3LWIwYWYtZWRmY2MwNjk1ODc5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbID": "tt0071275",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:26:43.975Z"
+}

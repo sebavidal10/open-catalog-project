@@ -1,0 +1,35 @@
+{
+  "title": "Death Wish",
+  "year": "1974",
+  "rated": "R",
+  "released": "24 Jul 1974",
+  "runtime": "93 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Michael Winner",
+  "writer": "Brian Garfield, Wendell Mayes, Gerald Wilson",
+  "actors": "Charles Bronson, Hope Lange, Vincent Gardenia",
+  "plot": "A New York City architect becomes a one-man vigilante squad after his wife is murdered by street punks. In self-defense, the vengeful man kills muggers on the mean streets after dark.",
+  "language": "English, Italian, German, French",
+  "country": "United States, United Kingdom, Italy",
+  "awards": "1 win & 2 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODYwYzQ4YTAtMzkwZS00MThmLWEyZmYtNDVlYTkyMjc5Mjk3XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "66%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "metascore": "51",
+  "imdbRating": "6.9",
+  "imdbID": "tt0071402",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:24:10.648Z"
+}

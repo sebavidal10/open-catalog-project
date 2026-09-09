@@ -1,0 +1,35 @@
+{
+  "title": "The Terminal Man",
+  "year": "1974",
+  "rated": "PG",
+  "released": "19 Jun 1974",
+  "runtime": "104 min",
+  "genre": "Horror, Sci-Fi, Thriller",
+  "director": "Mike Hodges",
+  "writer": "Michael Crichton, Mike Hodges",
+  "actors": "George Segal, Joan Hackett, Richard Dysart",
+  "plot": "Hoping to cure his blackout seizures which turn him temporarily extremely violent, a computer scientist agrees to an experimental brain computer chip implant surgery.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmMzYTA5ODYtY2UzZi00YzViLTk4YzQtYzRiOGRiNWUwNWQ5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "50%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "41/100"
+    }
+  ],
+  "metascore": "41",
+  "imdbRating": "5.6",
+  "imdbID": "tt0072267",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:26:42.741Z"
+}

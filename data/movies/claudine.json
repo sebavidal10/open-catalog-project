@@ -1,0 +1,31 @@
+{
+  "title": "Claudine",
+  "year": "1974",
+  "rated": "PG",
+  "released": "14 Sep 1974",
+  "runtime": "92 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "John Berry",
+  "writer": "Tina Pine, Lester Pine",
+  "actors": "Diahann Carroll, James Earl Jones, Lawrence Hilton-Jacobs",
+  "plot": "In the 1970s Harlem, garbage collector Roop feels intimidated by the idea of dating Claudine who is a single mother of six on welfare.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 2 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWZjMzFhNjQtOGNhMy00MzQ3LWE2NjktOTRiOGFkZTI2MjA2XkEyXkFqcGc@._V1_QL75_UY562_CR36,0,380,562_.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.3",
+  "imdbID": "tt0071334",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:26:27.131Z"
+}

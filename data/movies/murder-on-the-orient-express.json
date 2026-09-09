@@ -1,0 +1,35 @@
+{
+  "title": "Murder on the Orient Express",
+  "year": "1974",
+  "rated": "PG",
+  "released": "24 Nov 1974",
+  "runtime": "128 min",
+  "genre": "Crime, Drama, Mystery",
+  "director": "Sidney Lumet",
+  "writer": "Agatha Christie, Paul Dehn, Anthony Shaffer",
+  "actors": "Albert Finney, Lauren Bacall, Martin Balsam",
+  "plot": "Returning home from Istanbul on the Orient Express, renowned Belgian detective Hercule Poirot is called upon to solve the murder of an American businessman aboard the train. The suspects are numerous and the clues confusing.",
+  "language": "English, French, German, Turkish, Italian, Swedish, Hungarian",
+  "country": "United Kingdom",
+  "awards": "Won 1 Oscar. 10 wins & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzZmZWMwOWUtM2NkZS00MWM0LTk1YzMtYzI4OGYyMTNlNTMwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "metascore": "62",
+  "imdbRating": "7.2",
+  "imdbID": "tt0071877",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:24:08.169Z"
+}

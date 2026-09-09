@@ -1,0 +1,27 @@
+{
+  "title": "Interval",
+  "year": "1973",
+  "rated": "PG",
+  "released": "15 Jun 1973",
+  "runtime": "84 min",
+  "genre": "Romance, Drama",
+  "director": "Daniel Mann",
+  "writer": "Gavin Lambert",
+  "actors": "Merle Oberon, Robert Wolders, Russ Conway",
+  "plot": "Serena Moore has been everywhere and is trying to put her past behind her. She finds refuge in Mexico where, without intending to, falls in love with a much younger painter Chris.",
+  "language": "English",
+  "country": "Mexico, United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTc5YzA1MzEtNzhjMC00YmViLWIzYzQtODc2YjA0ZGQ4ZTJjXkEyXkFqcGdeQXVyNTUyNzA5ODE@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.3/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.3",
+  "imdbID": "tt0070221",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:20:26.982Z"
+}

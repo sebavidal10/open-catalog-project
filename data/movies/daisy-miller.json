@@ -1,0 +1,35 @@
+{
+  "title": "Daisy Miller",
+  "year": "1974",
+  "rated": "G",
+  "released": "23 Jan 1975",
+  "runtime": "91 min",
+  "genre": "Comedy, Drama, Romance",
+  "director": "Peter Bogdanovich",
+  "writer": "Frederic Raphael, Henry James",
+  "actors": "Cybill Shepherd, Barry Brown, Cloris Leachman",
+  "plot": "In this comedy of manners, Frederick Winterbourne tries to figure out the bright and bubbly Daisy Miller, only to be helped and hindered by false judgments from their fellow friends.",
+  "language": "English, French, Italian",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjI0NTgyNzItNDQxMy00ZDAwLWE2ZTAtMjMyYWE3ZWI2M2Y2XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "48/100"
+    }
+  ],
+  "metascore": "48",
+  "imdbRating": "6.2",
+  "imdbID": "tt0071385",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:27:11.321Z"
+}

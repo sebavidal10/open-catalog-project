@@ -1,0 +1,35 @@
+{
+  "title": "The Texas Chain Saw Massacre",
+  "year": "1974",
+  "rated": "R",
+  "released": "11 Oct 1974",
+  "runtime": "83 min",
+  "genre": "Horror",
+  "director": "Tobe Hooper",
+  "writer": "Kim Henkel, Tobe Hooper",
+  "actors": "Marilyn Burns, Edwin Neal, Allen Danziger",
+  "plot": "Five friends head out to rural Texas to visit the grave of a grandfather. On the way they stumble across what appears to be a deserted house, only to discover something sinister within. Something armed with a chainsaw.",
+  "language": "English",
+  "country": "United States",
+  "awards": "4 wins & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjE1MGJkMjUtY2VkNi00N2U1LWI2NWEtMDExNGYzYjRkZTM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "metascore": "91",
+  "imdbRating": "7.4",
+  "imdbID": "tt0072271",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:24:05.701Z"
+}

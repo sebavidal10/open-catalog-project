@@ -1,0 +1,35 @@
+{
+  "title": "Phantom of the Paradise",
+  "year": "1974",
+  "rated": "PG",
+  "released": "01 Nov 1974",
+  "runtime": "91 min",
+  "genre": "Comedy, Drama, Fantasy",
+  "director": "Brian De Palma",
+  "writer": "Brian De Palma, Louisa Rose",
+  "actors": "Paul Williams, William Finley, Jessica Harper",
+  "plot": "A disfigured composer sells his soul for the woman he loves so that she will perform his music, but an evil record tycoon betrays him and steals his music to open his rock palace, The Paradise.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 3 wins & 5 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmRkNGJjNTAtMmQzNC00ZDc2LWI5MDItYWM1ZDliMTU5YzEzXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "metascore": "67",
+  "imdbRating": "7.3",
+  "imdbID": "tt0071994",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:24:40.490Z"
+}

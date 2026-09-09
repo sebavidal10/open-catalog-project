@@ -1,0 +1,31 @@
+{
+  "title": "Madhouse",
+  "year": "1974",
+  "rated": "PG",
+  "released": "24 May 1974",
+  "runtime": "89 min",
+  "genre": "Crime, Horror, Mystery",
+  "director": "Jim Clark",
+  "writer": "Angus Hall, Ken Levison, Greg Morrison",
+  "actors": "Vincent Price, Peter Cushing, Robert Quarry",
+  "plot": "A horror movie star returns to his famous role after years in a mental institution. But the character seems to be committing murders independent of his will.",
+  "language": "English",
+  "country": "United Kingdom, United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA4ZDk3NzUtNjA3ZS00Y2I5LWI3YWItNGVkZmQzN2EwZDU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0071790",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:26:53.918Z"
+}

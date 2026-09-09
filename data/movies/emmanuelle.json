@@ -1,0 +1,31 @@
+{
+  "title": "Emmanuelle",
+  "year": "1974",
+  "rated": "Unrated",
+  "released": "03 Dec 1974",
+  "runtime": "95 min",
+  "genre": "Drama, Romance",
+  "director": "Just Jaeckin",
+  "writer": "Emmanuelle Arsan, Jean-Louis Richard",
+  "actors": "Sylvia Kristel, Alain Cuny, Marika Green",
+  "plot": "The wife of a French diplomat in Bangkok embarks on a voyage of self-discovery.",
+  "language": "French",
+  "country": "France",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGQ0ODJkYTMtMGI4Yy00YmM3LWFkMGEtOTZmMjk3OTJkOWUyXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "35%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbID": "tt0071464",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:24:51.679Z"
+}

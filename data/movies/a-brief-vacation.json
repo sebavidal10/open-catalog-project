@@ -1,0 +1,31 @@
+{
+  "title": "A Brief Vacation",
+  "year": "1973",
+  "rated": "PG",
+  "released": "09 Feb 1975",
+  "runtime": "112 min",
+  "genre": "Drama, Romance",
+  "director": "Vittorio De Sica",
+  "writer": "Rafael J. Salvia, Rodolfo Sonego, Cesare Zavattini",
+  "actors": "Florinda Bolkan, Renato Salvatori, Daniel Quenaud",
+  "plot": "Clara, diagnosed with tuberculosis, is treated in a sanatorium in the Alps where she can finally take a break from her miserable life.",
+  "language": "Italian",
+  "country": "Italy, Spain",
+  "awards": "5 wins & 1 nomination",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2ZlY2IzZjgtNjZhMC00NTMzLTk2ZmUtZDYxMDdhN2UzNjEyXkEyXkFqcGdeQXVyMzIzNDU1NTY@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.5",
+  "imdbID": "tt0069823",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:21:03.127Z"
+}

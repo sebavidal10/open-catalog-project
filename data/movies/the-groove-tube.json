@@ -1,0 +1,31 @@
+{
+  "title": "The Groove Tube",
+  "year": "1974",
+  "rated": "R",
+  "released": "05 Jun 1975",
+  "runtime": "75 min",
+  "genre": "Comedy",
+  "director": "Ken Shapiro",
+  "writer": "Ken Shapiro, Lane Sarasohn, Rich Allen",
+  "actors": "Ken Shapiro, Richard Belzer, Chevy Chase",
+  "plot": "A collection of skits that make fun of 1970s television, featuring early appearances by Chevy Chase and Richard Belzer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDFhMTdkODctZTdiZi00NGFkLTk4YjEtYzVmZDY3ZWRiYWYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "14%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "5.7",
+  "imdbID": "tt0071583",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:26:47.684Z"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Conversation",
+  "year": "1974",
+  "rated": "PG",
+  "released": "12 Apr 1974",
+  "runtime": "113 min",
+  "genre": "Drama, Mystery, Thriller",
+  "director": "Francis Ford Coppola",
+  "writer": "Francis Ford Coppola",
+  "actors": "Gene Hackman, John Cazale, Allen Garfield",
+  "plot": "A paranoid, secretive surveillance expert has a crisis of conscience when he suspects that the couple he is spying on will be murdered.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 3 Oscars. 14 wins & 17 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTY4OTVmMzgtNTBkYi00NjI1LWIzOWItNGIwNTM1ZTEzMzc5XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "metascore": "88",
+  "imdbRating": "7.7",
+  "imdbID": "tt0071360",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:24:18.132Z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Maurie",
+  "year": "1973",
+  "rated": "G",
+  "released": "31 Jul 1973",
+  "runtime": "113 min",
+  "genre": "Biography, Drama, Sport",
+  "director": "Daniel Mann",
+  "writer": "Douglas Morrow",
+  "actors": "Bernie Casey, Bo Svenson, Janet MacLachlan",
+  "plot": "Movie about the relationship between NBA players Maurice Stokes and Jack Twyman.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 win & 3 nominations",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA1NzNkYTctZDM5Mi00M2NiLWE2NmUtNjBjNzM1MDdiMjE4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "7.9",
+  "imdbID": "tt0070377",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:23:05.735Z"
+}

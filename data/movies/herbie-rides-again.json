@@ -1,0 +1,35 @@
+{
+  "title": "Herbie Rides Again",
+  "year": "1974",
+  "rated": "G",
+  "released": "06 Jun 1974",
+  "runtime": "88 min",
+  "genre": "Comedy, Family, Fantasy",
+  "director": "Robert Stevenson",
+  "writer": "Bill Walsh, Gordon Buford",
+  "actors": "Helen Hayes, Ken Berry, Stefanie Powers",
+  "plot": "The living Volkswagen Beetle helps an old lady protect her home from a corrupt developer.",
+  "language": "English",
+  "country": "United States",
+  "awards": "1 nomination total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjkwZjI3YTEtYmU1ZS00N2U2LWEzNmEtZDBmZTdiYjFhNWVmXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "metascore": "49",
+  "imdbRating": "5.7",
+  "imdbID": "tt0071607",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:24:04.465Z"
+}

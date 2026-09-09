@@ -1,0 +1,35 @@
+{
+  "title": "Benji",
+  "year": "1974",
+  "rated": "G",
+  "released": "31 May 1974",
+  "runtime": "86 min",
+  "genre": "Adventure, Family, Romance",
+  "director": "Joe Camp",
+  "writer": "Joe Camp",
+  "actors": "Peter Breck, Deborah Walley, Patsy Garrett",
+  "plot": "A stray dog saves two kidnapped children.",
+  "language": "English",
+  "country": "United States",
+  "awards": "Nominated for 1 Oscar. 1 win & 2 nominations total",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjNkNzJlMTAtYmU3OS00NTZmLWI5Y2MtMWQxOTczNDk2NzMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "35/100"
+    }
+  ],
+  "metascore": "35",
+  "imdbRating": "6.1",
+  "imdbID": "tt0071206",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:24:03.229Z"
+}

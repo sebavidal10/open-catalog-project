@@ -1,0 +1,31 @@
+{
+  "title": "McQ",
+  "year": "1974",
+  "rated": "PG",
+  "released": "06 Feb 1974",
+  "runtime": "111 min",
+  "genre": "Action, Crime, Drama",
+  "director": "John Sturges",
+  "writer": "Lawrence Roman",
+  "actors": "John Wayne, Eddie Albert, Diana Muldaur",
+  "plot": "Seattle cop is caught up in a corrupt police force that he is trying to make right. McQ is a cop with a mission.",
+  "language": "English",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTg3Zjk5MTgtZmY4ZS00ZTkzLWIyYzMtOWFjN2YyMjY4NjI4XkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    }
+  ],
+  "metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbID": "tt0071824",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:24:35.503Z"
+}

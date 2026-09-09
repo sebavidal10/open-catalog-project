@@ -1,0 +1,35 @@
+{
+  "title": "Mr. Majestyk",
+  "year": "1974",
+  "rated": "PG",
+  "released": "17 Jul 1974",
+  "runtime": "103 min",
+  "genre": "Action, Crime, Drama",
+  "director": "Richard Fleischer",
+  "writer": "Elmore Leonard",
+  "actors": "Charles Bronson, Linda Cristal, Al Lettieri",
+  "plot": "A melon farmer battles organized crime and a hit man who wants to kill him.",
+  "language": "English, Spanish",
+  "country": "United States",
+  "awards": "N/A",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTlhNzFkZDAtYWUxNy00YWExLTk3OWEtNjUxZGE2ZGY3ZjRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "metascore": "55",
+  "imdbRating": "6.7",
+  "imdbID": "tt0071866",
+  "type": "movie",
+  "fetched_at": "2026-09-09T02:25:21.971Z"
+}
