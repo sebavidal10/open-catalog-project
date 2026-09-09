@@ -4,9 +4,13 @@ export function cleanMovieData(data) {
   }
 
   // Slugify title for filename
-  const slug = data.Title.toLowerCase()
+  let slug = data.Title.toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/(^-|-$)/g, '');
+
+  if (!slug) {
+    slug = (data.imdbID || data.id || 'movie').toLowerCase();
+  }
 
   const cleanedData = {
     title: data.Title,

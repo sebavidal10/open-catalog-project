@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { fetchMetronData } from '../src/utils/api.js';
 import { cleanComicData } from '../src/models/comic.js';
+import { saveFile } from '../src/utils/file-system.js';
 import { fileURLToPath } from 'url';
 
 const isMainModule = process.argv[1] === fileURLToPath(import.meta.url);
@@ -51,10 +52,10 @@ function updateReviewedAtForRange(searchTerm, year, month) {
         const publishDate = comic.publish_date;
         if (publishDate && publishDate.startsWith(targetDate.substring(0, 7))) {
           comic.reviewed_at = targetDate + '-01';
-          fs.writeFileSync(filePath, JSON.stringify(comic, null, 2));
+          saveFile(DATA_DIR, file, comic, { minify: true });
         }
       }
-    } catch (e) {
+    } catch {
       // Skip invalid files
     }
   }
@@ -92,7 +93,7 @@ function getLastProcessedForCharacter(searchTerm) {
           }
         }
       }
-    } catch (e) {
+    } catch {
       // Skip invalid files
     }
   }
@@ -127,7 +128,9 @@ async function fetchForCharacter(
     try {
       const responseCheck = await fetchMetronData(endpointCheck);
       hasAnyInYear = (responseCheck.results || []).length > 0;
-    } catch (e) {}
+    } catch {
+      // Ignorar error de comprobación de año
+    }
 
     if (!hasAnyInYear) {
       console.log(`  ${currentYear}: no comics, skipping year`);
@@ -167,19 +170,20 @@ async function fetchForCharacter(
           try {
             const fullData = await fetchMetronData(`/issue/${apiId}/`);
             const identifier = fullData.upc || fullData.isbn || `metron-${apiId}`;
-            const filePath = path.join(DATA_DIR, `${identifier}.json`);
+            const fileName = `${identifier}.json`;
+            const filePath = path.join(DATA_DIR, fileName);
 
             if (fs.existsSync(filePath)) {
               continue;
             }
 
-const cleanedData = cleanComicData(fullData);
-          
-          if (!cleanedData) {
-            continue;
-          }
+            const cleanedData = cleanComicData(fullData);
 
-          fs.writeFileSync(filePath, JSON.stringify(cleanedData, null, 2));
+            if (!cleanedData) {
+              continue;
+            }
+
+            saveFile(DATA_DIR, fileName, cleanedData, { minify: true });
             saved++;
             totalSaved++;
 
@@ -225,11 +229,8 @@ async function main() {
   const characters = JSON.parse(fs.readFileSync(CHARACTERS_FILE, 'utf-8'));
   console.log(`Loaded ${characters.length} characters\n`);
 
-  const endYear = MAX_YEAR;
-  const endMonth = LAST_MONTH - 1;
-
-  const totalEndMonth = endMonth === 0 ? 11 : endMonth;
-  const totalEndYear = endMonth === 0 ? endYear - 1 : endYear;
+  const endYear = LAST_MONTH === 1 ? MAX_YEAR - 1 : MAX_YEAR;
+  const endMonth = LAST_MONTH === 1 ? 12 : LAST_MONTH - 1;
 
   for (const char of characters) {
     console.log(`\n${'='.repeat(30)}`);

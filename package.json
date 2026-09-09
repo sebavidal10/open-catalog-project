@@ -5,6 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "start": "node server.js",
+    "optimize": "node scripts/optimize-catalog.js",
+    "index": "node scripts/generate-index.js",
     "lint": "eslint .",
     "format": "prettier --write .",
     "test": "vitest run"
@@ -12,14 +15,19 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  },
+  "overrides": {
+    "qs": "^6.15.4"
+  },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "eslint": "^10.0.0",
     "eslint-config-prettier": "^10.1.8",
     "globals": "^17.3.0",
     "prettier": "^3.8.1",
-    "vitest": "^4.0.18",
-    "express": "^4.21.0",
-    "cors": "^2.8.5"
+    "vitest": "^4.0.18"
   }
 }

@@ -40,18 +40,26 @@ describe('Catalog Models', () => {
   });
 
   it('should format a comic correctly', () => {
-    const isbn = '9781302915544';
     const rawData = {
-      [`ISBN:${isbn}`]: {
-        title: 'Spider-Man',
-        authors: [{ name: 'Stan Lee' }],
-        publish_date: '2019',
-      },
+      id: 12345,
+      series: { name: 'Spider-Man' },
+      number: 1,
+      isbn: '9781302915544',
+      upc: '759606091554',
+      credits: [{ creator: 'Stan Lee' }],
+      store_date: '2019-01-01',
+      publisher: { name: 'Marvel' },
+      page_count: 32,
+      image: 'http://example.com/cover.jpg',
+      genres: [{ name: 'Superhero' }],
     };
 
-    const cleaned = cleanComicData(isbn, rawData);
+    const cleaned = cleanComicData(rawData);
 
-    expect(cleaned.isbn).toBe(isbn);
-    expect(cleaned.title).toBe('Spider-Man');
+    expect(cleaned.isbn).toBe('9781302915544');
+    expect(cleaned.title).toBe('Spider-Man #1');
+    expect(cleaned.authors).toContain('Stan Lee');
+    expect(cleaned.url).toBe('https://metron.cloud/issue/12345/');
   });
 });
+

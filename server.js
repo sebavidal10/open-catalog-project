@@ -2,8 +2,8 @@ import express from 'express';
 import cors from 'cors';
 import fs from 'fs';
 import path from 'path';
-import { exec } from 'child_process';
 import { fileURLToPath } from 'url';
+import { saveFile } from './src/utils/file-system.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -24,6 +24,45 @@ const authMiddleware = (req, res, next) => {
   next();
 };
 
+/**
+ * Actualiza el índice de la categoría de forma incremental y eficiente.
+ */
+function updateCategoryIndex(subDir, item, slug) {
+  const categoryDir = path.join(__dirname, 'data', subDir);
+  const indexPath = path.join(categoryDir, 'index.json');
+
+  try {
+    let index = [];
+    if (fs.existsSync(indexPath)) {
+      index = JSON.parse(fs.readFileSync(indexPath, 'utf-8'));
+    }
+
+    const identifier =
+      item.isbn || item.upc || item.id || item.imdbID || slug;
+    const existingIdx = index.findIndex(
+      (entry) => entry.slug === slug || entry.identifier === identifier,
+    );
+
+    const entry = {
+      title: item.title,
+      slug,
+      identifier,
+    };
+
+    if (existingIdx >= 0) {
+      index[existingIdx] = entry;
+    } else {
+      index.push(entry);
+    }
+
+    // Guardar index minificado
+    fs.writeFileSync(indexPath, JSON.stringify(index));
+    console.log(`Incremental index updated for ${subDir} (${index.length} items)`);
+  } catch (err) {
+    console.error(`Error updating incremental index for ${subDir}:`, err.message);
+  }
+}
+
 app.post('/items', authMiddleware, (req, res) => {
   const item = req.body;
   const type = req.query.type; // BOOK, COMIC, MOVIE
@@ -32,8 +71,8 @@ app.post('/items', authMiddleware, (req, res) => {
     return res.status(400).json({ error: 'Missing item or type' });
   }
 
-  let subDir = '';
-  let filename = '';
+  let subDir;
+  let filename;
 
   if (type === 'BOOK' || type === 'COMIC') {
     subDir = type === 'BOOK' ? 'books' : 'comics';
@@ -46,38 +85,32 @@ app.post('/items', authMiddleware, (req, res) => {
     return res.status(400).json({ error: 'Invalid type' });
   }
 
-  const filePath = path.join(__dirname, 'data', subDir, `${filename}.json`);
-
   // Agregar timestamp de captura si no existe
   if (!item.fetched_at) {
     item.fetched_at = new Date().toISOString();
   }
 
-  fs.writeFile(filePath, JSON.stringify(item, null, 2), (err) => {
-    if (err) {
-      console.error('Error writing file:', err);
-      return res.status(500).json({ error: 'Failed to save item' });
-    }
-
-    console.log(`Item saved: ${filePath}`);
-
-    // Regenerar índices automáticamente
-    exec('node scripts/generate-index.js', (error, stdout, stderr) => {
-      if (error) {
-        console.error(`Error regenerating index: ${error.message}`);
-        return res.status(500).json({
-          error: 'Item saved but index failed',
-          detail: error.message,
-        });
-      }
-      console.log('Index regenerated successfully');
-      res
-        .status(201)
-        .json({ message: 'Item saved and index updated', path: filePath });
+  try {
+    const targetDir = path.join(__dirname, 'data', subDir);
+    const savedPath = saveFile(targetDir, `${filename}.json`, item, {
+      minify: true,
+      stripNA: false,
     });
-  });
+
+    // Actualización de índice incremental automática y no bloqueante
+    updateCategoryIndex(subDir, item, filename);
+
+    return res.status(201).json({
+      message: 'Item saved and index updated',
+      path: savedPath,
+    });
+  } catch (err) {
+    console.error('Error saving item:', err);
+    return res.status(500).json({ error: 'Failed to save item', detail: err.message });
+  }
 });
 
 app.listen(port, () => {
   console.log(`Open Catalog Receiver running at http://localhost:${port}`);
 });
+

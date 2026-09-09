@@ -32,6 +32,7 @@ async function generateIndex() {
               content.isbn ||
               content.upc ||
               content.id ||
+              content.imdbID ||
               file.replace('.json', ''),
           };
         } catch (err) {
@@ -42,8 +43,8 @@ async function generateIndex() {
       .filter((item) => item !== null);
 
     const indexPath = path.join(categoryDir, 'index.json');
-    fs.writeFileSync(indexPath, JSON.stringify(index, null, 2));
-    console.log(`Created ${indexPath} with ${index.length} items.`);
+    fs.writeFileSync(indexPath, JSON.stringify(index));
+    console.log(`Created ${indexPath} with ${index.length} items (minified).`);
   }
 }
 

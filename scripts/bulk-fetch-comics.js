@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { fetchMetronData } from '../src/utils/api.js';
 import { cleanComicData } from '../src/models/comic.js';
+import { saveFile } from '../src/utils/file-system.js';
 import { fileURLToPath } from 'url';
 
 // ESM Check for direct execution
@@ -59,23 +60,10 @@ async function fetchRecentComics() {
     params.set('cover_month', month.toString());
   }
 
-  const queryString = params.toString();
-  const endpoint = queryString ? `/issue/?${queryString}` : '/issue/';
+  const endpoint = `/issue/?${params.toString()}`;
 
-  if (searchName && year && month) {
-    console.log(
-      `Fetching comics for series: '${searchName}' (${month}/${year}) from Metron API...`,
-    );
-  } else if (searchName && year) {
-    console.log(
-      `Fetching comics for series: '${searchName}' (cover year: ${year}) from Metron API...`,
-    );
-  } else if (searchName) {
-    console.log(`Fetching comics for series: '${searchName}' from Metron API...`);
-  } else if (year && month) {
-    console.log(`Fetching comics from ${month}/${year} from Metron API...`);
-  } else if (year) {
-    console.log(`Fetching comics from cover year: ${year} from Metron API...`);
+  if (searchName) {
+    console.log(`Searching comics for "${searchName}"...`);
   } else {
     console.log('Fetching latest comics from Metron API...');
   }
@@ -106,7 +94,7 @@ async function fetchRecentComics() {
 
         const cleanedData = cleanComicData(fullData);
 
-        fs.writeFileSync(filePath, JSON.stringify(cleanedData, null, 2));
+        saveFile(DATA_DIR, fileName, cleanedData, { minify: true });
         console.log(`Saved: ${cleanedData.title} to ${fileName}`);
 
         // Rate limiting: 2 second delay (previously 1)
